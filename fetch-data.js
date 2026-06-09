@@ -147,6 +147,39 @@ function extractGameInfo(emerald, catalogProduct) {
     };
 }
 
+async function fetchDisplayCatalogBatch(productIds) {
+    const ids = productIds.join(",");
+    const url = `https://displaycatalog.mp.microsoft.com/v7.0/products?bigIds=${ids}&market=${MARKET}&languages=${LANGUAGE}&MS-CV=gp-catalog-${Date.now()}`;
+    const data = await fetchJson(url);
+    const videos = new Map();
+    for (const p of data.Products || []) {
+        const props = p.LocalizedProperties?.[0];
+        const cmsVideos = props?.CMSVideos || [];
+        if (cmsVideos.length > 0) {
+            const best = cmsVideos.find(v => v.VideoPurpose === "trailer") || cmsVideos[0];
+            if (best?.HLS) {
+                videos.set(p.ProductId, { url: best.HLS, caption: best.Caption || "" });
+            }
+        }
+    }
+    return videos;
+}
+
+async function fetchAllDisplayCatalogVideos(productIds) {
+    const allVideos = new Map();
+    for (let i = 0; i < productIds.length; i += 20) {
+        const batch = productIds.slice(i, i + 20);
+        const batchVideos = await fetchDisplayCatalogBatch(batch);
+        for (const [id, video] of batchVideos) {
+            allVideos.set(id, video);
+        }
+        if (i + 20 < productIds.length) {
+            await new Promise(r => setTimeout(r, 200));
+        }
+    }
+    return allVideos;
+}
+
 async function main() {
     console.log("Fetching Game Pass data via Emerald API...");
 
@@ -176,6 +209,20 @@ async function main() {
 
     console.log(`Extracted ${gameMap.size} games`);
 
+    console.log("Fetching videos from Display Catalog API...");
+    const gameIds = Array.from(gameMap.keys());
+    const catalogVideos = await fetchAllDisplayCatalogVideos(gameIds);
+    let videosAdded = 0;
+    for (const [id, video] of catalogVideos) {
+        const game = gameMap.get(id);
+        if (game && !game.videoUrl) {
+            game.videoUrl = video.url;
+            game.videoCaption = video.caption;
+            videosAdded++;
+        }
+    }
+    console.log(`Added ${videosAdded} videos from Display Catalog`);
+
     const games = Array.from(gameMap.values()).sort((a, b) => a.title.localeCompare(b.title, "es"));
 
     const outputDir = path.join(__dirname, "data");
@@ -191,6 +238,7 @@ async function main() {
         counts: {
             essential: games.filter(g => g.tiers.includes("essential")).length,
             premium: games.filter(g => g.tiers.includes("premium")).length,
+            pc: games.filter(g => g.tiers.includes("pc")).length,
             ultimate: games.filter(g => g.tiers.includes("ultimate")).length,
             total: games.length
         },
