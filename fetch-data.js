@@ -114,15 +114,31 @@ function extractGameInfo(emerald, catalogProduct) {
     else if (!hasConsole && hasPC) detectedPlatform = "pc";
 
     let pegiRating = "";
+    let pegiDescription = "";
+    let interactiveDescriptions = [];
     const contentRating = emerald.contentRating || {};
     if (contentRating.boardName === "PEGI") {
         pegiRating = contentRating.rating || "";
     }
+    pegiDescription = contentRating.description || "";
+    interactiveDescriptions = contentRating.interactiveDescriptions || [];
+
+    const caps = emerald.capabilities || {};
+    const capabilities = Object.values(caps).filter(v => typeof v === "string");
+
+    const sysReqs = (emerald.systemRequirements || []).map(r => ({
+        title: r.title || "",
+        minimum: r.minimum || "",
+        recommended: r.recommended || ""
+    }));
+
+    const maxInstallSize = emerald.maxInstallSize || 0;
 
     return {
         id: emerald.productId,
         title: emerald.title || "Sin título",
         description: emerald.description || emerald.shortDescription || "",
+        shortDescription: emerald.shortDescription || "",
         developer: emerald.developerName || "",
         publisher: emerald.publisherName || "",
         imageUrl: poster,
@@ -143,6 +159,12 @@ function extractGameInfo(emerald, catalogProduct) {
         ratingCount: emerald.ratingCount || 0,
         ageRating: contentRating.ratingAge || 0,
         pegiRating,
+        pegiDescription,
+        interactiveDescriptions,
+        capabilities,
+        systemRequirements: sysReqs,
+        maxInstallSize,
+        hasAddOns: emerald.hasAddOns || false,
         storeUrl: `https://www.xbox.com/es-es/games/store/${(emerald.title || "").toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "")}/${emerald.productId}`
     };
 }

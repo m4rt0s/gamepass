@@ -245,11 +245,12 @@ function openModal(gameId) {
     if (game.tiers.includes("essential")) tierTags.push('<span class="game-tag essential">Essential</span>');
     if (game.tiers.includes("premium")) tierTags.push('<span class="game-tag premium">Premium</span>');
     if (game.tiers.includes("ultimate")) tierTags.push('<span class="game-tag ultimate">Ultimate</span>');
+    if (game.tiers.includes("pc")) tierTags.push('<span class="game-tag pc">PC Game Pass</span>');
 
-    let priceDetail = "Gratis con suscripción";
+    let priceDetail = "Gratis con Game Pass";
     if (game.price > 0) {
         if (game.hasDiscount) {
-            priceDetail = `<span class="modal-detail-value sale">${game.price}€ <small style="text-decoration:line-through;color:#888">${game.msrp}€</small> (-${game.discountPercent}%)</span>`;
+            priceDetail = `<span class="modal-detail-value sale">${game.price}€ <small style="text-decoration:line-through;color:#555">${game.msrp}€</small> (-${game.discountPercent}%)</span>`;
         } else {
             priceDetail = `<span class="modal-detail-value">${game.price}€</span>`;
         }
@@ -257,23 +258,56 @@ function openModal(gameId) {
 
     let ratingDetail = "Sin valoraciones";
     if (game.rating > 0) {
-        ratingDetail = `<span class="modal-detail-value rating">⭐ ${game.rating} <small style="color:#888">(${game.ratingCount} votos)</small></span>`;
+        ratingDetail = `<span class="modal-detail-value rating">⭐ ${game.rating} <small style="color:#555">(${game.ratingCount} votos)</small></span>`;
     }
 
+    const pegiDetail = game.pegiDescription || (game.ageRating ? `${game.ageRating}+` : "N/D");
+
+    const capIcons = {
+        "4K Ultra HD": "📺",
+        "Optimizado para Xbox Series X|S": "⚡",
+        "Xbox Play Anywhere": "🔄"
+    };
+
+    const capabilitiesHtml = game.capabilities && game.capabilities.length > 0
+        ? `<div class="modal-section-title">Características</div>
+           <div class="modal-capabilities">
+               ${game.capabilities.map(c => `<div class="capability-badge"><span class="icon">${capIcons[c] || "✨"}</span>${c}</div>`).join("")}
+           </div>`
+        : "";
+
+    const installSizeHtml = game.maxInstallSize > 0
+        ? `<div class="install-size"><span class="icon">💾</span>Tamaño de instalación: ${(game.maxInstallSize / 1073741824).toFixed(1)} GB</div>`
+        : "";
+
+    const iapHtml = game.interactiveDescriptions && game.interactiveDescriptions.length > 0
+        ? `<div class="iap-warning"><span class="icon">⚠️</span>${game.interactiveDescriptions.join(", ")}</div>`
+        : "";
+
+    const sysReqHtml = game.systemRequirements && game.systemRequirements.length > 0
+        ? `<div class="modal-section-title">Requisitos del sistema (PC)</div>
+           <div class="sysreq-grid">
+               ${game.systemRequirements.map(r => `
+                   <div class="sysreq-item">
+                       <div class="sysreq-title">${r.title}</div>
+                       ${r.minimum ? `<div class="sysreq-min"><span class="sysreq-label">Mínimo:</span> ${r.minimum}</div>` : ""}
+                       ${r.recommended ? `<div class="sysreq-rec"><span class="sysreq-label">Recomendado:</span> ${r.recommended}</div>` : ""}
+                   </div>
+               `).join("")}
+           </div>`
+        : "";
+
     const screenshotsHtml = game.screenshots.length > 0
-        ? `<div class="modal-screenshots">
-            <h3>Screenshots</h3>
-            <div class="modal-screenshots-grid">
-                ${game.screenshots.map(s => `<img src="${s}" alt="Screenshot" loading="lazy">`).join("")}
-            </div>
+        ? `<div class="modal-section-title">Screenshots</div>
+           <div class="modal-screenshots-grid">
+               ${game.screenshots.map(s => `<img src="${s}" alt="Screenshot" loading="lazy">`).join("")}
            </div>`
         : "";
 
     const videoHtml = game.videoUrl
         ? `<div class="modal-video-wrapper">
             <video class="modal-video" id="modal-video" controls preload="none" poster="${fullImg}"></video>
-           </div>
-           ${game.videoCaption ? `<p style="color:#888;font-size:0.85rem;padding:0.5rem 1rem">${game.videoCaption}</p>` : ""}`
+           </div>`
         : "";
 
     modalContent.innerHTML = `
@@ -285,6 +319,7 @@ function openModal(gameId) {
                 ${tierTags.join("")}
                 ${game.categories.map(c => `<span class="game-tag">${c}</span>`).join("")}
             </div>
+            ${capabilitiesHtml}
             ${game.description ? `<div class="modal-description">${game.description}</div>` : ""}
             <div class="modal-details">
                 <div class="modal-detail">
@@ -308,14 +343,17 @@ function openModal(gameId) {
                     <div class="modal-detail-value">${game.releaseDate || "N/D"}</div>
                 </div>
                 <div class="modal-detail">
-                    <div class="modal-detail-label">Edad</div>
-                    <div class="modal-detail-value">${game.ageRating ? game.ageRating + "+" : "N/D"} ${game.pegiRating ? `(${game.pegiRating})` : ""}</div>
+                    <div class="modal-detail-label">Clasificación</div>
+                    <div class="modal-detail-value">${pegiDetail}</div>
                 </div>
                 <div class="modal-detail">
                     <div class="modal-detail-label">Plataforma</div>
                     <div class="modal-detail-value">${game.platform === "console" ? "🎮 Consola" : game.platform === "pc" ? "🖥️ PC" : "🎮🖥️ Consola + PC"}</div>
                 </div>
             </div>
+            ${installSizeHtml}
+            ${iapHtml}
+            ${sysReqHtml}
             ${screenshotsHtml}
             <div class="modal-actions">
                 <a class="btn-store" href="${game.storeUrl}" target="_blank" rel="noopener">Ver en Microsoft Store</a>
