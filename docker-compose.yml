@@ -1,0 +1,9 @@
+services:
+  gamepass:
+    build: .
+    ports:
+      - "3000:3000"
+    environment:
+      - PORT=3000
+      - CACHE_TTL=3600000
+    restart: unless-stopped

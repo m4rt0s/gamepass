@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Xbox Game Pass - Juegos por Tier</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="app-container">
+        <header class="header">
+            <h1>🎮 Xbox Game Pass</h1>
+            <p class="subtitle">Juegos por suscripción</p>
+        </header>
+
+        <div class="controls">
+            <div class="filter-group">
+                <label for="tier-filter">Tier:</label>
+                <select id="tier-filter">
+                    <option value="all">Todos</option>
+                    <option value="core">Game Pass Core (Consola)</option>
+                    <option value="premium">Game Pass Premium (PC)</option>
+                    <option value="ultimate">Game Pass Ultimate</option>
+                </select>
+            </div>
+
+            <div class="filter-group">
+                <label for="search-filter">Buscar:</label>
+                <input type="text" id="search-filter" placeholder="Filtrar por nombre...">
+            </div>
+
+            <div class="filter-group">
+                <label for="platform-filter">Plataforma:</label>
+                <select id="platform-filter">
+                    <option value="all">Todas</option>
+                    <option value="console">Consola</option>
+                    <option value="pc">PC</option>
+                </select>
+            </div>
+
+            <button id="refresh-btn" class="btn-refresh">🔄 Actualizar</button>
+        </div>
+
+        <div class="stats" id="stats">
+            <span class="stat"><strong id="total-games">0</strong> juegos</span>
+            <span class="stat"><strong id="core-count">0</strong> Core</span>
+            <span class="stat"><strong id="premium-count">0</strong> Premium</span>
+            <span class="stat"><strong id="ultimate-count">0</strong> Ultimate</span>
+        </div>
+
+        <div class="loading" id="loading">
+            <div class="spinner"></div>
+            <p>Cargando juegos...</p>
+        </div>
+
+        <div class="error" id="error" style="display: none;">
+            <p id="error-message"></p>
+            <button onclick="loadGames()" class="btn-retry">Reintentar</button>
+        </div>
+
+        <main class="games-grid" id="games-grid"></main>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>
