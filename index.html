@@ -9,43 +9,73 @@
 <body>
     <div class="app-container">
         <header class="header">
-            <h1>🎮 Xbox Game Pass</h1>
-            <p class="subtitle">Juegos por suscripción</p>
+            <div class="header-content">
+                <h1>🎮 Xbox Game Pass</h1>
+                <p class="subtitle">Cargando...</p>
+            </div>
         </header>
 
+        <div class="platform-filter-bar" id="platform-filter-bar">
+            <button class="platform-btn active" data-platform="all">Todas</button>
+            <button class="platform-btn" data-platform="console">🎮 Consola</button>
+            <button class="platform-btn" data-platform="pc">🖥️ PC</button>
+            <button class="platform-btn" data-platform="both">🎮🖥️ Ambas</button>
+        </div>
+
+        <div class="tier-quick-filter" id="tier-quick-filter">
+            <button class="tier-btn active" data-tier="all">Todos</button>
+            <button class="tier-btn" data-tier="essential">
+                <span class="tier-dot essential"></span> Essential
+            </button>
+            <button class="tier-btn" data-tier="premium">
+                <span class="tier-dot premium"></span> Premium
+            </button>
+            <button class="tier-btn" data-tier="ultimate">
+                <span class="tier-dot ultimate"></span> Ultimate
+            </button>
+            <button class="tier-btn" data-tier="pc">
+                <span class="tier-dot pc"></span> PC Game Pass
+            </button>
+        </div>
+
         <div class="controls">
-            <div class="filter-group">
-                <label for="tier-filter">Tier:</label>
-                <select id="tier-filter">
-                    <option value="all">Todos</option>
-                    <option value="core">Game Pass Core (Consola)</option>
-                    <option value="premium">Game Pass Premium (PC)</option>
-                    <option value="ultimate">Game Pass Ultimate</option>
+            <div class="search-box">
+                <span class="search-icon">🔍</span>
+                <input type="text" id="search-filter" placeholder="Buscar por nombre, desarrollador o categoría...">
+            </div>
+
+            <div class="filter-row">
+                <select id="sort-filter">
+                    <option value="title-asc">A → Z</option>
+                    <option value="title-desc">Z → A</option>
+                    <option value="rating-desc">Mejor valorados</option>
+                    <option value="rating-desc-count">Más votados</option>
+                    <option value="release-desc">Más recientes</option>
+                    <option value="release-asc">Más antiguos</option>
+                    <option value="price-asc">Precio: menor a mayor</option>
+                    <option value="price-desc">Precio: mayor a menor</option>
                 </select>
-            </div>
 
-            <div class="filter-group">
-                <label for="search-filter">Buscar:</label>
-                <input type="text" id="search-filter" placeholder="Filtrar por nombre...">
-            </div>
-
-            <div class="filter-group">
-                <label for="platform-filter">Plataforma:</label>
-                <select id="platform-filter">
-                    <option value="all">Todas</option>
-                    <option value="console">Consola</option>
-                    <option value="pc">PC</option>
+                <select id="category-filter">
+                    <option value="all">Todas las categorías</option>
                 </select>
-            </div>
 
-            <button id="refresh-btn" class="btn-refresh">🔄 Actualizar</button>
+                <label class="checkbox-label">
+                    <input type="checkbox" id="discount-filter"> Con descuento
+                </label>
+                <label class="checkbox-label">
+                    <input type="checkbox" id="exclusive-filter"> Solo exclusivos del tier
+                </label>
+            </div>
         </div>
 
         <div class="stats" id="stats">
-            <span class="stat"><strong id="total-games">0</strong> juegos</span>
-            <span class="stat"><strong id="core-count">0</strong> Core</span>
-            <span class="stat"><strong id="premium-count">0</strong> Premium</span>
-            <span class="stat"><strong id="ultimate-count">0</strong> Ultimate</span>
+            <span class="stat"><strong id="total-games">0</strong> total</span>
+            <span class="stat"><strong id="essential-count">0</strong> essential</span>
+            <span class="stat"><strong id="premium-count">0</strong> premium</span>
+            <span class="stat"><strong id="ultimate-count">0</strong> ultimate</span>
+            <span class="stat"><strong id="pc-count">0</strong> pc game pass</span>
+            <span class="stat"><strong id="discount-count">0</strong> ofertas</span>
         </div>
 
         <div class="loading" id="loading">
@@ -58,7 +88,16 @@
             <button onclick="loadGames()" class="btn-retry">Reintentar</button>
         </div>
 
+        <div class="results-info" id="results-info"></div>
+
         <main class="games-grid" id="games-grid"></main>
+    </div>
+
+    <div class="modal-overlay" id="modal-overlay">
+        <div class="modal" id="modal">
+            <button class="modal-close" id="modal-close">✕</button>
+            <div class="modal-content" id="modal-content"></div>
+        </div>
     </div>
 
     <script src="app.js"></script>

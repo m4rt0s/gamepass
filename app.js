@@ -2,29 +2,62 @@ let allGames = [];
 let filteredGames = [];
 let gameData = null;
 
-const tierFilter = document.getElementById("tier-filter");
 const searchFilter = document.getElementById("search-filter");
-const platformFilter = document.getElementById("platform-filter");
-const refreshBtn = document.getElementById("refresh-btn");
+const sortFilter = document.getElementById("sort-filter");
+const categoryFilter = document.getElementById("category-filter");
+const discountFilter = document.getElementById("discount-filter");
+const exclusiveFilter = document.getElementById("exclusive-filter");
+const tierQuickFilter = document.getElementById("tier-quick-filter");
+const platformFilterBar = document.getElementById("platform-filter-bar");
 const gamesGrid = document.getElementById("games-grid");
 const loading = document.getElementById("loading");
 const errorDiv = document.getElementById("error");
 const errorMessage = document.getElementById("error-message");
-const totalGames = document.getElementById("total-games");
-const coreCount = document.getElementById("core-count");
-const premiumCount = document.getElementById("premium-count");
-const ultimateCount = document.getElementById("ultimate-count");
+const resultsInfo = document.getElementById("results-info");
+const modalOverlay = document.getElementById("modal-overlay");
+const modalContent = document.getElementById("modal-content");
+const modalClose = document.getElementById("modal-close");
 
-tierFilter.addEventListener("change", applyFilters);
+let currentTier = "all";
+let currentPlatform = "all";
+
 searchFilter.addEventListener("input", applyFilters);
-platformFilter.addEventListener("change", applyFilters);
-refreshBtn.addEventListener("click", loadGames);
+sortFilter.addEventListener("change", applyFilters);
+categoryFilter.addEventListener("change", applyFilters);
+discountFilter.addEventListener("change", applyFilters);
+exclusiveFilter.addEventListener("change", applyFilters);
+
+tierQuickFilter.addEventListener("click", (e) => {
+    const btn = e.target.closest(".tier-btn");
+    if (!btn) return;
+    tierQuickFilter.querySelectorAll(".tier-btn").forEach(b => b.classList.remove("active"));
+    btn.classList.add("active");
+    currentTier = btn.dataset.tier;
+    applyFilters();
+});
+
+platformFilterBar.addEventListener("click", (e) => {
+    const btn = e.target.closest(".platform-btn");
+    if (!btn) return;
+    platformFilterBar.querySelectorAll(".platform-btn").forEach(b => b.classList.remove("active"));
+    btn.classList.add("active");
+    currentPlatform = btn.dataset.platform;
+    updateStats();
+    applyFilters();
+});
+
+modalClose.addEventListener("click", closeModal);
+modalOverlay.addEventListener("click", (e) => {
+    if (e.target === modalOverlay) closeModal();
+});
+document.addEventListener("keydown", (e) => {
+    if (e.key === "Escape") closeModal();
+});
 
 async function loadGames() {
     loading.style.display = "flex";
     errorDiv.style.display = "none";
     gamesGrid.innerHTML = "";
-    refreshBtn.disabled = true;
 
     try {
         const res = await fetch("data/games.json");
@@ -35,42 +68,75 @@ async function loadGames() {
         filteredGames = [...allGames];
 
         const ts = new Date(gameData.updatedAt).toLocaleString("es-ES");
-        document.querySelector(".subtitle").textContent = `Actualizado: ${ts}`;
+        document.querySelector(".subtitle").textContent = `${gameData.totalGames} juegos · ${ts}`;
 
+        populateCategories();
         updateStats();
         applyFilters();
     } catch (err) {
         console.error(err);
         errorDiv.style.display = "block";
-        errorMessage.textContent = `Error al cargar los juegos: ${err.message}`;
+        errorMessage.textContent = `Error al cargar: ${err.message}`;
     } finally {
         loading.style.display = "none";
-        refreshBtn.disabled = false;
     }
 }
 
+function populateCategories() {
+    const cats = gameData.categories || [];
+    categoryFilter.innerHTML = '<option value="all">Todas las categorías</option>';
+    cats.forEach(cat => {
+        categoryFilter.innerHTML += `<option value="${cat}">${cat}</option>`;
+    });
+}
+
 function updateStats() {
-    totalGames.textContent = gameData.totalGames;
-    coreCount.textContent = gameData.counts.core;
-    premiumCount.textContent = gameData.counts.premium;
-    ultimateCount.textContent = gameData.counts.ultimate;
+    const platformGames = allGames.filter(game => {
+        if (currentPlatform !== "all") {
+            if (currentPlatform === "console" && game.platform !== "console" && game.platform !== "both") return false;
+            if (currentPlatform === "pc" && game.platform !== "pc" && game.platform !== "both") return false;
+            if (currentPlatform === "both" && game.platform !== "both") return false;
+        }
+        return true;
+    });
+
+    document.getElementById("total-games").textContent = platformGames.length;
+    document.getElementById("essential-count").textContent = platformGames.filter(g => g.tiers.includes("essential")).length;
+    document.getElementById("premium-count").textContent = platformGames.filter(g => g.tiers.includes("premium")).length;
+    document.getElementById("ultimate-count").textContent = platformGames.filter(g => g.tiers.includes("ultimate")).length;
+    document.getElementById("pc-count").textContent = platformGames.filter(g => g.tiers.includes("pc")).length;
+    document.getElementById("discount-count").textContent = platformGames.filter(g => g.hasDiscount).length;
 }
 
 function applyFilters() {
-    const tier = tierFilter.value;
     const search = searchFilter.value.toLowerCase().trim();
-    const platform = platformFilter.value;
+    const sort = sortFilter.value;
+    const category = categoryFilter.value;
+    const onlyDiscount = discountFilter.checked;
+    const onlyExclusive = exclusiveFilter.checked;
 
     filteredGames = allGames.filter(game => {
-        if (tier === "core" && !game.tiers.includes("core")) return false;
-        if (tier === "premium" && !game.tiers.includes("premium")) return false;
-        if (tier === "ultimate" && !game.tiers.includes("ultimate")) return false;
-        if (tier === "eaPlay" && !game.tiers.includes("eaPlay")) return false;
+        if (currentTier !== "all" && !game.tiers.includes(currentTier)) return false;
 
-        if (platform !== "all") {
-            if (platform === "console" && !game.tiers.includes("core")) return false;
-            if (platform === "pc" && !game.tiers.includes("premium")) return false;
+        if (onlyExclusive && currentTier !== "all") {
+            if (currentTier === "essential") {
+                if (game.tiers.includes("premium") || game.tiers.includes("ultimate")) return false;
+            } else if (currentTier === "premium") {
+                if (game.tiers.includes("essential")) return false;
+            } else if (currentTier === "ultimate") {
+                if (game.tiers.includes("essential") || game.tiers.includes("premium")) return false;
+            }
         }
+
+        if (category !== "all" && !game.categories.includes(category)) return false;
+
+        if (currentPlatform !== "all") {
+            if (currentPlatform === "console" && game.platform !== "console" && game.platform !== "both") return false;
+            if (currentPlatform === "pc" && game.platform !== "pc" && game.platform !== "both") return false;
+            if (currentPlatform === "both" && game.platform !== "both") return false;
+        }
+
+        if (onlyDiscount && !game.hasDiscount) return false;
 
         if (search) {
             const matchTitle = game.title.toLowerCase().includes(search);
@@ -83,45 +149,185 @@ function applyFilters() {
         return true;
     });
 
-    filteredGames.sort((a, b) => a.title.localeCompare(b.title, "es"));
+    const [field, dir] = sort.split("-");
+    filteredGames.sort((a, b) => {
+        let va, vb;
+        switch (field) {
+            case "title":
+                va = a.title.toLowerCase();
+                vb = b.title.toLowerCase();
+                return dir === "asc" ? va.localeCompare(vb, "es") : vb.localeCompare(va, "es");
+            case "rating":
+                va = a.rating || 0;
+                vb = b.rating || 0;
+                if (sort === "rating-desc-count") {
+                    va = a.ratingCount || 0;
+                    vb = b.ratingCount || 0;
+                }
+                return vb - va;
+            case "release":
+                va = a.releaseDate || "0000";
+                vb = b.releaseDate || "0000";
+                return dir === "desc" ? vb.localeCompare(va) : va.localeCompare(vb);
+            case "price":
+                va = a.price || 0;
+                vb = b.price || 0;
+                return dir === "asc" ? va - vb : vb - va;
+            default:
+                return 0;
+        }
+    });
+
+    resultsInfo.textContent = `${filteredGames.length} de ${allGames.length} juegos`;
     renderGames();
 }
 
 function renderGames() {
     if (filteredGames.length === 0) {
-        gamesGrid.innerHTML = '<div class="loading"><p>No se encontraron juegos con los filtros seleccionados.</p></div>';
+        gamesGrid.innerHTML = '<div class="loading"><p>No se encontraron juegos.</p></div>';
         return;
     }
 
-    gamesGrid.innerHTML = filteredGames.map(game => `
-        <div class="game-card">
-            <img src="${game.imageUrl || 'data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="300" height="180" fill="%23333"><rect width="300" height="180"/><text x="150" y="90" text-anchor="middle" fill="%23666" font-size="14">Sin imagen</text></svg>'}"
-                 alt="${game.title}"
-                 loading="lazy"
-                 onerror="this.src='data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 width=%22300%22 height=%22180%22 fill=%22%23333%22><rect width=%22300%22 height=%22180%22/><text x=%22150%22 y=%2290%22 text-anchor=%22middle%22 fill=%22%23666%22 font-size=%2214%22>Sin imagen</text></svg>'">
+    gamesGrid.innerHTML = filteredGames.map(game => {
+        const img = game.imageUrl
+            ? (game.imageUrl.startsWith("//") ? "https:" + game.imageUrl : game.imageUrl)
+            : "";
+
+        const tierTags = [];
+        if (game.tiers.includes("essential")) tierTags.push('<span class="game-tag essential">Essential</span>');
+        if (game.tiers.includes("premium")) tierTags.push('<span class="game-tag premium">Premium</span>');
+        if (game.tiers.includes("ultimate")) tierTags.push('<span class="game-tag ultimate">Ultimate</span>');
+        if (game.hasDiscount) tierTags.push(`<span class="game-tag discount">-${game.discountPercent}%</span>`);
+
+        let priceHtml = "";
+        if (game.price > 0) {
+            if (game.hasDiscount) {
+                priceHtml = `<span class="game-price on-sale"><span class="original">${game.msrp}€</span>${game.price}€</span>`;
+            } else {
+                priceHtml = `<span class="game-price">${game.price}€</span>`;
+            }
+        }
+
+        const ratingHtml = game.rating > 0
+            ? `<span class="game-rating">⭐ ${game.rating}</span>`
+            : "";
+
+        return `
+        <div class="game-card" onclick="openModal('${game.id}')">
+            ${img
+                ? `<img src="${img}" alt="${game.title}" loading="lazy" onerror="this.style.display='none'">`
+                : `<div class="game-img-placeholder">🎮</div>`
+            }
             <div class="game-info">
                 <div class="game-title">${game.title}</div>
-                <div class="game-description">${game.description || "Sin descripción"}</div>
-                <div class="game-tags">
-                    ${game.tiers.includes("core") ? `<span class="game-tag core" onclick="filterByTier('core')">Core</span>` : ''}
-                    ${game.tiers.includes("premium") ? `<span class="game-tag premium" onclick="filterByTier('premium')">Premium</span>` : ''}
-                    ${game.tiers.includes("ultimate") ? `<span class="game-tag ultimate" onclick="filterByTier('ultimate')">Ultimate</span>` : ''}
-                    ${game.tiers.includes("eaPlay") ? `<span class="game-tag eaplay" onclick="filterByTier('eaPlay')">EA Play</span>` : ''}
-                    ${game.developer ? `<span class="game-tag">${game.developer}</span>` : ''}
-                </div>
+                <div class="game-tags">${tierTags.join("")}</div>
                 <div class="game-meta">
-                    <span>${game.releaseDate || "N/D"}</span>
-                    <span>${game.categories.slice(0, 2).join(", ") || ""}</span>
+                    ${ratingHtml}
+                    ${priceHtml}
                 </div>
             </div>
-        </div>
-    `).join("");
+        </div>`;
+    }).join("");
 }
 
-function filterByTier(tier) {
-    tierFilter.value = tier;
-    applyFilters();
-    window.scrollTo({ top: 0, behavior: "smooth" });
+function openModal(gameId) {
+    const game = allGames.find(g => g.id === gameId);
+    if (!game) return;
+
+    const img = game.heroImage || game.imageUrl || "";
+    const fullImg = img ? (img.startsWith("//") ? "https:" + img : img) : "";
+
+    const tierTags = [];
+    if (game.tiers.includes("essential")) tierTags.push('<span class="game-tag essential">Essential</span>');
+    if (game.tiers.includes("premium")) tierTags.push('<span class="game-tag premium">Premium</span>');
+    if (game.tiers.includes("ultimate")) tierTags.push('<span class="game-tag ultimate">Ultimate</span>');
+
+    let priceDetail = "Gratis con suscripción";
+    if (game.price > 0) {
+        if (game.hasDiscount) {
+            priceDetail = `<span class="modal-detail-value sale">${game.price}€ <small style="text-decoration:line-through;color:#888">${game.msrp}€</small> (-${game.discountPercent}%)</span>`;
+        } else {
+            priceDetail = `<span class="modal-detail-value">${game.price}€</span>`;
+        }
+    }
+
+    let ratingDetail = "Sin valoraciones";
+    if (game.rating > 0) {
+        ratingDetail = `<span class="modal-detail-value rating">⭐ ${game.rating} <small style="color:#888">(${game.ratingCount} votos)</small></span>`;
+    }
+
+    const screenshotsHtml = game.screenshots.length > 0
+        ? `<div class="modal-screenshots">
+            <h3>Screenshots</h3>
+            <div class="modal-screenshots-grid">
+                ${game.screenshots.map(s => `<img src="${s}" alt="Screenshot" loading="lazy">`).join("")}
+            </div>
+           </div>`
+        : "";
+
+    const videoHtml = game.videoUrl
+        ? `<video class="modal-video" controls preload="none" poster="${fullImg}">
+            <source src="${game.videoUrl}" type="application/dash+xml">
+           </video>
+           ${game.videoCaption ? `<p style="color:#888;font-size:0.85rem;padding:0.5rem 1rem">${game.videoCaption}</p>` : ""}`
+        : "";
+
+    modalContent.innerHTML = `
+        ${fullImg && !game.videoUrl ? `<img class="modal-hero" src="${fullImg}" alt="${game.title}">` : ""}
+        ${videoHtml}
+        <div class="modal-body">
+            <div class="modal-title">${game.title}</div>
+            <div class="modal-tags">
+                ${tierTags.join("")}
+                ${game.categories.map(c => `<span class="game-tag">${c}</span>`).join("")}
+            </div>
+            ${game.description ? `<div class="modal-description">${game.description}</div>` : ""}
+            <div class="modal-details">
+                <div class="modal-detail">
+                    <div class="modal-detail-label">Precio</div>
+                    ${priceDetail}
+                </div>
+                <div class="modal-detail">
+                    <div class="modal-detail-label">Valoración</div>
+                    ${ratingDetail}
+                </div>
+                <div class="modal-detail">
+                    <div class="modal-detail-label">Desarrollador</div>
+                    <div class="modal-detail-value">${game.developer || "N/D"}</div>
+                </div>
+                <div class="modal-detail">
+                    <div class="modal-detail-label">Editorial</div>
+                    <div class="modal-detail-value">${game.publisher || "N/D"}</div>
+                </div>
+                <div class="modal-detail">
+                    <div class="modal-detail-label">Lanzamiento</div>
+                    <div class="modal-detail-value">${game.releaseDate || "N/D"}</div>
+                </div>
+                <div class="modal-detail">
+                    <div class="modal-detail-label">Edad</div>
+                    <div class="modal-detail-value">${game.ageRating ? game.ageRating + "+" : "N/D"} ${game.pegiRating ? `(${game.pegiRating})` : ""}</div>
+                </div>
+                <div class="modal-detail">
+                    <div class="modal-detail-label">Plataforma</div>
+                    <div class="modal-detail-value">${game.platform === "console" ? "🎮 Consola" : game.platform === "pc" ? "🖥️ PC" : "🎮🖥️ Consola + PC"}</div>
+                </div>
+            </div>
+            ${screenshotsHtml}
+            <div class="modal-actions">
+                <a class="btn-store" href="${game.storeUrl}" target="_blank" rel="noopener">Ver en Microsoft Store</a>
+            </div>
+        </div>
+    `;
+
+    modalOverlay.classList.add("active");
+    document.body.style.overflow = "hidden";
+}
+
+function closeModal() {
+    modalOverlay.classList.remove("active");
+    document.body.style.overflow = "";
+    const video = modalContent.querySelector("video");
+    if (video) video.pause();
 }
 
 loadGames();
