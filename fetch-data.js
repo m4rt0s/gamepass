@@ -74,7 +74,7 @@ function extractGameInfo(emerald, catalogProduct) {
     const images = emerald.images || {};
     const poster = images.poster?.url || "";
     const hero = images.superHeroArt?.url || "";
-    const screenshots = (images.screenshots || []).map(s => s.url);
+    const screenshots = [...new Set((images.screenshots || []).map(s => s.url))];
 
     const videos = emerald.videos || emerald.cmsVideos || [];
     let videoUrl = "";

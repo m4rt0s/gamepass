@@ -17,6 +17,9 @@ const resultsInfo = document.getElementById("results-info");
 const modalOverlay = document.getElementById("modal-overlay");
 const modalContent = document.getElementById("modal-content");
 const modalClose = document.getElementById("modal-close");
+const lightboxOverlay = document.getElementById("lightbox-overlay");
+const lightboxImg = document.getElementById("lightbox-img");
+const lightboxClose = document.getElementById("lightbox-close");
 
 let currentTier = "all";
 let currentPlatform = "all";
@@ -197,6 +200,7 @@ function renderGames() {
         if (game.tiers.includes("essential")) tierTags.push('<span class="game-tag essential">Essential</span>');
         if (game.tiers.includes("premium")) tierTags.push('<span class="game-tag premium">Premium</span>');
         if (game.tiers.includes("ultimate")) tierTags.push('<span class="game-tag ultimate">Ultimate</span>');
+        if (game.tiers.includes("pc")) tierTags.push('<span class="game-tag pc">PC Game Pass</span>');
         if (game.hasDiscount) tierTags.push(`<span class="game-tag discount">-${game.discountPercent}%</span>`);
 
         let priceHtml = "";
@@ -329,5 +333,31 @@ function closeModal() {
     const video = modalContent.querySelector("video");
     if (video) video.pause();
 }
+
+function openLightbox(src) {
+    lightboxImg.src = src;
+    lightboxOverlay.classList.add("active");
+}
+
+function closeLightbox() {
+    lightboxOverlay.classList.remove("active");
+    lightboxImg.src = "";
+}
+
+lightboxClose.addEventListener("click", closeLightbox);
+lightboxOverlay.addEventListener("click", (e) => {
+    if (e.target === lightboxOverlay) closeLightbox();
+});
+document.addEventListener("keydown", (e) => {
+    if (e.key === "Escape") {
+        if (lightboxOverlay.classList.contains("active")) closeLightbox();
+    }
+});
+
+document.addEventListener("click", (e) => {
+    if (e.target.matches(".modal-screenshots-grid img")) {
+        openLightbox(e.target.src);
+    }
+});
 
 loadGames();
