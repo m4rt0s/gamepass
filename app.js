@@ -1,9 +1,6 @@
-const PROXY = "";
-const MARKET = "ES";
-const LANGUAGE = "es-es";
-
 let allGames = [];
 let filteredGames = [];
+let gameData = null;
 
 const tierFilter = document.getElementById("tier-filter");
 const searchFilter = document.getElementById("search-filter");
@@ -23,71 +20,6 @@ searchFilter.addEventListener("input", applyFilters);
 platformFilter.addEventListener("change", applyFilters);
 refreshBtn.addEventListener("click", loadGames);
 
-async function fetchGameIds(tier) {
-    const url = `${PROXY}/api/catalog?tier=${tier}&language=${LANGUAGE}&market=${MARKET}`;
-    const res = await fetch(url);
-    if (!res.ok) throw new Error(`Error fetching ${tier} list: ${res.status}`);
-    const data = await res.json();
-    return data.filter(e => e.id).map(e => e.id);
-}
-
-async function fetchGameDetails(ids) {
-    if (!ids.length) return [];
-    const chunks = [];
-    for (let i = 0; i < ids.length; i += 20) {
-        chunks.push(ids.slice(i, i + 20));
-    }
-    const allProducts = [];
-    for (const chunk of chunks) {
-        const url = `${PROXY}/api/products?ids=${chunk.join(",")}&market=${MARKET}&language=${LANGUAGE}`;
-        const res = await fetch(url);
-        if (!res.ok) continue;
-        const data = await res.json();
-        if (data.Products) allProducts.push(...data.Products);
-    }
-    return allProducts;
-}
-
-function extractGameInfo(product, tier, platform) {
-    const props = product.LocalizedProperties?.[0] || {};
-    const marketProps = product.MarketProperties?.[0] || {};
-    const images = props.Images || [];
-
-    let imageUrl = "";
-    for (const img of images) {
-        if (img.ImagePurpose === "Poster" || img.ImagePurpose === "BoxArt") {
-            imageUrl = img.Uri?.startsWith("//") ? "https:" + img.Uri : img.Uri;
-            break;
-        }
-    }
-    if (!imageUrl) {
-        for (const img of images) {
-            if (img.ImagePurpose === "Screenshot" || img.ImagePurpose === "Hero") {
-                imageUrl = img.Uri?.startsWith("//") ? "https:" + img.Uri : img.Uri;
-                break;
-            }
-        }
-    }
-
-    const categories = product.Properties?.Categories || [];
-    const mainCategory = product.Properties?.Category || "";
-    const allCategories = [...new Set([mainCategory, ...categories])].filter(Boolean);
-
-    return {
-        id: product.ProductId,
-        title: props.ProductTitle || "Sin título",
-        description: props.ShortDescription || props.ProductDescription || "",
-        developer: props.DeveloperName || "",
-        publisher: props.PublisherName || "",
-        imageUrl,
-        releaseDate: marketProps.OriginalReleaseDate?.split("T")[0] || "",
-        categories: allCategories,
-        tier,
-        platform,
-        storeUrl: `https://www.xbox.com/es-es/games/store/${product.ProductId}`
-    };
-}
-
 async function loadGames() {
     loading.style.display = "flex";
     errorDiv.style.display = "none";
@@ -95,58 +27,15 @@ async function loadGames() {
     refreshBtn.disabled = true;
 
     try {
-        const [coreIds, premiumIds, eaPlayIds] = await Promise.all([
-            fetchGameIds("core"),
-            fetchGameIds("premium"),
-            fetchGameIds("eaPlay")
-        ]);
+        const res = await fetch("data/games.json");
+        if (!res.ok) throw new Error(`HTTP ${res.status}`);
+        gameData = await res.json();
 
-        console.log(`Core: ${coreIds.length}, Premium: ${premiumIds.length}, EA Play: ${eaPlayIds.length}`);
-
-        const [coreProducts, premiumProducts, eaPlayProducts] = await Promise.all([
-            fetchGameDetails(coreIds),
-            fetchGameDetails(premiumIds),
-            fetchGameDetails(eaPlayIds)
-        ]);
-
-        const gameMap = new Map();
-
-        for (const p of coreProducts) {
-            const g = extractGameInfo(p, "core", "console");
-            g.tiers = ["core"];
-            gameMap.set(g.id, g);
-        }
-
-        for (const p of premiumProducts) {
-            const g = extractGameInfo(p, "premium", "pc");
-            if (gameMap.has(g.id)) {
-                gameMap.get(g.id).tiers.push("premium");
-            } else {
-                g.tiers = ["premium"];
-                gameMap.set(g.id, g);
-            }
-        }
-
-        for (const p of eaPlayProducts) {
-            const g = extractGameInfo(p, "eaPlay", "all");
-            if (gameMap.has(g.id)) {
-                gameMap.get(g.id).tiers.push("eaPlay");
-            } else {
-                g.tiers = ["eaPlay"];
-                gameMap.set(g.id, g);
-            }
-        }
-
-        for (const game of gameMap.values()) {
-            const unique = [...new Set(game.tiers)];
-            game.tiers = unique;
-            if (game.tiers.includes("core") || game.tiers.includes("premium")) {
-                if (!game.tiers.includes("ultimate")) game.tiers.push("ultimate");
-            }
-        }
-
-        allGames = Array.from(gameMap.values());
+        allGames = gameData.games;
         filteredGames = [...allGames];
+
+        const ts = new Date(gameData.updatedAt).toLocaleString("es-ES");
+        document.querySelector(".subtitle").textContent = `Actualizado: ${ts}`;
 
         updateStats();
         applyFilters();
@@ -161,10 +50,10 @@ async function loadGames() {
 }
 
 function updateStats() {
-    totalGames.textContent = allGames.length;
-    coreCount.textContent = allGames.filter(g => g.tiers?.includes("core")).length;
-    premiumCount.textContent = allGames.filter(g => g.tiers?.includes("premium")).length;
-    ultimateCount.textContent = allGames.filter(g => g.tiers?.includes("ultimate")).length;
+    totalGames.textContent = gameData.totalGames;
+    coreCount.textContent = gameData.counts.core;
+    premiumCount.textContent = gameData.counts.premium;
+    ultimateCount.textContent = gameData.counts.ultimate;
 }
 
 function applyFilters() {
@@ -173,13 +62,14 @@ function applyFilters() {
     const platform = platformFilter.value;
 
     filteredGames = allGames.filter(game => {
-        if (tier === "core" && !game.tiers?.includes("core")) return false;
-        if (tier === "premium" && !game.tiers?.includes("premium")) return false;
-        if (tier === "ultimate" && !game.tiers?.includes("ultimate")) return false;
+        if (tier === "core" && !game.tiers.includes("core")) return false;
+        if (tier === "premium" && !game.tiers.includes("premium")) return false;
+        if (tier === "ultimate" && !game.tiers.includes("ultimate")) return false;
+        if (tier === "eaPlay" && !game.tiers.includes("eaPlay")) return false;
 
-        if (platform !== "all" && game.platform !== "all" && game.platform !== platform) {
-            if (platform === "console" && !game.tiers?.includes("core")) return false;
-            if (platform === "pc" && !game.tiers?.includes("premium")) return false;
+        if (platform !== "all") {
+            if (platform === "console" && !game.tiers.includes("core")) return false;
+            if (platform === "pc" && !game.tiers.includes("premium")) return false;
         }
 
         if (search) {
