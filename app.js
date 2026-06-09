@@ -270,9 +270,9 @@ function openModal(gameId) {
         : "";
 
     const videoHtml = game.videoUrl
-        ? `<video class="modal-video" controls preload="none" poster="${fullImg}">
-            <source src="${game.videoUrl}" type="application/dash+xml">
-           </video>
+        ? `<div class="modal-video-wrapper">
+            <video class="modal-video" id="modal-video" controls preload="none" poster="${fullImg}"></video>
+           </div>
            ${game.videoCaption ? `<p style="color:#888;font-size:0.85rem;padding:0.5rem 1rem">${game.videoCaption}</p>` : ""}`
         : "";
 
@@ -325,6 +325,18 @@ function openModal(gameId) {
 
     modalOverlay.classList.add("active");
     document.body.style.overflow = "hidden";
+
+    if (game.videoUrl) {
+        const videoEl = document.getElementById("modal-video");
+        if (videoEl && typeof Hls !== "undefined" && Hls.isSupported()) {
+            const hls = new Hls();
+            hls.loadSource(game.videoUrl);
+            hls.attachMedia(videoEl);
+            hls.on(Hls.Events.MANIFEST_PARSED, () => {});
+        } else if (videoEl) {
+            videoEl.src = game.videoUrl;
+        }
+    }
 }
 
 function closeModal() {
