@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-06-11T12:03:19.838Z",
+  "updatedAt": "2026-06-12T11:34:09.747Z",
   "market": "ES",
   "language": "es-ES",
-  "totalGames": 835,
+  "totalGames": 839,
   "counts": {
-    "essential": 128,
-    "premium": 588,
-    "pc": 515,
-    "ultimate": 742,
-    "total": 835
+    "essential": 129,
+    "premium": 589,
+    "pc": 519,
+    "ultimate": 746,
+    "total": 839
   },
   "categories": [
     "Acción y aventura",
@@ -129,22 +129,22 @@
     },
     {
       "id": "9P8LR42PTRGJ",
-      "title": "33 Immortals (Versión preliminar del juego)",
-      "description": "33 Immortals® es un roguelike de acción cooperativo para 33 jugadores. Juega como un alma condenada y rebélate ante el juicio final de Dios. Llega y asalta, une fuerzas contra las hordas de monstruos, derrota a jefes colosales y enfréntate a la ira de Dios en una batalla por la vida eterna.\n\nÚnete a la rebelión\nTu vida mortal se ha considerado pecaminosa, así que el destino de tu alma es sufrir un castigo eterno. ¡Sin embargo, se está organizando una revuelta entre los condenados! Lucha como uno de los renegados en la rebelión inmortal contra el juicio final de Dios y lucha por tu vida eterna.\n\nLlega y asalta\nDa comienzo a tu rebelión: participa en épicas batallas cooperativas con emparejamiento instantáneo. Lucha en una versión depurada de la experiencia de asalto de un MMO.\n\nJuego cooperativo para 33 jugadores\nLa unión hace a la fuerza: optimiza tus habilidades y tácticas para reforzar tu equipo de 33 jugadores e inclina la balanza a vuestro favor mediante poderosos movimientos cooperativos. Mantén la ventaja numérica como puedas, porque solo el grupo de supervivientes más fuerte tendrá alguna oportunidad en las brutales batallas contra jefes.\n\nÁlzate sobre el Todopoderoso\nEnfréntate a la ira de Dios y no pierdas la osadía, porque hará todo lo posible para poner fin a tu misión. Amplía tu épico arsenal con armas reforzadas por pecados y virtudes, saquea los tesoros de sus reinos, equípate con potentes reliquias nuevas que se adaptan a tu estilo de juego y obtén mejoras permanentes para tu alma.\n\nInspirado en la «Divina comedia»\nDescubre esta aventura épica para tu alma en el más allá con una preciosa animación dibujada a mano. 33 Immortals ofrece una perspectiva única de la obra maestra de Dante Alighieri, la «Divina comedia».\n\nEste juego es un trabajo en curso. Es posible que, con el tiempo, cambie o no cambie, o que no se lance como producto final. Compra este producto únicamente si estás satisfecho con el estado actual del juego no terminado.",
-      "shortDescription": "33 Immortals® es un roguelike de acción cooperativo para 33 jugadores. Juega como un alma condenada y rebélate ante el juicio final de Dios. Llega y asalta, une fuerzas contra las hordas de monstruos, derrota a jefes colosales y enfréntate a la ira de Dios en la batalla definitiva por la vida eterna.",
+      "title": "33 Immortals",
+      "description": "33 Immortals es un roguelike de acción cooperativo para 33 jugadores. Lánzate directamente a las expediciones, en solitario o con amigos. Combate contra hordas de monstruos, derrota a colosales jefes y hazte más fuerte con cada intento. Usa emoticonos del juego para coordinarte y combinar poderes con otras almas rebeldes, y enfrentaos codo con codo a la ira de Dios.\n\nLLEGA Y ASALTA\nLánzate directamente a expediciones cooperativas para 33 jugadores con emparejamiento instantáneo: sin salas de espera ni necesidad de planificación. Entra en solitario o forma un grupo de hasta 4 amigos y combate en incursiones ágiles y rejugables diseñadas para sesiones rápidas, enormes batallas cooperativas contra hordas de monstruos y épicos combates contra jefes.\n\nMODO COOPERATIVO DE 33 JUGADORES\nSobrevive luchando junto a tus aliados. No hace falta chat de voz: coordínate con emoticonos, marcadores y habilidades cooperativas del juego. Resucita a aliados caídos, combina poderosos efectos y adáptate a encuentros caóticos mientras decenas de jugadores combatís codo con codo.\n\nHAZTE MÁS FUERTE CON CADA EXPEDICIÓN\nLos ejércitos de Dios te abatirán una y otra vez, pero cada expedición te hará más fuerte. Reúne recursos durante las incursiones, desbloquea mejoras permanentes para tu alma y amplía tu arsenal con nuevas armas, reliquias y poderes. Experimenta con distintas combinaciones de personaje y prepárate para librar batallas aún mayores contra la ira de Dios.\n\nENFRÉNTATE A LA IRA DE DIOS\nEnfrentaos juntos a la ira de Dios. Lucha como uno de los renegados en la rebelión inmortal contra el juicio final de Dios para obtener la vida eterna en una combinación única de fantasía mitológica, progreso de roguelike de acción y juego cooperativo a gran escala.",
+      "shortDescription": "33 Immortals es un roguelike de acción cooperativo para 33 jugadores. Lánzate directamente a las expediciones, en solitario o con amigos. Combate contra hordas de monstruos, derrota a colosales jefes y hazte más fuerte con cada intento. Usa emoticonos del juego para coordinarte y combinar poderes con otras almas rebeldes, y enfrentaos codo con codo a la ira de Dios.",
       "developer": "Thunder Lotus",
       "publisher": "Thunder Lotus",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.18797.14090162823233215.13794def-6f5d-4292-86b7-5b23a5e557e5.e9a370ca-5f0a-4259-a422-09c7a3f596b9",
+      "imageUrl": "https://store-images.s-microsoft.com/image/apps.51551.14090162823233215.5f027b60-c9ed-4eea-ad07-8091580faccc.1129aa1a-4841-4079-b300-e9051e479ea3",
       "heroImage": "https://store-images.s-microsoft.com/image/apps.3461.14090162823233215.2d39e9bd-f341-4d5f-9638-b1a6c75a4e3a.72ec0057-de44-41e8-8f55-3697194006ad",
       "screenshots": [
         "https://store-images.s-microsoft.com/image/apps.9732.14090162823233215.13794def-6f5d-4292-86b7-5b23a5e557e5.f6082d65-cd83-42b2-bbf2-2873ea04cc3e",
         "https://store-images.s-microsoft.com/image/apps.11350.14090162823233215.13794def-6f5d-4292-86b7-5b23a5e557e5.ae970392-3f4c-453c-9dd8-5ddca02a715f",
         "https://store-images.s-microsoft.com/image/apps.32551.14090162823233215.13794def-6f5d-4292-86b7-5b23a5e557e5.aec24094-1cdb-4b51-967e-c10a3a3d2223",
-        "https://store-images.s-microsoft.com/image/apps.20907.14090162823233215.13794def-6f5d-4292-86b7-5b23a5e557e5.f41dc937-1a0f-476a-a291-bf6434439b6b"
+        "https://store-images.s-microsoft.com/image/apps.24061.14090162823233215.2d39e9bd-f341-4d5f-9638-b1a6c75a4e3a.00127c5a-53f3-4f6e-b021-d6dacf8d8178"
       ],
       "videoUrl": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftassets/788b446d-9079-47e6-9171-9b2ae391ea96-AVS.m3u8?packagedStreaming=true",
       "videoCaption": "33 Immortals: Tráiler de presentación",
-      "releaseDate": "9998-12-30",
+      "releaseDate": "2026-06-11",
       "categories": [
         "Acción y aventura"
       ],
@@ -173,6 +173,7 @@
         "Multijugador multgeneración de Xbox Live",
         "Optimizado para Xbox Series X|S",
         "Entrega inteligente",
+        "Logros de Xbox",
         "Cosas guardadas en la nube de Xbox",
         "Xbox Play Anywhere"
       ],
@@ -218,9 +219,9 @@
           "recommended": "Controladora de Xbox"
         }
       ],
-      "maxInstallSize": 6841495552,
+      "maxInstallSize": 7085285376,
       "hasAddOns": true,
-      "storeUrl": "https://www.xbox.com/es-es/games/store/33-immortals-versi-n-preliminar-del-juego/9P8LR42PTRGJ"
+      "storeUrl": "https://www.xbox.com/es-es/games/store/33-immortals/9P8LR42PTRGJ"
     },
     {
       "id": "9NNM7PKZN3JF",
@@ -1368,7 +1369,7 @@
           "recommended": "4 GB"
         }
       ],
-      "maxInstallSize": 38110584832,
+      "maxInstallSize": 38110629888,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/age-of-mythology-retold/9NPKGVXPFRSX"
     },
@@ -2617,7 +2618,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 2.9,
-      "ratingCount": 650,
+      "ratingCount": 651,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -3954,7 +3955,8 @@
         "Multijugador en línea  (2-4)",
         "Un jugador",
         "60 fps +",
-        "Logros de Xbox"
+        "Logros de Xbox",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -4282,7 +4284,8 @@
         "HDR10",
         "Un jugador",
         "Xbox One X mejorado",
-        "Logros de Xbox"
+        "Logros de Xbox",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -4594,7 +4597,8 @@
         "4K Ultra HD",
         "Un jugador",
         "Xbox One X mejorado",
-        "Logros de Xbox"
+        "Logros de Xbox",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -4643,7 +4647,9 @@
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
       "interactiveDescriptions": [],
-      "capabilities": [],
+      "capabilities": [
+        "FPS Boost Series X | S"
+      ],
       "systemRequirements": [
         {
           "title": "Arquitectura",
@@ -5864,8 +5870,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 3.7,
-      "ratingCount": 3,
+      "rating": 4,
+      "ratingCount": 4,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -6091,7 +6097,8 @@
         "Compras dentro del juego (Incluye artículos aleatorios)"
       ],
       "capabilities": [
-        "Multijugador en línea  (4-64)"
+        "Multijugador en línea  (4-64)",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -6576,6 +6583,69 @@
       "storeUrl": "https://www.xbox.com/es-es/games/store/battletoads/9N7GCF5SGCXC"
     },
     {
+      "id": "9NJRSC0B0K88",
+      "title": "Beastro",
+      "description": "Alguien está perturbando la paz de Palo Pori, la apacible y pintoresca aldea de artesanos y sibaritas. Al otro lado de sus muros, unos monstruos hambrientos se han apoderado del lugar y amenazan con devorar la poca esperanza que les queda.\n\nPonte en la piel de Panko, un joven y prometedor chef que trabaja como ayudante en el restaurante de la aldea. Cuando su mentor desaparece, llega un misterioso visitante y le alerta del peligro que acecha más allá de los muros. En ese momento, Panko decide ponerse al frente del negocio y hacerse cargo de todo: desde los ingredientes hasta las reservas y clientes. Pero eso no es todo: Panko descubre la importancia de alimentar a los Guardianes, los valientes vecinos enviados para salvar el mundo. ¡En esta aventura, la defensa de la paz empieza en la cocina!\n\nMENÚ DEL DÍA (CARACTERÍSTICAS)\n\nDEL CAMPO A LA MESA\n¡En Palo Pori, solo se sirve producto fresco! Recoge ingredientes y recursos, cuida de los animales y cultiva frutas y verduras. También puedes salir a buscar hierbas y desbloquear nuevas semillas para elaborar platos deliciosos y crear tu propio restaurante ecológico con mucho encanto.\n\nPOR Y PARA LA COMUNIDAD\nPrepara deliciosos platos para los lugareños a lo largo de varios minijuegos que te harán salivar mientras cortas, salteas y asas. Si logras ofrecer una cocina de alto nivel y sorprender a los clientes con tus ingredientes y elaboraciones, se marcharán con una sonrisa en los labios. ¡La comida siempre sabe mejor en compañía!\nAdapta el restaurante a los gustos de tu comunidad, inventa nuevos platos, acumula conocimiento a través del árbol de habilidades y decora con estilo para hacer que tu restaurante sea aún más atractivo.\n\nALIMENTA A LOS GUARDIANES\nEs muy importante que alimentes a los Guardianes; al fin y al cabo, estos aguerridos lugareños son quienes plantan cara a los monstruos que amenazan con destruir la armonía de Palo Pori. A cada Guardián le corresponde una región de sabores, lo cual condiciona sus gustos y preferencias. Hay quien es más de dulce, de salado... ¡y quien solo quiere satisfacer un antojo pasajero! Elabora platos con intención y procura equilibrar los perfiles de sabores para levantarles el ánimo, potenciar sus habilidades y desbloquear otras nuevas. Y es que ¿a quién se le ocurre salvar el mundo con el estómago vacío?\n\nUN DECK BUILDER DE RECHUPETE\n¡Es el momento de comprobar la efectividad de tu cocina! Aquí es donde sabor y estrategia convergen, ya que los platos que sirves conforman el mazo de tu Guardián. Cada ingrediente desbloquea una carta y, en cuanto comen, se adentran en la espesura y luchan contra los voraces monstruos. Cuando vuelven, reviven la experiencia y reproducen el combate en una adorable secuencia con marionetas. Puede que incluso te traigan algún ingrediente MONSTRUOSO que hayan encontrado durante su periplo. Lucha contra los monstruos en combates por turnos con construcción de mazos que recuerdan a los de los juegos de bazas tradicionales. Para vencer a los monstruos, puedes igualar el sabor de su magia o neutralizarla con una carta de equilibrio. Si añades una carta de mejora, potencias los movimientos. En pocas palabras: ¡tu magia puede cambiar el curso de la batalla!\n\nAprovecha los efectos únicos de tus ingredientes para derribar a los enemigos, destruir sus cartas y muchas cosas más. Pero cuidado: no solo tú tienes habilidades especiales. Si te despistas, puede que salgas con más llamas que un flambeado.\n\nEn este juego de fantasía, aventura y gastronomía, tendrás que aprender a conquistar por el estómago. ¿Te atreves a encender los fogones?\n\nDesbloquea la magia de los alimentos.",
+      "shortDescription": "Beastro es una encantadora fusión de aventura y fantasía en la que no todos los héroes llevan espada: ¡algunos prefieren la cuchara! Y es que ¿a quién se le ocurre salvar el mundo con el estómago vacío?",
+      "developer": "Timberline Studios",
+      "publisher": "Timberline Studios",
+      "imageUrl": "https://store-images.s-microsoft.com/image/apps.60903.13671022809470587.60471b9b-de9a-4234-afb5-a4a133ab86a1.f937b691-4603-489d-b1f8-460cef771311",
+      "heroImage": "https://store-images.s-microsoft.com/image/apps.6808.13671022809470587.60471b9b-de9a-4234-afb5-a4a133ab86a1.32c90e34-702e-4963-a3f8-f06a175217df",
+      "screenshots": [
+        "https://store-images.s-microsoft.com/image/apps.11912.13671022809470587.60471b9b-de9a-4234-afb5-a4a133ab86a1.0e337798-eb7d-43c6-ba8e-ad847bb3c4d2",
+        "https://store-images.s-microsoft.com/image/apps.13098.13671022809470587.60471b9b-de9a-4234-afb5-a4a133ab86a1.ab7e1ba1-92ab-407d-b973-afd2a4b4e95f",
+        "https://store-images.s-microsoft.com/image/apps.60243.13671022809470587.60471b9b-de9a-4234-afb5-a4a133ab86a1.37c5e247-bc98-4ebb-a595-06a81731eed6",
+        "https://store-images.s-microsoft.com/image/apps.64125.13671022809470587.60471b9b-de9a-4234-afb5-a4a133ab86a1.5079d668-0900-4525-ada4-5e7e20bd399c"
+      ],
+      "videoUrl": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftassets/41b61ac5-2be7-412c-917a-7a13656f7e9b-AVS.m3u8?packagedStreaming=true",
+      "videoCaption": "Beastro - Announcement Trailer",
+      "releaseDate": "2026-06-11",
+      "categories": [
+        "Acción y aventura",
+        "Juegos de rol",
+        "Niños y familia"
+      ],
+      "tiers": [
+        "pc",
+        "ultimate"
+      ],
+      "platform": "both",
+      "price": 19.99,
+      "msrp": 19.99,
+      "currency": "EUR",
+      "hasDiscount": false,
+      "discountPercent": 0,
+      "rating": 0,
+      "ratingCount": 0,
+      "ageRating": 7,
+      "pegiRating": "PEGI 7",
+      "pegiDescription": "Apropiado a partir de 7 años",
+      "interactiveDescriptions": [],
+      "capabilities": [
+        "4K Ultra HD",
+        "Un jugador",
+        "Optimizado para Xbox Series X|S",
+        "Logros de Xbox",
+        "Cosas guardadas en la nube de Xbox",
+        "Xbox Play Anywhere"
+      ],
+      "systemRequirements": [
+        {
+          "title": "SO",
+          "minimum": "Windows 10 version 18362.0 or higher",
+          "recommended": "Windows 10 version 18362.0 or higher"
+        },
+        {
+          "title": "Arquitectura",
+          "minimum": "x64",
+          "recommended": "x64"
+        }
+      ],
+      "maxInstallSize": 2780094464,
+      "hasAddOns": false,
+      "storeUrl": "https://www.xbox.com/es-es/games/store/beastro/9NJRSC0B0K88"
+    },
+    {
       "id": "9N4X39HZ1CSQ",
       "title": "Beatdown City Survivors",
       "description": "Beatdown City Survivors es un juego de supervivencia tipo sandbox, tenso y emocionante, que revoluciona el género. La ciudad es un escenario de pesadilla con elementos interactivos, como gas para encender, charcos para electrificar y coches para hacer explotar. Encuentra decenas de armas, incluyendo tuberías, palomas y botas, y combínalas para crear armas más grandes, mejores y más divertidas. Tendrás que crear tu arma definitiva y manipular cada elemento posible para acabar con los horribles zombis, mutantes y criaturas sedientas de sangre que acechan en las calles.",
@@ -6607,7 +6677,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 2.8,
-      "ratingCount": 8,
+      "ratingCount": 10,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -8064,7 +8134,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.4,
-      "ratingCount": 111,
+      "ratingCount": 112,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -9504,7 +9574,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.8,
-      "ratingCount": 146,
+      "ratingCount": 147,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -12629,7 +12699,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.3,
-      "ratingCount": 243,
+      "ratingCount": 244,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -12902,7 +12972,9 @@
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
       "interactiveDescriptions": [],
-      "capabilities": [],
+      "capabilities": [
+        "FPS Boost Series X | S"
+      ],
       "systemRequirements": [
         {
           "title": "Arquitectura",
@@ -12948,7 +13020,9 @@
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
       "interactiveDescriptions": [],
-      "capabilities": [],
+      "capabilities": [
+        "FPS Boost Series X | S"
+      ],
       "systemRequirements": [
         {
           "title": "Arquitectura",
@@ -14158,7 +14232,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.5,
-      "ratingCount": 271,
+      "ratingCount": 272,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -14786,7 +14860,8 @@
       "capabilities": [
         "Un jugador",
         "Logros de Xbox",
-        "Cosas guardadas en la nube de Xbox"
+        "Cosas guardadas en la nube de Xbox",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -14927,7 +15002,8 @@
       "interactiveDescriptions": [],
       "capabilities": [
         "4K Ultra HD",
-        "Xbox One X mejorado"
+        "Xbox One X mejorado",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -16073,7 +16149,9 @@
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
       "interactiveDescriptions": [],
-      "capabilities": [],
+      "capabilities": [
+        "FPS Boost Series X | S"
+      ],
       "systemRequirements": [
         {
           "title": "Arquitectura",
@@ -16120,7 +16198,9 @@
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
       "interactiveDescriptions": [],
-      "capabilities": [],
+      "capabilities": [
+        "FPS Boost Series X | S"
+      ],
       "systemRequirements": [
         {
           "title": "Arquitectura",
@@ -18507,7 +18587,8 @@
       "interactiveDescriptions": [],
       "capabilities": [
         "4K Ultra HD",
-        "Xbox One X mejorado"
+        "Xbox One X mejorado",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -18617,7 +18698,8 @@
         "Cooperativo en línea  (2-2)",
         "Multijugador local de Xbox (2-2)",
         "4K Ultra HD",
-        "Xbox One X mejorado"
+        "Xbox One X mejorado",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -18812,7 +18894,8 @@
       "pegiDescription": "Apropiado a partir de 18 años",
       "interactiveDescriptions": [],
       "capabilities": [
-        "Xbox One X mejorado"
+        "Xbox One X mejorado",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -18946,7 +19029,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.4,
-      "ratingCount": 1551,
+      "ratingCount": 1552,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -19289,7 +19372,9 @@
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
       "interactiveDescriptions": [],
-      "capabilities": [],
+      "capabilities": [
+        "FPS Boost Series X | S"
+      ],
       "systemRequirements": [
         {
           "title": "Arquitectura",
@@ -19805,7 +19890,8 @@
       "capabilities": [
         "Un jugador",
         "Optimizado para Xbox Series X|S",
-        "Logros de Xbox"
+        "Logros de Xbox",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -21494,11 +21580,11 @@
         "ultimate"
       ],
       "platform": "pc",
-      "price": 59.99,
+      "price": 29.99,
       "msrp": 59.99,
       "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
+      "hasDiscount": true,
+      "discountPercent": 50,
       "rating": 2,
       "ratingCount": 29,
       "ageRating": 3,
@@ -21577,11 +21663,11 @@
         "ultimate"
       ],
       "platform": "both",
-      "price": 59.99,
+      "price": 29.99,
       "msrp": 59.99,
       "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
+      "hasDiscount": true,
+      "discountPercent": 50,
       "rating": 1.6,
       "ratingCount": 39,
       "ageRating": 3,
@@ -21899,7 +21985,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 10374803456,
+      "maxInstallSize": 10432806912,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/for-the-king-ii/9NVC9KWJVLT0"
     },
@@ -21938,7 +22024,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.7,
-      "ratingCount": 4366,
+      "ratingCount": 4368,
       "ageRating": 12,
       "pegiRating": "Supervisión parental recomendada",
       "pegiDescription": "Supervisión parental recomendada",
@@ -22099,7 +22185,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.2,
-      "ratingCount": 231,
+      "ratingCount": 232,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -22349,6 +22435,73 @@
       "storeUrl": "https://www.xbox.com/es-es/games/store/fragpunk/9MW715J1P29D"
     },
     {
+      "id": "9N16RZ0S50V2",
+      "title": "Frog Sqwad",
+      "description": "CARACTERÍSTICAS DEL JUEGO\nA lengüetazo limpio: Vuestra lengua os ayudará a hacer todo lo que se os antoje. Columpiaos a través del mundo del juego, coged objetos y empujad a vuestros colegas para meterlos en situaciones un tanto comprometidas.\n\nJuntos en las alcantarillas: Poned rumbo a las alcantarillas, haced acopio de todo lo que podáis y volved juntos, ¡pase lo que pase!\n\nLa cuota lo es todo: Traed comida suficiente para cumplir con la cuota diaria y mantener contento al rey del pantano, así desbloquearéis nuevas aventuras para vuestro grupo.\n\nSi existe, ¡dadle caña!: Experimentad con todo lo que os encontréis. Apilad, tirad e improvisad a vuestra manera en cada partida.\n\nSaludad a los lugareños: Las alcantarillas están repletas de extrañas criaturas que le dan un toque caótico a vuestra experiencia.\n\nEl tamaño sí importa: Cuanto más comáis, más creceréis, ¡hasta que acabéis paseando en forma de megarrana gigantesca!\n\nLas ranitas diminutas necesitan ayuda: Si os dan un golpe y se os cae la comida, ¡volveréis a ser renacuajos y no os vendrá nada mal un poco de ayuda!\n\nAlto y claro: Hablad con naturalidad mientras jugáis; la boca de vuestra rana se moverá al ritmo de cada risa y cada grito que liberéis en ese momento.\n\n¡ALIAOS CON VUESTROS AMIGOS!\nUníos hasta 7 amigos en una aventura repleta de física por las alcantarillas. Balanceaos por las tuberías haciendo uso de vuestra pegajosa lengua, llevad la comida gigantesca a través de túneles estrechos, resolved los problemas a vuestra manera y, de vez en cuando, lanzaos unos a otros por el mundo, ¡todo ello al servicio del hambriento rey del pantano!\n\n¡BUSCAD COMIDA!\nExplorad unas alcantarillas en constante cambio, donde cada partida os deparará nuevos peligros, encuentros extraños y una comida por la que vale la pena jugársela. Seguid comiendo y creciendo, y en un pispás, ¡os convertiréis en unas increíbles megarranas de lo más encantadoras!\n\n¡Y QUE NO OS DEVOREN!\nEl apetito del rey del pantano aumenta cada día. Gastad el oro que tanto os ha costado ganar en nuevos juguetes y cachivaches para dar un giro a vuestras próximas partidas y trabajad mano a mano para cumplir con la cuota diaria. Le da bastante igual de dónde provenga su próxima comida.",
+      "shortDescription": "¡Asaltad las alcantarillas por la gloria del rey del pantano! Columpiaos, saltad, catapultad a vuestros amigos y comed sin parar hasta convertiros en una gigantesca megarrana. Un juego de plataformas, puzles y extracción cooperativo para hasta 8 jugadores. ¡Formad un escuadrón y pasadlo en grande!",
+      "developer": "Panic Stations",
+      "publisher": "Panic Stations",
+      "imageUrl": "https://store-images.s-microsoft.com/image/apps.11462.13907096050138817.7fbf6475-c772-4edc-86bc-618d25d93186.c9473002-0a18-403f-b0f6-33f7b2fc6820",
+      "heroImage": "https://store-images.s-microsoft.com/image/apps.39981.13907096050138817.7fbf6475-c772-4edc-86bc-618d25d93186.ed5809a2-c822-4868-b161-f51c2841bf91",
+      "screenshots": [
+        "https://store-images.s-microsoft.com/image/apps.53706.13907096050138817.7fbf6475-c772-4edc-86bc-618d25d93186.e1e56a65-b6f0-47fa-ba9b-979524ca39d2",
+        "https://store-images.s-microsoft.com/image/apps.11100.13907096050138817.7fbf6475-c772-4edc-86bc-618d25d93186.8af08de7-51de-4cb9-aa8a-9272134897b0",
+        "https://store-images.s-microsoft.com/image/apps.52584.13907096050138817.7fbf6475-c772-4edc-86bc-618d25d93186.fc590fca-a884-4b00-9b71-e3cfbce05473",
+        "https://store-images.s-microsoft.com/image/apps.62033.13907096050138817.7fbf6475-c772-4edc-86bc-618d25d93186.6fc949c7-9cde-47d0-bd56-f26f7b9af24d"
+      ],
+      "videoUrl": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftassets/151529b9-df9a-4de3-9a0b-a0912eb45ef1-AVS.m3u8?packagedStreaming=true",
+      "videoCaption": "Frog Sqwad is coming to Xbox! ",
+      "releaseDate": "2026-06-11",
+      "categories": [
+        "Plataformas",
+        "Puzles y curiosidades",
+        "Niños y familia",
+        "Acción y aventura"
+      ],
+      "tiers": [
+        "pc",
+        "ultimate"
+      ],
+      "platform": "both",
+      "price": 7.99,
+      "msrp": 7.99,
+      "currency": "EUR",
+      "hasDiscount": false,
+      "discountPercent": 0,
+      "rating": 0,
+      "ratingCount": 0,
+      "ageRating": 7,
+      "pegiRating": "PEGI 7",
+      "pegiDescription": "Apropiado a partir de 7 años",
+      "interactiveDescriptions": [
+        "Interacción de usuarios"
+      ],
+      "capabilities": [
+        "Cooperativo en línea  (2-8)",
+        "Un jugador",
+        "Optimizado para Xbox Series X|S",
+        "Logros de Xbox",
+        "Presencia de Xbox",
+        "Cosas guardadas en la nube de Xbox",
+        "Xbox Play Anywhere"
+      ],
+      "systemRequirements": [
+        {
+          "title": "SO",
+          "minimum": "Windows 10 version 18362.0 or higher",
+          "recommended": "Windows 10 version 18362.0 or higher"
+        },
+        {
+          "title": "Arquitectura",
+          "minimum": "x64",
+          "recommended": "x64"
+        }
+      ],
+      "maxInstallSize": 2622238720,
+      "hasAddOns": true,
+      "storeUrl": "https://www.xbox.com/es-es/games/store/frog-sqwad/9N16RZ0S50V2"
+    },
+    {
       "id": "9N0KN24FWP6B",
       "title": "Frostpunk 2",
       "description": "La versión de Frostpunk 2 para Xbox no admite mods creados por la comunidad de jugadores. Estos solo están disponibles en la versión de PC.\n\nFrostpunk 2 eleva el género de la supervivencia urbana a otro nivel. Asume el papel de un Gobernante y lidera la ciudad a lo largo de una serie de calamidades que se desarrollan en un entorno nevado posapocalíptico. Construye grandes distritos con sus necesidades y demandas. Enfréntate a los conflictos de intereses de las distintas facciones que habitan en tu metrópolis. Al aumentar las necesidades de la ciudad y el poder de cada grupo, solo tú podrás dirigir la sociedad hacia un incierto futuro.\n\nLa ciudad crece\nEl mundo está sumido en un invierno perenne que obliga a la ciudad a expandirse como única forma de supervivencia para la humanidad. Para crecer, la metrópolis necesita recursos como el carbón y el petróleo, al igual que sus ciudadanos necesitan calor y alimentos. En Frostpunk 2, tu misión será enfrentarte a este círculo incesante de oferta y demanda.\n\nDistritos de la ciudad\nTu ciudad está dividida en zonas dedicadas a distintos propósitos, como el alojamiento o la extracción. Depende de ti construir otras nuevas y asegurarte de que las existentes funcionen en sincronía.\n\nEdificios especiales\nCon el tiempo, tendrás que construir lugares como el Consejo o el Instituto de Investigación. En estos edificios tramitarás leyes y proyectos para que la ciudad se desarrolle en la dirección adecuada.\n\nColonias\nPara asegurarte de que la ciudad no deje de crecer, tendrás que adentrarte en Tierrahelada. Allí podrás construir vastas colonias que te permitirán obtener todos los recursos necesarios.\n\nPeligros de la naturaleza humana\nLa cifra de habitantes irá creciendo lentamente y complicando las labores de gobierno y la forma de satisfacer sus exigencias. Como Gobernante, tendrás que desenvolverte con mucho cuidado en la maraña de intereses de los distintos grupos que habitan tu ciudad.\n\nHabitantes de Nueva Londres\nTus ciudadanos pueden formar comunidades y facciones, cada una con sus propias perspectivas acerca del futuro de la urbe. En el Consejo, tramitarás leyes y las negociarás con los delegados de cada facción.\n\nConsejo de la ciudad\nConseguir el apoyo de cada facción es complicado, ya que si una de ellas asciende, las demás mostrarán su descontento. Esto significa que tendrás que meditar cada alianza cuidadosamente.\n\nHacia el progreso\nEl Instituto de Investigación es donde forjarás el futuro de la ciudad. Cada nuevo proyecto debe recaer en una facción, así que tendrás que maniobrar para establecer alianzas estratégicas.\n\nFacciones\nLos habitantes de tu ciudad quieren tener voz y voto a la hora de dirigir las cosas. Cada facción tiene una ideología y una perspectiva de futuro, pero todas tienen algo en común: una sed de poder insaciable. Elige cuidadosamente tus aliados en el Consejo.\n\nModo historia y constructor de utopías\nLa historia de Frostpunk 2 presenta una saga con varios capítulos ambientada en los páramos helados. Esta campaña, que sigue la vida del Gobernante, te permite sentir la carga del liderazgo y de ser el responsable de miles de vidas. Al mismo tiempo, el modo sandbox (llamado constructor de utopías) te ofrece un tiempo de juego infinito y permite llevar a cabo experimentos sociales y estructurales sin límites.\n",
@@ -22474,6 +22627,7 @@
         "Acción y aventura"
       ],
       "tiers": [
+        "essential",
         "pc",
         "premium",
         "ultimate"
@@ -22636,7 +22790,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.1,
-      "ratingCount": 265,
+      "ratingCount": 266,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -22871,7 +23025,8 @@
         "Multijugador multiplataforma de Xbox",
         "Un jugador",
         "Pantalla dividida o compartida",
-        "Cooperación multiplataforma de Xbox"
+        "Cooperación multiplataforma de Xbox",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -22930,7 +23085,8 @@
         "Un jugador",
         "Pantalla dividida o compartida",
         "Cooperación multiplataforma de Xbox",
-        "Xbox One X mejorado"
+        "Xbox One X mejorado",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -22989,7 +23145,8 @@
         "Un jugador",
         "Pantalla dividida o compartida",
         "Cooperación multiplataforma de Xbox",
-        "Xbox One X mejorado"
+        "Xbox One X mejorado",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -23034,8 +23191,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 4.4,
-      "ratingCount": 4620,
+      "rating": 4.3,
+      "ratingCount": 4621,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -23056,7 +23213,8 @@
         "Presencia de Xbox",
         "Clubs de Xbox",
         "Cosas guardadas en la nube de Xbox",
-        "Xbox Play Anywhere"
+        "Xbox Play Anywhere",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -23154,7 +23312,8 @@
         "Multijugador multiplataforma de Xbox",
         "Un jugador",
         "Pantalla dividida o compartida",
-        "Cooperación multiplataforma de Xbox"
+        "Cooperación multiplataforma de Xbox",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -23200,7 +23359,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3,
-      "ratingCount": 157,
+      "ratingCount": 159,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -23323,7 +23482,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.5,
-      "ratingCount": 587,
+      "ratingCount": 588,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -23333,7 +23492,8 @@
         "Cooperativo en línea  (2-2)",
         "Multijugador local de Xbox (2-2)",
         "Multijugador en línea  (2-8)",
-        "Pantalla dividida o compartida"
+        "Pantalla dividida o compartida",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -23979,7 +24139,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 2,
-      "ratingCount": 36,
+      "ratingCount": 38,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -24031,7 +24191,7 @@
           "recommended": "Controladora de Xbox"
         }
       ],
-      "maxInstallSize": 2387283968,
+      "maxInstallSize": 2422038528,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/goals/9PF2ZS4XB4JH"
     },
@@ -24339,7 +24499,8 @@
         "Un jugador",
         "Logros de Xbox",
         "Presencia de Xbox",
-        "Cosas guardadas en la nube de Xbox"
+        "Cosas guardadas en la nube de Xbox",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -25322,7 +25483,8 @@
         "HDR10",
         "Cooperación multiplataforma de Xbox",
         "Xbox One X mejorado",
-        "Xbox Play Anywhere"
+        "Xbox Play Anywhere",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -25761,7 +25923,8 @@
       "interactiveDescriptions": [],
       "capabilities": [
         "Cooperativo en línea  (2-2)",
-        "Multijugador en línea  (2-2)"
+        "Multijugador en línea  (2-2)",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -26290,7 +26453,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.4,
-      "ratingCount": 25,
+      "ratingCount": 26,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -27060,7 +27223,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.8,
-      "ratingCount": 611,
+      "ratingCount": 612,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -27070,7 +27233,8 @@
         "Controlador para juegos para PC",
         "Logros de Xbox",
         "Cosas guardadas en la nube de Xbox",
-        "Xbox Play Anywhere"
+        "Xbox Play Anywhere",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -30099,7 +30263,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.9,
-      "ratingCount": 74,
+      "ratingCount": 75,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -31121,7 +31285,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.2,
-      "ratingCount": 51,
+      "ratingCount": 52,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -31146,7 +31310,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 9478029312,
+      "maxInstallSize": 9478402048,
       "hasAddOns": false,
       "storeUrl": "https://www.xbox.com/es-es/games/store/luna-abyss/9PLBH9J0XGR8"
     },
@@ -32150,7 +32314,9 @@
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
       "interactiveDescriptions": [],
-      "capabilities": [],
+      "capabilities": [
+        "FPS Boost Series X | S"
+      ],
       "systemRequirements": [
         {
           "title": "Arquitectura",
@@ -32267,7 +32433,7 @@
           "recommended": "Controladora de Xbox"
         }
       ],
-      "maxInstallSize": 19407364096,
+      "maxInstallSize": 19551907840,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/medieval-dynasty/9PDDP6ML6XHF"
     },
@@ -32969,7 +33135,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.7,
-      "ratingCount": 51112,
+      "ratingCount": 51116,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -33446,7 +33612,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4,
-      "ratingCount": 15548,
+      "ratingCount": 15551,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -33641,7 +33807,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.5,
-      "ratingCount": 61050,
+      "ratingCount": 61054,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -33845,7 +34011,8 @@
       "pegiDescription": "Apropiado a partir de 16 años",
       "interactiveDescriptions": [],
       "capabilities": [
-        "Xbox One X mejorado"
+        "Xbox One X mejorado",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -33892,7 +34059,9 @@
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
       "interactiveDescriptions": [],
-      "capabilities": [],
+      "capabilities": [
+        "FPS Boost Series X"
+      ],
       "systemRequirements": [
         {
           "title": "Arquitectura",
@@ -33938,7 +34107,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.2,
-      "ratingCount": 158,
+      "ratingCount": 157,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -36939,7 +37108,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.8,
-      "ratingCount": 765,
+      "ratingCount": 766,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -37130,7 +37299,8 @@
       "pegiDescription": "Apropiado a partir de 16 años",
       "interactiveDescriptions": [],
       "capabilities": [
-        "Xbox One X mejorado"
+        "Xbox One X mejorado",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -37672,8 +37842,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 4,
-      "ratingCount": 11,
+      "rating": 4.1,
+      "ratingCount": 12,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -37772,7 +37942,8 @@
         "Un jugador",
         "Logros de Xbox",
         "Presencia de Xbox",
-        "Cosas guardadas en la nube de Xbox"
+        "Cosas guardadas en la nube de Xbox",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -38036,7 +38207,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 105616912384,
+      "maxInstallSize": 113562054656,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/overwatch/C1C4DZJPBC2V"
     },
@@ -38378,7 +38549,7 @@
           "recommended": "Micrófono integrado"
         }
       ],
-      "maxInstallSize": 27658199040,
+      "maxInstallSize": 24698421248,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/pax-dei/9PHGK0538TXM"
     },
@@ -38736,7 +38907,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.7,
-      "ratingCount": 405,
+      "ratingCount": 406,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -39580,7 +39751,8 @@
         "Cooperación local de Xbox (2-4)",
         "Cooperativo en línea  (2-4)",
         "Multijugador local de Xbox (2-2)",
-        "Multijugador en línea  (2-24)"
+        "Multijugador en línea  (2-24)",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -39635,7 +39807,8 @@
         "Multijugador en línea  (2-24)",
         "4K Ultra HD",
         "HDR10",
-        "Pantalla dividida o compartida"
+        "Pantalla dividida o compartida",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -40090,7 +40263,8 @@
         "Logros de Xbox",
         "Presencia de Xbox",
         "Clubs de Xbox",
-        "Cosas guardadas en la nube de Xbox"
+        "Cosas guardadas en la nube de Xbox",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -41802,7 +41976,8 @@
         "Presencia de Xbox",
         "Clubs de Xbox",
         "Cosas guardadas en la nube de Xbox",
-        "Xbox Play Anywhere"
+        "Xbox Play Anywhere",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -42375,7 +42550,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.7,
-      "ratingCount": 475,
+      "ratingCount": 476,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -44336,7 +44511,9 @@
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
       "interactiveDescriptions": [],
-      "capabilities": [],
+      "capabilities": [
+        "FPS Boost Series X | S"
+      ],
       "systemRequirements": [
         {
           "title": "Arquitectura",
@@ -45156,7 +45333,7 @@
           "recommended": ""
         }
       ],
-      "maxInstallSize": 72850448384,
+      "maxInstallSize": 72851644416,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/skull-and-bones/BXF9VWKCD6QW"
     },
@@ -45838,8 +46015,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 3.8,
-      "ratingCount": 4,
+      "rating": 3.6,
+      "ratingCount": 5,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -47200,7 +47377,8 @@
         "Multijugador en línea  (8-40)",
         "HDR10",
         "Pantalla dividida o compartida",
-        "Xbox One X mejorado"
+        "Xbox One X mejorado",
+        "FPS Boost Series X"
       ],
       "systemRequirements": [
         {
@@ -47830,6 +48008,115 @@
       "storeUrl": "https://www.xbox.com/es-es/games/store/starsand-island/9P86LLDCL5CC"
     },
     {
+      "id": "9NTZH69PZSH0",
+      "title": "STARSEEKER: Astroneer Expeditions (Game Preview)",
+      "description": "Este juego es un trabajo en curso. Es posible que, con el tiempo, cambie o no cambie, o que no se lance como producto final. Compra este producto únicamente si estás satisfecho con el estado actual del juego no terminado.\n\nSTARSEEKER: Astroneer Expeditions es un nuevo juego ambientado en el universo de Astroneer que se centra en los hallazgos, la cooperación y la unidad. Mientras exploran las profundidades del espacio a bordo de la ESS Starseeker, los jugadores deberán colaborar con la tripulación de la estación para completar objetivos en las regiones más recónditas de cada planeta. Planifica y emprende expediciones temporizadas para obtener recursos, completar misiones y hacer avanzar tus objetivos, los del grupo y los de toda la estación.\n\nExplora mundos creados a mano en constante evolución\nLa ESS Starseeker orbita planetas desconocidos con la esperanza de descubrir los misterios que encierran. La tripulación colabora para adentrarse y desbloquear nuevas zonas de aterrizaje mediante un esfuerzo colectivo que llevará a nuevas regiones y a biomas singulares con elementos diferentes de juego. El planeta Tephra es la primera parada. Es un mundo de amplios humedales, densas selvas y grandes océanos, cubierto por los restos de un viaje de EXO Dynamics que terminó en tragedia.\n\nLidera expediciones a desafiantes mundos alienígenas llenos de vida\n¡Cada planeta está lleno de toda clase de encuentros! Criaturas fascinantes y peligrosas, flora letal y fuerzas misteriosas esperan a la tripulación. Coopera con tu grupo para completar misiones que se pueden resolver de diferentes maneras, aunque para todas tendrás que improvisar un poco. Después, lleva el botín a la estación para preparar equipo avanzado con el que acometer misiones aún más peligrosas.\n\nDesbloquea equipo y personaliza tu selección\nLos jugadores disponen de herramientas avanzadas con las que acometer las expediciones y hacer frente a los misteriosos peligros del espacio. Completa las misiones que te encarguen los líderes de la estación y otros tripulantes para desbloquear planos y ajustar tu arsenal personal. Lo necesitarás para hacer frente a los mayores retos de cada planeta.\n\nColabora con los PNJ para desvelar la trama\nLa ESS Starseeker es el corazón de la tripulación, una estación espacial en constante evolución donde los jugadores se reúnen para planificar expediciones, mejorar su equipo y quedar con otros jugadores. Completa las misiones que te encomienda la Fuerza Fronteriza, el grupo de exploradores de élite que controla la ESS Starseeker. Conoce a los personajes, descubre el mundo y desentraña los misterios del espacio profundo...\n\nVisita https://www.starseekergame.com/ para obtener detalles completos sobre el estado más reciente del juego, así como para proporcionar comentarios y notificar problemas.",
+      "shortDescription": "Este juego es un trabajo en curso. Es posible que, con el tiempo, cambie o no cambie, o que no se lance como producto final. Compra este producto únicamente si estás satisfecho con el estado actual del juego no terminado. \n\nAcompaña a la tripulación de la ESS Starseeker y explora extraños mundos colaborando con tus amigos. Completa objetivos planetarios en expediciones temporizadas antes de volver a la seguridad de la estación. ¡Consigue y desbloquea poderosas tecnologías para hacer frente a los peligros del espacio!",
+      "developer": "System Era Softworks",
+      "publisher": "Devolver Digital",
+      "imageUrl": "https://store-images.s-microsoft.com/image/apps.42481.14404967494100621.db4c6510-99dc-4d95-a150-57e95d6d631f.911f124d-8838-42c4-a85f-67005dd019fb",
+      "heroImage": "https://store-images.s-microsoft.com/image/apps.6032.14404967494100621.b20587b6-7897-4888-ba7e-32558d0c9c6c.6f18d82f-caa6-44bb-8248-10afd96cdc4a",
+      "screenshots": [
+        "https://store-images.s-microsoft.com/image/apps.7491.14404967494100621.5eaa4b7f-e90c-40b0-9544-034c08a5dee4.3b6ff6e0-159f-4f22-a8bc-dda6e1e0fa35",
+        "https://store-images.s-microsoft.com/image/apps.38066.14404967494100621.5eaa4b7f-e90c-40b0-9544-034c08a5dee4.d5e8b85c-f895-4e27-af08-05a1e1c057f7",
+        "https://store-images.s-microsoft.com/image/apps.56623.14404967494100621.5eaa4b7f-e90c-40b0-9544-034c08a5dee4.5bfa1e14-f159-473f-9925-38d9d3dadc91",
+        "https://store-images.s-microsoft.com/image/apps.36792.14404967494100621.5eaa4b7f-e90c-40b0-9544-034c08a5dee4.3f226fa7-4737-4da4-bab4-c637bc11be1f"
+      ],
+      "videoUrl": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftassets/eed390a4-8661-4acc-affe-cc9aed4f5037-AVS.m3u8?packagedStreaming=true",
+      "videoCaption": "Starseeker - Announce Trailer",
+      "releaseDate": "9998-12-30",
+      "categories": [
+        "Acción y aventura"
+      ],
+      "tiers": [
+        "pc",
+        "ultimate"
+      ],
+      "platform": "both",
+      "price": 29.99,
+      "msrp": 29.99,
+      "currency": "EUR",
+      "hasDiscount": false,
+      "discountPercent": 0,
+      "rating": 2,
+      "ratingCount": 1,
+      "ageRating": 7,
+      "pegiRating": "PEGI 7",
+      "pegiDescription": "Apropiado a partir de 7 años",
+      "interactiveDescriptions": [
+        "Compras dentro del juego"
+      ],
+      "capabilities": [
+        "Cooperativo en línea  (2-4)",
+        "Multijugador en línea  (2-4)",
+        "Multijugador multiplataforma de Xbox",
+        "4K Ultra HD",
+        "Cooperación multiplataforma de Xbox",
+        "60 fps +",
+        "Optimizado para Xbox Series X|S",
+        "Mouse y teclado de la consola",
+        "Logros de Xbox",
+        "Presencia de Xbox",
+        "Cosas guardadas en la nube de Xbox",
+        "Xbox Play Anywhere"
+      ],
+      "systemRequirements": [
+        {
+          "title": "SO",
+          "minimum": "Windows 10 version 18362.0 or higher",
+          "recommended": "Windows 10 version 18362.0 or higher"
+        },
+        {
+          "title": "Arquitectura",
+          "minimum": "x64",
+          "recommended": "x64"
+        },
+        {
+          "title": "Gráficos",
+          "minimum": "Nvidia GeForce GTX 1070 Ti / AMD Radeon RX 5600",
+          "recommended": "Nvidia GeForce RTX 3070 / AMD Radeon RX 6700 XT"
+        },
+        {
+          "title": "Procesador",
+          "minimum": "Intel Core i5-10700K / AMD Ryzen 7 3800X",
+          "recommended": "Intel Core i5-12400F / AMD Ryzen 5 5600X"
+        },
+        {
+          "title": "Teclado",
+          "minimum": "Teclado integrado",
+          "recommended": "Teclado integrado"
+        },
+        {
+          "title": "DirectX",
+          "minimum": "API de DirectX 12, nivel de característica de hardware 12",
+          "recommended": "API de DirectX 12, nivel de característica de hardware 12"
+        },
+        {
+          "title": "Memoria",
+          "minimum": "8 GB",
+          "recommended": "16 GB"
+        },
+        {
+          "title": "Memoria de vídeo",
+          "minimum": "8 GB",
+          "recommended": "12 GB"
+        },
+        {
+          "title": "Mouse",
+          "minimum": "",
+          "recommended": "Mouse integrado"
+        },
+        {
+          "title": "Controladora",
+          "minimum": "",
+          "recommended": "Controladora de Xbox"
+        }
+      ],
+      "maxInstallSize": 4907167744,
+      "hasAddOns": true,
+      "storeUrl": "https://www.xbox.com/es-es/games/store/starseeker-astroneer-expeditions-game-preview/9NTZH69PZSH0"
+    },
+    {
       "id": "9NT4X7P8B9NB",
       "title": "State of Decay 2: Juggernaut Edition",
       "description": "Los muertos han resucitado y la civilización ha caído. Ni siquiera el ejército ha podido detener a los zombis. Ahora depende de ti reunir a los supervivientes, buscar recursos y construir una comunidad con hasta tres de tus amigos en un mundo posapocalíptico. Un mundo en el que cada decisión importa y en el que tú decides qué significa sobrevivir en este increíble simulador de supervivencia zombi.\r\n\r\nState of Decay 2: Juggernaut Edition reimagina el popular juego de supervivencia como una experiencia totalmente nueva para dar la bienvenida a los jugadores novatos... y a los que han regresado de la muerte. Esta edición está repleta de contenido nuevo y remasterizado para ofrecer la experiencia de supervivencia zombi más avanzada.\r\n\r\nÚnete a más de 10 millones de jugadores y descubre todo lo que ofrece la Juggernaut Edition:\r\n\r\n• El juego base y los tres paquetes adicionales lanzados hasta la fecha, incluida la nueva actualización Homecoming:\r\n     o Homecoming: una versión de mundo abierto de Trumbull Valley completa y totalmente remasterizada para el juego principal, que reintegra las regiones de Mount Tanner y Fairfield al mapa y añade nuevos lugares para saquear, junto con nuevas vistas que contemplar.\r\n     o Heartland: una campaña de historia multitudinaria ambientada en un pueblo conocido con nuevos retos\r\n     o Paquete Daybreak: una prueba de trabajo en equipo con un estilo de juego de asedio: \"sobrevive a la horda\"\r\n o Pack Independencia: una celebración de la historia que hace saltar por los aires a los zombis... ¡con fuegos artificiales!\r\n• Gráficos remasterizados y un motor actualizado con efectos de niebla\r\n• Una banda sonora ampliada con horas de nuevos arreglos musicales temáticos\r\n• Providence Ridge: un nuevo mapa de mundo abierto lleno de bosques, zombis y misterio\r\n• Armas pesadas de dos manos con nuevos movimientos de combate cuerpo a cuerpo para reventar cabezas de zombis\r\n• Una nueva experiencia introductoria y controles mejorados para ayudarte a dominar el apocalipsis\r\n\r\n... y otras innumerables mejoras en el clásico juego sandbox sin límites.\r\n",
@@ -48212,7 +48499,7 @@
           "recommended": "4 GB"
         }
       ],
-      "maxInstallSize": 29327474688,
+      "maxInstallSize": 30362951680,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/stellaris/9NXQPGMR917R"
     },
@@ -48714,7 +49001,8 @@
         "Presencia de Xbox",
         "Clubs de Xbox",
         "Cosas guardadas en la nube de Xbox",
-        "Xbox Play Anywhere"
+        "Xbox Play Anywhere",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -49747,7 +50035,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.2,
-      "ratingCount": 50,
+      "ratingCount": 51,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -50245,7 +50533,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.3,
-      "ratingCount": 11,
+      "ratingCount": 12,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -52037,7 +52325,8 @@
         "Logros de Xbox",
         "Presencia de Xbox",
         "Clubs de Xbox",
-        "Cosas guardadas en la nube de Xbox"
+        "Cosas guardadas en la nube de Xbox",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -53256,7 +53545,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.2,
-      "ratingCount": 25,
+      "ratingCount": 26,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -53641,7 +53930,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 116536107008,
+      "maxInstallSize": 124799172608,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/thehunter-call-of-the-wild/BXBJQ1932138"
     },
@@ -53857,7 +54146,8 @@
       "interactiveDescriptions": [],
       "capabilities": [
         "Multijugador en línea  (2-16)",
-        "Xbox One X mejorado"
+        "Xbox One X mejorado",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -54526,7 +54816,8 @@
         "4K Ultra HD",
         "Un jugador",
         "Xbox One X mejorado",
-        "Logros de Xbox"
+        "Logros de Xbox",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -54784,7 +55075,8 @@
       "interactiveDescriptions": [],
       "capabilities": [
         "Multijugador en línea  (4-8)",
-        "Un jugador"
+        "Un jugador",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -55270,7 +55562,8 @@
         "Presencia de Xbox",
         "Clubs de Xbox",
         "Cosas guardadas en la nube de Xbox",
-        "Xbox Play Anywhere"
+        "Xbox Play Anywhere",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -56314,7 +56607,8 @@
         "Logros de Xbox",
         "Presencia de Xbox",
         "Clubs de Xbox",
-        "Cosas guardadas en la nube de Xbox"
+        "Cosas guardadas en la nube de Xbox",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -56614,8 +56908,8 @@
       "currency": "EUR",
       "hasDiscount": true,
       "discountPercent": 60,
-      "rating": 2.5,
-      "ratingCount": 40,
+      "rating": 2.4,
+      "ratingCount": 43,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -57236,7 +57530,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.6,
-      "ratingCount": 44,
+      "ratingCount": 45,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -58388,7 +58682,7 @@
           "recommended": "16 GB"
         }
       ],
-      "maxInstallSize": 35123351552,
+      "maxInstallSize": 34942402560,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/warhammer-40-000-rogue-trader/9P30BFHZ1BKN"
     },
@@ -58886,7 +59180,8 @@
         "Logros de Xbox",
         "Presencia de Xbox",
         "Clubs de Xbox",
-        "Cosas guardadas en la nube de Xbox"
+        "Cosas guardadas en la nube de Xbox",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -59287,7 +59582,8 @@
         "Cooperativo en línea  (2-2)",
         "Multijugador en línea  (2-4)",
         "Un jugador",
-        "Logros de Xbox"
+        "Logros de Xbox",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -59299,6 +59595,86 @@
       "maxInstallSize": 35621117952,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/watch-dogs-2/BSXLFN5QQZSC"
+    },
+    {
+      "id": "9NLFKBTNP2VJ",
+      "title": "Watch Dogs®2",
+      "description": "Juega como Marcus Holloway, un joven y brillante hacker que vive en la cuna de la revolución tecnológica, la zona de la bahía de San Francisco.\nColabora con DedSec, un conocido grupo de hackers, para ejecutar el mayor pirateo de la historia; acaba con ctOS 2.0, un sistema operativo utilizado por un grupo de genios criminales para vigilar y manipular a los ciudadanos a gran escala.\n\n·         Explora un mundo abierto y dinámico, lleno de posibilidades.\n·        Hackea todos los dispositivos conectados y hazte con el control de la infraestructura de la ciudad. \n·        Desarrolla diferentes habilidades según tu estilo de juego y mejora tus herramientas de hacker: coches por radiocontrol, dron cuadrirrotor, armas impresas en 3D y mucho más. \n·         Mantente conectado con tus amigos en la nueva experiencia en cooperativo y de enfrentamiento de Watch Dogs.",
+      "shortDescription": "Bienvenido a San Francisco. Juega como Marcus, un brillante hacker, y únete al grupo de hackers más famoso de la ciudad, DedSec. Tu objetivo es ejecutar el mayor pirateo de la historia.",
+      "developer": "Ubisoft Montreal",
+      "publisher": "Ubisoft Entertainment",
+      "imageUrl": "https://store-images.s-microsoft.com/image/apps.26142.69997608528322872.06dc9610-5c4e-484e-b028-58ad215e637a.b216af15-301f-4f23-83a3-69a59a87985b",
+      "heroImage": "https://store-images.s-microsoft.com/image/apps.38484.69997608528322872.06dc9610-5c4e-484e-b028-58ad215e637a.29a8afc9-c3c7-4b3d-8e9f-f1b2858db4f8",
+      "screenshots": [
+        "https://store-images.s-microsoft.com/image/apps.12122.69997608528322872.06dc9610-5c4e-484e-b028-58ad215e637a.776b84ea-bb02-4b9b-93f9-86a8feb0e11f",
+        "https://store-images.s-microsoft.com/image/apps.20943.69997608528322872.06dc9610-5c4e-484e-b028-58ad215e637a.b4e0430b-8e8d-444f-b1f4-b89fe3bfdfb9",
+        "https://store-images.s-microsoft.com/image/apps.9811.69997608528322872.06dc9610-5c4e-484e-b028-58ad215e637a.a2c3e0dd-ca29-4d82-a974-50519f6bd73e",
+        "https://store-images.s-microsoft.com/image/apps.14290.69997608528322872.06dc9610-5c4e-484e-b028-58ad215e637a.e5b9af69-70ef-4c7c-8814-ee46dcaf086c"
+      ],
+      "videoUrl": "",
+      "videoCaption": "",
+      "releaseDate": "2026-06-11",
+      "categories": [
+        "Acción y aventura"
+      ],
+      "tiers": [
+        "pc",
+        "premium",
+        "ultimate"
+      ],
+      "platform": "pc",
+      "price": 59.99,
+      "msrp": 59.99,
+      "currency": "EUR",
+      "hasDiscount": false,
+      "discountPercent": 0,
+      "rating": 0,
+      "ratingCount": 0,
+      "ageRating": 18,
+      "pegiRating": "PEGI 18",
+      "pegiDescription": "Apropiado a partir de 18 años",
+      "interactiveDescriptions": [],
+      "capabilities": [],
+      "systemRequirements": [
+        {
+          "title": "SO",
+          "minimum": "Windows 10 version 18362.0 or higher",
+          "recommended": "Windows 10 version 18362.0 or higher"
+        },
+        {
+          "title": "Arquitectura",
+          "minimum": "x64",
+          "recommended": "x64"
+        },
+        {
+          "title": "Gráficos",
+          "minimum": "AMD Radeon HD 7870 (2 GB), NVIDIA GeForce GTX 660 (2 GB), or better",
+          "recommended": "AMD Radeon R9 290 (4 GB), NVIDIA GeForce GTX 780 (3 GB), or better"
+        },
+        {
+          "title": "Procesador",
+          "minimum": "AMD FX 6120 @ 3.5 GHz, Intel Core i5-2400S @ 2.5 GHz, or better",
+          "recommended": " AMD FX 8120 @ 3.9 GHz, Intel Core i5-3470 @ 3.2 GHz, or better"
+        },
+        {
+          "title": "DirectX",
+          "minimum": "Versión 11",
+          "recommended": "Versión 11"
+        },
+        {
+          "title": "Memoria",
+          "minimum": "6 GB",
+          "recommended": "6 GB"
+        },
+        {
+          "title": "Memoria de vídeo",
+          "minimum": "2 GB",
+          "recommended": "4 GB"
+        }
+      ],
+      "maxInstallSize": 28991029248,
+      "hasAddOns": true,
+      "storeUrl": "https://www.xbox.com/es-es/games/store/watch-dogs-2/9NLFKBTNP2VJ"
     },
     {
       "id": "9PCKZH7M40CK",
@@ -59317,7 +59693,7 @@
       ],
       "videoUrl": "",
       "videoCaption": "",
-      "releaseDate": "2025-05-06",
+      "releaseDate": "",
       "categories": [
         "Acción y aventura"
       ],
@@ -59327,8 +59703,8 @@
         "ultimate"
       ],
       "platform": "pc",
-      "price": 59.99,
-      "msrp": 59.99,
+      "price": 0,
+      "msrp": 0,
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
@@ -59478,7 +59854,8 @@
         "Cooperativo en línea  (2-8)",
         "Multijugador en línea  (2-8)",
         "Un jugador",
-        "Logros de Xbox"
+        "Logros de Xbox",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -59741,7 +60118,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.1,
-      "ratingCount": 23,
+      "ratingCount": 26,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -60256,8 +60633,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 3.6,
-      "ratingCount": 34,
+      "rating": 3.7,
+      "ratingCount": 35,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
