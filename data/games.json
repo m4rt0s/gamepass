@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-06-15T13:45:22.455Z",
+  "updatedAt": "2026-06-16T12:45:17.735Z",
   "market": "ES",
   "language": "es-ES",
-  "totalGames": 839,
+  "totalGames": 834,
   "counts": {
-    "essential": 129,
-    "premium": 589,
-    "pc": 519,
-    "ultimate": 746,
-    "total": 839
+    "essential": 128,
+    "premium": 585,
+    "pc": 515,
+    "ultimate": 741,
+    "total": 834
   },
   "categories": [
     "Acción y aventura",
@@ -1033,7 +1033,7 @@
         "Xbox Play Anywhere"
       ],
       "systemRequirements": [],
-      "maxInstallSize": 65640525824,
+      "maxInstallSize": 65640521728,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/age-of-empires-ii-definitive-edition/9N42SSSX2MTG"
     },
@@ -2251,8 +2251,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 3.1,
-      "ratingCount": 88,
+      "rating": 3.2,
+      "ratingCount": 90,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -2903,7 +2903,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.7,
-      "ratingCount": 21053,
+      "ratingCount": 21057,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -5503,11 +5503,11 @@
         "ultimate"
       ],
       "platform": "both",
-      "price": 49.99,
+      "price": 17.49,
       "msrp": 49.99,
       "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
+      "hasDiscount": true,
+      "discountPercent": 65,
       "rating": 3.9,
       "ratingCount": 21,
       "ageRating": 16,
@@ -5660,7 +5660,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.3,
-      "ratingCount": 132,
+      "ratingCount": 133,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -12100,7 +12100,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.3,
-      "ratingCount": 689,
+      "ratingCount": 691,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -12366,11 +12366,11 @@
         "ultimate"
       ],
       "platform": "console",
-      "price": 29.99,
+      "price": 11.99,
       "msrp": 29.99,
       "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
+      "hasDiscount": true,
+      "discountPercent": 60,
       "rating": 3.3,
       "ratingCount": 243,
       "ageRating": 18,
@@ -12402,7 +12402,7 @@
           "recommended": "Controladora de Xbox"
         }
       ],
-      "maxInstallSize": 73043832832,
+      "maxInstallSize": 74048405504,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/dead-by-daylight/C0N22P73QZ60"
     },
@@ -12434,11 +12434,11 @@
         "ultimate"
       ],
       "platform": "pc",
-      "price": 19.99,
+      "price": 7.99,
       "msrp": 19.99,
       "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
+      "hasDiscount": true,
+      "discountPercent": 60,
       "rating": 3.4,
       "ratingCount": 166,
       "ageRating": 18,
@@ -12506,7 +12506,7 @@
           "recommended": "Controladora de Xbox"
         }
       ],
-      "maxInstallSize": 61371211776,
+      "maxInstallSize": 62284730368,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/dead-by-daylight-windows/9NMS4SFNBGBH"
     },
@@ -15421,7 +15421,7 @@
           "recommended": "2 GB"
         }
       ],
-      "maxInstallSize": 1670197248,
+      "maxInstallSize": 1619169280,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/dome-keeper/9P8XKV2D5DZ5"
     },
@@ -17395,8 +17395,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 3.9,
-      "ratingCount": 19,
+      "rating": 3.8,
+      "ratingCount": 20,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -17987,7 +17987,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 55133245440,
+      "maxInstallSize": 55804551168,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/enlisted-xbox-one/9PF432CVQBXT"
     },
@@ -18293,7 +18293,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4,
-      "ratingCount": 146,
+      "ratingCount": 147,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -22024,7 +22024,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.7,
-      "ratingCount": 4372,
+      "ratingCount": 4375,
       "ageRating": 12,
       "pegiRating": "Supervisión parental recomendada",
       "pegiDescription": "Supervisión parental recomendada",
@@ -22185,7 +22185,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.2,
-      "ratingCount": 243,
+      "ratingCount": 247,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -22888,7 +22888,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.6,
-      "ratingCount": 11232,
+      "ratingCount": 11233,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -23193,8 +23193,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 4.3,
-      "ratingCount": 4623,
+      "rating": 4.4,
+      "ratingCount": 4625,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -24141,7 +24141,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 2,
-      "ratingCount": 41,
+      "ratingCount": 42,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -24550,7 +24550,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 2.9,
-      "ratingCount": 65,
+      "ratingCount": 66,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -28067,7 +28067,7 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 3.7,
+      "rating": 3.6,
       "ratingCount": 73,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
@@ -28578,56 +28578,51 @@
       "storeUrl": "https://www.xbox.com/es-es/games/store/joy-ride-turbo/C1ZWH2BZ9TSF"
     },
     {
-      "id": "9MWHMJ0SRBXV",
-      "title": "Jurassic World Evolution 2",
-      "description": "Jurassic World Evolution 2 es la esperada secuela de Jurassic World Evolution, el innovador simulador de gestión de Frontier de 2018. El juego ofrece una nueva campaña narrativa con las voces de los actores de la franquicia de Jurassic World, características nuevas y divertidas, cuatro modos de juego muy interesantes y un abanico de dinosaurios impresionantes ampliado.   \r\n\r\nUna historia original de Jurassic World \r\n\r\nAprende todo lo necesario para dominar el arte de la gestión de parques en el modo Campaña, una narrativa original y emocionante de Jurassic World situada tras los devastadores eventos de Jurassic World: El reino caído. Trabaja junto a personajes emblemáticos de las películas, como el Dr. Ian Malcolm (doblado en español por Juan Carlos Gustems - Jeff Goldblum en la versión original) y Claire Dearing (doblada en español por Ana Esther Alborg - Bryce Dallas Howard en la versión original), y encabeza los esfuerzos para controlar, proteger y contener a los dinosaurios salvajes que campan a sus anchas por todo Estados Unidos. \r\n\r\nCrea tu propio Jurassic World \r\n\r\nToma el control con herramientas de gestión y opciones creativas más completas. Construye una variedad de nuevos edificios personalizables, contrata a científicos y dale forma a tu parque para cumplir con las necesidades de los visitantes y dinosaurios. Da rienda suelta a tu creatividad en el modo Sandbox o pon a prueba tus habilidades en el modo Desafío mientras haces frente a nuevos desafíos medioambientales en ubicaciones de lo más variadas.\r\n\r\nJuega con la teoría del caos \r\n\r\nJuega momentos clave de tus películas favoritas, pero con algunas variaciones. Vive momentos alternativos de las películas de Jurassic World y Jurassic Park: todos los niveles se desarrollan en épocas y ubicaciones de las cinco películas. Sumérgete en la franquicia de Jurassic World y comprueba cómo se desarrollan los acontecimientos contigo al mando. \r\n\r\nDescubre dinosaurios impresionantes\r\n\r\nMás de 75 especies prehistóricas diferentes cobran vida en Jurassic World Evolution 2, entre las que se incluyen reptiles marinos y voladores muy solicitados. Los dinosaurios parecen más vivos que nunca cuando dominan el terreno, pelean por el territorio y reaccionan de forma inteligente al mundo que los rodea. Recurre a la bioingeniería para personalizar a los dinosaurios con llamativos colores y altera sus genomas para desbloquear diferentes rasgos.\r\n\r\n",
-      "shortDescription": "Jurassic World Evolution 2 es la esperada secuela de Jurassic World Evolution, el éxito de Frontier de 2018. La segunda parte de la franquicia ofrece una propuesta atrevida basada en el éxito que cosechó la primera entrega con su enfoque innovador e inmersivo. ",
-      "developer": "Frontier Developments",
-      "publisher": "Frontier Developments",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.1077.13843646153700405.faf0a0ab-da0c-4a73-a182-1b5794b3f805.46323daa-e6c1-4bdd-a1e4-2c78222de22e",
-      "heroImage": "https://store-images.s-microsoft.com/image/apps.54593.13843646153700405.faf0a0ab-da0c-4a73-a182-1b5794b3f805.23a7bea9-6d97-4060-9549-3f89ba81c29c",
+      "id": "9NZPKBFF0CV9",
+      "title": "Junkster",
+      "description": "Junkster es una nueva aventura de plataformas 3D de acción con una mecánica de construcción única.\n\nCuando una nave de carga intergaláctica se estrella en un peligroso planeta vertedero, depende de un pequeño y astuto robot de construcción llamado UM-13, o UM para abreviar, salvar el día!\n\nArmado solo con su fiel llave inglesa, UM debe transformar la chatarra inútil de la galaxia en una chatarra ligeramente más funcional mientras busca las piezas para reparar su nave y recupera su valiosa carga perdida de artefactos humanos.\n\nCon un estilo visual que captura la vibra retro de los cómics estadounidenses de los años 80, cada número lleno de acción muestra a UM enfrentándose cara a cara con hambrientos mutantes de basura y robots renegados.\n\nY como bono especial, cada emocionante número viene con un juguete de Junkster para agregar a tu colección.",
+      "shortDescription": "Junkster es un juego de plataformas y acción en 3D con una increíble mecánica de construcción. UM-13, un pequeño y valiente robot constructor, ha aterrizado de emergencia en un peligroso planeta vertedero. UM debe reparar su nave y recuperar su valiosa carga de artefactos humanos perdidos.",
+      "developer": "Stormcloud Games",
+      "publisher": "Stormcloud Games",
+      "imageUrl": "https://store-images.s-microsoft.com/image/apps.25795.14476298347695766.e0224d1c-bba4-4797-aea1-4547d8059308.812c0364-a316-46b6-9262-7dc10eb26839",
+      "heroImage": "https://store-images.s-microsoft.com/image/apps.49595.14476298347695766.e0224d1c-bba4-4797-aea1-4547d8059308.63933d0a-235e-4ced-8240-b0424a5d2624",
       "screenshots": [
-        "https://store-images.s-microsoft.com/image/apps.11940.13843646153700405.1c3c73dc-8372-4f2b-9aed-4128d2201424.5287a32b-8f9f-49db-80ac-f3ce9930029e",
-        "https://store-images.s-microsoft.com/image/apps.30437.13843646153700405.924d185c-4349-481c-aeb0-1806b6a3fe95.3d8269b8-a18e-4955-bc01-be78a2b51aca",
-        "https://store-images.s-microsoft.com/image/apps.37963.13843646153700405.1c3c73dc-8372-4f2b-9aed-4128d2201424.c4b31354-6cf7-4011-80f1-abaf674ae019",
-        "https://store-images.s-microsoft.com/image/apps.44686.13843646153700405.924d185c-4349-481c-aeb0-1806b6a3fe95.100f0e3d-2e8b-41c3-9ab1-94c80fdfe0b2"
+        "https://store-images.s-microsoft.com/image/apps.58727.14476298347695766.e0224d1c-bba4-4797-aea1-4547d8059308.caf0c359-4965-4452-983a-54cb524c512e",
+        "https://store-images.s-microsoft.com/image/apps.4744.14476298347695766.e0224d1c-bba4-4797-aea1-4547d8059308.ef6cc532-7ade-4ad6-90d2-51409bad1bce",
+        "https://store-images.s-microsoft.com/image/apps.1765.14476298347695766.e0224d1c-bba4-4797-aea1-4547d8059308.a4018ccb-c61e-4684-8fec-9740150db4bd",
+        "https://store-images.s-microsoft.com/image/apps.49233.14476298347695766.e0224d1c-bba4-4797-aea1-4547d8059308.05c6f357-575f-4ae2-b761-9f381ab56fd4"
       ],
-      "videoUrl": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftassets/13028c75-eada-48c3-9c90-33fd023cda78-AVS.m3u8?packagedStreaming=true",
-      "videoCaption": "ES_LAUNCH_TRAILER_OUT_NOW",
-      "releaseDate": "2021-11-09",
+      "videoUrl": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftassets/ddb6e7c1-76cd-4558-aa40-5bfc85a2fde6-AVS.m3u8?packagedStreaming=true",
+      "videoCaption": "Junkster Jugabilidad",
+      "releaseDate": "2026-06-16",
       "categories": [
-        "Simulación",
-        "Estrategia"
+        "Plataformas",
+        "Niños y familia",
+        "Acción y aventura"
       ],
       "tiers": [
         "pc",
-        "premium",
         "ultimate"
       ],
       "platform": "both",
-      "price": 59.99,
-      "msrp": 59.99,
+      "price": 9.99,
+      "msrp": 9.99,
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 3.9,
-      "ratingCount": 137,
-      "ageRating": 16,
-      "pegiRating": "PEGI 16",
-      "pegiDescription": "Apropiado a partir de 16 años",
+      "rating": 0,
+      "ratingCount": 0,
+      "ageRating": 7,
+      "pegiRating": "PEGI 7",
+      "pegiDescription": "Apropiado a partir de 7 años",
       "interactiveDescriptions": [],
       "capabilities": [
         "4K Ultra HD",
-        "HDR10",
         "Un jugador",
+        "60 fps +",
         "Optimizado para Xbox Series X|S",
-        "Entrega inteligente",
-        "Mouse y teclado de la consola",
-        "Controlador para juegos para PC",
         "Logros de Xbox",
-        "Presencia de Xbox",
-        "Cosas guardadas en la nube de Xbox",
-        "Xbox Play Anywhere"
+        "Cosas guardadas en la nube de Xbox"
       ],
       "systemRequirements": [
         {
@@ -28642,23 +28637,23 @@
         },
         {
           "title": "Gráficos",
-          "minimum": "(4GB VRAM) NVIDIA GeForce GTX 1050Ti (Legacy GPU: GeForce GTX 960) / AMD Radeon RX 470",
-          "recommended": "(6GB VRAM) NVIDIA GeForce GTX 1070 / AMD RX 570 (8GB)"
+          "minimum": "Nvidia GEFORCE GTX 970 or equivalent",
+          "recommended": "Nvidia RTX 2060 or equivalent"
         },
         {
           "title": "Procesador",
-          "minimum": "Intel i5-4590/AMD FX 8370",
-          "recommended": "Intel i7-5775C/AMD Ryzen 5 1500X"
+          "minimum": "Intel Core i5-8400, AMD Ryzen 5 2600",
+          "recommended": "Intel Core i7-10700, AMD Ryzen 7 3700X"
         },
         {
           "title": "Teclado",
           "minimum": "Teclado integrado",
-          "recommended": "Teclado integrado"
+          "recommended": ""
         },
         {
           "title": "Mouse",
           "minimum": "Mouse integrado",
-          "recommended": "Mouse integrado"
+          "recommended": ""
         },
         {
           "title": "Controladora",
@@ -28667,23 +28662,23 @@
         },
         {
           "title": "DirectX",
-          "minimum": "API de DirectX 12, nivel de característica de hardware 12",
-          "recommended": "API de DirectX 12, nivel de característica de hardware 12"
+          "minimum": "Versión 11",
+          "recommended": "Versión 11"
         },
         {
           "title": "Memoria",
           "minimum": "8 GB",
-          "recommended": "12 GB"
+          "recommended": "16 GB"
         },
         {
           "title": "Memoria de vídeo",
-          "minimum": "4 GB",
-          "recommended": "6 GB"
+          "minimum": "8 GB",
+          "recommended": "8 GB"
         }
       ],
-      "maxInstallSize": 11741827072,
-      "hasAddOns": true,
-      "storeUrl": "https://www.xbox.com/es-es/games/store/jurassic-world-evolution-2/9MWHMJ0SRBXV"
+      "maxInstallSize": 9636179968,
+      "hasAddOns": false,
+      "storeUrl": "https://www.xbox.com/es-es/games/store/junkster/9NZPKBFF0CV9"
     },
     {
       "id": "9NX7HCWL13Z9",
@@ -30998,101 +30993,6 @@
       "storeUrl": "https://www.xbox.com/es-es/games/store/los-sims-4-edici-n-ea-play/9PLFD17M47K3"
     },
     {
-      "id": "9N72G399183F",
-      "title": "Lost in Random: The Eternal Die",
-      "description": "UN JUEGO DE AZAR, UNA PRUEBA DE HABILIDAD\nLost in Random: The Eternal Die combina la acción dinámica en tiempo real, el combate táctico y las mecánicas de riesgo y recompensa con el dado para que cada instante de la batalla sea emocionante.\n\nSé la reina Alejandra, exgobernante de Azar, y descubre una historia independiente y original en su lucha por la venganza y la redención.\n\nDisfruta de un arsenal de cuatro armas únicas, ayúdate de cartas con habilidades poderosas, emplea reliquias elementales y lanza a Fortunata, tu fiel dado, de forma estratégica para cambiar las tornas de los combates. O acepta el riesgo de algunos juegos de azar donde lanzar el dado podría brindarte grandes recompensas... o consecuencias nefastas.\n \nNi siquiera la muerte es definitiva. Vuelve al santuario para desbloquear armas nuevas, comprar mejoras potentes, aceptar misiones de tus aliados y prepararte para el siguiente intento.\n\nUNA FANTASÍA OSCURA QUE COBRA VIDA\nExplora cuatro biomas dinámicos y repletos de peligros, secretos y desafíos impredecibles. Sumérgete en un mundo de extravagancia gótica y paisajes vívidos con una banda sonora ambiental hechizante.\n\nCon varios finales alternativos y un elenco de personajes estrafalarios, The Eternal Die te invita a disfrutar de otro capítulo inolvidable en el mundo de Azar.\n\nCARACTERÍSTICAS PRINCIPALES\n- Combates dinámicos donde cada segundo cuenta y que combinan la acción en tiempo real con la toma de decisiones táctica.\n- Una mecánica de lanzamiento de dados única que cambia las tornas de los combates de formas inesperadas.\n- Cuatro armas distintas y mejorables con diferentes estilos de juego.\n- +100 reliquias elementales y 15 cartas de habilidades potentes para personalizar tu estilo de juego.\n- Cuatro biomas generados de forma aleatoria y repletos de secretos, enemigos y desafíos arriesgados.\n- +30 enemigos únicos y 4 temibles jefes de mundo, a los que deberás enfrentarte con gran habilidad y estrategia.\n- Enfrentamientos generados de forma aleatoria, sinergias desarrollables con reliquias y ajustes de dificultad para que juegues a tu manera.\n- Un mundo de fantasía oscura y estilo Burton que incluye entornos y una banda sonora hechizantes.",
-      "shortDescription": "Enfréntate a un mal ancestral en Lost in Random: The Eternal Die, un roguelite de acción dinámico sito en el extravagante Azar. Sé la reina Alejandra, únete a Fortunata, tu fiel dado, usa reliquias y habilidades poderosas para luchar y lanza el dado para escapar de la pesadilla.",
-      "developer": "Stormteller Games",
-      "publisher": " Thunderful Publishing",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.3325.14006964332473416.10d59252-1152-47fd-84d5-bff9655a949d.66800450-ad18-407b-b6d7-cb091dd50358",
-      "heroImage": "https://store-images.s-microsoft.com/image/apps.42111.14006964332473416.10d59252-1152-47fd-84d5-bff9655a949d.425d3efd-49ac-4aea-b520-feb8a131cf81",
-      "screenshots": [
-        "https://store-images.s-microsoft.com/image/apps.45243.14006964332473416.b0126932-c0a7-417f-9642-005949f019a5.56e3cb4a-f6b4-44fc-b344-156339d4404b",
-        "https://store-images.s-microsoft.com/image/apps.25263.14006964332473416.b0126932-c0a7-417f-9642-005949f019a5.17b1d8dc-325e-4f0f-b876-fc1b878a8c76",
-        "https://store-images.s-microsoft.com/image/apps.46338.14006964332473416.b0126932-c0a7-417f-9642-005949f019a5.091e7b80-3a1a-4508-b73a-96bb8a9f589f",
-        "https://store-images.s-microsoft.com/image/apps.57930.14006964332473416.b0126932-c0a7-417f-9642-005949f019a5.8706e430-5e0f-4e97-abf5-ec6a72de4d30"
-      ],
-      "videoUrl": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftassets/0cc6faa8-bca5-41c5-b937-f24400eb81a1-AVS.m3u8?packagedStreaming=true",
-      "videoCaption": "Announcement Trailer ",
-      "releaseDate": "2025-06-17",
-      "categories": [
-        "Acción y aventura"
-      ],
-      "tiers": [
-        "pc",
-        "premium",
-        "ultimate"
-      ],
-      "platform": "both",
-      "price": 24.99,
-      "msrp": 24.99,
-      "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
-      "rating": 4,
-      "ratingCount": 37,
-      "ageRating": 7,
-      "pegiRating": "PEGI 7",
-      "pegiDescription": "Apropiado a partir de 7 años",
-      "interactiveDescriptions": [],
-      "capabilities": [
-        "4K Ultra HD",
-        "HDR10",
-        "Un jugador",
-        "60 fps +",
-        "Optimizado para Xbox Series X|S",
-        "Logros de Xbox",
-        "Presencia de Xbox",
-        "Cosas guardadas en la nube de Xbox",
-        "Xbox Play Anywhere"
-      ],
-      "systemRequirements": [
-        {
-          "title": "SO",
-          "minimum": "Windows 10 version 18362.0 or higher",
-          "recommended": "Windows 10 version 18362.0 or higher"
-        },
-        {
-          "title": "Arquitectura",
-          "minimum": "x64",
-          "recommended": "x64"
-        },
-        {
-          "title": "Gráficos",
-          "minimum": "NVIDIA GTX 650",
-          "recommended": "NVIDIA GTX 1650 4G"
-        },
-        {
-          "title": "Procesador",
-          "minimum": "Intel i5-4590 3.70 GHz",
-          "recommended": "Intel i5-4590 3.70 GHz"
-        },
-        {
-          "title": "DirectX",
-          "minimum": "Versión 11",
-          "recommended": "API de DirectX 12, nivel de característica de hardware 11"
-        },
-        {
-          "title": "Memoria",
-          "minimum": "8 GB",
-          "recommended": "8 GB"
-        },
-        {
-          "title": "Memoria de vídeo",
-          "minimum": "2 GB",
-          "recommended": "4 GB"
-        },
-        {
-          "title": "Controladora",
-          "minimum": "",
-          "recommended": "Controladora de Xbox"
-        }
-      ],
-      "maxInstallSize": 4153606144,
-      "hasAddOns": true,
-      "storeUrl": "https://www.xbox.com/es-es/games/store/lost-in-random-the-eternal-die/9N72G399183F"
-    },
-    {
       "id": "9NVRJS95FLM9",
       "title": "Lost in Random™",
       "description": "Tienta a la suerte en Lost in Random™, una trepidante aventura inspirada en la literatura gótica en la que la tirada de un dado dicta el destino de la gente.\r\n\r\nGobernado por una reina perversa, el reino de Azar se divide en seis reinos oscuros donde la vida viene dictada por un dado negro maldito. En esta historia, desarrollada por el galardonado estudio sueco Zoink y escrita por Ryan North, ganador de un premio Eisner y autor de Hora de Aventuras y el cómic de Marvel La imbatible chica ardilla, acompañarás a Par, una niña sola y sin recursos, en una oscura misión para salvar a su querida hermana Impar. Junto a su amigo Dadelio, un dado vivo, pequeño y extraño, Par debe aprender a aceptar el caos de Azar y descubrir una vieja historia con un mensaje moderno.\r\n\r\nRecorre las misteriosas calles adoquinadas de Azar, conoce a sus impredecibles habitantes y emprende misiones arriesgadas. Lucha en imponentes batallas con una mezcla de combates tácticos, mazos de cartas y explosivas tiradas de dados. Tendrás que adaptarte o morir luchando en enormes arenas de juego que cambian con cada tirada del dado. Cambia la suerte a tu favor y sumérgete en un oscuro mundo de fantasía donde solo sobreviven los corazones valientes.\r\n\r\nDESCUBRE UN CUENTO DE HADAS PERVERSO — En esta historia escrita por Ryan North, ganador de un premio Eisner y autor de Hora de Aventuras y el cómic de Marvel La imbatible chica ardilla, te adentrarás en un hermoso y macabro mundo de fantasía donde explorarás los seis retorcidos reinos de Azar, cada uno con sus propias y enloquecedoras reglas. Ayuda a sus habitantes impredecibles, salva a tu hermana y descubre una tortuosa historia que esconde un mensaje tremendamente moderno.\r\n\r\nTIRA EL DADO EN ÉPICAS BATALLAS TÁCTICAS — Enfréntate a lo desconocido con esta mezcla de combates tácticos y mazos de cartas, y adapta tu estrategia de combate sobre la marcha en arenas de juego en constante evolución.\r\n\r\nPON A PRUEBA TU SUERTE CONTRA TODO PRONÓSTICO — Plántale cara a un destino maldito y aprovecha el poder de la aleatoriedad. Alíate con tu amigo Dadelio para desafiar al azar, donde el curso de la batalla puede cambiar solo con lanzar un dado.\r\n\r\nTienta a la suerte. Debes ganar la partida.\r\n\r\nSUJETO A CONDICIONES Y LIMITACIONES. CONSULTA www.ea.com/es-es/legal PARA OBTENER MÁS INFORMACIÓN.",
@@ -33075,7 +32975,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.7,
-      "ratingCount": 11285,
+      "ratingCount": 11286,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -33137,7 +33037,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.7,
-      "ratingCount": 51133,
+      "ratingCount": 51138,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -33340,7 +33240,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 2299256832,
+      "maxInstallSize": 2472517632,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/minecraft/9MVXMVT8ZKWC"
     },
@@ -33614,7 +33514,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4,
-      "ratingCount": 15566,
+      "ratingCount": 15568,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -33809,7 +33709,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.5,
-      "ratingCount": 61074,
+      "ratingCount": 61077,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -33823,7 +33723,7 @@
         "Un jugador"
       ],
       "systemRequirements": [],
-      "maxInstallSize": 1924063232,
+      "maxInstallSize": 2209456128,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/minecraft-java-bedrock-edition-for-pc/9NXP44L49SHJ"
     },
@@ -34598,11 +34498,11 @@
         "ultimate"
       ],
       "platform": "both",
-      "price": 19.99,
+      "price": 1.99,
       "msrp": 19.99,
       "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
+      "hasDiscount": true,
+      "discountPercent": 90,
       "rating": 3.9,
       "ratingCount": 110,
       "ageRating": 7,
@@ -35354,7 +35254,7 @@
           "recommended": "Controladora de Xbox"
         }
       ],
-      "maxInstallSize": 93328289792,
+      "maxInstallSize": 94909018112,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/naraka-bladepoint/9P8SQQJ5T94B"
     },
@@ -42986,7 +42886,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.7,
-      "ratingCount": 223,
+      "ratingCount": 224,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -44013,7 +43913,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.1,
-      "ratingCount": 1409,
+      "ratingCount": 1410,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -44330,103 +44230,6 @@
       "maxInstallSize": 0,
       "hasAddOns": false,
       "storeUrl": "https://www.xbox.com/es-es/games/store/saga-completa-de-starcraft-ii/9PB7921QZ087"
-    },
-    {
-      "id": "9NFJBW6B6D78",
-      "title": "Scott Pilgrim vs. The World™: The Game – Complete Edition",
-      "description": "¡Redescubre el querido beat 'em up arcade en 2D inspirado en los emblemáticos cómics y la película de Scott Pilgrim contra el mundo en esta Complete Edition!\r\n\r\nIncluye el juego base Scott Pilgrim vs. The World™: The Game y los contenidos descargables originales de Knives Chau y Wallace.\r\n\r\nJuega con tus personajes preferidos: Scott Pilgrim, Ramona Flowers, Knives Chau, Stephen Stills y muchos más. Sube de nivel, aprende nuevas habilidades, desbloquea objetos y modos secretos, invoca a poderosos aliados y mucho más. \r\n\r\n¡Forma equipo con amigos y combinad vuestras habilidades para luchar contra las oleadas de enemigos, o compite contra ellos en minijuegos como el de balón prisionero, mientras derrotas a la Liga de los Malvados Ex de Ramona!",
-      "shortDescription": "¡Redescubre el querido beat 'em up arcade en 2D inspirado en los emblemáticos cómics y la película de Scott Pilgrim contra el mundo! Juega con tus personajes preferidos: ¡Scott Pilgrim, Ramona Flowers, Knives Chau, Stephen Stills y muchos más! ¡Forma equipo con tres amigos y enfréntate a oleadas de peligrosos enemigos para derrotar a la Liga de los Malvados Ex!",
-      "developer": "ENGINE SOFTWARE",
-      "publisher": "UBISOFT",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.26504.13598310245460509.b9490b3e-e3f6-42f9-b6b4-49dd10703225.67d012f7-2345-48e7-9a53-02eb9034d987",
-      "heroImage": "https://store-images.s-microsoft.com/image/apps.17506.13598310245460509.b9490b3e-e3f6-42f9-b6b4-49dd10703225.948dec73-1421-4be5-8645-e28ca514d83e",
-      "screenshots": [
-        "https://store-images.s-microsoft.com/image/apps.10098.13598310245460509.b9490b3e-e3f6-42f9-b6b4-49dd10703225.fcb86c23-511a-4f4a-a607-737e7c033b92",
-        "https://store-images.s-microsoft.com/image/apps.104.13598310245460509.b9490b3e-e3f6-42f9-b6b4-49dd10703225.9f59fe87-7cdf-442f-8dde-f3bc73e6f933",
-        "https://store-images.s-microsoft.com/image/apps.39250.13598310245460509.b9490b3e-e3f6-42f9-b6b4-49dd10703225.2485d503-238d-4f5d-8704-2f415652e7ab",
-        "https://store-images.s-microsoft.com/image/apps.46905.13598310245460509.b9490b3e-e3f6-42f9-b6b4-49dd10703225.ac9e828a-9130-4562-9113-493103353d43"
-      ],
-      "videoUrl": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftassets/719ab303-9905-431e-afa4-e0a9597bf3db-AVS.m3u8?packagedStreaming=true",
-      "videoCaption": "Scott Pilgrim vs. the World: The Game - Launch Trailer",
-      "releaseDate": "2021-01-13",
-      "categories": [
-        "Acción y aventura"
-      ],
-      "tiers": [
-        "ultimate"
-      ],
-      "platform": "console",
-      "price": 14.99,
-      "msrp": 14.99,
-      "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
-      "rating": 4.2,
-      "ratingCount": 14,
-      "ageRating": 12,
-      "pegiRating": "PEGI 12",
-      "pegiDescription": "Apropiado a partir de 12 años",
-      "interactiveDescriptions": [],
-      "capabilities": [
-        "Cooperativo en línea  (2-4)",
-        "Un jugador",
-        "Logros de Xbox",
-        "Presencia de Xbox",
-        "Clubs de Xbox"
-      ],
-      "systemRequirements": [
-        {
-          "title": "Arquitectura",
-          "minimum": "x64",
-          "recommended": "x64"
-        }
-      ],
-      "maxInstallSize": 1247559680,
-      "hasAddOns": false,
-      "storeUrl": "https://www.xbox.com/es-es/games/store/scott-pilgrim-vs-the-world-the-game-complete-edition/9NFJBW6B6D78"
-    },
-    {
-      "id": "9N51RG58SFS8",
-      "title": "Scott Pilgrim vs. The World™: The Game – Complete Edition",
-      "description": "¡Redescubre el querido beat 'em up arcade en 2D inspirado en los emblemáticos cómics y la película de Scott Pilgrim contra el mundo!\n\nJuega con tus personajes preferidos: Scott Pilgrim, Ramona Flowers, Knives Chau, Stephen Stills y muchos más. Sube de nivel, aprende nuevas habilidades, desbloquea objetos y modos secretos, invoca a poderosos aliados y mucho más. \n\n¡Forma equipo con amigos y combinad vuestras habilidades para luchar contra las oleadas de enemigos, o compite contra ellos en minijuegos como el de balón prisionero, mientras derrotas a la Liga de los Malvados Ex de Ramona!",
-      "shortDescription": "¡Redescubre el querido beat 'em up arcade en 2D inspirado en los emblemáticos cómics y la película de Scott Pilgrim contra el mundo! Juega con tus personajes preferidos: ¡Scott Pilgrim, Ramona Flowers, Knives Chau, Stephen Stills y muchos más! ¡Forma equipo con tres amigos y enfréntate a oleadas de peligrosos enemigos para derrotar a la Liga de los Malvados Ex!",
-      "developer": "ENGINE SOFTWARE",
-      "publisher": "UBISOFT",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.26504.13976482700534219.97fad990-e678-4863-a7ec-59c7dcda904c.0773ab44-ca34-4bb0-aa66-fb75b0bc804c",
-      "heroImage": "https://store-images.s-microsoft.com/image/apps.17506.13976482700534219.97fad990-e678-4863-a7ec-59c7dcda904c.5a4f78c0-03ff-44f7-a8d9-db7db5819f05",
-      "screenshots": [
-        "https://store-images.s-microsoft.com/image/apps.58621.13976482700534219.97fad990-e678-4863-a7ec-59c7dcda904c.f42963a7-c861-4d28-ba6f-ab01a162e495",
-        "https://store-images.s-microsoft.com/image/apps.24657.13976482700534219.97fad990-e678-4863-a7ec-59c7dcda904c.68bf405e-ac14-427e-823b-44f1d16a2f4c",
-        "https://store-images.s-microsoft.com/image/apps.21435.13976482700534219.97fad990-e678-4863-a7ec-59c7dcda904c.bc3bf9e0-a797-4431-84ee-909511817bb6",
-        "https://store-images.s-microsoft.com/image/apps.19237.13976482700534219.97fad990-e678-4863-a7ec-59c7dcda904c.dcecc206-0aa6-4cf9-9fa6-3215fb8dbbb3"
-      ],
-      "videoUrl": "",
-      "videoCaption": "",
-      "releaseDate": "",
-      "categories": [
-        "Acción y aventura"
-      ],
-      "tiers": [
-        "pc",
-        "ultimate"
-      ],
-      "platform": "pc",
-      "price": 0,
-      "msrp": 0,
-      "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
-      "rating": 0,
-      "ratingCount": 0,
-      "ageRating": 12,
-      "pegiRating": "PEGI 12",
-      "pegiDescription": "Apropiado a partir de 12 años",
-      "interactiveDescriptions": [],
-      "capabilities": [],
-      "systemRequirements": [],
-      "maxInstallSize": 0,
-      "hasAddOns": false,
-      "storeUrl": "https://www.xbox.com/es-es/games/store/scott-pilgrim-vs-the-world-the-game-complete-edition/9N51RG58SFS8"
     },
     {
       "id": "BQ4M1XWXFKHB",
@@ -45718,7 +45521,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 26427891712,
+      "maxInstallSize": 26654597120,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/smite-2/9NV8W1KJSQLL"
     },
@@ -45871,7 +45674,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.5,
-      "ratingCount": 114,
+      "ratingCount": 115,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -48005,7 +47808,7 @@
           "recommended": "Controladora de Xbox"
         }
       ],
-      "maxInstallSize": 8498991104,
+      "maxInstallSize": 8499286016,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/starsand-island/9P86LLDCL5CC"
     },
@@ -48114,7 +47917,7 @@
           "recommended": "Controladora de Xbox"
         }
       ],
-      "maxInstallSize": 4904951808,
+      "maxInstallSize": 4905365504,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/starseeker-astroneer-expeditions-game-preview/9NTZH69PZSH0"
     },
@@ -48622,7 +48425,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 24573554688,
+      "maxInstallSize": 24573677568,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/stellaris-console-edition-x-s/9MW2X7FQ4ZG9"
     },
@@ -48659,7 +48462,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.4,
-      "ratingCount": 55,
+      "ratingCount": 56,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -50086,103 +49889,6 @@
       "storeUrl": "https://www.xbox.com/es-es/games/store/techtonica-versi-n-preliminar-del-juego/9NR1RVDK9T78"
     },
     {
-      "id": "9NS3673HVH41",
-      "title": "Teenage Mutant Ninja Turtles: Shredder's Revenge",
-      "description": "HÉROES CON MEDIO CAPARAZÓN\r\n\r\nTeenage Mutant Ninja Turtles: Shredder’s Revenge presenta un estilo de juego rompedor, enraizado en las mecánicas clásicas e intemporales de los juego de lucha callejera, cortesía de los expertos en el género beat ’em up de Dotemu (Streets of Rage 4) y Tribute Games. Ábrete paso a golpes por preciosos entornos pixelados y mata a toneladas de enemigos letales con tu tortuga favorita, cada una de ellas con sus propias habilidades y movimientos, ¡por lo que cada partida es única! Elige un luchador, usa combos radicales para derrotar a tus rivales y experimenta intensos combates cargados de acción trepidante y extravagantes habilidades ninja. Mantente alerta en tu enfrentamiento en solitario con Shredder y su fiel Clan del Pie, ¡o únete a tus mejores amigos para jugar con hasta 6 jugadores a la vez!\r\n\r\nLAS TORTUGAS NO DEJAN EN PAZ A KRANG\r\n\r\nCon el asalto de Bebop y Rocksteady al Canal 6 para robar dispositivos ultramolones para apoyar el último plan malvado de Krang y Shredder, en Teenage Mutant Ninja Turtles: Shredder’s Revenge las tortugas tienen que pelear por una serie de escenarios clásicos de la franquicia. Desde Manhattan y Coney Island hasta las azoteas y las oscuras cloacas de la ciudad, ayuda al temible cuarteto a aplastar a soldados del Pie, guerreros triceratons y soldados de piedra para enviarlos de vuelta a la Dimensión X.\r\n\r\n¡TORTUGAS AL PODER!\r\n\r\nDisfruta de impresionantes gráficos de pixel art a todo color y de un estilo de Tortugas Ninja retro que te devolverá a los maravillosos 80. Cada personaje, vehículo, arma, objeto y escenario está directamente inspirado en la serie de TV de 1987, haciéndote sentir como su te hubieras metido en el televisor… ¡con una mezcla flipante de humor hilarante y aventuras repletas de acción!\r\n",
-      "shortDescription": "Teenage Mutant Ninja Turtles: Shredder’s Revenge reúne a Leonardo, Michelangelo, Donatello y Raphael para repartir estopa en un fabuloso y magníficamente realizado beat ‘em up de desplazamiento lateral que evoca el legendario diseño de las Tortugas Ninja de 1987 y rinde homenaje a juegos clásicos de los personajes, como Turtles In Time.\r\n",
-      "developer": "Tribute Games",
-      "publisher": "Dotemu",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.18992.14375592271313618.c7999e35-c8d7-49d4-b3fa-e5e1009423d7.9ad9ffdc-5c55-4cd8-b21b-6350569c88fd",
-      "heroImage": "https://store-images.s-microsoft.com/image/apps.12667.14375592271313618.8101bdfc-97e9-473f-8ca0-07fc83b1846b.84baa4ab-83cb-4dfa-b83c-baa8e9ee8bba",
-      "screenshots": [
-        "https://store-images.s-microsoft.com/image/apps.37531.14375592271313618.c7999e35-c8d7-49d4-b3fa-e5e1009423d7.2aa70763-05d6-47fe-bbbc-6d62e899d789",
-        "https://store-images.s-microsoft.com/image/apps.27508.14375592271313618.8101bdfc-97e9-473f-8ca0-07fc83b1846b.f7448210-3ccc-47c0-8b58-d83917db7180",
-        "https://store-images.s-microsoft.com/image/apps.7472.14375592271313618.8101bdfc-97e9-473f-8ca0-07fc83b1846b.78df5a6b-f4ad-4b22-a100-1f750b5b421b",
-        "https://store-images.s-microsoft.com/image/apps.46819.14375592271313618.c7999e35-c8d7-49d4-b3fa-e5e1009423d7.a7e6c090-5f5b-4b39-bad6-d6d8ea0d47c8"
-      ],
-      "videoUrl": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftassets/f357d21d-7f1f-4dd2-b5e6-437dcf59f670-AVS.m3u8?packagedStreaming=true",
-      "videoCaption": "Release Date Trailer",
-      "releaseDate": "2022-06-16",
-      "categories": [
-        "Acción y aventura"
-      ],
-      "tiers": [
-        "essential",
-        "pc",
-        "premium",
-        "ultimate"
-      ],
-      "platform": "both",
-      "price": 24.99,
-      "msrp": 24.99,
-      "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
-      "rating": 4.6,
-      "ratingCount": 207,
-      "ageRating": 12,
-      "pegiRating": "PEGI 12",
-      "pegiDescription": "Apropiado a partir de 12 años",
-      "interactiveDescriptions": [
-        "Compras dentro del juego"
-      ],
-      "capabilities": [
-        "Cooperación local de Xbox (2-6)",
-        "Cooperativo en línea  (2-6)",
-        "Un jugador",
-        "Cooperación multiplataforma de Xbox",
-        "Optimizado para Xbox Series X|S",
-        "Logros de Xbox",
-        "Cosas guardadas en la nube de Xbox",
-        "Xbox Play Anywhere"
-      ],
-      "systemRequirements": [
-        {
-          "title": "SO",
-          "minimum": "Windows 10 version 18362.0 or higher",
-          "recommended": "Windows 10 version 18362.0 or higher"
-        },
-        {
-          "title": "Arquitectura",
-          "minimum": "x64",
-          "recommended": "x64"
-        },
-        {
-          "title": "Gráficos",
-          "minimum": "NVIDIA GTX 960 / Radeon HD 5750 or better",
-          "recommended": "NVIDIA GTX 960 / Radeon HD 5750 or better"
-        },
-        {
-          "title": "Procesador",
-          "minimum": "Intel i5+",
-          "recommended": "Intel i5+"
-        },
-        {
-          "title": "Controladora",
-          "minimum": "Controladora de Xbox",
-          "recommended": "Controladora de Xbox"
-        },
-        {
-          "title": "DirectX",
-          "minimum": "Versión 11",
-          "recommended": "API de DirectX 12, nivel de característica de hardware 11"
-        },
-        {
-          "title": "Memoria",
-          "minimum": "4 GB",
-          "recommended": "4 GB"
-        },
-        {
-          "title": "Memoria de vídeo",
-          "minimum": "2 GB",
-          "recommended": "2 GB"
-        }
-      ],
-      "maxInstallSize": 1416626176,
-      "hasAddOns": true,
-      "storeUrl": "https://www.xbox.com/es-es/games/store/teenage-mutant-ninja-turtles-shredder-s-revenge/9NS3673HVH41"
-    },
-    {
       "id": "9NF83PRZK6K3",
       "title": "Tell Me Why: Capítulo 1-3",
       "description": "¡El episodio 1 ahora es GRATIS!\r\nTell Me Why es el juego de aventura narrativa más reciente de DONTNOD Entertainment, el estudio detrás de la aclamada franquicia Life is Strange. En este íntimo misterio, los gemelos reunidos Tyler y Alyson Ronan utilizan su vínculo sobrenatural para descifrar los recuerdos de su amada pero problemática niñez. Tell Me Why, ambientada en un hermoso pueblito de Alaska, incluye personajes realistas, temas maduros y elecciones fascinantes.\r\nMientras aparecen los recuerdos del pasado, tus elecciones afectarán la relación de los gemelos, determinarán la fuerza de su vínculo y formarán el rumbo de sus vidas.\r\n¡El primer episodio de Tell Me Why ahora es gratis! \r\n \r\nVisita el pasado, descubre la verdad y dale forma a tu futuro.\r\n• Descubre la verdad: Usa los poderes sobrenaturales de los gemelos para revivir y explorar sus conflictivos recuerdos de la infancia.\r\n• Comparte tu historia: Influye en la relación entre Tyler y Alyson con decisiones que determinarán su futuro.\r\n• Descubre más secretos: Prueba tu ingenio con rompecabezas que ahondan en la historia y abren una ventana al ''Libro de los duendes'', el mundo de fantasía de los gemelos.\r\nExperimenta situaciones y personajes de la vida real.\r\n• Personajes únicos: Construye relaciones y resuelve misterios a través de los ojos de personajes convincentes y realistas.\r\n• El esplendor de Alaska: Explora locaciones ubicadas en un hermoso y detallado pequeño pueblo de Alaska en impresionante 4K y HDR.\r\n\r\nUna historia con propósito: DONTNOD Entertainment y Xbox Game Studios realizaron estudios en sitio y se aliaron de cerca con defensores de la cultura, la salud mental y el género para crear una seria experiencia de la vida real.",
@@ -50597,7 +50303,7 @@
           "recommended": "Controladora de Xbox"
         }
       ],
-      "maxInstallSize": 6559694848,
+      "maxInstallSize": 6586830848,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/terratech-legion/9NG66K0Z31LH"
     },
@@ -51036,11 +50742,11 @@
         "ultimate"
       ],
       "platform": "both",
-      "price": 28.49,
+      "price": 5.69,
       "msrp": 28.49,
       "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
+      "hasDiscount": true,
+      "discountPercent": 80,
       "rating": 3.1,
       "ratingCount": 64,
       "ageRating": 18,
@@ -51816,7 +51522,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.7,
-      "ratingCount": 460,
+      "ratingCount": 461,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -53546,7 +53252,7 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 4.2,
+      "rating": 4,
       "ratingCount": 26,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
@@ -54690,7 +54396,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.8,
-      "ratingCount": 577,
+      "ratingCount": 578,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -58689,115 +58395,6 @@
       "storeUrl": "https://www.xbox.com/es-es/games/store/warhammer-40-000-rogue-trader/9P30BFHZ1BKN"
     },
     {
-      "id": "9NDS24HS4N02",
-      "title": "Warhammer 40,000: Space Marine - Master Crafted Edition",
-      "description": "Vuelve Warhammer 40,000 Space Marine. Mejorado para una nueva generación\nDisfruta de una calidad de vida superior y unos gráficos renovados para sumergirte en Warhammer 40,000: Space Marine como nunca antes.\n\nMejoras:\nAlta fidelidad y texturas mejoradas \nResolución 4K [Xbox Series X]\nModelos de personajes mejorados \nEsquema de configuración modernizada + interfaz renovada\nAudio remasterizado \n\nRESUMEN DEL PRODUCTO\nPonte en la armadura de un implacable Marine Espacial y usa una combinación de armamento letal para aplastar a las abrumadoras fuerzas orkas. Sumérgete en un mundo de brutal intensidad y violencia inspirado en la ciencia ficción fantástica más inmersiva jamás concebida. \n\nEn Warhammer 40,000: Space Marine, eres el capitán Titus, un Marine Espacial del Capítulo de Ultramarines y un veterano experimentado en incontables batallas. Una horda de millones de orkos ha invadido un mundo forja imperial, una de las fábricas del tamaño de un planeta en las que se crean las máquinas de guerra destinadas a la interminable batalla de la humanidad por la supervivencia. Perder este planeta no es una opción, pero una amenaza más oscura y mucho más perversa acecha entre las sombras de este mundo. Con una flota de liberación imperial en camino, los Ultramarines son enviados para proteger ubicaciones clave hasta que lleguen los refuerzos. El capitán Titus y una escuadra de veteranos Ultramarines usan bólteres y espadas sierra para enfrentarse a los enemigos de la humanidad. \n\nWarhammer 40,000: Space Marine - Master Crafted Edition incluye el juego Space Marine original y todo el contenido descargable:\n\n• Paquete de mapas Caos desatado\n• Contenido descargable Asalto Dreadnought\n• Contenido descargable de paquete de capítulo de Veterano de los Manos de Hierro\n• Contenido descargable de paquete de capítulo de campeón de la Guardia de la Muerte\n• Bólter reliquia dorado\n• Espada sierra reliquia dorada\n• Espada de energía\n• Conjunto de armadura de veterano de los Ángeles Sangrientos\n• Conjunto de armadura de veterano de las Salamandras\n• Conjunto de armadura de campeón de la Legión Alfa\n• Conjunto de armadura de Legión de los Condenados\n• Paquete de élite del Emperador\n• Paquete Legiones Traidoras                                                                   \n\nLÁNZATE A LA BATALLA. \nLánzate sin temor al fragor de la batalla como un imparable Marine Espacial. Jamás te escondas, jamás te agaches; solo purga cuanto se interponga en tu camino.\n\nDESATA LA MUERTE VIOLENTA Y EXPLÍCITA. \nA través de un sistema de combate innovador, alterna fácilmente entre armas a distancia de gran calibre y devastadores ataques cuerpo a cuerpo. Acabar con un enemigo nunca ha sido tan satisfactorio. \n\nVIVE LA SINIESTRA OSCURIDAD DE WARHAMMER 40,000.\nLánzate a un universo rico de paisajes asombrosos e inspiradores, enemigos letales, batallas inmensas y aniquilación despiadada. \n\nLLEVA LA BATALLA AL TERRENO EN LÍNEA \nForma tu propia escuadra de Marines Espaciales o contingente de Marines Espaciales del Caos y combate en partidas en línea 8c8. Obtén experiencia y desbloquea nuevas armas y armadura para personalizar a tus clases de marine devastadoras, de asalto y tácticas. Compatible con el juego multiplataforma\n\nMicrosoft ya no es compatible con Windows 10 o versiones anteriores",
-      "shortDescription": "",
-      "developer": "SneakyBox, Relic Entertainment",
-      "publisher": "SEGA Europe",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.15013.13608813797993653.5fea78ce-699f-4781-940d-07bc51037d8a.31ba3fd2-c17f-4c62-b283-aed519145a16",
-      "heroImage": "https://store-images.s-microsoft.com/image/apps.20450.13608813797993653.5fea78ce-699f-4781-940d-07bc51037d8a.02d61d24-4b19-41e4-b7f7-c884cdcaa4e9",
-      "screenshots": [
-        "https://store-images.s-microsoft.com/image/apps.26833.13608813797993653.5fea78ce-699f-4781-940d-07bc51037d8a.14e36d6d-35d6-4487-af23-56de214b2d9c",
-        "https://store-images.s-microsoft.com/image/apps.14628.13608813797993653.5fea78ce-699f-4781-940d-07bc51037d8a.8df15bd8-ab50-4a79-8f89-c140e06d902b",
-        "https://store-images.s-microsoft.com/image/apps.52023.13608813797993653.5fea78ce-699f-4781-940d-07bc51037d8a.64c90e03-08bb-4fc9-aa7f-820b30f17488",
-        "https://store-images.s-microsoft.com/image/apps.13544.13608813797993653.5fea78ce-699f-4781-940d-07bc51037d8a.e2f3aee3-fc6a-4af0-a6d5-73674b145015"
-      ],
-      "videoUrl": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftassets/d4aafe3c-2170-4df8-84a0-9dab96a49662-AVS.m3u8?packagedStreaming=true",
-      "videoCaption": "Announce",
-      "releaseDate": "2025-06-10",
-      "categories": [
-        "Shooter"
-      ],
-      "tiers": [
-        "pc",
-        "premium",
-        "ultimate"
-      ],
-      "platform": "both",
-      "price": 39.99,
-      "msrp": 39.99,
-      "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
-      "rating": 3.8,
-      "ratingCount": 81,
-      "ageRating": 18,
-      "pegiRating": "PEGI 18",
-      "pegiDescription": "Apropiado a partir de 18 años",
-      "interactiveDescriptions": [
-        "Interacción de usuarios"
-      ],
-      "capabilities": [
-        "4K Ultra HD",
-        "60 fps +",
-        "Sonido espacial",
-        "Optimizado para Xbox Series X|S",
-        "Logros de Xbox",
-        "Xbox Play Anywhere"
-      ],
-      "systemRequirements": [
-        {
-          "title": "SO",
-          "minimum": "Windows 10 version 18362.0 or higher",
-          "recommended": "Windows 10 version 18362.0 or higher"
-        },
-        {
-          "title": "Arquitectura",
-          "minimum": "x64",
-          "recommended": "x64"
-        },
-        {
-          "title": "Gráficos",
-          "minimum": "NVIDIA GeForce GTX 970 / Radeon R9 290X",
-          "recommended": "NVIDIA GeForce RTX 2060 / Radeon RX 6600"
-        },
-        {
-          "title": "Procesador",
-          "minimum": "Intel Core i5-6400 / AMD Ryzen 5 3600",
-          "recommended": "Intel Core i5-12400F /AMD Ryzen 5 5600x"
-        },
-        {
-          "title": "Teclado",
-          "minimum": "Teclado integrado",
-          "recommended": "Teclado integrado"
-        },
-        {
-          "title": "Mouse",
-          "minimum": "Mouse integrado",
-          "recommended": "Mouse integrado"
-        },
-        {
-          "title": "DirectX",
-          "minimum": "API de DirectX 12, nivel de característica de hardware 11",
-          "recommended": "API de DirectX 12, nivel de característica de hardware 11"
-        },
-        {
-          "title": "Memoria",
-          "minimum": "8 GB",
-          "recommended": "16 GB"
-        },
-        {
-          "title": "Memoria de vídeo",
-          "minimum": "4 GB",
-          "recommended": "6 GB"
-        },
-        {
-          "title": "Controladora",
-          "minimum": "",
-          "recommended": "Controladora de Xbox"
-        },
-        {
-          "title": "Micrófono",
-          "minimum": "",
-          "recommended": "Micrófono integrado"
-        }
-      ],
-      "maxInstallSize": 47382474752,
-      "hasAddOns": false,
-      "storeUrl": "https://www.xbox.com/es-es/games/store/warhammer-40-000-space-marine-master-crafted-edition/9NDS24HS4N02"
-    },
-    {
       "id": "9N9PCZWHVP2L",
       "title": "Warhammer 40,000: Space Marine 2",
       "description": "Tu oficio es la muerte.\n\nToma el control de las habilidades y brutalidad sobrehumanas de los marines espaciales, los mejores guerreros del Emperador. Ayúdate de tus capacidades letales y armamento devastador para mantener a raya los horrores de la galaxia en batallas épicas libradas en planetas lejanos. Descubre secretos oscuros para repeler la noche eterna y prueba tu lealtad a la humanidad.\n\nExtermina a los enjambres tiránidos. Defiende a la humanidad.\n\n●\tPurga los enjambres tiránidos como Titus, el legendario marine espacial, en una nueva campaña de lo más espectacular. Juega en solitario o con 2 amigos más en el modo cooperativo para 3 jugadores.\n●\tDisfruta de la acción frenética, sangrienta e intensa con cientos de enemigos en pantalla. De los creadores del gran juego de disparos World War Z.\n●\tDefiende el Imperium como marine espacial en misiones JcE rejugables cuyos niveles de brutalidad te sorprenderán. Juega con hasta 3 jugadores con 7 clases disponibles y desbloquea nuevas habilidades y cosméticos.\n●\tLibra la guerra eterna contra tus enemigos en partidas JcJ 6 vs. 6 bestiales ¡y hazte con la gloria para tu facción!",
@@ -58831,7 +58428,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.3,
-      "ratingCount": 246,
+      "ratingCount": 247,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -61482,7 +61079,7 @@
           "recommended": "Micrófono integrado"
         }
       ],
-      "maxInstallSize": 23805878272,
+      "maxInstallSize": 23805865984,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/world-of-tanks-heat/9N11JM7F5CXK"
     },
@@ -61583,7 +61180,7 @@
           "recommended": "4 GB"
         }
       ],
-      "maxInstallSize": 85318168576,
+      "maxInstallSize": 88015736832,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/world-of-warships/9NK9K07FDPJV"
     },
