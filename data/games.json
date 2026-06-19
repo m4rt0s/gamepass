@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-06-18T11:43:16.422Z",
+  "updatedAt": "2026-06-19T11:59:31.552Z",
   "market": "ES",
   "language": "es-ES",
-  "totalGames": 837,
+  "totalGames": 839,
   "counts": {
-    "essential": 128,
-    "premium": 589,
+    "essential": 127,
+    "premium": 588,
     "pc": 516,
-    "ultimate": 744,
-    "total": 837
+    "ultimate": 743,
+    "total": 839
   },
   "categories": [
     "Acción y aventura",
@@ -774,8 +774,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 4.6,
-      "ratingCount": 37,
+      "rating": 4.7,
+      "ratingCount": 38,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -2435,7 +2435,7 @@
       "hasDiscount": true,
       "discountPercent": 75,
       "rating": 2.2,
-      "ratingCount": 383,
+      "ratingCount": 384,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -8650,8 +8650,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 2.7,
-      "ratingCount": 84,
+      "rating": 2.6,
+      "ratingCount": 85,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -8718,8 +8718,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 2.8,
-      "ratingCount": 88,
+      "rating": 2.7,
+      "ratingCount": 89,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -10172,7 +10172,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.7,
-      "ratingCount": 1141,
+      "ratingCount": 1142,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -16246,7 +16246,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.2,
-      "ratingCount": 408,
+      "ratingCount": 409,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -16927,7 +16927,7 @@
       "hasDiscount": true,
       "discountPercent": 70,
       "rating": 4.2,
-      "ratingCount": 103,
+      "ratingCount": 104,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -17241,6 +17241,194 @@
       "maxInstallSize": 75675578368,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/ea-sports-fc-25-para-xbox-series-x-s/9NNPSTWT06VM"
+    },
+    {
+      "id": "9NK13T4QFPQW",
+      "title": "EA SPORTS FC™ 26 para Xbox One",
+      "description": "El Club es tuyo en EA SPORTS FC™ 26.\n\nVive The World's Game como nunca antes en EA SPORTS FC™ 26. La última actualización presenta un nuevo modo de torneo internacional con 48 selecciones nacionales, junto con nuevos estadios auténticos para jugar. Afronta desafíos de Mánager en vivo con temática internacional y entra en Carrera de futbolista con nuevos ICONOS y Héroes internacionales.\nJuega a tu manera con una experiencia de juego renovada y moldeada según los comentarios de la comunidad, desafíos de Mánager en vivo que presentan nuevos escenarios a lo largo de la temporada y nuevos arquetipos inspirados en grandes del deporte.\n\nPon a prueba tu plantilla de ensueño en Football Ultimate Team™ con nuevos eventos en vivo y modos de torneo, además de una experiencia renovada de Rivals y Champs.\nVive The World’s Game como nunca antes en EA SPORTS FC™ 26, con datos de partidos de las mejores ligas del mundo en las que participan más de 20 000 futbolistas reales.\n\nEste juego incluye la compra opcional en el juego de divisa virtual que se puede utilizar para adquirir artículos virtuales del juego, incluida una selección aleatoria de artículos virtuales del juego.\n\nSujeto a condiciones y limitaciones. Consulta ea.com/es-es/legal/legal-disclosures para obtener más información.\n\nSujeto a condiciones y limitaciones. Consulta ea.com/games/ea-sports-fc/fc-26/game-disclaimers para obtener más información.\n\nLos FC Points no están disponibles para su compra en Bélgica y Corea del Sur.\n\nEs necesaria una descarga independiente para los comentarios de audio de idiomas distintos al inglés y el idioma de los ajustes de la consola.\n\n© 2025 Electronic Arts Inc. Electronic Arts, EA, EA SPORTS, el logotipo de EA SPORTS, EA SPORTS FC, el logotipo de EA SPORTS FC, Frostbite, el logotipo de Frostbite, Football Ultimate Team y Ultimate Team son marcas comerciales de Electronic Arts Inc.",
+      "shortDescription": "El Club es tuyo en EA SPORTS FC™ 26.\nJuega a tu manera con una experiencia de juego renovada según los comentarios de la comunidad, desafíos de Mánager en vivo que traen nuevos escenarios a la temporada y nuevos arquetipos inspirados en grandes del deporte.",
+      "developer": "EA CANADA",
+      "publisher": "Electronic Arts",
+      "imageUrl": "https://store-images.s-microsoft.com/image/apps.7574.13665948255535452.6d8553bd-d6c9-4090-869c-05032efb323d.6ca71ea2-7a36-444d-9de1-ad47842ec246",
+      "heroImage": "https://store-images.s-microsoft.com/image/apps.45937.13665948255535452.6d8553bd-d6c9-4090-869c-05032efb323d.e8288a32-e4b7-4886-ba27-cba2b6a09a13",
+      "screenshots": [
+        "https://store-images.s-microsoft.com/image/apps.36288.13628388140711442.b4288d99-175c-4445-b6fe-03ffee0457a3.06840614-bdc1-4548-9483-b5f4d85b13c1",
+        "https://store-images.s-microsoft.com/image/apps.63630.13665948255535452.d93b5d6d-aaa5-4c34-95b4-e4a25c2d92e5.205c1f38-4c98-4523-8117-e50355738a32",
+        "https://store-images.s-microsoft.com/image/apps.37750.13628388140711442.b4288d99-175c-4445-b6fe-03ffee0457a3.3c4325c8-275a-4676-b17b-0c2544071934",
+        "https://store-images.s-microsoft.com/image/apps.28420.13628388140711442.b4288d99-175c-4445-b6fe-03ffee0457a3.dbe7855d-d339-447f-b89e-845dacfb69b3"
+      ],
+      "videoUrl": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftassets/780b8367-d2c2-4d54-8e35-02d0971c7506-AVS.m3u8?packagedStreaming=true",
+      "videoCaption": "EA SPORTS FC 26 | The World's Game - Trailer",
+      "releaseDate": "",
+      "categories": [
+        "Deportes",
+        "Simulación"
+      ],
+      "tiers": [],
+      "platform": "console",
+      "price": 0,
+      "msrp": 0,
+      "currency": "EUR",
+      "hasDiscount": false,
+      "discountPercent": 0,
+      "rating": 1.8,
+      "ratingCount": 12,
+      "ageRating": 3,
+      "pegiRating": "PEGI 3",
+      "pegiDescription": "Apropiado a partir de 3 años",
+      "interactiveDescriptions": [
+        "Compras dentro del juego (Incluye artículos aleatorios)"
+      ],
+      "capabilities": [
+        "Cooperación local de Xbox (2-4)",
+        "Cooperativo en línea  (2-2)",
+        "Multijugador local de Xbox (2-4)",
+        "Multijugador en línea  (2-22)",
+        "Multijugador multiplataforma de Xbox",
+        "HDR10",
+        "Un jugador",
+        "Cooperación multiplataforma de Xbox",
+        "Trazado de rayos",
+        "60 fps +",
+        "Entrega inteligente",
+        "Logros de Xbox",
+        "Presencia de Xbox"
+      ],
+      "systemRequirements": [
+        {
+          "title": "Arquitectura",
+          "minimum": "x64",
+          "recommended": "x64"
+        }
+      ],
+      "maxInstallSize": 74475528192,
+      "hasAddOns": true,
+      "storeUrl": "https://www.xbox.com/es-es/games/store/ea-sports-fc-26-para-xbox-one/9NK13T4QFPQW"
+    },
+    {
+      "id": "9P9FTXPKQ35P",
+      "title": "EA SPORTS FC™ 26 para Xbox Series X|S",
+      "description": "El Club es tuyo en EA SPORTS FC™ 26.\n\nVive The World's Game como nunca antes en EA SPORTS FC™ 26. La última actualización presenta un nuevo modo de torneo internacional con 48 selecciones nacionales, junto con nuevos estadios auténticos para jugar. Afronta desafíos de Mánager en vivo con temática internacional y entra en Carrera de futbolista con nuevos ICONOS y Héroes internacionales.\nJuega a tu manera con una experiencia de juego renovada y moldeada según los comentarios de la comunidad, desafíos de Mánager en vivo que presentan nuevos escenarios a lo largo de la temporada y nuevos arquetipos inspirados en grandes del deporte.\n\nPon a prueba tu plantilla de ensueño en Football Ultimate Team™ con nuevos eventos en vivo y modos de torneo, además de una experiencia renovada de Rivals y Champs.\nVive The World’s Game como nunca antes en EA SPORTS FC™ 26, con datos de partidos de las mejores ligas del mundo en las que participan más de 20 000 futbolistas reales.\n\nEste juego incluye la compra opcional en el juego de divisa virtual que se puede utilizar para adquirir artículos virtuales del juego, incluida una selección aleatoria de artículos virtuales del juego.\n\nSujeto a condiciones y limitaciones. Consulta ea.com/es-es/legal/legal-disclosures para obtener más información.\n\nSujeto a condiciones y limitaciones. Consulta ea.com/games/ea-sports-fc/fc-26/game-disclaimers para obtener más información.\n\nLos FC Points no están disponibles para su compra en Bélgica y Corea del Sur.\n\nEs necesaria una descarga independiente para los comentarios de audio de idiomas distintos al inglés y el idioma de los ajustes de la consola.\n\n© 2025 Electronic Arts Inc. Electronic Arts, EA, EA SPORTS, el logotipo de EA SPORTS, EA SPORTS FC, el logotipo de EA SPORTS FC, Frostbite, el logotipo de Frostbite, Football Ultimate Team y Ultimate Team son marcas comerciales de Electronic Arts Inc.",
+      "shortDescription": "El Club es tuyo en EA SPORTS FC™ 26.\nJuega a tu manera con una experiencia de juego renovada según los comentarios de la comunidad, desafíos de Mánager en vivo que traen nuevos escenarios a la temporada y nuevos arquetipos inspirados en grandes del deporte.",
+      "developer": "EA CANADA",
+      "publisher": "Electronic Arts",
+      "imageUrl": "https://store-images.s-microsoft.com/image/apps.7574.14143997528953872.47f85861-9d63-490a-8d39-2fda8228a3ec.eec7cad1-ab84-4cb6-a8e7-6c2acf5ba10f",
+      "heroImage": "https://store-images.s-microsoft.com/image/apps.45937.14143997528953872.47f85861-9d63-490a-8d39-2fda8228a3ec.4671e05d-4068-4ef5-b867-cf5827056f3a",
+      "screenshots": [
+        "https://store-images.s-microsoft.com/image/apps.36288.13628388140711442.b4288d99-175c-4445-b6fe-03ffee0457a3.06840614-bdc1-4548-9483-b5f4d85b13c1",
+        "https://store-images.s-microsoft.com/image/apps.63630.14143997528953872.c53b74e0-5dc5-48e0-8017-b7e14664f22f.19385d5e-d2a7-4cde-8632-4fa41c9cd8ef",
+        "https://store-images.s-microsoft.com/image/apps.37750.13628388140711442.b4288d99-175c-4445-b6fe-03ffee0457a3.3c4325c8-275a-4676-b17b-0c2544071934",
+        "https://store-images.s-microsoft.com/image/apps.28420.13628388140711442.b4288d99-175c-4445-b6fe-03ffee0457a3.dbe7855d-d339-447f-b89e-845dacfb69b3"
+      ],
+      "videoUrl": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftassets/4b7012cd-e915-4680-be37-5e2e6e3e72c7-AVS.m3u8?packagedStreaming=true",
+      "videoCaption": "EA SPORTS FC 26 | The World's Game - Trailer",
+      "releaseDate": "",
+      "categories": [
+        "Deportes",
+        "Simulación"
+      ],
+      "tiers": [],
+      "platform": "console",
+      "price": 0,
+      "msrp": 0,
+      "currency": "EUR",
+      "hasDiscount": false,
+      "discountPercent": 0,
+      "rating": 2.3,
+      "ratingCount": 143,
+      "ageRating": 3,
+      "pegiRating": "PEGI 3",
+      "pegiDescription": "Apropiado a partir de 3 años",
+      "interactiveDescriptions": [
+        "Compras dentro del juego (Incluye artículos aleatorios)"
+      ],
+      "capabilities": [
+        "Cooperación local de Xbox (2-4)",
+        "Cooperativo en línea  (2-2)",
+        "Multijugador local de Xbox (2-4)",
+        "Multijugador en línea  (2-22)",
+        "Multijugador multiplataforma de Xbox",
+        "4K Ultra HD",
+        "HDR10",
+        "Un jugador",
+        "Cooperación multiplataforma de Xbox",
+        "Trazado de rayos",
+        "60 fps +",
+        "Entrega inteligente",
+        "Logros de Xbox",
+        "Presencia de Xbox"
+      ],
+      "systemRequirements": [
+        {
+          "title": "Arquitectura",
+          "minimum": "x64",
+          "recommended": "x64"
+        }
+      ],
+      "maxInstallSize": 82495524864,
+      "hasAddOns": true,
+      "storeUrl": "https://www.xbox.com/es-es/games/store/ea-sports-fc-26-para-xbox-series-x-s/9P9FTXPKQ35P"
+    },
+    {
+      "id": "9MXZBTLG26VX",
+      "title": "EA SPORTS FC™ 26 Standard Edition para Xbox One y Xbox Series X|S",
+      "description": "EA SPORTS FC™ 26 Standard Edition incluye las versiones para Xbox One y Xbox Series X|S†.\n\nEl Club es tuyo en EA SPORTS FC™ 26.\n\nVive The World's Game como nunca antes en EA SPORTS FC™ 26. La última actualización presenta un nuevo modo de torneo internacional con 48 selecciones nacionales, junto con nuevos estadios auténticos para jugar. Afronta desafíos de Mánager en vivo con temática internacional y entra en Carrera de futbolista con nuevos ICONOS y Héroes internacionales.\nJuega a tu manera con una experiencia de juego renovada y moldeada según los comentarios de la comunidad, desafíos de Mánager en vivo que presentan nuevos escenarios a lo largo de la temporada y nuevos arquetipos inspirados en grandes del deporte.\n\nPon a prueba tu plantilla de ensueño en Football Ultimate Team™ con nuevos eventos en vivo y modos de torneo, además de una experiencia renovada de Rivals y Champs.\nVive The World’s Game como nunca antes en EA SPORTS FC™ 26, con datos de partidos de las mejores ligas del mundo en las que participan más de 20 000 futbolistas reales.\n\nEste juego incluye la compra opcional en el juego de divisa virtual que se puede utilizar para adquirir artículos virtuales del juego, incluida una selección aleatoria de artículos virtuales del juego.\n\nSujeto a condiciones y limitaciones. Consulta ea.com/es-es/legal/legal-disclosures para obtener más información.\n\n†Sujeto a condiciones y limitaciones. Consulta www.ea.com/games/ea-sports-fc/fc-26/dual-entitlement para obtener más información.\n\n‡Sujeto a condiciones y limitaciones. Consulta ea.com/games/ea-sports-fc/fc-26/game-disclaimers para obtener más información.\n\nLos FC Points no están disponibles para su compra en Bélgica y Corea del Sur.\n\nEs necesaria una descarga independiente para los comentarios de audio de idiomas distintos al inglés y el idioma de los ajustes de la consola.\n\n© 2025 Electronic Arts Inc. Electronic Arts, EA, EA SPORTS, el logotipo de EA SPORTS, EA SPORTS FC, el logotipo de EA SPORTS FC, Frostbite, el logotipo de Frostbite, Football Ultimate Team y Ultimate Team son marcas comerciales de Electronic Arts Inc.",
+      "shortDescription": "El Club es tuyo en EA SPORTS FC™ 26.\nJuega a tu manera con una experiencia de juego renovada según los comentarios de la comunidad, desafíos de Mánager en vivo que traen nuevos escenarios a la temporada y nuevos arquetipos inspirados en grandes del deporte.",
+      "developer": "EA CANADA",
+      "publisher": "Electronic Arts",
+      "imageUrl": "https://store-images.s-microsoft.com/image/apps.30635.13880594673876343.551ce2b0-44ef-4a79-84ad-a4b648f6fa74.3465a252-e8ad-46dc-a28d-c057f0ac3585",
+      "heroImage": "https://store-images.s-microsoft.com/image/apps.46451.13880594673876343.551ce2b0-44ef-4a79-84ad-a4b648f6fa74.06412b51-60f2-44c7-999c-6611754059d0",
+      "screenshots": [
+        "https://store-images.s-microsoft.com/image/apps.36288.13628388140711442.b4288d99-175c-4445-b6fe-03ffee0457a3.06840614-bdc1-4548-9483-b5f4d85b13c1",
+        "https://store-images.s-microsoft.com/image/apps.63630.13880594673876343.551ce2b0-44ef-4a79-84ad-a4b648f6fa74.d24c2ef9-af2e-47a1-9847-f8bef9559d14",
+        "https://store-images.s-microsoft.com/image/apps.37750.13628388140711442.b4288d99-175c-4445-b6fe-03ffee0457a3.3c4325c8-275a-4676-b17b-0c2544071934",
+        "https://store-images.s-microsoft.com/image/apps.28420.13628388140711442.b4288d99-175c-4445-b6fe-03ffee0457a3.dbe7855d-d339-447f-b89e-845dacfb69b3"
+      ],
+      "videoUrl": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftassets/ec1fc4b3-3bdf-4cd1-acaa-0a267dc9730d-AVS.m3u8?packagedStreaming=true",
+      "videoCaption": "EA SPORTS FC 26 | The World's Game - Trailer",
+      "releaseDate": "2025-09-25",
+      "categories": [
+        "Deportes"
+      ],
+      "tiers": [],
+      "platform": "console",
+      "price": 15.99,
+      "msrp": 79.99,
+      "currency": "EUR",
+      "hasDiscount": true,
+      "discountPercent": 80,
+      "rating": 2.1,
+      "ratingCount": 188,
+      "ageRating": 3,
+      "pegiRating": "PEGI 3",
+      "pegiDescription": "Apropiado a partir de 3 años",
+      "interactiveDescriptions": [
+        "Compras dentro del juego (Incluye artículos aleatorios)"
+      ],
+      "capabilities": [
+        "Cooperación local de Xbox (2-4)",
+        "Cooperativo en línea  (2-2)",
+        "Multijugador local de Xbox (2-4)",
+        "Multijugador en línea  (2-22)",
+        "Multijugador multiplataforma de Xbox",
+        "4K Ultra HD",
+        "HDR10",
+        "Un jugador",
+        "Cooperación multiplataforma de Xbox",
+        "Trazado de rayos",
+        "60 fps +",
+        "Entrega inteligente"
+      ],
+      "systemRequirements": [
+        {
+          "title": "Arquitectura",
+          "minimum": "x64",
+          "recommended": "x64"
+        }
+      ],
+      "maxInstallSize": 82495524864,
+      "hasAddOns": true,
+      "storeUrl": "https://www.xbox.com/es-es/games/store/ea-sports-fc-26-standard-edition-para-xbox-one-y-xbox-series-x-s/9MXZBTLG26VX"
     },
     {
       "id": "9NSDM7MBGG8L",
@@ -18031,8 +18219,8 @@
     {
       "id": "9NHKL695M9F2",
       "title": "Enlisted",
-      "description": "Enlisted es un shooter MMO en primera persona basado en escuadrones que cubre las batallas clave de la Segunda Guerra Mundial. El juego recrea cuidadosamente las armas, los vehículos militares y la atmósfera de esa época, mientras demuestra los enfrentamientos realmente masivos de numerosos soldados, tanques y aviones con artillería y apoyo naval. \n\nLa mayoría de los modos de juego para Alistados simulan una batalla que involucra a varios pelotones de infantería y le da al jugador el control sobre un escuadrón de soldados con varios roles (es decir, soldado de metralleta, francotirador, operador de radio, fusilero y otros), toda la tripulación de un vehículo militar o un avión. piloto. Uno de los luchadores se controla directamente, mientras que otros se mueven y disparan de forma independiente siguiendo las órdenes generales del jugador. En una situación en la que todos los soldados del escuadrón han caído, un jugador reaparece con el siguiente escuadrón disponible. Esta decisión hace que las batallas de alistados se vean masivas y espectaculares, mientras que la participación de cada jugador individual en la victoria general del equipo es bastante significativa.\n\nCaracterísticas:\n\n– Batallas épicas que parecen tan masivas como las históricas, como la Invasión de Normandía. Los jugadores asumen los roles de un escuadrón de infantería o un comandante de la tripulación de un tanque o un piloto de avión.\n\n– Alto aporte de cada jugador en la victoria del equipo: a pesar de la masividad de las batallas, el resultado se define significativamente por el desempeño de cada jugador. \n\n– Más de 10 clases de escuadrones distintivos como asalto, francotirador, artillero, morterista, lanzallamas, antitanque, ingeniero, especialistas de radio, tripulación de tanques, pilotos de aviones y otros.\n\n– Cientos de armas, vehículos terrestres y tipos de aviones. Cada una de ellas se basa en un modelo real utilizado en la específica campaña histórica de la Segunda Guerra Mundial.\n\n– Un jugador puede personalizar y entrenar los escuadrones de acuerdo con su estilo de juego individual, desbloquear ventajas y mejoras siempre que esto no contradiga el principio de precisión histórica.",
-      "shortDescription": "Enlisted es un shooter MMO en primera persona basado en escuadrones que cubre las batallas clave de la Segunda Guerra Mundial. El juego recrea cuidadosamente las armas, los vehículos militares y la atmósfera de esa época, mientras demuestra los enfrentamientos realmente masivos de numerosos soldados, tanques y aviones con artillería y apoyo naval. ",
+      "description": "¡En Enlisted, no sólo estarás al mando de un solo soldado, sino de todo un escuadrón! Este shooter MMO basado en escuadrones recrea las batallas clave de la guerra más sangrienta del siglo XX, con cientos de soldados, tanques y aviones participando en cada batalla.\n\n¡Lidera a tus escuadrones hacia la victoria!\n\nMúltiples vidas\nCada jugador dirige su propio escuadrón de soldados controlados por la IA en la batalla. Si pierdes a un soldado, puedes cambiar inmediatamente a otro de tu escuadrón y continuar la lucha.\n¡Gracias a esto, las batallas en Enlisted parecen realmente masivas e intensas, similares a los campos de batalla reales de la Segunda Guerra Mundial!\n\nFrentes Icónicos\n¡Las batallas te llevarán a todos los rincones del mundo! ¡Lucha en varias islas del Océano Pacífico, en los pueblos de Normandía, en las calles de Berlín, en los campos nevados de Moscú, en el corazón de Stalingrado o incluso en las arenas de Túnez!\nEn el juego participan cuatro países en la guerra: EEUU, URSS, Alemania y Japón. Elige uno o todos ellos y construye tu propio ejército a tu gusto a partir de la miríada de escuadrones con distintas especialidades. Según tus elecciones, acabarás en diferentes campos de batalla, cada uno con sus propias armas, vehículos y uniformes a juego.\n\nArmas combinadas\nNo sólo la infantería, sino también 400 del equipo militar más famoso y diverso está a tu disposición: tanques, vehículos blindados, motocicletas y aviones, tanto cazas como bombarderos, están a disposición de tu ejército.\nAl mismo tiempo, tanquistas y pilotos son soldados totalmente entrenados. ¿Tu vehículo ha resultado dañado? ¡Déjalo atrás y únete al combate a pie, continuando la lucha como un escuadrón de infantería!\n\nHerramientas de guerra\n18 clases diferentes de soldados, cada una con ventajas únicas y armas especializadas, que incluyen no sólo las clásicas armas ligeras, sino también armas pesadas: cañones antitanque, ametralladoras pesadas, cañones antiaéreos, lanzacohetes, lanzallamas, lanzagranadas y muchas más, para que puedas adaptarte a cualquier situación y superar todos los desafíos.\nEstas mecánicas únicas te permiten flanquear al enemigo, dejar caer a tus paracaidistas tras las líneas enemigas, construir fortificaciones y emplazamientos de armas, y utilizar docenas de tácticas diferentes para avanzar hacia los objetivos de la misión.",
+      "shortDescription": "¡En Enlisted, no sólo estarás al mando de un solo soldado, sino de todo un escuadrón! Este shooter MMO basado en escuadrones recrea las batallas clave de la guerra más sangrienta del siglo XX, con cientos de soldados, tanques y aviones participando en cada batalla.",
       "developer": "Darkflow Software",
       "publisher": "Gaijin Distribution Kft",
       "imageUrl": "https://store-images.s-microsoft.com/image/apps.4889.13628462776883363.4ce215b9-ddc3-4532-97df-f15c3a95e667.139b95cc-4784-4af1-823e-0c46920ce025",
@@ -18120,7 +18308,7 @@
           "recommended": "8 GB"
         }
       ],
-      "maxInstallSize": 55812005888,
+      "maxInstallSize": 55812030464,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/enlisted/9NHKL695M9F2"
     },
@@ -18187,7 +18375,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 55804551168,
+      "maxInstallSize": 55804530688,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/enlisted-xbox-one/9PF432CVQBXT"
     },
@@ -22224,7 +22412,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.7,
-      "ratingCount": 4376,
+      "ratingCount": 4377,
       "ageRating": 12,
       "pegiRating": "Supervisión parental recomendada",
       "pegiDescription": "Supervisión parental recomendada",
@@ -22385,7 +22573,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.2,
-      "ratingCount": 251,
+      "ratingCount": 256,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -22478,7 +22666,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.6,
-      "ratingCount": 1817,
+      "ratingCount": 1819,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -23394,7 +23582,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.3,
-      "ratingCount": 4625,
+      "ratingCount": 4626,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -26417,7 +26605,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.4,
-      "ratingCount": 564,
+      "ratingCount": 565,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -26578,7 +26766,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.1,
-      "ratingCount": 55,
+      "ratingCount": 56,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -28810,8 +28998,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 4.8,
-      "ratingCount": 6,
+      "rating": 4.7,
+      "ratingCount": 7,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -28915,7 +29103,7 @@
       "hasDiscount": true,
       "discountPercent": 30,
       "rating": 4.6,
-      "ratingCount": 15,
+      "ratingCount": 16,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -28983,7 +29171,7 @@
           "recommended": "Controladora de Xbox"
         }
       ],
-      "maxInstallSize": 25120800768,
+      "maxInstallSize": 25106231296,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/jurassic-world-evolution-3/9NX7HCWL13Z9"
     },
@@ -29767,7 +29955,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.6,
-      "ratingCount": 259,
+      "ratingCount": 260,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -31388,7 +31576,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.2,
-      "ratingCount": 54,
+      "ratingCount": 55,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -32671,7 +32859,7 @@
           "recommended": "16 GB"
         }
       ],
-      "maxInstallSize": 11305791488,
+      "maxInstallSize": 11305840640,
       "hasAddOns": false,
       "storeUrl": "https://www.xbox.com/es-es/games/store/menace-versi-n-preliminar-del-juego/9NQCJ397CQ6P"
     },
@@ -33238,7 +33426,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.7,
-      "ratingCount": 51149,
+      "ratingCount": 51152,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -33410,7 +33598,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.7,
-      "ratingCount": 21105,
+      "ratingCount": 21106,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -33715,7 +33903,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4,
-      "ratingCount": 15574,
+      "ratingCount": 15577,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -33910,7 +34098,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.5,
-      "ratingCount": 61087,
+      "ratingCount": 61092,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -33964,7 +34152,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.8,
-      "ratingCount": 71,
+      "ratingCount": 72,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -35109,7 +35297,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.3,
-      "ratingCount": 135,
+      "ratingCount": 136,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -42653,7 +42841,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.7,
-      "ratingCount": 476,
+      "ratingCount": 477,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -44114,7 +44302,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.1,
-      "ratingCount": 1413,
+      "ratingCount": 1414,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -45275,8 +45463,8 @@
       "shortDescription": "Skull and Bones es un juego de rol de acción naval de mundo abierto en el que los combates en barco, tus decisiones de construcción y tu habilidad para navegar definirán tu leyenda pirata. Juega en solitario o en equipo junto a otros dos amigos para derrotar a barcos rivales y bestias míticas en un vasto océano con hasta 20 jugadores. Nadie controla los mares.",
       "developer": "",
       "publisher": "Ubisoft",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.28321.63081064281400272.4fc981be-857b-4efb-bc35-33ac8e469242.e0966262-7644-4196-8ae9-f387e13e23b4",
-      "heroImage": "https://store-images.s-microsoft.com/image/apps.7213.63081064281400272.4fc981be-857b-4efb-bc35-33ac8e469242.68ae30f2-a70b-4e87-b49e-5450b8dfbeb7",
+      "imageUrl": "https://store-images.s-microsoft.com/image/apps.4835.63081064281400272.9b0f0eaf-a998-4bb1-8993-58e590d94272.27c9e9e2-339f-40b4-9742-459a10d0da86",
+      "heroImage": "https://store-images.s-microsoft.com/image/apps.51950.63081064281400272.9b0f0eaf-a998-4bb1-8993-58e590d94272.aac9bf0f-efa1-4bb9-8b19-60c2cca7f902",
       "screenshots": [
         "https://store-images.s-microsoft.com/image/apps.50480.63081064281400272.4fc981be-857b-4efb-bc35-33ac8e469242.3fdb0404-1fc8-4cf4-879b-17a9ceb04356",
         "https://store-images.s-microsoft.com/image/apps.12814.63081064281400272.4fc981be-857b-4efb-bc35-33ac8e469242.8655e7cb-3929-44ba-8864-f5e72d5ec3f7",
@@ -46021,8 +46209,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 3.1,
-      "ratingCount": 8,
+      "rating": 3.3,
+      "ratingCount": 9,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -48016,7 +48204,7 @@
     {
       "id": "9NTZH69PZSH0",
       "title": "STARSEEKER: Astroneer Expeditions (Game Preview)",
-      "description": "Este juego es un trabajo en curso. Es posible que, con el tiempo, cambie o no cambie, o que no se lance como producto final. Compra este producto únicamente si estás satisfecho con el estado actual del juego no terminado.\n\nSTARSEEKER: Astroneer Expeditions es un nuevo juego ambientado en el universo de Astroneer que se centra en los hallazgos, la cooperación y la unidad. Mientras exploran las profundidades del espacio a bordo de la ESS Starseeker, los jugadores deberán colaborar con la tripulación de la estación para completar objetivos en las regiones más recónditas de cada planeta. Planifica y emprende expediciones temporizadas para obtener recursos, completar misiones y hacer avanzar tus objetivos, los del grupo y los de toda la estación.\n\nExplora mundos creados a mano en constante evolución\nLa ESS Starseeker orbita planetas desconocidos con la esperanza de descubrir los misterios que encierran. La tripulación colabora para adentrarse y desbloquear nuevas zonas de aterrizaje mediante un esfuerzo colectivo que llevará a nuevas regiones y a biomas singulares con elementos diferentes de juego. El planeta Tephra es la primera parada. Es un mundo de amplios humedales, densas selvas y grandes océanos, cubierto por los restos de un viaje de EXO Dynamics que terminó en tragedia.\n\nLidera expediciones a desafiantes mundos alienígenas llenos de vida\n¡Cada planeta está lleno de toda clase de encuentros! Criaturas fascinantes y peligrosas, flora letal y fuerzas misteriosas esperan a la tripulación. Coopera con tu grupo para completar misiones que se pueden resolver de diferentes maneras, aunque para todas tendrás que improvisar un poco. Después, lleva el botín a la estación para preparar equipo avanzado con el que acometer misiones aún más peligrosas.\n\nDesbloquea equipo y personaliza tu selección\nLos jugadores disponen de herramientas avanzadas con las que acometer las expediciones y hacer frente a los misteriosos peligros del espacio. Completa las misiones que te encarguen los líderes de la estación y otros tripulantes para desbloquear planos y ajustar tu arsenal personal. Lo necesitarás para hacer frente a los mayores retos de cada planeta.\n\nColabora con los PNJ para desvelar la trama\nLa ESS Starseeker es el corazón de la tripulación, una estación espacial en constante evolución donde los jugadores se reúnen para planificar expediciones, mejorar su equipo y quedar con otros jugadores. Completa las misiones que te encomienda la Fuerza Fronteriza, el grupo de exploradores de élite que controla la ESS Starseeker. Conoce a los personajes, descubre el mundo y desentraña los misterios del espacio profundo...\n\nVisita https://www.starseekergame.com/ para obtener detalles completos sobre el estado más reciente del juego, así como para proporcionar comentarios y notificar problemas.",
+      "description": "Este juego es un trabajo en curso. Es posible que, con el tiempo, cambie o no cambie, o que no se lance como producto final. Compra este producto únicamente si estás satisfecho con el estado actual del juego no terminado.\n\nSTARSEEKER: Astroneer Expeditions es un nuevo juego multijugador ambientado en el universo de Astroneer que se centra en los hallazgos, el juego cooperativo online y la unidad. Mientras exploran las profundidades del espacio a bordo de la ESS Starseeker, los jugadores deberán colaborar con la tripulación de la estación para completar objetivos en las regiones más recónditas de cada planeta. Planifica y emprende expediciones temporizadas para obtener recursos, completar misiones y hacer avanzar tus objetivos, los del grupo y los de toda la estación.\n\nExplora mundos creados a mano en constante evolución\nLa ESS Starseeker orbita planetas desconocidos con la esperanza de descubrir los misterios que encierran. La tripulación colabora para adentrarse y desbloquear nuevas zonas de aterrizaje mediante un esfuerzo colectivo que llevará a nuevas regiones y a biomas singulares con elementos diferentes de juego. El planeta Tephra es la primera parada. Es un mundo de amplios humedales, densas selvas y grandes océanos, cubierto por los restos de un viaje de EXO Dynamics que terminó en tragedia.\n\nLidera expediciones a desafiantes mundos alienígenas llenos de vida\n¡Cada planeta está lleno de toda clase de encuentros! Criaturas fascinantes y peligrosas, flora letal y fuerzas misteriosas esperan a la tripulación. Coopera con tu grupo para completar misiones que se pueden resolver de diferentes maneras, aunque para todas tendrás que improvisar un poco. Después, lleva el botín a la estación para preparar equipo avanzado con el que acometer misiones aún más peligrosas.\n\nDesbloquea equipo y personaliza tu selección\nLos jugadores disponen de herramientas avanzadas con las que acometer las expediciones y hacer frente a los misteriosos peligros del espacio. Completa las misiones que te encarguen los líderes de la estación y otros tripulantes para desbloquear planos y ajustar tu arsenal personal. Lo necesitarás para hacer frente a los mayores retos de cada planeta.\n\nColabora con los PNJ para desvelar la trama\nLa ESS Starseeker es el corazón de la tripulación, una estación espacial en constante evolución donde los jugadores se reúnen para planificar expediciones, mejorar su equipo y quedar con otros jugadores. Completa las misiones que te encomienda la Fuerza Fronteriza, el grupo de exploradores de élite que controla la ESS Starseeker. Conoce a los personajes, descubre el mundo y desentraña los misterios del espacio profundo...\n\nVisita https://www.starseekergame.com/ para obtener detalles completos sobre el estado más reciente del juego, así como para proporcionar comentarios y notificar problemas.",
       "shortDescription": "Este juego es un trabajo en curso. Es posible que, con el tiempo, cambie o no cambie, o que no se lance como producto final. Compra este producto únicamente si estás satisfecho con el estado actual del juego no terminado. \n\nAcompaña a la tripulación de la ESS Starseeker y explora extraños mundos colaborando con tus amigos. Completa objetivos planetarios en expediciones temporizadas antes de volver a la seguridad de la estación. ¡Consigue y desbloquea poderosas tecnologías para hacer frente a los peligros del espacio!",
       "developer": "System Era Softworks",
       "publisher": "Devolver Digital",
@@ -48028,8 +48216,8 @@
         "https://store-images.s-microsoft.com/image/apps.56623.14404967494100621.5eaa4b7f-e90c-40b0-9544-034c08a5dee4.5bfa1e14-f159-473f-9925-38d9d3dadc91",
         "https://store-images.s-microsoft.com/image/apps.36792.14404967494100621.5eaa4b7f-e90c-40b0-9544-034c08a5dee4.3f226fa7-4737-4da4-bab4-c637bc11be1f"
       ],
-      "videoUrl": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftassets/eed390a4-8661-4acc-affe-cc9aed4f5037-AVS.m3u8?packagedStreaming=true",
-      "videoCaption": "Starseeker - Announce Trailer",
+      "videoUrl": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftassets/c2ca10a9-2d57-4dc7-b1a2-b4c3fa0eb910-AVS.m3u8?packagedStreaming=true",
+      "videoCaption": "Launch Trailer",
       "releaseDate": "9998-12-30",
       "categories": [
         "Acción y aventura"
@@ -52525,7 +52713,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 74921959424,
+      "maxInstallSize": 74921750528,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/the-first-descendant/9P8FBXKMCLWC"
     },
@@ -53453,8 +53641,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 4,
-      "ratingCount": 26,
+      "rating": 4.2,
+      "ratingCount": 25,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -54620,7 +54808,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 52314791936,
+      "maxInstallSize": 53010804736,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/tom-clancy-s-rainbow-six-siege-elite-edition/9PB3RHWXB9MR"
     },
@@ -57284,7 +57472,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 2.9,
-      "ratingCount": 257,
+      "ratingCount": 259,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -58113,7 +58301,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.4,
-      "ratingCount": 8301,
+      "ratingCount": 8302,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -58184,7 +58372,7 @@
           "recommended": "Mouse integrado"
         }
       ],
-      "maxInstallSize": 73648209920,
+      "maxInstallSize": 73650008064,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/war-thunder/BX1DTCBD1HXJ"
     },
@@ -58592,7 +58780,7 @@
           "recommended": "16 GB"
         }
       ],
-      "maxInstallSize": 35068514304,
+      "maxInstallSize": 35068522496,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/warhammer-40-000-rogue-trader/9P30BFHZ1BKN"
     },
@@ -59919,7 +60107,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.7,
-      "ratingCount": 34,
+      "ratingCount": 35,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -61529,10 +61717,11 @@
       ],
       "tiers": [
         "essential",
+        "pc",
         "premium",
         "ultimate"
       ],
-      "platform": "console",
+      "platform": "both",
       "price": 39.99,
       "msrp": 39.99,
       "currency": "EUR",
@@ -61548,65 +61737,8 @@
         "Cooperativo en línea  (2-4)",
         "Multijugador en línea  (2-8)",
         "Un jugador",
-        "Cooperación multiplataforma de Xbox"
-      ],
-      "systemRequirements": [
-        {
-          "title": "Arquitectura",
-          "minimum": "x64",
-          "recommended": "x64"
-        }
-      ],
-      "maxInstallSize": 38106693632,
-      "hasAddOns": true,
-      "storeUrl": "https://www.xbox.com/es-es/games/store/world-war-z-aftermath/9PLCL2VB2SC0"
-    },
-    {
-      "id": "9PBF1FL7K192",
-      "title": "World War Z: Aftermath",
-      "description": "World War Z: Aftermath es el shooter cooperativo de zombis definitivo basado en el taquillazo de Paramount Pictures y el siguiente paso de World War Z, el éxito que ha cautivado a más de 20 millones de jugadores. Cambia el curso del apocalipsis zombi en consolas y en PC con cross-play completo. Únete a hasta tres amigos o juega en solitario con compañeros de IA contra hordas de zombis insaciables en una historia intensa por episodios que se desarrolla en nuevas ubicaciones arrasadas de todo el mundo: Roma, el Vaticano y la península rusa de Kamchatka.\r\n\r\nWorld War Z: Aftermath también incluye todo el contenido de la Game of the Year Edition de World War Z.\r\n \r\nNuevas historias de un mundo en guerra\r\nEpisodios de historia completamente nuevos en Roma, el Vaticano y la zona más oriental de Rusia: Kamchatka. Juega tanto con personajes nuevos como con otros conocidos para enfrentarte a los muertos vivientes con un nuevo sistema brutal de combate cuerpo a cuerpo, decimar a los zekes con movimientos únicos, ventajas y armas duales como la hoz y el cuchillo. Rechaza a nuevas monstruosidades muertas vivientes, incluyendo manadas de ratas hambrientas que desatarán el caos en tu equipo. \r\n \r\nLa nueva generación de la horda zombi\r\nJuega en una calidad gloriosa: 4K|60 FPS. Resiste el asalto de oleadas infinitas de zombis cada vez más fuertes en el nuevo modo de juego Modo Horda XL, con cientos de zombis más en pantalla de lo que era posible anteriormente. \r\n \r\nProgreso detallado y una nueva perspectiva\r\nVive una nueva perspectiva con el inmersivo modo de primera persona de Aftermath. Sube de nivel ocho clases únicas: pistolero, destructor, rebanador, médico, manitas, exterminador, maestro de drones y una nueva: vanguardista, cada una de ellas con sus propias ventajas y estilos de juego. Personaliza tus armas para sobrevivir a cualquier desafío y conquista nuevas misiones diarias con modificadores especiales para conseguir recompensas adicionales.",
-      "shortDescription": "World War Z: Aftermath es el shooter cooperativo de zombis definitivo y el siguiente paso de World War Z, el éxito que ha cautivado a más de 15 millones de jugadores. Rechaza hordas de zombis insaciables en una historia intensa por episodios situada en nuevas ubicaciones arrasadas de todo el mundo.",
-      "developer": "Saber Interactive Inc.",
-      "publisher": "Saber Interactive Inc.",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.52097.14124816078460443.a6dec9dc-b4f7-4744-94f3-470e02e1dd63.eda5ab58-b829-43e1-9e83-53d108036961",
-      "heroImage": "https://store-images.s-microsoft.com/image/apps.6226.14045535769728047.85d0711f-7ce8-4a86-bd72-ebb541ae51d5.d217f364-9faa-49c2-9d66-271db2341be3",
-      "screenshots": [
-        "https://store-images.s-microsoft.com/image/apps.5000.13937288450529658.ab96774b-0397-41c7-a60d-fb7283a8d4c6.9087daad-6810-4304-82a4-d372e75e11cb",
-        "https://store-images.s-microsoft.com/image/apps.58811.13937288450529658.ab96774b-0397-41c7-a60d-fb7283a8d4c6.28d648c4-f0b5-4210-8b52-5a8cce2f9f92",
-        "https://store-images.s-microsoft.com/image/apps.31631.13937288450529658.ab96774b-0397-41c7-a60d-fb7283a8d4c6.4c2b1ef9-67a9-4bfc-91a5-bdf59d4f0def",
-        "https://store-images.s-microsoft.com/image/apps.37135.13937288450529658.ab96774b-0397-41c7-a60d-fb7283a8d4c6.b72ecce6-2d55-4b29-896a-f9046f2413e9"
-      ],
-      "videoUrl": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftassets/c8f49a7b-9939-4dff-aeeb-1af7d6961c77-AVS.m3u8?packagedStreaming=true",
-      "videoCaption": "World War Z: Aftermath - Horde Mode XL Update",
-      "releaseDate": "2021-09-21",
-      "categories": [
-        "Acción y aventura"
-      ],
-      "tiers": [
-        "essential",
-        "pc",
-        "premium",
-        "ultimate"
-      ],
-      "platform": "pc",
-      "price": 39.99,
-      "msrp": 39.99,
-      "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
-      "rating": 3.6,
-      "ratingCount": 71,
-      "ageRating": 18,
-      "pegiRating": "PEGI 18",
-      "pegiDescription": "Apropiado a partir de 18 años",
-      "interactiveDescriptions": [
-        "Interacción de usuarios"
-      ],
-      "capabilities": [
-        "Cooperativo en línea  (2-8)",
-        "Multijugador en línea  (2-4)",
-        "Un jugador",
-        "Cooperación multiplataforma de Xbox"
+        "Cooperación multiplataforma de Xbox",
+        "Xbox Play Anywhere"
       ],
       "systemRequirements": [
         {
@@ -61630,19 +61762,19 @@
           "recommended": "Intel Core i7-3970 @ 3.50GHz"
         },
         {
-          "title": "Controladora",
-          "minimum": "Controladora de Xbox",
-          "recommended": "Controladora de Xbox"
+          "title": "DirectX",
+          "minimum": "Versión 11",
+          "recommended": "Versión 11"
         },
         {
-          "title": "Micrófono",
-          "minimum": "Micrófono integrado",
-          "recommended": "Micrófono integrado"
+          "title": "Memoria",
+          "minimum": "8 GB",
+          "recommended": "16 GB"
         }
       ],
-      "maxInstallSize": 78234882048,
+      "maxInstallSize": 78405013504,
       "hasAddOns": true,
-      "storeUrl": "https://www.xbox.com/es-es/games/store/world-war-z-aftermath/9PBF1FL7K192"
+      "storeUrl": "https://www.xbox.com/es-es/games/store/world-war-z-aftermath/9PLCL2VB2SC0"
     },
     {
       "id": "BRJNRZ9N734V",
