@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-06-23T10:52:50.379Z",
+  "updatedAt": "2026-06-24T10:39:32.155Z",
   "market": "ES",
   "language": "es-ES",
-  "totalGames": 839,
+  "totalGames": 838,
   "counts": {
     "essential": 127,
     "premium": 588,
     "pc": 516,
     "ultimate": 743,
-    "total": 839
+    "total": 838
   },
   "categories": [
     "Acción y aventura",
@@ -2903,7 +2903,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.7,
-      "ratingCount": 21061,
+      "ratingCount": 21062,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -3955,8 +3955,7 @@
         "Multijugador en línea  (2-4)",
         "Un jugador",
         "60 fps +",
-        "Logros de Xbox",
-        "FPS Boost Series X | S"
+        "Logros de Xbox"
       ],
       "systemRequirements": [
         {
@@ -4284,8 +4283,7 @@
         "HDR10",
         "Un jugador",
         "Xbox One X mejorado",
-        "Logros de Xbox",
-        "FPS Boost Series X | S"
+        "Logros de Xbox"
       ],
       "systemRequirements": [
         {
@@ -4597,8 +4595,7 @@
         "4K Ultra HD",
         "Un jugador",
         "Xbox One X mejorado",
-        "Logros de Xbox",
-        "FPS Boost Series X | S"
+        "Logros de Xbox"
       ],
       "systemRequirements": [
         {
@@ -4647,9 +4644,7 @@
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
       "interactiveDescriptions": [],
-      "capabilities": [
-        "FPS Boost Series X | S"
-      ],
+      "capabilities": [],
       "systemRequirements": [
         {
           "title": "Arquitectura",
@@ -5558,7 +5553,7 @@
           "recommended": ""
         }
       ],
-      "maxInstallSize": 9142849536,
+      "maxInstallSize": 9162489856,
       "hasAddOns": false,
       "storeUrl": "https://www.xbox.com/es-es/games/store/baldur-s-gate-and-baldur-s-gate-ii-enhanced-editions/9NCNBWZSHZR5"
     },
@@ -6097,8 +6092,7 @@
         "Compras dentro del juego (Incluye artículos aleatorios)"
       ],
       "capabilities": [
-        "Multijugador en línea  (4-64)",
-        "FPS Boost Series X | S"
+        "Multijugador en línea  (4-64)"
       ],
       "systemRequirements": [
         {
@@ -6676,8 +6670,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 3,
-      "ratingCount": 13,
+      "rating": 2.9,
+      "ratingCount": 14,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -10172,7 +10166,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.7,
-      "ratingCount": 1143,
+      "ratingCount": 1144,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -12899,7 +12893,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.3,
-      "ratingCount": 245,
+      "ratingCount": 246,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -13172,9 +13166,7 @@
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
       "interactiveDescriptions": [],
-      "capabilities": [
-        "FPS Boost Series X | S"
-      ],
+      "capabilities": [],
       "systemRequirements": [
         {
           "title": "Arquitectura",
@@ -13220,9 +13212,7 @@
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
       "interactiveDescriptions": [],
-      "capabilities": [
-        "FPS Boost Series X | S"
-      ],
+      "capabilities": [],
       "systemRequirements": [
         {
           "title": "Arquitectura",
@@ -13510,7 +13500,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.2,
-      "ratingCount": 291,
+      "ratingCount": 293,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -15060,8 +15050,7 @@
       "capabilities": [
         "Un jugador",
         "Logros de Xbox",
-        "Cosas guardadas en la nube de Xbox",
-        "FPS Boost Series X | S"
+        "Cosas guardadas en la nube de Xbox"
       ],
       "systemRequirements": [
         {
@@ -15202,8 +15191,7 @@
       "interactiveDescriptions": [],
       "capabilities": [
         "4K Ultra HD",
-        "Xbox One X mejorado",
-        "FPS Boost Series X | S"
+        "Xbox One X mejorado"
       ],
       "systemRequirements": [
         {
@@ -16228,7 +16216,7 @@
         "https://store-images.s-microsoft.com/image/apps.50698.14239344665439398.f72b7e9e-0a95-4e76-b1e3-8989c4d70e2e.c68df532-84d3-4cd9-9762-f0808253259b",
         "https://store-images.s-microsoft.com/image/apps.47290.14239344665439398.f72b7e9e-0a95-4e76-b1e3-8989c4d70e2e.4b3ff77d-7277-41ea-9156-245785bea58f"
       ],
-      "videoUrl": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftassets/8ca133c2-d18a-4f6f-9409-9aac5a270db3-AVS.m3u8?packagedStreaming=true",
+      "videoUrl": "https://cdn.trailers.xboxservices.com/trailers/00000000-0000-0000-0000-000000000000/xbox/prod/videos/mainprofile/14239344665439398/f506e24e-0020-4482-ac42-ed2612671555/manifest.m3u8",
       "videoCaption": "DOOM: The Dark Ages",
       "releaseDate": "2025-05-15",
       "categories": [
@@ -16349,9 +16337,7 @@
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
       "interactiveDescriptions": [],
-      "capabilities": [
-        "FPS Boost Series X | S"
-      ],
+      "capabilities": [],
       "systemRequirements": [
         {
           "title": "Arquitectura",
@@ -16398,9 +16384,7 @@
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
       "interactiveDescriptions": [],
-      "capabilities": [
-        "FPS Boost Series X | S"
-      ],
+      "capabilities": [],
       "systemRequirements": [
         {
           "title": "Arquitectura",
@@ -17370,67 +17354,6 @@
       "storeUrl": "https://www.xbox.com/es-es/games/store/ea-sports-fc-26-para-xbox-series-x-s/9P9FTXPKQ35P"
     },
     {
-      "id": "9MXZBTLG26VX",
-      "title": "EA SPORTS FC™ 26 Standard Edition para Xbox One y Xbox Series X|S",
-      "description": "EA SPORTS FC™ 26 Standard Edition incluye las versiones para Xbox One y Xbox Series X|S†.\n\nEl Club es tuyo en EA SPORTS FC™ 26.\n\nVive The World's Game como nunca antes en EA SPORTS FC™ 26. La última actualización presenta un nuevo modo de torneo internacional con 48 selecciones nacionales, junto con nuevos estadios auténticos para jugar. Afronta desafíos de Mánager en vivo con temática internacional y entra en Carrera de futbolista con nuevos ICONOS y Héroes internacionales.\nJuega a tu manera con una experiencia de juego renovada y moldeada según los comentarios de la comunidad, desafíos de Mánager en vivo que presentan nuevos escenarios a lo largo de la temporada y nuevos arquetipos inspirados en grandes del deporte.\n\nPon a prueba tu plantilla de ensueño en Football Ultimate Team™ con nuevos eventos en vivo y modos de torneo, además de una experiencia renovada de Rivals y Champs.\nVive The World’s Game como nunca antes en EA SPORTS FC™ 26, con datos de partidos de las mejores ligas del mundo en las que participan más de 20 000 futbolistas reales.\n\nEste juego incluye la compra opcional en el juego de divisa virtual que se puede utilizar para adquirir artículos virtuales del juego, incluida una selección aleatoria de artículos virtuales del juego.\n\nSujeto a condiciones y limitaciones. Consulta ea.com/es-es/legal/legal-disclosures para obtener más información.\n\n†Sujeto a condiciones y limitaciones. Consulta www.ea.com/games/ea-sports-fc/fc-26/dual-entitlement para obtener más información.\n\n‡Sujeto a condiciones y limitaciones. Consulta ea.com/games/ea-sports-fc/fc-26/game-disclaimers para obtener más información.\n\nLos FC Points no están disponibles para su compra en Bélgica y Corea del Sur.\n\nEs necesaria una descarga independiente para los comentarios de audio de idiomas distintos al inglés y el idioma de los ajustes de la consola.\n\n© 2025 Electronic Arts Inc. Electronic Arts, EA, EA SPORTS, el logotipo de EA SPORTS, EA SPORTS FC, el logotipo de EA SPORTS FC, Frostbite, el logotipo de Frostbite, Football Ultimate Team y Ultimate Team son marcas comerciales de Electronic Arts Inc.",
-      "shortDescription": "El Club es tuyo en EA SPORTS FC™ 26.\nJuega a tu manera con una experiencia de juego renovada según los comentarios de la comunidad, desafíos de Mánager en vivo que traen nuevos escenarios a la temporada y nuevos arquetipos inspirados en grandes del deporte.",
-      "developer": "EA CANADA",
-      "publisher": "Electronic Arts",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.30635.13880594673876343.551ce2b0-44ef-4a79-84ad-a4b648f6fa74.3465a252-e8ad-46dc-a28d-c057f0ac3585",
-      "heroImage": "https://store-images.s-microsoft.com/image/apps.46451.13880594673876343.551ce2b0-44ef-4a79-84ad-a4b648f6fa74.06412b51-60f2-44c7-999c-6611754059d0",
-      "screenshots": [
-        "https://store-images.s-microsoft.com/image/apps.36288.13628388140711442.b4288d99-175c-4445-b6fe-03ffee0457a3.06840614-bdc1-4548-9483-b5f4d85b13c1",
-        "https://store-images.s-microsoft.com/image/apps.63630.13880594673876343.551ce2b0-44ef-4a79-84ad-a4b648f6fa74.d24c2ef9-af2e-47a1-9847-f8bef9559d14",
-        "https://store-images.s-microsoft.com/image/apps.37750.13628388140711442.b4288d99-175c-4445-b6fe-03ffee0457a3.3c4325c8-275a-4676-b17b-0c2544071934",
-        "https://store-images.s-microsoft.com/image/apps.28420.13628388140711442.b4288d99-175c-4445-b6fe-03ffee0457a3.dbe7855d-d339-447f-b89e-845dacfb69b3"
-      ],
-      "videoUrl": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftassets/ec1fc4b3-3bdf-4cd1-acaa-0a267dc9730d-AVS.m3u8?packagedStreaming=true",
-      "videoCaption": "EA SPORTS FC 26 | The World's Game - Trailer",
-      "releaseDate": "2025-09-25",
-      "categories": [
-        "Deportes"
-      ],
-      "tiers": [],
-      "platform": "console",
-      "price": 15.99,
-      "msrp": 79.99,
-      "currency": "EUR",
-      "hasDiscount": true,
-      "discountPercent": 80,
-      "rating": 2.1,
-      "ratingCount": 192,
-      "ageRating": 3,
-      "pegiRating": "PEGI 3",
-      "pegiDescription": "Apropiado a partir de 3 años",
-      "interactiveDescriptions": [
-        "Compras dentro del juego (Incluye artículos aleatorios)"
-      ],
-      "capabilities": [
-        "Cooperación local de Xbox (2-4)",
-        "Cooperativo en línea  (2-2)",
-        "Multijugador local de Xbox (2-4)",
-        "Multijugador en línea  (2-22)",
-        "Multijugador multiplataforma de Xbox",
-        "4K Ultra HD",
-        "HDR10",
-        "Un jugador",
-        "Cooperación multiplataforma de Xbox",
-        "Trazado de rayos",
-        "60 fps +",
-        "Entrega inteligente"
-      ],
-      "systemRequirements": [
-        {
-          "title": "Arquitectura",
-          "minimum": "x64",
-          "recommended": "x64"
-        }
-      ],
-      "maxInstallSize": 82495524864,
-      "hasAddOns": true,
-      "storeUrl": "https://www.xbox.com/es-es/games/store/ea-sports-fc-26-standard-edition-para-xbox-one-y-xbox-series-x-s/9MXZBTLG26VX"
-    },
-    {
       "id": "9NSDM7MBGG8L",
       "title": "EA SPORTS™ College Football 25",
       "description": "En EA SPORTS™ College Football 25, disfruta de una jugabilidad variada y explosiva con las 134 universidades de la FBS en ambientes emblemáticos mientras persigues la gloria.\n\nCampusIQ™\nVive partidos auténticos y trepidantes con CampusIQ™. Toma decisiones estratégicas con un nuevo sistema de compostura, desgaste de jugadores, ventajas del campo local y una gran diversidad de estilos de juego entre 134 equipos de la FBS.\n\nAmbientes emblemáticos\nDesde el estadio de Michigan hasta el de Florida. Desde Tuscaloosa hasta College Station. Disfruta del sonido arrollador de los estadios, junto a rituales y tradiciones emblemáticas que te harán sentir como en casa.\n\nLlévate la gloria\nUn nuevo estándar para la gloria del fútbol americano universitario en modos clásicos como Dynasty y Road To Glory. Ficha a una plantilla ganadora, reúne al cuerpo técnico y llega al Campeonato con tu entrenador creado; o equilibra tu vida de deportista y estudiante y llévate el Heisman con tu jugador.\n\nCARACTERÍSTICAS DE JUGABILIDAD\nJugabilidad libre y trepidante\nCon valoraciones de jugadores que fluctúan, categorías de equipos y nuevas mecánicas de pases, EA SPORTS™ College Football 25 ofrece la jugabilidad estratégica y trepidante del fútbol americano universitario.\n\nDesgaste\nCon el nuevo sistema de desgaste, tus jugadores irán cansándose golpe tras golpe. Gestiona su salud, minimiza su fatiga, evalúa el riesgo de lesiones y evita cometer errores en el campo haciendo sustituciones estratégicas.\n\nReconocimiento previo al saque\nEl reconocimiento previo hará que cada elección sea más importante. ¿Confiarás en tus jugadores veteranos o probarás a un novato? Analiza la situación para tomar la decisión correcta.\n\nVentaja del campo local\nLas ventajas del campo local alteran el juego y ponen a prueba a tus rivales en campos hostiles. Comprueba lo que vale tu plantilla con distracciones como sacudidas de pantalla, iconos que desaparecen o esquemas de jugadas que se mueven.\n\nMODOS DE JUEGO\nDynasty\nCrea a tu entrenador, asume el mando, mejora sus habilidades y da forma a un programa imponente. Reúne a tu cuerpo técnico y trabajad para contratar a los mejores en el instituto o desde el portal de traspasos.\n\nRoad to Glory\nVive la vida de un deportista y estudiante con tu jugador creado, llévate el Heisman y forja un legado inolvidable. Organiza tu calendario semanal, cuida tus notas y tu imagen, gánate la confianza de tu entrenador para jugar más minutos o usa el portal de traspasos para conseguir el tiempo y la gloria que te mereces.\n\nCollege Football Ultimate Team™\nCrea tu equipo de ensueño con estrellas y leyendas del fútbol americano universitario. Juega a Solo Challenges o H2H Seasons para mejorar tu plantilla y enfrentarte a las competiciones más duras. Pon a prueba a tu plantilla y tus habilidades con formatos competitivos como College Football Ultimate Team™ Champs y Champs Gauntlet.\n\nRoad to the CFP\nDescubre una nueva forma de jugar de forma competitiva y representa a tu equipo favorito en el camino a las eliminatorias del fútbol americano universitario.\n\nEste juego incluye la compra opcional en el juego de divisa virtual que se puede utilizar para adquirir artículos virtuales del juego, incluida una selección aleatoria de artículos virtuales del juego.\n\nA menos que se tenga la licencia, todos los nombres y características identificativas son ficticios. En el caso de personas ficticias, cualquier semejanza con personas reales, vivas o muertas, es pura coincidencia y no intencionada.\n\nSujeto a condiciones y limitaciones. Consulta www.ea.com/es-es/legal para obtener más información.\n©️ 2024 Electronic Arts Inc. Electronic Arts, EA SPORTS, el logotipo de EA SPORTS y Ultimate Team son marcas comerciales de Electronic Arts Inc. Producto con licencia oficial de CLC.",
@@ -18308,7 +18231,7 @@
           "recommended": "8 GB"
         }
       ],
-      "maxInstallSize": 55812030464,
+      "maxInstallSize": 55812890624,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/enlisted/9NHKL695M9F2"
     },
@@ -18327,8 +18250,8 @@
         "https://store-images.s-microsoft.com/image/apps.5833.13628462776883363.5ca58583-9cb9-4548-b09e-0efa62c22db0.f8cca053-1550-4d0d-bdce-c3413a363a82",
         "https://store-images.s-microsoft.com/image/apps.56741.13628462776883363.5117bd61-6e50-465e-b34f-710477d01a8b.f76eb350-e8b3-469d-9f62-b5a2df505279"
       ],
-      "videoUrl": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftassets/a995a813-e97e-4eee-ac1c-269d3becfbfb-AVS.m3u8?packagedStreaming=true",
-      "videoCaption": "'Jet Power' Update",
+      "videoUrl": "",
+      "videoCaption": "",
       "releaseDate": "2021-10-07",
       "categories": [
         "Acción y aventura",
@@ -18375,7 +18298,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 55804530688,
+      "maxInstallSize": 55805415424,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/enlisted-xbox-one/9PF432CVQBXT"
     },
@@ -18975,8 +18898,7 @@
       "interactiveDescriptions": [],
       "capabilities": [
         "4K Ultra HD",
-        "Xbox One X mejorado",
-        "FPS Boost Series X | S"
+        "Xbox One X mejorado"
       ],
       "systemRequirements": [
         {
@@ -19086,8 +19008,7 @@
         "Cooperativo en línea  (2-2)",
         "Multijugador local de Xbox (2-2)",
         "4K Ultra HD",
-        "Xbox One X mejorado",
-        "FPS Boost Series X | S"
+        "Xbox One X mejorado"
       ],
       "systemRequirements": [
         {
@@ -19133,7 +19054,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.5,
-      "ratingCount": 23,
+      "ratingCount": 24,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -19282,8 +19203,7 @@
       "pegiDescription": "Apropiado a partir de 18 años",
       "interactiveDescriptions": [],
       "capabilities": [
-        "Xbox One X mejorado",
-        "FPS Boost Series X | S"
+        "Xbox One X mejorado"
       ],
       "systemRequirements": [
         {
@@ -19760,9 +19680,7 @@
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
       "interactiveDescriptions": [],
-      "capabilities": [
-        "FPS Boost Series X | S"
-      ],
+      "capabilities": [],
       "systemRequirements": [
         {
           "title": "Arquitectura",
@@ -20278,8 +20196,7 @@
       "capabilities": [
         "Un jugador",
         "Optimizado para Xbox Series X|S",
-        "Logros de Xbox",
-        "FPS Boost Series X | S"
+        "Logros de Xbox"
       ],
       "systemRequirements": [
         {
@@ -22373,7 +22290,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 10432806912,
+      "maxInstallSize": 10430173184,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/for-the-king-ii/9NVC9KWJVLT0"
     },
@@ -22412,7 +22329,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.7,
-      "ratingCount": 4381,
+      "ratingCount": 4382,
       "ageRating": 12,
       "pegiRating": "Supervisión parental recomendada",
       "pegiDescription": "Supervisión parental recomendada",
@@ -22573,7 +22490,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.2,
-      "ratingCount": 269,
+      "ratingCount": 271,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -22666,7 +22583,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.6,
-      "ratingCount": 1820,
+      "ratingCount": 1821,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -23276,7 +23193,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.6,
-      "ratingCount": 11235,
+      "ratingCount": 11236,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -23415,8 +23332,7 @@
         "Multijugador multiplataforma de Xbox",
         "Un jugador",
         "Pantalla dividida o compartida",
-        "Cooperación multiplataforma de Xbox",
-        "FPS Boost Series X | S"
+        "Cooperación multiplataforma de Xbox"
       ],
       "systemRequirements": [
         {
@@ -23475,8 +23391,7 @@
         "Un jugador",
         "Pantalla dividida o compartida",
         "Cooperación multiplataforma de Xbox",
-        "Xbox One X mejorado",
-        "FPS Boost Series X | S"
+        "Xbox One X mejorado"
       ],
       "systemRequirements": [
         {
@@ -23535,8 +23450,7 @@
         "Un jugador",
         "Pantalla dividida o compartida",
         "Cooperación multiplataforma de Xbox",
-        "Xbox One X mejorado",
-        "FPS Boost Series X | S"
+        "Xbox One X mejorado"
       ],
       "systemRequirements": [
         {
@@ -23603,8 +23517,7 @@
         "Presencia de Xbox",
         "Clubs de Xbox",
         "Cosas guardadas en la nube de Xbox",
-        "Xbox Play Anywhere",
-        "FPS Boost Series X | S"
+        "Xbox Play Anywhere"
       ],
       "systemRequirements": [
         {
@@ -23702,8 +23615,7 @@
         "Multijugador multiplataforma de Xbox",
         "Un jugador",
         "Pantalla dividida o compartida",
-        "Cooperación multiplataforma de Xbox",
-        "FPS Boost Series X | S"
+        "Cooperación multiplataforma de Xbox"
       ],
       "systemRequirements": [
         {
@@ -23882,8 +23794,7 @@
         "Cooperativo en línea  (2-2)",
         "Multijugador local de Xbox (2-2)",
         "Multijugador en línea  (2-8)",
-        "Pantalla dividida o compartida",
-        "FPS Boost Series X | S"
+        "Pantalla dividida o compartida"
       ],
       "systemRequirements": [
         {
@@ -24001,7 +23912,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.7,
-      "ratingCount": 2880,
+      "ratingCount": 2881,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -24529,7 +24440,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 2,
-      "ratingCount": 43,
+      "ratingCount": 44,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -24581,7 +24492,7 @@
           "recommended": "Controladora de Xbox"
         }
       ],
-      "maxInstallSize": 2422087680,
+      "maxInstallSize": 2430038016,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/goals/9PF2ZS4XB4JH"
     },
@@ -24889,8 +24800,7 @@
         "Un jugador",
         "Logros de Xbox",
         "Presencia de Xbox",
-        "Cosas guardadas en la nube de Xbox",
-        "FPS Boost Series X | S"
+        "Cosas guardadas en la nube de Xbox"
       ],
       "systemRequirements": [
         {
@@ -25873,8 +25783,7 @@
         "HDR10",
         "Cooperación multiplataforma de Xbox",
         "Xbox One X mejorado",
-        "Xbox Play Anywhere",
-        "FPS Boost Series X | S"
+        "Xbox Play Anywhere"
       ],
       "systemRequirements": [
         {
@@ -26313,8 +26222,7 @@
       "interactiveDescriptions": [],
       "capabilities": [
         "Cooperativo en línea  (2-2)",
-        "Multijugador en línea  (2-2)",
-        "FPS Boost Series X | S"
+        "Multijugador en línea  (2-2)"
       ],
       "systemRequirements": [
         {
@@ -27623,8 +27531,7 @@
         "Controlador para juegos para PC",
         "Logros de Xbox",
         "Cosas guardadas en la nube de Xbox",
-        "Xbox Play Anywhere",
-        "FPS Boost Series X | S"
+        "Xbox Play Anywhere"
       ],
       "systemRequirements": [
         {
@@ -28998,8 +28905,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 4.4,
-      "ratingCount": 9,
+      "rating": 4.5,
+      "ratingCount": 11,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -29103,7 +29010,7 @@
       "hasDiscount": true,
       "discountPercent": 30,
       "rating": 4.6,
-      "ratingCount": 17,
+      "ratingCount": 18,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -32605,9 +32512,7 @@
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
       "interactiveDescriptions": [],
-      "capabilities": [
-        "FPS Boost Series X | S"
-      ],
+      "capabilities": [],
       "systemRequirements": [
         {
           "title": "Arquitectura",
@@ -32763,7 +32668,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.9,
-      "ratingCount": 17,
+      "ratingCount": 18,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -33364,7 +33269,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.7,
-      "ratingCount": 11289,
+      "ratingCount": 11290,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -33426,7 +33331,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.7,
-      "ratingCount": 51171,
+      "ratingCount": 51180,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -33903,7 +33808,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4,
-      "ratingCount": 15590,
+      "ratingCount": 15595,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -34000,7 +33905,7 @@
           "recommended": "8 GB"
         }
       ],
-      "maxInstallSize": 2524983296,
+      "maxInstallSize": 2542702592,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/minecraft-preview-for-windows/9P5X4QVLC2XR"
     },
@@ -34061,7 +33966,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 2704068608,
+      "maxInstallSize": 2722643968,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/minecraft-preview-for-xbox/9NQ19C36R0VD"
     },
@@ -34098,7 +34003,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.5,
-      "ratingCount": 61116,
+      "ratingCount": 61121,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -34302,8 +34207,7 @@
       "pegiDescription": "Apropiado a partir de 16 años",
       "interactiveDescriptions": [],
       "capabilities": [
-        "Xbox One X mejorado",
-        "FPS Boost Series X | S"
+        "Xbox One X mejorado"
       ],
       "systemRequirements": [
         {
@@ -34350,9 +34254,7 @@
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
       "interactiveDescriptions": [],
-      "capabilities": [
-        "FPS Boost Series X"
-      ],
+      "capabilities": [],
       "systemRequirements": [
         {
           "title": "Arquitectura",
@@ -34397,8 +34299,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 4.2,
-      "ratingCount": 157,
+      "rating": 4.1,
+      "ratingCount": 158,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -34856,7 +34758,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 1758302208,
+      "maxInstallSize": 1836036096,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/monsters-are-coming/9PJBKF27C16M"
     },
@@ -36536,8 +36438,7 @@
         "Xbox One X mejorado",
         "Logros de Xbox",
         "Cosas guardadas en la nube de Xbox",
-        "Xbox Play Anywhere",
-        "FPS Boost Series X | S"
+        "Xbox Play Anywhere"
       ],
       "systemRequirements": [
         {
@@ -37590,8 +37491,7 @@
       "pegiDescription": "Apropiado a partir de 16 años",
       "interactiveDescriptions": [],
       "capabilities": [
-        "Xbox One X mejorado",
-        "FPS Boost Series X | S"
+        "Xbox One X mejorado"
       ],
       "systemRequirements": [
         {
@@ -38133,8 +38033,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 4,
-      "ratingCount": 13,
+      "rating": 3.9,
+      "ratingCount": 14,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -38233,8 +38133,7 @@
         "Un jugador",
         "Logros de Xbox",
         "Presencia de Xbox",
-        "Cosas guardadas en la nube de Xbox",
-        "FPS Boost Series X | S"
+        "Cosas guardadas en la nube de Xbox"
       ],
       "systemRequirements": [
         {
@@ -39988,8 +39887,7 @@
         "Cooperación local de Xbox (2-4)",
         "Cooperativo en línea  (2-4)",
         "Multijugador local de Xbox (2-2)",
-        "Multijugador en línea  (2-26)",
-        "FPS Boost Series X | S"
+        "Multijugador en línea  (2-26)"
       ],
       "systemRequirements": [
         {
@@ -40042,8 +39940,7 @@
         "Cooperación local de Xbox (2-4)",
         "Cooperativo en línea  (2-4)",
         "Multijugador local de Xbox (2-2)",
-        "Multijugador en línea  (2-24)",
-        "FPS Boost Series X | S"
+        "Multijugador en línea  (2-24)"
       ],
       "systemRequirements": [
         {
@@ -40098,8 +39995,7 @@
         "Multijugador en línea  (2-24)",
         "4K Ultra HD",
         "HDR10",
-        "Pantalla dividida o compartida",
-        "FPS Boost Series X | S"
+        "Pantalla dividida o compartida"
       ],
       "systemRequirements": [
         {
@@ -40554,8 +40450,7 @@
         "Logros de Xbox",
         "Presencia de Xbox",
         "Clubs de Xbox",
-        "Cosas guardadas en la nube de Xbox",
-        "FPS Boost Series X | S"
+        "Cosas guardadas en la nube de Xbox"
       ],
       "systemRequirements": [
         {
@@ -42267,8 +42162,7 @@
         "Presencia de Xbox",
         "Clubs de Xbox",
         "Cosas guardadas en la nube de Xbox",
-        "Xbox Play Anywhere",
-        "FPS Boost Series X | S"
+        "Xbox Play Anywhere"
       ],
       "systemRequirements": [
         {
@@ -42677,7 +42571,7 @@
           "recommended": "Controladora de Xbox"
         }
       ],
-      "maxInstallSize": 11079876608,
+      "maxInstallSize": 11080212480,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/rematch/9N5K7HWXL4Q6"
     },
@@ -42778,7 +42672,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.3,
-      "ratingCount": 109,
+      "ratingCount": 110,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -44705,9 +44599,7 @@
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
       "interactiveDescriptions": [],
-      "capabilities": [
-        "FPS Boost Series X | S"
-      ],
+      "capabilities": [],
       "systemRequirements": [
         {
           "title": "Arquitectura",
@@ -46272,7 +46164,7 @@
           "recommended": "Controladora de Xbox"
         }
       ],
-      "maxInstallSize": 1060122624,
+      "maxInstallSize": 1060347904,
       "hasAddOns": false,
       "storeUrl": "https://www.xbox.com/es-es/games/store/solarpunk/9N8BRH7PGJMJ"
     },
@@ -46397,7 +46289,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.3,
-      "ratingCount": 523,
+      "ratingCount": 524,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -47571,8 +47463,7 @@
         "Multijugador en línea  (8-40)",
         "HDR10",
         "Pantalla dividida o compartida",
-        "Xbox One X mejorado",
-        "FPS Boost Series X"
+        "Xbox One X mejorado"
       ],
       "systemRequirements": [
         {
@@ -48306,7 +48197,7 @@
           "recommended": "Controladora de Xbox"
         }
       ],
-      "maxInstallSize": 4905365504,
+      "maxInstallSize": 4906942464,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/starseeker-astroneer-expeditions-game-preview/9NTZH69PZSH0"
     },
@@ -48510,8 +48401,7 @@
         "Cooperativo en línea  (2-4)",
         "Multijugador en línea  (2-4)",
         "HDR10",
-        "Xbox One X mejorado",
-        "FPS Boost Series S"
+        "Xbox One X mejorado"
       ],
       "systemRequirements": [
         {
@@ -48693,7 +48583,7 @@
           "recommended": "4 GB"
         }
       ],
-      "maxInstallSize": 30434250752,
+      "maxInstallSize": 30435270656,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/stellaris/9NXQPGMR917R"
     },
@@ -49195,8 +49085,7 @@
         "Presencia de Xbox",
         "Clubs de Xbox",
         "Cosas guardadas en la nube de Xbox",
-        "Xbox Play Anywhere",
-        "FPS Boost Series X | S"
+        "Xbox Play Anywhere"
       ],
       "systemRequirements": [
         {
@@ -52422,8 +52311,7 @@
         "Logros de Xbox",
         "Presencia de Xbox",
         "Clubs de Xbox",
-        "Cosas guardadas en la nube de Xbox",
-        "FPS Boost Series X | S"
+        "Cosas guardadas en la nube de Xbox"
       ],
       "systemRequirements": [
         {
@@ -53118,7 +53006,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 85757022208,
+      "maxInstallSize": 86329991168,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/the-outer-worlds-2/9P8RMKXRML7D"
     },
@@ -54243,8 +54131,7 @@
       "interactiveDescriptions": [],
       "capabilities": [
         "Multijugador en línea  (2-16)",
-        "Xbox One X mejorado",
-        "FPS Boost Series X | S"
+        "Xbox One X mejorado"
       ],
       "systemRequirements": [
         {
@@ -54913,8 +54800,7 @@
         "4K Ultra HD",
         "Un jugador",
         "Xbox One X mejorado",
-        "Logros de Xbox",
-        "FPS Boost Series X | S"
+        "Logros de Xbox"
       ],
       "systemRequirements": [
         {
@@ -55172,8 +55058,7 @@
       "interactiveDescriptions": [],
       "capabilities": [
         "Multijugador en línea  (4-8)",
-        "Un jugador",
-        "FPS Boost Series X | S"
+        "Un jugador"
       ],
       "systemRequirements": [
         {
@@ -55660,8 +55545,7 @@
         "Presencia de Xbox",
         "Clubs de Xbox",
         "Cosas guardadas en la nube de Xbox",
-        "Xbox Play Anywhere",
-        "FPS Boost Series X | S"
+        "Xbox Play Anywhere"
       ],
       "systemRequirements": [
         {
@@ -56173,7 +56057,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.1,
-      "ratingCount": 39,
+      "ratingCount": 40,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -56705,8 +56589,7 @@
         "Logros de Xbox",
         "Presencia de Xbox",
         "Clubs de Xbox",
-        "Cosas guardadas en la nube de Xbox",
-        "FPS Boost Series X | S"
+        "Cosas guardadas en la nube de Xbox"
       ],
       "systemRequirements": [
         {
@@ -57328,8 +57211,7 @@
         "Multijugador local de Xbox (2-2)",
         "4K Ultra HD",
         "Pantalla dividida o compartida",
-        "Xbox One X mejorado",
-        "FPS Boost Series X | S"
+        "Xbox One X mejorado"
       ],
       "systemRequirements": [
         {
@@ -57498,7 +57380,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 45854687232,
+      "maxInstallSize": 46973149184,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/valorant/9N1NLJK9SKRN"
     },
@@ -57655,7 +57537,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 1415024640,
+      "maxInstallSize": 1404870656,
       "hasAddOns": false,
       "storeUrl": "https://www.xbox.com/es-es/games/store/vampire-crawlers-the-turbo-wildcard-from-vampire-survivors/9NMPVJ7TCFD0"
     },
@@ -58302,9 +58184,9 @@
       "discountPercent": 0,
       "rating": 4.4,
       "ratingCount": 8303,
-      "ageRating": 12,
-      "pegiRating": "PEGI 12",
-      "pegiDescription": "Apropiado a partir de 12 años",
+      "ageRating": 16,
+      "pegiRating": "PEGI 16",
+      "pegiDescription": "Apropiado a partir de 16 años",
       "interactiveDescriptions": [
         "Interacción de usuarios",
         "Compras dentro del juego (Incluye artículos aleatorios)"
@@ -58372,7 +58254,7 @@
           "recommended": "Mouse integrado"
         }
       ],
-      "maxInstallSize": 73650008064,
+      "maxInstallSize": 77573140480,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/war-thunder/BX1DTCBD1HXJ"
     },
@@ -59169,8 +59051,7 @@
         "Logros de Xbox",
         "Presencia de Xbox",
         "Clubs de Xbox",
-        "Cosas guardadas en la nube de Xbox",
-        "FPS Boost Series X | S"
+        "Cosas guardadas en la nube de Xbox"
       ],
       "systemRequirements": [
         {
@@ -59571,8 +59452,7 @@
         "Cooperativo en línea  (2-2)",
         "Multijugador en línea  (2-4)",
         "Un jugador",
-        "Logros de Xbox",
-        "FPS Boost Series X | S"
+        "Logros de Xbox"
       ],
       "systemRequirements": [
         {
@@ -59843,8 +59723,7 @@
         "Cooperativo en línea  (2-8)",
         "Multijugador en línea  (2-8)",
         "Un jugador",
-        "Logros de Xbox",
-        "FPS Boost Series X | S"
+        "Logros de Xbox"
       ],
       "systemRequirements": [
         {
@@ -60107,7 +59986,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.9,
-      "ratingCount": 37,
+      "ratingCount": 39,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
