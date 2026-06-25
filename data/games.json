@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-24T10:39:32.155Z",
+  "updatedAt": "2026-06-25T10:32:53.425Z",
   "market": "ES",
   "language": "es-ES",
   "totalGames": 838,
@@ -352,7 +352,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.5,
-      "ratingCount": 40,
+      "ratingCount": 41,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -441,7 +441,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.7,
-      "ratingCount": 582,
+      "ratingCount": 583,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -504,7 +504,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.6,
-      "ratingCount": 379,
+      "ratingCount": 380,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -1070,7 +1070,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.4,
-      "ratingCount": 881,
+      "ratingCount": 880,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -2435,7 +2435,7 @@
       "hasDiscount": true,
       "discountPercent": 75,
       "rating": 2.2,
-      "ratingCount": 386,
+      "ratingCount": 387,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -2903,7 +2903,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.7,
-      "ratingCount": 21062,
+      "ratingCount": 21063,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -3955,7 +3955,8 @@
         "Multijugador en línea  (2-4)",
         "Un jugador",
         "60 fps +",
-        "Logros de Xbox"
+        "Logros de Xbox",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -4283,7 +4284,8 @@
         "HDR10",
         "Un jugador",
         "Xbox One X mejorado",
-        "Logros de Xbox"
+        "Logros de Xbox",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -4595,7 +4597,8 @@
         "4K Ultra HD",
         "Un jugador",
         "Xbox One X mejorado",
-        "Logros de Xbox"
+        "Logros de Xbox",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -4644,7 +4647,9 @@
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
       "interactiveDescriptions": [],
-      "capabilities": [],
+      "capabilities": [
+        "FPS Boost Series X | S"
+      ],
       "systemRequirements": [
         {
           "title": "Arquitectura",
@@ -4867,7 +4872,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4,
-      "ratingCount": 102,
+      "ratingCount": 103,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -5590,7 +5595,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.5,
-      "ratingCount": 89,
+      "ratingCount": 90,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -5945,7 +5950,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.5,
-      "ratingCount": 427,
+      "ratingCount": 428,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -6092,7 +6097,8 @@
         "Compras dentro del juego (Incluye artículos aleatorios)"
       ],
       "capabilities": [
-        "Multijugador en línea  (4-64)"
+        "Multijugador en línea  (4-64)",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -6670,8 +6676,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 2.9,
-      "ratingCount": 14,
+      "rating": 2.8,
+      "ratingCount": 15,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -6972,7 +6978,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.6,
-      "ratingCount": 16,
+      "ratingCount": 17,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -8815,7 +8821,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 200726614016,
+      "maxInstallSize": 200726618112,
       "hasAddOns": false,
       "storeUrl": "https://www.xbox.com/es-es/games/store/call-of-duty-modern-warfare-iii-edici-n-est-ndar-windows/9NDKFJ6XDX2M"
     },
@@ -8887,7 +8893,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 200726614016,
+      "maxInstallSize": 200726618112,
       "hasAddOns": false,
       "storeUrl": "https://www.xbox.com/es-es/games/store/call-of-duty-modern-warfare-iii-lote-multigeneraci-n/9NLZZ74TFD7P"
     },
@@ -10250,7 +10256,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.2,
-      "ratingCount": 26,
+      "ratingCount": 27,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -10730,7 +10736,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.4,
-      "ratingCount": 255,
+      "ratingCount": 256,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -11363,8 +11369,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 3.9,
-      "ratingCount": 48,
+      "rating": 4,
+      "ratingCount": 49,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -11489,7 +11495,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.2,
-      "ratingCount": 102,
+      "ratingCount": 103,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -12294,7 +12300,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.3,
-      "ratingCount": 692,
+      "ratingCount": 693,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -13166,7 +13172,9 @@
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
       "interactiveDescriptions": [],
-      "capabilities": [],
+      "capabilities": [
+        "FPS Boost Series X | S"
+      ],
       "systemRequirements": [
         {
           "title": "Arquitectura",
@@ -13212,7 +13220,9 @@
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
       "interactiveDescriptions": [],
-      "capabilities": [],
+      "capabilities": [
+        "FPS Boost Series X | S"
+      ],
       "systemRequirements": [
         {
           "title": "Arquitectura",
@@ -15050,7 +15060,8 @@
       "capabilities": [
         "Un jugador",
         "Logros de Xbox",
-        "Cosas guardadas en la nube de Xbox"
+        "Cosas guardadas en la nube de Xbox",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -15191,7 +15202,8 @@
       "interactiveDescriptions": [],
       "capabilities": [
         "4K Ultra HD",
-        "Xbox One X mejorado"
+        "Xbox One X mejorado",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -16337,7 +16349,9 @@
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
       "interactiveDescriptions": [],
-      "capabilities": [],
+      "capabilities": [
+        "FPS Boost Series X | S"
+      ],
       "systemRequirements": [
         {
           "title": "Arquitectura",
@@ -16384,7 +16398,9 @@
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
       "interactiveDescriptions": [],
-      "capabilities": [],
+      "capabilities": [
+        "FPS Boost Series X | S"
+      ],
       "systemRequirements": [
         {
           "title": "Arquitectura",
@@ -16737,11 +16753,11 @@
         "ultimate"
       ],
       "platform": "both",
-      "price": 9.99,
+      "price": 24.99,
       "msrp": 24.99,
       "currency": "EUR",
-      "hasDiscount": true,
-      "discountPercent": 60,
+      "hasDiscount": false,
+      "discountPercent": 0,
       "rating": 4.8,
       "ratingCount": 66,
       "ageRating": 12,
@@ -17505,8 +17521,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 2,
-      "ratingCount": 8,
+      "rating": 1.9,
+      "ratingCount": 9,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -17779,8 +17795,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 3.8,
-      "ratingCount": 9,
+      "rating": 3.5,
+      "ratingCount": 10,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -18174,8 +18190,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 4.4,
-      "ratingCount": 648,
+      "rating": 4.3,
+      "ratingCount": 649,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -18854,7 +18870,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 92726091776,
+      "maxInstallSize": 92709142528,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/f1-25/9NWPW7F19FS5"
     },
@@ -18898,7 +18914,8 @@
       "interactiveDescriptions": [],
       "capabilities": [
         "4K Ultra HD",
-        "Xbox One X mejorado"
+        "Xbox One X mejorado",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -19008,7 +19025,8 @@
         "Cooperativo en línea  (2-2)",
         "Multijugador local de Xbox (2-2)",
         "4K Ultra HD",
-        "Xbox One X mejorado"
+        "Xbox One X mejorado",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -19203,7 +19221,8 @@
       "pegiDescription": "Apropiado a partir de 18 años",
       "interactiveDescriptions": [],
       "capabilities": [
-        "Xbox One X mejorado"
+        "Xbox One X mejorado",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -19441,7 +19460,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.3,
-      "ratingCount": 267,
+      "ratingCount": 268,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -19680,7 +19699,9 @@
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
       "interactiveDescriptions": [],
-      "capabilities": [],
+      "capabilities": [
+        "FPS Boost Series X | S"
+      ],
       "systemRequirements": [
         {
           "title": "Arquitectura",
@@ -20196,7 +20217,8 @@
       "capabilities": [
         "Un jugador",
         "Optimizado para Xbox Series X|S",
-        "Logros de Xbox"
+        "Logros de Xbox",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -20470,80 +20492,6 @@
       "storeUrl": "https://www.xbox.com/es-es/games/store/far-cry-5/9MVQXW1RJVCN"
     },
     {
-      "id": "9PBNGCVBGML0",
-      "title": "Far Cry® 6",
-      "description": "Te damos la bienvenida a Yara, un paraíso tropical detenido en el tiempo. El dictador de Yara, Antón Castillo, está decidido a devolver a su nación la antigua gloria perdida por cualquier medio, y su hijo Diego sigue sus sangrientos pasos. La opresión a la que someten a su pueblo ha dado pie a una revolución.\r\n\r\n - Encarna a Dani Rojas, habitante de Yara que participa en una revolución guerrillera actual para liberar Yara. Disfruta del juego completo en solitario o con un amigo en modo cooperativo.\r\n\r\n- Explora selvas, playas y ciudades a pie, a caballo o en una amplia variedad de vehículos que incluye barcos y motos de agua mientras te enfrentas al régimen de Castillo en el Far Cry más grande hasta la fecha.\r\n\r\n- Siente la emoción del combate con un arsenal de cientos de armas junto a útiles acompañantes como el perro Chorizo y el cocodrilo Guapo.\r\n\r\n- Disfruta de todas las novedades en contenido y funciones que se han añadido desde el lanzamiento, que incluyen cuatro nuevas operaciones especiales, misiones cruzadas con exitazos y actualizaciones pedidas por los fans como la Nueva partida +, la ayuda completista, un modo de dificultad ultradifícil y cuatro nuevos espacios de equipamiento.\r\n\r\n¡No ha habido mejor momento para unirte a millones de jugadores en Yara!\r\n\r\nEste juego aprovecha Smart Delivery, que permite acceder al título para Xbox One y para Xbox Series X y S.",
-      "shortDescription": "Experimenta la adrenalina de una revolución guerrillera moderna. Gracias a unos paisajes impresionantes, unos tiroteos brutales y una gran variedad de experiencias de juego, nunca ha habido mejor momento para unirte a la lucha.\r\n\r\nJuega a la PRUEBA GRATUITA de Far Cry® 6 y descubre por qué GAME INFORMER lo define como \"Un viaje lleno de emociones sin pausa de inicio a fin\". Y, cuando compres el juego completo, tendrás guardado todo tu progreso.",
-      "developer": "UBISOFT TORONTO",
-      "publisher": "UBISOFT",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.41566.14115267245615103.8e12f551-059b-455a-97ec-4b8173f3621e.072dfa13-d1bd-4242-8154-901de8c1b771",
-      "heroImage": "https://store-images.s-microsoft.com/image/apps.55639.14115267245615103.8e12f551-059b-455a-97ec-4b8173f3621e.9f8ad06c-377d-4273-b93c-47d3bab4d919",
-      "screenshots": [
-        "https://store-images.s-microsoft.com/image/apps.4839.14115267245615103.b13af42f-672f-45fa-b4a8-aab31ea16240.90bf96bf-4a82-4540-b4a2-2e06db057e81",
-        "https://store-images.s-microsoft.com/image/apps.13456.14115267245615103.b13af42f-672f-45fa-b4a8-aab31ea16240.8a663397-3c48-4a47-9060-80adb293a44f",
-        "https://store-images.s-microsoft.com/image/apps.65088.14115267245615103.b13af42f-672f-45fa-b4a8-aab31ea16240.341f64ee-a3e4-40b0-a47b-e195b585ae47",
-        "https://store-images.s-microsoft.com/image/apps.24644.14115267245615103.b13af42f-672f-45fa-b4a8-aab31ea16240.8b4c6a36-7f97-4cb0-93b1-1a54f303e066"
-      ],
-      "videoUrl": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftassets/acf644af-59d0-4a71-947f-444c53688bb3-AVS.m3u8?packagedStreaming=true",
-      "videoCaption": "FC6 trailer",
-      "releaseDate": "2021-10-07",
-      "categories": [
-        "Acción y aventura",
-        "Shooter"
-      ],
-      "tiers": [
-        "premium",
-        "ultimate"
-      ],
-      "platform": "console",
-      "price": 69.99,
-      "msrp": 69.99,
-      "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
-      "rating": 3.4,
-      "ratingCount": 220,
-      "ageRating": 18,
-      "pegiRating": "PEGI 18",
-      "pegiDescription": "Apropiado a partir de 18 años",
-      "interactiveDescriptions": [
-        "Compras dentro del juego"
-      ],
-      "capabilities": [
-        "Cooperativo en línea  (2-2)",
-        "Multijugador en línea  (2-2)",
-        "4K Ultra HD",
-        "HDR10",
-        "Un jugador",
-        "Optimizado para Xbox Series X|S",
-        "Entrega inteligente",
-        "Logros de Xbox",
-        "Presencia de Xbox",
-        "Clubs de Xbox",
-        "Cosas guardadas en la nube de Xbox"
-      ],
-      "systemRequirements": [
-        {
-          "title": "Arquitectura",
-          "minimum": "x64",
-          "recommended": "x64"
-        },
-        {
-          "title": "Controladora",
-          "minimum": "Controladora de Xbox",
-          "recommended": ""
-        },
-        {
-          "title": "Micrófono",
-          "minimum": "",
-          "recommended": "Micrófono integrado"
-        }
-      ],
-      "maxInstallSize": 121166983168,
-      "hasAddOns": true,
-      "storeUrl": "https://www.xbox.com/es-es/games/store/far-cry-6/9PBNGCVBGML0"
-    },
-    {
       "id": "9N661LCNBH8J",
       "title": "Far Cry® 6",
       "description": "Te damos la bienvenida a Yara, un paraíso tropical detenido en el tiempo. El dictador de Yara, Antón Castillo, está decidido a devolver a su nación la antigua gloria perdida por cualquier medio, y su hijo Diego sigue sus sangrientos pasos. La opresión a la que someten a su pueblo ha dado pie a una revolución.\r\n\r\n - Encarna a Dani Rojas, habitante de Yara que participa en una revolución guerrillera actual para liberar Yara. Disfruta del juego completo en solitario o con un amigo en modo cooperativo.\r\n\r\n- Explora selvas, playas y ciudades a pie, a caballo o en una amplia variedad de vehículos que incluye barcos y motos de agua mientras te enfrentas al régimen de Castillo en el Far Cry más grande hasta la fecha.\r\n\r\n- Siente la emoción del combate con un arsenal de cientos de armas junto a útiles acompañantes como el perro Chorizo y el cocodrilo Guapo.\r\n\r\n- Disfruta de todas las novedades en contenido y funciones que se han añadido desde el lanzamiento, que incluyen cuatro nuevas operaciones especiales, misiones cruzadas con exitazos y actualizaciones pedidas por los fans como la Nueva partida +, la ayuda completista, un modo de dificultad ultradifícil y cuatro nuevos espacios de equipamiento.\r\n\r\n¡No ha habido mejor momento para unirte a millones de jugadores en Yara!",
@@ -20686,6 +20634,80 @@
       "maxInstallSize": 24479002624,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/far-cry-new-dawn/C1DDW4PRF6K5"
+    },
+    {
+      "id": "9PBNGCVBGML0",
+      "title": "FARCRY 6",
+      "description": "Derroca al régimen de Castillo en este shooter de guerrillas de mundo abierto en primera persona ambientado en la isla de Yara.\n\nCOMBATE DE GUERRILLAS INTRÉPIDO Y EXPLOSIVO EN PRIMERA PERSONA\nFabrica armas improvisadas, como mochilas que lanzan misiles y ametralladoras montadas en motores de motocicleta, y lucha junto a compañeros animales que distraen, exploran y eliminan a los escuadrones enemigos. Según la filosofía de \"Resolver\", todo vale si sirve para debilitar el dominio de Castillo.\n\nRECUPERA EL MUNDO ABIERTO DE YARA A TU MANERA\nCaptura bases, despeja rutas y desbloquea nuevas herramientas para abrirte paso por selvas, playas, tierras de cultivo y una capital fortificada. Explora el mundo más grande de FARCRY hasta la fecha: monta a caballo, vuela en helicóptero, conduce buggies improvisados y muchas cosas más.\n\nLIDERA LA REBELIÓN\nConoce a los grupos rebeldes, los granjeros, los contrabandistas y los marginados que alimentan la revolución. Acepta misiones, desbloquea mejoras, fabrica equipo y fortalece tu red. Con cada comunidad a la que ayudes, el régimen de Castillo se acercará un poco más al colapso.\n\nJUEGA LA CAMPAÑA COMPLETA EN MODO COOPERATIVO\nJuega toda la campaña con un amigo en el modo cooperativo para dos jugadores y disfruta del doble de potencia de fuego y del doble de caos. Coordinad los ataques, combinad las poderosas armas en forma de mochila llamadas Supremos y eliminad juntos a Castillo.\n\nEste juego aprovecha Smart Delivery, que permite acceder al título para Xbox One y para Xbox Series X y S.",
+      "shortDescription": "Lidera la revolución en solitario o con un amigo en este shooter de guerrillas de mundo abierto en primera persona. Lucha con armas improvisadas, desplázate como puedas y crea tu red rebelde para derrocar el régimen de Castillo.",
+      "developer": "",
+      "publisher": "Ubisoft",
+      "imageUrl": "https://store-images.s-microsoft.com/image/apps.41566.14115267245615103.8e12f551-059b-455a-97ec-4b8173f3621e.072dfa13-d1bd-4242-8154-901de8c1b771",
+      "heroImage": "https://store-images.s-microsoft.com/image/apps.55639.14115267245615103.8e12f551-059b-455a-97ec-4b8173f3621e.9f8ad06c-377d-4273-b93c-47d3bab4d919",
+      "screenshots": [
+        "https://store-images.s-microsoft.com/image/apps.4839.14115267245615103.b13af42f-672f-45fa-b4a8-aab31ea16240.90bf96bf-4a82-4540-b4a2-2e06db057e81",
+        "https://store-images.s-microsoft.com/image/apps.13456.14115267245615103.b13af42f-672f-45fa-b4a8-aab31ea16240.8a663397-3c48-4a47-9060-80adb293a44f",
+        "https://store-images.s-microsoft.com/image/apps.65088.14115267245615103.b13af42f-672f-45fa-b4a8-aab31ea16240.341f64ee-a3e4-40b0-a47b-e195b585ae47",
+        "https://store-images.s-microsoft.com/image/apps.24644.14115267245615103.b13af42f-672f-45fa-b4a8-aab31ea16240.8b4c6a36-7f97-4cb0-93b1-1a54f303e066"
+      ],
+      "videoUrl": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftassets/acf644af-59d0-4a71-947f-444c53688bb3-AVS.m3u8?packagedStreaming=true",
+      "videoCaption": "FC6 trailer",
+      "releaseDate": "2021-10-07",
+      "categories": [
+        "Acción y aventura",
+        "Shooter"
+      ],
+      "tiers": [
+        "premium",
+        "ultimate"
+      ],
+      "platform": "console",
+      "price": 69.99,
+      "msrp": 69.99,
+      "currency": "EUR",
+      "hasDiscount": false,
+      "discountPercent": 0,
+      "rating": 3.4,
+      "ratingCount": 220,
+      "ageRating": 18,
+      "pegiRating": "PEGI 18",
+      "pegiDescription": "Apropiado a partir de 18 años",
+      "interactiveDescriptions": [
+        "Compras dentro del juego"
+      ],
+      "capabilities": [
+        "Cooperativo en línea  (2-2)",
+        "Multijugador en línea  (2-2)",
+        "4K Ultra HD",
+        "HDR10",
+        "Un jugador",
+        "Optimizado para Xbox Series X|S",
+        "Entrega inteligente",
+        "Logros de Xbox",
+        "Presencia de Xbox",
+        "Clubs de Xbox",
+        "Cosas guardadas en la nube de Xbox"
+      ],
+      "systemRequirements": [
+        {
+          "title": "Arquitectura",
+          "minimum": "x64",
+          "recommended": "x64"
+        },
+        {
+          "title": "Controladora",
+          "minimum": "Controladora de Xbox",
+          "recommended": ""
+        },
+        {
+          "title": "Micrófono",
+          "minimum": "",
+          "recommended": "Micrófono integrado"
+        }
+      ],
+      "maxInstallSize": 121166983168,
+      "hasAddOns": true,
+      "storeUrl": "https://www.xbox.com/es-es/games/store/farcry-6/9PBNGCVBGML0"
     },
     {
       "id": "9NMCDQ6RCJKH",
@@ -22305,9 +22327,9 @@
       "heroImage": "https://store-images.s-microsoft.com/image/apps.35487.70702278257994163.a192b10f-e44a-4746-afb2-c8d38dd3a4a0.ea183fe8-5d37-4182-b350-c4847b55c452",
       "screenshots": [
         "https://store-images.s-microsoft.com/image/apps.51181.70702278257994163.9020fde9-23f7-404c-9b79-758e4925f789.dd20bd39-8c32-408f-aae2-05d7d7924808",
-        "https://store-images.s-microsoft.com/image/apps.46699.70702278257994163.26c83bfb-9b42-4125-a7df-663079932cae.406cd1f3-c6ff-4381-9dbf-84bad9465210",
         "https://store-images.s-microsoft.com/image/apps.45321.70702278257994163.82153f73-d018-4d23-bb4f-14433178e3a6.4199f993-ace7-4a87-8ca0-a18d07e6d9cc",
-        "https://store-images.s-microsoft.com/image/apps.30681.70702278257994163.c945029a-4946-44ef-b5c7-b072f07eb636.6e6dc827-6c42-4e3b-af68-29f8892be5d7"
+        "https://store-images.s-microsoft.com/image/apps.30681.70702278257994163.c945029a-4946-44ef-b5c7-b072f07eb636.6e6dc827-6c42-4e3b-af68-29f8892be5d7",
+        "https://store-images.s-microsoft.com/image/apps.36661.70702278257994163.c945029a-4946-44ef-b5c7-b072f07eb636.4b0e7e46-e1a3-4753-bcad-e6cb9b04f08e"
       ],
       "videoUrl": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftassets/905e8ff6-7f0b-4d55-93c7-de39b7bd9ca4-AVS.m3u8?packagedStreaming=true",
       "videoCaption": "Chapter 7 Season 3 Trailer",
@@ -22329,7 +22351,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.7,
-      "ratingCount": 4382,
+      "ratingCount": 4383,
       "ageRating": 12,
       "pegiRating": "Supervisión parental recomendada",
       "pegiDescription": "Supervisión parental recomendada",
@@ -22359,7 +22381,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 107943616512,
+      "maxInstallSize": 108032503808,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/fortnite/BT5P2X999VH2"
     },
@@ -22396,7 +22418,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.6,
-      "ratingCount": 2580,
+      "ratingCount": 2581,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -22489,8 +22511,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 4.2,
-      "ratingCount": 271,
+      "rating": 4.1,
+      "ratingCount": 274,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -23193,7 +23215,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.6,
-      "ratingCount": 11236,
+      "ratingCount": 11237,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -23332,7 +23354,8 @@
         "Multijugador multiplataforma de Xbox",
         "Un jugador",
         "Pantalla dividida o compartida",
-        "Cooperación multiplataforma de Xbox"
+        "Cooperación multiplataforma de Xbox",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -23391,7 +23414,8 @@
         "Un jugador",
         "Pantalla dividida o compartida",
         "Cooperación multiplataforma de Xbox",
-        "Xbox One X mejorado"
+        "Xbox One X mejorado",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -23450,7 +23474,8 @@
         "Un jugador",
         "Pantalla dividida o compartida",
         "Cooperación multiplataforma de Xbox",
-        "Xbox One X mejorado"
+        "Xbox One X mejorado",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -23517,7 +23542,8 @@
         "Presencia de Xbox",
         "Clubs de Xbox",
         "Cosas guardadas en la nube de Xbox",
-        "Xbox Play Anywhere"
+        "Xbox Play Anywhere",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -23615,7 +23641,8 @@
         "Multijugador multiplataforma de Xbox",
         "Un jugador",
         "Pantalla dividida o compartida",
-        "Cooperación multiplataforma de Xbox"
+        "Cooperación multiplataforma de Xbox",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -23794,7 +23821,8 @@
         "Cooperativo en línea  (2-2)",
         "Multijugador local de Xbox (2-2)",
         "Multijugador en línea  (2-8)",
-        "Pantalla dividida o compartida"
+        "Pantalla dividida o compartida",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -24440,7 +24468,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 2,
-      "ratingCount": 44,
+      "ratingCount": 45,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -24492,7 +24520,7 @@
           "recommended": "Controladora de Xbox"
         }
       ],
-      "maxInstallSize": 2430038016,
+      "maxInstallSize": 2430050304,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/goals/9PF2ZS4XB4JH"
     },
@@ -24800,7 +24828,8 @@
         "Un jugador",
         "Logros de Xbox",
         "Presencia de Xbox",
-        "Cosas guardadas en la nube de Xbox"
+        "Cosas guardadas en la nube de Xbox",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -25655,7 +25684,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.5,
-      "ratingCount": 979,
+      "ratingCount": 980,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -25710,7 +25739,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4,
-      "ratingCount": 1178,
+      "ratingCount": 1179,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -25783,7 +25812,8 @@
         "HDR10",
         "Cooperación multiplataforma de Xbox",
         "Xbox One X mejorado",
-        "Xbox Play Anywhere"
+        "Xbox Play Anywhere",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -26083,7 +26113,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.4,
-      "ratingCount": 681,
+      "ratingCount": 682,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -26222,7 +26252,8 @@
       "interactiveDescriptions": [],
       "capabilities": [
         "Cooperativo en línea  (2-2)",
-        "Multijugador en línea  (2-2)"
+        "Multijugador en línea  (2-2)",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -27128,7 +27159,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.8,
-      "ratingCount": 855,
+      "ratingCount": 856,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -27531,7 +27562,8 @@
         "Controlador para juegos para PC",
         "Logros de Xbox",
         "Cosas guardadas en la nube de Xbox",
-        "Xbox Play Anywhere"
+        "Xbox Play Anywhere",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -27613,7 +27645,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.2,
-      "ratingCount": 467,
+      "ratingCount": 468,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -28482,7 +28514,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 3182858240,
+      "maxInstallSize": 3366256640,
       "hasAddOns": false,
       "storeUrl": "https://www.xbox.com/es-es/games/store/inkonbini-one-store-many-stories/9NVV0M74W05C"
     },
@@ -28905,8 +28937,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 4.5,
-      "ratingCount": 11,
+      "rating": 4.3,
+      "ratingCount": 13,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -29902,7 +29934,7 @@
           "recommended": "32 GB"
         }
       ],
-      "maxInstallSize": 184284614656,
+      "maxInstallSize": 184288092160,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/kingdom-come-deliverance-ii/9N4W31HSMVVD"
     },
@@ -32512,7 +32544,9 @@
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
       "interactiveDescriptions": [],
-      "capabilities": [],
+      "capabilities": [
+        "FPS Boost Series X | S"
+      ],
       "systemRequirements": [
         {
           "title": "Arquitectura",
@@ -33269,7 +33303,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.7,
-      "ratingCount": 11290,
+      "ratingCount": 11291,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -33331,7 +33365,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.7,
-      "ratingCount": 51180,
+      "ratingCount": 51184,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -33503,7 +33537,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.7,
-      "ratingCount": 21108,
+      "ratingCount": 21110,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -33808,7 +33842,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4,
-      "ratingCount": 15595,
+      "ratingCount": 15600,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -34003,7 +34037,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.5,
-      "ratingCount": 61121,
+      "ratingCount": 61126,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -34207,7 +34241,8 @@
       "pegiDescription": "Apropiado a partir de 16 años",
       "interactiveDescriptions": [],
       "capabilities": [
-        "Xbox One X mejorado"
+        "Xbox One X mejorado",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -34254,7 +34289,9 @@
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
       "interactiveDescriptions": [],
-      "capabilities": [],
+      "capabilities": [
+        "FPS Boost Series X"
+      ],
       "systemRequirements": [
         {
           "title": "Arquitectura",
@@ -36438,7 +36475,8 @@
         "Xbox One X mejorado",
         "Logros de Xbox",
         "Cosas guardadas en la nube de Xbox",
-        "Xbox Play Anywhere"
+        "Xbox Play Anywhere",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -37370,7 +37408,7 @@
           "recommended": "Micrófono integrado"
         }
       ],
-      "maxInstallSize": 29943103488,
+      "maxInstallSize": 29943087104,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/no-man-s-sky/BQVQTL3PCH05"
     },
@@ -37491,7 +37529,8 @@
       "pegiDescription": "Apropiado a partir de 16 años",
       "interactiveDescriptions": [],
       "capabilities": [
-        "Xbox One X mejorado"
+        "Xbox One X mejorado",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -37921,7 +37960,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.7,
-      "ratingCount": 784,
+      "ratingCount": 785,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -38034,7 +38073,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.9,
-      "ratingCount": 14,
+      "ratingCount": 15,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -38081,7 +38120,7 @@
           "recommended": "8 GB"
         }
       ],
-      "maxInstallSize": 5218238464,
+      "maxInstallSize": 5265981440,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/outbound/9PFWZMT737GG"
     },
@@ -38133,7 +38172,8 @@
         "Un jugador",
         "Logros de Xbox",
         "Presencia de Xbox",
-        "Cosas guardadas en la nube de Xbox"
+        "Cosas guardadas en la nube de Xbox",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -39731,7 +39771,7 @@
           "recommended": "Controladora de Xbox"
         }
       ],
-      "maxInstallSize": 29367300096,
+      "maxInstallSize": 31082242048,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/planet-coaster-2/9PK5WS0HXQKQ"
     },
@@ -39768,7 +39808,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.8,
-      "ratingCount": 31,
+      "ratingCount": 32,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -39887,7 +39927,8 @@
         "Cooperación local de Xbox (2-4)",
         "Cooperativo en línea  (2-4)",
         "Multijugador local de Xbox (2-2)",
-        "Multijugador en línea  (2-26)"
+        "Multijugador en línea  (2-26)",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -39940,7 +39981,8 @@
         "Cooperación local de Xbox (2-4)",
         "Cooperativo en línea  (2-4)",
         "Multijugador local de Xbox (2-2)",
-        "Multijugador en línea  (2-24)"
+        "Multijugador en línea  (2-24)",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -39995,7 +40037,8 @@
         "Multijugador en línea  (2-24)",
         "4K Ultra HD",
         "HDR10",
-        "Pantalla dividida o compartida"
+        "Pantalla dividida o compartida",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -40450,7 +40493,8 @@
         "Logros de Xbox",
         "Presencia de Xbox",
         "Clubs de Xbox",
-        "Cosas guardadas en la nube de Xbox"
+        "Cosas guardadas en la nube de Xbox",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -40596,7 +40640,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.4,
-      "ratingCount": 73,
+      "ratingCount": 74,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -41337,7 +41381,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.2,
-      "ratingCount": 1234,
+      "ratingCount": 1235,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -42053,7 +42097,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.5,
-      "ratingCount": 297,
+      "ratingCount": 298,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -42162,7 +42206,8 @@
         "Presencia de Xbox",
         "Clubs de Xbox",
         "Cosas guardadas en la nube de Xbox",
-        "Xbox Play Anywhere"
+        "Xbox Play Anywhere",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -43588,7 +43633,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.8,
-      "ratingCount": 820,
+      "ratingCount": 821,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -43896,8 +43941,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 3.1,
-      "ratingCount": 24,
+      "rating": 3.2,
+      "ratingCount": 25,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -44599,7 +44644,9 @@
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
       "interactiveDescriptions": [],
-      "capabilities": [],
+      "capabilities": [
+        "FPS Boost Series X | S"
+      ],
       "systemRequirements": [
         {
           "title": "Arquitectura",
@@ -44725,7 +44772,7 @@
           "recommended": "Micrófono integrado"
         }
       ],
-      "maxInstallSize": 140942557184,
+      "maxInstallSize": 140942155776,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/sea-of-thieves-2026-edition/9P2N57MC619K"
     },
@@ -45201,7 +45248,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.9,
-      "ratingCount": 94,
+      "ratingCount": 95,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -45983,7 +46030,7 @@
           "recommended": "Controladora de Xbox"
         }
       ],
-      "maxInstallSize": 51564851200,
+      "maxInstallSize": 54312009728,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/snowrunner/9PNRSC0J6DT8"
     },
@@ -46063,7 +46110,7 @@
           "recommended": "Controladora de Xbox"
         }
       ],
-      "maxInstallSize": 69073514496,
+      "maxInstallSize": 72726867968,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/snowrunner-windows-10/9NP6WL1XQDBW"
     },
@@ -46811,7 +46858,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.3,
-      "ratingCount": 44,
+      "ratingCount": 45,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -47096,7 +47143,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.3,
-      "ratingCount": 358,
+      "ratingCount": 359,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -47264,7 +47311,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.9,
-      "ratingCount": 132,
+      "ratingCount": 133,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -47463,7 +47510,8 @@
         "Multijugador en línea  (8-40)",
         "HDR10",
         "Pantalla dividida o compartida",
-        "Xbox One X mejorado"
+        "Xbox One X mejorado",
+        "FPS Boost Series X"
       ],
       "systemRequirements": [
         {
@@ -48123,8 +48171,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 3.5,
-      "ratingCount": 2,
+      "rating": 4,
+      "ratingCount": 3,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -48401,7 +48449,8 @@
         "Cooperativo en línea  (2-4)",
         "Multijugador en línea  (2-4)",
         "HDR10",
-        "Xbox One X mejorado"
+        "Xbox One X mejorado",
+        "FPS Boost Series S"
       ],
       "systemRequirements": [
         {
@@ -49085,7 +49134,8 @@
         "Presencia de Xbox",
         "Clubs de Xbox",
         "Cosas guardadas en la nube de Xbox",
-        "Xbox Play Anywhere"
+        "Xbox Play Anywhere",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -49351,7 +49401,7 @@
       "shortDescription": "Superball es un juego deportivo multijugador con superpoderes que presenta combates 3v3 por equipos en estadios de estética cyberpunk.\n¡Elige a tu personaje, pasa, chuta y abre camino hacia la victoria!",
       "developer": "Pathea Games",
       "publisher": "Logoi Games",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.55228.13984747577958597.9f8c8c60-1c86-46a2-bfee-5caef0c448ac.5defc662-c405-4830-bc02-a010a13d0361",
+      "imageUrl": "https://store-images.s-microsoft.com/image/apps.3492.13984747577958597.275e6c8c-11c1-438a-b606-e1b098193074.b305c3bf-18c5-4357-8809-3b95028c3a70",
       "heroImage": "https://store-images.s-microsoft.com/image/apps.33076.13984747577958597.92005490-208e-4e00-9984-1e54d4ab85c5.57c979d3-062f-4643-810f-cef2c1f7418b",
       "screenshots": [
         "https://store-images.s-microsoft.com/image/apps.27066.13984747577958597.4c5c03b9-9382-4061-8c81-f16ec11a813b.1899bc63-e66d-4947-8049-9761f1a8a735",
@@ -49359,8 +49409,8 @@
         "https://store-images.s-microsoft.com/image/apps.44964.13984747577958597.92005490-208e-4e00-9984-1e54d4ab85c5.e49ce2bd-7582-45b9-bc1d-5cca20dbc03e",
         "https://store-images.s-microsoft.com/image/apps.8802.13984747577958597.92005490-208e-4e00-9984-1e54d4ab85c5.74fa702e-7d7b-453d-b695-e86f9cd2d05e"
       ],
-      "videoUrl": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftassets/9ad850b2-ef9a-454a-9884-4156965bbc55-AVS.m3u8?packagedStreaming=true",
-      "videoCaption": "Season 8 Update New Hero 'Perun'",
+      "videoUrl": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftassets/f6f5d831-ec0f-494f-9d6b-dc7dad64fcd7-AVS.m3u8?packagedStreaming=true",
+      "videoCaption": "Thumbnail",
       "releaseDate": "2025-10-28",
       "categories": [
         "Deportes",
@@ -49447,7 +49497,7 @@
           "recommended": "6 GB"
         }
       ],
-      "maxInstallSize": 12343398400,
+      "maxInstallSize": 12384206848,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/superball/9N4M72L6KGC8"
     },
@@ -51961,7 +52011,7 @@
           "recommended": "4 GB"
         }
       ],
-      "maxInstallSize": 189787275264,
+      "maxInstallSize": 189787717632,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/the-elder-scrolls-online-standard-edition/BRKX5CRMRTC2"
     },
@@ -52311,7 +52361,8 @@
         "Logros de Xbox",
         "Presencia de Xbox",
         "Clubs de Xbox",
-        "Cosas guardadas en la nube de Xbox"
+        "Cosas guardadas en la nube de Xbox",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -52523,7 +52574,7 @@
           "recommended": "Controladora de Xbox"
         }
       ],
-      "maxInstallSize": 76662923264,
+      "maxInstallSize": 76674433024,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/the-finals/9PGD71CMDS0Z"
     },
@@ -52601,7 +52652,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 74921750528,
+      "maxInstallSize": 74920968192,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/the-first-descendant/9P8FBXKMCLWC"
     },
@@ -52639,7 +52690,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.3,
-      "ratingCount": 343,
+      "ratingCount": 344,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -53013,8 +53064,8 @@
     {
       "id": "9NM50L0DXX1W",
       "title": "The Outer Worlds: Spacer's Choice Edition",
-      "description": "The Outer Worlds: Spacer's Choice Edition es la mejor forma de jugar al galardonado RPG de Obsidian Entertainment y Private Division.\r\n\r\nQuienes ya tuvieran The Outer Worlds y los contenidos descargables Asesinato en Erídano y Peligro en Gorgona para Xbox One ya pueden mejorar a The Outer Worlds: Spacer's Choice Edition para Xbox Series a un precio de compra reducido*. Para activar la opción de compra de la mejora:\r\n• Quienes tengan todos los contenidos descargables de The Outer Worlds y las versiones digitales del juego original para Xbox One deben registrarse en una Xbox Series con la misma cuenta de Microsoft que usaron al comprar el juego original y los contenidos descargables asociados para Xbox One. Los jugadores que dispongan de The Outer Worlds por medio de una suscripción a Xbox Game Pass no podrán optar a la mejora.**\r\n\r\nYa has probado las demás, ¡ahora elige la que mola más! The Outer Worlds: Spacer's Choice Edition incluye el juego original y todo el contenido complementario para que juegues al galardonado RPG de Obsidian Entertainment de la mejor forma posible. Esta obra maestra remasterizada está optimizada de forma que puedas disfrutar de la mejor versión de The Outer Worlds..., aunque optes por jugar al galardonado RPG sacando la peor versión posible de tu personaje.\r\n\r\nLa nave colonizadora en la que viajas se pierde mientras se dirige a los confines de la galaxia, y despiertas décadas después en medio de una intrincada conspiración que amenaza con destruir la colonia. Explora diferentes planetas y ubicaciones de Alción, como el misterioso asteroide Gorgona y las fascinantes destilerías de Erídano. A medida que te encuentras con diversas facciones ávidas de poder, la persona que decidas ser determinará cómo se desarrolla la trama.\r\n\r\nEn las ecuaciones de la colonia, tú eres la variable imprevista. \r\n\r\nCaracterísticas:\r\n• El The Outer Worlds está mejor que nunca: El RPG de éxito de 2019 se ha remasterizado con gráficos y rendimiento mejorados, animaciones adicionales, entornos de mayor definición y más.\r\n• Aumento del nivel máximo: un nivel máximo mayor significa más formas de crear tu personaje con las siete ramas del árbol de habilidades.\r\n• Un RPG narrativo controlado por el jugador: Siguiendo la tradición de Obsidian, tú decides cómo abordar The Outer Worlds. Tus decisiones no solo afectan el desarrollo de la trama, sino también a la creación del personaje, las historias de los compañeros y los posibles escenarios finales.\r\n• Lidera a tus compañeros: Durante el viaje hasta la colonia más lejana, encontrarás personajes que querrán formar parte de tu tripulación. Armados con habilidades únicas, tendrán sus propias misiones, motivaciones e ideales. Tú decides si ayudarlos a alcanzar sus objetivos o utilizarlos para tus propios fines.\r\n• Explora la colonia corporativa: Alción es una colonia en los confines de la galaxia, propiedad de una junta corporativa. Lo controlan todo excepto los monstruos alienígenas que aparecieron cuando la terraformación de los dos planetas de la colonia no salió según lo planeado. Busca una nave, reúne una tripulación y explora asentamientos, estaciones espaciales y lugares misteriosos de Alción.\r\n\r\n*Según el precio de venta sugerido por Private Division para The Outer Worlds: Spacer's Choice Edition en Xbox Series. Límite de una mejora por cuenta. ** Los jugadores que dispongan de The Outer Worlds por medio de una suscripción a Xbox Game Pass no podrán optar a la mejora. Consulta la tienda de la plataforma para más detalles y condiciones.",
-      "shortDescription": "The Outer Worlds: Spacer's Choice Edition es la mejor forma de jugar al galardonado RPG de Obsidian Entertainment y Private Division. Esta remasterización, que incluye el juego original y el contenido descargable, está optimizada para disfrutar de la mejor versión de The Outer Worlds.",
+      "description": "Con The Outer Worlds: Spacer's Choice Edition, disfrutarás al máximo del galardonado RPG de Obsidian Entertainment y Private Division.\n\nYa probaste el resto, ¡y sabes que nada es comparable con esto! The Outer Worlds: Spacer's Choice Edition incluye el juego original y todo su contenido complementario, para que puedas exprimir al máximo el aclamado RPG de Obsidian Entertainment. Esta obra maestra remasterizada se optimizó al detalle para consolidarse como la mejor versión de todas de The Outer Worlds... incluso si te empeñas en jugarla con la peor versión de todas de tu personaje interestelar.\n\nHan transcurrido décadas desde que se extraviara la nave colonizadora en la que viajabas rumbo a los confines de la galaxia. Cuando por fin despiertas, acabas metiéndote de cabeza en una conspiración que podría suponer el catastrófico fin de la colonia. Explora diversos planetas y entornos de Alción, como el misterioso asteroide Gorgona y las exquisitas destilerías de Eridanos. A medida que vayas interactuando con las distintas facciones que se disputan el poder, las decisiones que forjarán tu personalidad determinarán también el curso de esta épica historia, cuyo devenir está en tus manos.\nEn la ecuación corporativa de la colonia, la variable imprevista eres tú.\n\nCaracterísticas principales:\n\nEl juego completo\nEl galardonado RPG de 2019 se remasterizó con mejores gráficos, rendimiento optimizado, animaciones inéditas, entornos de alta resolución y una novedad de lo más destacable: ¡granadas!\n\nUna historia que orbita en torno a ti\nComo manda la tradición en los títulos de Obsidian, en The Outer Worlds tú decides cómo jugar. Tus decisiones, además de los cauces narrativos, determinarán los atributos de tu personaje, las historias de tus compañeros e incluso el mismo final de la aventura.\n\nLidera a tus compañeros\nA lo largo de tu periplo rumbo a la colonia más remota, te cruzarás con un elenco de personajes deseosos de sumarse a tu tripulación. Provistos de aptitudes excepcionales, estos compañeros tienen sus propias misiones, motivaciones e ideales. Te corresponderá a ti ayudarlos a lograr sus metas o aprovecharte de ellos para alcanzar las tuyas.\n\nExplora la colonia corporativa\nLa colonia Alción, emplazada en los confines de la galaxia, es propiedad de una junta corporativa que lo controla absolutamente todo... salvo las monstruosidades alienígenas que quedaron libres cuando la terraformación de los dos planetas que componen la colonia no salió según lo esperado. Obtén tu nave, forma una tripulación y lánzate a explorar asentamientos, estaciones espaciales y demás lugares enigmáticos que abundan a lo largo y ancho de Alción.",
+      "shortDescription": "Con The Outer Worlds: Spacer's Choice Edition, disfrutarás al máximo del galardonado RPG de Obsidian Entertainment y Private Division. Esta obra maestra abarca el juego original remasterizado y todo su contenido descargable, presentándose como la mejor versión de todas de The Outer Worlds.",
       "developer": "Obsidian Entertainment",
       "publisher": "Private Division",
       "imageUrl": "https://store-images.s-microsoft.com/image/apps.63712.13699070337568110.f83f9fb9-d1c0-4826-92a0-54943043432e.95cce0d7-6756-4f9d-8411-4bcd00fb8dab",
@@ -53075,8 +53126,8 @@
     {
       "id": "9NG2F1Q062VV",
       "title": "The Outer Worlds: Spacer’s Choice Edition",
-      "description": "The Outer Worlds: Spacer's Choice Edition es la mejor forma de jugar al galardonado RPG de Obsidian Entertainment y Private Division.\r\n\r\nQuienes ya tuvieran The Outer Worlds y los contenidos descargables Asesinato en Erídano y Peligro en Gorgona en Microsoft Store ya pueden mejorar a The Outer Worlds: Spacer's Choice Edition a un precio de compra reducido*. Para activar la opción de compra de la mejora, los jugadores deben conectarse a la misma cuenta de Microsoft que usaron al comprar el juego original y los contenidos descargables asociados mediante Windows Store. \r\n\r\nYa has probado las demás, ¡ahora elige la que mola más! The Outer Worlds: Spacer's Choice Edition incluye el juego original y todo el contenido complementario para que juegues al galardonado RPG de Obsidian Entertainment de la mejor forma posible. Esta obra maestra remasterizada está optimizada de forma que puedas disfrutar de la mejor versión de The Outer Worlds..., aunque optes por jugar al galardonado RPG sacando la peor versión posible de tu personaje.\r\n\r\nLa nave colonizadora en la que viajas se pierde mientras se dirige a los confines de la galaxia, y despiertas décadas después en medio de una intrincada conspiración que amenaza con destruir la colonia. Explora los diferentes planetas y ubicaciones de Alción, como el misterioso asteroide Gorgona y las fascinantes destilerías de Erídano. A medida que te encuentras con diversas facciones ávidas de poder, la personalidad que decidas adoptar determinará cómo se desarrolla esta historia basada en el personaje jugador. \r\n\r\nEn las ecuaciones de la colonia, tú eres la variable imprevista. \r\n\r\nCaracterísticas:\r\n•\tEl The Outer Worlds que tanto te gusta, mejor que nunca: El RPG de éxito de 2019 se ha remasterizado con mejores gráficos, rendimiento mejorado, animaciones adicionales, entornos de mayor definición y más. \r\n•\tAumento del nivel máximo: Al haber aumentado el nivel máximo, tendrás más formas de desarrollar a tu personaje con las 7 ramas del árbol de habilidades.\r\n•\tUn RPG narrativo controlado por el jugador: Para no perder la tradición de Obsidian, tú decides cómo abordar The Outer Worlds. Tus decisiones no solo afectan a la forma en la que se desarrolla la trama, también a la creación del personaje, a las historias de los compañeros y a los escenarios de final de partida.\r\n•\tLidera a tus compañeros: Durante el viaje hasta la colonia más lejana, encontrarás a muchos personajes que querrán formar parte de tu tripulación. Armados con habilidades únicas, estos compañeros tendrán sus propias misiones, motivaciones e ideales. Tú decides si ayudarlos a alcanzar sus objetivos o utilizarlos para tus propios fines.\r\n•\tExplora la colonia corporativa: Alción es una colonia que está en los confines de la galaxia y que es propiedad de una junta corporativa, que la dirige. Lo controlan todo excepto los monstruos alienígenas que aparecieron cuando la terraformación de los dos planetas de la colonia no salió exactamente según lo planeado. Busca una nave, reúne una tripulación y explora los asentamientos, las estaciones espaciales y otros lugares misteriosos de Alción.\r\n\r\n*Según el precio de venta sugerido por Private Division para The Outer Worlds: Spacer's Choice Edition en PC. Solo se permite una mejora por cuenta.",
-      "shortDescription": "The Outer Worlds: Spacer's Choice Edition es la mejor forma de jugar al galardonado RPG de Obsidian Entertainment y Private Division. Esta remasterización, que incluye el juego original y el contenido descargable, está optimizada para disfrutar de la mejor versión de The Outer Worlds.",
+      "description": "Con The Outer Worlds: Spacer's Choice Edition, disfrutarás al máximo del galardonado RPG de Obsidian Entertainment y Private Division.\n\nYa probaste el resto, ¡y sabes que nada es comparable con esto! The Outer Worlds: Spacer's Choice Edition incluye el juego original y todo su contenido complementario, para que puedas exprimir al máximo el aclamado RPG de Obsidian Entertainment. Esta obra maestra remasterizada se optimizó al detalle para consolidarse como la mejor versión de todas de The Outer Worlds... incluso si te empeñas en jugarla con la peor versión de todas de tu personaje interestelar.\n\nHan transcurrido décadas desde que se extraviara la nave colonizadora en la que viajabas rumbo a los confines de la galaxia. Cuando por fin despiertas, acabas metiéndote de cabeza en una conspiración que podría suponer el catastrófico fin de la colonia. Explora diversos planetas y entornos de Alción, como el misterioso asteroide Gorgona y las exquisitas destilerías de Eridanos. A medida que vayas interactuando con las distintas facciones que se disputan el poder, las decisiones que forjarán tu personalidad determinarán también el curso de esta épica historia, cuyo devenir está en tus manos.\nEn la ecuación corporativa de la colonia, la variable imprevista eres tú.\n\nCaracterísticas principales:\n\nEl juego completo\nEl galardonado RPG de 2019 se remasterizó con mejores gráficos, rendimiento optimizado, animaciones inéditas, entornos de alta resolución y una novedad de lo más destacable: ¡granadas!\n\nUna historia que orbita en torno a ti\nComo manda la tradición en los títulos de Obsidian, en The Outer Worlds tú decides cómo jugar. Tus decisiones, además de los cauces narrativos, determinarán los atributos de tu personaje, las historias de tus compañeros e incluso el mismo final de la aventura.\n\nLidera a tus compañeros\nA lo largo de tu periplo rumbo a la colonia más remota, te cruzarás con un elenco de personajes deseosos de sumarse a tu tripulación. Provistos de aptitudes excepcionales, estos compañeros tienen sus propias misiones, motivaciones e ideales. Te corresponderá a ti ayudarlos a lograr sus metas o aprovecharte de ellos para alcanzar las tuyas.\n\nExplora la colonia corporativa\nLa colonia Alción, emplazada en los confines de la galaxia, es propiedad de una junta corporativa que lo controla absolutamente todo... salvo las monstruosidades alienígenas que quedaron libres cuando la terraformación de los dos planetas que componen la colonia no salió según lo esperado. Obtén tu nave, forma una tripulación y lánzate a explorar asentamientos, estaciones espaciales y demás lugares enigmáticos que abundan a lo largo y ancho de Alción.",
+      "shortDescription": "Con The Outer Worlds: Spacer's Choice Edition, disfrutarás al máximo del galardonado RPG de Obsidian Entertainment y Private Division. Esta obra maestra abarca el juego original remasterizado y todo su contenido descargable, presentándose como la mejor versión de todas de The Outer Worlds.",
       "developer": "Obsidian Entertainment",
       "publisher": "Private Division",
       "imageUrl": "https://store-images.s-microsoft.com/image/apps.63712.13587801151706777.04cf3109-a533-4a54-bbce-d2ffebd01b85.eca5ef6f-8320-42ac-b134-049af719cb24",
@@ -53170,7 +53221,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.9,
-      "ratingCount": 37,
+      "ratingCount": 38,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -53839,7 +53890,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.6,
-      "ratingCount": 379,
+      "ratingCount": 380,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -54131,7 +54182,8 @@
       "interactiveDescriptions": [],
       "capabilities": [
         "Multijugador en línea  (2-16)",
-        "Xbox One X mejorado"
+        "Xbox One X mejorado",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -54800,7 +54852,8 @@
         "4K Ultra HD",
         "Un jugador",
         "Xbox One X mejorado",
-        "Logros de Xbox"
+        "Logros de Xbox",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -55051,14 +55104,15 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.6,
-      "ratingCount": 1026,
+      "ratingCount": 1027,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
       "interactiveDescriptions": [],
       "capabilities": [
         "Multijugador en línea  (4-8)",
-        "Un jugador"
+        "Un jugador",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -55545,7 +55599,8 @@
         "Presencia de Xbox",
         "Clubs de Xbox",
         "Cosas guardadas en la nube de Xbox",
-        "Xbox Play Anywhere"
+        "Xbox Play Anywhere",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -56589,7 +56644,8 @@
         "Logros de Xbox",
         "Presencia de Xbox",
         "Clubs de Xbox",
-        "Cosas guardadas en la nube de Xbox"
+        "Cosas guardadas en la nube de Xbox",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -56890,7 +56946,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 2.4,
-      "ratingCount": 48,
+      "ratingCount": 49,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -57083,7 +57139,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.6,
-      "ratingCount": 256,
+      "ratingCount": 257,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -57211,7 +57267,8 @@
         "Multijugador local de Xbox (2-2)",
         "4K Ultra HD",
         "Pantalla dividida o compartida",
-        "Xbox One X mejorado"
+        "Xbox One X mejorado",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -57326,8 +57383,8 @@
       "shortDescription": "",
       "developer": "Riot Games",
       "publisher": "Riot Games",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.5017.13898029070941789.9785e89f-43b9-409a-a284-c5d11a23640d.e764bf90-1f45-414b-84a2-e8a1e54387f8",
-      "heroImage": "https://store-images.s-microsoft.com/image/apps.46152.13898029070941789.9785e89f-43b9-409a-a284-c5d11a23640d.6de580e4-5654-470b-b21b-2ee7a9453e27",
+      "imageUrl": "https://store-images.s-microsoft.com/image/apps.44472.13898029070941789.62a0e83b-cd74-4997-bb57-ad58c10b2f4a.9fa6d64a-9756-4024-b6e2-acb6a2921fad",
+      "heroImage": "https://store-images.s-microsoft.com/image/apps.49512.13898029070941789.62a0e83b-cd74-4997-bb57-ad58c10b2f4a.cfae1187-cea7-4db1-b4a3-7b7c20f2558d",
       "screenshots": [
         "https://store-images.s-microsoft.com/image/apps.17610.13898029070941789.9b27c201-5a22-498f-93b6-c7805e499f9b.db05f7a9-f20a-4b07-8756-743a1e288472",
         "https://store-images.s-microsoft.com/image/apps.54314.13898029070941789.9b27c201-5a22-498f-93b6-c7805e499f9b.af90ac86-bffd-4197-b164-229ccde92c9c",
@@ -57380,7 +57437,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 46973149184,
+      "maxInstallSize": 46991679488,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/valorant/9N1NLJK9SKRN"
     },
@@ -57391,8 +57448,8 @@
       "shortDescription": "VALORANT es un juego de disparos táctico 5v5 basado en personajes y que se desarrolla en un escenario internacional. Supera, deslumbra y vence a tus oponentes con habilidades tácticas, precisión en el manejo de armas y trabajo en equipo.\r\n\r\nCon el Game Pass, los miembros podrán desbloquear: \r\n●        Todos los agentes actuales \r\n●        Acceso desde el primer día a cada nuevo Agente que sea lanzado\r\n●        Aumento de XP del 20% por partida otorgado al Pase de Batalla, al Pase del Evento y al progreso del Contrato de Agente activo.",
       "developer": "Riot Games",
       "publisher": "Riot Games",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.5017.13663857844271189.8299d1e2-6431-4ad1-a680-5984f7913122.4cb0aedb-1b5e-4cd9-a7e6-2baaff493427",
-      "heroImage": "https://store-images.s-microsoft.com/image/apps.46152.13663857844271189.8299d1e2-6431-4ad1-a680-5984f7913122.7fce9d38-20a9-4480-a7c3-1fbf01363e03",
+      "imageUrl": "https://store-images.s-microsoft.com/image/apps.44472.13663857844271189.86bf8848-7dfd-487b-bd91-d633447aeada.bcc2ad6e-75f4-4075-a5ed-9af6975b27ec",
+      "heroImage": "https://store-images.s-microsoft.com/image/apps.49512.13663857844271189.86bf8848-7dfd-487b-bd91-d633447aeada.72049992-ab3e-48e7-ae71-51ee1e28f60a",
       "screenshots": [
         "https://store-images.s-microsoft.com/image/apps.43724.13663857844271189.404e9066-b027-4438-ac33-00126d0fe125.43fd7515-ca00-456d-91bb-47c4afba0ba9",
         "https://store-images.s-microsoft.com/image/apps.45086.13663857844271189.404e9066-b027-4438-ac33-00126d0fe125.fdc9aac4-14b3-4a7d-b45a-92335ad08c71",
@@ -57729,7 +57786,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.2,
-      "ratingCount": 41,
+      "ratingCount": 42,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -58154,8 +58211,8 @@
       "shortDescription": "War Thunder es el juego MMO militar gratis más amplio en plataforma cruzada, dedicado a la aviación, los vehículos acorazados, y las flotas desde la segunda guerra mundial hasta la Guera Fría. Aviones, fuerzas de tierra y buques de guerra luchan juntos en una batalla, exactamente como en la realidad.",
       "developer": "Gaijin Distribution Kft",
       "publisher": "Gaijin Distribution Kft",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.2098.63381296256995371.c715f7e9-3c0d-41de-9852-29e37f0aacd0.b5e3f061-7a5f-415c-8ea2-b06c3ccd3b59",
-      "heroImage": "https://store-images.s-microsoft.com/image/apps.58192.63381296256995371.c715f7e9-3c0d-41de-9852-29e37f0aacd0.8b5cc3b1-42f3-4592-bd2b-adaeae213a5f",
+      "imageUrl": "https://store-images.s-microsoft.com/image/apps.4307.63381296256995371.c90350dc-f7ef-4c1a-a158-a8de2f5a7725.ad06d202-b4d4-452e-abca-bebb22a08dbb",
+      "heroImage": "https://store-images.s-microsoft.com/image/apps.59214.63381296256995371.c90350dc-f7ef-4c1a-a158-a8de2f5a7725.c38eb78e-3d34-4097-8c7b-0835467744ca",
       "screenshots": [
         "https://store-images.s-microsoft.com/image/apps.16405.63381296256995371.9fd79b64-0e52-454c-9406-562322170d22.c0ff3bc9-a1b9-4026-a62e-8a917eddaaf6",
         "https://store-images.s-microsoft.com/image/apps.5897.63381296256995371.9fd79b64-0e52-454c-9406-562322170d22.7b489c36-8e7a-4bc2-bfe5-4f09ee8b0cbc",
@@ -59051,7 +59108,8 @@
         "Logros de Xbox",
         "Presencia de Xbox",
         "Clubs de Xbox",
-        "Cosas guardadas en la nube de Xbox"
+        "Cosas guardadas en la nube de Xbox",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -59452,7 +59510,8 @@
         "Cooperativo en línea  (2-2)",
         "Multijugador en línea  (2-4)",
         "Un jugador",
-        "Logros de Xbox"
+        "Logros de Xbox",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -59723,7 +59782,8 @@
         "Cooperativo en línea  (2-8)",
         "Multijugador en línea  (2-8)",
         "Un jugador",
-        "Logros de Xbox"
+        "Logros de Xbox",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -60085,7 +60145,7 @@
           "recommended": "Micrófono integrado"
         }
       ],
-      "maxInstallSize": 300182376448,
+      "maxInstallSize": 300890931200,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/where-winds-meet/9N76QGDS5GJR"
     },
@@ -61802,7 +61862,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.8,
-      "ratingCount": 74,
+      "ratingCount": 75,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -62064,7 +62124,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4,
-      "ratingCount": 77,
+      "ratingCount": 78,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
