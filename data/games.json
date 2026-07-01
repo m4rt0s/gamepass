@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-06-30T10:47:32.197Z",
+  "updatedAt": "2026-07-01T11:01:04.270Z",
   "market": "ES",
   "language": "es-ES",
-  "totalGames": 840,
+  "totalGames": 830,
   "counts": {
-    "essential": 127,
-    "premium": 590,
-    "pc": 518,
-    "ultimate": 745,
-    "total": 840
+    "essential": 131,
+    "premium": 580,
+    "pc": 511,
+    "ultimate": 735,
+    "total": 830
   },
   "categories": [
     "Acción y aventura",
@@ -841,8 +841,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 3.2,
-      "ratingCount": 10,
+      "rating": 3.3,
+      "ratingCount": 12,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -1100,7 +1100,7 @@
         "Xbox Play Anywhere"
       ],
       "systemRequirements": [],
-      "maxInstallSize": 65640521728,
+      "maxInstallSize": 65640525824,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/age-of-empires-ii-definitive-edition/9N42SSSX2MTG"
     },
@@ -3404,7 +3404,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.3,
-      "ratingCount": 705,
+      "ratingCount": 706,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -3873,16 +3873,17 @@
     {
       "id": "BXVQ8M4J9HNM",
       "title": "Assassin's Creed Syndicate",
-      "description": "PERSONAJES DOBLES, ESTILOS DE COMBATE DOBLES\nComo el descarado y rebelde Jacob Frye, saca los puños y acaba con tus enemigos con contraataques y muertes múltiples a la velocidad del rayo, usando tu arsenal de armas. Como su hermana gemela Evie, domina el arte del sigilo como una asesina implacable que ha perfeccionado su ataque rápido y silencioso.\n\nEXPLORA EL VERTIGINOSO MUNDO DEL LONDRES INDUSTRIAL\nDesde el palacio de Buckingham hasta el Big Ben, lucha y triunfa en el enorme mundo abierto del Londres victoriano. Haz parkour entre vehículos en movimiento para perseguir a los enemigos o escapar tras ataques temerarios, aborda carruajes para participar en carreras callejeras sin reglas o causa estragos a los barcos de vapor del Támesis.\n\nLIDERA EL INFRAMUNDO DE LONDRES\nCrea la banda más feroz de Gran Bretaña, la única fuerza capaz de desafiar a la élite y derrotar a las bandas rivales. Infíltrate en las fortalezas enemigas utilizando un arsenal de armas para dominar el inframundo de Londres. Robarás trenes y rescatarás a niños explotados para imponer justicia en las peligrosas calles de Londres.",
+      "description": "PERSONAJES DOBLES, ESTILOS DE COMBATE DOBLES\nComo el descarado y rebelde Jacob Frye, saca los puños y acaba con tus enemigos con contraataques y muertes múltiples a la velocidad del rayo, usando tu arsenal de armas. Como su hermana gemela Evie, domina el arte del sigilo como una asesina implacable que ha perfeccionado su ataque rápido y silencioso.\n\n\nEXPLORA EL VERTIGINOSO MUNDO DEL LONDRES INDUSTRIAL\nDesde el palacio de Buckingham hasta el Big Ben, lucha y triunfa en el enorme mundo abierto del Londres victoriano. Haz parkour entre vehículos en movimiento para perseguir a los enemigos o escapar tras ataques temerarios, aborda carruajes para participar en carreras callejeras sin reglas o causa estragos a los barcos de vapor del Támesis.\n\n\nLIDERA EL INFRAMUNDO DE LONDRES\nCrea la banda más feroz de Gran Bretaña, la única fuerza capaz de desafiar a la élite y derrotar a las bandas rivales. Infíltrate en las fortalezas enemigas utilizando un arsenal de armas para dominar el inframundo de Londres. Robarás trenes y rescatarás a niños explotados para imponer justicia en las peligrosas calles de Londres.\n",
       "shortDescription": "Londres, 1868. Dirige tu organización clandestina en plena Revolución Industrial para acabar con la corrupción de la ciudad en una aventura visceral llena acción, intriga y combates brutales.",
       "developer": "",
       "publisher": "Ubisoft",
       "imageUrl": "https://store-images.s-microsoft.com/image/apps.39552.63309362003335928.f979bcb8-9f41-424d-b922-00373875de81.a189499b-ad97-483a-907e-2958172ccdb6",
       "heroImage": "https://store-images.s-microsoft.com/image/apps.46301.63309362003335928.f979bcb8-9f41-424d-b922-00373875de81.fe32e12f-fe76-44dd-a7a3-e3bb6779cf6a",
       "screenshots": [
-        "https://store-images.s-microsoft.com/image/apps.45099.63309362003335928.4079e21b-b00f-4446-a680-6bf9c0eb0158.3a88a700-8351-45e7-b430-dc75a7a9d9b8",
         "https://store-images.s-microsoft.com/image/apps.31444.63309362003335928.4079e21b-b00f-4446-a680-6bf9c0eb0158.5295c5a8-a2d7-4407-ab1c-6fea8d77b0b9",
-        "https://store-images.s-microsoft.com/image/apps.16645.63309362003335928.4079e21b-b00f-4446-a680-6bf9c0eb0158.040cba15-6110-4d0f-8da7-a2883b298f44"
+        "https://store-images.s-microsoft.com/image/apps.16645.63309362003335928.4079e21b-b00f-4446-a680-6bf9c0eb0158.040cba15-6110-4d0f-8da7-a2883b298f44",
+        "https://store-images.s-microsoft.com/image/apps.31496.63309362003335928.34246aba-36e7-4b58-8aa3-a0be8d330568.7940ea25-1527-4f1b-b963-faee1ce8f007",
+        "https://store-images.s-microsoft.com/image/apps.39304.63309362003335928.34246aba-36e7-4b58-8aa3-a0be8d330568.ba75700b-d830-45fb-b20c-a671d5f0a8a5"
       ],
       "videoUrl": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftassets/414a4601-3d1f-4c3a-9774-0c3f300933a2-AVS.m3u8?packagedStreaming=true",
       "videoCaption": "Free Next-Gen 60FPS Update",
@@ -4351,7 +4352,8 @@
         "HDR10",
         "Un jugador",
         "Xbox One X mejorado",
-        "Logros de Xbox"
+        "Logros de Xbox",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -6155,7 +6157,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.2,
-      "ratingCount": 927,
+      "ratingCount": 928,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -6163,7 +6165,8 @@
         "Compras dentro del juego (Incluye artículos aleatorios)"
       ],
       "capabilities": [
-        "Multijugador en línea  (4-64)"
+        "Multijugador en línea  (4-64)",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -8508,7 +8511,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 1.7,
-      "ratingCount": 79,
+      "ratingCount": 80,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -10237,7 +10240,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.7,
-      "ratingCount": 1143,
+      "ratingCount": 1144,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -10283,7 +10286,7 @@
           "recommended": "Controladora de Xbox"
         }
       ],
-      "maxInstallSize": 49059557376,
+      "maxInstallSize": 49074888704,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/clair-obscur-expedition-33/9PPT8K6GQHRZ"
     },
@@ -10958,8 +10961,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 2.8,
-      "ratingCount": 229,
+      "rating": 3.7,
+      "ratingCount": 7,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -11317,6 +11320,7 @@
         "Acción y aventura"
       ],
       "tiers": [
+        "essential",
         "premium",
         "ultimate"
       ],
@@ -14481,7 +14485,7 @@
       ],
       "videoUrl": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftassets/c462087b-96ea-48fa-a6e8-344bba4f43e5-AVS.m3u8?packagedStreaming=true",
       "videoCaption": "Diablo IV Launch - Accolades Trailer",
-      "releaseDate": "",
+      "releaseDate": "2023-06-05",
       "categories": [
         "Acción y aventura",
         "Juegos de rol"
@@ -15267,7 +15271,8 @@
       "interactiveDescriptions": [],
       "capabilities": [
         "4K Ultra HD",
-        "Xbox One X mejorado"
+        "Xbox One X mejorado",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -17399,7 +17404,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 2.2,
-      "ratingCount": 147,
+      "ratingCount": 149,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -18534,7 +18539,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.5,
-      "ratingCount": 27,
+      "ratingCount": 28,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -18978,7 +18983,8 @@
       "interactiveDescriptions": [],
       "capabilities": [
         "4K Ultra HD",
-        "Xbox One X mejorado"
+        "Xbox One X mejorado",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -22439,7 +22445,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.7,
-      "ratingCount": 4388,
+      "ratingCount": 4390,
       "ageRating": 12,
       "pegiRating": "Supervisión parental recomendada",
       "pegiDescription": "Supervisión parental recomendada",
@@ -22600,7 +22606,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.1,
-      "ratingCount": 278,
+      "ratingCount": 279,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -23303,7 +23309,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.6,
-      "ratingCount": 11240,
+      "ratingCount": 11241,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -23442,7 +23448,8 @@
         "Multijugador multiplataforma de Xbox",
         "Un jugador",
         "Pantalla dividida o compartida",
-        "Cooperación multiplataforma de Xbox"
+        "Cooperación multiplataforma de Xbox",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -23501,7 +23508,8 @@
         "Un jugador",
         "Pantalla dividida o compartida",
         "Cooperación multiplataforma de Xbox",
-        "Xbox One X mejorado"
+        "Xbox One X mejorado",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -24359,13 +24367,13 @@
       "imageUrl": "https://store-images.s-microsoft.com/image/apps.6056.14057893183113088.fe9aa8d9-0f2f-4ec3-bdf1-9a1e9a2c0e21.e83084f2-24d0-463a-833f-93b5ec8da7fc",
       "heroImage": "https://store-images.s-microsoft.com/image/apps.5497.14057893183113088.fe9aa8d9-0f2f-4ec3-bdf1-9a1e9a2c0e21.dcfaafa0-c52e-4b8d-87ec-a5abbb29aeef",
       "screenshots": [
-        "https://store-images.s-microsoft.com/image/apps.55531.14057893183113088.c4b1a80a-34df-4e3c-815f-7bb2143dbe44.7bb63551-34b3-4504-b101-7baf9e488ed8",
-        "https://store-images.s-microsoft.com/image/apps.15675.14057893183113088.c4b1a80a-34df-4e3c-815f-7bb2143dbe44.b5f08423-c075-4581-95a8-24b60ad8cf72",
-        "https://store-images.s-microsoft.com/image/apps.6818.14057893183113088.c4b1a80a-34df-4e3c-815f-7bb2143dbe44.80127a0c-9841-4366-93c6-e64f5c21031f",
-        "https://store-images.s-microsoft.com/image/apps.36184.14057893183113088.c4b1a80a-34df-4e3c-815f-7bb2143dbe44.95768e78-b5cf-4ac1-ae49-94f159cf4be5"
+        "https://store-images.s-microsoft.com/image/apps.37985.14057893183113088.e19afac6-fbfb-49e1-bc58-15026e91cb61.4c2f35f7-79db-4369-939f-0a06d306dc96",
+        "https://store-images.s-microsoft.com/image/apps.28145.14057893183113088.e19afac6-fbfb-49e1-bc58-15026e91cb61.711f6f38-72fa-41c3-b2b5-523db49f639e",
+        "https://store-images.s-microsoft.com/image/apps.3906.14057893183113088.e19afac6-fbfb-49e1-bc58-15026e91cb61.e398f3e2-f3ac-4d4c-86c0-bd4346797073",
+        "https://store-images.s-microsoft.com/image/apps.10012.14057893183113088.e19afac6-fbfb-49e1-bc58-15026e91cb61.1442e995-dbb3-477c-a4d9-45b0634107d5"
       ],
-      "videoUrl": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftassets/2efba641-2502-43be-89b0-fd501c195974-AVS.m3u8?packagedStreaming=true",
-      "videoCaption": "La verdad entre las páginas de Purana",
+      "videoUrl": "https://cdn.trailers.xboxservices.com/trailers/00000000-0000-0000-0000-000000000000/xbox/prod/videos/mainprofile/14057893183113088/b11a423d-653a-4818-8550-0a14ec3adad9/manifest.m3u8",
+      "videoCaption": "¡Verano, regreso, el Festival Fontinal!",
       "releaseDate": "2024-11-20",
       "categories": [
         "Acción y aventura",
@@ -24914,7 +24922,8 @@
         "Un jugador",
         "Logros de Xbox",
         "Presencia de Xbox",
-        "Cosas guardadas en la nube de Xbox"
+        "Cosas guardadas en la nube de Xbox",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -27647,7 +27656,8 @@
         "Controlador para juegos para PC",
         "Logros de Xbox",
         "Cosas guardadas en la nube de Xbox",
-        "Xbox Play Anywhere"
+        "Xbox Play Anywhere",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -31599,7 +31609,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.1,
-      "ratingCount": 55,
+      "ratingCount": 56,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -31929,7 +31939,7 @@
           "recommended": "4 GB"
         }
       ],
-      "maxInstallSize": 964685824,
+      "maxInstallSize": 964702208,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/marvel-cosmic-invasion/9N79TQTZTQQ4"
     },
@@ -32290,116 +32300,6 @@
       "storeUrl": "https://www.xbox.com/es-es/games/store/max-the-curse-of-brotherhood/C0SFCF4PBRSZ"
     },
     {
-      "id": "9N1BZS0V3K0C",
-      "title": "Mecha BREAK",
-      "description": "Mecha BREAK, un shooter multijugador en tercera persona con tres modos de juego. Únete a un escuadrón y compites en territorios llenos de octano y combates aéreos. Elige entre diversas clases, personaliza apariencia y lucha contra mechs hostiles. ¿Estás listo para el enfrentamiento definitivo?",
-      "shortDescription": "",
-      "developer": "Amazing Seasun",
-      "publisher": "Amazing Seasun",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.18999.13904344027300912.43424399-d588-4bc0-9c03-d94bbb75a130.8436b54b-4970-4422-b0a1-f6f1954bffc8",
-      "heroImage": "https://store-images.s-microsoft.com/image/apps.56713.13904344027300912.43424399-d588-4bc0-9c03-d94bbb75a130.00efc755-7ce2-4045-9f9f-3a12e6582548",
-      "screenshots": [
-        "https://store-images.s-microsoft.com/image/apps.56627.13904344027300912.b839b46d-d203-4234-a46b-b6022513e01e.23cacf54-5523-42f4-a867-61c537fa745f",
-        "https://store-images.s-microsoft.com/image/apps.5617.13904344027300912.b839b46d-d203-4234-a46b-b6022513e01e.ba8f3109-3d9b-42c4-9c13-fca3adbdc066",
-        "https://store-images.s-microsoft.com/image/apps.15588.13904344027300912.b839b46d-d203-4234-a46b-b6022513e01e.d1e488f4-2f0c-4136-bec1-05e2aba2f55c",
-        "https://store-images.s-microsoft.com/image/apps.11195.13904344027300912.b839b46d-d203-4234-a46b-b6022513e01e.0190acf7-21e9-48d3-8714-9774f59a8b8c"
-      ],
-      "videoUrl": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftassets/a7b7f18c-455a-482b-85b1-22b2362558d0-AVS.m3u8?packagedStreaming=true",
-      "videoCaption": "Mecha BREAK – Global Release Date Announcement (Time in UTC+8)",
-      "releaseDate": "2025-07-02",
-      "categories": [
-        "Campo de batalla en línea para varios jugadores",
-        "Acción y aventura"
-      ],
-      "tiers": [
-        "essential",
-        "pc",
-        "premium",
-        "ultimate"
-      ],
-      "platform": "both",
-      "price": 0,
-      "msrp": 0,
-      "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
-      "rating": 3.3,
-      "ratingCount": 48,
-      "ageRating": 12,
-      "pegiRating": "PEGI 12",
-      "pegiDescription": "Apropiado a partir de 12 años",
-      "interactiveDescriptions": [
-        "Interacción de usuarios",
-        "Compras dentro del juego"
-      ],
-      "capabilities": [
-        "4K Ultra HD",
-        "Frecuencia de actualización variable",
-        "Sonido espacial",
-        "Dolby Atmos",
-        "DTS:X",
-        "Optimizado para Xbox Series X|S",
-        "Logros de Xbox",
-        "Cosas guardadas en la nube de Xbox",
-        "Xbox Play Anywhere"
-      ],
-      "systemRequirements": [
-        {
-          "title": "SO",
-          "minimum": "Windows 10 version 18362.0 or higher",
-          "recommended": "Windows 10 version 18362.0 or higher"
-        },
-        {
-          "title": "Arquitectura",
-          "minimum": "x64",
-          "recommended": "x64"
-        },
-        {
-          "title": "Gráficos",
-          "minimum": "NVIDIA GeForce GTX 1650",
-          "recommended": "NVIDIA GeForce RTX 3060"
-        },
-        {
-          "title": "Procesador",
-          "minimum": "Intel Core i5-6500 / AMD Ryzen 3 1300X or better",
-          "recommended": "Intel Core i7-10700K / AMD Ryzen 7 5700X3D or better"
-        },
-        {
-          "title": "Teclado",
-          "minimum": "Teclado integrado",
-          "recommended": ""
-        },
-        {
-          "title": "Mouse",
-          "minimum": "Mouse integrado",
-          "recommended": ""
-        },
-        {
-          "title": "DirectX",
-          "minimum": "Versión 11",
-          "recommended": "Versión 11"
-        },
-        {
-          "title": "Memoria",
-          "minimum": "8 GB",
-          "recommended": "16 GB"
-        },
-        {
-          "title": "Memoria de vídeo",
-          "minimum": "4 GB",
-          "recommended": "6 GB"
-        },
-        {
-          "title": "Micrófono",
-          "minimum": "",
-          "recommended": "Micrófono integrado"
-        }
-      ],
-      "maxInstallSize": 55951163392,
-      "hasAddOns": true,
-      "storeUrl": "https://www.xbox.com/es-es/games/store/mecha-break/9N1BZS0V3K0C"
-    },
-    {
       "id": "9P9FJCK32PMT",
       "title": "MechWarrior 5: Clans",
       "description": "En MECHWARRIOR 5: CLANS, los jugadores se convierten en nuevos pilotos de Smoke Jaguar en la Invasión de los Clanes de la Inner Sphere. Lidera un escuadrón «Star» de cinco 'Mechs por diversos planetas para enfrentarte a una extensa campaña con un juego inmersivo e intrincados combates. Personaliza tus BattleMechs con tecnología de vanguardia y explora opciones estratégicas.",
@@ -32628,7 +32528,9 @@
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
       "interactiveDescriptions": [],
-      "capabilities": [],
+      "capabilities": [
+        "FPS Boost Series X | S"
+      ],
       "systemRequirements": [
         {
           "title": "Arquitectura",
@@ -32880,7 +32782,7 @@
           "recommended": "16 GB"
         }
       ],
-      "maxInstallSize": 11305840640,
+      "maxInstallSize": 11728474112,
       "hasAddOns": false,
       "storeUrl": "https://www.xbox.com/es-es/games/store/menace-versi-n-preliminar-del-juego/9NQCJ397CQ6P"
     },
@@ -33111,7 +33013,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 232181760,
+      "maxInstallSize": 231559168,
       "hasAddOns": false,
       "storeUrl": "https://www.xbox.com/es-es/games/store/microsoft-bubble/9NM8GHT6CXN4"
     },
@@ -33447,7 +33349,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.7,
-      "ratingCount": 51215,
+      "ratingCount": 51222,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -33924,7 +33826,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4,
-      "ratingCount": 15612,
+      "ratingCount": 15618,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -34119,7 +34021,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.5,
-      "ratingCount": 61144,
+      "ratingCount": 61149,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -34371,7 +34273,9 @@
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
       "interactiveDescriptions": [],
-      "capabilities": [],
+      "capabilities": [
+        "FPS Boost Series X"
+      ],
       "systemRequirements": [
         {
           "title": "Arquitectura",
@@ -35662,7 +35566,7 @@
           "recommended": "Controladora de Xbox"
         }
       ],
-      "maxInstallSize": 94909018112,
+      "maxInstallSize": 102573481984,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/naraka-bladepoint/9P8SQQJ5T94B"
     },
@@ -38252,7 +38156,8 @@
         "Un jugador",
         "Logros de Xbox",
         "Presencia de Xbox",
-        "Cosas guardadas en la nube de Xbox"
+        "Cosas guardadas en la nube de Xbox",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -38861,62 +38766,6 @@
       "maxInstallSize": 24698458112,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/pax-dei/9PHGK0538TXM"
-    },
-    {
-      "id": "9N3K69GS7FWR",
-      "title": "PAYDAY 2: CRIMEWAVE EDITION",
-      "description": "PAYDAY es un shooter cooperativo para 4 jugadores, en el que debes atracar bancos con tus amigos para sacaros una buena pasta. La edición Crimewave tiene un motor gráfico mejorado. Hasta cuatro amigos cooperarán en los golpes y, a medida que avancen, los trabajos serán cada vez más grandes, complicados y con mayores recompensas. Además de ganar más dinero y de convertiros en criminales legendarios, aquí el crimen sí que paga: usa tu dinero para personalizar a tu personaje con nuevas habilidades que cambiarán tu modo de jugar, y equípalo con armas y equipo específicos. Los gráficos mejorados ofrecen una impresionante resolución a 1080p, gracias a la cual podrás ver cómo flota cada billete en el aire y cómo las balas te pasan rozando en alta definición.",
-      "shortDescription": "PAYDAY es un shooter cooperativo para 4 jugadores, en el que debes atracar bancos con tus amigos para sacaros una buena pasta. La edición Crimewave tiene un motor gráfico mejorado. El crimen sí que paga: usa tu dinero para personalizar a tu personaje con nuevas habilidades.",
-      "developer": "OVERKILL Software™",
-      "publisher": "505 Games",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.13829.13935287813373018.a8e5c9ed-1c1c-4ead-b87f-e2df58390c4b.3cba2a36-4469-4e8c-82bd-a087ae95cacd",
-      "heroImage": "https://store-images.s-microsoft.com/image/apps.24475.13935287813373018.a8e5c9ed-1c1c-4ead-b87f-e2df58390c4b.9f03e865-c0a3-4c3b-ab18-01773468fc35",
-      "screenshots": [
-        "https://store-images.s-microsoft.com/image/apps.46499.13935287813373018.a8e5c9ed-1c1c-4ead-b87f-e2df58390c4b.2dabc429-4a8a-45af-8571-782730d7a118",
-        "https://store-images.s-microsoft.com/image/apps.22978.13935287813373018.a8e5c9ed-1c1c-4ead-b87f-e2df58390c4b.d17a5b65-775b-43db-81f1-67e7eaad358b",
-        "https://store-images.s-microsoft.com/image/apps.23747.13935287813373018.a8e5c9ed-1c1c-4ead-b87f-e2df58390c4b.83707fbc-bfef-4456-93c1-b0ff0a78da45",
-        "https://store-images.s-microsoft.com/image/apps.31760.13935287813373018.a8e5c9ed-1c1c-4ead-b87f-e2df58390c4b.3326fc26-ad18-4e64-bb86-7b806a8ae7d6"
-      ],
-      "videoUrl": "",
-      "videoCaption": "",
-      "releaseDate": "2024-09-30",
-      "categories": [
-        "Shooter"
-      ],
-      "tiers": [
-        "essential",
-        "premium",
-        "ultimate"
-      ],
-      "platform": "console",
-      "price": 19.99,
-      "msrp": 19.99,
-      "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
-      "rating": 3.1,
-      "ratingCount": 13,
-      "ageRating": 18,
-      "pegiRating": "PEGI 18",
-      "pegiDescription": "Apropiado a partir de 18 años",
-      "interactiveDescriptions": [
-        "Interacción de usuarios"
-      ],
-      "capabilities": [
-        "Cooperativo en línea  (2-2)",
-        "Multijugador en línea  (2-2)",
-        "Logros de Xbox"
-      ],
-      "systemRequirements": [
-        {
-          "title": "Arquitectura",
-          "minimum": "x64",
-          "recommended": "x64"
-        }
-      ],
-      "maxInstallSize": 24656502784,
-      "hasAddOns": true,
-      "storeUrl": "https://www.xbox.com/es-es/games/store/payday-2-crimewave-edition/9N3K69GS7FWR"
     },
     {
       "id": "BSCCQL7DZ9KD",
@@ -39744,7 +39593,7 @@
       "interactiveDescriptions": [],
       "capabilities": [],
       "systemRequirements": [],
-      "maxInstallSize": 32620056576,
+      "maxInstallSize": 32630452224,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/pillars-of-eternity-definitive-edition/9N1P6T7ZQ2KF"
     },
@@ -42695,7 +42544,7 @@
           "recommended": "Controladora de Xbox"
         }
       ],
-      "maxInstallSize": 11080212480,
+      "maxInstallSize": 11107713024,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/rematch/9N5K7HWXL4Q6"
     },
@@ -43074,7 +42923,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.3,
-      "ratingCount": 141,
+      "ratingCount": 142,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -43679,159 +43528,6 @@
       "maxInstallSize": 2534297600,
       "hasAddOns": false,
       "storeUrl": "https://www.xbox.com/es-es/games/store/rise-of-nations-extended-edition/9NS84HCWZD8B"
-    },
-    {
-      "id": "BPCN22ZVT05C",
-      "title": "Rise of the Tomb Raider",
-      "description": "Gracias a su épica y adrenalínica acción en los entornos más hermosos y hostiles de la Tierra, Rise of the Tomb Raider ofrece una espectacular aventura de acción y supervivencia en la que te unirás a Lara Croft en su primera expedición como saqueadora de tumbas. Explora sobrecogedoras y letales tumbas - Explora enormes enterramientos plagados de trampas mortales, resuelve impresionantes puzles ambientales y descifra textos ancestrales para descubrir criptas que te llevarán a un mundo lleno de secretos por descubrir. Una mujer contra la naturaleza – Conquista un mundo que protegerá a toda costa sus secretos, sobrevive a las condiciones extremas y a los frágiles paisajes, enfréntate a la peligrosa fauna que actúa como última defensa de las ancestrales tumbas y explora enormes entornos interactivos. Combate de guerrilla – Aprovecha el entorno, subiéndote a árboles o buceando para evitar o eliminar a enemigos; adapta a tu estilo el equipo, las armas y la munición de Lara; fabrica explosivos en cualquier rincón para sembrar el caos, y empuña los característicos piolets y arcos de combate de Lara.",
-      "shortDescription": "Gracias a su épica y adrenalínica acción en los entornos más hermosos y hostiles de la Tierra, Rise of the Tomb Raider ofrece una espectacular aventura de acción y supervivencia en la que te unirás a Lara Croft en su primera expedición como saqueadora de tumbas.",
-      "developer": "Crystal Dynamics",
-      "publisher": "Crystal Dynamics",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.49298.68439056452236222.b811fa33-c33f-40bf-a2b2-4595319deabe.c331b082-cda2-42b1-9323-922b0b5b5cb1",
-      "heroImage": "https://store-images.s-microsoft.com/image/apps.5877.68439056452236222.b811fa33-c33f-40bf-a2b2-4595319deabe.eed6f81f-b606-4116-8b7e-1dce449463fb",
-      "screenshots": [
-        "https://store-images.s-microsoft.com/image/apps.9720.68439056452236222.b811fa33-c33f-40bf-a2b2-4595319deabe.5608b9ca-a746-4c49-a6be-ec53d50adb57",
-        "https://store-images.s-microsoft.com/image/apps.5402.68439056452236222.b811fa33-c33f-40bf-a2b2-4595319deabe.c70ec389-ec88-4507-aaf6-be327283d5c4",
-        "https://store-images.s-microsoft.com/image/apps.17621.68439056452236222.b811fa33-c33f-40bf-a2b2-4595319deabe.a220ed03-5d53-4140-ad8f-6fff0a79e8ae",
-        "https://store-images.s-microsoft.com/image/apps.8999.68439056452236222.b811fa33-c33f-40bf-a2b2-4595319deabe.e385e9ac-e4ba-4e91-8d45-53e28539f67b"
-      ],
-      "videoUrl": "",
-      "videoCaption": "",
-      "releaseDate": "",
-      "categories": [
-        "Acción y aventura"
-      ],
-      "tiers": [
-        "premium",
-        "ultimate"
-      ],
-      "platform": "console",
-      "price": 0,
-      "msrp": 0,
-      "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
-      "rating": 4.8,
-      "ratingCount": 821,
-      "ageRating": 18,
-      "pegiRating": "PEGI 18",
-      "pegiDescription": "Apropiado a partir de 18 años",
-      "interactiveDescriptions": [],
-      "capabilities": [
-        "Cooperativo en línea  (2-2)",
-        "4K Ultra HD",
-        "HDR10",
-        "Un jugador",
-        "Xbox One X mejorado"
-      ],
-      "systemRequirements": [
-        {
-          "title": "Arquitectura",
-          "minimum": "x64",
-          "recommended": "x64"
-        }
-      ],
-      "maxInstallSize": 54842404864,
-      "hasAddOns": true,
-      "storeUrl": "https://www.xbox.com/es-es/games/store/rise-of-the-tomb-raider/BPCN22ZVT05C"
-    },
-    {
-      "id": "9NBLGGH6CRSZ",
-      "title": "Rise of the Tomb Raider",
-      "description": "¿Está listo tu ordenador para Rise of the Tomb Raider? ¡Haz clic en Más para averiguarlo!\r\nÚnete a Lara Croft en su primera expedición de tumbas.\r\n\r\nTras descubrir un misterio ancestral, Lara debe explorar las regiones más remotas y traicioneras de Siberia para encontrar el secreto de la inmortalidad antes de que lo haga una despiadada organización conocida como la Trinidad. Lara deberá usar su ingenio y sus habilidades de supervivencia, y formar nuevas alianzas para, finalmente, afrontar su destino como saqueadora de tumbas. Vive emocionantes escenas de acción, conquista hermosos pero hostiles entornos, participa en un brutal combate de guerrillas y explora sobrecogedoras y letales tumbas en esta evolución de los juegos de supervivencia y acción. En Rise of the Tomb Raider, Lara será mucho más que una superviviente en su primera expedición como saqueadora de tumbas. \r\n\r\nIncluye:\r\n• El viaje de Lara - Lara descubre un misterio ancestral que la coloca en el punto de mira de una despiadada organización conocida como la Trinidad. Su misión por encontrar el secreto antes que la Trinidad la lleva a conocer el mito sobre la ciudad perdida de Kítezh. Lara sabe que debe llegar a la ciudad perdida y descubrir sus secretos antes de que lo haga la Trinidad. Así, parte rumbo a Siberia en su primera expedición como saqueadora de tumbas.\r\n• Una mujer contra la naturaleza - En Rise of the Tomb Raider, Lara luchará no solo contra enemigos de todo el mundo, sino contra el mundo mismo. Caza animales para fabricar armas y obtén preciados recursos en ecosistemas densamente poblados. Te enfrentarás a hermosos pero peligrosos entornos, llenos de obstáculos traicioneros y paisajes inestables que llevarán a Lara al límite de sus fuerzas. \r\n• Combate de Guerrilla: Aprovecha el entorno, subiéndote a árboles o buceando para evitar o eliminar a enemigos; adapta a tu estilo el equipo, las armas y la munición de Lara; fabrica explosivos en cualquier rincón para sembrar el caos, y empuña los característicos piolets y arcos de combate de Lara.\r\n• Vuelve a saquear tumbas - Las tumbas han vuelto, ahora más grandes y espectaculares que nunca. En Rise of the Tomb Raider explorarás enormes y sobrecogedores enterramientos plagados de trampas mortales, resolverás impresionantes puzles ambientales y descifrarás textos ancestrales para descubrir criptas que te llevarán a un mundo lleno de secretos por descubrir.\r\n\r\nGracias a sus épica y adrenalínica acción en los entornos más hermosos y hostiles de la Tierra, Rise of the Tomb Raider presenta una espectacular aventura de acción y supervivencia en la que te unirás a Lara Croft en su primera expedición como saqueadora de tumbas en su búsqueda del secreto de la inmortalidad. \r\nSolo la versión de la Tienda de Windows de Rise of the Tomb Raider incluye funciones de Xbox Live como los logros, el Game DVR, y los marcadores entre otros. Más información en www.xbox.com/es-ES/games/rise-of-the-tomb-raider\r\n\r\nLos paquetes y contenidos de complemento se venden por separado o como pase de temporada. Estos elementos se venden como compra desde la aplicación. \r\n\r\nREQUISITOS MÍNIMOS DE PC:\r\nRise of the Tomb Raider está optimizado para Windows 10, pero para garantizar un buen rendimiento se requieren como mínimo las siguientes especificaciones:\r\n• Procesador: Intel Core i3-2100 o AMD Phenom II X4 945 \r\n• Tarjeta gráfica: NVIDIA GTX 650 2 GB o AMD HD7770 2 GB\r\n• RAM: 6 (SEIS) GB\r\n• Espacio en disco duro: 30 GB (juego básico)\r\n• Requiere DX11\r\n• Periféricos compatibles: Teclado compatible con Windows, ratón, mando de Xbox One\r\nCONFIGURACIÓN RECOMENDADA DE PC:\r\n• Procesador: Intel Core i7-3770, 3,40 GHz o AMD FX-8350, 4,0 Ghz\r\n• Tarjeta gráfica: NVIDIA GeForce GTX 970 o AMD Radeon R9 290x\r\n• RAM: 8 (ocho) GB\r\n• Espacio en disco duro: 30 GB (juego básico)\r\n• Requiere DX11\r\nSISTEMA OPERATIVO COMPATIBLE: \r\nWindows 10 (solo la versión de 64 bits) con la actualización de noviembre de Windows 10 instalada (Windows 10 versión 1511). Conoce cómo comprobar qué versión de Windows 10 está usando tu PC y cómo actualizarla a la versión 1511 de Windows 10 en http://windows.microsoft.com/es-es/windows-10/windows-update-faq \r\n\r\nERRORES CONOCIDOS: \r\n• La barra de progreso de la descarga de Windows 10 no muestra el progreso con exactitud.\r\n• Debido a un error de la IU, es posible que el progreso de la descarga no se muestre con exactitud (a pesar de que se esté descargando correctamente).\r\n• Al pausar y continuar con la descarga, es posible que parezca que la descarga se ha reiniciado (desde 0). No obstante, el progreso de descarga real se habrá mantenido intacto.\r\n",
-      "shortDescription": "Vive el momento más crucial de Lara Croft. En Shadow of the Tomb Raider, Lara debe dominar una selva mortal, superar tumbas aterradoras y perseverar en su hora más aciaga. Mientras trata de detener un apocalipsis maya, deberá convertirse en la saqueadora de tumbas que está destinada a ser.",
-      "developer": "",
-      "publisher": "Crystal Dynamics",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.49298.13510798886621078.d9c26d6d-0bcd-412a-9ac7-49a02514c594.915ad0ab-5909-4fcc-a775-66c76113f016",
-      "heroImage": "https://store-images.s-microsoft.com/image/apps.5877.13510798886621078.d9c26d6d-0bcd-412a-9ac7-49a02514c594.d514ec34-4a53-4a40-8255-080381fb9ee9",
-      "screenshots": [
-        "https://store-images.s-microsoft.com/image/apps.64051.13510798886621078.a7b7e821-84d4-4c60-985a-ee66f202ba2a.592701a3-82ea-455a-a5d5-34d2152e8488",
-        "https://store-images.s-microsoft.com/image/apps.57086.13510798886621078.b08f1dc0-f501-47c4-b998-3a6b9666f4cc.72523162-a9af-451c-a76d-c8bab857b03f",
-        "https://store-images.s-microsoft.com/image/apps.61585.13510798886621078.a0e9d4ce-f5e5-42ec-91d0-43dad7123b20.ef8fd7a6-7c02-4ebb-b218-25a9e83753b9",
-        "https://store-images.s-microsoft.com/image/apps.55764.13510798886621078.c6200fac-6eaa-4744-bc3b-bcaf4d967e24.4822946e-4e5c-4396-9f06-6aee35d421a6"
-      ],
-      "videoUrl": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftassets/60dde0dc-5377-489f-8b11-56ed78392a2e-AVS.m3u8?packagedStreaming=true",
-      "videoCaption": "Rise of the Tomb Raider - Trailer",
-      "releaseDate": "2016-01-22",
-      "categories": [
-        "Acción y aventura"
-      ],
-      "tiers": [
-        "pc",
-        "premium",
-        "ultimate"
-      ],
-      "platform": "pc",
-      "price": 29.99,
-      "msrp": 29.99,
-      "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
-      "rating": 4,
-      "ratingCount": 141,
-      "ageRating": 18,
-      "pegiRating": "PEGI 18",
-      "pegiDescription": "Apropiado a partir de 18 años",
-      "interactiveDescriptions": [],
-      "capabilities": [
-        "Cooperativo en línea  (2-2)",
-        "Un jugador"
-      ],
-      "systemRequirements": [
-        {
-          "title": "SO",
-          "minimum": "Windows 10 version 10586.0 or higher",
-          "recommended": "Windows 10 version 10586.0 or higher"
-        },
-        {
-          "title": "Arquitectura",
-          "minimum": "x64",
-          "recommended": "x64"
-        },
-        {
-          "title": "Gráficos",
-          "minimum": "NVIDIA GTX 650 2GB or AMD HD7770 2GB",
-          "recommended": "NVIDIA GeForce GTX 970 or AMD Radeon R9 290x"
-        },
-        {
-          "title": "Procesador",
-          "minimum": "Intel Core i3-2100 or AMD Phenom II X4 945 ",
-          "recommended": "Intel Core i7-3770, 3.40GHz or AMD FX-8350, 4.0Ghz"
-        },
-        {
-          "title": "Teclado",
-          "minimum": "Teclado integrado",
-          "recommended": "Teclado integrado"
-        },
-        {
-          "title": "Mouse",
-          "minimum": "Mouse integrado",
-          "recommended": "Mouse integrado"
-        },
-        {
-          "title": "DirectX",
-          "minimum": "Versión 11",
-          "recommended": "Versión 11"
-        },
-        {
-          "title": "Memoria",
-          "minimum": "6 GB",
-          "recommended": "8 GB"
-        },
-        {
-          "title": "Memoria de vídeo",
-          "minimum": "2 GB",
-          "recommended": "4 GB"
-        },
-        {
-          "title": "Controladora",
-          "minimum": "",
-          "recommended": "Controladora de Xbox"
-        }
-      ],
-      "maxInstallSize": 38607687680,
-      "hasAddOns": true,
-      "storeUrl": "https://www.xbox.com/es-es/games/store/rise-of-the-tomb-raider/9NBLGGH6CRSZ"
     },
     {
       "id": "BTDRTXBKDBRR",
@@ -44550,8 +44246,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 4,
-      "ratingCount": 1,
+      "rating": 4.5,
+      "ratingCount": 11,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -44836,7 +44532,9 @@
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
       "interactiveDescriptions": [],
-      "capabilities": [],
+      "capabilities": [
+        "FPS Boost Series X | S"
+      ],
       "systemRequirements": [
         {
           "title": "Arquitectura",
@@ -44989,6 +44687,7 @@
         "Estrategia"
       ],
       "tiers": [
+        "essential",
         "premium",
         "ultimate"
       ],
@@ -45048,6 +44747,7 @@
         "Estrategia"
       ],
       "tiers": [
+        "essential",
         "pc",
         "premium",
         "ultimate"
@@ -45133,6 +44833,7 @@
         "Estrategia"
       ],
       "tiers": [
+        "essential",
         "premium",
         "ultimate"
       ],
@@ -45195,6 +44896,7 @@
         "Estrategia"
       ],
       "tiers": [
+        "essential",
         "pc",
         "premium",
         "ultimate"
@@ -45280,6 +44982,7 @@
         "Estrategia"
       ],
       "tiers": [
+        "essential",
         "premium",
         "ultimate"
       ],
@@ -45342,6 +45045,7 @@
         "Estrategia"
       ],
       "tiers": [
+        "essential",
         "pc",
         "premium",
         "ultimate"
@@ -45758,154 +45462,6 @@
       "storeUrl": "https://www.xbox.com/es-es/games/store/skull-and-bones/9P7X7VL05K48"
     },
     {
-      "id": "9P6W46XMDJM5",
-      "title": "Slay The Spire",
-      "description": "Hemos combinado los juegos de cartas con el género roguelike para diseñar el mejor creador de mazos de un jugador que hemos podido. ¡Crea tu mazo, descubre criaturas fantásticas y reliquias que rebosan poder en Slay the Spire!\r\n\r\nCaracterísticas:\r\n\r\n- Creador de mazos dinámico: ¡Elige bien tus cartas! Cada vez que escales la Aguja, descubrirás cientos de cartas que podrás usar. Si combinas bien las que encuentres, podrás despachar a tus enemigos y llegar a lo más alto.\r\n- La Aguja cambia: En cada intento de escalada, verás una Aguja totalmente distinta. Puedes elegir una ruta más arriesgada o decantarte por lo seguro, y cada vez verás diferentes enemigos, cartas nuevas, reliquias nunca vistas, ¡y hasta otros jefes distintos!\r\n- Reliquias de gran poder: A lo largo de tu visita a la Aguja, podrás encontrar poderosos objetos llamados reliquias. Cada una tiene un efecto que podría reforzar tu mazo, pero cuidado, porque el precio es alto, y no siempre pagable con oro...",
-      "shortDescription": "Hemos combinado los juegos de cartas con el género roguelike para diseñar el mejor creador de mazos de un jugador que hemos podido. ¡Crea tu mazo, descubre criaturas fantásticas y reliquias que rebosan poder en Slay the Spire!",
-      "developer": "MegaCrit",
-      "publisher": "Humble Games",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.26546.14612220527269160.ea029917-6726-4b37-a510-8449863efad4.8f702fee-e27b-41f2-b6a4-feb0698d416b",
-      "heroImage": "https://store-images.s-microsoft.com/image/apps.23915.14612220527269160.ea029917-6726-4b37-a510-8449863efad4.26be57ed-6cf3-48da-9c65-eb533fed3b76",
-      "screenshots": [
-        "https://store-images.s-microsoft.com/image/apps.62674.14612220527269160.3e3acbd2-b15b-4146-899b-203692df404b.46fa264d-9635-4858-a3b0-66289706003f",
-        "https://store-images.s-microsoft.com/image/apps.41888.14612220527269160.3e3acbd2-b15b-4146-899b-203692df404b.9789383c-d570-4ad6-9d4d-5b6a208c9681",
-        "https://store-images.s-microsoft.com/image/apps.2390.14612220527269160.3e3acbd2-b15b-4146-899b-203692df404b.90cc5445-fd6e-4c23-a361-ce0079905dbd",
-        "https://store-images.s-microsoft.com/image/apps.63175.14612220527269160.3e3acbd2-b15b-4146-899b-203692df404b.37a1fede-8fdd-406d-ba41-34f2b1551e0a"
-      ],
-      "videoUrl": "",
-      "videoCaption": "",
-      "releaseDate": "2019-08-14",
-      "categories": [
-        "Juegos de mesa",
-        "Juegos de rol",
-        "Estrategia"
-      ],
-      "tiers": [
-        "essential",
-        "premium",
-        "ultimate"
-      ],
-      "platform": "console",
-      "price": 24.99,
-      "msrp": 24.99,
-      "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
-      "rating": 4.8,
-      "ratingCount": 117,
-      "ageRating": 7,
-      "pegiRating": "PEGI 7",
-      "pegiDescription": "Apropiado a partir de 7 años",
-      "interactiveDescriptions": [],
-      "capabilities": [
-        "Un jugador",
-        "Logros de Xbox",
-        "Presencia de Xbox",
-        "Clubs de Xbox",
-        "Cosas guardadas en la nube de Xbox"
-      ],
-      "systemRequirements": [
-        {
-          "title": "Arquitectura",
-          "minimum": "x64",
-          "recommended": "x64"
-        }
-      ],
-      "maxInstallSize": 603119616,
-      "hasAddOns": false,
-      "storeUrl": "https://www.xbox.com/es-es/games/store/slay-the-spire/9P6W46XMDJM5"
-    },
-    {
-      "id": "9MZQR8317S3B",
-      "title": "Slay The Spire",
-      "description": "Hemos combinado los juegos de cartas con el género roguelike para diseñar el mejor creador de mazos de un jugador que hemos podido. ¡Crea tu mazo, descubre criaturas fantásticas y reliquias que rebosan poder en Slay the Spire!\r\n\r\nCaracterísticas:\r\n\r\n- Creador de mazos dinámico: ¡Elige bien tus cartas! Cada vez que escales la Aguja, descubrirás cientos de cartas que podrás usar. Si combinas bien las que encuentres, podrás despachar a tus enemigos y llegar a lo más alto.\r\n- La Aguja cambia: En cada intento de escalada, verás una Aguja totalmente distinta. Puedes elegir una ruta más arriesgada o decantarte por lo seguro, y cada vez verás diferentes enemigos, cartas nuevas, reliquias nunca vistas, ¡y hasta otros jefes distintos!\r\n- Reliquias de gran poder: A lo largo de tu visita a la Aguja, podrás encontrar poderosos objetos llamados reliquias. Cada una tiene un efecto que podría reforzar tu mazo, pero cuidado, porque el precio es alto, y no siempre pagable con oro...",
-      "shortDescription": "Hemos combinado los juegos de cartas con el género roguelike para diseñar el mejor creador de mazos de un jugador que hemos podido. ¡Crea tu mazo, descubre criaturas fantásticas y reliquias que rebosan poder en Slay the Spire!",
-      "developer": "MegaCrit",
-      "publisher": "Humble Games",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.26546.14612220527269160.ea029917-6726-4b37-a510-8449863efad4.8f702fee-e27b-41f2-b6a4-feb0698d416b",
-      "heroImage": "https://store-images.s-microsoft.com/image/apps.23915.14612220527269160.ea029917-6726-4b37-a510-8449863efad4.26be57ed-6cf3-48da-9c65-eb533fed3b76",
-      "screenshots": [
-        "https://store-images.s-microsoft.com/image/apps.62674.13869974647290459.9b3640dd-d3d9-46d3-bc91-c4f140e6e718.291baf5c-0605-4463-b73d-0f5b7786026c",
-        "https://store-images.s-microsoft.com/image/apps.41888.13869974647290459.9b3640dd-d3d9-46d3-bc91-c4f140e6e718.67a77311-e57c-4831-81af-3a088cbc9633",
-        "https://store-images.s-microsoft.com/image/apps.2390.13869974647290459.9b3640dd-d3d9-46d3-bc91-c4f140e6e718.b0426bd8-5f5e-44de-92c7-5d7e71135ba7",
-        "https://store-images.s-microsoft.com/image/apps.63175.13869974647290459.9b3640dd-d3d9-46d3-bc91-c4f140e6e718.c989c405-833c-4417-a852-34c17042920e"
-      ],
-      "videoUrl": "",
-      "videoCaption": "",
-      "releaseDate": "2019-06-09",
-      "categories": [
-        "Juegos de mesa",
-        "Juegos de rol",
-        "Estrategia"
-      ],
-      "tiers": [
-        "essential",
-        "pc",
-        "premium",
-        "ultimate"
-      ],
-      "platform": "pc",
-      "price": 24.99,
-      "msrp": 24.99,
-      "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
-      "rating": 4.6,
-      "ratingCount": 118,
-      "ageRating": 7,
-      "pegiRating": "PEGI 7",
-      "pegiDescription": "Apropiado a partir de 7 años",
-      "interactiveDescriptions": [],
-      "capabilities": [
-        "Un jugador"
-      ],
-      "systemRequirements": [
-        {
-          "title": "SO",
-          "minimum": "Windows 10 version 18362.0 or higher",
-          "recommended": "Windows 10 version 18362.0 or higher"
-        },
-        {
-          "title": "Arquitectura",
-          "minimum": "x64",
-          "recommended": "x64"
-        },
-        {
-          "title": "Gráficos",
-          "minimum": "256mb Video Memory, capable of OpenGL 2.0+ support",
-          "recommended": ""
-        },
-        {
-          "title": "Procesador",
-          "minimum": "2.0 Ghz",
-          "recommended": ""
-        },
-        {
-          "title": "Teclado",
-          "minimum": "Teclado integrado",
-          "recommended": ""
-        },
-        {
-          "title": "Mouse",
-          "minimum": "Mouse integrado",
-          "recommended": ""
-        },
-        {
-          "title": "Memoria",
-          "minimum": "4 GB",
-          "recommended": ""
-        },
-        {
-          "title": "Memoria de vídeo",
-          "minimum": "1 GB",
-          "recommended": ""
-        }
-      ],
-      "maxInstallSize": 547528704,
-      "hasAddOns": false,
-      "storeUrl": "https://www.xbox.com/es-es/games/store/slay-the-spire/9MZQR8317S3B"
-    },
-    {
       "id": "9N9C1TB18R3B",
       "title": "Sledding Game",
       "description": "Este juego es un trabajo en curso. Es posible que, con el tiempo, cambie o no cambie, o que no se lance como producto final. Compra este producto únicamente si estás satisfecho con el estado actual del juego no terminado. \n\nSledding Game es un juego multijugador de deportes invernales y pasárselo bien con amigos con chat de proximidad. Tírate con tu trineo, relájate y explora qué más hay. También hay físicas de muñeco de trapo para que las caídas sean un caos muy chulo. \n\nDIVIÉRTETE\nUsa el chat de voz de proximidad para hablar con tus amigos o expresa tus sentimientos chocándote con ellos una y otra vez. \n\nDESLÍZATE RÁPIDO Y SIN SENTIDO\nCompite para ver quién puede llegar abajo primero o sacar más puntos con trucos complicados, construyendo rampas propias y lanzándose por ellas. O tírate por ahí y explora libremente, lo que tú quieras.\n\nHAZ OTRAS COSAS\nDescansa del trineo con actividades secundarias y minijuegos, como pelear con bolas de nieve, hacer muñecos de nieve, jugar a los dardos o al curling, asar malvaviscos, beber chocolate caliente bien a gusto en el refugio y más.\n\nCUIDA TU ASPECTO\nElige entre un montón de personajes animales personalizables y expresiones. Gana puntos para gastarlos en objetos cosméticos para ti o tu trineo.\n\nQUE TE DÉ UNA PATADA EL YETI\nEsto no es broma: si te sales de la pista aparecerá un yeti y te mandará de vuelta con una patada como si fueras una pelota de fútbol.\n\nÚNETE A OTROS\nÚnete a salas públicas o privadas para tirarte en trineo con tus amigos o conocer gente nueva. Siéntate en un banco con alguien o tírate por la pista en grupo. Con hasta 30* jugadores se puede armar buena cola en el telesilla.\n\n*Espero que pueda haber hasta 50 salas, pero hasta que no lo pruebe bien es solo una elucubración. Tampoco estoy seguro de si que haya mucha gente será demasiado abrumador, así que puede que decida que haya menos salas.\n\nCaracterísticas:\nDiversión multijugador con trineos \nChat de proximidad \nCarreras y trucos\nMinijuegos y sitios en los que divertirse\nSalas públicas y privadas\nFísicas de muñeco de trapo\nPersonajes personalizables\nComunidad amigable y enrollada\nYeti\n\nSobre el desarrollador\n¡Hola, soy Max! ¡Sledding Game es mi primer videojuego! He estado compartiendo en la red mi progreso en el desarrollo desde que empecé, así que si quieres ver cómo está hecho Sledding Game o compartir ideas, sígueme en las redes sociales.",
@@ -46039,7 +45595,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 26658004992,
+      "maxInstallSize": 27054272512,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/smite-2/9NV8W1KJSQLL"
     },
@@ -46526,7 +46082,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.3,
-      "ratingCount": 524,
+      "ratingCount": 525,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -47700,7 +47256,8 @@
         "Multijugador en línea  (8-40)",
         "HDR10",
         "Pantalla dividida o compartida",
-        "Xbox One X mejorado"
+        "Xbox One X mejorado",
+        "FPS Boost Series X"
       ],
       "systemRequirements": [
         {
@@ -49926,7 +49483,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 2.5,
-      "ratingCount": 111,
+      "ratingCount": 112,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -50432,13 +49989,13 @@
         "ultimate"
       ],
       "platform": "both",
-      "price": 0,
+      "price": 19.99,
       "msrp": 19.99,
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.9,
-      "ratingCount": 301,
+      "ratingCount": 302,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -54447,6 +54004,66 @@
       "storeUrl": "https://www.xbox.com/es-es/games/store/to-a-t/9NM6NMBJ7ZK4"
     },
     {
+      "id": "C3VVNLQQ54F8",
+      "title": "Tom Clancy's Ghost Recon Breakpoint",
+      "description": "SOBREVIVE EN LA MISTERIOSA ISLA DE AUROA\nEncuentra la mejor táctica para derrotar a tus enemigos pilotando drones, atacando las bases enemigas, infiltrándote en ellas y explorando la diversidad de la isla.\n\nPERFECCIONA A TU GHOST\nDiseña a tu Ghost desde cero, eligiendo entre miles de combinaciones distintas. Las opciones de vestuario abarcan desde un traje de camuflaje sigiloso hasta una camisa de compresión de color naranja brillante, para que puedas crear al Ghost perfecto. Saquea, crea y personaliza tu equipo a medida que te adentras en territorio enemigo.\n\nFORMA EQUIPO CON TUS AMIGOS\nDisfruta de una gran variedad de mecánicas de juego con tus amigos, desde la campaña principal hasta el PvP y el rico contenido de final de juego. Independientemente del modo que elijas, siempre conservarás el mismo personaje. Tus habilidades, armas y personalizaciones te acompañarán a lo largo del juego, como un compañero de armas leal.\n\nSe requiere una conexión a internet, una cuenta de Ubisoft, una cuenta de Microsoft y Game Pass Ultimate o Core (suscripciones vendidas por separado) para acceder a las funciones/multijugador en línea.",
+      "shortDescription": "Ghost Recon Breakpoint es un shooter táctico en tercera persona ambientado en un mundo abierto inmenso. Debes sobrevivir, adaptarte y enfrentarte a una facción rebelde de fuerzas especiales utilizando el sigilo, la estrategia y el equipo de alta tecnología, ya sea en modo individual o cooperativo.",
+      "developer": "",
+      "publisher": "Ubisoft",
+      "imageUrl": "https://store-images.s-microsoft.com/image/apps.56444.66828190550422385.fbaf89cf-b3e0-4543-aeba-5f00ca851393.df40c5a2-41e9-472d-90ee-ba9fd7488662",
+      "heroImage": "https://store-images.s-microsoft.com/image/apps.38194.66828190550422385.fbaf89cf-b3e0-4543-aeba-5f00ca851393.7847a95b-aa44-428b-8330-fc4ae65ab934",
+      "screenshots": [
+        "https://store-images.s-microsoft.com/image/apps.51601.66828190550422385.a74483fb-4c97-4363-840d-f920f94b5eb2.0aef981a-1907-4417-a8f7-ec920a26c4d3",
+        "https://store-images.s-microsoft.com/image/apps.7340.66828190550422385.a74483fb-4c97-4363-840d-f920f94b5eb2.53e08599-7320-4601-ad82-a618453b95e9",
+        "https://store-images.s-microsoft.com/image/apps.39277.66828190550422385.a74483fb-4c97-4363-840d-f920f94b5eb2.9e75d962-9bbe-46e4-99f4-4eaeae0538a9",
+        "https://store-images.s-microsoft.com/image/apps.27694.66828190550422385.a74483fb-4c97-4363-840d-f920f94b5eb2.e0b6a4a8-025d-4317-8d18-8f4b20fa358a"
+      ],
+      "videoUrl": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftassets/f354f920-dcca-4b81-8a1e-2ca2b60c191a-AVS.m3u8?packagedStreaming=true",
+      "videoCaption": "Ghost Recon Breakpoint – We are Wolves Trailer",
+      "releaseDate": "2019-10-04",
+      "categories": [
+        "Shooter"
+      ],
+      "tiers": [
+        "ultimate"
+      ],
+      "platform": "console",
+      "price": 69.99,
+      "msrp": 69.99,
+      "currency": "EUR",
+      "hasDiscount": false,
+      "discountPercent": 0,
+      "rating": 3.1,
+      "ratingCount": 203,
+      "ageRating": 18,
+      "pegiRating": "PEGI 18",
+      "pegiDescription": "Apropiado a partir de 18 años",
+      "interactiveDescriptions": [
+        "Compras dentro del juego"
+      ],
+      "capabilities": [
+        "Cooperativo en línea  (2-4)",
+        "Multijugador en línea  (2-8)",
+        "HDR10",
+        "Un jugador",
+        "Optimizado para Xbox Series X|S",
+        "Xbox One X mejorado",
+        "Logros de Xbox",
+        "Presencia de Xbox",
+        "Cosas guardadas en la nube de Xbox"
+      ],
+      "systemRequirements": [
+        {
+          "title": "Arquitectura",
+          "minimum": "x64",
+          "recommended": "x64"
+        }
+      ],
+      "maxInstallSize": 52905668608,
+      "hasAddOns": true,
+      "storeUrl": "https://www.xbox.com/es-es/games/store/tom-clancy-s-ghost-recon-breakpoint/C3VVNLQQ54F8"
+    },
+    {
       "id": "9PJ1PLJQ7QPN",
       "title": "Tom Clancy’s Ghost Recon Wildlands",
       "description": "Crea un equipo hasta con 3 amigos en Tom Clancy’s Ghost Recon® Wildlands y disfruta del Shooter militar definitivo en un enorme y peligroso mundo abierto.\n\nACABA CON EL CÁRTEL\nEn un futuro cercano, Bolivia ha caído en manos del despiadado cártel de Santa Blanca, que ha propagado la injusticia y la violencia. Su objetivo: crear el mayor narcoestado de la historia.\n\nSÉ UN GHOST\nCrea un Ghost y personalízalo junto a sus armas y equipo. Disfruta de una libertad de juego total. Lidera a tu equipo y acaba con el cártel, solo o con tres amigos.\n\nEXPLORA BOLIVIA\nViaja por el mayor mundo abierto creado por Ubisoft para un juego de acción y aventura. Descubre la gran diversidad de paisajes de Wildlands por tierra, mar y aire con más de 60 vehículos distintos.\n\n",
@@ -54531,66 +54148,6 @@
       "maxInstallSize": 53687091200,
       "hasAddOns": false,
       "storeUrl": "https://www.xbox.com/es-es/games/store/tom-clancy-s-ghost-recon-wildlands/9PJ1PLJQ7QPN"
-    },
-    {
-      "id": "C3VVNLQQ54F8",
-      "title": "Tom Clancy's Ghost Recon® Breakpoint",
-      "description": "Disfruta gratis de Ghost Recon Breakpoint en todas las plataformas durante el fin de semana gratuito, del 4 al 7 de noviembre.\r\n\r\nConviértete en un Ghost, un soldado de operaciones especiales enviado a Auroa en una misión. Las hostilidades de Skell Tech han provocado que el lejano archipiélago, situado en algún punto del Pacífico Sur, pierda el contacto con el mundo exterior. El equipo de operaciones especiales rebelde de los Wolves, liderado por un viejo compañero de armas, ha asumido el control y te está dando caza. Dirige a tu equipo y salvad a los civiles sin ser detectados.\r\n\r\nAdapta la experiencia a tu estilo. Juega en solitario, como líder de tres compañeros IA personalizables, o juega en PvE cooperativo con hasta tres amigos.\r\n\r\nHazte con las ediciones Deluxe, Gold o Ultimate.",
-      "shortDescription": "Conviértete en un Ghost, un soldado de operaciones especiales enviado a Auroa en una misión especial. Las hostilidades de Skell Tech han provocado que el lejano archipiélago pierda el contacto con el mundo exterior. El equipo de operaciones especiales rebelde de los Wolves, que está liderado por un viejo compañero de armas, ha asumido el control y te está dando caza. Dirige a tu equipo por la isla y salvad a los civiles sin ser detectados.",
-      "developer": "UBISOFT",
-      "publisher": "UBISOFT",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.56444.66828190550422385.fbaf89cf-b3e0-4543-aeba-5f00ca851393.df40c5a2-41e9-472d-90ee-ba9fd7488662",
-      "heroImage": "https://store-images.s-microsoft.com/image/apps.38194.66828190550422385.fbaf89cf-b3e0-4543-aeba-5f00ca851393.7847a95b-aa44-428b-8330-fc4ae65ab934",
-      "screenshots": [
-        "https://store-images.s-microsoft.com/image/apps.2763.66828190550422385.8f84dea8-8225-4704-83cb-64beacc88af8.e5715634-a8d0-4539-9925-97788365c274",
-        "https://store-images.s-microsoft.com/image/apps.3683.66828190550422385.8f84dea8-8225-4704-83cb-64beacc88af8.8c01f0df-072a-4a72-aaaf-28a9343b4085",
-        "https://store-images.s-microsoft.com/image/apps.21500.66828190550422385.8f84dea8-8225-4704-83cb-64beacc88af8.3888393a-48af-4bb9-ac2a-e4de459cc16e",
-        "https://store-images.s-microsoft.com/image/apps.9944.66828190550422385.8f84dea8-8225-4704-83cb-64beacc88af8.6d8a4874-afaf-4761-83d6-f6fbb9173f6e"
-      ],
-      "videoUrl": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftassets/f354f920-dcca-4b81-8a1e-2ca2b60c191a-AVS.m3u8?packagedStreaming=true",
-      "videoCaption": "Ghost Recon Breakpoint – We are Wolves Trailer",
-      "releaseDate": "2019-10-04",
-      "categories": [
-        "Shooter"
-      ],
-      "tiers": [
-        "ultimate"
-      ],
-      "platform": "console",
-      "price": 69.99,
-      "msrp": 69.99,
-      "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
-      "rating": 3.1,
-      "ratingCount": 203,
-      "ageRating": 18,
-      "pegiRating": "PEGI 18",
-      "pegiDescription": "Apropiado a partir de 18 años",
-      "interactiveDescriptions": [
-        "Compras dentro del juego"
-      ],
-      "capabilities": [
-        "Cooperativo en línea  (2-4)",
-        "Multijugador en línea  (2-8)",
-        "HDR10",
-        "Un jugador",
-        "Optimizado para Xbox Series X|S",
-        "Xbox One X mejorado",
-        "Logros de Xbox",
-        "Presencia de Xbox",
-        "Cosas guardadas en la nube de Xbox"
-      ],
-      "systemRequirements": [
-        {
-          "title": "Arquitectura",
-          "minimum": "x64",
-          "recommended": "x64"
-        }
-      ],
-      "maxInstallSize": 52905668608,
-      "hasAddOns": true,
-      "storeUrl": "https://www.xbox.com/es-es/games/store/tom-clancy-s-ghost-recon-breakpoint/C3VVNLQQ54F8"
     },
     {
       "id": "9MVR1G75VX22",
@@ -55041,7 +54598,8 @@
         "4K Ultra HD",
         "Un jugador",
         "Xbox One X mejorado",
-        "Logros de Xbox"
+        "Logros de Xbox",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -55260,99 +54818,6 @@
       "storeUrl": "https://www.xbox.com/es-es/games/store/tom-clancy-s-the-division-2/9NRXKRVCGRNM"
     },
     {
-      "id": "BQXTS0SX4W0N",
-      "title": "Tomb Raider: Definitive Edition",
-      "description": "La secuencia de aventuras y acción que hace que Lara Croft pase de ser una joven inexperta a una dura superviviente ha sido renovada para las consolas de nueva generación, e incluye a una Lara detallada al milímetro y un mundo increíblemente realista. Lara debe resistir en combates explosivos, personalizar sus armas y su equipo y superar escenarios agotadores para sobrevivir a su primera aventura y descubrir el secreto mortal de la isla. Definitive Edition, juego de aventuras y acción aclamado por la crítica, incluye contenido adicional y combina todo el contenido descargable de la versión de Xbox 360.\r\n\r\nLa versión descargable de este juego es compatible con inglés, francés, italiano, alemán, español, portugués, ruso, holandés y árabe",
-      "shortDescription": "El juego de aventuras y acción aclamado por la crítica ha sido renovado en Definitive Edition para las consolas de nueva generación, e incluye a una Lara detallada al milímetro y un mundo increíblemente realista. Resiste en combates explosivos, personaliza tus armas y tu equipo y supera escenarios agotadores para sobrevivir a la primera aventura de Lara.",
-      "developer": "Crystal Dynamics",
-      "publisher": "Crystal Dynamics",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.35283.68847167288522183.9fdea778-258f-40d6-9f9e-fab92915bc6d.98c2dd25-9180-49e5-bdd3-6bdb1d857889",
-      "heroImage": "https://store-images.s-microsoft.com/image/apps.29936.68847167288522183.9fdea778-258f-40d6-9f9e-fab92915bc6d.1384d782-b7b3-4a36-bbc6-bd817e308a4f",
-      "screenshots": [
-        "https://store-images.s-microsoft.com/image/apps.15654.68847167288522183.9fdea778-258f-40d6-9f9e-fab92915bc6d.53f7a860-5222-42f3-97ac-189230a6f16e",
-        "https://store-images.s-microsoft.com/image/apps.16109.68847167288522183.9fdea778-258f-40d6-9f9e-fab92915bc6d.929befe4-3e98-44b2-854f-6a309f3efe5c",
-        "https://store-images.s-microsoft.com/image/apps.14844.68847167288522183.9fdea778-258f-40d6-9f9e-fab92915bc6d.3652627b-88a2-4119-bdf8-4399ae2a61c1",
-        "https://store-images.s-microsoft.com/image/apps.21385.68847167288522183.9fdea778-258f-40d6-9f9e-fab92915bc6d.5897224e-7edc-45bb-91e1-dfd12ab4d386"
-      ],
-      "videoUrl": "",
-      "videoCaption": "",
-      "releaseDate": "2014-01-31",
-      "categories": [
-        "Acción y aventura"
-      ],
-      "tiers": [
-        "pc",
-        "premium",
-        "ultimate"
-      ],
-      "platform": "both",
-      "price": 19.99,
-      "msrp": 19.99,
-      "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
-      "rating": 4.6,
-      "ratingCount": 1027,
-      "ageRating": 18,
-      "pegiRating": "PEGI 18",
-      "pegiDescription": "Apropiado a partir de 18 años",
-      "interactiveDescriptions": [],
-      "capabilities": [
-        "Multijugador en línea  (4-8)",
-        "Un jugador"
-      ],
-      "systemRequirements": [
-        {
-          "title": "SO",
-          "minimum": "Windows 10 version 18362.0 or higher",
-          "recommended": "Windows 10 version 18362.0 or higher"
-        },
-        {
-          "title": "Arquitectura",
-          "minimum": "x64",
-          "recommended": "x64"
-        },
-        {
-          "title": "Gráficos",
-          "minimum": "DirectX 9 graphics card with 512Mb Video RAM: AMD Radeon HD 2600 XT, nVidia 8600",
-          "recommended": "DirectX 11 graphics card with 1GB Video RAM: AMD Radeon HD 5870, nVidia GTX 480"
-        },
-        {
-          "title": "Procesador",
-          "minimum": "Dual Core CPU: AMD Athlon64 X2 2.1 Ghz (4050+), Intel Core2 Duo 1.8 Ghz (E6300) ",
-          "recommended": "Quad Core CPU: AMD Phenom II X4 955, Intel Core i5-750"
-        },
-        {
-          "title": "DirectX",
-          "minimum": "Versión 9",
-          "recommended": "Versión 11"
-        },
-        {
-          "title": "Memoria",
-          "minimum": "1 GB",
-          "recommended": "4 GB"
-        },
-        {
-          "title": "Teclado",
-          "minimum": "",
-          "recommended": "Teclado integrado"
-        },
-        {
-          "title": "Mouse",
-          "minimum": "",
-          "recommended": "Mouse integrado"
-        },
-        {
-          "title": "Controladora",
-          "minimum": "",
-          "recommended": "Controladora de Xbox"
-        }
-      ],
-      "maxInstallSize": 26030714880,
-      "hasAddOns": false,
-      "storeUrl": "https://www.xbox.com/es-es/games/store/tomb-raider-definitive-edition/BQXTS0SX4W0N"
-    },
-    {
       "id": "9N926481VT1Z",
       "title": "Tony Hawk's™ Pro Skater™ 3 + 4 - Edición Multiplataforma",
       "description": "Prepárate para el regreso de la legendaria franquicia con Tony Hawk's™ Pro Skater™ 3 + 4. Todo lo que te flipaba en su día ha vuelto, pero con más skaters, parques nuevos, trucos aún más bestiales, una banda sonora que hará temblar tus altavoces y un montón de contenido nuevo.\n\nIncluye:\n\n- Paquete multiplataforma de Tony Hawk's™ Pro Skater™ 3 + 4\n-- Incluye versiones del juego para Xbox One, Xbox X|S y PC (Microsoft Store)\n\n- Reúne a la tropa para probar el Multijugador online* multiplataforma, para hasta 8 skaters y en modos de juego nuevos y clásicos.\n- Atrévete con los parques nuevos o dalo todo en los clásicos de Tony Hawk's™ Pro Skater™ 3 y Tony Hawk's™ Pro Skater™ 4, recreados fielmente en una impresionante resolución 4K**, con objetivos simplificados y un formato épico de 2 minutos.\n- Demuestra que tienes estilo con los modos ampliados Crea un skater y Crear parque, además de la opción de crear objetivos personalizados para compartir con tus amigos por primera vez.\n- Pétalo más que nunca con objetivos más exigentes y el modo Nueva partida+ mejorado.\n- Tanto si estás empezando como si ya dominas la materia, con los sencillos y suaves controles de Tony Hawk's™ Pro Skater™ 1 + 2 te deslizarás como los verdaderos profesionales.\n\nCorre a avisar a tus colegas y desempolva esa tabla porque el skate vuelve más fuerte que nunca.\n\n\n*Se requiere una cuenta de Activision y conexión a internet para acceder al contenido Multijugador online y otras funciones. Es posible que se necesite una suscripción a Game Pass para el modo Multijugador y otras funciones (se vende por separado). Activision se reserva el derecho de modificar o interrumpir el servicio en línea en el futuro, lo que podría afectar a la disponibilidad continuada del juego en línea. Los servicios en línea pueden interrumpirse debido a factores como el número de jugadores.\n\n**La versión del juego para Xbox Series X cuenta con resolución 4K a 60 FPS en el modo Fidelidad. La versión para Xbox Series S se reproducirá a 1440 píxeles y subirá hasta 4K. Para jugar en 4K se necesita un dispositivo 4K compatible.\n\nPara más información, visita www.tonyhawkthegame.com.\n\n© 2025 Activision Publishing, Inc. ACTIVISION y PRO SKATER son marcas comerciales de Activision Publishing, Inc. TONY HAWK es una marca registrada de Tony Hawk, Inc. El resto de marcas y nombres comerciales son propiedad de sus respectivos dueños.",
@@ -55437,6 +54902,7 @@
         "Juegos de rol"
       ],
       "tiers": [
+        "essential",
         "premium",
         "ultimate"
       ],
@@ -55486,6 +54952,7 @@
         "Juegos de rol"
       ],
       "tiers": [
+        "essential",
         "pc",
         "premium",
         "ultimate"
@@ -56903,112 +56370,6 @@
       "storeUrl": "https://www.xbox.com/es-es/games/store/ufc-5/9NH8K4B707H0"
     },
     {
-      "id": "BNNMLWZRNQF6",
-      "title": "Ultimate Chicken Horse",
-      "description": "¿Alguna vez has deseado ser un caballo trepamuros, esquivaflechas y trampero, superando a tus amigos animales en una carrera cargada de obstáculos en una pista que todos construís juntos?\r\n  \r\n  ¡Deseo concedido!\r\n  \r\n  Ultimate Chicken Horse es un juego de plataforma en grupo en el que tú y tus amigos construís el nivel mientras vais jugando, colocando trampas mortales antes de intentar alcanzar el final del nivel. Si lo consigues y tus amigos no, ¡ganas puntos! Juega online o en modo local con tus amigos animales y experimenta con una gran variedad de plataformas para encontrar nuevas maneras de fastidiar a tus amigos.\r\n  \r\n - Juego online y local\r\n - Dinámica de juego única, desde la colocación estratégica de bloques a un control enloquecido de las plataformas\r\n - Gran librería de bloques para crear una variedad ilimitada de niveles\r\n - Descubre lugares como la granja, el iceberg, la fiesta de baile, las pirámides, etc.\r\n - Crea, guarda y comparte niveles personalizados\r\n - Desafía a tus amigos a que superen tus niveles en el modo Desafío, ¡con marcadores globales!\r\n - Juega como un pollo, un caballo, una oveja y otros magníficos animales\r\n - Divertido estilo animado\r\n - Una preciosa banda sonora funky",
-      "shortDescription": "Ultimate Chicken Horse es un juego de plataforma en grupo donde vas construyendo el nivel a medida que juegas, colocando trampas y peligros para frustrar los objetivos de tus amigos, ¡pero sin frustrar los tuyos!",
-      "developer": "Clever Endeavour Games",
-      "publisher": "Clever Endeavour Games",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.58204.68078631346001331.49a472fe-4e1f-4aab-8e4f-732405dfb269.ce6698ca-5c6b-4afd-b288-03689fd03f7d",
-      "heroImage": "https://store-images.s-microsoft.com/image/apps.102.68078631346001331.49a472fe-4e1f-4aab-8e4f-732405dfb269.a906a0ce-fdec-49ea-8ecf-ac4a7339d9a3",
-      "screenshots": [
-        "https://store-images.s-microsoft.com/image/apps.12657.68078631346001331.49a472fe-4e1f-4aab-8e4f-732405dfb269.9fef03f6-4673-483c-9277-9019036e0ef7",
-        "https://store-images.s-microsoft.com/image/apps.63193.68078631346001331.49a472fe-4e1f-4aab-8e4f-732405dfb269.e8d49b79-8a56-4098-ab86-57401b338293",
-        "https://store-images.s-microsoft.com/image/apps.31111.68078631346001331.49a472fe-4e1f-4aab-8e4f-732405dfb269.ee48411b-305a-4ecc-be39-79bce17dbf1f",
-        "https://store-images.s-microsoft.com/image/apps.12033.68078631346001331.49a472fe-4e1f-4aab-8e4f-732405dfb269.03d30562-aa2d-43e1-9543-077314839381"
-      ],
-      "videoUrl": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftassets/540dd3b6-f3fb-4bdb-9bdb-4937e158e113-AVS.m3u8?packagedStreaming=true",
-      "videoCaption": "Ultimate Chicken Horse - Shellebration Update",
-      "releaseDate": "2017-12-15",
-      "categories": [
-        "Plataformas"
-      ],
-      "tiers": [
-        "pc",
-        "premium",
-        "ultimate"
-      ],
-      "platform": "both",
-      "price": 14.98,
-      "msrp": 14.98,
-      "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
-      "rating": 4.2,
-      "ratingCount": 26,
-      "ageRating": 3,
-      "pegiRating": "PEGI 3",
-      "pegiDescription": "Apropiado a partir de 3 años",
-      "interactiveDescriptions": [
-        "Interacción de usuarios"
-      ],
-      "capabilities": [
-        "Cooperación local de Xbox (2-4)",
-        "Cooperativo en línea  (2-4)",
-        "Multijugador local de Xbox (2-4)",
-        "Multijugador en línea  (2-4)",
-        "Multijugador multiplataforma de Xbox",
-        "Pantalla dividida o compartida",
-        "Cooperación multiplataforma de Xbox",
-        "Optimizado para Xbox Series X|S",
-        "Entrega inteligente",
-        "Logros de Xbox",
-        "Presencia de Xbox",
-        "Cosas guardadas en la nube de Xbox",
-        "Xbox Play Anywhere"
-      ],
-      "systemRequirements": [
-        {
-          "title": "SO",
-          "minimum": "Windows 10 version 18362.0 or higher",
-          "recommended": "Windows 10 version 18362.0 or higher"
-        },
-        {
-          "title": "Arquitectura",
-          "minimum": "x64",
-          "recommended": "x64"
-        },
-        {
-          "title": "Gráficos",
-          "minimum": "512 MB VRAM Intel HD 4000 / GeForce 200 Series / Radeon HD 4000 Series",
-          "recommended": "1024 MB VRAM"
-        },
-        {
-          "title": "Procesador",
-          "minimum": "1.5GHz+",
-          "recommended": "Dual Core 2.3 GHz"
-        },
-        {
-          "title": "Teclado",
-          "minimum": "Teclado integrado",
-          "recommended": ""
-        },
-        {
-          "title": "DirectX",
-          "minimum": "Versión 9",
-          "recommended": "Versión 9"
-        },
-        {
-          "title": "Memoria",
-          "minimum": "2 GB",
-          "recommended": "4 GB"
-        },
-        {
-          "title": "Memoria de vídeo",
-          "minimum": "1 GB",
-          "recommended": "1 GB"
-        },
-        {
-          "title": "Controladora",
-          "minimum": "",
-          "recommended": "Controladora de Xbox"
-        }
-      ],
-      "maxInstallSize": 3003645952,
-      "hasAddOns": false,
-      "storeUrl": "https://www.xbox.com/es-es/games/store/ultimate-chicken-horse/BNNMLWZRNQF6"
-    },
-    {
       "id": "9P1H8K2V0NNP",
       "title": "Ultimate Sheep Raccoon",
       "description": "¡Corre hacia la victoria en un circuito caótico lleno de trampas mortales que tú y tus amigos han creado mientras haces trucos increíbles!\n\nUltimate Sheep Raccoon es un juego de carreras en bicicleta donde tú y tus amigos diseñan un circuito lleno de rampas, obstáculos y trampas. Esquiva peligros, haz trucos alocados y usa potenciadores para superar a la competencia. ¡Pedalea hacia la victoria con hasta 8 jugadores en modo local, online o multiplataforma!\n\nPedalea hacia la meta\n- ¡Corre hacia la línea de meta en tus bicicletas! Con controles intuitivos y fáciles de aprender, todos pueden jugar.\n\nPotenciadores\n- ¡Toma la delantera con los potenciadores! Vuela con el jetpack, planea con seguridad sobre los peligros usando el paracaídas, haz volar a tus rivales con minas saltarinas o ralentízalos con pegajosas trampas de miel.\n\nBloques y trampas\n- Construye el circuito junto con tus amigos agregando rieles, rampas, plataformas elásticas, zonas de velocidad y otros obstáculos. Luego, aumenta la dificultad con péndulos, máquinas giratorias, picos y televisores que disparan rayos láser.\n\nTrucos increíbles\n- ¡Haz trucos, saltos mortales y caballitos para ganar puntos extra!\n\nPersonajes clásicos\n- Chicken, Horse, Sheep y Raccoon regresan de Ultimate Chicken Horse. ¡Y se unen a ellos nuevos amigos del establo!\n\nSoporte para 8 jugadores\n- ¡Porque 4 jugadores no son suficientes!\n\nMultijugador local, online y multiplataforma\n- Juega con amigos en todas las plataformas compatibles.\n\nEditor de niveles personalizado y playlists\n- Crea y comparte tus propios niveles. Diseña niveles de desafío donde los jugadores compiten por los mejores tiempos y arma listas de reproducción de niveles para una experiencia estilo campaña.",
@@ -57290,86 +56651,6 @@
       "storeUrl": "https://www.xbox.com/es-es/games/store/uno/BNSDHDK45KBR"
     },
     {
-      "id": "9NH5HN11FG4M",
-      "title": "Unpacking",
-      "description": "Unpacking es un juego relajante acerca del sentimiento familiar de sacar pertenencias de cajas para colocarlas en un nuevo hogar. Mitad juego de bloques, mitad juego de decoración, podrás crear habitaciones agradables mientras descubres pistas de la vida que estás desempacando. A lo largo de ocho mudanzas, tendrás la oportunidad de experimentar una sensación de intimidad con un personaje que no ves y con una historia que no te cuentan.",
-      "shortDescription": "Unpacking es un juego relajante de lógica acerca de la sensación familiar de sacar pertenencias de cajas para colocarlas en un nuevo hogar. Mitad juego de bloques, mitad juego de decoración, podrás crear habitaciones agradables mientras descubres pistas de la vida que estás desempacando.",
-      "developer": " Witch Beam",
-      "publisher": "Humble Games",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.42785.13636460453065260.a236863a-02a2-47fd-bfee-b7b301312a6e.118e78ad-b15d-4d79-9a51-f48036e7f690",
-      "heroImage": "https://store-images.s-microsoft.com/image/apps.13051.13636460453065260.ecf51b77-0a2c-413e-97f7-3aacd9282ab3.dd5a85c1-2cf9-4128-850a-e931036fb1b6",
-      "screenshots": [
-        "https://store-images.s-microsoft.com/image/apps.40545.13636460453065260.ecf51b77-0a2c-413e-97f7-3aacd9282ab3.96273792-b24e-4772-a604-41c2ada2281f",
-        "https://store-images.s-microsoft.com/image/apps.15269.13636460453065260.ecf51b77-0a2c-413e-97f7-3aacd9282ab3.985525af-01aa-4a5e-9f7e-ddcf984bceb0",
-        "https://store-images.s-microsoft.com/image/apps.12813.13636460453065260.ecf51b77-0a2c-413e-97f7-3aacd9282ab3.5ac9c429-fa09-483f-8f21-b0ae9243f3f6",
-        "https://store-images.s-microsoft.com/image/apps.9177.13636460453065260.ecf51b77-0a2c-413e-97f7-3aacd9282ab3.81cca34a-4b66-4440-8ddc-ea641b2c50d1"
-      ],
-      "videoUrl": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftassets/ffdd36e4-e091-4def-878e-4af713fcedf0-AVS.m3u8?packagedStreaming=true",
-      "videoCaption": "Launch Trailer",
-      "releaseDate": "2021-11-02",
-      "categories": [
-        "Niños y familia",
-        "Otros",
-        "Puzles y curiosidades",
-        "Simulación"
-      ],
-      "tiers": [
-        "essential",
-        "pc",
-        "premium",
-        "ultimate"
-      ],
-      "platform": "both",
-      "price": 19.99,
-      "msrp": 19.99,
-      "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
-      "rating": 4.6,
-      "ratingCount": 257,
-      "ageRating": 3,
-      "pegiRating": "PEGI 3",
-      "pegiDescription": "Apropiado a partir de 3 años",
-      "interactiveDescriptions": [],
-      "capabilities": [
-        "Un jugador",
-        "Logros de Xbox",
-        "Presencia de Xbox",
-        "Cosas guardadas en la nube de Xbox",
-        "Xbox Play Anywhere"
-      ],
-      "systemRequirements": [
-        {
-          "title": "SO",
-          "minimum": "Windows 10 version 18362.0 or higher",
-          "recommended": "Windows 10 version 18362.0 or higher"
-        },
-        {
-          "title": "Arquitectura",
-          "minimum": "x64",
-          "recommended": "x64"
-        },
-        {
-          "title": "Gráficos",
-          "minimum": "Graphics card with DX10 (shader model 4.0) capabilities",
-          "recommended": ""
-        },
-        {
-          "title": "Procesador",
-          "minimum": "SSE2 instruction set support",
-          "recommended": ""
-        },
-        {
-          "title": "DirectX",
-          "minimum": "Versión 10",
-          "recommended": ""
-        }
-      ],
-      "maxInstallSize": 998178816,
-      "hasAddOns": false,
-      "storeUrl": "https://www.xbox.com/es-es/games/store/unpacking/9NH5HN11FG4M"
-    },
-    {
       "id": "C11KKHB5H7QJ",
       "title": "Unravel",
       "description": "Con Unravel conoceremos a Yarny, un simpático y adorable personaje nuevo hecho de una única hebra de lana que se va desenrollando progresivamente. Inspirado en los impresionantes e irrepetibles paisajes nórdicos, Unravel es un juego de plataformas basado en la física con un imponente aspecto visual. Yarny podrá usar su lana para afrontar cualquier desafío, desde saltar de rama en rama hasta dar un paseo en cometa. Al cobrar vida, nuestro protagonista representa los lazos que unen a los seres queridos. Acompaña a Yarny en una aventura que desborda la realidad y vuelve a conectar los recuerdos perdidos de una familia. Disfruta de un relato sin palabras, de una historia sincera y emocionante sobre el amor, la esperanza y el viaje de la vida.\r\n\r\nAplican condiciones y restricciones. Para más información, visita http://www.ea.com/1/product-eulas.",
@@ -57454,7 +56735,8 @@
         "Multijugador local de Xbox (2-2)",
         "4K Ultra HD",
         "Pantalla dividida o compartida",
-        "Xbox One X mejorado"
+        "Xbox One X mejorado",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -58331,66 +57613,6 @@
       "storeUrl": "https://www.xbox.com/es-es/games/store/voidtrain/9NQMVR9WL9FW"
     },
     {
-      "id": "9PLNGNZVB1ZP",
-      "title": "Volcano Princess",
-      "description": "Prepara a la próxima monarca descubriendo sus aficiones, entrenándola para la batalla y entablando amistad con los ciudadanos que algún día protegerá. Sumérgete en una nueva aventura de rol, simulación y crianza, donde cada decisión que tomes afectará no solo el futuro de tu hija, sino el de todo un imperio.",
-      "shortDescription": "Prepara a la próxima monarca descubriendo sus aficiones, entrenándola para la batalla y entablando amistad con los ciudadanos que algún día protegerá. Sumérgete en una nueva aventura de rol, simulación y crianza, donde cada decisión que tomes afectará no solo el futuro de tu hija, sino el de todo un imperio.",
-      "developer": "养蛋人 Egg Hatcher",
-      "publisher": "Gamirror Games",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.5770.14314107219727048.e45f838b-7fe8-4905-ad2d-7973afe8d6cf.371a56ab-0ce2-4438-b043-0fa97dd712b5",
-      "heroImage": "https://store-images.s-microsoft.com/image/apps.43998.14314107219727048.e45f838b-7fe8-4905-ad2d-7973afe8d6cf.4e584303-632f-4873-b216-f814b098be83",
-      "screenshots": [
-        "https://store-images.s-microsoft.com/image/apps.21579.14314107219727048.e45f838b-7fe8-4905-ad2d-7973afe8d6cf.6af03daa-cf84-4a5d-ac34-91527e94fd14",
-        "https://store-images.s-microsoft.com/image/apps.29059.14314107219727048.e45f838b-7fe8-4905-ad2d-7973afe8d6cf.b7a6bd0a-69ae-4968-b506-c7e35417ae38",
-        "https://store-images.s-microsoft.com/image/apps.59669.14314107219727048.e45f838b-7fe8-4905-ad2d-7973afe8d6cf.7a7e80db-c2f0-43a8-88ac-2a5acfd625a5",
-        "https://store-images.s-microsoft.com/image/apps.62639.14314107219727048.e45f838b-7fe8-4905-ad2d-7973afe8d6cf.46c9dc59-df1c-4ec2-aa3c-8b22875a2dd6"
-      ],
-      "videoUrl": "",
-      "videoCaption": "",
-      "releaseDate": "2025-06-24",
-      "categories": [
-        "Juegos de rol"
-      ],
-      "tiers": [
-        "pc",
-        "premium",
-        "ultimate"
-      ],
-      "platform": "both",
-      "price": 10.99,
-      "msrp": 10.99,
-      "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
-      "rating": 2.3,
-      "ratingCount": 39,
-      "ageRating": 7,
-      "pegiRating": "PEGI 7",
-      "pegiDescription": "Apropiado a partir de 7 años",
-      "interactiveDescriptions": [],
-      "capabilities": [
-        "Un jugador",
-        "Logros de Xbox",
-        "Cosas guardadas en la nube de Xbox",
-        "Xbox Play Anywhere"
-      ],
-      "systemRequirements": [
-        {
-          "title": "SO",
-          "minimum": "Windows 10 version 18362.0 or higher",
-          "recommended": "Windows 10 version 18362.0 or higher"
-        },
-        {
-          "title": "Arquitectura",
-          "minimum": "x64",
-          "recommended": "x64"
-        }
-      ],
-      "maxInstallSize": 5669773312,
-      "hasAddOns": false,
-      "storeUrl": "https://www.xbox.com/es-es/games/store/volcano-princess/9PLNGNZVB1ZP"
-    },
-    {
       "id": "BX1DTCBD1HXJ",
       "title": "War Thunder",
       "description": "War Thunder es el juego MMO militar gratis más amplio en plataforma cruzada, dedicado a la aviación, los vehículos acorazados, y las flotas desde la segunda guerra mundial hasta la Guera Fría. Aviones, fuerzas de tierra y buques de guerra luchan juntos en una batalla, exactamente como en la realidad. \n  \n• Más de 2500 aviones, carros, navíos de guerra, helicópteros y otros vehículos de combate con todo lujo de detalles \n• Más de 100 mapas de los principales teatros de batalla históricos \n• Docenas de eventos y modos individual y multijugador \n• Actuaciones de contenido frecuentes, incluyendo nuevos vehículos, mapas, misiones y naciones \n• Diversos niveles de realismo que se adecúan tanto a principiantes como a expertos \n• Gráficos asombrosos, efectos de sonido auténticos y hermosa música",
@@ -58820,7 +58042,7 @@
           "recommended": "Controladora de Xbox"
         }
       ],
-      "maxInstallSize": 105460572160,
+      "maxInstallSize": 105146085376,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/warhammer-40-000-darktide/9NT3WC6RKBVQ"
     },
@@ -59351,7 +58573,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.7,
-      "ratingCount": 172,
+      "ratingCount": 173,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -61489,13 +60711,13 @@
       "shortDescription": "World of Tanks: HEAT es un juego de disparos JcJ gratis con habilidades y combates explosivos en equipo. Maneja blindados personalizables, usa habilidades de agentes en batallas en línea que combinan táctica e intensidad al más puro estilo FPS.",
       "developer": "Wargaming.net",
       "publisher": "Wargaming.net",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.1633.13914660851585642.9f8fad79-398d-4e02-8c2d-0e82d5db2e14.345778d3-efb1-4381-bed7-e88d3ce0df31",
-      "heroImage": "https://store-images.s-microsoft.com/image/apps.1260.13914660851585642.9f8fad79-398d-4e02-8c2d-0e82d5db2e14.5652c234-715b-43c0-9bd8-7e2434182f3d",
+      "imageUrl": "https://store-images.s-microsoft.com/image/apps.17977.13914660851585642.f8c5ba4d-158e-487c-852f-a22c6ed534bc.0872fce5-18aa-4604-9b99-2eee413fe40b",
+      "heroImage": "https://store-images.s-microsoft.com/image/apps.641.13914660851585642.f8c5ba4d-158e-487c-852f-a22c6ed534bc.c6febfe2-28b6-4bf1-a5f4-6dba6ccd31e3",
       "screenshots": [
-        "https://store-images.s-microsoft.com/image/apps.2122.13914660851585642.b57fc217-90e6-4f81-b662-c7a462556eb7.e0876934-5525-4281-beb6-3383b6b474d6",
         "https://store-images.s-microsoft.com/image/apps.4670.13914660851585642.b57fc217-90e6-4f81-b662-c7a462556eb7.b976e95e-39e8-46cb-941c-95d7413c3210",
         "https://store-images.s-microsoft.com/image/apps.44094.13914660851585642.b57fc217-90e6-4f81-b662-c7a462556eb7.daf0aae4-d907-48a8-8def-1b1225a24635",
-        "https://store-images.s-microsoft.com/image/apps.30589.13914660851585642.b57fc217-90e6-4f81-b662-c7a462556eb7.3cdba8f2-6e44-4a5b-95cb-e167807c9faf"
+        "https://store-images.s-microsoft.com/image/apps.30589.13914660851585642.b57fc217-90e6-4f81-b662-c7a462556eb7.3cdba8f2-6e44-4a5b-95cb-e167807c9faf",
+        "https://store-images.s-microsoft.com/image/apps.37532.13914660851585642.b57fc217-90e6-4f81-b662-c7a462556eb7.dc896a49-b466-4b22-9aba-a36e090cf3a0"
       ],
       "videoUrl": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftassets/7a4af7e8-d9a1-4e63-8b58-4eeececbacd9-AVS.m3u8?packagedStreaming=true",
       "videoCaption": "World of Tanks: HEAT - الإعلان الترويجي الرسمي",
@@ -61594,7 +60816,7 @@
           "recommended": "Micrófono integrado"
         }
       ],
-      "maxInstallSize": 23805865984,
+      "maxInstallSize": 26205597696,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/world-of-tanks-heat/9N11JM7F5CXK"
     },
@@ -61736,7 +60958,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4,
-      "ratingCount": 236,
+      "ratingCount": 237,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
