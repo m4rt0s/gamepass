@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-07-05T10:02:18.132Z",
+  "updatedAt": "2026-07-06T11:53:38.574Z",
   "market": "ES",
   "language": "es-ES",
-  "totalGames": 830,
+  "totalGames": 831,
   "counts": {
     "essential": 131,
-    "premium": 580,
-    "pc": 511,
-    "ultimate": 735,
-    "total": 830
+    "premium": 581,
+    "pc": 512,
+    "ultimate": 736,
+    "total": 831
   },
   "categories": [
     "Acción y aventura",
@@ -1085,7 +1085,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.4,
-      "ratingCount": 2932,
+      "ratingCount": 2933,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -2503,7 +2503,7 @@
       "hasDiscount": true,
       "discountPercent": 75,
       "rating": 2.2,
-      "ratingCount": 393,
+      "ratingCount": 394,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -2581,7 +2581,7 @@
           "recommended": "Controladora de Xbox"
         }
       ],
-      "maxInstallSize": 213220843520,
+      "maxInstallSize": 213220749312,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/ark-survival-ascended/9P33VJGVPHVP"
     },
@@ -3902,7 +3902,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.2,
-      "ratingCount": 265,
+      "ratingCount": 266,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -7481,7 +7481,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 2.2,
-      "ratingCount": 244,
+      "ratingCount": 245,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -8720,7 +8720,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 2.7,
-      "ratingCount": 89,
+      "ratingCount": 90,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -8788,7 +8788,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 2.8,
-      "ratingCount": 93,
+      "ratingCount": 94,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -10241,7 +10241,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.7,
-      "ratingCount": 1145,
+      "ratingCount": 1147,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -10625,7 +10625,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.2,
-      "ratingCount": 211,
+      "ratingCount": 212,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -12576,7 +12576,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 2.9,
-      "ratingCount": 294,
+      "ratingCount": 296,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -16315,8 +16315,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 4.2,
-      "ratingCount": 410,
+      "rating": 4.3,
+      "ratingCount": 411,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -18539,8 +18539,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 3.6,
-      "ratingCount": 30,
+      "rating": 3.7,
+      "ratingCount": 31,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -18608,7 +18608,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 1.5,
-      "ratingCount": 509,
+      "ratingCount": 510,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -22607,7 +22607,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.1,
-      "ratingCount": 284,
+      "ratingCount": 286,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -22700,7 +22700,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.6,
-      "ratingCount": 1823,
+      "ratingCount": 1825,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -23310,7 +23310,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.6,
-      "ratingCount": 11242,
+      "ratingCount": 11243,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -26208,7 +26208,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.4,
-      "ratingCount": 682,
+      "ratingCount": 683,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -33350,7 +33350,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.7,
-      "ratingCount": 51240,
+      "ratingCount": 51245,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -33827,7 +33827,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4,
-      "ratingCount": 15632,
+      "ratingCount": 15633,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -34022,7 +34022,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.5,
-      "ratingCount": 61172,
+      "ratingCount": 61175,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -35011,7 +35011,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.6,
-      "ratingCount": 99,
+      "ratingCount": 100,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -35569,7 +35569,7 @@
           "recommended": "Controladora de Xbox"
         }
       ],
-      "maxInstallSize": 102573481984,
+      "maxInstallSize": 102573383680,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/naraka-bladepoint/9P8SQQJ5T94B"
     },
@@ -38766,7 +38766,7 @@
           "recommended": "Micrófono integrado"
         }
       ],
-      "maxInstallSize": 24698458112,
+      "maxInstallSize": 25596801024,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/pax-dei/9PHGK0538TXM"
     },
@@ -42648,7 +42648,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.3,
-      "ratingCount": 112,
+      "ratingCount": 113,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -44249,8 +44249,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 4.4,
-      "ratingCount": 24,
+      "rating": 4.3,
+      "ratingCount": 28,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -44362,7 +44362,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.5,
-      "ratingCount": 1305,
+      "ratingCount": 1306,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -45898,7 +45898,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.7,
-      "ratingCount": 13,
+      "ratingCount": 14,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -47885,7 +47885,7 @@
           "recommended": "Controladora de Xbox"
         }
       ],
-      "maxInstallSize": 8566632448,
+      "maxInstallSize": 8566427648,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/starsand-island/9P86LLDCL5CC"
     },
@@ -50824,8 +50824,8 @@
       "currency": "EUR",
       "hasDiscount": true,
       "discountPercent": 80,
-      "rating": 3.1,
-      "ratingCount": 64,
+      "rating": 3,
+      "ratingCount": 65,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -58168,7 +58168,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.3,
-      "ratingCount": 248,
+      "ratingCount": 249,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -59743,6 +59743,105 @@
       "maxInstallSize": 14105239552,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/wildgate/9N6VS1BMZ3BW"
+    },
+    {
+      "id": "9P1ZW5K4S44V",
+      "title": "Winds of Arcana: Ruination",
+      "description": "Conviértete en el guerrero mago definitivo: Empuña armas poderosas y desata magia devastadora mientras te enganchas, planeas, luchas y exploras por un mundo misterioso.\n\nDescubre armas legendarias: La Espada maestra. El Martillo liche. Se rumorea que hay muchas más. Encuéntralas y sus Poderes serán tuyos: cada una con rasgos únicos que se adaptan a diferentes estilos de juego.\n\nDesbloquea magia ancestral: Los Emblemas de Alma son objetos mágicos ancestrales que contienen la esencia de guerreros olvidados hace mucho tiempo. Colecciónalos para aprender su poder y vive tus fantasías más salvajes de mago guerrero.",
+      "shortDescription": "Embárcate en un viaje para salvar a tus camaradas en esta aventura de acción narrativa. Usa magia poderosa y armas místicas para combatir contra enemigos desafiantes mientras exploras y descubres las fuerzas ancestrales que destrozaron este mundo misterioso.",
+      "developer": "Brewed Games",
+      "publisher": "1312 Interactive",
+      "imageUrl": "https://store-images.s-microsoft.com/image/apps.26120.14497336054391205.e20795ca-b6c4-4cdd-bb14-d194bfc5a17b.8c754af1-4c24-4c5a-96fd-29e462c1762d",
+      "heroImage": "https://store-images.s-microsoft.com/image/apps.30202.14497336054391205.e20795ca-b6c4-4cdd-bb14-d194bfc5a17b.b206fc26-84ba-4aeb-bd30-3d09b9e929a4",
+      "screenshots": [
+        "https://store-images.s-microsoft.com/image/apps.21069.14497336054391205.e20795ca-b6c4-4cdd-bb14-d194bfc5a17b.f95c2812-2549-4359-bdb8-c41a08ac49b6",
+        "https://store-images.s-microsoft.com/image/apps.33975.14497336054391205.e20795ca-b6c4-4cdd-bb14-d194bfc5a17b.df1c5a6e-c649-4152-9176-d2b9c3e7ad3f",
+        "https://store-images.s-microsoft.com/image/apps.62707.14497336054391205.e20795ca-b6c4-4cdd-bb14-d194bfc5a17b.6c1968f6-390d-47bd-a190-9c9d0cda5264",
+        "https://store-images.s-microsoft.com/image/apps.39094.14497336054391205.e20795ca-b6c4-4cdd-bb14-d194bfc5a17b.11ad716a-0331-4621-bc2a-e595b0bf042d"
+      ],
+      "videoUrl": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftassets/afae148b-b7a7-41e2-a0c0-276a1d83b646-AVS.m3u8?packagedStreaming=true",
+      "videoCaption": "Tráiler de gameplay",
+      "releaseDate": "2026-07-06",
+      "categories": [
+        "Plataformas",
+        "Acción y aventura"
+      ],
+      "tiers": [
+        "pc",
+        "premium",
+        "ultimate"
+      ],
+      "platform": "both",
+      "price": 12.99,
+      "msrp": 12.99,
+      "currency": "EUR",
+      "hasDiscount": false,
+      "discountPercent": 0,
+      "rating": 0,
+      "ratingCount": 0,
+      "ageRating": 12,
+      "pegiRating": "PEGI 12",
+      "pegiDescription": "Apropiado a partir de 12 años",
+      "interactiveDescriptions": [],
+      "capabilities": [
+        "4K Ultra HD",
+        "Un jugador",
+        "60 fps +",
+        "Optimizado para Xbox Series X|S",
+        "Logros de Xbox",
+        "Cosas guardadas en la nube de Xbox",
+        "Xbox Play Anywhere"
+      ],
+      "systemRequirements": [
+        {
+          "title": "SO",
+          "minimum": "Windows 10 version 18362.0 or higher",
+          "recommended": "Windows 10 version 18362.0 or higher"
+        },
+        {
+          "title": "Arquitectura",
+          "minimum": "x64",
+          "recommended": "x64"
+        },
+        {
+          "title": "Gráficos",
+          "minimum": "NVIDIA GeForce 960 or AMD Equivelent",
+          "recommended": "NVIDIA GeForce GTX 1660 Super or AMD equivalent"
+        },
+        {
+          "title": "Procesador",
+          "minimum": "Intel i5 10th Gen or AMD equivelent",
+          "recommended": "Intel i5 12th Gen or AMD equivelent"
+        },
+        {
+          "title": "Teclado",
+          "minimum": "Teclado integrado",
+          "recommended": ""
+        },
+        {
+          "title": "Controladora",
+          "minimum": "Controladora de Xbox",
+          "recommended": "Controladora de Xbox"
+        },
+        {
+          "title": "DirectX",
+          "minimum": "API de DirectX 12, nivel de característica de hardware 11",
+          "recommended": "API de DirectX 12, nivel de característica de hardware 11"
+        },
+        {
+          "title": "Memoria",
+          "minimum": "8 GB",
+          "recommended": "12 GB"
+        },
+        {
+          "title": "Memoria de vídeo",
+          "minimum": "4 GB",
+          "recommended": "8 GB"
+        }
+      ],
+      "maxInstallSize": 22491451392,
+      "hasAddOns": false,
+      "storeUrl": "https://www.xbox.com/es-es/games/store/winds-of-arcana-ruination/9P1ZW5K4S44V"
     },
     {
       "id": "9ND3HTTQ0GKB",
