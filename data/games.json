@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-07-07T10:43:24.918Z",
+  "updatedAt": "2026-07-08T10:04:10.310Z",
   "market": "ES",
   "language": "es-ES",
-  "totalGames": 831,
+  "totalGames": 832,
   "counts": {
-    "essential": 131,
-    "premium": 581,
+    "essential": 132,
+    "premium": 584,
     "pc": 512,
-    "ultimate": 736,
-    "total": 831
+    "ultimate": 737,
+    "total": 832
   },
   "categories": [
     "Acción y aventura",
@@ -873,7 +873,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 6208114688,
+      "maxInstallSize": 6204329984,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/abyssus/9P8NKVVB0XQJ"
     },
@@ -2503,7 +2503,7 @@
       "hasDiscount": true,
       "discountPercent": 75,
       "rating": 2.2,
-      "ratingCount": 394,
+      "ratingCount": 395,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -8261,7 +8261,7 @@
           "recommended": "Controladora de Xbox"
         }
       ],
-      "maxInstallSize": 794304512,
+      "maxInstallSize": 796000256,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/brotato/9P9VNSQK1W3K"
     },
@@ -8369,7 +8369,7 @@
       "storeUrl": "https://www.xbox.com/es-es/games/store/burnout-paradise-remastered/BQMQ3K1BLV1T"
     },
     {
-      "id": "9PNCL2R6G8D0",
+      "id": "9MZ1RZTJTZKB",
       "title": "Call of Duty®: Black Ops 6 - Edición Estándar (Windows)",
       "description": "Obligados a rebelarse. Perseguidos desde dentro. Esto es Call of Duty®: Black Ops 6.\n\nDesarrollado por Treyarch y Raven, Black Ops 6 es un thriller de acción y espionaje ambientado a principios de los 90, un periodo de transición y agitación en el ámbito político mundial caracterizado por el fin de la Guerra Fría y el auge de Estados Unidos como superpotencia. Con una apasionante narrativa y libre de ataduras, presentamos el inconfundible Black Ops.\n\nLa campaña de Black Ops 6 ofrece una mecánica dinámica a cada momento, distintos espacios de juego con escenas impactantes y situaciones, asaltos de alto riesgo y actividades de espionaje clandestinas cargados de acción.\n\nCon una experiencia Multijugador de primera clase, los jugadores pondrán a prueba sus habilidades en una inmensa variedad de mapas y modos.\n\nBlack Ops 6 marca también el regreso épico de Zombis por rondas, ese modo tan querido en el que los jugadores acaban con hordas de no muertos. Lucha en seis nuevos mapas, con el nuevo modo dirigido para aquellos que quieran vivir la historia de Zombis en una experiencia guiada, y Boicot, un modo para aquellos que busquen una experiencia más competitiva.\n\n\nEs posible que se requiera un número de teléfono móvil vinculado a tu cuenta de Activision para jugar a Black Ops 6.\n\nActivision se reserva el derecho de modificar o interrumpir el servicio en línea en el futuro, lo que podría afectar a la disponibilidad continuada del juego en línea. Los servicios en línea pueden interrumpirse debido a factores como el número de jugadores.\n\nPodría haber actualizaciones del juego obligatorias para poder jugar que requieran de espacio de almacenamiento adicional.\n\nPara obtener más información, visita www.callofduty.com.\n\n© 2024-2025 Activision Publishing, Inc. ACTIVISION, CALL OF DUTY y CALL OF DUTY BLACK OPS son marcas comerciales de Activision Publishing, Inc. Las demás marcas comerciales y nombres de marcas pertenecen a sus respectivos dueños. Este producto contiene tecnología de software con licencia de Id Software ('Id Technology'). Id Technology © 1999-2025 Id Software, Inc.",
       "shortDescription": "Call of Duty®: Black Ops 6 es el Black Ops auténtico, con una campaña cinemática individual, la mejor experiencia Multijugador de su clase y el épico regreso de Zombis por rondas.",
@@ -8383,9 +8383,9 @@
         "https://store-images.s-microsoft.com/image/apps.14830.14346543607136639.f38b1706-48cd-4d9b-ab5b-ff1dce3dd21d.956ea387-603d-4e42-a71f-360f7bb702b8",
         "https://store-images.s-microsoft.com/image/apps.24166.14346543607136639.f38b1706-48cd-4d9b-ab5b-ff1dce3dd21d.fa401cfe-0317-459c-b02d-0397c45e4f03"
       ],
-      "videoUrl": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftassets/783cfed4-d971-4371-a05a-6e77773ac09d-AVS.m3u8?packagedStreaming=true",
+      "videoUrl": "https://cdn.trailers.xboxservices.com/trailers/00000000-0000-0000-0000-000000000000/xbox/prod/videos/mainprofile/13883702342628915/b982a698-36af-488f-8c41-a2add67750ef/manifest.m3u8",
       "videoCaption": "Call of Duty: Black Ops 6 - Accolades Trailer",
-      "releaseDate": "2024-11-01",
+      "releaseDate": "2026-07-07",
       "categories": [
         "Shooter"
       ],
@@ -8399,8 +8399,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 2.2,
-      "ratingCount": 156,
+      "rating": 0,
+      "ratingCount": 0,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -8408,7 +8408,18 @@
         "Interacción de usuarios",
         "Compras dentro del juego"
       ],
-      "capabilities": [],
+      "capabilities": [
+        "Cooperativo en línea  (2-4)",
+        "Multijugador en línea  (2-40)",
+        "Multijugador multiplataforma de Xbox",
+        "4K Ultra HD",
+        "HDR10",
+        "Un jugador",
+        "Cooperación multiplataforma de Xbox",
+        "Sonido espacial",
+        "Dolby Atmos",
+        "Controlador para juegos para PC"
+      ],
       "systemRequirements": [
         {
           "title": "SO",
@@ -8421,18 +8432,18 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 92943091939,
-      "hasAddOns": true,
-      "storeUrl": "https://www.xbox.com/es-es/games/store/call-of-duty-black-ops-6-edici-n-est-ndar-windows/9PNCL2R6G8D0"
+      "maxInstallSize": 167357771776,
+      "hasAddOns": false,
+      "storeUrl": "https://www.xbox.com/es-es/games/store/call-of-duty-black-ops-6-edici-n-est-ndar-windows/9MZ1RZTJTZKB"
     },
     {
-      "id": "9PF528M6CRHQ",
+      "id": "9N1N0NQNGK9W",
       "title": "Call of Duty®: Black Ops 6 - Lote Multigeneración",
       "description": "Incluye:\n\n- Lote Multigeneración de Call of Duty®: Black Ops 6\n-- Incluye las versiones del juego para Xbox One y Xbox Series X|S\n\nObligados a rebelarse. Perseguidos desde dentro. Esto es Call of Duty®: Black Ops 6.\n\nDesarrollado por Treyarch y Raven, Black Ops 6 es un thriller de acción y espionaje ambientado a principios de los 90, un periodo de transición y agitación en el ámbito político mundial caracterizado por el fin de la Guerra Fría y el auge de Estados Unidos como superpotencia. Con una apasionante narrativa y libre de ataduras, presentamos el inconfundible Black Ops.\n\nLa campaña de Black Ops 6 ofrece una mecánica dinámica a cada momento, distintos espacios de juego con escenas impactantes y situaciones, asaltos de alto riesgo y actividades de espionaje clandestinas cargados de acción.\n\nCon una experiencia Multijugador de primera clase, los jugadores pondrán a prueba sus habilidades en una inmensa variedad de mapas y modos.\n\nBlack Ops 6 marca también el regreso épico de Zombis por rondas, ese modo tan querido en el que los jugadores acaban con hordas de no muertos. Lucha en seis nuevos mapas, con el nuevo modo dirigido para aquellos que quieran vivir la historia de Zombis en una experiencia guiada, y Boicot, un modo para aquellos que busquen una experiencia más competitiva.\n\n\nEs posible que se requiera un número de teléfono móvil vinculado a tu cuenta de Activision para jugar a Black Ops 6.\n\nActivision se reserva el derecho de modificar o interrumpir el servicio en línea en el futuro, lo que podría afectar a la disponibilidad continuada del juego en línea. Los servicios en línea pueden interrumpirse debido a factores como el número de jugadores.\n\nPodría haber actualizaciones del juego obligatorias para poder jugar que requieran de espacio de almacenamiento adicional.\n\nPara obtener más información, visita www.callofduty.com.\n\n© 2024-2025 Activision Publishing, Inc. ACTIVISION, CALL OF DUTY y CALL OF DUTY BLACK OPS son marcas comerciales de Activision Publishing, Inc. Las demás marcas comerciales y nombres de marcas pertenecen a sus respectivos dueños. Este producto contiene tecnología de software con licencia de Id Software ('Id Technology'). Id Technology © 1999-2025 Id Software, Inc.",
       "shortDescription": "Call of Duty®: Black Ops 6 es el Black Ops auténtico, con una campaña cinemática individual, la mejor experiencia Multijugador de su clase y el épico regreso de Zombis por rondas.",
       "developer": "",
       "publisher": "Activision Publishing Inc.",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.37927.14207097610490811.5b338e31-5c12-4d95-9a2a-2f16ceb01377.52b31dce-5e51-4f9f-88c3-9f40367f021f",
+      "imageUrl": "https://store-images.s-microsoft.com/image/apps.37927.13898317662748570.943c24d0-140c-495a-bca6-d6618c4fc37f.bd78e70b-9c47-4c0e-94e1-804751b569b5",
       "heroImage": "https://store-images.s-microsoft.com/image/apps.5449.14207097610490811.5b338e31-5c12-4d95-9a2a-2f16ceb01377.54d31648-9587-49a6-b312-7df6ce023530",
       "screenshots": [
         "https://store-images.s-microsoft.com/image/apps.35548.14207097610490811.22f22154-5008-4ca1-99c9-2aeb1e9c19f3.3185582e-6c0c-4332-b914-deaa7a617b8d",
@@ -8440,9 +8451,9 @@
         "https://store-images.s-microsoft.com/image/apps.14830.14207097610490811.22f22154-5008-4ca1-99c9-2aeb1e9c19f3.d5260d13-4e9b-4ce4-a6c2-8ee2e4100702",
         "https://store-images.s-microsoft.com/image/apps.24166.14207097610490811.22f22154-5008-4ca1-99c9-2aeb1e9c19f3.f7f37f61-0abf-4526-bcc0-76b671be67a6"
       ],
-      "videoUrl": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftassets/570e031e-a985-4c0f-a94a-3bd9159f8a7d-AVS.m3u8?packagedStreaming=true",
+      "videoUrl": "https://cdn.trailers.xboxservices.com/trailers/00000000-0000-0000-0000-000000000000/xbox/prod/videos/mainprofile/13898317662748570/2685c99e-6fd9-466b-8baf-9ddc0c6b9b93/manifest.m3u8",
       "videoCaption": "Call of Duty: Black Ops 6 - Accolades Trailer",
-      "releaseDate": "2024-11-01",
+      "releaseDate": "2026-07-07",
       "categories": [
         "Shooter"
       ],
@@ -8455,15 +8466,29 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 2.4,
-      "ratingCount": 165,
+      "rating": 5,
+      "ratingCount": 1,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
       "interactiveDescriptions": [
         "Compras dentro del juego"
       ],
-      "capabilities": [],
+      "capabilities": [
+        "Cooperativo en línea  (2-4)",
+        "Multijugador en línea  (2-40)",
+        "Multijugador multiplataforma de Xbox",
+        "4K Ultra HD",
+        "HDR10",
+        "Un jugador",
+        "Cooperación multiplataforma de Xbox",
+        "60 fps +",
+        "Sonido espacial",
+        "Dolby Atmos",
+        "Optimizado para Xbox Series X|S",
+        "Entrega inteligente",
+        "Mouse y teclado de la consola"
+      ],
       "systemRequirements": [
         {
           "title": "SO",
@@ -8476,9 +8501,9 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 89177521724,
-      "hasAddOns": true,
-      "storeUrl": "https://www.xbox.com/es-es/games/store/call-of-duty-black-ops-6-lote-multigeneraci-n/9PF528M6CRHQ"
+      "maxInstallSize": 167357771776,
+      "hasAddOns": false,
+      "storeUrl": "https://www.xbox.com/es-es/games/store/call-of-duty-black-ops-6-lote-multigeneraci-n/9N1N0NQNGK9W"
     },
     {
       "id": "9N8KMNW6942X",
@@ -9390,7 +9415,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.5,
-      "ratingCount": 22,
+      "ratingCount": 23,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -12370,7 +12395,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.3,
-      "ratingCount": 698,
+      "ratingCount": 699,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -14486,7 +14511,7 @@
       ],
       "videoUrl": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftassets/c462087b-96ea-48fa-a6e8-344bba4f43e5-AVS.m3u8?packagedStreaming=true",
       "videoCaption": "Diablo IV Launch - Accolades Trailer",
-      "releaseDate": "2023-06-05",
+      "releaseDate": "",
       "categories": [
         "Acción y aventura",
         "Juegos de rol"
@@ -16622,7 +16647,7 @@
       "hasDiscount": true,
       "discountPercent": 75,
       "rating": 3.8,
-      "ratingCount": 190,
+      "ratingCount": 191,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -18044,7 +18069,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 2.8,
-      "ratingCount": 83,
+      "ratingCount": 84,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -18317,7 +18342,7 @@
           "recommended": "8 GB"
         }
       ],
-      "maxInstallSize": 55815344128,
+      "maxInstallSize": 55815479296,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/enlisted/9NHKL695M9F2"
     },
@@ -22513,7 +22538,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.6,
-      "ratingCount": 2583,
+      "ratingCount": 2584,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -22607,7 +22632,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.1,
-      "ratingCount": 286,
+      "ratingCount": 288,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -23616,7 +23641,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.4,
-      "ratingCount": 4629,
+      "ratingCount": 4630,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -23774,6 +23799,7 @@
       ],
       "tiers": [
         "pc",
+        "premium",
         "ultimate"
       ],
       "platform": "both",
@@ -24035,7 +24061,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.7,
-      "ratingCount": 2882,
+      "ratingCount": 2883,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -26700,7 +26726,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.5,
-      "ratingCount": 355,
+      "ratingCount": 356,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -27088,8 +27114,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 3.8,
-      "ratingCount": 5,
+      "rating": 4,
+      "ratingCount": 6,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -27363,7 +27389,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.7,
-      "ratingCount": 708,
+      "ratingCount": 709,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -27456,7 +27482,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3,
-      "ratingCount": 97,
+      "ratingCount": 98,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -27647,7 +27673,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.8,
-      "ratingCount": 613,
+      "ratingCount": 614,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -28490,7 +28516,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.7,
-      "ratingCount": 74,
+      "ratingCount": 75,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -28609,7 +28635,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 3366256640,
+      "maxInstallSize": 3368009728,
       "hasAddOns": false,
       "storeUrl": "https://www.xbox.com/es-es/games/store/inkonbini-one-store-many-stories/9NVV0M74W05C"
     },
@@ -29766,8 +29792,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 4,
-      "ratingCount": 20,
+      "rating": 3.9,
+      "ratingCount": 21,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -33155,7 +33181,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 2.1,
-      "ratingCount": 683,
+      "ratingCount": 684,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -33288,7 +33314,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.7,
-      "ratingCount": 11296,
+      "ratingCount": 11297,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -33350,7 +33376,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.7,
-      "ratingCount": 51248,
+      "ratingCount": 51252,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -33424,11 +33450,11 @@
         "ultimate"
       ],
       "platform": "both",
-      "price": 4.99,
+      "price": 3.49,
       "msrp": 4.99,
       "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
+      "hasDiscount": true,
+      "discountPercent": 30,
       "rating": 4.5,
       "ratingCount": 30,
       "ageRating": 3,
@@ -33827,7 +33853,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4,
-      "ratingCount": 15637,
+      "ratingCount": 15641,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -33924,7 +33950,7 @@
           "recommended": "8 GB"
         }
       ],
-      "maxInstallSize": 2542702592,
+      "maxInstallSize": 2549854208,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/minecraft-preview-for-windows/9P5X4QVLC2XR"
     },
@@ -33985,7 +34011,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 2722643968,
+      "maxInstallSize": 2728382464,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/minecraft-preview-for-xbox/9NQ19C36R0VD"
     },
@@ -34022,7 +34048,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.5,
-      "ratingCount": 61180,
+      "ratingCount": 61185,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -38424,7 +38450,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 113768374272,
+      "maxInstallSize": 117395095552,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/overwatch/C1C4DZJPBC2V"
     },
@@ -41450,6 +41476,7 @@
       ],
       "tiers": [
         "pc",
+        "premium",
         "ultimate"
       ],
       "platform": "pc",
@@ -44249,8 +44276,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 4.3,
-      "ratingCount": 29,
+      "rating": 4.4,
+      "ratingCount": 30,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -44326,7 +44353,7 @@
           "recommended": "Micrófono integrado"
         }
       ],
-      "maxInstallSize": 2157408256,
+      "maxInstallSize": 2157400064,
       "hasAddOns": false,
       "storeUrl": "https://www.xbox.com/es-es/games/store/rv-there-yet/9MW79BJVF3QX"
     },
@@ -45751,7 +45778,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.5,
-      "ratingCount": 117,
+      "ratingCount": 118,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -49486,7 +49513,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 2.5,
-      "ratingCount": 112,
+      "ratingCount": 113,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -51702,7 +51729,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 2.6,
-      "ratingCount": 577,
+      "ratingCount": 578,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -52323,7 +52350,7 @@
           "recommended": "Controladora de Xbox"
         }
       ],
-      "maxInstallSize": 76678336512,
+      "maxInstallSize": 82246889472,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/the-finals/9PGD71CMDS0Z"
     },
@@ -57651,7 +57678,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.4,
-      "ratingCount": 8305,
+      "ratingCount": 8306,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -59777,8 +59804,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 2.3,
-      "ratingCount": 10,
+      "rating": 2.2,
+      "ratingCount": 12,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -60805,6 +60832,74 @@
       "maxInstallSize": 57839685632,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/wolfenstein-ii-the-new-colossus/C4LLMHFQ1BXQ"
+    },
+    {
+      "id": "C57L9GR0HHB7",
+      "title": "World of Tanks Modern Armor",
+      "description": "TIEMPO LIMITADO: ESTANDARTES DE VALOR\n¡Alza tu bandera y únete a la batalla en Estandartes de valor!\nEste evento especial rinde homenaje a las celebraciones patrióticas de todo el mundo. Elige tu nación, ve al campo de batalla y gana banderas, una divisa exclusiva que te permitirá desbloquear poderosos carros premium, comandantes y recompensas inspiradas en la historia de cada territorio. ¡Forja tu legado!\n\nEL CAMPO DE BATALLA TE RECLAMA \nWorld of Tanks Modern Armor te pone al mando de más de 1000 carros modernos y legendarios. Desafíate a ti mismo en estratégicas batallas por equipos de 15 contra 15. Selecciona las batallas de la Guerra Fría si buscas acción trepidante y moderna o elige las batallas de la Segunda Guerra Mundial si prefieres combates tácticos y pausados. Explora mapas detallados inspirados en escenarios de guerra auténticos.  \n\nCONOCE LAS MÁQUINAS MÁS TEMIBLES DE LA HISTORIA \nRevive la historia al mando de carros emblemáticos de la Segunda Guerra Mundial como el Sherman y bestias modernas como el M1 Abrams. Colecciona y mejora tus carros blindados, personalízalos con camuflajes y desbloquea vehículos más poderosos. Elige entre un amplio abanico de comandantes 3D que te guíen en el campo de batalla. \n\nENFRÉNTATE A JUGADORES DE TODO EL MUNDO \nJuega gratis y disfruta de actualizaciones de contenido semanales repletas de desafíos, recompensas, colaboraciones especiales y temporadas nuevas. Elige tu modo preferido: JcJ o JcE. Forma equipo con tus amigos, y uníos a World of Tanks Modern Armor para poner a prueba vuestras habilidades. \n\nTus carros te están esperando. ¡Nos vemos en el campo de batalla! \n\n¿Quieres más información? Pásate por WoTModernArmor.com.",
+      "shortDescription": "World of Tanks Modern Armor te pone al mando de más de 1000 carros modernos y legendarios. Desafíate a ti mismo en estratégicas batallas por equipos de 15 contra 15. Selecciona las batallas de la Guerra Fría si buscas acción trepidante y moderna o elige las batallas de la Segunda Guerra Mundial si prefieres combates tácticos y pausados.  ",
+      "developer": "Wargaming.net",
+      "publisher": "Wargaming.net",
+      "imageUrl": "https://store-images.s-microsoft.com/image/apps.60373.67082279703731056.98b18ee2-e22d-4751-9eb3-9f8cbcdc522f.ea853a08-2a96-4410-8eb9-5162a51f8868",
+      "heroImage": "https://store-images.s-microsoft.com/image/apps.20668.67082279703731056.98b18ee2-e22d-4751-9eb3-9f8cbcdc522f.1281df96-cf7f-423d-b8fd-d7b68cac53a6",
+      "screenshots": [
+        "https://store-images.s-microsoft.com/image/apps.32713.67082279703731056.7d6fed17-4b86-470d-8a7b-1418c57259f2.03931a2b-05bd-4ed0-8162-5cbb0fbee2d4",
+        "https://store-images.s-microsoft.com/image/apps.63826.67082279703731056.7d6fed17-4b86-470d-8a7b-1418c57259f2.bfa9a1e9-b9a6-499d-94aa-9f6d540c8ac6",
+        "https://store-images.s-microsoft.com/image/apps.37653.67082279703731056.7d6fed17-4b86-470d-8a7b-1418c57259f2.ee30d40e-e6b2-4268-994c-e03f28b6cc21",
+        "https://store-images.s-microsoft.com/image/apps.43348.67082279703731056.7d6fed17-4b86-470d-8a7b-1418c57259f2.a5669d3d-4069-4858-b233-694862d91498"
+      ],
+      "videoUrl": "https://cdn.trailers.xboxservices.com/trailers/00000000-0000-0000-0000-000000000000/xbox/prod/videos/mainprofile/67082279703731056/b8a29f95-12d0-4f76-9d67-e311b72eabfd/manifest.m3u8",
+      "videoCaption": "Banners of Valor",
+      "releaseDate": "2015-07-28",
+      "categories": [
+        "Acción y aventura",
+        "Shooter"
+      ],
+      "tiers": [
+        "essential",
+        "premium",
+        "ultimate"
+      ],
+      "platform": "console",
+      "price": 0,
+      "msrp": 0,
+      "currency": "EUR",
+      "hasDiscount": false,
+      "discountPercent": 0,
+      "rating": 3.9,
+      "ratingCount": 586,
+      "ageRating": 12,
+      "pegiRating": "PEGI 12",
+      "pegiDescription": "Apropiado a partir de 12 años",
+      "interactiveDescriptions": [
+        "Interacción de usuarios",
+        "Compras dentro del juego (Incluye artículos aleatorios)"
+      ],
+      "capabilities": [
+        "Cooperativo en línea  (2-15)",
+        "Multijugador en línea  (2-30)",
+        "Multijugador multiplataforma de Xbox",
+        "4K Ultra HD",
+        "HDR10",
+        "Cooperación multiplataforma de Xbox",
+        "Multijugador multgeneración de Xbox Live",
+        "Optimizado para Xbox Series X|S",
+        "Entrega inteligente",
+        "Xbox One X mejorado",
+        "Logros de Xbox",
+        "Presencia de Xbox",
+        "Clubs de Xbox"
+      ],
+      "systemRequirements": [
+        {
+          "title": "Arquitectura",
+          "minimum": "x64",
+          "recommended": "x64"
+        }
+      ],
+      "maxInstallSize": 79563485184,
+      "hasAddOns": true,
+      "storeUrl": "https://www.xbox.com/es-es/games/store/world-of-tanks-modern-armor/C57L9GR0HHB7"
     },
     {
       "id": "9N11JM7F5CXK",
