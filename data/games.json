@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-07-08T10:04:10.310Z",
+  "updatedAt": "2026-07-09T10:43:45.183Z",
   "market": "ES",
   "language": "es-ES",
-  "totalGames": 832,
+  "totalGames": 834,
   "counts": {
     "essential": 132,
-    "premium": 584,
-    "pc": 512,
-    "ultimate": 737,
-    "total": 832
+    "premium": 586,
+    "pc": 514,
+    "ultimate": 739,
+    "total": 834
   },
   "categories": [
     "Acción y aventura",
@@ -1475,8 +1475,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 3.3,
-      "ratingCount": 33,
+      "rating": 3.4,
+      "ratingCount": 34,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -2971,7 +2971,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.7,
-      "ratingCount": 21068,
+      "ratingCount": 21069,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -5627,7 +5627,7 @@
           "recommended": ""
         }
       ],
-      "maxInstallSize": 9227698176,
+      "maxInstallSize": 9227706368,
       "hasAddOns": false,
       "storeUrl": "https://www.xbox.com/es-es/games/store/baldur-s-gate-and-baldur-s-gate-ii-enhanced-editions/9NCNBWZSHZR5"
     },
@@ -6811,7 +6811,7 @@
           "recommended": "Controladora de Xbox"
         }
       ],
-      "maxInstallSize": 5674315776,
+      "maxInstallSize": 7603548160,
       "hasAddOns": false,
       "storeUrl": "https://www.xbox.com/es-es/games/store/beatdown-city-survivors/9N4X39HZ1CSQ"
     },
@@ -8319,6 +8319,93 @@
       "storeUrl": "https://www.xbox.com/es-es/games/store/br-tal-legend/C5DZFZ6NC5SQ"
     },
     {
+      "id": "9P5B8CPQ9S7F",
+      "title": "Buckshot Roulette",
+      "description": "Dispara a tus amigos\nSiéntate en la mesa multijugador a ocho manos. Regatea. Suplica. Traiciona. Álzate con la victoria absoluta. Vete con los bolsillos llenos.\n\nAcción del calibre 12\nJuega a la ruleta rusa con un arma del calibre 12. Porque con una escopeta, todo es mejor.\n\nPartidas de infarto\nEntre 15 y 20 minutos de juego intenso. Entra en la sala, supera tres rondas contra el Repartidor y sal con el premio... Si llegas a salir.\n\nAfmósfera inmersiva\nSiente el abrazo del club nocturno del submundo, donde las estructuras de metal vibran al son de cajas de ritmos olvidadas hace largo tiempo.\n\nEncuentra a la horma de tu zapato\nEnfréntate al Repartidor, que tendrá las mismas probabilidades que tú. Sin trucos. ¿Podrás vencerle en su propio juego?\n\nDoble o nada\nPon a prueba tu suerte en el nuevo modo Doble o nada. ¿Cuánto tiempo podrás aguantar?",
+      "shortDescription": "Juega a la ruleta rusa con un arma del calibre 12. Cuatro entran. Uno sale. Apuesta tu vida para tirar los dados. Buena suerte.",
+      "developer": "Mike Klubnika",
+      "publisher": "CRITICAL REFLEX",
+      "imageUrl": "https://store-images.s-microsoft.com/image/apps.40973.14572562994901136.49cdcd3b-62a2-4cc7-977e-e23a6d5ae650.6136ed80-c9f6-431b-8aba-5514de900cef",
+      "heroImage": "https://store-images.s-microsoft.com/image/apps.53110.14572562994901136.49cdcd3b-62a2-4cc7-977e-e23a6d5ae650.0e70da86-249b-4d95-8d23-2db11eab68ac",
+      "screenshots": [
+        "https://store-images.s-microsoft.com/image/apps.48668.14572562994901136.325b85eb-86aa-447b-8a33-0a2f5634d97d.9fc088fd-84da-4d28-b015-c9e3084a1e79",
+        "https://store-images.s-microsoft.com/image/apps.26356.14572562994901136.325b85eb-86aa-447b-8a33-0a2f5634d97d.dd7fcc48-d13b-4f7f-9d9e-574eac6465bb",
+        "https://store-images.s-microsoft.com/image/apps.55985.14572562994901136.49cdcd3b-62a2-4cc7-977e-e23a6d5ae650.63dbb2f3-1e31-47a7-a02b-2a061a34827c",
+        "https://store-images.s-microsoft.com/image/apps.50003.14572562994901136.325b85eb-86aa-447b-8a33-0a2f5634d97d.6cdf94a3-fbd4-48eb-938e-1f601d74c18f"
+      ],
+      "videoUrl": "https://cdn.trailers.xboxservices.com/trailers/00000000-0000-0000-0000-000000000000/xbox/prod/videos/mainprofile/14572562994901136/d2445d1e-565c-42af-b7b1-aa49b63016c4/manifest.m3u8",
+      "videoCaption": "Buckshot Roulette Xbox Trailer",
+      "releaseDate": "2026-07-08",
+      "categories": [
+        "Simulación"
+      ],
+      "tiers": [
+        "pc",
+        "premium",
+        "ultimate"
+      ],
+      "platform": "both",
+      "price": 2.99,
+      "msrp": 2.99,
+      "currency": "EUR",
+      "hasDiscount": false,
+      "discountPercent": 0,
+      "rating": 3.7,
+      "ratingCount": 9,
+      "ageRating": 18,
+      "pegiRating": "PEGI 18",
+      "pegiDescription": "Apropiado a partir de 18 años",
+      "interactiveDescriptions": [],
+      "capabilities": [
+        "Multijugador en línea  (2-4)",
+        "Multijugador multiplataforma de Xbox",
+        "Un jugador",
+        "Multijugador multgeneración de Xbox Live",
+        "Optimizado para Xbox Series X|S",
+        "Entrega inteligente",
+        "Logros de Xbox",
+        "Presencia de Xbox",
+        "Clubs de Xbox",
+        "Cosas guardadas en la nube de Xbox",
+        "Xbox Play Anywhere"
+      ],
+      "systemRequirements": [
+        {
+          "title": "SO",
+          "minimum": "Windows 10 version 18362.0 or higher",
+          "recommended": "Windows 10 version 18362.0 or higher"
+        },
+        {
+          "title": "Arquitectura",
+          "minimum": "x64",
+          "recommended": "x64"
+        },
+        {
+          "title": "Procesador",
+          "minimum": "Intel Core i3",
+          "recommended": "Intel Core i5"
+        },
+        {
+          "title": "DirectX",
+          "minimum": "Versión 11",
+          "recommended": "Versión 11"
+        },
+        {
+          "title": "Memoria",
+          "minimum": "2 GB",
+          "recommended": "4 GB"
+        },
+        {
+          "title": "Memoria de vídeo",
+          "minimum": "1 GB",
+          "recommended": "2 GB"
+        }
+      ],
+      "maxInstallSize": 2037370880,
+      "hasAddOns": false,
+      "storeUrl": "https://www.xbox.com/es-es/games/store/buckshot-roulette/9P5B8CPQ9S7F"
+    },
+    {
       "id": "BQMQ3K1BLV1T",
       "title": "Burnout™ Paradise Remastered",
       "description": "¡Bienvenido de nuevo a Paradise City! Hazte un nombre en las calles de Burnout™ Paradise Remastered. Siembra el caos desde las avenidas del centro de la ciudad hasta las carreteras más peligrosas de las montañas. ¡Haz acrobacias de infarto y arrasa con todo en el mejor juego de conducción arcade de todos los tiempos!\r\n\r\nBurnout Paradise Remastered ofrece el mundo de conducción definitivo para tus amigos y para ti. Esta remasterización incluye todos los complementos de The Year of Paradise, entre ellos la actualización Big Surf Island, recreada con todo lujo de detalles y lista para los destrozos en 4K en Xbox One X.\r\n\r\nDescubre la ciudad de Paradise City con tus amigos\r\nQuema rueda y haz que salten chispas en las calles de Paradise City mientras descubres saltos, acrobacias y atajos. Ábrete paso hasta la gloria en eventos únicos, usa tus conocimientos de la ciudad para dar con las rutas más rápidas y adelanta a tus rivales. Arrasa con tus amigos online o juntaros para superar cientos de desafíos online.\r\n\r\nSáltate las reglas y arrasa con todo cuando y donde quieras \r\nOlvídate de las normas de seguridad vial y bate récords de velocidad y destrucción por toda la ciudad. No te dejes ningún récord en el tintero y demuéstrales a tus amigos lo bueno que eres destruyéndolo todo. Ponte en marcha, empieza a dar vueltas y siembra el caos en la ciudad. Choca contra todos los coches, deja huella a tu paso y mira los destrozos que has causado por el retrovisor.\r\n\r\nLa experiencia de Burnout Paradise definitiva\r\nLa remasterización incluye el juego original completo y todos los contenidos descargables, junto con una amplia gama de mejoras técnicas que aportan unos efectos visuales increíbles, fieles y muy auténticos con texturas en alta resolución y mucho más. Juégalo a 1080p en Xbox One y disfruta de 4K a 60 fps en Xbox One X.\r\n\r\nSujeto a condiciones y restricciones. Visita https://www.ea.com/games/burnout/burnout-paradise-remastered/disclaimers para más información.",
@@ -8399,8 +8486,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 0,
-      "ratingCount": 0,
+      "rating": 5,
+      "ratingCount": 1,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -8467,7 +8554,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 5,
-      "ratingCount": 1,
+      "ratingCount": 2,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -8745,7 +8832,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 2.7,
-      "ratingCount": 90,
+      "ratingCount": 91,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -8813,7 +8900,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 2.8,
-      "ratingCount": 94,
+      "ratingCount": 95,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -9225,7 +9312,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 2.6,
-      "ratingCount": 604,
+      "ratingCount": 605,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -9351,8 +9438,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 2.6,
-      "ratingCount": 39,
+      "rating": 2.7,
+      "ratingCount": 40,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -11071,7 +11158,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4,
-      "ratingCount": 92,
+      "ratingCount": 93,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -18409,7 +18496,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 55808024576,
+      "maxInstallSize": 55808016384,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/enlisted-xbox-one/9PF432CVQBXT"
     },
@@ -19451,7 +19538,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.4,
-      "ratingCount": 1555,
+      "ratingCount": 1556,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -22471,7 +22558,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.7,
-      "ratingCount": 4394,
+      "ratingCount": 4397,
       "ageRating": 12,
       "pegiRating": "Supervisión parental recomendada",
       "pegiDescription": "Supervisión parental recomendada",
@@ -22879,7 +22966,7 @@
           "recommended": "6 GB"
         }
       ],
-      "maxInstallSize": 74374348800,
+      "maxInstallSize": 74429464576,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/fragpunk/9MW715J1P29D"
     },
@@ -22946,7 +23033,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 2629730304,
+      "maxInstallSize": 2757722112,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/frog-sqwad/9N16RZ0S50V2"
     },
@@ -24641,7 +24728,7 @@
           "recommended": "Controladora de Xbox"
         }
       ],
-      "maxInstallSize": 2449215488,
+      "maxInstallSize": 2479439872,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/goals/9PF2ZS4XB4JH"
     },
@@ -27482,7 +27569,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3,
-      "ratingCount": 98,
+      "ratingCount": 99,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -28516,7 +28603,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.7,
-      "ratingCount": 75,
+      "ratingCount": 76,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -28901,7 +28988,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.8,
-      "ratingCount": 263,
+      "ratingCount": 264,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -33021,8 +33108,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 4,
-      "ratingCount": 9,
+      "rating": 4.1,
+      "ratingCount": 10,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -33314,7 +33401,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.7,
-      "ratingCount": 11297,
+      "ratingCount": 11298,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -33376,7 +33463,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.7,
-      "ratingCount": 51252,
+      "ratingCount": 51260,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -33853,7 +33940,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4,
-      "ratingCount": 15641,
+      "ratingCount": 15643,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -34048,7 +34135,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.5,
-      "ratingCount": 61185,
+      "ratingCount": 61188,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -35315,7 +35402,7 @@
           "recommended": "4 GB"
         }
       ],
-      "maxInstallSize": 63937581056,
+      "maxInstallSize": 63918759936,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/mount-blade-ii-bannerlord/9PDHWZ7X3P03"
     },
@@ -38170,7 +38257,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.3,
-      "ratingCount": 50,
+      "ratingCount": 51,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -38694,7 +38781,7 @@
           "recommended": ""
         }
       ],
-      "maxInstallSize": 27125944320,
+      "maxInstallSize": 34314293248,
       "hasAddOns": false,
       "storeUrl": "https://www.xbox.com/es-es/games/store/palworld-game-preview/9NKV34XDW014"
     },
@@ -41338,7 +41425,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.2,
-      "ratingCount": 1235,
+      "ratingCount": 1236,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -44353,7 +44440,7 @@
           "recommended": "Micrófono integrado"
         }
       ],
-      "maxInstallSize": 2157400064,
+      "maxInstallSize": 2157412352,
       "hasAddOns": false,
       "storeUrl": "https://www.xbox.com/es-es/games/store/rv-there-yet/9MW79BJVF3QX"
     },
@@ -44690,7 +44777,7 @@
           "recommended": "Micrófono integrado"
         }
       ],
-      "maxInstallSize": 140942155776,
+      "maxInstallSize": 140942770176,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/sea-of-thieves-2026-edition/9P2N57MC619K"
     },
@@ -46977,7 +47064,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.3,
-      "ratingCount": 230,
+      "ratingCount": 231,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -49800,6 +49887,68 @@
       "storeUrl": "https://www.xbox.com/es-es/games/store/tales-of-kenzera-zau/9NNNMBXFFG4W"
     },
     {
+      "id": "9P43RGDPJ62T",
+      "title": "Tamashika",
+      "description": "LA ATENCIÓN ES TODO LO QUE NECESITAS\n\nTAMASHIKA es un frenético juego de disparos de pasillo estilo arcade, centrado en el flujo, la precisión y la supervivencia.\n\nMuévete a través de entornos cambiantes, reacciona con rapidez y mantente totalmente concentrado. Cada partida se basa en el control, el ritmo y en mantener la mente enfocada en un solo punto.\n\nLos patrones del entorno crean una sensación de continuidad, pero todo está en constante movimiento. La concentración es lo único que te mantiene con vida.\n\nCaracterísticas:\nTAMASHIKA es un frenético juego de disparos de pasillo estilo arcade, con animaciones dibujadas a mano, efectos de sonido de gran precisión y una música de fondo enérgica.\n\nIncluye:\nUn arma principal: una pistola semiautomática\nUn arma secundaria: una hoja tanto",
+      "shortDescription": "",
+      "developer": "EDGLRD",
+      "publisher": "EDGLRD",
+      "imageUrl": "https://store-images.s-microsoft.com/image/apps.34746.14600836934234842.a1fef063-58e5-4e0f-8578-d98cf1b258e2.a65b169b-619e-425b-abd8-7581804b16a5",
+      "heroImage": "https://store-images.s-microsoft.com/image/apps.26889.14600836934234842.a1fef063-58e5-4e0f-8578-d98cf1b258e2.114e2815-120d-4abd-aeaf-8af7eb745c5d",
+      "screenshots": [
+        "https://store-images.s-microsoft.com/image/apps.15896.14600836934234842.a1fef063-58e5-4e0f-8578-d98cf1b258e2.d63614bf-d996-4a88-9b05-c2beb91b1c9a",
+        "https://store-images.s-microsoft.com/image/apps.49948.14600836934234842.a1fef063-58e5-4e0f-8578-d98cf1b258e2.7dd4ba1b-62ce-4423-a914-60d8b9ecb420",
+        "https://store-images.s-microsoft.com/image/apps.43607.14600836934234842.a1fef063-58e5-4e0f-8578-d98cf1b258e2.77f44678-e0d4-4981-ab23-7efae087711a",
+        "https://store-images.s-microsoft.com/image/apps.52315.14600836934234842.a1fef063-58e5-4e0f-8578-d98cf1b258e2.23d7f906-9d58-493c-83c6-724e7438c6c3"
+      ],
+      "videoUrl": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftassets/5d18bd5e-f0f1-4eaa-970c-4b7d35a6267c-AVS.m3u8?packagedStreaming=true",
+      "videoCaption": "Tamashika - Official Gameplay Trailer",
+      "releaseDate": "2026-04-10",
+      "categories": [
+        "Shooter"
+      ],
+      "tiers": [
+        "pc",
+        "premium",
+        "ultimate"
+      ],
+      "platform": "both",
+      "price": 14.49,
+      "msrp": 14.49,
+      "currency": "EUR",
+      "hasDiscount": false,
+      "discountPercent": 0,
+      "rating": 1,
+      "ratingCount": 2,
+      "ageRating": 7,
+      "pegiRating": "PEGI 7",
+      "pegiDescription": "Apropiado a partir de 7 años",
+      "interactiveDescriptions": [],
+      "capabilities": [
+        "Un jugador",
+        "Optimizado para Xbox Series X|S",
+        "Entrega inteligente",
+        "Logros de Xbox",
+        "Cosas guardadas en la nube de Xbox",
+        "Xbox Play Anywhere"
+      ],
+      "systemRequirements": [
+        {
+          "title": "SO",
+          "minimum": "Windows 10 version 18362.0 or higher",
+          "recommended": "Windows 10 version 18362.0 or higher"
+        },
+        {
+          "title": "Arquitectura",
+          "minimum": "x64",
+          "recommended": "x64"
+        }
+      ],
+      "maxInstallSize": 1763393536,
+      "hasAddOns": false,
+      "storeUrl": "https://www.xbox.com/es-es/games/store/tamashika/9P43RGDPJ62T"
+    },
+    {
       "id": "9P9GX5D8H9DW",
       "title": "TCG Card Shop Simulator (Game Preview)",
       "description": "Este juego es un trabajo en curso. Es posible que, con el tiempo, cambie o no cambie, o que no se lance como producto final. Compra este producto únicamente si estás satisfecho con el estado actual del juego no terminado.\n\nTCG Card Shop Simulator es un simulador de tienda de cartas coleccionables donde vendes sobres de cartas para ganar dinero y desarrollar tu negocio.\n\nAdministra tu tienda:\nDiseña tu propia tienda de JCC. Organiza los estantes y los sobres de cartas para que la experiencia de compra del cliente sea fluida y sencilla.\n\nColección de cartas:\nAbre los sobres y colecciona las cartas. Encuentra cartas raras y véndelas para hacerte rico o consérvalas para completar tu colección.\n\nOrganiza el juego:\nEstablece el formato y la tarifa de tu juego de cartas e invita a los jugadores a jugar en tu tienda. ¡Asegúrate de mantener tu tienda limpia e higiénica para los jugadores o podrían irse!\n\nCompra productos:\nAbastécete de diferentes sobres de cartas y productos de juegos de cartas. Mantente al tanto de las tendencias y ajusta tu inventario para satisfacer las cambiantes demandas de tus clientes.\n\nAmplía tu negocio:\nObtén ganancias para reinvertir en tu tienda. Amplía tu espacio, desbloquea nuevos juegos de cartas y mejora tus instalaciones para atraer aún más clientes y aumentar los ingresos.\n\nVisita https://discord.gg/2YaaUZzrRY para obtener detalles completos sobre el estado más reciente del juego, así como para proporcionar comentarios y notificar problemas.",
@@ -50438,11 +50587,11 @@
         "ultimate"
       ],
       "platform": "both",
-      "price": 34.99,
+      "price": 17.49,
       "msrp": 34.99,
       "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
+      "hasDiscount": true,
+      "discountPercent": 50,
       "rating": 4.6,
       "ratingCount": 188,
       "ageRating": 16,
@@ -51702,8 +51851,8 @@
       "shortDescription": "Toda leyenda comienza por alguna parte, y, en el caso de The Elder Scrolls Online, lo hace por ti. Únete a millones de jugadores en un RPG de fantasía online ambientado en el gigantesco y vibrante mundo de The Elder Scrolls. ",
       "developer": "ZeniMax Online Studios",
       "publisher": "Bethesda Softworks",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.4210.69742768075920623.e479447e-0085-4b0c-8faa-c30c3c477091.e418ce5f-6b33-4617-b8f8-7af2d10cbf7c",
-      "heroImage": "https://store-images.s-microsoft.com/image/apps.60130.69742768075920623.e479447e-0085-4b0c-8faa-c30c3c477091.2d85613f-8801-4131-a6b6-e71c41a108c4",
+      "imageUrl": "https://store-images.s-microsoft.com/image/apps.23436.69742768075920623.827baea2-0e15-46be-a422-347ee95ca314.67ea9750-0855-448f-834e-28f835084b32",
+      "heroImage": "https://store-images.s-microsoft.com/image/apps.6446.69742768075920623.827baea2-0e15-46be-a422-347ee95ca314.0be46946-0e36-44f6-8f27-e02b9d4c0c9f",
       "screenshots": [
         "https://store-images.s-microsoft.com/image/apps.32213.69742768075920623.e6c8e1ee-e782-4002-bca6-916e5cd2f37c.849315ba-ef60-4d04-9cf3-249d2d53d07a",
         "https://store-images.s-microsoft.com/image/apps.14999.69742768075920623.e6c8e1ee-e782-4002-bca6-916e5cd2f37c.1a40e5e6-0678-42ba-9f89-43fabd86c4a8",
@@ -53617,7 +53766,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.5,
-      "ratingCount": 258,
+      "ratingCount": 259,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -58795,7 +58944,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 2.9,
-      "ratingCount": 106,
+      "ratingCount": 107,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -59804,8 +59953,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 2.2,
-      "ratingCount": 12,
+      "rating": 2.1,
+      "ratingCount": 14,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -61155,7 +61304,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4,
-      "ratingCount": 237,
+      "ratingCount": 238,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -61234,7 +61383,7 @@
           "recommended": "Micrófono integrado"
         }
       ],
-      "maxInstallSize": 56549695488,
+      "maxInstallSize": 56550694912,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/world-of-warships-legends/C1ZT6N30L1WH"
     },
@@ -61729,7 +61878,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4,
-      "ratingCount": 78,
+      "ratingCount": 79,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
