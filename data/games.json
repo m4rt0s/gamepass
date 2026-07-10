@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-07-09T10:43:45.183Z",
+  "updatedAt": "2026-07-10T10:43:12.506Z",
   "market": "ES",
   "language": "es-ES",
-  "totalGames": 834,
+  "totalGames": 835,
   "counts": {
-    "essential": 132,
-    "premium": 586,
-    "pc": 514,
-    "ultimate": 739,
-    "total": 834
+    "essential": 133,
+    "premium": 587,
+    "pc": 515,
+    "ultimate": 740,
+    "total": 835
   },
   "categories": [
     "Acción y aventura",
@@ -2503,7 +2503,7 @@
       "hasDiscount": true,
       "discountPercent": 75,
       "rating": 2.2,
-      "ratingCount": 395,
+      "ratingCount": 397,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -2581,7 +2581,7 @@
           "recommended": "Controladora de Xbox"
         }
       ],
-      "maxInstallSize": 213220749312,
+      "maxInstallSize": 213486948352,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/ark-survival-ascended/9P33VJGVPHVP"
     },
@@ -2971,7 +2971,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.7,
-      "ratingCount": 21069,
+      "ratingCount": 21070,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -6111,8 +6111,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 4.2,
-      "ratingCount": 78,
+      "rating": 4.3,
+      "ratingCount": 79,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -6321,7 +6321,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 2.2,
-      "ratingCount": 242,
+      "ratingCount": 243,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -6382,7 +6382,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.8,
-      "ratingCount": 295,
+      "ratingCount": 296,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -8350,8 +8350,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 3.7,
-      "ratingCount": 9,
+      "rating": 3.6,
+      "ratingCount": 16,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -8486,8 +8486,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 5,
-      "ratingCount": 1,
+      "rating": 3,
+      "ratingCount": 2,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -8553,8 +8553,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 5,
-      "ratingCount": 2,
+      "rating": 3.7,
+      "ratingCount": 3,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -9110,7 +9110,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 2.8,
-      "ratingCount": 31,
+      "ratingCount": 32,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -9238,7 +9238,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3,
-      "ratingCount": 33,
+      "ratingCount": 34,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -10509,7 +10509,7 @@
           "recommended": "2 GB"
         }
       ],
-      "maxInstallSize": 2171498496,
+      "maxInstallSize": 2213310464,
       "hasAddOns": false,
       "storeUrl": "https://www.xbox.com/es-es/games/store/clone-drone-in-the-danger-zone/9NKHKBQJSSC3"
     },
@@ -12430,8 +12430,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 4.3,
-      "ratingCount": 26,
+      "rating": 4.4,
+      "ratingCount": 27,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -12539,7 +12539,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.7,
-      "ratingCount": 121,
+      "ratingCount": 122,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -12728,8 +12728,8 @@
       "shortDescription": "Atrapados eternamente en un reino donde mora un mal aterrador y la muerte no existe como escapatoria, cuatro decididos supervivientes se enfrentan a un sanguinario asesino en un cruel juego que pondrá a prueba tu ingenio. Escoge un bando y entra en un mundo de tensión y espanto: descubre el mejor multijugador asimétrico de terror que existe.",
       "developer": "Behaviour Interactive Inc.",
       "publisher": "Behaviour Interactive Inc.",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.59853.64366672042187759.90f69fd5-b9a6-4e3e-8ef3-6fde973179fb.9c84280c-fd86-458f-b925-9be245bd213e",
-      "heroImage": "https://store-images.s-microsoft.com/image/apps.56150.64366672042187759.90f69fd5-b9a6-4e3e-8ef3-6fde973179fb.c22c91dd-8114-468e-a113-5b5d156fc846",
+      "imageUrl": "https://store-images.s-microsoft.com/image/apps.16719.64366672042187759.733004ed-c696-44cf-98cc-30eddf2375a8.3dd6c96e-e0c3-4a0b-aeb0-810f815a6d37",
+      "heroImage": "https://store-images.s-microsoft.com/image/apps.13651.64366672042187759.733004ed-c696-44cf-98cc-30eddf2375a8.6bdb69ed-d0ef-4157-b2df-7ea97d3b1c4a",
       "screenshots": [
         "https://store-images.s-microsoft.com/image/apps.12604.64366672042187759.e80ba144-8092-4889-bf35-dc5c5d65e674.03116756-2cb6-485d-8c3d-0598945cffbc",
         "https://store-images.s-microsoft.com/image/apps.37035.64366672042187759.e80ba144-8092-4889-bf35-dc5c5d65e674.44e3aa18-9fb9-433d-8662-fe3346aea65b",
@@ -12795,8 +12795,8 @@
       "shortDescription": "Atrapados eternamente en un reino donde mora un mal aterrador y la muerte no existe como escapatoria, cuatro decididos supervivientes se enfrentan a un sanguinario asesino en un cruel juego que pondrá a prueba tu ingenio. Escoge un bando y entra en un mundo de tensión y espanto: descubre el mejor multijugador asimétrico de terror que existe.",
       "developer": "Behaviour Interactive Inc.",
       "publisher": "Behaviour Interactive Inc.",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.13741.13756572830160292.f9bea724-948f-4f20-a255-dc23b0b0fe8a.1d778bbd-6d68-4abb-a728-ce18ba6d2497",
-      "heroImage": "https://store-images.s-microsoft.com/image/apps.44731.13756572830160292.f9bea724-948f-4f20-a255-dc23b0b0fe8a.330df566-17bb-4c38-9d13-64e8b9a8f181",
+      "imageUrl": "https://store-images.s-microsoft.com/image/apps.16719.13756572830160292.a0be61ed-4aae-47f9-8a44-c8be54b53f15.917800ae-51f5-48b3-aa38-cb498fde9b40",
+      "heroImage": "https://store-images.s-microsoft.com/image/apps.13651.13756572830160292.a0be61ed-4aae-47f9-8a44-c8be54b53f15.1c02c3b1-16f3-47dc-b18a-317c080cf2f6",
       "screenshots": [
         "https://store-images.s-microsoft.com/image/apps.12604.13756572830160292.7196dd08-c5aa-4079-b02f-3c9fbc412475.c2c3cf7d-1134-4e7d-bec9-0593fb29446c",
         "https://store-images.s-microsoft.com/image/apps.37035.13756572830160292.7196dd08-c5aa-4079-b02f-3c9fbc412475.1ce759aa-d5c9-4fa1-83e9-de77dc709292",
@@ -13303,7 +13303,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.5,
-      "ratingCount": 427,
+      "ratingCount": 428,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -13349,7 +13349,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.8,
-      "ratingCount": 105,
+      "ratingCount": 106,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -13692,7 +13692,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.2,
-      "ratingCount": 292,
+      "ratingCount": 293,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -14582,39 +14582,38 @@
       "storeUrl": "https://www.xbox.com/es-es/games/store/diablo-iii-reaper-of-souls-ultimate-evil-edition-pc/9N9DKMNL85XZ"
     },
     {
-      "id": "9NQRCD3W41L3",
-      "title": "Diablo® IV",
-      "description": "Diablo® IV es un RPG de acción de nueva generación en el que tendrás que acabar con incontables males, dominar un sinfín de facultades, superar mazmorras de pesadilla y coleccionar botín legendario. Embárcate en la campaña por tu cuenta o con amigos, conoce personajes memorables en un mundo abierto de siniestra belleza y una historia fascinante. Disfruta de un expansivo final del juego que permite a los jugadores juntarse en las ciudades para intercambiar objetos, formar equipo al enfrentarse a descomunales jefes del mundo, desbloquear montones de artículos de personalización para el personaje y su botín, y descubrir multitud de trepidantes actividades de las que disfrutar con el juego cruzado y la progresión cruzada en todas las plataformas disponibles.\n\nEsto no es más que el comienzo para Diablo® IV, que irá ampliando sus contenidos con nuevos eventos, historias, Temporadas y recompensas, entre otras muchas cosas.\n\n\nRequiere una cuenta de Battle.net®. Requiere una conexión a Internet.\n\nPara obtener más información, visita Diablo.com.\n\n© 2026 Blizzard Entertainment, Inc. Diablo y Blizzard Entertainment son marcas comerciales o marcas registradas de Blizzard Entertainment, Inc. en EE. UU. u otros países.",
-      "shortDescription": "Disfruta de la prueba gratuita de Diablo® IV, el aclamado RPG de acción, y de la nueva clase de su expansión, el espiritualista, por un tiempo limitado. Rechaza hordas Diablo® IV es un RPG de acción de nueva generación en el que tendrás que acabar con incontables males, dominar un sinfín de facultades, superar mazmorras de pesadilla y coleccionar botín legendario.",
+      "id": "9N8117TM8JL3",
+      "title": "Diablo® IV - Standard Edition",
+      "description": "La Standard Edition de Diablo® IV incluye:\n\n- Diablo® IV para Xbox One / Xbox Series X|S\n\nDiablo® IV es un RPG de acción de nueva generación en el que tendrás que acabar con incontables males, dominar un sinfín de facultades, superar mazmorras de pesadilla y coleccionar botín legendario. Embárcate en la campaña por tu cuenta o con amigos, conoce personajes memorables en un mundo abierto de siniestra belleza y una historia fascinante. Disfruta de un expansivo final del juego que permite a los jugadores juntarse en las ciudades para intercambiar objetos, formar equipo al enfrentarse a descomunales jefes del mundo, desbloquear montones de artículos de personalización para el personaje y su botín, y descubrir multitud de trepidantes actividades de las que disfrutar con el juego cruzado y la progresión cruzada en todas las plataformas disponibles.\n\nEsto no es más que el comienzo para Diablo® IV, que irá ampliando sus contenidos con nuevos eventos, historias, Temporadas y recompensas, entre otras muchas cosas.\n\n\nRequiere una cuenta de Battle.net®. Requiere una conexión a Internet.\n\nPara obtener más información, visita Diablo.com.\n\n© 2024 Blizzard Entertainment, Inc. Diablo y Blizzard Entertainment son marcas comerciales o marcas registradas de Blizzard Entertainment, Inc. en EE. UU. u otros países.",
+      "shortDescription": "Diablo® IV es un RPG de acción de nueva generación en el que tendrás que acabar con incontables males, dominar un sinfín de facultades, superar mazmorras de pesadilla y coleccionar botín legendario.\n \n Esto no es más que el comienzo para Diablo® IV, que irá ampliando sus contenidos con nuevos eventos, historias, Temporadas y recompensas, entre otras muchas cosas.",
       "developer": "Blizzard Entertainment",
       "publisher": "Blizzard Entertainment",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.27418.13768370188591668.302c14c1-c563-4b96-9413-8dcd386e8806.35943a0f-ac2d-4952-b31a-6c3aad7db3aa",
-      "heroImage": "https://store-images.s-microsoft.com/image/apps.22440.13768370188591668.32b85914-f456-469d-a3a1-2f4f595a1e21.90fc4697-3887-4d1c-9774-0b82fba5b1cf",
+      "imageUrl": "https://store-images.s-microsoft.com/image/apps.27418.14058691289303304.7aeef6ea-ac74-41c2-a37d-5c5c1e0eb55d.e73f1084-51de-4266-8084-2f8787ae9c3f",
+      "heroImage": "https://store-images.s-microsoft.com/image/apps.22440.14058691289303304.7aeef6ea-ac74-41c2-a37d-5c5c1e0eb55d.b01da211-c1ee-49b2-a53c-9a4cdc0b01a0",
       "screenshots": [
-        "https://store-images.s-microsoft.com/image/apps.20792.13768370188591668.705e06a9-72aa-4601-bc07-86a9eb4fc05b.d98f1f85-91bb-4e28-9bbe-fa9ba3adc50b",
-        "https://store-images.s-microsoft.com/image/apps.58742.13768370188591668.705e06a9-72aa-4601-bc07-86a9eb4fc05b.741e0b83-6387-4265-80ec-c43c7ef70ac7",
-        "https://store-images.s-microsoft.com/image/apps.56448.13768370188591668.705e06a9-72aa-4601-bc07-86a9eb4fc05b.e25e1748-9da9-4759-891e-70c75f2e2909",
-        "https://store-images.s-microsoft.com/image/apps.44414.13768370188591668.705e06a9-72aa-4601-bc07-86a9eb4fc05b.a77cda89-370c-45cd-bda3-f3ab4624cd37"
+        "https://store-images.s-microsoft.com/image/apps.20792.14058691289303304.0140a9b3-1c06-4333-9174-d633aec982af.1e1ae586-b197-4b4b-b7c9-008cc51d2f2f",
+        "https://store-images.s-microsoft.com/image/apps.58742.14058691289303304.0140a9b3-1c06-4333-9174-d633aec982af.c8ea86e4-a457-4be3-97b2-d50b09cc7dad",
+        "https://store-images.s-microsoft.com/image/apps.56448.14058691289303304.0140a9b3-1c06-4333-9174-d633aec982af.a922a156-59ac-4f93-a341-ed0247459aa0",
+        "https://store-images.s-microsoft.com/image/apps.44414.14058691289303304.0140a9b3-1c06-4333-9174-d633aec982af.6dfb8ec1-40ca-4d97-958e-477557bcd49a"
       ],
-      "videoUrl": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftassets/c462087b-96ea-48fa-a6e8-344bba4f43e5-AVS.m3u8?packagedStreaming=true",
+      "videoUrl": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftassets/9307b76f-d57e-443e-af4a-240395196f79-AVS.m3u8?packagedStreaming=true",
       "videoCaption": "Diablo IV Launch - Accolades Trailer",
-      "releaseDate": "",
+      "releaseDate": "2024-06-09",
       "categories": [
-        "Acción y aventura",
-        "Juegos de rol"
+        "Acción y aventura"
       ],
       "tiers": [
         "premium",
         "ultimate"
       ],
       "platform": "console",
-      "price": 0,
-      "msrp": 0,
+      "price": 59.99,
+      "msrp": 59.99,
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 3.6,
-      "ratingCount": 272,
+      "rating": 3.5,
+      "ratingCount": 274,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -14627,16 +14626,9 @@
         "Multijugador local de Xbox (2-2)",
         "Multijugador en línea  (2-4)",
         "Multijugador multiplataforma de Xbox",
-        "4K Ultra HD",
         "Un jugador",
         "Pantalla dividida o compartida",
-        "Cooperación multiplataforma de Xbox",
-        "Multijugador multgeneración de Xbox Live",
-        "Optimizado para Xbox Series X|S",
-        "Entrega inteligente",
-        "Logros de Xbox",
-        "Presencia de Xbox",
-        "Cosas guardadas en la nube de Xbox"
+        "Cooperación multiplataforma de Xbox"
       ],
       "systemRequirements": [
         {
@@ -14647,7 +14639,7 @@
       ],
       "maxInstallSize": 213500362752,
       "hasAddOns": true,
-      "storeUrl": "https://www.xbox.com/es-es/games/store/diablo-iv/9NQRCD3W41L3"
+      "storeUrl": "https://www.xbox.com/es-es/games/store/diablo-iv-standard-edition/9N8117TM8JL3"
     },
     {
       "id": "9N0H62KZ3BXV",
@@ -16428,7 +16420,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.3,
-      "ratingCount": 412,
+      "ratingCount": 413,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -17977,8 +17969,8 @@
       "currency": "EUR",
       "hasDiscount": true,
       "discountPercent": 10,
-      "rating": 3.6,
-      "ratingCount": 11,
+      "rating": 3.8,
+      "ratingCount": 12,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -18317,7 +18309,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.8,
-      "ratingCount": 273,
+      "ratingCount": 274,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -19052,7 +19044,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 92709142528,
+      "maxInstallSize": 92720324608,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/f1-25/9NWPW7F19FS5"
     },
@@ -22114,11 +22106,11 @@
         "ultimate"
       ],
       "platform": "pc",
-      "price": 29.99,
+      "price": 59.99,
       "msrp": 59.99,
       "currency": "EUR",
-      "hasDiscount": true,
-      "discountPercent": 50,
+      "hasDiscount": false,
+      "discountPercent": 0,
       "rating": 2,
       "ratingCount": 29,
       "ageRating": 3,
@@ -22197,11 +22189,11 @@
         "ultimate"
       ],
       "platform": "both",
-      "price": 29.99,
+      "price": 59.99,
       "msrp": 59.99,
       "currency": "EUR",
-      "hasDiscount": true,
-      "discountPercent": 50,
+      "hasDiscount": false,
+      "discountPercent": 0,
       "rating": 1.6,
       "ratingCount": 39,
       "ageRating": 3,
@@ -22558,7 +22550,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.7,
-      "ratingCount": 4397,
+      "ratingCount": 4398,
       "ageRating": 12,
       "pegiRating": "Supervisión parental recomendada",
       "pegiDescription": "Supervisión parental recomendada",
@@ -23422,7 +23414,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.6,
-      "ratingCount": 11243,
+      "ratingCount": 11244,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -23728,7 +23720,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.4,
-      "ratingCount": 4630,
+      "ratingCount": 4631,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -27257,7 +27249,7 @@
           "recommended": "Mouse integrado"
         }
       ],
-      "maxInstallSize": 7072436224,
+      "maxInstallSize": 7073046528,
       "hasAddOns": false,
       "storeUrl": "https://www.xbox.com/es-es/games/store/heroes-of-might-and-magic-olden-era-versi-n-preliminar-del-juego/9P2TFCCRKMRD"
     },
@@ -27853,7 +27845,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.2,
-      "ratingCount": 469,
+      "ratingCount": 470,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -29357,8 +29349,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 4.5,
-      "ratingCount": 11,
+      "rating": 4.6,
+      "ratingCount": 12,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -30102,7 +30094,7 @@
       "hasDiscount": true,
       "discountPercent": 60,
       "rating": 4.5,
-      "ratingCount": 267,
+      "ratingCount": 268,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -31281,7 +31273,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.3,
-      "ratingCount": 69,
+      "ratingCount": 70,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -31967,7 +31959,7 @@
           "recommended": "12 GB"
         }
       ],
-      "maxInstallSize": 14290505728,
+      "maxInstallSize": 15427330048,
       "hasAddOns": false,
       "storeUrl": "https://www.xbox.com/es-es/games/store/manor-lords-game-preview/9P5F966564FS"
     },
@@ -32089,7 +32081,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.9,
-      "ratingCount": 152,
+      "ratingCount": 153,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -32232,7 +32224,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.8,
-      "ratingCount": 156,
+      "ratingCount": 157,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -33463,7 +33455,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.7,
-      "ratingCount": 51260,
+      "ratingCount": 51262,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -33940,7 +33932,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4,
-      "ratingCount": 15643,
+      "ratingCount": 15645,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -34135,7 +34127,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.5,
-      "ratingCount": 61188,
+      "ratingCount": 61191,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -38694,21 +38686,21 @@
     },
     {
       "id": "9NKV34XDW014",
-      "title": "Palworld (Game Preview)",
-      "description": "El juego está en proceso de desarrollo. De ahora en adelante y hasta la fecha de lanzamiento del producto final, el juego estará sometido a posibles cambios de contenido. Efectúen la compra solo tras comprender y aceptar que está incompleto.\n\nP. ¿Qué clase de juego es?\nR. ¿Quieres vivir tranquilamente con estas misteriosas criaturas, los Pals, o prefieres lanzarte a la aventura y luchar contra cazadores furtivos?\nLos Pals pueden luchar, procrear, ayudarte en las labores agrícolas y trabajar en fábricas.\nTambién puedes venderlos, despedazarlos y comértelos.\n\n▼Supervivencia\nUn lugar hostil, sin comida suficiente... y plagado de cazadores furtivos. Este mundo está lleno de peligros y sobrevivir será difícil. A veces, incluso tendrás que comerte a los Pals...\n\n▼Monturas y exploración\nPodrás explorar por tierra, mar y aire montado sobre un Pal.\n\n▼Construcción\n¿Quieres construir una pirámide? Pues reúne a un buen montón de Pals que sepan construir. Y tranquilo, no hay leyes laborales que valgan en el mundo de los Pals.\n\n▼Producción\nEncender fuego, generar electricidad, minería... Si reúnes a los Pals adecuados, podrás vivir a cuerpo de rey.\n\n▼Agricultura\nA algunos Pals se les da de lujo sembrar, regar y cosechar. Crea magníficas plantaciones con su ayuda.\n\n▼Fábricas y automatización\nSi quieres automatizar varios procesos, es imprescindible que dejes el trabajo manual en manos de los Pals. Construye una fábrica y ponlos a trabajar. Mientras tengan comida, podrán quedarse ahí hasta el fin de sus días.\n\n▼Exploración de mazmorras\nMientras vayas acompañado de los Pals, podrás avanzar seguro en las zonas más peligrosas. Si las cosas se ponen feas, haz que un Pal te sustituya y ya verás como entrega su vida por protegerte.\n\n▼Reproducción y genética\nCuando los Pals se reproducen, heredan las características de sus padres. ¡Cruza distintos Pals para crear la criatura más fuerte!\n\n▼Crímenes y caza furtiva\nEn las áreas protegidas viven Pals en peligro de extinción. Si te cuelas sin ser visto y te haces con uno, ¡podrás ganar una fortuna! Y recuerda: sin pruebas, no hay delito.\n\n▼Multijugador\nEste juego admite el modo multijugador. Invita a tus amigos, ¡y que comience la aventura! Obviamente, también podrás luchar e intercambiar con ellos.\nEn juego cooperativo (online), el modo Multijugador admite un máximo de 4 personas.\nCon un servidor especializado, pueden jugar hasta 32 personas a la vez.\n\nEste es un juego multijugador de supervivencia en mundo abierto inmenso y original, en el que tendrás que hacerte con unas misteriosas criaturas llamadas Pals, capaces de combatir, construir, cultivar y trabajar en fábricas.",
+      "title": "Palworld",
+      "description": "P. ¿Qué clase de juego es?\nR. ¿Quieres vivir tranquilamente con estas misteriosas criaturas, los Pals, o prefieres lanzarte a la aventura y luchar contra cazadores furtivos?\nLos Pals pueden luchar, procrear, ayudarte en las labores agrícolas y trabajar en fábricas.\nTambién puedes venderlos, despedazarlos y comértelos.\n\n▼Supervivencia\nUn lugar hostil, sin comida suficiente... y plagado de cazadores furtivos. Este mundo está lleno de peligros y sobrevivir será difícil. A veces, incluso tendrás que comerte a los Pals...\n\n▼Monturas y exploración\nPodrás explorar por tierra, mar y aire montado sobre un Pal.\n\n▼Construcción\n¿Quieres construir una pirámide? Pues reúne a un buen montón de Pals que sepan construir. Y tranquilo, no hay leyes laborales que valgan en el mundo de los Pals.\n\n▼Producción\nEncender fuego, generar electricidad, minería... Si reúnes a los Pals adecuados, podrás vivir a cuerpo de rey.\n\n▼Agricultura\nA algunos Pals se les da de lujo sembrar, regar y cosechar. Crea magníficas plantaciones con su ayuda.\n\n▼Fábricas y automatización\nSi quieres automatizar varios procesos, es imprescindible que dejes el trabajo manual en manos de los Pals. Construye una fábrica y ponlos a trabajar. Mientras tengan comida, podrán quedarse ahí hasta el fin de sus días.\n\n▼Exploración de mazmorras\nMientras vayas acompañado de los Pals, podrás avanzar seguro en las zonas más peligrosas. Si las cosas se ponen feas, haz que un Pal te sustituya y ya verás como entrega su vida por protegerte.\n\n▼Reproducción y genética\nCuando los Pals se reproducen, heredan las características de sus padres. ¡Cruza distintos Pals para crear la criatura más fuerte!\n\n▼Crímenes y caza furtiva\nEn las áreas protegidas viven Pals en peligro de extinción. Si te cuelas sin ser visto y te haces con uno, ¡podrás ganar una fortuna! Y recuerda: sin pruebas, no hay delito.\n\n▼Multijugador\nEste juego admite el modo multijugador. Invita a tus amigos, ¡y que comience la aventura! Obviamente, también podrás luchar e intercambiar con ellos.\nEn juego cooperativo (online), el modo Multijugador admite un máximo de 4 personas.\nCon un servidor especializado, pueden jugar hasta 32 personas a la vez.\n\nEste es un juego multijugador de supervivencia en mundo abierto inmenso y original, en el que tendrás que hacerte con unas misteriosas criaturas llamadas Pals, capaces de combatir, construir, cultivar y trabajar en fábricas.",
       "shortDescription": "¿Quieres vivir tranquilamente con estas misteriosas criaturas, los Pals, o prefieres lanzarte a la aventura y luchar contra cazadores furtivos?",
       "developer": "Pocketpair",
       "publisher": "Pocketpair",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.48658.13654268679289325.5cd9109c-5095-44b3-a4a2-0bbf822058b7.3c417827-411b-4f94-aa4d-2cd3ea632960",
-      "heroImage": "https://store-images.s-microsoft.com/image/apps.45256.13654268679289325.01507a26-10bf-4e61-a168-378f3da728c1.6118a77c-faf5-4b19-beb8-8f6a63e4c180",
+      "imageUrl": "https://store-images.s-microsoft.com/image/apps.49778.13654268679289325.ececb946-5639-4e77-b347-9d188d4e7e02.9102215b-349a-4f6d-b9a3-2c14908481f1",
+      "heroImage": "https://store-images.s-microsoft.com/image/apps.54359.13654268679289325.ececb946-5639-4e77-b347-9d188d4e7e02.58b7fb42-a33a-48ea-a6c9-c990b4653b2f",
       "screenshots": [
         "https://store-images.s-microsoft.com/image/apps.42368.13654268679289325.6a83727c-1a87-4c27-abef-2ebbcbacef16.8d70e6c3-3f80-4433-9720-1cbabc621ec6",
         "https://store-images.s-microsoft.com/image/apps.61138.13654268679289325.6a83727c-1a87-4c27-abef-2ebbcbacef16.fd7eb204-dc7f-4107-a237-c191d63a47cd",
         "https://store-images.s-microsoft.com/image/apps.55732.13654268679289325.6a83727c-1a87-4c27-abef-2ebbcbacef16.88b644de-dd0d-486c-a3a7-dfd26c3e3b2e",
         "https://store-images.s-microsoft.com/image/apps.39973.13654268679289325.6a83727c-1a87-4c27-abef-2ebbcbacef16.2e7d429e-6749-4a77-a51c-c367e73a9175"
       ],
-      "videoUrl": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftassets/506aeeca-a31f-462f-84c2-ef70f1e16318-AVS.m3u8?packagedStreaming=true",
-      "videoCaption": "Palworld LaunchTrailer",
+      "videoUrl": "https://cdn.trailers.xboxservices.com/trailers/00000000-0000-0000-0000-000000000000/xbox/prod/videos/mainprofile/13654268679289325/c1fbdfdb-077e-4940-a4ab-6a2ce22a198a/manifest.m3u8",
+      "videoCaption": "Palworld Cinematic Trailer",
       "releaseDate": "2024-01-19",
       "categories": [
         "Acción y aventura",
@@ -38726,7 +38718,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.6,
-      "ratingCount": 815,
+      "ratingCount": 816,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -38757,13 +38749,13 @@
         },
         {
           "title": "Gráficos",
-          "minimum": "GeForce GTX 1050",
-          "recommended": "GeForce RTX 2070"
+          "minimum": "GeForce GTX 1660",
+          "recommended": "GeForce RTX 3060 Ti / Radeon RX 6700 XT"
         },
         {
           "title": "Procesador",
-          "minimum": "i5-3570K 3.4 GHz 4Core",
-          "recommended": "i9-9900K 3.6 GHz 8Core"
+          "minimum": "Intel Core i5-9400F",
+          "recommended": "Intel Core i5-12400 / AMD Ryzen 5 5600X"
         },
         {
           "title": "DirectX",
@@ -38773,17 +38765,12 @@
         {
           "title": "Memoria",
           "minimum": "16 GB",
-          "recommended": "20 GB"
-        },
-        {
-          "title": "Memoria de vídeo",
-          "minimum": "2 GB",
-          "recommended": ""
+          "recommended": "32 GB"
         }
       ],
       "maxInstallSize": 34314293248,
       "hasAddOns": false,
-      "storeUrl": "https://www.xbox.com/es-es/games/store/palworld-game-preview/9NKV34XDW014"
+      "storeUrl": "https://www.xbox.com/es-es/games/store/palworld/9NKV34XDW014"
     },
     {
       "id": "9PHGK0538TXM",
@@ -44363,8 +44350,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 4.4,
-      "ratingCount": 30,
+      "rating": 4.3,
+      "ratingCount": 31,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -48495,7 +48482,7 @@
           "recommended": "4 GB"
         }
       ],
-      "maxInstallSize": 30435807232,
+      "maxInstallSize": 30443929600,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/stellaris/9NXQPGMR917R"
     },
@@ -49506,7 +49493,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.6,
-      "ratingCount": 307,
+      "ratingCount": 308,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -49918,8 +49905,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 1,
-      "ratingCount": 2,
+      "rating": 1.9,
+      "ratingCount": 9,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -50995,11 +50982,11 @@
         "ultimate"
       ],
       "platform": "both",
-      "price": 5.69,
+      "price": 28.49,
       "msrp": 28.49,
       "currency": "EUR",
-      "hasDiscount": true,
-      "discountPercent": 80,
+      "hasDiscount": false,
+      "discountPercent": 0,
       "rating": 3,
       "ratingCount": 65,
       "ageRating": 18,
@@ -52401,16 +52388,16 @@
       "shortDescription": "THE FINALS es el espectáculo de combate virtual definitivo en el que tu equipo y tú lucharéis por haceros con la fama, las riquezas y el favor de los generosos patrocinadores de temporada. Este shooter en primera persona por equipos y gratis enfrentará a concursantes en arenas virtuales inspiradas en ubicaciones reales que podrán alterar e incluso destruir.",
       "developer": "Embark Studios AB",
       "publisher": "Embark Studios AB",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.30748.14187080498030026.da5ddce4-370f-4b90-9a9f-4c7c430928f8.ec37bbc5-cfc7-4fc6-b7db-e63699834955",
-      "heroImage": "https://store-images.s-microsoft.com/image/apps.19426.14187080498030026.da5ddce4-370f-4b90-9a9f-4c7c430928f8.5669e127-4f9d-49bb-87ca-1c108831f042",
+      "imageUrl": "https://store-images.s-microsoft.com/image/apps.61064.14187080498030026.0dd8c398-3cd8-46a2-a68f-9c4f3d2d879b.4b09caf9-a9b4-4196-bb25-85ec20849310",
+      "heroImage": "https://store-images.s-microsoft.com/image/apps.24033.14187080498030026.0dd8c398-3cd8-46a2-a68f-9c4f3d2d879b.066f6fa1-9c76-48f9-aa9d-0e6c85be8a67",
       "screenshots": [
         "https://store-images.s-microsoft.com/image/apps.36193.14187080498030026.011bb85e-7d87-44d7-9c64-267898a423ea.2f6cbc14-56b4-4d3c-b894-6b6db5d0fc37",
         "https://store-images.s-microsoft.com/image/apps.25122.14187080498030026.011bb85e-7d87-44d7-9c64-267898a423ea.ae3628f3-f14b-4829-988c-ba11237301a7",
         "https://store-images.s-microsoft.com/image/apps.17657.14187080498030026.011bb85e-7d87-44d7-9c64-267898a423ea.a5ae4b87-26d3-4d36-bc92-84f402001eca",
         "https://store-images.s-microsoft.com/image/apps.14238.14187080498030026.011bb85e-7d87-44d7-9c64-267898a423ea.672c15a0-1c95-4c53-afc9-439bfd55873f"
       ],
-      "videoUrl": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftassets/ea5994ac-74f3-4933-a9f4-75b4af1f9047-AVS.m3u8?packagedStreaming=true",
-      "videoCaption": "THE FINALS - SEASON 10",
+      "videoUrl": "",
+      "videoCaption": "",
       "releaseDate": "2023-12-08",
       "categories": [
         "Shooter"
@@ -54100,7 +54087,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.6,
-      "ratingCount": 364,
+      "ratingCount": 365,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -54241,6 +54228,66 @@
       "maxInstallSize": 52905668608,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/tom-clancy-s-ghost-recon-breakpoint/C3VVNLQQ54F8"
+    },
+    {
+      "id": "C2N9CS4FS1QR",
+      "title": "Tom Clancy's Ghost Recon Wildlands",
+      "description": "Disfruta de la experiencia de shooter militar definitiva, ambientada en un mundo enorme, peligroso y dinámico.\n\nACABA CON EL CÁRTEL\nEn un futuro próximo, Bolivia ha caído en manos de un despiadado cártel de la droga. Lidera a tu equipo de soldados de élite y coordina las incursiones. Pilota drones y helicópteros, y conduce los vehículos más salvajes por carretera y todo tipo de terrenos mientras exploras los impresionantes paisajes de Bolivia.\n\nPERSONALIZA A TU GHOST Y TUS VEHÍCULOS\nCrea tu Ghost desde cero y personaliza tus armas y equipo a partir de una extensa biblioteca que incluye desde diseños tácticos hasta llamativos tatuajes para los brazos. Desplázate por tierra, agua y aire con más de 60 vehículos distintos.\n\nFORMA EQUIPO CON TUS AMIGOS\nCrea tu propio equipo con hasta 3 amigos. También puedes jugar a Ghost War en PvP y librar combates tácticos 4 contra 4 basados en clases.\n\nSe requiere una conexión a internet, una cuenta de Ubisoft, una cuenta de Microsoft y Game Pass Ultimate o Core (suscripciones vendidas por separado) para acceder a las funciones/multijugador en línea.",
+      "shortDescription": "Tom Clancy's Ghost Recon Wildlands es un shooter táctico en tercera persona.\nLidera a tu equipo de élite de Ghosts por un mundo abierto enorme, peligroso y dinámico, e infíltrate para acabar con el mortífero cártel de Santa Blanca y salvar a Bolivia y su pueblo del colapso total.",
+      "developer": "",
+      "publisher": "Ubisoft",
+      "imageUrl": "https://store-images.s-microsoft.com/image/apps.43306.65577870102127192.24a0a154-ded1-4a40-a91f-102019aaee70.3d6649c7-7ee3-4a8d-80f6-3eeb41e5484d",
+      "heroImage": "https://store-images.s-microsoft.com/image/apps.35822.65577870102127192.24a0a154-ded1-4a40-a91f-102019aaee70.cdf0a22e-4116-4049-a936-c6e4508342fb",
+      "screenshots": [
+        "https://store-images.s-microsoft.com/image/apps.49285.65577870102127192.24a0a154-ded1-4a40-a91f-102019aaee70.2adefe5c-574f-40ba-bdfe-1b18717c3ceb",
+        "https://store-images.s-microsoft.com/image/apps.15132.65577870102127192.24a0a154-ded1-4a40-a91f-102019aaee70.655bdbaa-be08-4877-b4c6-44e6f16a5637",
+        "https://store-images.s-microsoft.com/image/apps.18747.65577870102127192.24a0a154-ded1-4a40-a91f-102019aaee70.cb399e67-ba84-47ab-9f1d-3a111ea4cdc2",
+        "https://store-images.s-microsoft.com/image/apps.45921.65577870102127192.24a0a154-ded1-4a40-a91f-102019aaee70.47b18dfd-d816-4cab-9991-3d37a60fddad"
+      ],
+      "videoUrl": "",
+      "videoCaption": "",
+      "releaseDate": "2017-03-07",
+      "categories": [
+        "Shooter"
+      ],
+      "tiers": [
+        "premium",
+        "ultimate"
+      ],
+      "platform": "console",
+      "price": 49.99,
+      "msrp": 49.99,
+      "currency": "EUR",
+      "hasDiscount": false,
+      "discountPercent": 0,
+      "rating": 4.1,
+      "ratingCount": 232,
+      "ageRating": 18,
+      "pegiRating": "PEGI 18",
+      "pegiDescription": "Apropiado a partir de 18 años",
+      "interactiveDescriptions": [
+        "Compras dentro del juego"
+      ],
+      "capabilities": [
+        "Cooperativo en línea  (2-4)",
+        "Multijugador en línea  (2-8)",
+        "HDR10",
+        "Un jugador",
+        "Xbox One X mejorado",
+        "Logros de Xbox",
+        "Presencia de Xbox",
+        "Cosas guardadas en la nube de Xbox"
+      ],
+      "systemRequirements": [
+        {
+          "title": "Arquitectura",
+          "minimum": "x64",
+          "recommended": "x64"
+        }
+      ],
+      "maxInstallSize": 66919858176,
+      "hasAddOns": true,
+      "storeUrl": "https://www.xbox.com/es-es/games/store/tom-clancy-s-ghost-recon-wildlands/C2N9CS4FS1QR"
     },
     {
       "id": "9PJ1PLJQ7QPN",
@@ -54410,66 +54457,6 @@
       "storeUrl": "https://www.xbox.com/es-es/games/store/tom-clancy-s-ghost-recon-breakpoint/9MVR1G75VX22"
     },
     {
-      "id": "C2N9CS4FS1QR",
-      "title": "Tom Clancy’s Ghost Recon® Wildlands - Standard Edition",
-      "description": "¡Prueba gratis Ghost Recon® Wildlands! ¡Descarga la prueba, juega en línea con tus amigos y explora el entorno durante 5 horas!\r\n\r\nHDR (Alto Rango Dinámico) para generar colores más intensos y luminosos.*\r\n\r\nCrea un equipo hasta con 3 amigos en Tom Clancy’s Ghost Recon® Wildlands y disfruta del Shooter militar definitivo en un enorme y peligroso mundo abierto.\r\n\r\nACABA CON EL CÁRTEL\r\nEn un futuro cercano, Bolivia ha caído en manos del despiadado cártel de Santa Blanca, que ha propagado la injusticia y la violencia. Su objetivo: crear el mayor narcoestado de la historia.\r\n\r\nSÉ UN GHOST\r\nCrea un Ghost y personalízalo junto a sus armas y equipo. Disfruta de una libertad de juego total. Lidera a tu equipo y acaba con el cártel, solo o con tres amigos.\r\n\r\nEXPLORA BOLIVIA\r\nViaja por el mayor mundo abierto creado por Ubisoft para un juego de acción y aventura. Descubre la gran diversidad de paisajes de Wildlands por tierra, mar y aire con más de 60 vehículos distintos.\r\n\r\nResérvalo y obtén una misión extra: explora las altas montañas de Bolivia para acabar con la alianza entre Santa Blanca y los cárteles de Perú.",
-      "shortDescription": "Crea un equipo hasta con 3 amigos en Tom Clancy’s Ghost Recon® Wildlands y disfruta del Shooter militar definitivo en un enorme y peligroso mundo abierto.",
-      "developer": "Ubisoft Paris",
-      "publisher": "Ubisoft",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.43306.65577870102127192.24a0a154-ded1-4a40-a91f-102019aaee70.3d6649c7-7ee3-4a8d-80f6-3eeb41e5484d",
-      "heroImage": "https://store-images.s-microsoft.com/image/apps.35822.65577870102127192.24a0a154-ded1-4a40-a91f-102019aaee70.cdf0a22e-4116-4049-a936-c6e4508342fb",
-      "screenshots": [
-        "https://store-images.s-microsoft.com/image/apps.49285.65577870102127192.24a0a154-ded1-4a40-a91f-102019aaee70.2adefe5c-574f-40ba-bdfe-1b18717c3ceb",
-        "https://store-images.s-microsoft.com/image/apps.15132.65577870102127192.24a0a154-ded1-4a40-a91f-102019aaee70.655bdbaa-be08-4877-b4c6-44e6f16a5637",
-        "https://store-images.s-microsoft.com/image/apps.18747.65577870102127192.24a0a154-ded1-4a40-a91f-102019aaee70.cb399e67-ba84-47ab-9f1d-3a111ea4cdc2",
-        "https://store-images.s-microsoft.com/image/apps.45921.65577870102127192.24a0a154-ded1-4a40-a91f-102019aaee70.47b18dfd-d816-4cab-9991-3d37a60fddad"
-      ],
-      "videoUrl": "",
-      "videoCaption": "",
-      "releaseDate": "2017-03-07",
-      "categories": [
-        "Shooter"
-      ],
-      "tiers": [
-        "premium",
-        "ultimate"
-      ],
-      "platform": "console",
-      "price": 49.99,
-      "msrp": 49.99,
-      "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
-      "rating": 4.1,
-      "ratingCount": 232,
-      "ageRating": 18,
-      "pegiRating": "PEGI 18",
-      "pegiDescription": "Apropiado a partir de 18 años",
-      "interactiveDescriptions": [
-        "Compras dentro del juego"
-      ],
-      "capabilities": [
-        "Cooperativo en línea  (2-4)",
-        "Multijugador en línea  (2-8)",
-        "HDR10",
-        "Un jugador",
-        "Xbox One X mejorado",
-        "Logros de Xbox",
-        "Presencia de Xbox",
-        "Cosas guardadas en la nube de Xbox"
-      ],
-      "systemRequirements": [
-        {
-          "title": "Arquitectura",
-          "minimum": "x64",
-          "recommended": "x64"
-        }
-      ],
-      "maxInstallSize": 66919858176,
-      "hasAddOns": true,
-      "storeUrl": "https://www.xbox.com/es-es/games/store/tom-clancy-s-ghost-recon-wildlands-standard-edition/C2N9CS4FS1QR"
-    },
-    {
       "id": "9PB3RHWXB9MR",
       "title": "Tom Clancy's Rainbow Six Siege: Elite Edition",
       "description": "La Elite Edition incluye:\n- Acceso a los modos de juego Partida rápida y No clasificatoria con una selección de agentes.\n- Acceso a las listas del modo Clasificatorio y la Copa Siege.\n- Desbloqueo instantáneo de 16 agentes adicionales.\n\nTom Clancy's Rainbow Six Siege es el referente indiscutible de juegos de disparos tácticos de equipo, en el que la estrategia y la ejecución de élite triunfan.\n\nALTO RIESGO 5C5 ATACANTES CONTRA DEFENSORES\nAlterna entre ataque y defensa, adapta tu forma de afrontar los mapas y a los agentes. Siente la emoción y la intensidad de la acción mientras te aprovechas de la destrucción y los dispositivos para superar a los rivales en todas y cada una de las rondas.\n\nEn defensa, transforma tus alrededores en fuertes fortificados. Utiliza las herramientas de vigilancia para controlar a los enemigos y adáptate a sus tácticas.\n\nEn ataque, reúne información sobre la posición de los enemigos y los nidos de bombas con los drones. Coordínate con tu equipo para atravesar las defensas y atacar desde ángulos inesperados.\n\nHERRAMIENTAS DE DESTRUCCIÓN\nLa destrucción no solo es el caos: es la herramienta para el éxito. Usa el entorno y aprovéchate de él: convierte las paredes en oportunidades.\n\nDE RECLUTA A ÉLITE\nUna vía de iniciación de calidad para los jugadores nuevos, que incluye una nueva ruta de nivel de autorización para ayudarte con el aprendizaje de los conceptos básicos y a ganar la confianza y habilidad necesarias antes de lanzarte a la acción táctica.\n\nEste juego aprovecha Smart Delivery, que permite acceder al título para Xbox One y para Xbox Series X y S.\n\nSe requiere una conexión a internet, una cuenta de Ubisoft, una cuenta de Microsoft y Game Pass Ultimate o Core (suscripciones vendidas por separado) para acceder a las funciones/multijugador en línea.",
@@ -54524,7 +54511,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 53003456512,
+      "maxInstallSize": 51024355328,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/tom-clancy-s-rainbow-six-siege-elite-edition/9PB3RHWXB9MR"
     },
@@ -56519,7 +56506,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 2.3,
-      "ratingCount": 99,
+      "ratingCount": 100,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -56673,7 +56660,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 2.4,
-      "ratingCount": 52,
+      "ratingCount": 53,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -57058,7 +57045,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 2.9,
-      "ratingCount": 261,
+      "ratingCount": 262,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -59732,7 +59719,7 @@
           "recommended": "Micrófono integrado"
         }
       ],
-      "maxInstallSize": 300890931200,
+      "maxInstallSize": 302097002496,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/where-winds-meet/9N76QGDS5GJR"
     },
@@ -61740,6 +61727,114 @@
       "maxInstallSize": 66472673280,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/wuchang-fallen-feathers/9N6WN0ZHZQ6W"
+    },
+    {
+      "id": "9P41GS5W1C6L",
+      "title": "Wuthering Waves",
+      "description": "Wuthering Waves es un juego de rol de mundo abierto lleno de historias y que permite un alto grado de libertad de juego. Despiertas como Errante, acompañado de un elenco vibrante de Resonadores, en un viaje para recuperar tus recuerdos perdidos, explorar y transformar el mundo.\n\nTe damos la bienvenida, Errante.\nLa marea desciende dejando un silencio pesado.\nGolpeada por el Lamento, la humanidad sufre como si se hubiera encallado en un arrecife.\nSin embargo, contraataca con un grito que rompe el silencio.\nLa calamidad que trae la destrucción también envía el resurgimiento. Un nuevo mundo ha nacido.\nErrante, este es solo el comienzo de la historia, la tuya.\nAmigos que conocer, adversarios que derrotar, poderes nuevos que obtener, verdades secretas que descubrir y espectáculos nunca antes vistos que contemplar. Un mundo inmenso de infinitas posibilidades te aguarda. Pero la elección es tuya. Sé la respuesta, sé el líder y sigue los sonidos para llegar a un nuevo futuro.\nPartimos mientras la marea sube y baja.\nLevántate, Errante, esta es tu odisea.",
+      "shortDescription": "Wuthering Waves es un juego de rol de mundo abierto lleno de historias y que permite un alto grado de libertad de juego. Despiertas como Errante, acompañado de un elenco vibrante de Resonadores, en un viaje para recuperar tus recuerdos perdidos, explorar y transformar el mundo.",
+      "developer": "KURO GAMES",
+      "publisher": "KURO GAMES",
+      "imageUrl": "https://store-images.s-microsoft.com/image/apps.16663.14597666972638877.4c0fa7d8-85b9-41ec-92d4-4c095a3f069c.3ae1d172-8606-4ed3-8f68-f1944160597f",
+      "heroImage": "https://store-images.s-microsoft.com/image/apps.34545.14597666972638877.4c0fa7d8-85b9-41ec-92d4-4c095a3f069c.8b46ce17-82a4-460e-8efe-a883a7387da6",
+      "screenshots": [
+        "https://store-images.s-microsoft.com/image/apps.57090.14597666972638877.4c0fa7d8-85b9-41ec-92d4-4c095a3f069c.7a793f49-0884-4feb-bd32-30b39dece814",
+        "https://store-images.s-microsoft.com/image/apps.11904.14597666972638877.4c0fa7d8-85b9-41ec-92d4-4c095a3f069c.17b8d085-7431-46ae-b142-3731baca3f1c",
+        "https://store-images.s-microsoft.com/image/apps.6896.14597666972638877.4c0fa7d8-85b9-41ec-92d4-4c095a3f069c.36a76527-8cc2-494e-9d78-b8ef0f05008a",
+        "https://store-images.s-microsoft.com/image/apps.63335.14597666972638877.4c0fa7d8-85b9-41ec-92d4-4c095a3f069c.841bc2cb-26f0-4442-af34-069e9a69e54f"
+      ],
+      "videoUrl": "https://cdn.trailers.xboxservices.com/trailers/00000000-0000-0000-0000-000000000000/xbox/prod/videos/mainprofile/14597666972638877/f6c5fe65-f362-4cf1-9806-a28a8ef692e1/manifest.m3u8",
+      "videoCaption": "Wuthering Waves – A Xuanfang",
+      "releaseDate": "2026-07-09",
+      "categories": [
+        "Acción y aventura",
+        "Juegos de rol"
+      ],
+      "tiers": [
+        "essential",
+        "pc",
+        "premium",
+        "ultimate"
+      ],
+      "platform": "both",
+      "price": 0,
+      "msrp": 0,
+      "currency": "EUR",
+      "hasDiscount": false,
+      "discountPercent": 0,
+      "rating": 3,
+      "ratingCount": 4,
+      "ageRating": 12,
+      "pegiRating": "PEGI 12",
+      "pegiDescription": "Apropiado a partir de 12 años",
+      "interactiveDescriptions": [
+        "Interacción de usuarios",
+        "Compras dentro del juego (Incluye artículos aleatorios)"
+      ],
+      "capabilities": [
+        "Cooperativo en línea  (2-3)",
+        "Multijugador multiplataforma de Xbox",
+        "4K Ultra HD",
+        "Cooperación multiplataforma de Xbox",
+        "Optimizado para Xbox Series X|S",
+        "Logros de Xbox",
+        "Xbox Play Anywhere"
+      ],
+      "systemRequirements": [
+        {
+          "title": "SO",
+          "minimum": "Windows 10 version 18362.0 or higher",
+          "recommended": "Windows 10 version 18362.0 or higher"
+        },
+        {
+          "title": "Arquitectura",
+          "minimum": "x64",
+          "recommended": "x64"
+        },
+        {
+          "title": "Gráficos",
+          "minimum": "GTX 1060 / RX 570 / intel ARC A380",
+          "recommended": "GTX 2060 / RX 5700XT / intel ARC A750 and Above"
+        },
+        {
+          "title": "Procesador",
+          "minimum": "intel i5 (9th Gen) / Ryzen 2700",
+          "recommended": "intel i7 (9th Gen) / Ryzen 3700"
+        },
+        {
+          "title": "Teclado",
+          "minimum": "Teclado integrado",
+          "recommended": "Teclado integrado"
+        },
+        {
+          "title": "Mouse",
+          "minimum": "Mouse integrado",
+          "recommended": "Mouse integrado"
+        },
+        {
+          "title": "DirectX",
+          "minimum": "API de DirectX 12, nivel de característica de hardware 11",
+          "recommended": "API de DirectX 12, nivel de característica de hardware 12"
+        },
+        {
+          "title": "Memoria",
+          "minimum": "16 GB",
+          "recommended": "32 GB"
+        },
+        {
+          "title": "Memoria de vídeo",
+          "minimum": "4 GB",
+          "recommended": "8 GB"
+        },
+        {
+          "title": "Controladora",
+          "minimum": "",
+          "recommended": "Controladora de Xbox"
+        }
+      ],
+      "maxInstallSize": 122649444352,
+      "hasAddOns": true,
+      "storeUrl": "https://www.xbox.com/es-es/games/store/wuthering-waves/9P41GS5W1C6L"
     },
     {
       "id": "9N3KQH8183GD",
