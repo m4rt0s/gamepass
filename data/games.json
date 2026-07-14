@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-07-13T10:48:26.699Z",
+  "updatedAt": "2026-07-14T09:43:55.181Z",
   "market": "ES",
   "language": "es-ES",
-  "totalGames": 836,
+  "totalGames": 837,
   "counts": {
     "essential": 133,
-    "premium": 587,
-    "pc": 516,
-    "ultimate": 741,
-    "total": 836
+    "premium": 588,
+    "pc": 517,
+    "ultimate": 742,
+    "total": 837
   },
   "categories": [
     "Acción y aventura",
@@ -738,7 +738,7 @@
           "recommended": "Micrófono integrado"
         }
       ],
-      "maxInstallSize": 5697990656,
+      "maxInstallSize": 5761159168,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/abiotic-factor/9P4NV23Q6QC2"
     },
@@ -2320,7 +2320,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.1,
-      "ratingCount": 93,
+      "ratingCount": 92,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -2966,8 +2966,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 0,
-      "ratingCount": 0,
+      "rating": 5,
+      "ratingCount": 6,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -3070,7 +3070,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.7,
-      "ratingCount": 21077,
+      "ratingCount": 21078,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -4812,9 +4812,7 @@
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
       "interactiveDescriptions": [],
-      "capabilities": [
-        "FPS Boost Series X | S"
-      ],
+      "capabilities": [],
       "systemRequirements": [
         {
           "title": "Arquitectura",
@@ -5001,7 +4999,7 @@
           "recommended": "2 GB"
         }
       ],
-      "maxInstallSize": 3073732608,
+      "maxInstallSize": 3075182592,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/astroneer/9NBLGGH43KZB"
     },
@@ -6254,7 +6252,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.2,
-      "ratingCount": 929,
+      "ratingCount": 930,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -6262,8 +6260,7 @@
         "Compras dentro del juego (Incluye artículos aleatorios)"
       ],
       "capabilities": [
-        "Multijugador en línea  (4-64)",
-        "FPS Boost Series X | S"
+        "Multijugador en línea  (4-64)"
       ],
       "systemRequirements": [
         {
@@ -6528,7 +6525,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 2.7,
-      "ratingCount": 264,
+      "ratingCount": 265,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -7577,7 +7574,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 2.2,
-      "ratingCount": 246,
+      "ratingCount": 247,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -8927,8 +8924,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 2.7,
-      "ratingCount": 93,
+      "rating": 2.6,
+      "ratingCount": 95,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -8996,7 +8993,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 2.7,
-      "ratingCount": 97,
+      "ratingCount": 99,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -10305,7 +10302,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.6,
-      "ratingCount": 1157,
+      "ratingCount": 1158,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -11013,7 +11010,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.5,
-      "ratingCount": 257,
+      "ratingCount": 258,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -13496,9 +13493,7 @@
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
       "interactiveDescriptions": [],
-      "capabilities": [
-        "FPS Boost Series X | S"
-      ],
+      "capabilities": [],
       "systemRequirements": [
         {
           "title": "Arquitectura",
@@ -15343,8 +15338,7 @@
       "capabilities": [
         "Un jugador",
         "Logros de Xbox",
-        "Cosas guardadas en la nube de Xbox",
-        "FPS Boost Series X | S"
+        "Cosas guardadas en la nube de Xbox"
       ],
       "systemRequirements": [
         {
@@ -15485,8 +15479,7 @@
       "interactiveDescriptions": [],
       "capabilities": [
         "4K Ultra HD",
-        "Xbox One X mejorado",
-        "FPS Boost Series X | S"
+        "Xbox One X mejorado"
       ],
       "systemRequirements": [
         {
@@ -16679,9 +16672,7 @@
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
       "interactiveDescriptions": [],
-      "capabilities": [
-        "FPS Boost Series X | S"
-      ],
+      "capabilities": [],
       "systemRequirements": [
         {
           "title": "Arquitectura",
@@ -17552,8 +17543,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 2.1,
-      "ratingCount": 13,
+      "rating": 2,
+      "ratingCount": 14,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -19195,8 +19186,7 @@
       "interactiveDescriptions": [],
       "capabilities": [
         "4K Ultra HD",
-        "Xbox One X mejorado",
-        "FPS Boost Series X | S"
+        "Xbox One X mejorado"
       ],
       "systemRequirements": [
         {
@@ -19306,8 +19296,7 @@
         "Cooperativo en línea  (2-2)",
         "Multijugador local de Xbox (2-2)",
         "4K Ultra HD",
-        "Xbox One X mejorado",
-        "FPS Boost Series X | S"
+        "Xbox One X mejorado"
       ],
       "systemRequirements": [
         {
@@ -19979,9 +19968,7 @@
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
       "interactiveDescriptions": [],
-      "capabilities": [
-        "FPS Boost Series X | S"
-      ],
+      "capabilities": [],
       "systemRequirements": [
         {
           "title": "Arquitectura",
@@ -20497,8 +20484,7 @@
       "capabilities": [
         "Un jugador",
         "Optimizado para Xbox Series X|S",
-        "Logros de Xbox",
-        "FPS Boost Series X | S"
+        "Logros de Xbox"
       ],
       "systemRequirements": [
         {
@@ -22817,7 +22803,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.1,
-      "ratingCount": 289,
+      "ratingCount": 290,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -23659,8 +23645,7 @@
         "Multijugador multiplataforma de Xbox",
         "Un jugador",
         "Pantalla dividida o compartida",
-        "Cooperación multiplataforma de Xbox",
-        "FPS Boost Series X | S"
+        "Cooperación multiplataforma de Xbox"
       ],
       "systemRequirements": [
         {
@@ -23778,8 +23763,7 @@
         "Un jugador",
         "Pantalla dividida o compartida",
         "Cooperación multiplataforma de Xbox",
-        "Xbox One X mejorado",
-        "FPS Boost Series X | S"
+        "Xbox One X mejorado"
       ],
       "systemRequirements": [
         {
@@ -23846,8 +23830,7 @@
         "Presencia de Xbox",
         "Clubs de Xbox",
         "Cosas guardadas en la nube de Xbox",
-        "Xbox Play Anywhere",
-        "FPS Boost Series X | S"
+        "Xbox Play Anywhere"
       ],
       "systemRequirements": [
         {
@@ -23945,8 +23928,7 @@
         "Multijugador multiplataforma de Xbox",
         "Un jugador",
         "Pantalla dividida o compartida",
-        "Cooperación multiplataforma de Xbox",
-        "FPS Boost Series X | S"
+        "Cooperación multiplataforma de Xbox"
       ],
       "systemRequirements": [
         {
@@ -25132,8 +25114,7 @@
         "Un jugador",
         "Logros de Xbox",
         "Presencia de Xbox",
-        "Cosas guardadas en la nube de Xbox",
-        "FPS Boost Series X | S"
+        "Cosas guardadas en la nube de Xbox"
       ],
       "systemRequirements": [
         {
@@ -25643,7 +25624,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 33962913792,
+      "maxInstallSize": 33963065344,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/grounded-2-game-preview/9P77PG7DK0W2"
     },
@@ -26043,7 +26024,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4,
-      "ratingCount": 1180,
+      "ratingCount": 1181,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -26116,8 +26097,7 @@
         "HDR10",
         "Cooperación multiplataforma de Xbox",
         "Xbox One X mejorado",
-        "Xbox Play Anywhere",
-        "FPS Boost Series X | S"
+        "Xbox Play Anywhere"
       ],
       "systemRequirements": [
         {
@@ -26847,7 +26827,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.4,
-      "ratingCount": 565,
+      "ratingCount": 566,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -29082,7 +29062,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.8,
-      "ratingCount": 264,
+      "ratingCount": 265,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -29239,8 +29219,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 4.3,
-      "ratingCount": 15,
+      "rating": 4.4,
+      "ratingCount": 16,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -29412,7 +29392,7 @@
           "recommended": "Controladora de Xbox"
         }
       ],
-      "maxInstallSize": 25129095168,
+      "maxInstallSize": 25164488704,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/jurassic-world-evolution-3/9NX7HCWL13Z9"
     },
@@ -32276,7 +32256,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.5,
-      "ratingCount": 37,
+      "ratingCount": 38,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -32736,9 +32716,7 @@
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
       "interactiveDescriptions": [],
-      "capabilities": [
-        "FPS Boost Series X | S"
-      ],
+      "capabilities": [],
       "systemRequirements": [
         {
           "title": "Arquitectura",
@@ -33362,7 +33340,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 2.1,
-      "ratingCount": 686,
+      "ratingCount": 687,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -33557,7 +33535,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.7,
-      "ratingCount": 51277,
+      "ratingCount": 51285,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -34034,7 +34012,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4,
-      "ratingCount": 15654,
+      "ratingCount": 15658,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -34086,7 +34064,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.8,
-      "ratingCount": 497,
+      "ratingCount": 496,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -34192,7 +34170,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 2728382464,
+      "maxInstallSize": 2727223296,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/minecraft-preview-for-xbox/9NQ19C36R0VD"
     },
@@ -34229,7 +34207,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.5,
-      "ratingCount": 61204,
+      "ratingCount": 61211,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -34427,14 +34405,13 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.6,
-      "ratingCount": 42,
+      "ratingCount": 43,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
       "interactiveDescriptions": [],
       "capabilities": [
-        "Xbox One X mejorado",
-        "FPS Boost Series X | S"
+        "Xbox One X mejorado"
       ],
       "systemRequirements": [
         {
@@ -36667,8 +36644,7 @@
         "Xbox One X mejorado",
         "Logros de Xbox",
         "Cosas guardadas en la nube de Xbox",
-        "Xbox Play Anywhere",
-        "FPS Boost Series X | S"
+        "Xbox Play Anywhere"
       ],
       "systemRequirements": [
         {
@@ -37721,8 +37697,7 @@
       "pegiDescription": "Apropiado a partir de 16 años",
       "interactiveDescriptions": [],
       "capabilities": [
-        "Xbox One X mejorado",
-        "FPS Boost Series X | S"
+        "Xbox One X mejorado"
       ],
       "systemRequirements": [
         {
@@ -38794,11 +38769,11 @@
       "heroImage": "https://store-images.s-microsoft.com/image/apps.54359.13654268679289325.ececb946-5639-4e77-b347-9d188d4e7e02.58b7fb42-a33a-48ea-a6c9-c990b4653b2f",
       "screenshots": [
         "https://store-images.s-microsoft.com/image/apps.42368.13654268679289325.6a83727c-1a87-4c27-abef-2ebbcbacef16.8d70e6c3-3f80-4433-9720-1cbabc621ec6",
-        "https://store-images.s-microsoft.com/image/apps.61138.13654268679289325.6a83727c-1a87-4c27-abef-2ebbcbacef16.fd7eb204-dc7f-4107-a237-c191d63a47cd",
+        "https://store-images.s-microsoft.com/image/apps.22642.13654268679289325.5dd984e6-ce6a-4c31-9966-a1b62c52fa17.030a24bf-5807-45a3-a165-350b8ab90b69",
         "https://store-images.s-microsoft.com/image/apps.55732.13654268679289325.6a83727c-1a87-4c27-abef-2ebbcbacef16.88b644de-dd0d-486c-a3a7-dfd26c3e3b2e",
-        "https://store-images.s-microsoft.com/image/apps.39973.13654268679289325.6a83727c-1a87-4c27-abef-2ebbcbacef16.2e7d429e-6749-4a77-a51c-c367e73a9175"
+        "https://store-images.s-microsoft.com/image/apps.65177.13654268679289325.5dd984e6-ce6a-4c31-9966-a1b62c52fa17.30de06ea-cf55-4405-a2b4-b3ec79fbbcd2"
       ],
-      "videoUrl": "https://cdn.trailers.xboxservices.com/trailers/00000000-0000-0000-0000-000000000000/xbox/prod/videos/mainprofile/13654268679289325/c1fbdfdb-077e-4940-a4ab-6a2ce22a198a/manifest.m3u8",
+      "videoUrl": "https://cdn.trailers.xboxservices.com/trailers/00000000-0000-0000-0000-000000000000/xbox/prod/videos/mainprofile/13654268679289325/f0090a91-4886-4d5d-9a8f-fb72ae2cb261/manifest.m3u8",
       "videoCaption": "Palworld Cinematic Trailer",
       "releaseDate": "2024-01-19",
       "categories": [
@@ -38968,6 +38943,100 @@
       "maxInstallSize": 25596801024,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/pax-dei/9PHGK0538TXM"
+    },
+    {
+      "id": "9PJRQHMCFQGS",
+      "title": "PBA Pro Bowling 2026",
+      "description": "PBA Pro Bowling ha vuelto con PBA Pro Bowling 2026, el mejor juego de bolos de la historia. No se trata de una mera actualización: es un juego completamente nuevo, reinventado y creado desde cero. Juega a un extenso modo profesional con un creador de personajes de lo más versátil, o anímate a competir con amigos y rivales en línea. Experimenta el mejor sistema de juego hasta el momento con físicas de bolas y bolos actualizadas, una simulación de patrones de aceitado mejorada y unos tipos de patrones de aceitado realistas. Con nuevos modos de juego, ubicaciones, profesionales, bolas, objetivos diarios y más, PBA Pro Bowling 2026 es el juego de bolos definitivo, y contiene todo lo que podrían desear fans y jugadores.\nNuevas físicas\nPBA Pro Bowling 2026 es el juego de bolos más ambicioso de la historia. Desarrollado con un nuevo motor de juego que presenta unos gráficos impresionantes, físicas precisas y un sistema de juego renovado que transmite la sensación real del deporte.\nNuevo modo profesional reinventado por completo\nA diferencia de lo que se ha visto en versiones anteriores del juego, este modo profesional se ha vuelto a crear desde cero. Empieza como principiante en la liga de tu ciudad natal y esfuérzate hasta llegar al PBA Pro Tour, consiguiendo nuevas bolas e indumentaria a medida que subes en las clasificaciones. Elige tu propio camino: puedes centrarte en las competiciones de bolos tradicionales o experimentar con modos de juego alternativos, como las competiciones de plenos o los bolos de vela, a medida que pasas de los eventos locales a fases nacionales y creas tu propio legado.\nNuevos modos de juego\nEntre los bolos de vela, los bolos pequeños, las competiciones de plenos, los desafíos de semiplenos y las ruletas de patrones de aceitado, tendrás nuevas formas de jugar que aportarán variedad y emoción al juego.\nNuevas ubicaciones increíbles\nJuega a los bolos en 13 ubicaciones alucinantes, desde sitios reales emblemáticos como el National Bowling Stadium de Reno, en Nevada; hasta lugares llenos de imaginación, como los bolos submarinos. Esta edición añade 2 ubicaciones completamente nuevas, y las 11 ubicaciones populares que vuelven han sido remasterizadas para ofrecer la experiencia más auténtica e impresionante hasta el momento.\nHazte con un arsenal de bolas\nCada bola se ha recreado para replicar de forma auténtica sus propias características de efecto y materiales, sin necesidad de mejoras ni transacciones dentro del juego. Hazte tu arsenal perfecto acorde a las condiciones de las pistas y desbloquea nuevas bolas a medida que avances en el modo profesional. Hay un total de 272 bolas por coleccionar, con bolas reales de las marcas que más te gustan, 100 bolas completamente nuevas y, por primera vez, bolas animadas que harán que tu colección sea única.\nJuega contra los profesionales\nEnfréntate a 32 de las estrellas actuales de la PBA, todas ellas recreadas con un nuevo diseño de personajes moderno. Desafía tanto a leyendas como a estrellas en ciernes, entre las que se añaden 7 nuevas como Packy Hanrahan, AJ Johnson y Kyle Sherman, y pon a prueba tus habilidades contra los mejores en este deporte.\nLicencia de PBA y comentarios de televisión oficiales\nPBA Pro Bowling 2026 tiene la licencia oficial de la Pro Bowlers Association e incluye en el juego los comentarios del equipo de televisión de Rob Stone y Randy Pedersen, miembro del salón de la fama.\n",
+      "shortDescription": "PBA Pro Bowling ha vuelto con PBA Pro Bowling 2026, el mejor juego de bolos de la historia. No se trata de una mera actualización: es un juego completamente nuevo, reinventado y creado desde cero. Juega a un extenso modo profesional con un creador de personajes de lo más versátil, o anímate a competir con amigos y rivales en línea. Experimenta el mejor sistema de juego hasta el momento con físicas de bolas y bolos actualizadas, una simulación de patrones de aceitado mejorada y unos tipos de patrones de aceitado realistas. Con nuevos modos de juego, ubicaciones, profesionales, bolas, objetivos diarios y más, PBA Pro Bowling 2026 es el juego de bolos definitivo, y contiene todo lo que podrían desear fans y jugadores.",
+      "developer": "FarSight Studios",
+      "publisher": "FarSight Studios",
+      "imageUrl": "https://store-images.s-microsoft.com/image/apps.52979.14276876348664667.9e0ca272-03d8-4736-b77b-d1224ceb323a.0a60754b-ec9d-4c8b-93bc-87a7abd5bfca",
+      "heroImage": "https://store-images.s-microsoft.com/image/apps.14347.14276876348664667.9e0ca272-03d8-4736-b77b-d1224ceb323a.3e098c80-9fc8-48d6-bd57-a281a8ff5168",
+      "screenshots": [
+        "https://store-images.s-microsoft.com/image/apps.21002.14276876348664667.9e0ca272-03d8-4736-b77b-d1224ceb323a.4584b35a-28ac-414b-a5d9-1b45d2368fa9",
+        "https://store-images.s-microsoft.com/image/apps.22521.14276876348664667.9e0ca272-03d8-4736-b77b-d1224ceb323a.5d3c659b-1d95-481f-8609-675a47664120",
+        "https://store-images.s-microsoft.com/image/apps.29058.14276876348664667.9e0ca272-03d8-4736-b77b-d1224ceb323a.080ac81d-e4a2-41d8-8c0b-534d66d04cd4",
+        "https://store-images.s-microsoft.com/image/apps.57085.14276876348664667.9e0ca272-03d8-4736-b77b-d1224ceb323a.73521a77-fc54-4701-9cd5-01b56c4158f7"
+      ],
+      "videoUrl": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftassets/71038cde-8ee6-4ab2-a7e9-edb114e11b2c-AVS.m3u8?packagedStreaming=true",
+      "videoCaption": "Teaser Video",
+      "releaseDate": "2025-12-18",
+      "categories": [
+        "Deportes",
+        "Niños y familia",
+        "Otros",
+        "Simulación"
+      ],
+      "tiers": [
+        "pc",
+        "premium",
+        "ultimate"
+      ],
+      "platform": "both",
+      "price": 39.99,
+      "msrp": 39.99,
+      "currency": "EUR",
+      "hasDiscount": false,
+      "discountPercent": 0,
+      "rating": 0,
+      "ratingCount": 0,
+      "ageRating": 3,
+      "pegiRating": "PEGI 3",
+      "pegiDescription": "Apropiado a partir de 3 años",
+      "interactiveDescriptions": [],
+      "capabilities": [
+        "Multijugador local de Xbox (2-4)",
+        "Multijugador en línea  (2-2)",
+        "Multijugador multiplataforma de Xbox",
+        "4K Ultra HD",
+        "Un jugador",
+        "Optimizado para Xbox Series X|S",
+        "Mouse y teclado de la consola",
+        "Logros de Xbox",
+        "Cosas guardadas en la nube de Xbox",
+        "Xbox Play Anywhere"
+      ],
+      "systemRequirements": [
+        {
+          "title": "SO",
+          "minimum": "Windows 10 version 18362.0 or higher",
+          "recommended": "Windows 10 version 18362.0 or higher"
+        },
+        {
+          "title": "Arquitectura",
+          "minimum": "x64",
+          "recommended": "x64"
+        },
+        {
+          "title": "Gráficos",
+          "minimum": "Nvidia GeForce GTX 1060 or AMD RX 580",
+          "recommended": " Nvidia GeForce RTX 2080 or AMD RX 6800"
+        },
+        {
+          "title": "Procesador",
+          "minimum": " Intel i5 2500K or AMD FX-8350",
+          "recommended": "Intel i5 12600 or AMD Ryzen 3600X"
+        },
+        {
+          "title": "DirectX",
+          "minimum": "API de DirectX 12, nivel de característica de hardware 12",
+          "recommended": "API de DirectX 12, nivel de característica de hardware 12"
+        },
+        {
+          "title": "Memoria",
+          "minimum": "8 GB",
+          "recommended": "16 GB"
+        },
+        {
+          "title": "Controladora",
+          "minimum": "",
+          "recommended": "Controladora de Xbox"
+        }
+      ],
+      "maxInstallSize": 12984205312,
+      "hasAddOns": true,
+      "storeUrl": "https://www.xbox.com/es-es/games/store/pba-pro-bowling-2026/9PJRQHMCFQGS"
     },
     {
       "id": "BSCCQL7DZ9KD",
@@ -39932,11 +40001,11 @@
         "ultimate"
       ],
       "platform": "both",
-      "price": 19.99,
+      "price": 14.99,
       "msrp": 19.99,
       "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
+      "hasDiscount": true,
+      "discountPercent": 25,
       "rating": 4.8,
       "ratingCount": 32,
       "ageRating": 12,
@@ -40057,8 +40126,7 @@
         "Cooperación local de Xbox (2-4)",
         "Cooperativo en línea  (2-4)",
         "Multijugador local de Xbox (2-2)",
-        "Multijugador en línea  (2-26)",
-        "FPS Boost Series X | S"
+        "Multijugador en línea  (2-26)"
       ],
       "systemRequirements": [
         {
@@ -40166,8 +40234,7 @@
         "Multijugador en línea  (2-24)",
         "4K Ultra HD",
         "HDR10",
-        "Pantalla dividida o compartida",
-        "FPS Boost Series X | S"
+        "Pantalla dividida o compartida"
       ],
       "systemRequirements": [
         {
@@ -40576,7 +40643,7 @@
           "recommended": "Controladora de Xbox"
         }
       ],
-      "maxInstallSize": 10060374016,
+      "maxInstallSize": 10010238976,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/powerwash-simulator-2/9P45GGDTFNSM"
     },
@@ -40622,8 +40689,7 @@
         "Logros de Xbox",
         "Presencia de Xbox",
         "Clubs de Xbox",
-        "Cosas guardadas en la nube de Xbox",
-        "FPS Boost Series X | S"
+        "Cosas guardadas en la nube de Xbox"
       ],
       "systemRequirements": [
         {
@@ -44447,8 +44513,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 4.3,
-      "ratingCount": 32,
+      "rating": 4.2,
+      "ratingCount": 33,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -44733,9 +44799,7 @@
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
       "interactiveDescriptions": [],
-      "capabilities": [
-        "FPS Boost Series X | S"
-      ],
+      "capabilities": [],
       "systemRequirements": [
         {
           "title": "Arquitectura",
@@ -46283,7 +46347,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.3,
-      "ratingCount": 526,
+      "ratingCount": 527,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -47090,7 +47154,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.3,
-      "ratingCount": 361,
+      "ratingCount": 362,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -47457,8 +47521,7 @@
         "Multijugador en línea  (8-40)",
         "HDR10",
         "Pantalla dividida o compartida",
-        "Xbox One X mejorado",
-        "FPS Boost Series X"
+        "Xbox One X mejorado"
       ],
       "systemRequirements": [
         {
@@ -48779,7 +48842,7 @@
           "recommended": "Controladora de Xbox"
         }
       ],
-      "maxInstallSize": 14710427648,
+      "maxInstallSize": 14708506624,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/subnautica-2-game-preview/9PJPCB188SVG"
     },
@@ -49080,8 +49143,7 @@
         "Presencia de Xbox",
         "Clubs de Xbox",
         "Cosas guardadas en la nube de Xbox",
-        "Xbox Play Anywhere",
-        "FPS Boost Series X | S"
+        "Xbox Play Anywhere"
       ],
       "systemRequirements": [
         {
@@ -50063,8 +50125,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 3.7,
-      "ratingCount": 23,
+      "rating": 3.8,
+      "ratingCount": 24,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -50653,10 +50715,10 @@
       "imageUrl": "https://store-images.s-microsoft.com/image/apps.7753.13917104365848520.a4bd4730-c578-4118-a439-d16f88dde25a.b8d20204-e6cf-4c18-a714-53e1fbb53591",
       "heroImage": "https://store-images.s-microsoft.com/image/apps.38282.13917104365848520.a4bd4730-c578-4118-a439-d16f88dde25a.44b2ea97-4aef-4233-a76d-cffc0db061a0",
       "screenshots": [
+        "https://store-images.s-microsoft.com/image/apps.65045.13917104365848520.341eb5c3-f24f-4ac7-9edc-635f72e40d99.74bbd490-215e-4cfe-9a4b-f540e3d42b5e",
         "https://store-images.s-microsoft.com/image/apps.8071.13917104365848520.b7d988de-8e4d-43dd-920b-51aade417090.3206c511-10a0-4bb9-b3c9-7f2a8189dbd4",
         "https://store-images.s-microsoft.com/image/apps.53243.13917104365848520.b7d988de-8e4d-43dd-920b-51aade417090.635feae9-95e4-4f92-934a-daac0f74fe54",
-        "https://store-images.s-microsoft.com/image/apps.31231.13917104365848520.b7d988de-8e4d-43dd-920b-51aade417090.fb64a8a7-45cd-4470-bd92-635c5612720e",
-        "https://store-images.s-microsoft.com/image/apps.16125.13917104365848520.b7d988de-8e4d-43dd-920b-51aade417090.a55e41e6-6bf8-4477-a0d4-a99813028293"
+        "https://store-images.s-microsoft.com/image/apps.31231.13917104365848520.b7d988de-8e4d-43dd-920b-51aade417090.fb64a8a7-45cd-4470-bd92-635c5612720e"
       ],
       "videoUrl": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftassets/9853e09d-a66b-4be1-a7be-3bc9c9b7f054-AVS.m3u8?packagedStreaming=true",
       "videoCaption": "Free major content update",
@@ -50676,7 +50738,7 @@
       "hasDiscount": true,
       "discountPercent": 50,
       "rating": 4.6,
-      "ratingCount": 188,
+      "ratingCount": 189,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -50746,7 +50808,7 @@
           "recommended": "Controladora de Xbox"
         }
       ],
-      "maxInstallSize": 61482135552,
+      "maxInstallSize": 68911894528,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/the-alters/9N0P25WJHM8C"
     },
@@ -52021,7 +52083,7 @@
           "recommended": "4 GB"
         }
       ],
-      "maxInstallSize": 189787717632,
+      "maxInstallSize": 189787500544,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/the-elder-scrolls-online-standard-edition/BRKX5CRMRTC2"
     },
@@ -52371,8 +52433,7 @@
         "Logros de Xbox",
         "Presencia de Xbox",
         "Clubs de Xbox",
-        "Cosas guardadas en la nube de Xbox",
-        "FPS Boost Series X | S"
+        "Cosas guardadas en la nube de Xbox"
       ],
       "systemRequirements": [
         {
@@ -52494,8 +52555,8 @@
         "https://store-images.s-microsoft.com/image/apps.17657.14187080498030026.011bb85e-7d87-44d7-9c64-267898a423ea.a5ae4b87-26d3-4d36-bc92-84f402001eca",
         "https://store-images.s-microsoft.com/image/apps.14238.14187080498030026.011bb85e-7d87-44d7-9c64-267898a423ea.672c15a0-1c95-4c53-afc9-439bfd55873f"
       ],
-      "videoUrl": "",
-      "videoCaption": "",
+      "videoUrl": "https://cdn.trailers.xboxservices.com/trailers/00000000-0000-0000-0000-000000000000/xbox/prod/videos/mainprofile/14187080498030026/8c32e21c-8caf-4307-93fc-7843102dc4d4/manifest.m3u8",
+      "videoCaption": "THE FINALS - Season 11 Launch Trailer",
       "releaseDate": "2023-12-08",
       "categories": [
         "Shooter"
@@ -54192,8 +54253,7 @@
       "interactiveDescriptions": [],
       "capabilities": [
         "Multijugador en línea  (2-16)",
-        "Xbox One X mejorado",
-        "FPS Boost Series X | S"
+        "Xbox One X mejorado"
       ],
       "systemRequirements": [
         {
@@ -54862,8 +54922,7 @@
         "4K Ultra HD",
         "Un jugador",
         "Xbox One X mejorado",
-        "Logros de Xbox",
-        "FPS Boost Series X | S"
+        "Logros de Xbox"
       ],
       "systemRequirements": [
         {
@@ -55517,8 +55576,7 @@
         "Presencia de Xbox",
         "Clubs de Xbox",
         "Cosas guardadas en la nube de Xbox",
-        "Xbox Play Anywhere",
-        "FPS Boost Series X | S"
+        "Xbox Play Anywhere"
       ],
       "systemRequirements": [
         {
@@ -56562,8 +56620,7 @@
         "Logros de Xbox",
         "Presencia de Xbox",
         "Clubs de Xbox",
-        "Cosas guardadas en la nube de Xbox",
-        "FPS Boost Series X | S"
+        "Cosas guardadas en la nube de Xbox"
       ],
       "systemRequirements": [
         {
@@ -57982,7 +58039,7 @@
           "recommended": "Mouse integrado"
         }
       ],
-      "maxInstallSize": 77555638272,
+      "maxInstallSize": 77631901696,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/war-thunder/BX1DTCBD1HXJ"
     },
@@ -58428,7 +58485,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.3,
-      "ratingCount": 249,
+      "ratingCount": 250,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -58779,8 +58836,7 @@
         "Logros de Xbox",
         "Presencia de Xbox",
         "Clubs de Xbox",
-        "Cosas guardadas en la nube de Xbox",
-        "FPS Boost Series X | S"
+        "Cosas guardadas en la nube de Xbox"
       ],
       "systemRequirements": [
         {
@@ -59181,8 +59237,7 @@
         "Cooperativo en línea  (2-2)",
         "Multijugador en línea  (2-4)",
         "Un jugador",
-        "Logros de Xbox",
-        "FPS Boost Series X | S"
+        "Logros de Xbox"
       ],
       "systemRequirements": [
         {
@@ -59453,8 +59508,7 @@
         "Cooperativo en línea  (2-8)",
         "Multijugador en línea  (2-8)",
         "Un jugador",
-        "Logros de Xbox",
-        "FPS Boost Series X | S"
+        "Logros de Xbox"
       ],
       "systemRequirements": [
         {
@@ -60037,8 +60091,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 2.1,
-      "ratingCount": 14,
+      "rating": 2,
+      "ratingCount": 15,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -61347,7 +61401,7 @@
           "recommended": "4 GB"
         }
       ],
-      "maxInstallSize": 88015736832,
+      "maxInstallSize": 88175108096,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/world-of-warships/9NK9K07FDPJV"
     },
@@ -61859,8 +61913,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 2.9,
-      "ratingCount": 19,
+      "rating": 3,
+      "ratingCount": 23,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -62070,7 +62124,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4,
-      "ratingCount": 79,
+      "ratingCount": 80,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
