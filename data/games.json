@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-07-17T09:44:17.161Z",
+  "updatedAt": "2026-07-18T09:14:56.901Z",
   "market": "ES",
   "language": "es-ES",
-  "totalGames": 824,
+  "totalGames": 826,
   "counts": {
     "essential": 127,
     "premium": 577,
-    "pc": 510,
-    "ultimate": 732,
-    "total": 824
+    "pc": 511,
+    "ultimate": 733,
+    "total": 826
   },
   "categories": [
     "Acción y aventura",
@@ -775,8 +775,8 @@
       "currency": "EUR",
       "hasDiscount": true,
       "discountPercent": 25,
-      "rating": 4.7,
-      "ratingCount": 39,
+      "rating": 4.6,
+      "ratingCount": 40,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -842,8 +842,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 3.4,
-      "ratingCount": 14,
+      "rating": 3.3,
+      "ratingCount": 15,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -1254,7 +1254,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 105430941696,
+      "maxInstallSize": 105434042368,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/age-of-empires-iv-edici-n-aniversario/9PHH1ZWRSZ41"
     },
@@ -1352,7 +1352,7 @@
           "recommended": "4 GB"
         }
       ],
-      "maxInstallSize": 103673946112,
+      "maxInstallSize": 103670935552,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/age-of-empires-iv-edici-n-aniversario/9N94NCGM1Q2N"
     },
@@ -2320,7 +2320,7 @@
       "hasDiscount": true,
       "discountPercent": 20,
       "rating": 3.1,
-      "ratingCount": 92,
+      "ratingCount": 93,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -2421,8 +2421,8 @@
       "currency": "EUR",
       "hasDiscount": true,
       "discountPercent": 60,
-      "rating": 3.3,
-      "ratingCount": 23,
+      "rating": 3.4,
+      "ratingCount": 22,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -2581,7 +2581,7 @@
           "recommended": "Controladora de Xbox"
         }
       ],
-      "maxInstallSize": 213522124800,
+      "maxInstallSize": 214165581824,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/ark-survival-ascended/9P33VJGVPHVP"
     },
@@ -3070,7 +3070,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.7,
-      "ratingCount": 21081,
+      "ratingCount": 21084,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -5550,7 +5550,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 2,
-      "ratingCount": 114,
+      "ratingCount": 115,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -5828,7 +5828,7 @@
       "hasDiscount": true,
       "discountPercent": 65,
       "rating": 4.3,
-      "ratingCount": 133,
+      "ratingCount": 134,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -6910,7 +6910,7 @@
           "recommended": "Controladora de Xbox"
         }
       ],
-      "maxInstallSize": 7603548160,
+      "maxInstallSize": 1970483200,
       "hasAddOns": false,
       "storeUrl": "https://www.xbox.com/es-es/games/store/beatdown-city-survivors/9N4X39HZ1CSQ"
     },
@@ -8302,7 +8302,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.4,
-      "ratingCount": 112,
+      "ratingCount": 113,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -8450,7 +8450,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.4,
-      "ratingCount": 29,
+      "ratingCount": 30,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -10836,7 +10836,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.2,
-      "ratingCount": 212,
+      "ratingCount": 213,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -12530,7 +12530,7 @@
       "hasDiscount": true,
       "discountPercent": 70,
       "rating": 4.3,
-      "ratingCount": 700,
+      "ratingCount": 701,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -12802,7 +12802,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.3,
-      "ratingCount": 245,
+      "ratingCount": 246,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -12832,7 +12832,7 @@
           "recommended": "Controladora de Xbox"
         }
       ],
-      "maxInstallSize": 74197315584,
+      "maxInstallSize": 74965688320,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/dead-by-daylight/C0N22P73QZ60"
     },
@@ -12936,7 +12936,7 @@
           "recommended": "Controladora de Xbox"
         }
       ],
-      "maxInstallSize": 62452445184,
+      "maxInstallSize": 63090155520,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/dead-by-daylight-windows/9NMS4SFNBGBH"
     },
@@ -14143,8 +14143,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 4,
-      "ratingCount": 12,
+      "rating": 3.7,
+      "ratingCount": 15,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -17091,7 +17091,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.8,
-      "ratingCount": 66,
+      "ratingCount": 67,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -17448,7 +17448,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 2.2,
-      "ratingCount": 157,
+      "ratingCount": 159,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -19573,7 +19573,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.3,
-      "ratingCount": 268,
+      "ratingCount": 269,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -20322,7 +20322,7 @@
       "hasDiscount": true,
       "discountPercent": 85,
       "rating": 4.4,
-      "ratingCount": 189,
+      "ratingCount": 190,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -22018,6 +22018,86 @@
       "storeUrl": "https://www.xbox.com/es-es/games/store/firewatch/BQQKG9H2STC0"
     },
     {
+      "id": "9P2PP895LSBJ",
+      "title": "Fogpiercer",
+      "description": "Una niebla mortal se está propagando por el mundo, ¡y el futuro de la humanidad está en tus manos! Monta tu tren para crear tu mazo inicial, traza tu ruta a través de un mundo donde los bandidos campan a sus anchas y prepárate para librar emocionantes batallas por turnos en las que las tácticas, las sinergias poderosas, un posicionamiento inteligente y las reacciones en cadena planificadas determinarán quién gana.\n\nDISEÑA TU MAZO\nElige entre distintas locomotoras, vagones y maquinistas para liderar tu expedición. Con cada decisión que tomes, recibirás un conjunto diferente de cartas para tu mazo inicial, modificando las opciones y habilidades que podrás utilizar durante la partida. Consigue recursos con los que mejorar o comprar vagones adicionales que aporten más herramientas tácticas a tu mazo mientras te abres paso entre la bruma y te enfrentas a un creciente abanico de enemigos con armas, rasgos, fortalezas y debilidades diferentes. ¿Aprovecharás la dispersión y la potencia de fuego de la ametralladora para acabar rápidamente con tus enemigos? ¿Confiarás en la artillería para desviar a los vehículos que van tras de ti? ¿U optarás por protegerte tras escudos y embestir a tus enemigos?\n\nDesde hackers con la capacidad de desplegar señuelos y asumir el control de vehículos enemigos hasta grúas que los empujan por el campo de batalla, tienes a tu disposición varias formas diferentes de acabar con la amenaza que representan los bandidos y sus líderes. Consigue mejoras de cartas únicas y prueba combinaciones insólitas para descubrir sinergias poderosas, asumiendo los riesgos y oportunidades que conlleve cada una de ellas.\n\nCOMBATES A UNA VELOCIDAD DE VÉRTIGO\nTendrás una cantidad limitada de puntos de acción por turno, por lo que una planificación meticulosa y una ejecución cuidadosa serán los factores que igualen las cosas al enfrentarte a un enemigo que no parará de rodearte y te superará en número. Fuerza a tus enemigos a tropezar con los peligros del entorno, empújalos acantilado abajo y provoca choques entre ellos, o también puedes engañarlos para que se ataquen entre ellos mientras te anticipas a sus movimientos y elaboras tu propia estrategia. Hacer un uso inteligente del carbón y disparar tu artillería con destreza podría obligar a un enemigo a subirse a las vías delante de ti para acabar aplastado bajo tus ruedas segundos después. O podrías usar ese mismo disparo para destruir a uno de los vehículos que vaya en cabeza y hacerlo rodar hacia atrás para dañar (y con suerte destruir) a todos los que vayan tras él, usando previamente cartas de hackeo con las que puedes colocar más vehículos a la cola. El orden de las acciones será decisivo para devastar los convoyes enemigos.\n\nTendrás a tu disposición más de 170 cartas con diferentes efectos de estado, habilidades de apoyo, daño y mucho más, así que construye un tren que se adapte a tu estilo de juego y desbloquea grandes oportunidades. Los daños colaterales, las reacciones en cadena y la manipulación del campo de batalla serán factores críticos parar hacerte con la victoria.\n\n¡PASAJEROS AL TREN!\nViaja de una región a otra en busca del fin de la niebla, decidiendo qué camino tomar en función de los modificadores específicos de cada región y las recompensas especiales que esta ofrezca. Las rutas ramificadas dentro de una región te permitirán ajustar el rumbo hacia la última parada según los riesgos y las recompensas, desde campos de batalla hasta estaciones de paso tranquilas en las que mejorar y reparar el tren.\n\nCada campo de batalla es completamente diferente: en algunos, un aliado acudirá en tu ayuda; en otros, tendrás menos espacio en el que moverte y esquivar al enemigo; mientras que otros pueden desarrollarse al borde de un acantilado, lo que supone un peligro ambiental constante que puedes usar a tu favor. Muchos campos de batalla incluirán una combinación de factores que pueden facilitarte o dificultarte el avance, recompensándote con cartas adicionales, modificadores y chatarra que usar en tu periplo. Puedes reparar los vagones y la locomotora en los desguaces y depósitos, lo que te dará la oportunidad de mejorarlos y desbloquear cartas adicionales, o comprar y vender vagones para modificar tu mazo. Además, los encuentros aleatorios pueden suponer grandes oportunidades en paisajes que, de otro modo, serían implacables. Las batallas contra jefes al final de cada región te enfrentarán a personajes especiales, cada uno con su propia historia y habilidades únicas.\n\nLa metaprogresión te permitirá desbloquear vagones, maquinistas y locomotoras adicionales para buscar nuevas combinaciones y oportunidades para futuras partidas, o centrarte en mejorar tus preferidos y desbloquear aún más cartas que usar en combate. Los bandidos son implacables y despiadados, y aunque las decisiones que tomes durante una partida tendrán un impacto significativo, las que tomes entre partida y partida pueden desbloquear opciones completamente nuevas.\n\nFogpiercer te pone a la cabeza de un tren desenfrenado que avanza en busca de la seguridad y el futuro de la humanidad: lánzate a las intensas batallas tácticas por turnos en las que te superarán en número y armamento constantemente, pero planifica tu estrategia con astucia y encuentra una manera de mantener las cosas encarriladas.",
+      "shortDescription": "Lucha a través de la niebla en este juego de construcción de mazos roguelike de ciencia ficción en el que posicionarte con astucia, las reacciones en cadena explosivas y el propio entorno pueden marcar la diferencia entre la vida y la muerte.",
+      "developer": "Mad Cookies Studio",
+      "publisher": "Hooded Horse",
+      "imageUrl": "https://store-images.s-microsoft.com/image/apps.30769.14553435086111963.df80ae9a-2226-4cc1-99bb-24cdb3f4b8a2.d7d9d753-bb3c-402e-be3d-d3ebca41ed95",
+      "heroImage": "https://store-images.s-microsoft.com/image/apps.25959.14553435086111963.df80ae9a-2226-4cc1-99bb-24cdb3f4b8a2.243400c9-a25e-4b28-a77d-380956e23ce3",
+      "screenshots": [
+        "https://store-images.s-microsoft.com/image/apps.52129.14553435086111963.df80ae9a-2226-4cc1-99bb-24cdb3f4b8a2.f3f1c266-51ab-479c-9134-e3a9150a7e8b",
+        "https://store-images.s-microsoft.com/image/apps.7111.14553435086111963.df80ae9a-2226-4cc1-99bb-24cdb3f4b8a2.8f5872e0-5d59-46a3-a4d1-caffab12dbc8",
+        "https://store-images.s-microsoft.com/image/apps.1976.14553435086111963.df80ae9a-2226-4cc1-99bb-24cdb3f4b8a2.8d073b42-0645-4229-909b-0f459388176c",
+        "https://store-images.s-microsoft.com/image/apps.2365.14553435086111963.df80ae9a-2226-4cc1-99bb-24cdb3f4b8a2.fcc5a20d-cd8f-49e0-a4f5-9b7ef7c64796"
+      ],
+      "videoUrl": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftassets/a9126c00-affd-4362-80b9-347a253f2a61-AVS.m3u8?packagedStreaming=true",
+      "videoCaption": "Release Date Announcement Trailer",
+      "releaseDate": "2026-07-17",
+      "categories": [
+        "Estrategia",
+        "Juegos de rol",
+        "Juegos de mesa"
+      ],
+      "tiers": [
+        "pc",
+        "ultimate"
+      ],
+      "platform": "pc",
+      "price": 19.99,
+      "msrp": 19.99,
+      "currency": "EUR",
+      "hasDiscount": false,
+      "discountPercent": 0,
+      "rating": 0,
+      "ratingCount": 0,
+      "ageRating": 7,
+      "pegiRating": "PEGI 7",
+      "pegiDescription": "Apropiado a partir de 7 años",
+      "interactiveDescriptions": [],
+      "capabilities": [
+        "Un jugador",
+        "Logros de Xbox",
+        "Cosas guardadas en la nube de Xbox"
+      ],
+      "systemRequirements": [
+        {
+          "title": "SO",
+          "minimum": "Windows 10 version 18362.0 or higher",
+          "recommended": "Windows 10 version 18362.0 or higher"
+        },
+        {
+          "title": "Arquitectura",
+          "minimum": "x64",
+          "recommended": "x64"
+        },
+        {
+          "title": "Gráficos",
+          "minimum": "NVIDIA® GeForce® GTX 960 (4 GB) / AMD® Radeon™ RX 570 (4 GB)",
+          "recommended": "NVIDIA® GeForce® GTX 1060 (6 GB) / AMD® Radeon™ RX 5500 XT (8 GB)"
+        },
+        {
+          "title": "Procesador",
+          "minimum": "Intel® Core™ i5-4670 (quad-core)  / AMD® FX-Series™ FX-8300 (quad-core)",
+          "recommended": "Intel® Core™ i5-7700K (quad-core) / AMD® Ryzen™ 5 1500X (quad-core)"
+        },
+        {
+          "title": "DirectX",
+          "minimum": "API de DirectX 12, nivel de característica de hardware 12",
+          "recommended": "API de DirectX 12, nivel de característica de hardware 12"
+        },
+        {
+          "title": "Memoria",
+          "minimum": "4 GB",
+          "recommended": "8 GB"
+        }
+      ],
+      "maxInstallSize": 1329876992,
+      "hasAddOns": false,
+      "storeUrl": "https://www.xbox.com/es-es/games/store/fogpiercer/9P2PP895LSBJ"
+    },
+    {
       "id": "9PD0Z90216RJ",
       "title": "Football Manager 26",
       "description": "YA DISPONIBLE – JUEGA HOY MISMO\nTenemos unos nuevos cimientos que sientan las bases para que definas tu destino futbolístico. Hecho con el motor Unity, FM26 es nuestra esencia de siempre, ahora redefinida y con historias que evolucionan. \nUna interfaz renovada y una experiencia de día de partido más inmersiva que te acercan más a la acción y se combinan para mejorar cada momento determinante del partido. \nTransforma tu equipo con herramientas de traspaso avanzadas y desarrolla una filosofía futbolística como nunca antes mediante nuevas innovaciones que ofrecen un realismo táctico inigualable que cambiará el juego.  \n\nCONQUISTA LA COPA MUNDIAL DE LA FIFA 2026™\nEl mayor título internacional del fútbol está a tu alcance. Explora nuevas herramientas para gestionar selecciones nacionales en la Copa Mundial de la FIFA 2026™, que ya cuenta con licencia oficial e incluye los grafismos de las retransmisiones, la imagen de marca, los balones y las equipaciones reales.\n\nLA MEJOR EXPERIENCIA DEL DÍA DEL PARTIDO \nDisfruta de la experiencia del día del partido más completa en la historia de la saga para aumentar el nivel de profundidad y tensión de cada partido con movimientos de los jugadores mejorados y más detalles en el campo.  \nSiente la adrenalina de una carrera sorteando adversarios, un milimétrico pase al hueco y un gol inolvidable para conseguir el título en el último suspiro con más personalidad gracias a la nueva captura de movimiento y las animaciones volumétricas.\n\nLA PREMIER LEAGUE SALTA A LA ACCIÓN  \nCompite en la cima del fútbol inglés ahora que la Premier League debuta con escudos de clubes, equipaciones y fotos oficiales de jugadores con licencia completa. \nLa autenticidad llega a nuevas cotas mientras tratas de alcanzar el trofeo más importante a nivel de ligas con una experiencia de transmisión completa desde el mejor asiento disponible.  \n\nINNOVACIÓN TÁCTICA AVANZADA\nEjerce un control nunca antes visto en todo el césped con la introducción de formaciones varias con y sin posesión.\nLos roles de los jugadores redefinidos y un visualizador dinámico que muestra cómo se desenvuelve tu equipo en distintas situaciones te ayudan a mejorar cada vez más tu preparación de los partidos.\n\nFÚTBOL TOTAL, CONTROL TOTAL  \nUna revolucionaria renovación de la interfaz de usuario al servicio del mánager moderno aporta claridad y fluidez a cada interacción, con el nuevo portal como vía de acceso al resto del mundo del fútbol. \nAdapta el juego a tus prioridades con los nuevos enlaces rápidos favoritos y conoce mejor el deporte rey con la herramienta de búsqueda renovada y el nuevo glosario de la FMPedia. \n\nPRESENTAMOS EL FÚTBOL FEMENINO   \nExplora un nuevo mundo de posibilidades: el fútbol femenino debuta perfectamente integrado en FM con un solo mundo futbolístico. \nCon 14 ligas disponibles de 11 países, incluidas la Women's Super League y la National Women's Soccer League, hay nuevos desafíos y talentos que descubrir en cada carrera.\n\nHERRAMIENTAS DE TRASPASO TRANSFORMADORAS\nAprovecha el potencial de TransferRoom™ para confeccionar mejor tus plantillas ganadoras una temporada tras otra.\nComunica tus prioridades de contratación mediante los requisitos y obtén información de primera mano sobre las necesidades de tus rivales con las oportunidades de propuestas, que te brindan un control más específico sobre cada fichaje y venta.\n\nTU MÁNAGER A TU MANERA\nExpresa mejor tu personalidad y estilo en cada carrera con una experiencia de creación de mánager renovada. \nPlasma tu aspecto con un creador de personaje mejorado antes de desarrollar una historia de fondo para tu carrera que sea única para ti y que tenga una influencia única a lo largo de tu vida en los banquillos.\n\nEn FM26, el fútbol es tuyo y lo ves a tu manera. Es tu momento de cambiar el juego. \n\nAl utilizar este producto, aceptas esta licencia: https://games.sega.com/eula/?lang=es​\n\nMicrosoft ya no es compatible con Windows 10 o versiones anteriores\n\n* Dado que la aprobación de las licencias sigue en trámite, no todas las equipaciones de los equipos de la Copa Mundial de la FIFA 2026™ estarán disponibles con el lanzamiento de la función y algunas podrían llegar en fechas posteriores.\n",
@@ -22489,7 +22569,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.7,
-      "ratingCount": 4401,
+      "ratingCount": 4403,
       "ageRating": 12,
       "pegiRating": "Supervisión parental recomendada",
       "pegiDescription": "Supervisión parental recomendada",
@@ -22650,7 +22730,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.1,
-      "ratingCount": 295,
+      "ratingCount": 296,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -22706,7 +22786,7 @@
           "recommended": "Controladora de Xbox"
         }
       ],
-      "maxInstallSize": 168322211840,
+      "maxInstallSize": 168322375680,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/forza-horizon-6-standard-edition/9N431PX143P8"
     },
@@ -23353,7 +23433,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.6,
-      "ratingCount": 11244,
+      "ratingCount": 11245,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -23766,7 +23846,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.2,
-      "ratingCount": 101,
+      "ratingCount": 102,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -26099,7 +26179,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.4,
-      "ratingCount": 684,
+      "ratingCount": 685,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -27254,7 +27334,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.7,
-      "ratingCount": 709,
+      "ratingCount": 708,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -31500,8 +31580,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 3.1,
-      "ratingCount": 62,
+      "rating": 3.2,
+      "ratingCount": 64,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -31929,6 +32009,53 @@
       "maxInstallSize": 14083727360,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/mass-effect-2/C0Z1N477W100"
+    },
+    {
+      "id": "C040H652PD98",
+      "title": "Mass Effect™ 3",
+      "description": "Mass Effect 3 te lleva a una Guerra galactica para recuperar La Tierra de una especie alienigena imparable, depende de ti como luchar en esta Guerra. No puedes permitirte el lujo de perder porque su precio sería la extinción. Tú eres el Comandante Shepard, pero no estás solo, protégete con tu escuadrón o ve solo durante el camino hacia la batalla. ¿Irás a una distancia prudente pero por terrenos peligrosos, o al límite siguiendo las huellas de tus enemigos paro luego atacarles de forma devastadora? Mass Effect 3 reaccionará a cada decisión que tomes según vayas jugando durante la partida que has ido creando con una experiencia única e irrepetible.  El  8 de marzo del 2012 la lucha de La Tierra comenzará para Xbox 360.",
+      "shortDescription": "Mass Effect 3 te lleva a una Guerra galactica para recuperar La Tierra de una especie alienigena imparable, depende de ti como luchar en esta Guerra. No puedes permitirte el lujo de perder porque su precio sería la extinción.",
+      "developer": "BioWare™",
+      "publisher": "Electronic Arts Inc.",
+      "imageUrl": "https://store-images.s-microsoft.com/image/apps.26376.64611995315525881.f32f0f5b-8833-4bf4-afa8-9e589d13319f.6b4b9429-4f86-4b19-9f4b-d8d2639c0b2d",
+      "heroImage": "https://store-images.s-microsoft.com/image/apps.59057.64611995315525881.f32f0f5b-8833-4bf4-afa8-9e589d13319f.ef9535f7-c6d1-4b87-a450-02d4d01a78ba",
+      "screenshots": [
+        "https://store-images.s-microsoft.com/image/apps.36375.64611995315525881.f32f0f5b-8833-4bf4-afa8-9e589d13319f.e27b8bd5-b678-4c87-87ac-3ba30c9e0fd2",
+        "https://store-images.s-microsoft.com/image/apps.29511.64611995315525881.f32f0f5b-8833-4bf4-afa8-9e589d13319f.9a0f3efe-614f-429e-aae5-d48e4d2aebef",
+        "https://store-images.s-microsoft.com/image/apps.43906.64611995315525881.f32f0f5b-8833-4bf4-afa8-9e589d13319f.deb5643a-d79c-4f16-bcac-a1e40f7e8cd4",
+        "https://store-images.s-microsoft.com/image/apps.746.64611995315525881.f32f0f5b-8833-4bf4-afa8-9e589d13319f.01c65961-9026-4bd8-b623-9637669e1426"
+      ],
+      "videoUrl": "",
+      "videoCaption": "",
+      "releaseDate": "2012-03-06",
+      "categories": [
+        "Acción y aventura",
+        "Juegos de rol"
+      ],
+      "tiers": [],
+      "platform": "console",
+      "price": 19.99,
+      "msrp": 19.99,
+      "currency": "EUR",
+      "hasDiscount": false,
+      "discountPercent": 0,
+      "rating": 4.5,
+      "ratingCount": 38,
+      "ageRating": 18,
+      "pegiRating": "PEGI 18",
+      "pegiDescription": "Apropiado a partir de 18 años",
+      "interactiveDescriptions": [],
+      "capabilities": [],
+      "systemRequirements": [
+        {
+          "title": "Arquitectura",
+          "minimum": "x64",
+          "recommended": "x64"
+        }
+      ],
+      "maxInstallSize": 16558518272,
+      "hasAddOns": true,
+      "storeUrl": "https://www.xbox.com/es-es/games/store/mass-effect-3/C040H652PD98"
     },
     {
       "id": "9PKWHT7G60WQ",
@@ -32729,7 +32856,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.4,
-      "ratingCount": 176,
+      "ratingCount": 177,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -33259,7 +33386,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.7,
-      "ratingCount": 51299,
+      "ratingCount": 51304,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -33470,7 +33597,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.6,
-      "ratingCount": 555,
+      "ratingCount": 554,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -33642,7 +33769,7 @@
       "hasDiscount": true,
       "discountPercent": 60,
       "rating": 4,
-      "ratingCount": 15667,
+      "ratingCount": 15670,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -33837,7 +33964,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.5,
-      "ratingCount": 61226,
+      "ratingCount": 61233,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -35601,8 +35728,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 2.2,
-      "ratingCount": 17,
+      "rating": 2.1,
+      "ratingCount": 18,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -37139,8 +37266,8 @@
       "currency": "EUR",
       "hasDiscount": true,
       "discountPercent": 60,
-      "rating": 3.9,
-      "ratingCount": 765,
+      "rating": 3.8,
+      "ratingCount": 764,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -38616,7 +38743,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 1,
-      "ratingCount": 1,
+      "ratingCount": 2,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -38972,7 +39099,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.7,
-      "ratingCount": 409,
+      "ratingCount": 410,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -41105,7 +41232,7 @@
       "hasDiscount": true,
       "discountPercent": 75,
       "rating": 4.2,
-      "ratingCount": 1236,
+      "ratingCount": 1237,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -41252,8 +41379,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 3.1,
-      "ratingCount": 18,
+      "rating": 3,
+      "ratingCount": 19,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -42343,7 +42470,7 @@
           "recommended": "Controladora de Xbox"
         }
       ],
-      "maxInstallSize": 11107713024,
+      "maxInstallSize": 11177959424,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/rematch/9N5K7HWXL4Q6"
     },
@@ -42941,7 +43068,7 @@
       "hasDiscount": true,
       "discountPercent": 75,
       "rating": 4.7,
-      "ratingCount": 225,
+      "ratingCount": 226,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -44378,7 +44505,7 @@
       "hasDiscount": true,
       "discountPercent": 65,
       "rating": 3.7,
-      "ratingCount": 2986,
+      "ratingCount": 2984,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -45394,7 +45521,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 27513040896,
+      "maxInstallSize": 27513147392,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/smite-2/9NV8W1KJSQLL"
     },
@@ -46341,8 +46468,8 @@
       "currency": "EUR",
       "hasDiscount": true,
       "discountPercent": 65,
-      "rating": 3.4,
-      "ratingCount": 8,
+      "rating": 3.6,
+      "ratingCount": 9,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -48008,7 +48135,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.4,
-      "ratingCount": 60,
+      "ratingCount": 61,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -48922,7 +49049,7 @@
           "recommended": "Controladora de Xbox"
         }
       ],
-      "maxInstallSize": 2992967680,
+      "maxInstallSize": 1533628416,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/supermarket-simulator/9NR0GCBSLDW4"
     },
@@ -50427,7 +50554,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 60208635904,
+      "maxInstallSize": 60208545792,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/the-crew-motorfest-xbox-one/9PB5JN044BHZ"
     },
@@ -50486,7 +50613,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 85480452096,
+      "maxInstallSize": 85480378368,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/the-crew-motorfest-xbox-series-x-s/9NTB0ZG811GR"
     },
@@ -51608,7 +51735,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.7,
-      "ratingCount": 184,
+      "ratingCount": 185,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -54090,7 +54217,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 124914024448,
+      "maxInstallSize": 125205925888,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/tom-clancy-s-the-division-2/BVQ3V30ZXVT5"
     },
@@ -56005,7 +56132,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 4764868608,
+      "maxInstallSize": 4766568448,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/uno/BNSDHDK45KBR"
     },
@@ -57524,7 +57651,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.3,
-      "ratingCount": 250,
+      "ratingCount": 251,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -59133,8 +59260,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 2,
-      "ratingCount": 15,
+      "rating": 2.1,
+      "ratingCount": 16,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -60382,7 +60509,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.3,
-      "ratingCount": 610,
+      "ratingCount": 611,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -61025,7 +61152,7 @@
           "recommended": "Controladora de Xbox"
         }
       ],
-      "maxInstallSize": 122649444352,
+      "maxInstallSize": 122649665536,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/wuthering-waves/9P41GS5W1C6L"
     },
