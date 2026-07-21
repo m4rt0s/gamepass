@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-07-20T10:37:43.878Z",
+  "updatedAt": "2026-07-21T10:12:28.117Z",
   "market": "ES",
   "language": "es-ES",
-  "totalGames": 826,
+  "totalGames": 827,
   "counts": {
     "essential": 127,
-    "premium": 577,
-    "pc": 511,
-    "ultimate": 733,
-    "total": 826
+    "premium": 578,
+    "pc": 512,
+    "ultimate": 734,
+    "total": 827
   },
   "categories": [
     "Acción y aventura",
@@ -1548,7 +1548,7 @@
           "recommended": "Controladora de Xbox"
         }
       ],
-      "maxInstallSize": 8962478080,
+      "maxInstallSize": 8964743168,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/albion-online/9PDC9X7BKZR3"
     },
@@ -2319,8 +2319,8 @@
       "currency": "EUR",
       "hasDiscount": true,
       "discountPercent": 20,
-      "rating": 3.1,
-      "ratingCount": 95,
+      "rating": 3.2,
+      "ratingCount": 97,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -2581,7 +2581,7 @@
           "recommended": "Controladora de Xbox"
         }
       ],
-      "maxInstallSize": 214165692416,
+      "maxInstallSize": 214144897024,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/ark-survival-ascended/9P33VJGVPHVP"
     },
@@ -3070,7 +3070,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.7,
-      "ratingCount": 21086,
+      "ratingCount": 21088,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -4123,8 +4123,7 @@
         "Multijugador en línea  (2-4)",
         "Un jugador",
         "60 fps +",
-        "Logros de Xbox",
-        "FPS Boost Series X | S"
+        "Logros de Xbox"
       ],
       "systemRequirements": [
         {
@@ -4452,8 +4451,7 @@
         "HDR10",
         "Un jugador",
         "Xbox One X mejorado",
-        "Logros de Xbox",
-        "FPS Boost Series X | S"
+        "Logros de Xbox"
       ],
       "systemRequirements": [
         {
@@ -4765,8 +4763,7 @@
         "4K Ultra HD",
         "Un jugador",
         "Xbox One X mejorado",
-        "Logros de Xbox",
-        "FPS Boost Series X | S"
+        "Logros de Xbox"
       ],
       "systemRequirements": [
         {
@@ -4815,9 +4812,7 @@
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
       "interactiveDescriptions": [],
-      "capabilities": [
-        "FPS Boost Series X | S"
-      ],
+      "capabilities": [],
       "systemRequirements": [
         {
           "title": "Arquitectura",
@@ -6265,8 +6260,7 @@
         "Compras dentro del juego (Incluye artículos aleatorios)"
       ],
       "capabilities": [
-        "Multijugador en línea  (4-64)",
-        "FPS Boost Series X | S"
+        "Multijugador en línea  (4-64)"
       ],
       "systemRequirements": [
         {
@@ -8585,8 +8579,8 @@
       "currency": "EUR",
       "hasDiscount": true,
       "discountPercent": 60,
-      "rating": 1.8,
-      "ratingCount": 10,
+      "rating": 2.2,
+      "ratingCount": 13,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -8652,8 +8646,8 @@
       "currency": "EUR",
       "hasDiscount": true,
       "discountPercent": 60,
-      "rating": 2,
-      "ratingCount": 12,
+      "rating": 2.1,
+      "ratingCount": 14,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -8723,7 +8717,7 @@
       "hasDiscount": true,
       "discountPercent": 50,
       "rating": 1.7,
-      "ratingCount": 84,
+      "ratingCount": 85,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -13402,9 +13396,7 @@
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
       "interactiveDescriptions": [],
-      "capabilities": [
-        "FPS Boost Series X | S"
-      ],
+      "capabilities": [],
       "systemRequirements": [
         {
           "title": "Arquitectura",
@@ -13450,9 +13442,7 @@
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
       "interactiveDescriptions": [],
-      "capabilities": [
-        "FPS Boost Series X | S"
-      ],
+      "capabilities": [],
       "systemRequirements": [
         {
           "title": "Arquitectura",
@@ -14143,8 +14133,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 3.8,
-      "ratingCount": 16,
+      "rating": 3.9,
+      "ratingCount": 19,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -14201,7 +14191,7 @@
           "recommended": "Controladora de Xbox"
         }
       ],
-      "maxInstallSize": 10272743424,
+      "maxInstallSize": 10280935424,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/denshattack/9N18L56XHK8Z"
     },
@@ -15392,8 +15382,7 @@
       "capabilities": [
         "Un jugador",
         "Logros de Xbox",
-        "Cosas guardadas en la nube de Xbox",
-        "FPS Boost Series X | S"
+        "Cosas guardadas en la nube de Xbox"
       ],
       "systemRequirements": [
         {
@@ -15534,8 +15523,7 @@
       "interactiveDescriptions": [],
       "capabilities": [
         "4K Ultra HD",
-        "Xbox One X mejorado",
-        "FPS Boost Series X | S"
+        "Xbox One X mejorado"
       ],
       "systemRequirements": [
         {
@@ -15953,7 +15941,7 @@
           "recommended": "2 GB"
         }
       ],
-      "maxInstallSize": 1619169280,
+      "maxInstallSize": 1611378688,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/dome-keeper/9P8XKV2D5DZ5"
     },
@@ -16681,9 +16669,7 @@
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
       "interactiveDescriptions": [],
-      "capabilities": [
-        "FPS Boost Series X | S"
-      ],
+      "capabilities": [],
       "systemRequirements": [
         {
           "title": "Arquitectura",
@@ -16730,9 +16716,7 @@
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
       "interactiveDescriptions": [],
-      "capabilities": [
-        "FPS Boost Series X | S"
-      ],
+      "capabilities": [],
       "systemRequirements": [
         {
           "title": "Arquitectura",
@@ -16884,7 +16868,7 @@
       "hasDiscount": true,
       "discountPercent": 75,
       "rating": 3.8,
-      "ratingCount": 191,
+      "ratingCount": 192,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -18584,9 +18568,9 @@
       "discountPercent": 0,
       "rating": 3.6,
       "ratingCount": 32,
-      "ageRating": 18,
-      "pegiRating": "PEGI 18",
-      "pegiDescription": "Apropiado a partir de 18 años",
+      "ageRating": 16,
+      "pegiRating": "PEGI 16",
+      "pegiDescription": "Apropiado a partir de 16 años",
       "interactiveDescriptions": [
         "Interacción de usuarios"
       ],
@@ -19027,8 +19011,7 @@
       "interactiveDescriptions": [],
       "capabilities": [
         "4K Ultra HD",
-        "Xbox One X mejorado",
-        "FPS Boost Series X | S"
+        "Xbox One X mejorado"
       ],
       "systemRequirements": [
         {
@@ -19138,8 +19121,7 @@
         "Cooperativo en línea  (2-2)",
         "Multijugador local de Xbox (2-2)",
         "4K Ultra HD",
-        "Xbox One X mejorado",
-        "FPS Boost Series X | S"
+        "Xbox One X mejorado"
       ],
       "systemRequirements": [
         {
@@ -19334,8 +19316,7 @@
       "pegiDescription": "Apropiado a partir de 18 años",
       "interactiveDescriptions": [],
       "capabilities": [
-        "Xbox One X mejorado",
-        "FPS Boost Series X | S"
+        "Xbox One X mejorado"
       ],
       "systemRequirements": [
         {
@@ -19469,7 +19450,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.4,
-      "ratingCount": 1557,
+      "ratingCount": 1556,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -19596,7 +19577,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 134931107840,
+      "maxInstallSize": 136169811968,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/fallout-76/BS6WJ2L56B10"
     },
@@ -19634,7 +19615,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 2.8,
-      "ratingCount": 851,
+      "ratingCount": 852,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -19692,7 +19673,7 @@
           "recommended": "Controladora de Xbox"
         }
       ],
-      "maxInstallSize": 131879800832,
+      "maxInstallSize": 132621131776,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/fallout-76-pc/9NKGNMNK3K3Z"
     },
@@ -19812,9 +19793,7 @@
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
       "interactiveDescriptions": [],
-      "capabilities": [
-        "FPS Boost Series X | S"
-      ],
+      "capabilities": [],
       "systemRequirements": [
         {
           "title": "Arquitectura",
@@ -20330,8 +20309,7 @@
       "capabilities": [
         "Un jugador",
         "Optimizado para Xbox Series X|S",
-        "Logros de Xbox",
-        "FPS Boost Series X | S"
+        "Logros de Xbox"
       ],
       "systemRequirements": [
         {
@@ -22093,7 +22071,7 @@
           "recommended": "8 GB"
         }
       ],
-      "maxInstallSize": 1577095168,
+      "maxInstallSize": 1157857280,
       "hasAddOns": false,
       "storeUrl": "https://www.xbox.com/es-es/games/store/fogpiercer/9P2PP895LSBJ"
     },
@@ -22273,7 +22251,7 @@
     {
       "id": "9N3DWR830CVN",
       "title": "FOR HONOR - Standard Edition",
-      "description": "DOMINA THE ART OF BATTLE\r\nSiente la potencia de cada golpe con el sistema de control The Art of Battle. Blande el arma de acuerdo con tu estilo: el veloz Asesino, el potente Pesado, el versátil Vanguardia o el técnico Híbrido.\r\n\r\nUN JUEGO SIN FIN\r\n¡Disfruta de una experiencia en constante evolución con más de 30 héroes, cinco facciones, 18 mapas, eventos estacionales, miles de objetos, juego multiplataforma y mucho más! \r\n\r\nPERSONALIZA TUS HÉROES\r\n¡Desbloquea recompensas y personaliza tus héroes con miles de armas, emblemas y más!\r\n\r\nUNA CAMPAÑA MEMORABLE\r\nAtaca castillos y fortalezas en combates descomunales y enfréntate a jefes en intensos duelos.\r\n\r\n\r\n¡Elige la Ultimate Edition, con 12 héroes adicionales para disfrutar de la mejor experiencia!",
+      "description": "¡Juega gratis del 7/23 al 8/4! Además, si decides comprar el juego podrás conservar tu progreso.\n\nEste juego está optimizado para la próxima generación (resolución 4K, 60 FPS para Xbox Series X / 1080p para Xbox Series S). Puedes usar la función de guardado multiplataforma: tu perfil, incluyendo progresos, todas las compras e inventario, se compartirá de manera automática.\n\nDescubre For Honor, un nuevo y revolucionario juego de acción cuerpo a cuerpo desarrollado por Ubisoft Montreal en colaboración con otros estudios de Ubisoft.\n\n• CONTROLA A GUERREROS ÚNICOS\nElige tu favorito entre valientes Caballeros, brutales Vikingos y mortíferos Samuráis con armas y estilos de juego únicos.\n\n• UNA CAMPAÑA MEMORABLE\nAtaca castillos y fortalezas y enfréntate a jefes en intensos duelos para asegurar tu supervivencia.\n\n• CONQUISTA ENEMIGOS SOLO O CON AMIGOS\nFor Honor presenta un atractivo modo individual, una campaña offline y un emocionante multijugador.\n\n• INNOVADOR SISTEMA DE CONTROL \"ART OF BATTLE\". \nEmpuña tu arma y siente la potencia de cada golpe.\n\nSe requiere una conexión a internet, una cuenta de Ubisoft, una cuenta de Microsoft y Game Pass Ultimate o Core (suscripciones vendidas por separado) para acceder a las funciones/multijugador en línea.",
       "shortDescription": "Lucha solo o con amigos en For Honor, un juego de lucha cuerpo a cuerpo en tercera persona basado en héroes. Entra en el caos de la guerra como caballero, vikingo, samurái, Wu Lin o forastero. Lucha en brutales modos JcJ y por equipos, o vive una apasionante campaña.",
       "developer": "",
       "publisher": "Ubisoft",
@@ -22569,7 +22547,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.7,
-      "ratingCount": 4407,
+      "ratingCount": 4408,
       "ageRating": 12,
       "pegiRating": "Supervisión parental recomendada",
       "pegiDescription": "Supervisión parental recomendada",
@@ -22636,7 +22614,7 @@
       "hasDiscount": true,
       "discountPercent": 50,
       "rating": 3.6,
-      "ratingCount": 2584,
+      "ratingCount": 2585,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -22730,7 +22708,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.1,
-      "ratingCount": 296,
+      "ratingCount": 297,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -22823,7 +22801,7 @@
       "hasDiscount": true,
       "discountPercent": 50,
       "rating": 3.6,
-      "ratingCount": 1828,
+      "ratingCount": 1829,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -23433,7 +23411,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.6,
-      "ratingCount": 11247,
+      "ratingCount": 11246,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -23572,8 +23550,7 @@
         "Multijugador multiplataforma de Xbox",
         "Un jugador",
         "Pantalla dividida o compartida",
-        "Cooperación multiplataforma de Xbox",
-        "FPS Boost Series X | S"
+        "Cooperación multiplataforma de Xbox"
       ],
       "systemRequirements": [
         {
@@ -23632,8 +23609,7 @@
         "Un jugador",
         "Pantalla dividida o compartida",
         "Cooperación multiplataforma de Xbox",
-        "Xbox One X mejorado",
-        "FPS Boost Series X | S"
+        "Xbox One X mejorado"
       ],
       "systemRequirements": [
         {
@@ -23692,8 +23668,7 @@
         "Un jugador",
         "Pantalla dividida o compartida",
         "Cooperación multiplataforma de Xbox",
-        "Xbox One X mejorado",
-        "FPS Boost Series X | S"
+        "Xbox One X mejorado"
       ],
       "systemRequirements": [
         {
@@ -23760,8 +23735,7 @@
         "Presencia de Xbox",
         "Clubs de Xbox",
         "Cosas guardadas en la nube de Xbox",
-        "Xbox Play Anywhere",
-        "FPS Boost Series X | S"
+        "Xbox Play Anywhere"
       ],
       "systemRequirements": [
         {
@@ -23859,8 +23833,7 @@
         "Multijugador multiplataforma de Xbox",
         "Un jugador",
         "Pantalla dividida o compartida",
-        "Cooperación multiplataforma de Xbox",
-        "FPS Boost Series X | S"
+        "Cooperación multiplataforma de Xbox"
       ],
       "systemRequirements": [
         {
@@ -24040,8 +24013,7 @@
         "Cooperativo en línea  (2-2)",
         "Multijugador local de Xbox (2-2)",
         "Multijugador en línea  (2-8)",
-        "Pantalla dividida o compartida",
-        "FPS Boost Series X | S"
+        "Pantalla dividida o compartida"
       ],
       "systemRequirements": [
         {
@@ -25878,8 +25850,7 @@
         "HDR10",
         "Cooperación multiplataforma de Xbox",
         "Xbox One X mejorado",
-        "Xbox Play Anywhere",
-        "FPS Boost Series X | S"
+        "Xbox Play Anywhere"
       ],
       "systemRequirements": [
         {
@@ -26318,8 +26289,7 @@
       "interactiveDescriptions": [],
       "capabilities": [
         "Cooperativo en línea  (2-2)",
-        "Multijugador en línea  (2-2)",
-        "FPS Boost Series X | S"
+        "Multijugador en línea  (2-2)"
       ],
       "systemRequirements": [
         {
@@ -27628,8 +27598,7 @@
         "Controlador para juegos para PC",
         "Logros de Xbox",
         "Cosas guardadas en la nube de Xbox",
-        "Xbox Play Anywhere",
-        "FPS Boost Series X | S"
+        "Xbox Play Anywhere"
       ],
       "systemRequirements": [
         {
@@ -32565,9 +32534,7 @@
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
       "interactiveDescriptions": [],
-      "capabilities": [
-        "FPS Boost Series X | S"
-      ],
+      "capabilities": [],
       "systemRequirements": [
         {
           "title": "Arquitectura",
@@ -33191,7 +33158,7 @@
       "hasDiscount": true,
       "discountPercent": 25,
       "rating": 2.1,
-      "ratingCount": 687,
+      "ratingCount": 688,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -33386,7 +33353,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.7,
-      "ratingCount": 51312,
+      "ratingCount": 51317,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -33769,7 +33736,7 @@
       "hasDiscount": true,
       "discountPercent": 60,
       "rating": 4,
-      "ratingCount": 15674,
+      "ratingCount": 15675,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -33866,7 +33833,7 @@
           "recommended": "8 GB"
         }
       ],
-      "maxInstallSize": 2549854208,
+      "maxInstallSize": 2115203072,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/minecraft-preview-for-windows/9P5X4QVLC2XR"
     },
@@ -33927,7 +33894,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 2727223296,
+      "maxInstallSize": 2298208256,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/minecraft-preview-for-xbox/9NQ19C36R0VD"
     },
@@ -33964,7 +33931,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.5,
-      "ratingCount": 61238,
+      "ratingCount": 61239,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -34168,8 +34135,7 @@
       "pegiDescription": "Apropiado a partir de 16 años",
       "interactiveDescriptions": [],
       "capabilities": [
-        "Xbox One X mejorado",
-        "FPS Boost Series X | S"
+        "Xbox One X mejorado"
       ],
       "systemRequirements": [
         {
@@ -34216,9 +34182,7 @@
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
       "interactiveDescriptions": [],
-      "capabilities": [
-        "FPS Boost Series X"
-      ],
+      "capabilities": [],
       "systemRequirements": [
         {
           "title": "Arquitectura",
@@ -34264,7 +34228,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.1,
-      "ratingCount": 164,
+      "ratingCount": 165,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -35511,7 +35475,7 @@
           "recommended": "Controladora de Xbox"
         }
       ],
-      "maxInstallSize": 105271238656,
+      "maxInstallSize": 105271279616,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/naraka-bladepoint/9P8SQQJ5T94B"
     },
@@ -36404,8 +36368,7 @@
         "Xbox One X mejorado",
         "Logros de Xbox",
         "Cosas guardadas en la nube de Xbox",
-        "Xbox Play Anywhere",
-        "FPS Boost Series X | S"
+        "Xbox Play Anywhere"
       ],
       "systemRequirements": [
         {
@@ -37458,8 +37421,7 @@
       "pegiDescription": "Apropiado a partir de 16 años",
       "interactiveDescriptions": [],
       "capabilities": [
-        "Xbox One X mejorado",
-        "FPS Boost Series X | S"
+        "Xbox One X mejorado"
       ],
       "systemRequirements": [
         {
@@ -38101,8 +38063,7 @@
         "Un jugador",
         "Logros de Xbox",
         "Presencia de Xbox",
-        "Cosas guardadas en la nube de Xbox",
-        "FPS Boost Series X | S"
+        "Cosas guardadas en la nube de Xbox"
       ],
       "systemRequirements": [
         {
@@ -38366,7 +38327,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 117395095552,
+      "maxInstallSize": 117580238848,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/overwatch/C1C4DZJPBC2V"
     },
@@ -38555,7 +38516,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.6,
-      "ratingCount": 827,
+      "ratingCount": 828,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -39764,11 +39725,11 @@
         "ultimate"
       ],
       "platform": "both",
-      "price": 14.99,
+      "price": 19.99,
       "msrp": 19.99,
       "currency": "EUR",
-      "hasDiscount": true,
-      "discountPercent": 25,
+      "hasDiscount": false,
+      "discountPercent": 0,
       "rating": 4.8,
       "ratingCount": 32,
       "ageRating": 12,
@@ -39889,8 +39850,7 @@
         "Cooperación local de Xbox (2-4)",
         "Cooperativo en línea  (2-4)",
         "Multijugador local de Xbox (2-2)",
-        "Multijugador en línea  (2-26)",
-        "FPS Boost Series X | S"
+        "Multijugador en línea  (2-26)"
       ],
       "systemRequirements": [
         {
@@ -39943,8 +39903,7 @@
         "Cooperación local de Xbox (2-4)",
         "Cooperativo en línea  (2-4)",
         "Multijugador local de Xbox (2-2)",
-        "Multijugador en línea  (2-24)",
-        "FPS Boost Series X | S"
+        "Multijugador en línea  (2-24)"
       ],
       "systemRequirements": [
         {
@@ -39999,8 +39958,7 @@
         "Multijugador en línea  (2-24)",
         "4K Ultra HD",
         "HDR10",
-        "Pantalla dividida o compartida",
-        "FPS Boost Series X | S"
+        "Pantalla dividida o compartida"
       ],
       "systemRequirements": [
         {
@@ -40344,8 +40302,7 @@
         "Logros de Xbox",
         "Presencia de Xbox",
         "Clubs de Xbox",
-        "Cosas guardadas en la nube de Xbox",
-        "FPS Boost Series X | S"
+        "Cosas guardadas en la nube de Xbox"
       ],
       "systemRequirements": [
         {
@@ -41380,7 +41337,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 2.6,
-      "ratingCount": 26,
+      "ratingCount": 27,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -42060,8 +42017,7 @@
         "Presencia de Xbox",
         "Clubs de Xbox",
         "Cosas guardadas en la nube de Xbox",
-        "Xbox Play Anywhere",
-        "FPS Boost Series X | S"
+        "Xbox Play Anywhere"
       ],
       "systemRequirements": [
         {
@@ -42571,7 +42527,7 @@
       "hasDiscount": true,
       "discountPercent": 20,
       "rating": 4.3,
-      "ratingCount": 115,
+      "ratingCount": 116,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -44458,9 +44414,7 @@
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
       "interactiveDescriptions": [],
-      "capabilities": [
-        "FPS Boost Series X | S"
-      ],
+      "capabilities": [],
       "systemRequirements": [
         {
           "title": "Arquitectura",
@@ -46841,38 +46795,37 @@
       "storeUrl": "https://www.xbox.com/es-es/games/store/star-wars-jedi-survivor-para-xbox-one/9PLRP6PHV6XP"
     },
     {
-      "id": "9P87S3NP6SR2",
+      "id": "9NLHVWSFB0FC",
       "title": "Star Wars Outlaws",
-      "description": "Experimenta el primer juego de mundo abierto de Star Wars™ y explora planetas únicos por toda la galaxia, tanto nuevos como clásicos. Arriésgalo todo encarnando a Kay Vess, una buscavidas novata que busca la libertad y la manera de comenzar una nueva vida. Lucha, roba y engaña a los sindicatos del crimen de toda la galaxia y únete a la lista de los más buscados.\r\n\r\nLa galaxia está llena de oportunidades para todos aquellos dispuestos a correr el riesgo.\r\n\r\nDESCUBRE UNA GALAXIA LLENA DE OPORTUNIDADES\r\nExplora planetas únicos con ciudades y cantinas bulliciosas antes de recorrer enormes paisajes en tu speeder. Cada planeta trae nuevas aventuras, desafíos únicos y recompensas emocionantes si te ves capaz de afrontar los riesgos.\r\n\r\nEXPERIMENTA LA HISTORIA ORIGINAL DE UNA BUSCAVIDAS\r\nVive la arriesgada vida de una forajida. Con Nix a tu lado, podrás aprovecharte de cualquier situación: lucha con tu bláster, reduce a tus enemigos con sigilo y dispositivos, o encuentra el momento oportuno para distraerlos y sacarles ventaja.\r\n\r\nEMBÁRCATE EN UNA MISIÓN MUY ARRIESGADA\r\nAcepta misiones de los sindicatos del crimen de la galaxia con grandes riesgos, pero también grandes recompensas. Roba objetos valiosos, infíltrate en lugares secretos y engaña a tus enemigos como una de las criminales más buscadas de la galaxia. Cada elección que tomes influirá en tu reputación.\r\n\r\nSIÉNTATE EN LA SILLA DEL PILOTO\r\nPilota tu nave, la Cazaestelas, en emocionantes combates aéreos contra el Imperio y otros enemigos. Busca las oportunidades adecuadas para perseguir, evadir y atacar para así luchar con ventaja.",
-      "shortDescription": "Experimenta el primer juego de mundo abierto de Star Wars™ y explora planetas únicos por toda la galaxia, tanto nuevos como clásicos. Arriésgalo todo encarnando a Kay Vess, una buscavidas novata que busca la libertad y la manera de comenzar una nueva vida. Lucha, roba y engaña a los sindicatos del crimen de toda la galaxia y únete a la lista de los más buscados.\r\n\r\nLa galaxia está llena de oportunidades para todos aquellos dispuestos a correr el riesgo.",
+      "description": "Disfruta del primer juego de acción y aventuras en mundo abierto de Star Wars™ y explora distintos lugares por toda la galaxia, tanto nuevos como emblemáticos. Arriésgalo todo como la buscavidas Kay Vess, una sinvergüenza que anhela la libertad y comenzar una vida nueva. Pelea, roba y engaña a todos los sindicatos del crimen de la galaxia, y acaba en la lista de los más buscados de la galaxia.\n\nLa galaxia está llena de posibilidades para todos aquellos que se arriesgan.\n\nDESCUBRE UNA GALAXIA DE OPORTUNIDADES\nExplora lugares únicos, con ciudades y cantinas bulliciosas. Recorre enormes paisajes en tu speeder. Cada ubicación trae nuevas aventuras, desafíos únicos y recompensas atractivas, si te atreves a arriesgarte…\n\nVIVE LA HISTORIA ORIGINAL DE UNA BUSCAVIDAS\nVive la arriesgada vida de una forajida. Dale la vuelta a cualquier situación con la ayuda de Nix, lucha con tu bláster, derrota a enemigos con sigilo y artilugios o encuentra el momento adecuado para distraerlos y ganar ventaja.\n\nEMBÁRCATE EN MISIONES ARRIESGADAS\nEmbárcate en misiones arriesgadas de los sindicatos del crimen de toda la galaxia, pero con grandes recompensas. Roba objetos valiosos, infíltrate en ubicaciones secretas y engaña a tus enemigos jugando como una de las forajidas más buscadas de la galaxia. Todas las elecciones que tomes influirán en tu reputación.\n\nENTRA EN LA CABINA DEL PILOTO\nPilota tu nave, la Cazaestelas, en emocionantes combates espaciales contra el Imperio y otros enemigos. Encuentra el momento oportuno para perseguir, evadir y atacar, y así conseguir ventaja.\n\nLas ofertas, el contenido y las fechas pueden cambiar en el futuro.\n\nSe requiere una conexión a internet, una cuenta de Ubisoft, una cuenta de Microsoft y Game Pass Ultimate o Core (suscripciones vendidas por separado) para acceder a las funciones/multijugador en línea.",
+      "shortDescription": "Disfruta del primer juego de mundo abierto de Star Wars™ y explora distintos lugares por toda la galaxia, tanto nuevos como emblemáticos. Arriésgalo todo como la buscavidas Kay Vess, una sinvergüenza que anhela la libertad y comenzar una vida nueva. Pelea, roba y engaña a todos los sindicatos del crimen de la galaxia, y acaba en la lista de los más buscados de la galaxia.\n\nLa galaxia está llena de posibilidades para todos aquellos que se arriesgan.",
       "developer": "MASSIVE ENTERTAINMENT",
       "publisher": "UBISOFT",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.61387.14092857068341011.87382aa9-ecf1-4458-9992-3a4a33d440e4.b798d8bd-596f-48d0-b41f-2bc994c93b21",
-      "heroImage": "https://store-images.s-microsoft.com/image/apps.18587.14092857068341011.87382aa9-ecf1-4458-9992-3a4a33d440e4.a079f887-f9df-4a14-a43d-286ec0c2e369",
+      "imageUrl": "https://store-images.s-microsoft.com/image/apps.61387.13711651873119158.1a058dbc-68af-4f81-9ab6-0a2eca979392.82552dc2-86e7-4009-8fcc-3a2e12cc12f6",
+      "heroImage": "https://store-images.s-microsoft.com/image/apps.18587.13711651873119158.1a058dbc-68af-4f81-9ab6-0a2eca979392.175f6e90-8f92-431f-a909-d09382f9a8b7",
       "screenshots": [
-        "https://store-images.s-microsoft.com/image/apps.51565.13971727707799327.bcd7e3d8-36c8-49ba-a85a-1fc0f1fd6ad0.df6708bd-8a98-4ae4-86c8-9f374f23a374",
-        "https://store-images.s-microsoft.com/image/apps.40479.13971727707799327.bcd7e3d8-36c8-49ba-a85a-1fc0f1fd6ad0.77aed83b-da17-4aea-886c-abfae53bea63",
-        "https://store-images.s-microsoft.com/image/apps.8019.13971727707799327.bcd7e3d8-36c8-49ba-a85a-1fc0f1fd6ad0.30bad4ea-40a3-43be-82eb-5f99dca56070",
-        "https://store-images.s-microsoft.com/image/apps.13625.13971727707799327.bcd7e3d8-36c8-49ba-a85a-1fc0f1fd6ad0.7ef24a0f-4e3b-4184-a941-9eb457767418"
+        "https://store-images.s-microsoft.com/image/apps.40479.13711651873119158.1a058dbc-68af-4f81-9ab6-0a2eca979392.2e155a17-632d-43ad-bf32-03fe914dc5b4",
+        "https://store-images.s-microsoft.com/image/apps.8019.13711651873119158.1a058dbc-68af-4f81-9ab6-0a2eca979392.c623da61-56e1-437a-ac99-e6bb4f4551b1",
+        "https://store-images.s-microsoft.com/image/apps.13625.13711651873119158.1a058dbc-68af-4f81-9ab6-0a2eca979392.cb638f2a-a238-48e1-ac46-e4074342c0fb",
+        "https://store-images.s-microsoft.com/image/apps.16785.13711651873119158.1a058dbc-68af-4f81-9ab6-0a2eca979392.bc5ebb93-2625-46d0-bf0a-00f3cc442ddc"
       ],
-      "videoUrl": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftassets/9ef3ddd5-04b9-4846-997b-2c82c5774059-AVS.m3u8?packagedStreaming=true",
-      "videoCaption": "CGI Trailer",
-      "releaseDate": "",
+      "videoUrl": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftassets/0a3bdb94-fc35-41fa-b3be-27c8a023287f-AVS.m3u8?packagedStreaming=true",
+      "videoCaption": "Accolades trailer",
+      "releaseDate": "2024-08-29",
       "categories": [
-        "Acción y aventura",
-        "Shooter"
+        "Acción y aventura"
       ],
       "tiers": [
         "ultimate"
       ],
       "platform": "console",
-      "price": 0,
-      "msrp": 0,
+      "price": 19.99,
+      "msrp": 79.99,
       "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
-      "rating": 3.9,
-      "ratingCount": 132,
+      "hasDiscount": true,
+      "discountPercent": 75,
+      "rating": 3.8,
+      "ratingCount": 162,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -46883,9 +46836,7 @@
         "4K Ultra HD",
         "HDR10",
         "Un jugador",
-        "Optimizado para Xbox Series X|S",
-        "Logros de Xbox",
-        "Presencia de Xbox"
+        "Optimizado para Xbox Series X|S"
       ],
       "systemRequirements": [
         {
@@ -46896,7 +46847,7 @@
       ],
       "maxInstallSize": 81556893696,
       "hasAddOns": true,
-      "storeUrl": "https://www.xbox.com/es-es/games/store/star-wars-outlaws/9P87S3NP6SR2"
+      "storeUrl": "https://www.xbox.com/es-es/games/store/star-wars-outlaws/9NLHVWSFB0FC"
     },
     {
       "id": "9N59CT2NKDPV",
@@ -47071,8 +47022,7 @@
         "Multijugador en línea  (8-40)",
         "HDR10",
         "Pantalla dividida o compartida",
-        "Xbox One X mejorado",
-        "FPS Boost Series X"
+        "Xbox One X mejorado"
       ],
       "systemRequirements": [
         {
@@ -48010,8 +47960,7 @@
         "Cooperativo en línea  (2-4)",
         "Multijugador en línea  (2-4)",
         "HDR10",
-        "Xbox One X mejorado",
-        "FPS Boost Series S"
+        "Xbox One X mejorado"
       ],
       "systemRequirements": [
         {
@@ -48382,8 +48331,7 @@
         "Presencia de Xbox",
         "Clubs de Xbox",
         "Cosas guardadas en la nube de Xbox",
-        "Xbox Play Anywhere",
-        "FPS Boost Series X | S"
+        "Xbox Play Anywhere"
       ],
       "systemRequirements": [
         {
@@ -51593,8 +51541,7 @@
         "Logros de Xbox",
         "Presencia de Xbox",
         "Clubs de Xbox",
-        "Cosas guardadas en la nube de Xbox",
-        "FPS Boost Series X | S"
+        "Cosas guardadas en la nube de Xbox"
       ],
       "systemRequirements": [
         {
@@ -52420,6 +52367,98 @@
       "maxInstallSize": 57166360576,
       "hasAddOns": false,
       "storeUrl": "https://www.xbox.com/es-es/games/store/the-outer-worlds-spacer-s-choice-edition/9NG2F1Q062VV"
+    },
+    {
+      "id": "9N072VV7MFK7",
+      "title": "The Planet Crafter",
+      "description": "Embárcate en la experiencia en solitario o con hasta más de diez amigos en el cooperativo en línea. Tu misión es sobrevivir en un planeta hostil y convertir un páramo desértico en un lujoso paraíso. ¡La terraformación es el único modo de conseguirlo!\n\nSe te ha enviado a un planeta hostil con una misión: hacerlo habitable para los humanos. Tendrás que sobrevivir, obtener recursos, construir tu base y máquinas que calienten el planeta, crear una atmósfera rica en oxígeno y, con el tiempo, usar la geoingeniería para adaptar todo el planeta.\n\nObtén minerales y recursos para sobrevivir. Fabrica las herramientas que necesitarás para cumplir la misión. Explora los restos de naves estrelladas y diversas ruinas para familiarizarte con un planeta lleno de misterios.\n\n¡Necesitarás una base y todo tipo de máquinas para sentirte como en casa y poder dotar de nueva vida al planeta! Avanza por los diversos niveles de construcción para mejorar y ampliar tu base y explora el planeta más a fondo.\n\nA medida que terraformas el planeta al aumentar el calor, el oxígeno y la presión, irás viendo aparecer diversas formas de vida. Sé testigo de los primeros signos de vida con el musgo y los insectos y, posteriormente, desata todo el potencial del planeta con animales y densos bosques.\n\nElige el nivel de dificultad que mejor se amolde a tus necesidades, desde experiencias más relajadas a otras más extremas. Juega con las configuraciones predefinidas a la hora de crear una nueva partida y experimenta las infinitas posibilidades del juego.\n\nMultijugador: Sobrevive por tu cuenta o con amigos (de 1 a 8 jugadores en el cooperativo en línea). \nSupervivencia: Mecánicas de sed, oxígeno, temperatura y salud.\nConstrucción de la base: Refúgiate de un entorno hostil y amplía la exploración.\nFabricación: Equipo, herramientas y comida te ayudarán a sobrevivir.\nTerraformación: ¡Convierte un planeta hostil en un paraíso habitable!\nConstruye máquinas para crear presión atmosférica y generar calor en el planeta.\nCrea una biosfera con oxígeno respirable.\nObserva cómo cambia el entorno a medida que avanzas en la terraformación.\nCriaturas: Crea vida descifrando extractos de ADN y combinándolos para crear tus propios animales.\nNaves estrelladas que se generan procedimentalmente: Explóralas y encuentra infinidad de botines raros.\nExperiencia relajante sin violencia: El único enemigo al que tendrás que enfrentarte será el entorno hostil.\nVarios niveles de dificultad para ajustarla a tus necesidades.\nConfiguraciones predefinidas ajustables para tener una experiencia diferente en cada partida.\nModo creativo.",
+      "shortDescription": "Un juego de supervivencia espacial y terraformación, diseñado para entre 1 y 8 jugadores. Altera el ecosistema de un planeta inhóspito para que sea habitable para la humanidad. Sobrevive, obtén recursos y monta tu base. Luego, genera oxígeno, calor y presión para crear una nueva biosfera.",
+      "developer": "Miju Games",
+      "publisher": "Miju Games",
+      "imageUrl": "https://store-images.s-microsoft.com/image/apps.6037.13926241205782582.d41e8478-bfd5-4760-8d82-8f74d1584c38.1d690ce8-4d41-4e20-acc0-b66de6aa216e",
+      "heroImage": "https://store-images.s-microsoft.com/image/apps.13691.13926241205782582.d41e8478-bfd5-4760-8d82-8f74d1584c38.2b871ae3-26b2-4768-a505-24da479bcb71",
+      "screenshots": [
+        "https://store-images.s-microsoft.com/image/apps.64740.13926241205782582.d41e8478-bfd5-4760-8d82-8f74d1584c38.111c755f-987f-430f-ac86-02002e57af72",
+        "https://store-images.s-microsoft.com/image/apps.61547.13926241205782582.d41e8478-bfd5-4760-8d82-8f74d1584c38.1f565613-c1a4-43ef-9307-da5e02df6352",
+        "https://store-images.s-microsoft.com/image/apps.25780.13926241205782582.d41e8478-bfd5-4760-8d82-8f74d1584c38.eb203438-af1d-4a03-ab47-6439516f077e",
+        "https://store-images.s-microsoft.com/image/apps.34243.13926241205782582.d41e8478-bfd5-4760-8d82-8f74d1584c38.df78829b-6d8d-4ee6-954c-5f9226a0db07"
+      ],
+      "videoUrl": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftassets/5b51d8f2-261f-4912-88fa-736d2743ae60-AVS.m3u8?packagedStreaming=true",
+      "videoCaption": "The Planet Crafter Xbox Launch Trailer",
+      "releaseDate": "2026-07-21",
+      "categories": [
+        "Acción y aventura"
+      ],
+      "tiers": [
+        "pc",
+        "premium",
+        "ultimate"
+      ],
+      "platform": "both",
+      "price": 21.59,
+      "msrp": 23.99,
+      "currency": "EUR",
+      "hasDiscount": true,
+      "discountPercent": 10,
+      "rating": 0,
+      "ratingCount": 0,
+      "ageRating": 3,
+      "pegiRating": "PEGI 3",
+      "pegiDescription": "Apropiado a partir de 3 años",
+      "interactiveDescriptions": [
+        "Interacción de usuarios"
+      ],
+      "capabilities": [
+        "Cooperativo en línea  (2-8)",
+        "Multijugador en línea  (2-8)",
+        "Multijugador multiplataforma de Xbox",
+        "Un jugador",
+        "Cooperación multiplataforma de Xbox",
+        "Optimizado para Xbox Series X|S",
+        "Logros de Xbox",
+        "Cosas guardadas en la nube de Xbox",
+        "Xbox Play Anywhere"
+      ],
+      "systemRequirements": [
+        {
+          "title": "SO",
+          "minimum": "Windows 10 version 18362.0 or higher",
+          "recommended": "Windows 10 version 18362.0 or higher"
+        },
+        {
+          "title": "Arquitectura",
+          "minimum": "x64",
+          "recommended": "x64"
+        },
+        {
+          "title": "Gráficos",
+          "minimum": "GTX 1650 (4 GB)",
+          "recommended": "GTX 1650 (4 GB)"
+        },
+        {
+          "title": "Procesador",
+          "minimum": "Ryzen 7 4800H",
+          "recommended": "Ryzen 7 4800H"
+        },
+        {
+          "title": "DirectX",
+          "minimum": "Versión 11",
+          "recommended": "Versión 11"
+        },
+        {
+          "title": "Memoria",
+          "minimum": "8 GB",
+          "recommended": "8 GB"
+        },
+        {
+          "title": "Memoria de vídeo",
+          "minimum": "8 GB",
+          "recommended": "8 GB"
+        }
+      ],
+      "maxInstallSize": 4210147328,
+      "hasAddOns": true,
+      "storeUrl": "https://www.xbox.com/es-es/games/store/the-planet-crafter/9N072VV7MFK7"
     },
     {
       "id": "9P7M1VCXKQVD",
@@ -53414,8 +53453,7 @@
       "interactiveDescriptions": [],
       "capabilities": [
         "Multijugador en línea  (2-16)",
-        "Xbox One X mejorado",
-        "FPS Boost Series X | S"
+        "Xbox One X mejorado"
       ],
       "systemRequirements": [
         {
@@ -53581,7 +53619,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.1,
-      "ratingCount": 233,
+      "ratingCount": 234,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -54084,8 +54122,7 @@
         "4K Ultra HD",
         "Un jugador",
         "Xbox One X mejorado",
-        "Logros de Xbox",
-        "FPS Boost Series X | S"
+        "Logros de Xbox"
       ],
       "systemRequirements": [
         {
@@ -54739,8 +54776,7 @@
         "Presencia de Xbox",
         "Clubs de Xbox",
         "Cosas guardadas en la nube de Xbox",
-        "Xbox Play Anywhere",
-        "FPS Boost Series X | S"
+        "Xbox Play Anywhere"
       ],
       "systemRequirements": [
         {
@@ -55784,8 +55820,7 @@
         "Logros de Xbox",
         "Presencia de Xbox",
         "Clubs de Xbox",
-        "Cosas guardadas en la nube de Xbox",
-        "FPS Boost Series X | S"
+        "Cosas guardadas en la nube de Xbox"
       ],
       "systemRequirements": [
         {
@@ -56221,8 +56256,7 @@
         "Multijugador local de Xbox (2-2)",
         "4K Ultra HD",
         "Pantalla dividida o compartida",
-        "Xbox One X mejorado",
-        "FPS Boost Series X | S"
+        "Xbox One X mejorado"
       ],
       "systemRequirements": [
         {
@@ -57893,7 +57927,7 @@
           "recommended": "Controladora de Xbox"
         }
       ],
-      "maxInstallSize": 66600800256,
+      "maxInstallSize": 66600755200,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/wartales/9NWQ686JB33G"
     },
@@ -58002,8 +58036,7 @@
         "Logros de Xbox",
         "Presencia de Xbox",
         "Clubs de Xbox",
-        "Cosas guardadas en la nube de Xbox",
-        "FPS Boost Series X | S"
+        "Cosas guardadas en la nube de Xbox"
       ],
       "systemRequirements": [
         {
@@ -58404,8 +58437,7 @@
         "Cooperativo en línea  (2-2)",
         "Multijugador en línea  (2-4)",
         "Un jugador",
-        "Logros de Xbox",
-        "FPS Boost Series X | S"
+        "Logros de Xbox"
       ],
       "systemRequirements": [
         {
@@ -58676,8 +58708,7 @@
         "Cooperativo en línea  (2-8)",
         "Multijugador en línea  (2-8)",
         "Un jugador",
-        "Logros de Xbox",
-        "FPS Boost Series X | S"
+        "Logros de Xbox"
       ],
       "systemRequirements": [
         {
@@ -59260,7 +59291,7 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 2,
+      "rating": 2.2,
       "ratingCount": 17,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
@@ -59322,7 +59353,7 @@
           "recommended": "8 GB"
         }
       ],
-      "maxInstallSize": 22557442048,
+      "maxInstallSize": 22485069824,
       "hasAddOns": false,
       "storeUrl": "https://www.xbox.com/es-es/games/store/winds-of-arcana-ruination/9P1ZW5K4S44V"
     },
@@ -59418,7 +59449,7 @@
           "recommended": "Controladora de Xbox"
         }
       ],
-      "maxInstallSize": 2144145408,
+      "maxInstallSize": 2157940736,
       "hasAddOns": false,
       "storeUrl": "https://www.xbox.com/es-es/games/store/winter-burrow/9ND3HTTQ0GKB"
     },
@@ -61083,7 +61114,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.2,
-      "ratingCount": 27,
+      "ratingCount": 28,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
