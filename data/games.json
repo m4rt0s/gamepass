@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-07-21T10:12:28.117Z",
+  "updatedAt": "2026-07-22T10:12:05.539Z",
   "market": "ES",
   "language": "es-ES",
-  "totalGames": 827,
+  "totalGames": 826,
   "counts": {
     "essential": 127,
     "premium": 578,
     "pc": 512,
-    "ultimate": 734,
-    "total": 827
+    "ultimate": 733,
+    "total": 826
   },
   "categories": [
     "Acción y aventura",
@@ -1291,7 +1291,7 @@
       "hasDiscount": true,
       "discountPercent": 50,
       "rating": 3.9,
-      "ratingCount": 351,
+      "ratingCount": 352,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -1775,7 +1775,7 @@
       "hasDiscount": true,
       "discountPercent": 75,
       "rating": 3,
-      "ratingCount": 175,
+      "ratingCount": 176,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -2098,7 +2098,7 @@
       "storeUrl": "https://www.xbox.com/es-es/games/store/anno-mutationem/9PMHGHXLGLJM"
     },
     {
-      "id": "9P2KNSPZ9292",
+      "id": "9P1VNX9Z03N5",
       "title": "Anno 1800™",
       "description": "Descubre la Era Industrial. Vive uno de los períodos más emocionantes de la historia en esta experiencia de construcción de ciudades.\nDescubre nuevas tecnologías, continentes y sociedades. Tu estrategia definirá el mundo.\nJuega en solitario, JcJ o cooperativo. La forma en que el mundo recordará tu nombre depende de ti.\n\nEL AMANECER DE UNA NUEVA ERA: Pon a prueba tus habilidades para crear grandes ciudades, planificar redes logísticas, establecerte en continentes exóticos, enviar expediciones por todo el mundo, y dominar a tus oponentes mediante diplomacia, comercio o guerras.\n\nUNA EXPERIENCIA CLÁSICA DE ANNO: Incluye una campaña basada en historias, un modo sandbox personalizable y una experiencia multijugador clásica de Anno.\n\nNUEVAS FUNCIONES PARA UNA NUEVA ERA: Por ejemplo, expediciones para conseguir fama y fortuna, o una nueva función de mano de obra.\n\nForma equipo con hasta tres amigos y construid el imperio industrial de vuestros sueños con el modo cooperativo de Anno 1800™.",
       "shortDescription": "Descubre el amanecer de la Era Industrial. Vive uno de los períodos más emocionantes y cambiantes de la historia del planeta en una rica experiencia de construcción de ciudades.\nDescubre nuevas tecnologías, continentes y sociedades. Tu estrategia definirá el mundo.\nJuega en solitario, JcJ o cooperativo. La forma en que el mundo recordará tu nombre depende de ti.",
@@ -2114,11 +2114,9 @@
       ],
       "videoUrl": "",
       "videoCaption": "",
-      "releaseDate": "2019-04-19",
+      "releaseDate": "2026-07-21",
       "categories": [
-        "Estrategia",
-        "Niños y familia",
-        "Simulación"
+        "Estrategia"
       ],
       "tiers": [
         "pc",
@@ -2154,7 +2152,7 @@
       ],
       "maxInstallSize": 64424509440,
       "hasAddOns": true,
-      "storeUrl": "https://www.xbox.com/es-es/games/store/anno-1800/9P2KNSPZ9292"
+      "storeUrl": "https://www.xbox.com/es-es/games/store/anno-1800/9P1VNX9Z03N5"
     },
     {
       "id": "9PHKWCSZ0SQJ",
@@ -3070,7 +3068,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.7,
-      "ratingCount": 21088,
+      "ratingCount": 21090,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -3528,7 +3526,7 @@
       "storeUrl": "https://www.xbox.com/es-es/games/store/assassin-s-creed-iv-black-flag/BRKMHZX1RCF2"
     },
     {
-      "id": "9N3B9B7CSX3C",
+      "id": "9NVZ03XT8S2P",
       "title": "Assassin’s Creed IV Black Flag - Gold Edition",
       "description": "Contenido extra incluido en la Gold Edition\n\nSeason Pass: Incluye más de tres horas de contenido para un jugador en la historia de Adéwalé, un esclavo convertido en Assassin, además del exclusivo paquete Kraken Ship, personajes para el multijugador ¡y mucho más!\nPaquete Captain Kenway's Legacy: Cimitarras doradas y traje de cazatesoros de multijugador.\nPaquete The Trove of Mystery: Reliquia de rueda de hierro y astrolabio.\nPaquete Pirates Bounty: Reliquia de roperas alemanas y brújula.\nPaquete Sacrificed Secrets: Misión oscura y peligrosa de búsqueda del tesoro en la Isla del Sacrificio; desbloquea las espadas dobles y pistolas, la imagen, el título y las reliquias del capitán Drake.\nPaquete Hidden Mystery: Misión aventurera de búsqueda del tesoro en la Isla del Misterio; desbloquea el barco, los disfraces y otros objetos MJ del capitán Bonnet.\nPaquete Black Island: Misión oscura y peligrosa de búsqueda del tesoro en la Isla Negra; desbloquea el terrible Barco Negro junto con las pistolas plateadas de chispa, el disfraz, la imagen y el título del capitán Morgan.\nPaquete Aveline: 60 minutos de juego adicional con Aveline De Grandpré, de Assassin's Creed III Liberation; mascarón de proa de Aveline desbloqueable.",
       "shortDescription": "Año 1715. Los piratas dominaban todo el Caribe y habían establecido su propio gobierno en el que la corrupción, la codicia y la crueldad eran las únicas leyes.\n\nEntre estos hombres destacaba un joven y altivo capitán llamado Edward Kenway. Su lucha por conseguir la gloria le granjeó el respeto de leyendas como Barbanegra, pero también le sumergió de lleno en la histórica lucha entre Assassins y templarios, una lucha que amenazaba con destruir todo lo que los piratas habían creado.\n\nBienvenidos a la era de oro de los piratas.",
@@ -3544,7 +3542,7 @@
       ],
       "videoUrl": "",
       "videoCaption": "",
-      "releaseDate": "",
+      "releaseDate": "2026-07-21",
       "categories": [
         "Acción y aventura"
       ],
@@ -3553,8 +3551,8 @@
         "ultimate"
       ],
       "platform": "pc",
-      "price": 0,
-      "msrp": 0,
+      "price": 39.99,
+      "msrp": 39.99,
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
@@ -3586,7 +3584,7 @@
       ],
       "maxInstallSize": 0,
       "hasAddOns": true,
-      "storeUrl": "https://www.xbox.com/es-es/games/store/assassin-s-creed-iv-black-flag-gold-edition/9N3B9B7CSX3C"
+      "storeUrl": "https://www.xbox.com/es-es/games/store/assassin-s-creed-iv-black-flag-gold-edition/9NVZ03XT8S2P"
     },
     {
       "id": "9PGMNX4HG2C7",
@@ -3769,7 +3767,7 @@
       "storeUrl": "https://www.xbox.com/es-es/games/store/assassin-s-creed-origins/BZGJRJC1FGF3"
     },
     {
-      "id": "9NC2HVPRQQ9F",
+      "id": "9P2CHXX6D861",
       "title": "Assassin's Creed Origins",
       "description": "El esplendor y la intriga del antiguo Egipto se desdibujan en una cruenta lucha por el poder. Desvela secretos y mitos ya olvidados en un momento crucial: el origen de la Hermandad de los Assassins\n\nUN PAÍS POR DESCUBRIR\nNavega por el Nilo, explora una tierra vasta e impredecible y descubre los misterios de las pirámides mientras sobrevives a peligrosas facciones y bestias salvajes.\n\nUNA NUEVA HISTORIA EN CADA PARTIDA\nParticipa en las misiones y embárcate en apasionantes historias en las que tu camino se cruzará con personajes carismáticos, desde nobles acaudalados hasta miserables marginados.\n\nVIVE LA ACCIÓN DEL RPG\nDisfruta de una experiencia de lucha totalmente nueva. Saquea y empuña docenas de armas con características y niveles de rareza distintos. Profundiza en la mecánica de progreso y demuestra tu destreza contra jefes singulares y poderosos.",
       "shortDescription": "El esplendor y el misterio del antiguo Egipto se desdibujan en una cruenta lucha por el poder.",
@@ -3785,7 +3783,7 @@
       ],
       "videoUrl": "",
       "videoCaption": "",
-      "releaseDate": "2025-05-06",
+      "releaseDate": "2026-07-21",
       "categories": [
         "Acción y aventura"
       ],
@@ -3795,11 +3793,11 @@
         "ultimate"
       ],
       "platform": "pc",
-      "price": 8.99,
+      "price": 59.99,
       "msrp": 59.99,
       "currency": "EUR",
-      "hasDiscount": true,
-      "discountPercent": 85,
+      "hasDiscount": false,
+      "discountPercent": 0,
       "rating": 0,
       "ratingCount": 0,
       "ageRating": 18,
@@ -3808,12 +3806,7 @@
       "interactiveDescriptions": [
         "Compras dentro del juego"
       ],
-      "capabilities": [
-        "4K Ultra HD",
-        "HDR10",
-        "Un jugador",
-        "60 fps +"
-      ],
+      "capabilities": [],
       "systemRequirements": [
         {
           "title": "SO",
@@ -3848,7 +3841,7 @@
       ],
       "maxInstallSize": 45097156608,
       "hasAddOns": true,
-      "storeUrl": "https://www.xbox.com/es-es/games/store/assassin-s-creed-origins/9NC2HVPRQQ9F"
+      "storeUrl": "https://www.xbox.com/es-es/games/store/assassin-s-creed-origins/9P2CHXX6D861"
     },
     {
       "id": "9MZG3KH0PVZC",
@@ -4579,7 +4572,7 @@
       "storeUrl": "https://www.xbox.com/es-es/games/store/assassin-s-creed-mirage/9NZCJF5VF1NV"
     },
     {
-      "id": "9NRPWTTJHNBC",
+      "id": "9NTK0V6ZK6T8",
       "title": "Assassin's Creed® Mirage",
       "description": "VALLE DEL RECUERDO\n\nDisfruta de 6 horas de juego totalmente nuevo en Valle del recuerdo, una gran actualización gratuita que amplía la historia de Basim y presenta la asombrosa región de Al-Ula, así como mejoras en las mecánicas de juego de toda la partida.\n\nEL ASESINO DEFINITIVO\n\nConviértete en el Asesino más versátil e ingenioso de la historia de la franquicia. Recorre toda la ciudad haciendo parkour y aprovecha el mayor surtido de herramientas disponibles hasta la fecha. Consigue contratos y mejoras en las guaridas de los Asesinos, recoge pistas vitales y elimina sigilosamente a los objetivos con asesinatos más viscerales que nunca.\n\n\nUN HOMENAJE A LOS INICIOS\n\nSumérgete en una versión moderna de las emblemáticas funciones y mecánicas de juego que han definido a la franquicia. Viaja a Alamut, el hogar legendario de los Asesinos que sentaron las bases del Credo, en este sentido homenaje al juego con el que empezó todo.\n\n\nUNA CIUDAD ENVOLVENTE \n\nExplora una ciudad increíblemente densa y vibrante cuyos habitantes reaccionan a todos tus movimientos. Descubre los secretos de cuatro distritos, desde el industrial Karj hasta los frondosos jardines de Ciudad Redonda. Descubre los sorprendentes acontecimientos del mundo e interactúa con las figuras históricas que dieron forma a la Edad de Oro de Bagdad.\n\n\nUNA PODEROSA HISTORIA DE MADUREZ\n\nSigue los pasos de Basim en esta aventura de acción con una narrativa bien hilada. Sé testigo de su transformación de ladrón desafiante a Maestro Asesino a medida que conoce aliados, mentores y enemigos que van forjando su destino.\n",
       "shortDescription": "Conviértete en un Maestro Asesino letal en este juego de acción y aventura y explora las calles del Bagdad del siglo IX a través de los ojos de Basim. Elimina a tus objetivos mientras buscas justicia como parte de los Ocultos.",
@@ -4593,9 +4586,9 @@
         "https://store-images.s-microsoft.com/image/apps.53474.14378628701982792.b46317b7-f273-4b8f-9e1d-0082ddadc501.efb55b6f-1937-4840-b199-911aba33df0e",
         "https://store-images.s-microsoft.com/image/apps.44735.14378628701982792.b46317b7-f273-4b8f-9e1d-0082ddadc501.fe1987d2-b419-42b6-839f-39c929306934"
       ],
-      "videoUrl": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftassets/339c4aa8-e8d7-444d-96eb-00fa9f4453d2-AVS.m3u8?packagedStreaming=true",
+      "videoUrl": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftassets/d5b8975b-3250-4a4a-bbde-490cd518f79a-AVS.m3u8?packagedStreaming=true",
       "videoCaption": "World Trailer",
-      "releaseDate": "2025-08-07",
+      "releaseDate": "2026-07-21",
       "categories": [
         "Acción y aventura"
       ],
@@ -4604,11 +4597,11 @@
         "ultimate"
       ],
       "platform": "pc",
-      "price": 19.99,
+      "price": 49.99,
       "msrp": 49.99,
       "currency": "EUR",
-      "hasDiscount": true,
-      "discountPercent": 60,
+      "hasDiscount": false,
+      "discountPercent": 0,
       "rating": 0,
       "ratingCount": 0,
       "ageRating": 18,
@@ -4617,9 +4610,7 @@
       "interactiveDescriptions": [
         "Compras dentro del juego"
       ],
-      "capabilities": [
-        "Un jugador"
-      ],
+      "capabilities": [],
       "systemRequirements": [
         {
           "title": "SO",
@@ -4634,13 +4625,13 @@
       ],
       "maxInstallSize": 42949672960,
       "hasAddOns": true,
-      "storeUrl": "https://www.xbox.com/es-es/games/store/assassin-s-creed-mirage/9NRPWTTJHNBC"
+      "storeUrl": "https://www.xbox.com/es-es/games/store/assassin-s-creed-mirage/9NTK0V6ZK6T8"
     },
     {
-      "id": "9PMB5879J2FW",
+      "id": "9PDNF24PP2V2",
       "title": "Assassin's Creed® Odyssey",
-      "description": "Elige tu destino en Assassin's Creed® Odyssey.\r\nPasa de la marginación a la gloria embarcándote en una odisea para descubrir los secretos de tu pasado y cambiar el destino de la antigua Grecia.\r\n\r\nVIAJA A LA ANTIGUA GRECIA \r\nRecorre frondosos bosques, islas volcánicas y ciudades bulliciosas en un viaje de exploración y encuentros en un mundo en guerra forjado por Dioses y hombres.\r\n\r\nFORJA TU LEYENDA\r\nTus decisiones influirán en el devenir de tu odisea. Tu juego puede tener distintos finales gracias al nuevo sistema de diálogos y a las decisiones que tomes. Personaliza tu equipo, el barco y tus habilidades especiales para convertirte en leyenda.\r\n\r\nCOMBATE EN UNA NUEVA ESCALA\r\nDemuestra tus habilidades bélicas en batallas a gran escala entre Atenas y Esparta con cientos de soldados. Embiste y ábrete paso a través de flotas enteras en las batallas navales del mar Egeo.",
-      "shortDescription": "Elige tu destino en Assassin's Creed® Odyssey.\r\nPasa de la marginación a la gloria embarcándote en una odisea para descubrir los secretos de tu pasado y cambiar el destino de la antigua Grecia.",
+      "description": "Elige tu destino en Assassin's Creed® Odyssey.\nPasa de la marginación a la gloria embarcándote en una odisea para descubrir los secretos de tu pasado y cambiar el destino de la antigua Grecia.\n\nVIAJA A LA ANTIGUA GRECIA \nRecorre frondosos bosques, islas volcánicas y ciudades bulliciosas en un viaje de exploración y encuentros en un mundo en guerra forjado por Dioses y hombres.\n\nFORJA TU LEYENDA\nTus decisiones influirán en el devenir de tu odisea. Tu juego puede tener distintos finales gracias al nuevo sistema de diálogos y a las decisiones que tomes. Personaliza tu equipo, el barco y tus habilidades especiales para convertirte en leyenda.\n\nCOMBATE EN UNA NUEVA ESCALA\nDemuestra tus habilidades bélicas en batallas a gran escala entre Atenas y Esparta con cientos de soldados. Embiste y ábrete paso a través de flotas enteras en las batallas navales del mar Egeo.",
+      "shortDescription": "Elige tu destino en Assassin's Creed® Odyssey.\nPasa de la marginación a la gloria embarcándote en una odisea para descubrir los secretos de tu pasado y cambiar el destino de la antigua Grecia.",
       "developer": "Ubisoft Quebec",
       "publisher": "Ubisoft",
       "imageUrl": "https://store-images.s-microsoft.com/image/apps.51903.71972716530068101.ccdcadf1-1d2a-49f2-9c37-0b0a27e5a53c.08e06d2d-1104-4c80-b879-91facf8348d5",
@@ -4653,7 +4644,7 @@
       ],
       "videoUrl": "",
       "videoCaption": "",
-      "releaseDate": "2025-05-06",
+      "releaseDate": "2026-07-21",
       "categories": [
         "Acción y aventura"
       ],
@@ -4663,11 +4654,11 @@
         "ultimate"
       ],
       "platform": "pc",
-      "price": 8.99,
+      "price": 59.99,
       "msrp": 59.99,
       "currency": "EUR",
-      "hasDiscount": true,
-      "discountPercent": 85,
+      "hasDiscount": false,
+      "discountPercent": 0,
       "rating": 0,
       "ratingCount": 0,
       "ageRating": 18,
@@ -4676,12 +4667,7 @@
       "interactiveDescriptions": [
         "Compras dentro del juego"
       ],
-      "capabilities": [
-        "4K Ultra HD",
-        "HDR10",
-        "Un jugador",
-        "60 fps +"
-      ],
+      "capabilities": [],
       "systemRequirements": [
         {
           "title": "SO",
@@ -4721,7 +4707,7 @@
       ],
       "maxInstallSize": 113816633344,
       "hasAddOns": true,
-      "storeUrl": "https://www.xbox.com/es-es/games/store/assassin-s-creed-odyssey/9PMB5879J2FW"
+      "storeUrl": "https://www.xbox.com/es-es/games/store/assassin-s-creed-odyssey/9PDNF24PP2V2"
     },
     {
       "id": "BWT5L9P3L60X",
@@ -4825,9 +4811,9 @@
       "storeUrl": "https://www.xbox.com/es-es/games/store/assassin-s-creed-the-ezio-collection/BQ9S8ZKCT3Q7"
     },
     {
-      "id": "9NMHP9SMZHGZ",
+      "id": "9NJ2SFHNCCRV",
       "title": "Assassin's Creed® Valhalla",
-      "description": "Ponte en la piel de Eivor, una leyenda vikinga del pillaje en busca de gloria.\r\n\r\n- Lidera épicos saqueos vikingos contra tropas y fortalezas sajonas.\r\n- Rememora el visceral estilo de lucha de los vikingos blandiendo brutales armas a dos manos.\r\n- Ponte a prueba con la colección de enemigos más variada nunca vista en Assassin's Creed.\r\n- Moldea el crecimiento de tu personaje y del asentamiento de su clan con cada decisión que tomes.\r\n- Explora un mundo abierto medieval, desde las escarpadas costas noruegas hasta los hermosos reinos de Inglaterra.\r\n\r\nIncluye La saga olvidada, un nuevo modo de juego roguelite GRATIS para todos los jugadores de Assassin's Creed® Valhalla.",
+      "description": "Ponte en la piel de Eivor, una leyenda vikinga del pillaje en busca de gloria.\n\n- Lidera épicos saqueos vikingos contra tropas y fortalezas sajonas.\n- Rememora el visceral estilo de lucha de los vikingos blandiendo brutales armas a dos manos.\n- Ponte a prueba con la colección de enemigos más variada nunca vista en Assassin's Creed.\n- Moldea el crecimiento de tu personaje y del asentamiento de su clan con cada decisión que tomes.\n- Explora un mundo abierto medieval, desde las escarpadas costas noruegas hasta los hermosos reinos de Inglaterra.\n\nIncluye La saga olvidada, un nuevo modo de juego roguelite GRATIS para todos los jugadores de Assassin's Creed® Valhalla.",
       "shortDescription": "Ponte en la piel de Eivor, una leyenda vikinga en busca de gloria. Saquea a tus enemigos, haz prosperar tu asentamiento y consolida tu poder político.",
       "developer": "UBISOFT MONTREAL",
       "publisher": "UBISOFT",
@@ -4839,9 +4825,9 @@
         "https://store-images.s-microsoft.com/image/apps.37498.14585440003614248.da5c1c25-09b1-4c72-ae23-bf564e0dc62c.cd7127a8-776b-42cc-8558-a2f66ae5cbf5",
         "https://store-images.s-microsoft.com/image/apps.48961.14585440003614248.da5c1c25-09b1-4c72-ae23-bf564e0dc62c.f7ca8f8f-b6c7-47ae-8716-92be2c652aab"
       ],
-      "videoUrl": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftassets/47bda1fd-f8f9-4445-b3c0-d64af2fa30bc-AVS.m3u8?packagedStreaming=true",
+      "videoUrl": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftassets/510941cf-73fd-434f-bddd-28db30996228-AVS.m3u8?packagedStreaming=true",
       "videoCaption": "Launch trailer",
-      "releaseDate": "2020-11-10",
+      "releaseDate": "2026-07-21",
       "categories": [
         "Acción y aventura"
       ],
@@ -4851,11 +4837,11 @@
         "ultimate"
       ],
       "platform": "pc",
-      "price": 14.99,
+      "price": 59.99,
       "msrp": 59.99,
       "currency": "EUR",
-      "hasDiscount": true,
-      "discountPercent": 75,
+      "hasDiscount": false,
+      "discountPercent": 0,
       "rating": 0,
       "ratingCount": 0,
       "ageRating": 18,
@@ -4864,11 +4850,7 @@
       "interactiveDescriptions": [
         "Compras dentro del juego"
       ],
-      "capabilities": [
-        "4K Ultra HD",
-        "HDR10",
-        "Un jugador"
-      ],
+      "capabilities": [],
       "systemRequirements": [
         {
           "title": "SO",
@@ -4908,7 +4890,7 @@
       ],
       "maxInstallSize": 171798691840,
       "hasAddOns": true,
-      "storeUrl": "https://www.xbox.com/es-es/games/store/assassin-s-creed-valhalla/9NMHP9SMZHGZ"
+      "storeUrl": "https://www.xbox.com/es-es/games/store/assassin-s-creed-valhalla/9NJ2SFHNCCRV"
     },
     {
       "id": "9NBLGGH43KZB",
@@ -5259,7 +5241,7 @@
       "storeUrl": "https://www.xbox.com/es-es/games/store/atomfall/9NC4WDL5KZBL"
     },
     {
-      "id": "9P8TK8GZ6G6V",
+      "id": "9N21G14CVS5L",
       "title": "Avatar: Frontiers of Pandora",
       "description": "Avatar: Frontiers of Pandora™ es un juego de acción y aventura en primera persona que se desarrolla en la inexplorada Frontera Occidental de Pandora. Eres na'vi, la corporación militar humana conocida como la RDA te secuestró y te ha entrenado y moldeado para cumplir con sus objetivos. Quince años más tarde, vuelves a ser libre, pero sientes que te encuentras entre extraños en tu propio mundo. Vuelve a conectar con tu herencia perdida, descubre qué significa realmente ser na'vi y únete a otros clanes para proteger Pandora de la RDA. \n\nEXPLORA UN MUNDO REPLETO DE MARAVILLAS Y PELIGROS\nDescubre las increíbles maravillas de la Frontera Occidental, un continente inexplorado de Pandora. Viaja por fascinantes e impredecibles ecosistemas de un mundo abierto en el que bajar la guardia puede tener consecuencias fatales.\n\nCONVIÉRTETE EN NA'VI\nAprende a controlar tu fuerza y agilidad sobrenaturales, personaliza tu personaje, fabrica equipo nuevo y mejora las habilidades y las armas para adaptarlas a tu estilo de juego.\n\nSURCA LOS CIELOS\nCrea un vínculo con tu banshee para obtener ventaja en el combate aéreo y recorrer la extensa Frontera Occidental.\n\nDOMINA DISTINTOS ESTILOS DE COMBATE\nEnfréntate a los peligros de Pandora aprovechando la certera precisión de las armas tradicionales na'vi, como el arco y el propulsor de lanzas, o recordando tu entrenamiento con los humanos para usar armas más destructivas, como el rifle de asalto o la escopeta.\n\nUNA EXPERIENCIA INMERSIVA DE NUEVA GENERACIÓN\nAvatar: Frontiers of Pandora™ se ha diseñado para aprovechar toda la potencia de Xbox Series X|S, y es una aventura que lleva la inmersión a un nuevo nivel gracias a un grado extraordinario de detalles, tecnología de renderización, densidad y sonido envolvente.\n\nCOMPLETA TODA TU AVENTURA EN MODO COOPERATIVO\nJuega la campaña de historia completa en solitario o junto a un amigo en el cooperativo en línea para dos jugadores.",
       "shortDescription": "En Avatar: Frontiers of Pandora™, te embarcarás en una aventura a lo largo y ancho del mundo abierto de la inexplorada Frontera Occidental. Vuelve a conectar con tu herencia perdida, descubre qué significa ser na'vi y únete a otros clanes para proteger Pandora de las temibles tropas de la RDA.",
@@ -5275,7 +5257,7 @@
       ],
       "videoUrl": "",
       "videoCaption": "",
-      "releaseDate": "2025-07-24",
+      "releaseDate": "2026-07-21",
       "categories": [
         "Acción y aventura"
       ],
@@ -5284,11 +5266,11 @@
         "ultimate"
       ],
       "platform": "pc",
-      "price": 17.99,
-      "msrp": 29.99,
+      "price": 69.99,
+      "msrp": 69.99,
       "currency": "EUR",
-      "hasDiscount": true,
-      "discountPercent": 40,
+      "hasDiscount": false,
+      "discountPercent": 0,
       "rating": 0,
       "ratingCount": 0,
       "ageRating": 16,
@@ -5332,7 +5314,7 @@
       ],
       "maxInstallSize": 125627793408,
       "hasAddOns": true,
-      "storeUrl": "https://www.xbox.com/es-es/games/store/avatar-frontiers-of-pandora/9P8TK8GZ6G6V"
+      "storeUrl": "https://www.xbox.com/es-es/games/store/avatar-frontiers-of-pandora/9N21G14CVS5L"
     },
     {
       "id": "9N9QJG4S82B5",
@@ -6302,7 +6284,7 @@
       "hasDiscount": true,
       "discountPercent": 90,
       "rating": 4.3,
-      "ratingCount": 484,
+      "ratingCount": 485,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -6525,7 +6507,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 2.7,
-      "ratingCount": 265,
+      "ratingCount": 264,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -6905,7 +6887,7 @@
         }
       ],
       "maxInstallSize": 1970483200,
-      "hasAddOns": false,
+      "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/beatdown-city-survivors/9N4X39HZ1CSQ"
     },
     {
@@ -7935,13 +7917,13 @@
       "storeUrl": "https://www.xbox.com/es-es/games/store/brawlhalla/C3B1V55CDL0C"
     },
     {
-      "id": "9MXMZ39GVHPG",
+      "id": "9NKFLWWM9CZ1",
       "title": "Brawlhalla",
       "description": "Un épico juego de lucha de plataformas para hasta 8 jugadores en línea o localmente. Prueba las partidas esporádicas de todos contra todos, las partidas competitivas o invita a tus amigos a una sala privada. ¡Y es gratis! ¡Juega en varias plataformas con millones de jugadores en PlayStation, Xbox, Nintendo Switch, iOS, Android y Steam! Actualizaciones frecuentes. Más de 60 leyendas.\n\nÚnete a un campo de batalla eterno donde los grandes guerreros de la historia se enfrentan para demostrar quién fue, es, o será el mejor.\nLa Rotación Legendaria de 9 personajes gratuitos cambia cada semana, y puedes ganar oro para desbloquear más Leyendas en cualquier modo de juego online.\n\n\nBrawlhalla siempre será completamente gratuito, y no habrá contenidos de pago que faciliten la victoria.",
       "shortDescription": "Brawlhalla es un juego gratuito de lucha y plataformas. Únete a partidas amistosas gratuitas, participa en clasificatorias o crea tus propias salas con tus amigos. Millones de jugadores. Actualizaciones constantes. Más de cuarenta personajes únicos. ¡Ven a luchar por la gloria en los salones del Valhalla!",
       "developer": "Blue Mammoth Games",
       "publisher": "Ubisoft",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.4953.13891464908023063.5ffa2c27-8163-4a8e-8e35-56a1e5ec8980.e0b27984-f679-49e4-9812-8c49b89dac2e",
+      "imageUrl": "https://store-images.s-microsoft.com/image/apps.44169.65958767407690020.b7eeeb8d-2be6-4aa5-9679-c664440d607f.f67184bd-ddfc-4585-8bec-fa4dd3bbb530",
       "heroImage": "https://store-images.s-microsoft.com/image/apps.39724.13891464908023063.a041e1c7-f56f-4ac1-ab92-18f9ca74105a.08fa5ea8-3157-4314-8e90-04ff3dce38ed",
       "screenshots": [
         "https://store-images.s-microsoft.com/image/apps.41271.13891464908023063.081afde2-8bb8-47a1-8c73-8ae0313b0823.64da87b0-12ba-4653-9521-a7b40a0dc346",
@@ -7949,13 +7931,11 @@
         "https://store-images.s-microsoft.com/image/apps.24566.13891464908023063.081afde2-8bb8-47a1-8c73-8ae0313b0823.daee59b7-beef-44f1-93cf-013033fd4d1b",
         "https://store-images.s-microsoft.com/image/apps.52004.13891464908023063.081afde2-8bb8-47a1-8c73-8ae0313b0823.28df0c65-ac18-427b-9f9f-6240b213577f"
       ],
-      "videoUrl": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftassets/871cc294-8e67-42bb-9c5e-c500153e8bd6-AVS.m3u8?packagedStreaming=true",
+      "videoUrl": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftassets/b2e28fbd-7a73-46c6-a5c8-a7cfef14e238-AVS.m3u8?packagedStreaming=true",
       "videoCaption": "Welcome To Brawlhalla",
-      "releaseDate": "2025-12-04",
+      "releaseDate": "2026-07-21",
       "categories": [
-        "Niños y familia",
-        "Lucha",
-        "Plataformas"
+        "Lucha"
       ],
       "tiers": [
         "essential",
@@ -7978,15 +7958,7 @@
         "Interacción de usuarios",
         "Compras dentro del juego (Incluye artículos aleatorios)"
       ],
-      "capabilities": [
-        "Cooperación local de Xbox (2-4)",
-        "Cooperativo en línea  (2-4)",
-        "Multijugador local de Xbox (2-8)",
-        "Multijugador en línea  (2-8)",
-        "Multijugador multiplataforma de Xbox",
-        "Un jugador",
-        "Cooperación multiplataforma de Xbox"
-      ],
+      "capabilities": [],
       "systemRequirements": [
         {
           "title": "SO",
@@ -8001,7 +7973,7 @@
       ],
       "maxInstallSize": 10612736,
       "hasAddOns": false,
-      "storeUrl": "https://www.xbox.com/es-es/games/store/brawlhalla/9MXMZ39GVHPG"
+      "storeUrl": "https://www.xbox.com/es-es/games/store/brawlhalla/9NKFLWWM9CZ1"
     },
     {
       "id": "9PPR10S4JNLV",
@@ -9405,7 +9377,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 2.6,
-      "ratingCount": 607,
+      "ratingCount": 608,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -12796,7 +12768,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.3,
-      "ratingCount": 246,
+      "ratingCount": 247,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -13391,7 +13363,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.8,
-      "ratingCount": 106,
+      "ratingCount": 105,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -14133,8 +14105,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 3.9,
-      "ratingCount": 19,
+      "rating": 4,
+      "ratingCount": 20,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -17398,7 +17370,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 74486493184,
+      "maxInstallSize": 74487242752,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/ea-sports-fc-26-para-xbox-one/9NK13T4QFPQW"
     },
@@ -17432,7 +17404,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 2.2,
-      "ratingCount": 159,
+      "ratingCount": 160,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -17462,7 +17434,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 82503159808,
+      "maxInstallSize": 82504175616,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/ea-sports-fc-26-para-xbox-series-x-s/9P9FTXPKQ35P"
     },
@@ -17966,7 +17938,7 @@
       "storeUrl": "https://www.xbox.com/es-es/games/store/echo-generation-2/9N17PD34G54M"
     },
     {
-      "id": "9N1XDDL50X5F",
+      "id": "9NZ4T5RFD7KF",
       "title": "Edición Estándar de Riders Republic",
       "description": "ENORMES CARRERAS MULTIJUGADOR Y CONTENIDO EN EVOLUCIÓN\n¡Compite con más de 50 participantes y ábrete paso hasta la meta! La Republic se encuentra en constante evolución con eventos de temporada, nuevos deportes y desafíos. Participa en carreras improvisadas, competiciones de trucos o paseos relajados con tu equipo. ¡Siempre hay un motivo para entrar, darlo todo y arrasar en este gigantesco patio de recreo multijugador!\n\nEXPLORA UN MUNDO ABIERTO, FLUIDO Y VIVO\nCambia sobre la marcha entre tu bici, esquíes, tabla de snow y traje de alas, mientras deambulas por un extenso mundo repleto de paisajes urbanos y emblemáticos parques nacionales estadounidenses: Yosemite, Zion, Bryce Canyon, Yellowstone y el Gran Cañón.\n\nCARACTERIZA A TU PERSONAJE\nAccede a una amplísima gama de objetos estéticos, como marcas famosas o moda urbana legendaria, y crea un aspecto para definir tu estilo a la hora de dominar las pendientes y los trazados.",
       "shortDescription": "¡Adéntrate en un enorme patio de recreo multijugador! Coge tu bici, esquíes, tabla de snow o traje de alas, y explora un paraíso de los deportes en mundo abierto en el que tú creas las reglas... o pasas de ellas.",
@@ -17980,11 +17952,11 @@
         "https://store-images.s-microsoft.com/image/apps.52694.14501696194323418.a10bcd38-e545-4ad0-af0a-a77518bae589.988a735b-a865-4cc4-89a0-118a52720132",
         "https://store-images.s-microsoft.com/image/apps.52480.14501696194323418.a10bcd38-e545-4ad0-af0a-a77518bae589.bb45112b-9419-4f08-9e89-e1c269dd8afc"
       ],
-      "videoUrl": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftassets/6f6577bb-9587-4220-9d92-dc2c33b76875-AVS.m3u8?packagedStreaming=true",
+      "videoUrl": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftassets/b65870af-fa3e-4fa2-a752-c389a35ca17c-AVS.m3u8?packagedStreaming=true",
       "videoCaption": "Riders Republic Trailer",
-      "releaseDate": "2021-10-28",
+      "releaseDate": "2026-07-21",
       "categories": [
-        "Deportes"
+        "Acción y aventura"
       ],
       "tiers": [
         "pc",
@@ -17992,11 +17964,11 @@
         "ultimate"
       ],
       "platform": "pc",
-      "price": 3.99,
+      "price": 39.99,
       "msrp": 39.99,
       "currency": "EUR",
-      "hasDiscount": true,
-      "discountPercent": 90,
+      "hasDiscount": false,
+      "discountPercent": 0,
       "rating": 0,
       "ratingCount": 0,
       "ageRating": 12,
@@ -18040,7 +18012,7 @@
       ],
       "maxInstallSize": 21474836480,
       "hasAddOns": true,
-      "storeUrl": "https://www.xbox.com/es-es/games/store/edici-n-est-ndar-de-riders-republic/9N1XDDL50X5F"
+      "storeUrl": "https://www.xbox.com/es-es/games/store/edici-n-est-ndar-de-riders-republic/9NZ4T5RFD7KF"
     },
     {
       "id": "9NTFPTBXDDT3",
@@ -18344,7 +18316,7 @@
           "recommended": "8 GB"
         }
       ],
-      "maxInstallSize": 55838216192,
+      "maxInstallSize": 55886213120,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/enlisted/9NHKL695M9F2"
     },
@@ -18411,7 +18383,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 55830691840,
+      "maxInstallSize": 55878758400,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/enlisted-xbox-one/9PF432CVQBXT"
     },
@@ -19888,7 +19860,7 @@
       "storeUrl": "https://www.xbox.com/es-es/games/store/fallout-new-vegas-ultimate-edition/9MZR11JRF7BX"
     },
     {
-      "id": "9PN0MPNNP92J",
+      "id": "9NXWKGRHT31F",
       "title": "FAR CRY 3",
       "description": "Far Cry 3 es un juego de disparos en primera persona de mundo abierto ambientado en una isla sin parangón. Cuando te embarcas en una búsqueda desesperada para rescatar a tus amigos, te das cuenta de que la única forma de escapar de esta oscuridad es... abrazarla.\n\nUN JUEGO DE DISPAROS EN PRIMERA PERSONA DE MUNDO ABIERTO\nCrea tu propia aventura de disparos en primera persona. Personaliza tus armas, tus habilidades y tu estrategia en cada misión, tanto si prefieres una acción más intensa disparando a la carrera como si lo tuyo es acercarte con sigilo para derribar a los enemigos o disparar a larga distancia.\n\nUNA ISLA DE PELIGROS Y DESCUBRIMIENTOS\nExplora las diversas zonas de la isla, desde cordilleras y pastos pantanosos hasta playas de arena blanca. Descubre reliquias, caza animales exóticos, juega a minijuegos y viaja rápidamente por tierra, mar o aire. ¡Ábrete camino a través de las ciudades, templos, puertos fluviales y otros lugares de la isla!\n\nDESCUBRE UNA HISTORIA MEMORABLE Y UN ELENCO DEMENCIAL DE PERSONAJES\nEncuentra un perturbado y atractivo elenco de personajes mientras emprendes un árido viaje al lado más oscuro de la humanidad. Escrito por un ganador del premio Writers Guild Award.",
       "shortDescription": "Far Cry 3 es un juego de disparos en primera persona de mundo abierto ambientado en una isla sin parangón. Cuando te embarcas en una búsqueda desesperada para rescatar a tus amigos, te das cuenta de que la única forma de escapar de esta oscuridad es... abrazarla.",
@@ -19904,20 +19876,20 @@
       ],
       "videoUrl": "",
       "videoCaption": "",
-      "releaseDate": "2025-08-22",
+      "releaseDate": "2026-07-21",
       "categories": [
-        "Acción y aventura"
+        "Shooter"
       ],
       "tiers": [
         "pc",
         "ultimate"
       ],
       "platform": "pc",
-      "price": 3.99,
+      "price": 19.99,
       "msrp": 19.99,
       "currency": "EUR",
-      "hasDiscount": true,
-      "discountPercent": 80,
+      "hasDiscount": false,
+      "discountPercent": 0,
       "rating": 0,
       "ratingCount": 0,
       "ageRating": 18,
@@ -19961,10 +19933,10 @@
       ],
       "maxInstallSize": 16106127360,
       "hasAddOns": false,
-      "storeUrl": "https://www.xbox.com/es-es/games/store/far-cry-3/9PN0MPNNP92J"
+      "storeUrl": "https://www.xbox.com/es-es/games/store/far-cry-3/9NXWKGRHT31F"
     },
     {
-      "id": "9P06W7K6Q3C6",
+      "id": "9P5Z088TJQ5S",
       "title": "FAR CRY 3 BLOOD DRAGON",
       "description": "Disfruta del aclamado (y querido) cibershooter FAR CRY® 3: Blood Dragon, ahora en las plataformas de nueva generación. Encarnas al sargento Rex Colt, mitad hombre, mitad máquina, totalmente estadounidense. ¿Tu misión? Acabar con tu antiguo comandante y su batallón de despiadados cíborgs asesinos. No te detengas ante nada con tal de cumplir la misión.",
       "shortDescription": "Disfruta del aclamado (y querido) cibershooter FAR CRY® 3: Blood Dragon, ahora en las plataformas de nueva generación. Encarnas al sargento Rex Colt, mitad hombre, mitad máquina, totalmente estadounidense. ¿Tu misión? Acabar con tu antiguo comandante y su batallón de despiadados cíborgs asesinos. No te detengas ante nada con tal de cumplir la misión.",
@@ -19980,18 +19952,17 @@
       ],
       "videoUrl": "",
       "videoCaption": "",
-      "releaseDate": "",
+      "releaseDate": "2026-07-21",
       "categories": [
-        "Acción y aventura",
-        "Shooter"
+        "Acción y aventura"
       ],
       "tiers": [
         "pc",
         "ultimate"
       ],
       "platform": "pc",
-      "price": 0,
-      "msrp": 0,
+      "price": 14.99,
+      "msrp": 14.99,
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
@@ -20021,7 +19992,7 @@
       ],
       "maxInstallSize": 0,
       "hasAddOns": false,
-      "storeUrl": "https://www.xbox.com/es-es/games/store/far-cry-3-blood-dragon/9P06W7K6Q3C6"
+      "storeUrl": "https://www.xbox.com/es-es/games/store/far-cry-3-blood-dragon/9P5Z088TJQ5S"
     },
     {
       "id": "9NVJ4L71DF5Q",
@@ -20131,7 +20102,7 @@
       "storeUrl": "https://www.xbox.com/es-es/games/store/far-cry-3-classic-edition/BV2ZVP7PJZWL"
     },
     {
-      "id": "9PMTJMML92S4",
+      "id": "9MVV32Z0JPCL",
       "title": "FAR CRY 4",
       "description": "Escondido en la imponente sierra del Himalaya se encuentra Kyrat, un país lleno de tradición y violencia. Tú eres a Ajay Ghale. En tu viaje a Kyrat para cumplir el último deseo de tu madre, te encontrarás atrapado en una guerra civil para derrocar al régimen opresor del dictador Pagan Min. Explora y navega este vasto mundo abierto donde el peligro y la imprevisibilidad acechan en cada esquina. Aquí, cada decisión cuenta y cada segundo es una historia. BIENVENIDO A KYRAT.\n\nCARACTERÍSTICAS DEL JUEGO:\n\n• MODO COOP DE MUNDO ABIERTO REVOLUCIONARIO: Far Cry 2 permite que el segundo jugador pueda entra y salir del juego en cualquier momento, reimaginando la experiencia cooperativa para próxima generación bajo el verdadero espíritu de Far Cry. Ahora podrás descubrir y explorar el mundo abierto de Kyrat a la vez.\n\n• Mundo abierto masivo: Descubre el mundo más diverso de Far Cry jamás creado. Con un terreno que abarca desde frondosos bosques a Himalayas nevados, el mundo entero está vivo ... y es mortal.\n\n• ABUNDANTE NUEVA VIDA SALVAJE: Desde leopardos, rinocerontes, águilas negras, y tejones de miel vicioso, mientras te embarcas en tu búsqueda de recursos, sabes que algo puede estar intentándote cazar a ti también...\n\n• NUEVAS FORMAS DE MOVERSE: Explora el territorio enemigo desde arriba en el totalmente nuevo girocóptero y vuelve a la tierra en tu traje con alas. Sube a la parte trasera de un elefante de 6 toneladas y da rienda suelta a sus fuerza bruta sobre tus enemigos.\n\n• NUEVAS ARMAS DE GRAN ALCANCE: Elige el arma adecuada para el trabajo, sin importar cuán loco o impredecible pueda ser el trabajo. Con un arsenal muy variado, estarás preparado para cualquier cosa.",
       "shortDescription": "SECUELA DEL TIRADOR NÚMERO 1 DE 2012* Construido a partir del legendario ADN de su galardonado predecesor, Far Cry® 4 ofrece la experiencia más amplia y envolvente de Far Cry® nunca vista en un nuevo y masivo mundo abierto. Con juego cooperativo de mundo abierto y drop-in drop-out integrado, Far Cry 4 reimagina la experiencia cooperativa para las consolas de nueva generación. Ahora podrás descubrir y explorar el mundo abierto de Kyrat a la vez. * Basado en Metacritic desde 18/12/2012",
@@ -20147,7 +20118,7 @@
       ],
       "videoUrl": "",
       "videoCaption": "",
-      "releaseDate": "2019-03-05",
+      "releaseDate": "2026-07-21",
       "categories": [
         "Acción y aventura"
       ],
@@ -20157,11 +20128,11 @@
         "ultimate"
       ],
       "platform": "pc",
-      "price": 2.99,
+      "price": 29.99,
       "msrp": 29.99,
       "currency": "EUR",
-      "hasDiscount": true,
-      "discountPercent": 90,
+      "hasDiscount": false,
+      "discountPercent": 0,
       "rating": 0,
       "ratingCount": 0,
       "ageRating": 18,
@@ -20185,10 +20156,10 @@
       ],
       "maxInstallSize": 32212254720,
       "hasAddOns": true,
-      "storeUrl": "https://www.xbox.com/es-es/games/store/far-cry-4/9PMTJMML92S4"
+      "storeUrl": "https://www.xbox.com/es-es/games/store/far-cry-4/9MVV32Z0JPCL"
     },
     {
-      "id": "9NSRHJ8DJT2M",
+      "id": "9NWX420Z2NLG",
       "title": "Far Cry New Dawn",
       "description": "Adéntrate en un condado de Hope (Montana) posapocalíptico y dinámico 17 años después de una catástrofe nuclear mundial.\nÚnete a los otros supervivientes y lidera la lucha contra la nueva y peligrosa amenaza de los Salteadores y sus despiadadas cabecillas: las gemelas. Impide que se hagan con el control de los últimos recursos. \n\nLUCHA POR SOBREVIVIR EN UN MUNDO POSAPOCALÍPTICO\n• Álzate en armas en solitario o con un amigo en el modo cooperativo para dos jugadores y descubre este mundo impredecible y transformado.\n\nENFRÉNTATE A DOS NUEVAS VILLANAS\n• Recluta a un grupo de pistoleros a sueldo y animales acompañantes de lo más variopinto y forja alianzas para luchar contra las gemelas, las rebeldes cabecillas de los Salteadores.\n\nERIGE TU BASE Y LA DE LOS SUPERVIVIENTES\n• Recluta especialistas para mejorar tu base y desbloquear nuevas funcionalidades, como crear armas, equipo y mucho más.\n\nLUCHA POR LOS RECURSOS EN EL CONDADO DE HOPE Y MÁS ALLÁ\n• Enfréntate a los Salteadores en Intensificación y embárcate en expediciones que te llevarán a lugares inolvidables de EE. UU.\n\n",
       "shortDescription": "Adéntrate en un condado de Hope (Montana) posapocalíptico y dinámico 17 años después de una catástrofe nuclear.\nLidera la lucha contra los Salteadores e impide que se hagan con los últimos recursos.\n",
@@ -20204,7 +20175,7 @@
       ],
       "videoUrl": "",
       "videoCaption": "",
-      "releaseDate": "2025-05-06",
+      "releaseDate": "2026-07-21",
       "categories": [
         "Acción y aventura"
       ],
@@ -20214,11 +20185,11 @@
         "ultimate"
       ],
       "platform": "pc",
-      "price": 8.99,
+      "price": 44.99,
       "msrp": 44.99,
       "currency": "EUR",
-      "hasDiscount": true,
-      "discountPercent": 80,
+      "hasDiscount": false,
+      "discountPercent": 0,
       "rating": 0,
       "ratingCount": 0,
       "ageRating": 18,
@@ -20267,7 +20238,7 @@
       ],
       "maxInstallSize": 32212254720,
       "hasAddOns": true,
-      "storeUrl": "https://www.xbox.com/es-es/games/store/far-cry-new-dawn/9NSRHJ8DJT2M"
+      "storeUrl": "https://www.xbox.com/es-es/games/store/far-cry-new-dawn/9NWX420Z2NLG"
     },
     {
       "id": "BV6BRSLFJW3W",
@@ -20323,7 +20294,7 @@
       "storeUrl": "https://www.xbox.com/es-es/games/store/far-cry-primal/BV6BRSLFJW3W"
     },
     {
-      "id": "9P8X98F4BDC9",
+      "id": "9P1HX8TFF3VW",
       "title": "FAR CRY PRIMAL",
       "description": "La aclamada serie Far Cry ha pasado por el trópico y el Himalaya y ahora entra en la era de la lucha por la supervivencia de la raza humana con su innovador mundo abierto, bestias enormes, entornos impactantes y encuentros salvajes impredecibles.\nBienvenido a la Edad de Piedra, una época de peligros extremos y aventuras sin límite. Cuando los mamuts gigantes y los tigres dientes de sable dominaban la Tierra y la humanidad estaba en la cola de la cadena alimentaria. Como último superviviente de tu grupo de caza, aprenderás a crear un arsenal mortífero, a repeler feroces depredadores y a superar en ingenio a las tribus enemigas para conquistar la tierra de Oros y convertirte en el superdepredador.\nCARACTERÍSTICAS\n• LA EDAD DE PIEDRA DE FAR CRY: La exuberante ambientación de la Edad de Piedra es un lugar repleto de caos impredecible, peligros sobrecogedores e historias increíbles por los que es conocido Far Cry.\n\n• SOBREVIVE A LA EXTINCIÓN: Juega como Takkar, un cazador veterano y último miembro superviviente de tu grupo. Tienes un objetivo: sobrevivir en un mundo donde tú eres la presa.\n\n• UNA FAUNA FEROZ Y UN MUNDO MAJESTUOSO Y SALVAJE: Así es la Tierra antes de que el hombre se apropiara de ella, donde los letales tigres dientes de sable dominaban el mundo, los mamuts lanudos gigantes eran los reyes y las manadas de enormes alces corrían por las llanuras. Descubre estas y muchas otras criaturas gigantes en el salvaje mundo abierto de Oros, entre imponentes bosques de secuoyas, duras taigas, heladas montañas y húmedos pantanos.\n\n",
       "shortDescription": "La aclamada serie Far Cry vuelve con su innovador mundo abierto, bestias enormes, entornos impactantes y encuentros salvajes impredecibles.\nBienvenido a la Edad de Piedra, una época de peligros y aventuras, en la que los mamuts gigantes y los tigres dientes de sable dominaban la Tierra y la humanidad lucha por escalar en la cadena alimentaria. Como último superviviente de tu grupo de caza, tendrás que sobrevivir a la extinción y unir a tu tribu.",
@@ -20339,20 +20310,20 @@
       ],
       "videoUrl": "",
       "videoCaption": "",
-      "releaseDate": "2025-07-24",
+      "releaseDate": "2026-07-21",
       "categories": [
-        "Shooter"
+        "Acción y aventura"
       ],
       "tiers": [
         "pc",
         "ultimate"
       ],
       "platform": "pc",
-      "price": 4.49,
+      "price": 29.99,
       "msrp": 29.99,
       "currency": "EUR",
-      "hasDiscount": true,
-      "discountPercent": 85,
+      "hasDiscount": false,
+      "discountPercent": 0,
       "rating": 0,
       "ratingCount": 0,
       "ageRating": 18,
@@ -20376,7 +20347,7 @@
       ],
       "maxInstallSize": 20401094656,
       "hasAddOns": true,
-      "storeUrl": "https://www.xbox.com/es-es/games/store/far-cry-primal/9P8X98F4BDC9"
+      "storeUrl": "https://www.xbox.com/es-es/games/store/far-cry-primal/9P1HX8TFF3VW"
     },
     {
       "id": "C0KJ40T9QD86",
@@ -20496,7 +20467,7 @@
       "storeUrl": "https://www.xbox.com/es-es/games/store/far-cry-5/BR7X7MVBBQKM"
     },
     {
-      "id": "9MVQXW1RJVCN",
+      "id": "9NG3KNWZ7RZ7",
       "title": "Far Cry® 5",
       "description": "Te damos la bienvenida al condado de Hope (Montana), la tierra de los libres y valientes, pero también el hogar de una secta apocalíptica llena de fanáticos. Enfréntate a su líder, Joseph Seed, y sus hermanos, los Heraldos, para prender la mecha de la resistencia y liberar a la comunidad asediada. \n \nDESCUBRE UNO DE LOS FAR CRY MÁS ACLAMADOS \nÚnete a los millones de jugadores de Far Cry® 5 y descubre lo que IGN describe como \"diversión frenética\". \n \nPLANTA CARA A LA SECTA MORTAL DE JOSEPH SEED \nLibra al condado de Hope de la secta de la Puerta del Edén y de la familia Seed. Descubre la primera aparición del carismático antagonista Joseph Seed antes de su regreso en Far Cry® New Dawn y su propio DLC en Far Cry® 6: Caída. \n \nEXPLORA EL CONDADO DE HOPE EN SOLITARIO O COOPERATIVO Y ESTABLECE TUS PROPIAS REGLAS \nJuega en solitario o en un modo cooperativo de dos jugadores en el inmenso mundo abierto del condado de Hope. Haz uso de un vasto arsenal que incluye desde lanzacohetes hasta palas, y conduce cochazos icónicos, quads, avionetas y muchas cosas más para luchar contra las fuerzas de la secta en enfrentamientos épicos. Alíate con animales de compañía, como el aclamado oso Cheeseburger y el perro Boomer, y libera el condado de Hope de las garras de sus opresores.",
       "shortDescription": "Descubre el mundo abierto del condado de Hope (Montana), un lugar asediado por una secta apocalíptica llena de fanáticos. Sumérgete en la acción de la campaña en solitario o en un modo cooperativo de dos personas, usa un amplio arsenal de armas y aliados, y libra al condado de Hope de Joseph Seed y su secta.",
@@ -20512,7 +20483,7 @@
       ],
       "videoUrl": "",
       "videoCaption": "",
-      "releaseDate": "2025-05-06",
+      "releaseDate": "2026-07-21",
       "categories": [
         "Acción y aventura"
       ],
@@ -20522,11 +20493,11 @@
         "ultimate"
       ],
       "platform": "pc",
-      "price": 8.99,
+      "price": 59.99,
       "msrp": 59.99,
       "currency": "EUR",
-      "hasDiscount": true,
-      "discountPercent": 85,
+      "hasDiscount": false,
+      "discountPercent": 0,
       "rating": 0,
       "ratingCount": 0,
       "ageRating": 18,
@@ -20535,12 +20506,7 @@
       "interactiveDescriptions": [
         "Compras dentro del juego"
       ],
-      "capabilities": [
-        "4K Ultra HD",
-        "HDR10",
-        "Un jugador",
-        "60 fps +"
-      ],
+      "capabilities": [],
       "systemRequirements": [
         {
           "title": "SO",
@@ -20580,13 +20546,13 @@
       ],
       "maxInstallSize": 42949672960,
       "hasAddOns": true,
-      "storeUrl": "https://www.xbox.com/es-es/games/store/far-cry-5/9MVQXW1RJVCN"
+      "storeUrl": "https://www.xbox.com/es-es/games/store/far-cry-5/9NG3KNWZ7RZ7"
     },
     {
-      "id": "9N661LCNBH8J",
+      "id": "9PJ45NJCHSFS",
       "title": "Far Cry® 6",
-      "description": "Te damos la bienvenida a Yara, un paraíso tropical detenido en el tiempo. El dictador de Yara, Antón Castillo, está decidido a devolver a su nación la antigua gloria perdida por cualquier medio, y su hijo Diego sigue sus sangrientos pasos. La opresión a la que someten a su pueblo ha dado pie a una revolución.\r\n\r\n - Encarna a Dani Rojas, habitante de Yara que participa en una revolución guerrillera actual para liberar Yara. Disfruta del juego completo en solitario o con un amigo en modo cooperativo.\r\n\r\n- Explora selvas, playas y ciudades a pie, a caballo o en una amplia variedad de vehículos que incluye barcos y motos de agua mientras te enfrentas al régimen de Castillo en el Far Cry más grande hasta la fecha.\r\n\r\n- Siente la emoción del combate con un arsenal de cientos de armas junto a útiles acompañantes como el perro Chorizo y el cocodrilo Guapo.\r\n\r\n- Disfruta de todas las novedades en contenido y funciones que se han añadido desde el lanzamiento, que incluyen cuatro nuevas operaciones especiales, misiones cruzadas con exitazos y actualizaciones pedidas por los fans como la Nueva partida +, la ayuda completista, un modo de dificultad ultradifícil y cuatro nuevos espacios de equipamiento.\r\n\r\n¡No ha habido mejor momento para unirte a millones de jugadores en Yara!",
-      "shortDescription": "Experimenta la adrenalina de una revolución guerrillera moderna. Gracias a unos paisajes impresionantes, unos tiroteos brutales y una gran variedad de experiencias de juego, nunca ha habido mejor momento para unirte a la lucha.\r\n\r\nJuega a la PRUEBA GRATUITA de Far Cry® 6 y descubre por qué GAME INFORMER lo define como \"Un viaje lleno de emociones sin pausa de inicio a fin\". Y, cuando compres el juego completo, tendrás guardado todo tu progreso.",
+      "description": "Te damos la bienvenida a Yara, un paraíso tropical detenido en el tiempo. El dictador de Yara, Antón Castillo, está decidido a devolver a su nación la antigua gloria perdida por cualquier medio, y su hijo Diego sigue sus sangrientos pasos. La opresión a la que someten a su pueblo ha dado pie a una revolución.\n\n - Encarna a Dani Rojas, habitante de Yara que participa en una revolución guerrillera actual para liberar Yara. Disfruta del juego completo en solitario o con un amigo en modo cooperativo.\n\n- Explora selvas, playas y ciudades a pie, a caballo o en una amplia variedad de vehículos que incluye barcos y motos de agua mientras te enfrentas al régimen de Castillo en el Far Cry más grande hasta la fecha.\n\n- Siente la emoción del combate con un arsenal de cientos de armas junto a útiles acompañantes como el perro Chorizo y el cocodrilo Guapo.\n\n- Disfruta de todas las novedades en contenido y funciones que se han añadido desde el lanzamiento, que incluyen cuatro nuevas operaciones especiales, misiones cruzadas con exitazos y actualizaciones pedidas por los fans como la Nueva partida +, la ayuda completista, un modo de dificultad ultradifícil y cuatro nuevos espacios de equipamiento.\n\n¡No ha habido mejor momento para unirte a millones de jugadores en Yara!",
+      "shortDescription": "Experimenta la adrenalina de una revolución guerrillera moderna. Gracias a unos paisajes impresionantes, unos tiroteos brutales y una gran variedad de experiencias de juego, nunca ha habido mejor momento para unirte a la lucha.\n\nJuega a la PRUEBA GRATUITA de Far Cry® 6 y descubre por qué GAME INFORMER lo define como \"Un viaje lleno de emociones sin pausa de inicio a fin\". Y, cuando compres el juego completo, tendrás guardado todo tu progreso.",
       "developer": "UBISOFT TORONTO",
       "publisher": "UBISOFT",
       "imageUrl": "https://store-images.s-microsoft.com/image/apps.41566.14115267245615103.8e12f551-059b-455a-97ec-4b8173f3621e.072dfa13-d1bd-4242-8154-901de8c1b771",
@@ -20597,9 +20563,9 @@
         "https://store-images.s-microsoft.com/image/apps.65088.14115267245615103.b13af42f-672f-45fa-b4a8-aab31ea16240.341f64ee-a3e4-40b0-a47b-e195b585ae47",
         "https://store-images.s-microsoft.com/image/apps.24644.14115267245615103.b13af42f-672f-45fa-b4a8-aab31ea16240.8b4c6a36-7f97-4cb0-93b1-1a54f303e066"
       ],
-      "videoUrl": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftassets/280ed234-2a67-423d-a880-77e359f5648a-AVS.m3u8?packagedStreaming=true",
+      "videoUrl": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftassets/588d60df-6620-454d-904e-417ff4f08e35-AVS.m3u8?packagedStreaming=true",
       "videoCaption": "FC6 trailer",
-      "releaseDate": "2023-12-14",
+      "releaseDate": "2026-07-21",
       "categories": [
         "Acción y aventura"
       ],
@@ -20609,11 +20575,11 @@
         "ultimate"
       ],
       "platform": "pc",
-      "price": 14.99,
+      "price": 59.99,
       "msrp": 59.99,
       "currency": "EUR",
-      "hasDiscount": true,
-      "discountPercent": 75,
+      "hasDiscount": false,
+      "discountPercent": 0,
       "rating": 5,
       "ratingCount": 1,
       "ageRating": 18,
@@ -20622,14 +20588,7 @@
       "interactiveDescriptions": [
         "Compras dentro del juego"
       ],
-      "capabilities": [
-        "Cooperativo en línea  (2-2)",
-        "Multijugador en línea  (2-2)",
-        "4K Ultra HD",
-        "HDR10",
-        "Un jugador",
-        "60 fps +"
-      ],
+      "capabilities": [],
       "systemRequirements": [
         {
           "title": "SO",
@@ -20664,7 +20623,7 @@
       ],
       "maxInstallSize": 97710505984,
       "hasAddOns": true,
-      "storeUrl": "https://www.xbox.com/es-es/games/store/far-cry-6/9N661LCNBH8J"
+      "storeUrl": "https://www.xbox.com/es-es/games/store/far-cry-6/9PJ45NJCHSFS"
     },
     {
       "id": "C1DDW4PRF6K5",
@@ -22082,8 +22041,8 @@
       "shortDescription": "Toma las riendas del banquillo y vive el futuro de la gestión futbolística.",
       "developer": "Sports Interactive",
       "publisher": "SEGA",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.6041.14159410862978133.7c5b05a0-1976-489a-bd7a-86c4a37ecd73.adb8e479-e416-4cf0-af80-f20fefc13591",
-      "heroImage": "https://store-images.s-microsoft.com/image/apps.64069.14159410862978133.7c5b05a0-1976-489a-bd7a-86c4a37ecd73.8539cf27-dfb2-488e-8ae0-c14ac7b8e3f0",
+      "imageUrl": "https://store-images.s-microsoft.com/image/apps.16795.14159410862978133.08a7ac44-5c17-4c0d-a8d6-c3e247e74fcb.a9467371-4bb3-44ec-b989-4ed9a79314e9",
+      "heroImage": "https://store-images.s-microsoft.com/image/apps.8539.14159410862978133.1c4f3bd5-0a15-470c-8be1-1c69266a4dc3.3d41f085-0cf7-419a-8b62-4b021e6c7527",
       "screenshots": [
         "https://store-images.s-microsoft.com/image/apps.11666.14159410862978133.59e5ae94-e081-4e9e-ba32-528c4218bab1.dbe653ae-d8f9-4824-a800-a302ee106598",
         "https://store-images.s-microsoft.com/image/apps.28712.14159410862978133.59e5ae94-e081-4e9e-ba32-528c4218bab1.f04762ac-7dee-4c5c-9374-f81c78bf6b5c",
@@ -22165,8 +22124,8 @@
       "shortDescription": "Toma las riendas del banquillo y vive el futuro de la gestión futbolística.",
       "developer": "Sports Interactive",
       "publisher": "SEGA",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.51030.13754609462095808.4b0cebe1-c2cc-45d6-a0b6-c2209d4557ef.70328451-88a1-4c41-b055-c1c123c0ac5b",
-      "heroImage": "https://store-images.s-microsoft.com/image/apps.64069.13754609462095808.4b0cebe1-c2cc-45d6-a0b6-c2209d4557ef.e6ed6164-c940-408a-8cf1-ee129f966af1",
+      "imageUrl": "https://store-images.s-microsoft.com/image/apps.63033.13754609462095808.6e939a74-099e-490d-b009-02e7105155bd.6e09f097-e938-4a50-85b4-6e14b4800029",
+      "heroImage": "https://store-images.s-microsoft.com/image/apps.18485.13754609462095808.6e939a74-099e-490d-b009-02e7105155bd.57af7efd-c236-4f6c-ad75-9181b7718799",
       "screenshots": [
         "https://store-images.s-microsoft.com/image/apps.64734.13754609462095808.39c57bee-fcbb-4811-982c-c79eb7825846.fd74ae2b-4761-47f3-a2bb-78029bfeb6dc",
         "https://store-images.s-microsoft.com/image/apps.37643.13754609462095808.39c57bee-fcbb-4811-982c-c79eb7825846.78240c2f-6fd4-47ef-bb6a-d854b7b3ce29",
@@ -22249,6 +22208,88 @@
       "storeUrl": "https://www.xbox.com/es-es/games/store/football-manager-26-console/9NMNZ4CK59DM"
     },
     {
+      "id": "9P82LXD5RH31",
+      "title": "FOR HONOR",
+      "description": "DOMINA THE ART OF BATTLE\nSiente la potencia de cada golpe con el sistema de control The Art of Battle. Blande el arma de acuerdo con tu estilo: el veloz Asesino, el potente Pesado, el versátil Vanguardia o el técnico Híbrido.\n\nUN JUEGO SIN FIN\n¡Disfruta de una experiencia en constante evolución con más de 30 héroes, cinco facciones, 18 mapas, eventos estacionales, miles de objetos, juego multiplataforma y mucho más! \n\nPERSONALIZA TUS HÉROES\n¡Desbloquea recompensas y personaliza tus héroes con miles de armas, emblemas y más!\n\nUNA CAMPAÑA MEMORABLE\nAtaca castillos y fortalezas en combates descomunales y enfréntate a jefes en intensos duelos.\n\n\n¡Elige la Ultimate Edition, con 12 héroes adicionales para disfrutar de la mejor experiencia!",
+      "shortDescription": "Lucha solo o con amigos en For Honor, un juego de lucha cuerpo a cuerpo en tercera persona basado en héroes. Entra en el caos de la guerra como caballero, vikingo, samurái, Wu Lin o forastero. Lucha en brutales modos JcJ y por equipos, o vive una apasionante campaña.",
+      "developer": "",
+      "publisher": "Ubisoft",
+      "imageUrl": "https://store-images.s-microsoft.com/image/apps.25646.13664541971149542.2f5fbe40-bf98-4cd6-8d48-94e08f070c43.6d276a88-3831-4398-aefe-e6bcac845ddf",
+      "heroImage": "https://store-images.s-microsoft.com/image/apps.44059.13664541971149542.2f5fbe40-bf98-4cd6-8d48-94e08f070c43.fd1de821-de65-4361-a8ea-241c5823da0d",
+      "screenshots": [
+        "https://store-images.s-microsoft.com/image/apps.15683.13664541971149542.2f5fbe40-bf98-4cd6-8d48-94e08f070c43.ed94c525-7ec9-4f9a-bdcc-9d04cf3949c1",
+        "https://store-images.s-microsoft.com/image/apps.57209.13664541971149542.2f5fbe40-bf98-4cd6-8d48-94e08f070c43.622c1e09-acf0-4edc-825a-cd05ad8bf2b7",
+        "https://store-images.s-microsoft.com/image/apps.29897.13664541971149542.2f5fbe40-bf98-4cd6-8d48-94e08f070c43.27d4be85-2f52-4ee0-aaa5-5e5725ca790c",
+        "https://store-images.s-microsoft.com/image/apps.29808.13664541971149542.2f5fbe40-bf98-4cd6-8d48-94e08f070c43.65d10223-a2a3-48a8-b437-0c915e79d26e"
+      ],
+      "videoUrl": "",
+      "videoCaption": "",
+      "releaseDate": "2026-07-21",
+      "categories": [
+        "Acción y aventura"
+      ],
+      "tiers": [
+        "pc",
+        "premium",
+        "ultimate"
+      ],
+      "platform": "pc",
+      "price": 29.99,
+      "msrp": 29.99,
+      "currency": "EUR",
+      "hasDiscount": false,
+      "discountPercent": 0,
+      "rating": 0,
+      "ratingCount": 0,
+      "ageRating": 18,
+      "pegiRating": "PEGI 18",
+      "pegiDescription": "Apropiado a partir de 18 años",
+      "interactiveDescriptions": [
+        "Compras dentro del juego"
+      ],
+      "capabilities": [],
+      "systemRequirements": [
+        {
+          "title": "SO",
+          "minimum": "Windows 10 version 18362.0 or higher",
+          "recommended": "Windows 10 version 18362.0 or higher"
+        },
+        {
+          "title": "Arquitectura",
+          "minimum": "x64",
+          "recommended": "x64"
+        },
+        {
+          "title": "Gráficos",
+          "minimum": "AMD Radeon R9 270 (2 GB), NVIDIA GeForce GTX 950 (2 GB), or better",
+          "recommended": "AMD Radeon RX580 (4 GB), NVIDIA GeForce GTX 1060 (3 GB), or better"
+        },
+        {
+          "title": "Procesador",
+          "minimum": " AMD FX-4300 @3.8 GHz, Intel Core i3-4150 @3.5 GHz, or equivalent",
+          "recommended": "AMD Ryzen 5 1400 @3.2 GHz, Intel Core i5-7500 @3.4 GHz, or equivalent"
+        },
+        {
+          "title": "DirectX",
+          "minimum": "Versión 9",
+          "recommended": "Versión 9"
+        },
+        {
+          "title": "Memoria",
+          "minimum": "4 GB",
+          "recommended": "8 GB"
+        },
+        {
+          "title": "Memoria de vídeo",
+          "minimum": "2 GB",
+          "recommended": "4 GB"
+        }
+      ],
+      "maxInstallSize": 10612736,
+      "hasAddOns": true,
+      "storeUrl": "https://www.xbox.com/es-es/games/store/for-honor/9P82LXD5RH31"
+    },
+    {
       "id": "9N3DWR830CVN",
       "title": "FOR HONOR - Standard Edition",
       "description": "¡Juega gratis del 7/23 al 8/4! Además, si decides comprar el juego podrás conservar tu progreso.\n\nEste juego está optimizado para la próxima generación (resolución 4K, 60 FPS para Xbox Series X / 1080p para Xbox Series S). Puedes usar la función de guardado multiplataforma: tu perfil, incluyendo progresos, todas las compras e inventario, se compartirá de manera automática.\n\nDescubre For Honor, un nuevo y revolucionario juego de acción cuerpo a cuerpo desarrollado por Ubisoft Montreal en colaboración con otros estudios de Ubisoft.\n\n• CONTROLA A GUERREROS ÚNICOS\nElige tu favorito entre valientes Caballeros, brutales Vikingos y mortíferos Samuráis con armas y estilos de juego únicos.\n\n• UNA CAMPAÑA MEMORABLE\nAtaca castillos y fortalezas y enfréntate a jefes en intensos duelos para asegurar tu supervivencia.\n\n• CONQUISTA ENEMIGOS SOLO O CON AMIGOS\nFor Honor presenta un atractivo modo individual, una campaña offline y un emocionante multijugador.\n\n• INNOVADOR SISTEMA DE CONTROL \"ART OF BATTLE\". \nEmpuña tu arma y siente la potencia de cada golpe.\n\nSe requiere una conexión a internet, una cuenta de Ubisoft, una cuenta de Microsoft y Game Pass Ultimate o Core (suscripciones vendidas por separado) para acceder a las funciones/multijugador en línea.",
@@ -22306,82 +22347,6 @@
       "maxInstallSize": 121791086592,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/for-honor-standard-edition/9N3DWR830CVN"
-    },
-    {
-      "id": "9PDWSL3BZ6WS",
-      "title": "FOR HONOR - Standard Edition",
-      "description": "DOMINA THE ART OF BATTLE\nSiente la potencia de cada golpe con el sistema de control The Art of Battle. Blande el arma de acuerdo con tu estilo: el veloz Asesino, el potente Pesado, el versátil Vanguardia o el técnico Híbrido.\n\nUN JUEGO SIN FIN\n¡Disfruta de una experiencia en constante evolución con más de 30 héroes, cinco facciones, 18 mapas, eventos estacionales, miles de objetos, juego multiplataforma y mucho más! \n\nPERSONALIZA TUS HÉROES\n¡Desbloquea recompensas y personaliza tus héroes con miles de armas, emblemas y más!\n\nUNA CAMPAÑA MEMORABLE\nAtaca castillos y fortalezas en combates descomunales y enfréntate a jefes en intensos duelos.\n\n\n¡Elige la Ultimate Edition, con 12 héroes adicionales para disfrutar de la mejor experiencia!",
-      "shortDescription": "Lucha solo o con amigos en For Honor, un juego de lucha cuerpo a cuerpo en tercera persona basado en héroes. Entra en el caos de la guerra como caballero, vikingo, samurái, Wu Lin o forastero. Lucha en brutales modos JcJ y por equipos, o vive una apasionante campaña.",
-      "developer": "",
-      "publisher": "Ubisoft",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.25646.14211822826622421.7ad86c5f-f956-4a16-8f6f-0b05242e2a34.3d8aa2f9-5e0c-4152-92d3-328193d90feb",
-      "heroImage": "https://store-images.s-microsoft.com/image/apps.44059.14211822826622421.7ad86c5f-f956-4a16-8f6f-0b05242e2a34.7036d7f1-9a5a-46e5-8b41-739766cf988b",
-      "screenshots": [
-        "https://store-images.s-microsoft.com/image/apps.15683.14211822826622421.7ad86c5f-f956-4a16-8f6f-0b05242e2a34.a9d9a545-2aac-4ba8-93ec-ec57cf77b8c4",
-        "https://store-images.s-microsoft.com/image/apps.57209.14211822826622421.7ad86c5f-f956-4a16-8f6f-0b05242e2a34.d2c1edec-400b-49e6-8e75-6dcc0bb7dd0e",
-        "https://store-images.s-microsoft.com/image/apps.29897.14211822826622421.7ad86c5f-f956-4a16-8f6f-0b05242e2a34.1b2df6f2-a0e5-421a-af52-f97c64e2c4d0",
-        "https://store-images.s-microsoft.com/image/apps.29808.14211822826622421.7ad86c5f-f956-4a16-8f6f-0b05242e2a34.79dc2723-ff21-4f1e-80f8-d8d2e67febb3"
-      ],
-      "videoUrl": "",
-      "videoCaption": "",
-      "releaseDate": "",
-      "categories": [
-        "Acción y aventura"
-      ],
-      "tiers": [
-        "pc",
-        "premium",
-        "ultimate"
-      ],
-      "platform": "pc",
-      "price": 0,
-      "msrp": 0,
-      "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
-      "rating": 0,
-      "ratingCount": 0,
-      "ageRating": 18,
-      "pegiRating": "PEGI 18",
-      "pegiDescription": "Apropiado a partir de 18 años",
-      "interactiveDescriptions": [
-        "Compras dentro del juego"
-      ],
-      "capabilities": [
-        "4K Ultra HD",
-        "Un jugador",
-        "60 fps +"
-      ],
-      "systemRequirements": [
-        {
-          "title": "Gráficos",
-          "minimum": "AMD Radeon R9 270 (2 GB), NVIDIA GeForce GTX 950 (2 GB), or better",
-          "recommended": "AMD Radeon RX580 (4 GB), NVIDIA GeForce GTX 1060 (3 GB), or better"
-        },
-        {
-          "title": "Procesador",
-          "minimum": "AMD FX-4300 @3.8 GHz, Intel Core i3-4150 @3.5 GHz, or equivalent",
-          "recommended": "AMD Ryzen 5 1400 @3.2 GHz, Intel Core i5-7500 @3.4 GHz, or equivalent"
-        },
-        {
-          "title": "DirectX",
-          "minimum": "Versión 9",
-          "recommended": "Versión 9"
-        },
-        {
-          "title": "Memoria",
-          "minimum": "4 GB",
-          "recommended": "8 GB"
-        },
-        {
-          "title": "Memoria de vídeo",
-          "minimum": "2 GB",
-          "recommended": "4 GB"
-        }
-      ],
-      "maxInstallSize": 0,
-      "hasAddOns": false,
-      "storeUrl": "https://www.xbox.com/es-es/games/store/for-honor-standard-edition/9PDWSL3BZ6WS"
     },
     {
       "id": "C4CBF3FHHCND",
@@ -23411,7 +23376,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.6,
-      "ratingCount": 11246,
+      "ratingCount": 11247,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -23595,7 +23560,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 2.9,
-      "ratingCount": 355,
+      "ratingCount": 354,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -24003,7 +23968,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.5,
-      "ratingCount": 589,
+      "ratingCount": 588,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -26809,6 +26774,7 @@
       ],
       "tiers": [
         "pc",
+        "premium",
         "ultimate"
       ],
       "platform": "both",
@@ -26882,7 +26848,7 @@
       "storeUrl": "https://www.xbox.com/es-es/games/store/heretic-hexen/9NC7NRD0CM11"
     },
     {
-      "id": "9P96BJ164SL8",
+      "id": "9P5241RBH1SZ",
       "title": "Heroes of Might and Magic 3 - Complete Edition",
       "description": "Asesinado por traidores y resucitado por los nigromantes como un liche no muerto, el fallecido rey de Erathia se pone al frente de sus enemigos para recuperar su antiguo reino. Su avance se detiene cuando su hija Catherine, reina de Enroth, regresa a las orillas de su patria. Al servicio de Erathia y asediado por enemigos externos e internos, estás al mando de los mayores héroes del territorio y las criaturas más feroces en la guerra de la reina Catherine para recuperar su patria, descubrir al asesino de su padre y liberarlo de la prisión de su cuerpo no muerto.\n\nMás de 200 mapas y escenarios distintos que explorar y conquistar.\nLa mecánica de juego por turnos permite que todo el mundo juegue a su propio ritmo.\nRejugabilidad ilimitada y única con el generador de escenarios aleatorio.\n\nHeroes III: Armageddon's Blade\nEn el demoníaco reino de Eeofol, Lucifer Kreegan tiene la visión de prender fuego al mundo con la construcción de la Espada del Apocalipsis. Para intentar destronar al demente rey, Catherine lleva a cabo una invasión. Pero sus generales informan de la aparición del fénix de fuego y de misteriosos conflujos elementales. Mientras Catherine sopesa su siguiente movimiento, se pregunta si estos presagios vaticinan la victoria de Erathia... o la destrucción del mundo.\n\nHeroes III: The Shadow of Death\nSandro, un liche sediento de poder, busca dos poderosos artefactos de combinación que le permitirán convertirse en el dueño absoluto de Antagarich. Cuatro valientes héroes deben encontrar la legendaria espada de la Alianza Angelical para derrotar a las imparables fuerzas de los no muertos en el transcurso de las siete emocionantes campañas.",
       "shortDescription": "El paquete incluye el \"Heroes of Might and Magic III\" original y sus dos expansiones: \"Armageddon's Blade\" y \"The Shadow of Death\". ",
@@ -26898,9 +26864,8 @@
       ],
       "videoUrl": "",
       "videoCaption": "",
-      "releaseDate": "1999-02-28",
+      "releaseDate": "2026-07-21",
       "categories": [
-        "Juegos de rol",
         "Estrategia"
       ],
       "tiers": [
@@ -26908,11 +26873,11 @@
         "ultimate"
       ],
       "platform": "pc",
-      "price": 2.49,
+      "price": 9.99,
       "msrp": 9.99,
       "currency": "EUR",
-      "hasDiscount": true,
-      "discountPercent": 75,
+      "hasDiscount": false,
+      "discountPercent": 0,
       "rating": 0,
       "ratingCount": 0,
       "ageRating": 12,
@@ -26921,9 +26886,7 @@
       "interactiveDescriptions": [
         "Interacción de usuarios"
       ],
-      "capabilities": [
-        "Un jugador"
-      ],
+      "capabilities": [],
       "systemRequirements": [
         {
           "title": "SO",
@@ -26938,10 +26901,10 @@
       ],
       "maxInstallSize": 10612736,
       "hasAddOns": false,
-      "storeUrl": "https://www.xbox.com/es-es/games/store/heroes-of-might-and-magic-3-complete-edition/9P96BJ164SL8"
+      "storeUrl": "https://www.xbox.com/es-es/games/store/heroes-of-might-and-magic-3-complete-edition/9P5241RBH1SZ"
     },
     {
-      "id": "9N5TWT260Q8H",
+      "id": "9NSB55HX1GGN",
       "title": "Heroes of Might and Magic II - Gold Edition",
       "description": "Lord Ironfist ha muerto y el Reino se ha sumido en una feroz guerra civil provocada por sus hijos enfrentados. En juego está el premio supremo: el control de la tierra y la sucesión al trono real. ¿Apoyarás al usurpador malvado y liderarás los ejércitos del mal o serás leal al príncipe justo y liberarás al pueblo de la tiranía?",
       "shortDescription": "Lord Ironfist ha muerto y el Reino se ha sumido en una feroz guerra civil provocada por sus hijos enfrentados. En juego está el premio supremo: el control de la tierra y la sucesión al trono real. ¿Apoyarás al usurpador malvado y liderarás los ejércitos del mal o serás leal al príncipe justo y liberarás al pueblo de la tiranía?",
@@ -26957,30 +26920,27 @@
       ],
       "videoUrl": "",
       "videoCaption": "",
-      "releaseDate": "1996-10-01",
+      "releaseDate": "2026-07-21",
       "categories": [
-        "Estrategia",
-        "Juegos de rol"
+        "Estrategia"
       ],
       "tiers": [
         "pc",
         "ultimate"
       ],
       "platform": "pc",
-      "price": 2.49,
+      "price": 9.99,
       "msrp": 9.99,
       "currency": "EUR",
-      "hasDiscount": true,
-      "discountPercent": 75,
+      "hasDiscount": false,
+      "discountPercent": 0,
       "rating": 0,
       "ratingCount": 0,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
       "interactiveDescriptions": [],
-      "capabilities": [
-        "Un jugador"
-      ],
+      "capabilities": [],
       "systemRequirements": [
         {
           "title": "SO",
@@ -26995,7 +26955,7 @@
       ],
       "maxInstallSize": 10612736,
       "hasAddOns": false,
-      "storeUrl": "https://www.xbox.com/es-es/games/store/heroes-of-might-and-magic-ii-gold-edition/9N5TWT260Q8H"
+      "storeUrl": "https://www.xbox.com/es-es/games/store/heroes-of-might-and-magic-ii-gold-edition/9NSB55HX1GGN"
     },
     {
       "id": "9P2TFCCRKMRD",
@@ -28125,7 +28085,7 @@
       "hasDiscount": true,
       "discountPercent": 80,
       "rating": 4.3,
-      "ratingCount": 149,
+      "ratingCount": 150,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -28156,10 +28116,10 @@
       "storeUrl": "https://www.xbox.com/es-es/games/store/immortals-fenyx-rising/C07KJZRH0L7S"
     },
     {
-      "id": "9NFPNPLR8VBK",
+      "id": "9NV0Q705NQ2N",
       "title": "Immortals Fenyx Rising™",
-      "description": "Immortals Fenyx Rising dota de vida a una grandiosa aventura mitológica. \r\n\r\nJuega en la piel de Fenyx, una nueva semideidad alada, y salva a los dioses griegos. El destino del mundo está en juego. Eres la última esperanza de los dioses.\r\n\r\n- Blande los poderes de estos y usa la espada de Aquiles y las alas de Dédalo para luchar contra enemigos poderosos y resolver rompecabezas antiquísimos.\r\n- Enfréntate a bestias mitológicas como Medusa o los legendarios cíclopes en trepidantes combates, aéreos o terrestres.\r\n- Aprovecha tus habilidades y una gran diversidad de armas como flechas guiadas o Telequinesis para provocar auténticos estragos.\r\n- Descubre un estilizado mundo abierto formado por siete regiones diferentes, cada una inspirada en un dios.\r\n\r\nEste juego aprovecha Smart Delivery, que permite acceder al título para Xbox One y para Xbox Series X y S.",
-      "shortDescription": "Immortals Fenyx Rising dota de vida a una grandiosa aventura mitológica. Juega en la piel de Fenyx y salva a los dioses griegos de una tenebrosa maldición. \r\n\r\nBlande los poderes de los dioses para enfrentarte a poderosas bestias mitológicas por tierra o por aire y resuelve rompecabezas antiquísimos. \r\n\r\nEl destino del mundo está en juego. Eres la última esperanza de los dioses.",
+      "description": "Immortals Fenyx Rising dota de vida a una grandiosa aventura mitológica. \n\nJuega en la piel de Fenyx, una nueva semideidad alada, y salva a los dioses griegos. El destino del mundo está en juego. Eres la última esperanza de los dioses.\n\n- Blande los poderes de estos y usa la espada de Aquiles y las alas de Dédalo para luchar contra enemigos poderosos y resolver rompecabezas antiquísimos.\n- Enfréntate a bestias mitológicas como Medusa o los legendarios cíclopes en trepidantes combates, aéreos o terrestres.\n- Aprovecha tus habilidades y una gran diversidad de armas como flechas guiadas o Telequinesis para provocar auténticos estragos.\n- Descubre un estilizado mundo abierto formado por siete regiones diferentes, cada una inspirada en un dios.\n\nEste juego aprovecha Smart Delivery, que permite acceder al título para Xbox One y para Xbox Series X y S.",
+      "shortDescription": "Immortals Fenyx Rising dota de vida a una grandiosa aventura mitológica. Juega en la piel de Fenyx y salva a los dioses griegos de una tenebrosa maldición. \n\nBlande los poderes de los dioses para enfrentarte a poderosas bestias mitológicas por tierra o por aire y resuelve rompecabezas antiquísimos. \n\nEl destino del mundo está en juego. Eres la última esperanza de los dioses.",
       "developer": "UBISOFT Quebec",
       "publisher": "Ubisoft",
       "imageUrl": "https://store-images.s-microsoft.com/image/apps.24779.64682799204913125.f407971c-f15c-4acc-99e1-682aec54019d.985e964e-48ec-4ebe-959d-58fdbe158f01",
@@ -28170,9 +28130,9 @@
         "https://store-images.s-microsoft.com/image/apps.54863.64682799204913125.f407971c-f15c-4acc-99e1-682aec54019d.219d61c4-13ed-4f3e-b880-2865e6ea2c36",
         "https://store-images.s-microsoft.com/image/apps.7768.64682799204913125.f407971c-f15c-4acc-99e1-682aec54019d.0d4cf913-b801-4450-a50e-1131f7bc1b54"
       ],
-      "videoUrl": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftassets/a84664f1-f1f6-44b8-98c6-93b831c3458d-AVS.m3u8?packagedStreaming=true",
+      "videoUrl": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftassets/412d5d1c-aefc-461c-930d-fc168be73611-AVS.m3u8?packagedStreaming=true",
       "videoCaption": "Trailer Immortals Fenyx Rising",
-      "releaseDate": "2025-05-06",
+      "releaseDate": "2026-07-21",
       "categories": [
         "Acción y aventura"
       ],
@@ -28182,11 +28142,11 @@
         "ultimate"
       ],
       "platform": "pc",
-      "price": 7.99,
+      "price": 39.99,
       "msrp": 39.99,
       "currency": "EUR",
-      "hasDiscount": true,
-      "discountPercent": 80,
+      "hasDiscount": false,
+      "discountPercent": 0,
       "rating": 0,
       "ratingCount": 0,
       "ageRating": 12,
@@ -28195,12 +28155,7 @@
       "interactiveDescriptions": [
         "Compras dentro del juego"
       ],
-      "capabilities": [
-        "4K Ultra HD",
-        "HDR10",
-        "Un jugador",
-        "60 fps +"
-      ],
+      "capabilities": [],
       "systemRequirements": [
         {
           "title": "SO",
@@ -28240,7 +28195,7 @@
       ],
       "maxInstallSize": 64424509440,
       "hasAddOns": true,
-      "storeUrl": "https://www.xbox.com/es-es/games/store/immortals-fenyx-rising/9NFPNPLR8VBK"
+      "storeUrl": "https://www.xbox.com/es-es/games/store/immortals-fenyx-rising/9NV0Q705NQ2N"
     },
     {
       "id": "9NSD4HTWM8HT",
@@ -30102,8 +30057,8 @@
       "currency": "EUR",
       "hasDiscount": true,
       "discountPercent": 85,
-      "rating": 3.9,
-      "ratingCount": 21,
+      "rating": 3.8,
+      "ratingCount": 20,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -32251,7 +32206,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 16443633664,
+      "maxInstallSize": 16442646528,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/mavrix-by-matt-jones/9NZX67J81X6F"
     },
@@ -33291,7 +33246,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.7,
-      "ratingCount": 11300,
+      "ratingCount": 11301,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -33353,7 +33308,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.7,
-      "ratingCount": 51317,
+      "ratingCount": 51328,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -33736,7 +33691,7 @@
       "hasDiscount": true,
       "discountPercent": 60,
       "rating": 4,
-      "ratingCount": 15675,
+      "ratingCount": 15678,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -33931,7 +33886,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.5,
-      "ratingCount": 61239,
+      "ratingCount": 61246,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -34228,7 +34183,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.1,
-      "ratingCount": 165,
+      "ratingCount": 166,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -34287,6 +34242,49 @@
       "maxInstallSize": 12058365952,
       "hasAddOns": false,
       "storeUrl": "https://www.xbox.com/es-es/games/store/mixtape/9NH0MSG29X6L"
+    },
+    {
+      "id": "9NVH8SJNX20S",
+      "title": "MONOPOLY 2024",
+      "description": "MONOPOLY® vuelve con un aspecto renovado y una mejor experiencia de juego. Compra, vende e intercambia propiedades, y haz crecer tu imperio en esta fiel adaptación del juego con el que todos crecimos. Tira los dados, empieza la partida y lánzate a explorar una emocionante ciudad en 3D completamente animada. \n\nEL TABLERO COBRA VIDA\n- MONOPOLY sube el listón de la saga clásica gracias a una detallada ciudad en 3D y gráficos de última generación.\n- Desplázate por el tablero para explorar la ciudad y sus distintos vecindarios, o espía a tus oponentes antes de tu siguiente movimiento.\n- El juego dispone de ciclos meteorológicos y de día/noche. Admira la ciudad mientras una mañana soleada se transforma en una noche tormentosa.\n\nCOMO JUGAR EN TABLERO\n- Siente la esencia de jugar en tablero en cada compra, venta e intercambio, y planifica tu estrategia para forrarte.\n- Ahora puedes manipular tu ficha moviéndola de un lado a otro y haciendo saltos. ¿Quieres vengarte por tu bancarrota? ¡Tumba las fichas del culpable! ¿Acabarás en la cárcel? ¡Lanza todo el tablero! \n\nLA ESENCIA DE UNA TARDE DE JUEGOS EN FAMILIA\n- Monta una partida de hasta seis jugadores en tu sala de estar, o compite en línea* contra otros magnates del sector inmobiliario de todo el mundo. ¡También es posible jugar a MONOPOLY entre distintas plataformas!\n- Elige usar un mando para todos, o que cada jugador utilice el suyo.\n- Personaliza tus dados y descubre tus fichas favoritas desde una perspectiva nueva.\n",
+      "shortDescription": "MONOPOLY® vuelve con un aspecto renovado y una mejor experiencia de juego. Compra, vende e intercambia propiedades, y haz crecer tu imperio en una ciudad en 3D completamente animada en la que vivirás días soleados y noches tormentosas mientras juegas.",
+      "developer": "",
+      "publisher": "Ubisoft",
+      "imageUrl": "https://store-images.s-microsoft.com/image/apps.24554.14343020341393542.4f6cb4fc-0df1-45e4-a990-fc48bedc288e.b73882ca-49f6-4393-8ec0-b101494ee32d",
+      "heroImage": "https://store-images.s-microsoft.com/image/apps.41221.14343020341393542.4f6cb4fc-0df1-45e4-a990-fc48bedc288e.3eb44155-7303-4c78-95b7-7af636772e34",
+      "screenshots": [
+        "https://store-images.s-microsoft.com/image/apps.45862.14343020341393542.4f6cb4fc-0df1-45e4-a990-fc48bedc288e.93e5c71e-afcc-4807-b11a-2301e125f82a",
+        "https://store-images.s-microsoft.com/image/apps.56535.14343020341393542.4f6cb4fc-0df1-45e4-a990-fc48bedc288e.6288d856-532e-4e1f-bd17-d768922f4b62",
+        "https://store-images.s-microsoft.com/image/apps.43080.14343020341393542.4f6cb4fc-0df1-45e4-a990-fc48bedc288e.9c5d4afa-06d6-4180-891a-de5f8aad9cb2",
+        "https://store-images.s-microsoft.com/image/apps.40132.14343020341393542.4f6cb4fc-0df1-45e4-a990-fc48bedc288e.4292849e-79d9-4677-916d-ef4f71e29077"
+      ],
+      "videoUrl": "",
+      "videoCaption": "",
+      "releaseDate": "2026-07-21",
+      "categories": [
+        "Juegos de mesa"
+      ],
+      "tiers": [
+        "pc",
+        "ultimate"
+      ],
+      "platform": "pc",
+      "price": 14.99,
+      "msrp": 14.99,
+      "currency": "EUR",
+      "hasDiscount": false,
+      "discountPercent": 0,
+      "rating": 0,
+      "ratingCount": 0,
+      "ageRating": 3,
+      "pegiRating": "PEGI 3",
+      "pegiDescription": "Apropiado a partir de 3 años",
+      "interactiveDescriptions": [],
+      "capabilities": [],
+      "systemRequirements": [],
+      "maxInstallSize": 5368709120,
+      "hasAddOns": false,
+      "storeUrl": "https://www.xbox.com/es-es/games/store/monopoly-2024/9NVH8SJNX20S"
     },
     {
       "id": "9MTP0GJ0Q3MG",
@@ -36247,81 +36245,6 @@
       "maxInstallSize": 2895560704,
       "hasAddOns": false,
       "storeUrl": "https://www.xbox.com/es-es/games/store/new-monopoly/9P8H220G3S4P"
-    },
-    {
-      "id": "9NTJMT7D8VVV",
-      "title": "NEW MONOPOLY®",
-      "description": "NEW MONOPOLY® (antes llamado MONOPOLY® 2024) es el mismo juego, pero con otro nombre. Si tienes alguna pregunta o necesitas ayuda, no dudes en ponerte en contacto con el servicio de atención al cliente de Ubisoft en ubisoft.com/r/help/monopoly\n\nNEW MONOPOLY® vuelve con un aspecto renovado y una mejor experiencia de juego. Compra, vende e intercambia propiedades, y haz crecer tu imperio en esta fiel adaptación del juego con el que todos crecimos. Tira los dados, empieza la partida y lánzate a explorar una emocionante ciudad en 3D completamente animada.\n\nEL TABLERO COBRA VIDA\nNEW MONOPOLY sube el listón de la saga clásica gracias a una detallada ciudad en 3D y gráficos de última generación.\n- Desplázate por el tablero para explorar la ciudad y sus distintos vecindarios, o espía a tus oponentes antes de tu siguiente movimiento.\n- Admira la ciudad mientras una mañana soleada se transforma en una noche tormentosa, gracias a los ciclos de día/noche y la variación meteorológica.\n\nCOMO JUGAR EN TABLERO\n- Siente la esencia de jugar en tablero en cada compra, venta e intercambio, y planifica tu estrategia para forrarte.\n- Ahora puedes manipular tu ficha moviéndola de un lado a otro y haciendo saltos. ¿Quieres vengarte por tu bancarrota? ¡Tumba las fichas del culpable! ¿Acabarás en la cárcel? ¡Lanza todo el tablero!\n\nLA ESENCIA DE UNA TARDE DE JUEGOS EN FAMILIA\n- Monta una partida de hasta seis jugadores en tu sala de estar, o compite en línea contra otros magnates del sector inmobiliario de todo el mundo. ¡También es posible jugar a NEW MONOPOLY entre distintas plataformas!\n- Elige usar un mando para todos, o que cada jugador utilice el suyo.\n- Personaliza tus dados y descubre tus fichas favoritas desde una perspectiva nueva.",
-      "shortDescription": "MONOPOLY® vuelve con un aspecto renovado y una mejor experiencia de juego. Compra, vende e intercambia propiedades, y haz crecer tu imperio en una ciudad en 3D completamente animada en la que vivirás días soleados y noches tormentosas mientras juegas.",
-      "developer": "",
-      "publisher": "Ubisoft",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.64235.14413018653132681.2d76bec8-c25a-469e-9cf1-eaaa965332ec.caaf0b02-181d-4f13-b640-5e572719e02c",
-      "heroImage": "https://store-images.s-microsoft.com/image/apps.5343.14413018653132681.2d76bec8-c25a-469e-9cf1-eaaa965332ec.1dc377f5-40a8-4de9-91b2-5512700b15c9",
-      "screenshots": [
-        "https://store-images.s-microsoft.com/image/apps.64758.14413018653132681.d282348d-2cd2-4032-824b-309efde9e63e.30024ec6-47b4-4cef-84ff-fee68b924bd2",
-        "https://store-images.s-microsoft.com/image/apps.31292.14413018653132681.d282348d-2cd2-4032-824b-309efde9e63e.987022f8-871a-430c-95a7-3337ebf83d2f",
-        "https://store-images.s-microsoft.com/image/apps.13652.14413018653132681.d282348d-2cd2-4032-824b-309efde9e63e.b4f5dcbc-fb03-42c4-b76a-bbd490b8df35",
-        "https://store-images.s-microsoft.com/image/apps.16096.14413018653132681.d282348d-2cd2-4032-824b-309efde9e63e.9b00a2a6-4d34-4b56-be8b-4753801a409a"
-      ],
-      "videoUrl": "",
-      "videoCaption": "",
-      "releaseDate": "",
-      "categories": [
-        "Clásicos",
-        "Niños y familia",
-        "Juegos de mesa"
-      ],
-      "tiers": [
-        "pc",
-        "ultimate"
-      ],
-      "platform": "pc",
-      "price": 0,
-      "msrp": 0,
-      "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
-      "rating": 0,
-      "ratingCount": 0,
-      "ageRating": 3,
-      "pegiRating": "PEGI 3",
-      "pegiDescription": "Apropiado a partir de 3 años",
-      "interactiveDescriptions": [],
-      "capabilities": [
-        "Multijugador local de Xbox (2-6)",
-        "Multijugador en línea  (2-6)",
-        "Multijugador multiplataforma de Xbox"
-      ],
-      "systemRequirements": [
-        {
-          "title": "SO",
-          "minimum": "Windows 10 version 18362.0 or higher",
-          "recommended": "Windows 10 version 18362.0 or higher"
-        },
-        {
-          "title": "Arquitectura",
-          "minimum": "x64",
-          "recommended": "x64"
-        },
-        {
-          "title": "Gráficos",
-          "minimum": "NVIDIA GeForce GTX 950 (2GB) or AMD Radeon RX 5500XT (4GB)",
-          "recommended": "NVIDIA GeForce GTX 1060 (6GB) or AMD Radeon RX 5600XT (6GB)"
-        },
-        {
-          "title": "Procesador",
-          "minimum": "Intel Core i3-6100 3.7 GHz, AMD Ryzen 3 1200 3.2 GHz",
-          "recommended": "Intel Core i5-8400 2.8 GHz, AMD Ryzen 5 2600 3.4 GHz"
-        },
-        {
-          "title": "Memoria",
-          "minimum": "8 GB",
-          "recommended": "8 GB"
-        }
-      ],
-      "maxInstallSize": 5368709120,
-      "hasAddOns": false,
-      "storeUrl": "https://www.xbox.com/es-es/games/store/new-monopoly/9NTJMT7D8VVV"
     },
     {
       "id": "9MZN3SMXN824",
@@ -38516,7 +38439,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.6,
-      "ratingCount": 828,
+      "ratingCount": 830,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -38704,7 +38627,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 1,
-      "ratingCount": 2,
+      "ratingCount": 3,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -40468,7 +40391,7 @@
       "storeUrl": "https://www.xbox.com/es-es/games/store/prince-of-persia-the-lost-crown/9P4LSLG7B8CT"
     },
     {
-      "id": "9PJ8CKFDWWLF",
+      "id": "9PDCBPJ8C47K",
       "title": "Prince of Persia The Lost Crown",
       "description": "Adéntrate en un elegante juego de plataformas repleto de acción y aventura. Viaja por la mitología persa y manipula los límites del espacio y el tiempo. ¡Controla a Sargón y pasa de ser un prodigio de la espada a toda una leyenda! Domina un combate ágil y desbloquea nuevos poderes del tiempo y habilidades especiales únicas que se acomoden a tu estilo de juego. \n \nLIBERA TU GUERRERO INTERIOR \nUsa tus poderes del tiempo, habilidades de combate y movimientos para desatar combos letales y derrotar enemigos corrompidos por el tiempo y criaturas mitológicas. Consigue nuevos amuletos en las tiendas para jugar a tu manera. \n \nSUMÉRGETE EN LA VASTA MONTAÑA DE QAF \nDescubre un mundo persa maldito y lleno de lugares exuberantes. Explora una gran variedad de biomas, cada uno con su propia identidad, maravillas y peligros. Ingéniatelas para resolver puzles, encontrar tesoros ocultos y completar misiones para descubrir más acerca de este lugar corrupto. \n \nVIVE UNA AVENTURA ÉPICA \nMétete de lleno en un mundo de fantasía dentro de la mitología persa gracias a una historia original y misteriosa mientras usas tu ingenio para resolver rompecabezas, encontrar tesoros ocultos y completar misiones a fin de desvelar los misterios de este corrupto lugar.\n\n",
       "shortDescription": "Adéntrate en un elegante juego de plataformas repleto de acción y aventura. Viaja por la mitología persa y manipula los límites del espacio y el tiempo. ¡Controla a Sargón y pasa de ser un prodigio de la espada a toda una leyenda! Domina un combate ágil y desbloquea nuevos poderes del tiempo y habilidades especiales únicas que se acomoden a tu estilo de juego.",
@@ -40484,7 +40407,7 @@
       ],
       "videoUrl": "",
       "videoCaption": "",
-      "releaseDate": "2025-07-24",
+      "releaseDate": "2026-07-21",
       "categories": [
         "Acción y aventura"
       ],
@@ -40493,11 +40416,11 @@
         "ultimate"
       ],
       "platform": "pc",
-      "price": 11.99,
+      "price": 39.99,
       "msrp": 39.99,
       "currency": "EUR",
-      "hasDiscount": true,
-      "discountPercent": 70,
+      "hasDiscount": false,
+      "discountPercent": 0,
       "rating": 0,
       "ratingCount": 0,
       "ageRating": 16,
@@ -40519,7 +40442,7 @@
       ],
       "maxInstallSize": 32212254720,
       "hasAddOns": true,
-      "storeUrl": "https://www.xbox.com/es-es/games/store/prince-of-persia-the-lost-crown/9PJ8CKFDWWLF"
+      "storeUrl": "https://www.xbox.com/es-es/games/store/prince-of-persia-the-lost-crown/9PDCBPJ8C47K"
     },
     {
       "id": "C5HHPG1TXDNG",
@@ -41336,8 +41259,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 2.6,
-      "ratingCount": 27,
+      "rating": 2.4,
+      "ratingCount": 31,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -41774,8 +41697,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 3.3,
-      "ratingCount": 15,
+      "rating": 3.2,
+      "ratingCount": 16,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -45245,7 +45168,7 @@
       "storeUrl": "https://www.xbox.com/es-es/games/store/skull-and-bones/BXF9VWKCD6QW"
     },
     {
-      "id": "9P7X7VL05K48",
+      "id": "9PG0S835V6J5",
       "title": "Skull and Bones",
       "description": "PARTICIPA EN ESPECTACULARES COMBATES NAVALES\nPrepárate para batallas devastadores fabricando distintos barcos y equipa a tu flota con potentes arsenales. Desbloquea armas más poderosas a medida que progresas y personaliza tus barcos para que reflejen tu estilo de juego único como pirata.\n\nZARPA HACIA UN PELIGROSO INFIERNO EN EL PARAÍSO\nPon rumbo al océano Índico y explora un vasto mundo abierto repleto de piratas implacables, monstruos marinos letales, amenazas sobrenaturales, tormentas devastadoras y mucho más.\n\nFORMA EQUIPO CON OTROS PIRATAS O LUCHA CONTRA ELLOS\nForma equipo con hasta dos amigos u otros jugadores para completar contratos y conseguir recompensas. O domina la competición y destruye a otros jugadores sanguinarios en un trepidante modo JcJ por equipos.\n\nDISFRUTA DE CONTENIDO EN CONSTANTE EVOLUCIÓN\nCada temporada enriquece la experiencia pirata con nuevas y emocionantes características, amenazas formidables, maneras nuevas de jugar el final del juego y mejoras diseñadas para mantener el interés de los jugadores.\n\nSe necesita una conexión estable a Internet y una cuenta de Ubisoft.",
       "shortDescription": "Zarpa hacia el dinámico mundo abierto de Skull and Bones, un RPG de acción online donde podrás compartir la infamia de los cabecillas piratas más temibles.",
@@ -45254,14 +45177,14 @@
       "imageUrl": "https://store-images.s-microsoft.com/image/apps.4282.63081064281400272.22dc605b-57df-47ca-ae17-888c5e63e437.718dae96-63c6-4795-be26-ea0a395fdd73",
       "heroImage": "https://store-images.s-microsoft.com/image/apps.25339.63081064281400272.22dc605b-57df-47ca-ae17-888c5e63e437.1cc6e3bd-f897-4a36-a20b-edb0b61b3aba",
       "screenshots": [
-        "https://store-images.s-microsoft.com/image/apps.12354.63081064281400272.22dc605b-57df-47ca-ae17-888c5e63e437.8553b5d9-facb-43b8-a893-3503b38166ef",
         "https://store-images.s-microsoft.com/image/apps.12354.14103239273711419.0bed8bc0-a665-467a-8759-c1c0bc50d054.81d2e533-842b-4bed-a42b-ce4e0c7e7509",
-        "https://store-images.s-microsoft.com/image/apps.64679.63081064281400272.22dc605b-57df-47ca-ae17-888c5e63e437.a87f696d-07c2-4650-a577-106eb8047237",
-        "https://store-images.s-microsoft.com/image/apps.64679.14103239273711419.0bed8bc0-a665-467a-8759-c1c0bc50d054.9633068f-dfea-4e04-8f16-78b41c2cd690"
+        "https://store-images.s-microsoft.com/image/apps.12354.63081064281400272.22dc605b-57df-47ca-ae17-888c5e63e437.8553b5d9-facb-43b8-a893-3503b38166ef",
+        "https://store-images.s-microsoft.com/image/apps.64679.14103239273711419.0bed8bc0-a665-467a-8759-c1c0bc50d054.9633068f-dfea-4e04-8f16-78b41c2cd690",
+        "https://store-images.s-microsoft.com/image/apps.64679.63081064281400272.22dc605b-57df-47ca-ae17-888c5e63e437.a87f696d-07c2-4650-a577-106eb8047237"
       ],
-      "videoUrl": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftassets/6cd38009-1fb3-40e1-9ace-5eb181e8fcbf-AVS.m3u8?packagedStreaming=true",
+      "videoUrl": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftassets/55c4e63b-6cc2-4acb-ac7d-f89468ce4c2b-AVS.m3u8?packagedStreaming=true",
       "videoCaption": "Highlights Trailer",
-      "releaseDate": "2025-07-24",
+      "releaseDate": "2026-07-21",
       "categories": [
         "Acción y aventura"
       ],
@@ -45270,11 +45193,11 @@
         "ultimate"
       ],
       "platform": "pc",
-      "price": 3.99,
+      "price": 39.99,
       "msrp": 39.99,
       "currency": "EUR",
-      "hasDiscount": true,
-      "discountPercent": 90,
+      "hasDiscount": false,
+      "discountPercent": 0,
       "rating": 0,
       "ratingCount": 0,
       "ageRating": 18,
@@ -45283,18 +45206,7 @@
       "interactiveDescriptions": [
         "Compras dentro del juego"
       ],
-      "capabilities": [
-        "Multijugador en línea  (2-20)",
-        "Multijugador multiplataforma de Xbox",
-        "HDR10",
-        "Cooperación multiplataforma de Xbox",
-        "Trazado de rayos",
-        "60 fps +",
-        "Mouse y teclado de la consola",
-        "Logros de Xbox",
-        "Presencia de Xbox",
-        "Cosas guardadas en la nube de Xbox"
-      ],
+      "capabilities": [],
       "systemRequirements": [
         {
           "title": "SO",
@@ -45339,7 +45251,7 @@
       ],
       "maxInstallSize": 69793218560,
       "hasAddOns": false,
-      "storeUrl": "https://www.xbox.com/es-es/games/store/skull-and-bones/9P7X7VL05K48"
+      "storeUrl": "https://www.xbox.com/es-es/games/store/skull-and-bones/9PG0S835V6J5"
     },
     {
       "id": "9N9C1TB18R3B",
@@ -46076,7 +45988,7 @@
       "storeUrl": "https://www.xbox.com/es-es/games/store/south-park-la-vara-de-la-verdad/9NQ26CN8MZ1R"
     },
     {
-      "id": "9NDQ5PS0447L",
+      "id": "9PJNXM82ZX47",
       "title": "South Park™ – Die rektakuläre Zerreißprobe™",
       "description": "Adéntrate en el sórdido submundo criminal de South Park con Mapache y Amigos, el grupo de aguerridos justicieros liderado por Eric Cartman, también conocido como Mapache. Únete a Mysterion, Cobertizo y el Cometa Humano entre otros para combatir el mal mientras el Mapache trata de que su equipo de superhéroes se convierta en el más querido de la historia.\n",
       "shortDescription": "Encarnarás al «niño nuevo» y te unirás a Stan, Kyle, Kenny y Cartman en otra hilarante y provocadora aventura rolera.",
@@ -46092,9 +46004,9 @@
       ],
       "videoUrl": "",
       "videoCaption": "",
-      "releaseDate": "2017-10-16",
+      "releaseDate": "2026-07-21",
       "categories": [
-        "Juegos de rol"
+        "Acción y aventura"
       ],
       "tiers": [
         "pc",
@@ -46102,11 +46014,11 @@
         "ultimate"
       ],
       "platform": "pc",
-      "price": 5.99,
+      "price": 29.99,
       "msrp": 29.99,
       "currency": "EUR",
-      "hasDiscount": true,
-      "discountPercent": 80,
+      "hasDiscount": false,
+      "discountPercent": 0,
       "rating": 0,
       "ratingCount": 0,
       "ageRating": 18,
@@ -46143,7 +46055,7 @@
       ],
       "maxInstallSize": 21474836480,
       "hasAddOns": true,
-      "storeUrl": "https://www.xbox.com/es-es/games/store/south-park-die-rektakul-re-zerrei-probe/9NDQ5PS0447L"
+      "storeUrl": "https://www.xbox.com/es-es/games/store/south-park-die-rektakul-re-zerrei-probe/9PJNXM82ZX47"
     },
     {
       "id": "C4VLMWJWM7BG",
@@ -46850,7 +46762,7 @@
       "storeUrl": "https://www.xbox.com/es-es/games/store/star-wars-outlaws/9NLHVWSFB0FC"
     },
     {
-      "id": "9N59CT2NKDPV",
+      "id": "9P1P7DWHBDBD",
       "title": "Star Wars Outlaws",
       "description": "Disfruta del primer juego de acción y aventuras en mundo abierto de Star Wars™ y explora distintos lugares por toda la galaxia, tanto nuevos como emblemáticos. Arriésgalo todo como la buscavidas Kay Vess, una sinvergüenza que anhela la libertad y comenzar una vida nueva. Pelea, roba y engaña a todos los sindicatos del crimen de la galaxia, y acaba en la lista de los más buscados de la galaxia.\n\nLa galaxia está llena de posibilidades para todos aquellos que se arriesgan.\n\nDESCUBRE UNA GALAXIA DE OPORTUNIDADES\nExplora lugares únicos, con ciudades y cantinas bulliciosas. Recorre enormes paisajes en tu speeder. Cada ubicación trae nuevas aventuras, desafíos únicos y recompensas atractivas, si te atreves a arriesgarte…\n\nVIVE LA HISTORIA ORIGINAL DE UNA BUSCAVIDAS\nVive la arriesgada vida de una forajida. Dale la vuelta a cualquier situación con la ayuda de Nix, lucha con tu bláster, derrota a enemigos con sigilo y artilugios o encuentra el momento adecuado para distraerlos y ganar ventaja.\n\nEMBÁRCATE EN MISIONES ARRIESGADAS\nEmbárcate en misiones arriesgadas de los sindicatos del crimen de toda la galaxia, pero con grandes recompensas. Roba objetos valiosos, infíltrate en ubicaciones secretas y engaña a tus enemigos jugando como una de las forajidas más buscadas de la galaxia. Todas las elecciones que tomes influirán en tu reputación.\n\nENTRA EN LA CABINA DEL PILOTO\nPilota tu nave, la Cazaestelas, en emocionantes combates espaciales contra el Imperio y otros enemigos. Encuentra el momento oportuno para perseguir, evadir y atacar, y así conseguir ventaja.\n\nLas ofertas, el contenido y las fechas pueden cambiar en el futuro.\n\n",
       "shortDescription": "Disfruta del primer juego de mundo abierto de Star Wars™ y explora distintos lugares por toda la galaxia, tanto nuevos como emblemáticos. Arriésgalo todo como la buscavidas Kay Vess, una sinvergüenza que anhela la libertad y comenzar una vida nueva. Pelea, roba y engaña a todos los sindicatos del crimen de la galaxia, y acaba en la lista de los más buscados de la galaxia.\n\nLa galaxia está llena de posibilidades para todos aquellos que se arriesgan.",
@@ -46866,21 +46778,20 @@
       ],
       "videoUrl": "",
       "videoCaption": "",
-      "releaseDate": "2025-07-24",
+      "releaseDate": "2026-07-21",
       "categories": [
-        "Acción y aventura",
-        "Shooter"
+        "Acción y aventura"
       ],
       "tiers": [
         "pc",
         "ultimate"
       ],
       "platform": "pc",
-      "price": 17.49,
+      "price": 69.99,
       "msrp": 69.99,
       "currency": "EUR",
-      "hasDiscount": true,
-      "discountPercent": 75,
+      "hasDiscount": false,
+      "discountPercent": 0,
       "rating": 0,
       "ratingCount": 0,
       "ageRating": 12,
@@ -46889,11 +46800,7 @@
       "interactiveDescriptions": [
         "Compras dentro del juego"
       ],
-      "capabilities": [
-        "4K Ultra HD",
-        "HDR10",
-        "Un jugador"
-      ],
+      "capabilities": [],
       "systemRequirements": [
         {
           "title": "SO",
@@ -46928,7 +46835,7 @@
       ],
       "maxInstallSize": 69793218560,
       "hasAddOns": true,
-      "storeUrl": "https://www.xbox.com/es-es/games/store/star-wars-outlaws/9N59CT2NKDPV"
+      "storeUrl": "https://www.xbox.com/es-es/games/store/star-wars-outlaws/9P1P7DWHBDBD"
     },
     {
       "id": "BRXTM276DLPR",
@@ -47756,7 +47663,7 @@
           "recommended": "Controladora de Xbox"
         }
       ],
-      "maxInstallSize": 4906942464,
+      "maxInstallSize": 4987949056,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/starseeker-astroneer-expeditions-game-preview/9NTZH69PZSH0"
     },
@@ -47974,7 +47881,7 @@
       "storeUrl": "https://www.xbox.com/es-es/games/store/steep/C350VBGGCL6P"
     },
     {
-      "id": "9NWDKGFHMZK3",
+      "id": "9P2RT7TNT37T",
       "title": "STEEP",
       "description": "Recorre un mundo abierto y enorme a través de los Alpes, donde la nieve es siempre fresca y el descenso infinito.\nDomina las tierras salvajes del continente americano en la actualización gratuita de Alaska, una nueva región llena de desafíos.\nLa montaña es tuya y te está esperando. Ponte el traje, ajusta las fijaciones y... ¡lánzate! \n\n- DESCIENDE A TU ESTILO - Conquista las montañas más épicas esquiando, con traje de alas, tabla de snowboard o en parapente. Deja tu huella en este masivo mundo abierto.\n\n- VIVE MOMENTOS INOLVIDABLES CON OTROS JUGADORES - Juega solo o con otros compañeros para compartir los descensos más emocionantes.\n\n- PON A PRUEBA TUS HABILIDADES - Participa en desafíos únicos y espectaculares.\n\n- COMPARTE TODO - Captura tus mejores acrobacias y compártelas en las redes sociales.\n\nSe necesita una conexión permanente a internet para jugar.\n",
       "shortDescription": "Recorre un enorme mundo abierto a través de los Alpes, donde la nieve es siempre fresca y el descenso infinito.\nDomina la montaña solo o con amigos, con esquís, traje de alas, tabla de snowboard o parapente. Graba y comparte tus mejores acrobacias.",
@@ -47990,31 +47897,27 @@
       ],
       "videoUrl": "",
       "videoCaption": "",
-      "releaseDate": "2025-07-24",
+      "releaseDate": "2026-07-21",
       "categories": [
-        "Deportes"
+        "Carreras y vuelo"
       ],
       "tiers": [
         "pc",
         "ultimate"
       ],
       "platform": "pc",
-      "price": 4.49,
+      "price": 29.99,
       "msrp": 29.99,
       "currency": "EUR",
-      "hasDiscount": true,
-      "discountPercent": 85,
+      "hasDiscount": false,
+      "discountPercent": 0,
       "rating": 0,
       "ratingCount": 0,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
       "interactiveDescriptions": [],
-      "capabilities": [
-        "Cooperativo en línea  (2-4)",
-        "Multijugador en línea  (2-4)",
-        "HDR10"
-      ],
+      "capabilities": [],
       "systemRequirements": [
         {
           "title": "SO",
@@ -48049,7 +47952,7 @@
       ],
       "maxInstallSize": 26843545600,
       "hasAddOns": true,
-      "storeUrl": "https://www.xbox.com/es-es/games/store/steep/9NWDKGFHMZK3"
+      "storeUrl": "https://www.xbox.com/es-es/games/store/steep/9P2RT7TNT37T"
     },
     {
       "id": "9PJPCB188SVG",
@@ -50372,7 +50275,7 @@
       "storeUrl": "https://www.xbox.com/es-es/games/store/the-cave/BTBWBGKPKS97"
     },
     {
-      "id": "9NKBNRKJ9FXS",
+      "id": "9NC4PV16GVT1",
       "title": "The Crew Motorfest",
       "description": "¡Te damos la bienvenida a Motorfest! Este festival que dura todo el año te permitirá disfrutar de las mejores experiencias que la cultura automovilística puede ofrecer.\n\nEXPLORA UN MUNDO ABIERTO LLENO DE VIDA EN HAWÁI\nThe Crew Motorfest se ha instalado en uno de los lugares más hermosos de la Tierra: la isla de O'ahu, en Hawái. Participa en carreras a máxima velocidad en la bulliciosa ciudad de Honolulu, pon a prueba tu habilidad en laderas cubiertas de ceniza de volcán o domina los derrapes en circuitos.\n\nCELEBRA TODAS LAS FACETAS DE LA CULTURA AUTOMOVILÍSTICA\n¡Disfruta de una amplia variedad de emocionantes actividades de conducción y elige cómo quieres divertirte con tus vehículos! Descubre las playlists y sumérgete en campañas temáticas en las que podrás disfrutar de los universos más fascinantes de la cultura automovilística, como el de los muscle cars norteamericanos, las carreras callejeras al estilo japonés y los vehículos legendarios del pasado.\n\nCOLECCIONA COCHES LEGENDARIOS\nCompite en intensas carreras, presume de estilo, colecciona coches emblemáticos ¡y mucho más! Domina cada desafío de conducción y construye tu colección con los vehículos más legendarios jamás creados.\n",
       "shortDescription": "¡Te damos la bienvenida a Motorfest, la experiencia de conducción en mundo abierto definitiva! Explora el precioso archipiélago hawaiano, empezando por O'ahu y terminando por la recién incorporada isla de Maui, al volante de los vehículos más prestigiosos. Descubre lo mejor de la cultura automovilística a través de carreras intensas, eventos temáticos y desafíos inesperados, y reúne cientos de coches emblemáticos. ¡Prueba el juego gratis durante 5 horas!",
@@ -50381,14 +50284,14 @@
       "imageUrl": "https://store-images.s-microsoft.com/image/apps.54289.13664379846002571.e994a5cb-c181-4550-82b8-fe0cba4033ba.544e7e94-72f1-4514-96aa-f358ae8d34a9",
       "heroImage": "https://store-images.s-microsoft.com/image/apps.34839.13664379846002571.e994a5cb-c181-4550-82b8-fe0cba4033ba.75893202-ae4a-46f4-9e4f-4291e2fc0be8",
       "screenshots": [
-        "https://store-images.s-microsoft.com/image/apps.57904.13664379846002571.c906cfa8-6da1-42c0-9799-4645dbcb7891.7bc63151-d918-4584-819a-14fd0de59f53",
-        "https://store-images.s-microsoft.com/image/apps.8475.13664379846002571.c906cfa8-6da1-42c0-9799-4645dbcb7891.11306cb6-0b70-495e-947e-20a1b35bc238",
-        "https://store-images.s-microsoft.com/image/apps.28163.13664379846002571.c906cfa8-6da1-42c0-9799-4645dbcb7891.1b2c8499-3569-42e5-b1a7-7d6e86144d8b",
-        "https://store-images.s-microsoft.com/image/apps.4895.13664379846002571.c906cfa8-6da1-42c0-9799-4645dbcb7891.52ecadde-e203-4d35-9ef9-9392bc0eb774"
+        "https://store-images.s-microsoft.com/image/apps.6444.13574941064895040.be038e7d-0758-4324-bfa6-5dadf241ca14.aa8ae861-d607-4e84-b04c-607aee5cc13b",
+        "https://store-images.s-microsoft.com/image/apps.1612.13574941064895040.be038e7d-0758-4324-bfa6-5dadf241ca14.8ba965be-400e-42fb-8126-91b0cfd672f0",
+        "https://store-images.s-microsoft.com/image/apps.51297.13574941064895040.be038e7d-0758-4324-bfa6-5dadf241ca14.1b89bf98-0575-4ae9-8827-bb61a4e40fbb",
+        "https://store-images.s-microsoft.com/image/apps.17320.13574941064895040.be038e7d-0758-4324-bfa6-5dadf241ca14.86d3347a-79be-450c-b6cb-9ab18c2d16de"
       ],
-      "videoUrl": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftassets/3db0ca2b-356e-4126-b590-6a137423cffc-AVS.m3u8?packagedStreaming=true",
+      "videoUrl": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftassets/bb85eddf-716c-481b-b31c-cc02430f778c-AVS.m3u8?packagedStreaming=true",
       "videoCaption": "Best Time to Join Trailer",
-      "releaseDate": "2025-07-24",
+      "releaseDate": "2026-07-21",
       "categories": [
         "Carreras y vuelo"
       ],
@@ -50397,11 +50300,11 @@
         "ultimate"
       ],
       "platform": "pc",
-      "price": 13.99,
+      "price": 69.99,
       "msrp": 69.99,
       "currency": "EUR",
-      "hasDiscount": true,
-      "discountPercent": 80,
+      "hasDiscount": false,
+      "discountPercent": 0,
       "rating": 0,
       "ratingCount": 0,
       "ageRating": 12,
@@ -50410,15 +50313,7 @@
       "interactiveDescriptions": [
         "Compras dentro del juego"
       ],
-      "capabilities": [
-        "Cooperativo en línea  (2-4)",
-        "Multijugador en línea  (2-32)",
-        "Multijugador multiplataforma de Xbox",
-        "4K Ultra HD",
-        "Cooperación multiplataforma de Xbox",
-        "Logros de Xbox",
-        "Presencia de Xbox"
-      ],
+      "capabilities": [],
       "systemRequirements": [
         {
           "title": "SO",
@@ -50448,7 +50343,7 @@
       ],
       "maxInstallSize": 42949672960,
       "hasAddOns": true,
-      "storeUrl": "https://www.xbox.com/es-es/games/store/the-crew-motorfest/9NKBNRKJ9FXS"
+      "storeUrl": "https://www.xbox.com/es-es/games/store/the-crew-motorfest/9NC4PV16GVT1"
     },
     {
       "id": "9PB5JN044BHZ",
@@ -50622,14 +50517,14 @@
       "storeUrl": "https://www.xbox.com/es-es/games/store/the-crew-2/BV05F8VT7JJ4"
     },
     {
-      "id": "9NXTFRQJGZ43",
+      "id": "9NP6CV98V8M7",
       "title": "The Crew® 2",
       "description": "¡ÚNETE A UNA COMUNIDAD DE 30 MILLONES DE JUGADORES! Prepárate para un viaje a toda velocidad a través de Estados Unidos y disfruta de las experiencias del mundo abierto más completo jamás creado. Con acceso a contenido gratuito, nuevos modos de juego, pistas, vehículos, eventos y más contenido cada temporada.  The Crew® 2 tiene todo lo que necesitas para tener una experiencia inolvidable.\n\nAdéntrate en el mundo de los deportes de motor americanos descubriendo increíbles paisajes y localizando tus vehículos favoritos entre cientos de opciones. Siente la emoción y la adrenalina de competir a través de los Estados Unidos mientras pones a prueba tus habilidades en una amplia variedad de disciplinas de la conducción. Juega hasta con 7 amigos en modo online.\n\n",
       "shortDescription": "¡ÚNETE A UNA COMUNIDAD DE 30 MILLONES DE JUGADORES! \nAdéntrate en el mundo de los deportes de motor americanos explorando y dominando tierra, mar y aire en todo EE.UU. Con una amplia variedad de coches, motos, barcos y aviones a tu disposición, competirás en una amplia gama de disciplinas de la conducción.",
       "developer": "",
       "publisher": "Ubisoft",
-      "imageUrl": "",
-      "heroImage": "",
+      "imageUrl": "https://store-images.s-microsoft.com/image/apps.49945.14489278278993944.0867f455-80a1-4c6c-bc96-2f183089f7bc.87d20edc-ff0e-476c-829c-e936e2de79fc",
+      "heroImage": "https://store-images.s-microsoft.com/image/apps.34621.14489278278993944.0867f455-80a1-4c6c-bc96-2f183089f7bc.18a35a25-6d91-469a-8c2c-a8ccc769824e",
       "screenshots": [
         "https://store-images.s-microsoft.com/image/apps.47909.14489278278993944.0867f455-80a1-4c6c-bc96-2f183089f7bc.68b715c3-3070-48a2-abcc-9a927d0d0e10",
         "https://store-images.s-microsoft.com/image/apps.39978.14489278278993944.0867f455-80a1-4c6c-bc96-2f183089f7bc.0ca2c4df-caa1-4a33-a829-3fe12371527b",
@@ -50638,7 +50533,7 @@
       ],
       "videoUrl": "",
       "videoCaption": "",
-      "releaseDate": "2025-07-24",
+      "releaseDate": "2026-07-21",
       "categories": [
         "Carreras y vuelo"
       ],
@@ -50647,23 +50542,18 @@
         "ultimate"
       ],
       "platform": "pc",
-      "price": 5.99,
+      "price": 29.99,
       "msrp": 29.99,
       "currency": "EUR",
-      "hasDiscount": true,
-      "discountPercent": 80,
+      "hasDiscount": false,
+      "discountPercent": 0,
       "rating": 0,
       "ratingCount": 0,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
       "interactiveDescriptions": [],
-      "capabilities": [
-        "Cooperativo en línea  (2-4)",
-        "Multijugador en línea  (2-8)",
-        "Logros de Xbox",
-        "Presencia de Xbox"
-      ],
+      "capabilities": [],
       "systemRequirements": [
         {
           "title": "SO",
@@ -50693,7 +50583,7 @@
       ],
       "maxInstallSize": 26843545600,
       "hasAddOns": true,
-      "storeUrl": "https://www.xbox.com/es-es/games/store/the-crew-2/9NXTFRQJGZ43"
+      "storeUrl": "https://www.xbox.com/es-es/games/store/the-crew-2/9NP6CV98V8M7"
     },
     {
       "id": "9PFXKRLVWJ0B",
@@ -52400,8 +52290,8 @@
       "currency": "EUR",
       "hasDiscount": true,
       "discountPercent": 10,
-      "rating": 0,
-      "ratingCount": 0,
+      "rating": 2.8,
+      "ratingCount": 5,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -53594,8 +53484,8 @@
       "shortDescription": "Tom Clancy's Ghost Recon Wildlands es un shooter táctico en tercera persona.\nLidera a tu equipo de élite de Ghosts por un mundo abierto enorme, peligroso y dinámico, e infíltrate para acabar con el mortífero cártel de Santa Blanca y salvar a Bolivia y su pueblo del colapso total.",
       "developer": "",
       "publisher": "Ubisoft",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.43306.65577870102127192.24a0a154-ded1-4a40-a91f-102019aaee70.3d6649c7-7ee3-4a8d-80f6-3eeb41e5484d",
-      "heroImage": "https://store-images.s-microsoft.com/image/apps.35822.65577870102127192.24a0a154-ded1-4a40-a91f-102019aaee70.cdf0a22e-4116-4049-a936-c6e4508342fb",
+      "imageUrl": "https://store-images.s-microsoft.com/image/apps.34828.65577870102127192.cc211066-4ede-470b-9241-48c6083d347f.a7c7df41-881f-4ed4-8b2a-8ef7b6454d3b",
+      "heroImage": "https://store-images.s-microsoft.com/image/apps.28887.65577870102127192.cc211066-4ede-470b-9241-48c6083d347f.c416c95c-b86e-4f06-893a-4995f8c584a9",
       "screenshots": [
         "https://store-images.s-microsoft.com/image/apps.36230.65577870102127192.07468864-7675-42df-b647-cd42790783e2.7892f2fe-a733-44c9-8e33-991fb0e1b82c",
         "https://store-images.s-microsoft.com/image/apps.302.65577870102127192.07468864-7675-42df-b647-cd42790783e2.a7ec62e2-f8a7-48af-9944-6d95564f1332",
@@ -53648,7 +53538,7 @@
       "storeUrl": "https://www.xbox.com/es-es/games/store/tom-clancy-s-ghost-recon-wildlands/C2N9CS4FS1QR"
     },
     {
-      "id": "9PJ1PLJQ7QPN",
+      "id": "9P85NL6T3DHP",
       "title": "Tom Clancy’s Ghost Recon Wildlands",
       "description": "Crea un equipo hasta con 3 amigos en Tom Clancy’s Ghost Recon® Wildlands y disfruta del Shooter militar definitivo en un enorme y peligroso mundo abierto.\n\nACABA CON EL CÁRTEL\nEn un futuro cercano, Bolivia ha caído en manos del despiadado cártel de Santa Blanca, que ha propagado la injusticia y la violencia. Su objetivo: crear el mayor narcoestado de la historia.\n\nSÉ UN GHOST\nCrea un Ghost y personalízalo junto a sus armas y equipo. Disfruta de una libertad de juego total. Lidera a tu equipo y acaba con el cártel, solo o con tres amigos.\n\nEXPLORA BOLIVIA\nViaja por el mayor mundo abierto creado por Ubisoft para un juego de acción y aventura. Descubre la gran diversidad de paisajes de Wildlands por tierra, mar y aire con más de 60 vehículos distintos.\n\n",
       "shortDescription": "Crea un equipo hasta con 3 amigos en Tom Clancy’s Ghost Recon® Wildlands y disfruta del Shooter militar definitivo en un enorme y peligroso mundo abierto.",
@@ -53664,7 +53554,7 @@
       ],
       "videoUrl": "",
       "videoCaption": "",
-      "releaseDate": "2025-05-06",
+      "releaseDate": "2026-07-21",
       "categories": [
         "Shooter"
       ],
@@ -53687,11 +53577,7 @@
       "interactiveDescriptions": [
         "Compras dentro del juego"
       ],
-      "capabilities": [
-        "4K Ultra HD",
-        "Un jugador",
-        "60 fps +"
-      ],
+      "capabilities": [],
       "systemRequirements": [
         {
           "title": "SO",
@@ -53731,10 +53617,10 @@
       ],
       "maxInstallSize": 53687091200,
       "hasAddOns": false,
-      "storeUrl": "https://www.xbox.com/es-es/games/store/tom-clancy-s-ghost-recon-wildlands/9PJ1PLJQ7QPN"
+      "storeUrl": "https://www.xbox.com/es-es/games/store/tom-clancy-s-ghost-recon-wildlands/9P85NL6T3DHP"
     },
     {
-      "id": "9MVR1G75VX22",
+      "id": "9PKJ0532DTCW",
       "title": "Tom Clancy's Ghost Recon® Breakpoint",
       "description": "Conviértete en un Ghost, un soldado de operaciones especiales enviado a Auroa en una misión especial. Las hostilidades de Skell Tech han provocado que el lejano archipiélago, situado en algún punto del Pacífico Sur, pierda el contacto con el mundo exterior. El equipo de operaciones especiales rebelde de los Wolves, que está liderado por un viejo compañero de armas, ha asumido el control y te está dando caza. Dirige a tu equipo por la isla y salvad a los civiles sin ser detectados.\n\nAdapta la experiencia a tu estilo de juego:\n- Juega en solitario, como el líder de tres compañeros IA totalmente personalizables.\n- O juega en PvE cooperativo con hasta tres amigos.\n",
       "shortDescription": "Conviértete en un Ghost, un soldado de operaciones especiales enviado a Auroa en una misión especial. Las hostilidades de Skell Tech han provocado que el lejano archipiélago pierda el contacto con el mundo exterior. El equipo de operaciones especiales rebelde de los Wolves, que está liderado por un viejo compañero de armas, ha asumido el control y te está dando caza. Dirige a tu equipo por la isla y salvad a los civiles sin ser detectados.",
@@ -53750,7 +53636,7 @@
       ],
       "videoUrl": "",
       "videoCaption": "",
-      "releaseDate": "2025-05-06",
+      "releaseDate": "2026-07-21",
       "categories": [
         "Shooter"
       ],
@@ -53812,7 +53698,7 @@
       ],
       "maxInstallSize": 71940702208,
       "hasAddOns": true,
-      "storeUrl": "https://www.xbox.com/es-es/games/store/tom-clancy-s-ghost-recon-breakpoint/9MVR1G75VX22"
+      "storeUrl": "https://www.xbox.com/es-es/games/store/tom-clancy-s-ghost-recon-breakpoint/9PKJ0532DTCW"
     },
     {
       "id": "9PB3RHWXB9MR",
@@ -53869,7 +53755,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 51024355328,
+      "maxInstallSize": 51024572416,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/tom-clancy-s-rainbow-six-siege-elite-edition/9PB3RHWXB9MR"
     },
@@ -53942,7 +53828,7 @@
       "storeUrl": "https://www.xbox.com/es-es/games/store/tom-clancy-s-rainbow-six-extraction/BXRB4ZH2GJHK"
     },
     {
-      "id": "9NK1FQJ1SMCB",
+      "id": "9P0G4TBCCS7J",
       "title": "Tom Clancy’s Rainbow Six® Extraction",
       "description": "Durante décadas, el equipo Rainbow ha sido el escudo contra peligros globales inimaginables. Ahora nos enfrentamos al peor hasta la fecha: una invasión alienígena letal en evolución. Adapta tu estrategia para llevar la delantera.\n•\tForma una escuadra en un FPS táctico cooperativo de 1 a 3 jugadores\n•\t90 armas y artilugios, 18 agentes personalizables, 12 mapas a gran escala, 13 tipos de misiones, 13 arquetipos de enemigos y contenido gratis poslanzamiento\n•\tDomina los 4 niveles de dificultad, un modo igualado y un sistema de progreso intenso. Sube de nivel las habilidades de los agentes y obtén nuevas armas, historias y elementos estéticos\n•\tJuega con amigos gracias al multiplataforma\n•\tLos jugadores de Rainbow Six® Siege desbloquearán 4 equipos épicos en ambos juegos y más.\n\nOferta y fechas sujetas a cambios. Se aplican restricciones de disponibilidad, de contenido y técnicas. Las características del Buddy Pass pueden cambiar. Oferta no válida donde no esté permitida. Más información aquí: https://ubi.li/BuddyPass.",
       "shortDescription": "Durante décadas, el equipo Rainbow ha sido el escudo contra peligros globales inimaginables. Ahora ha aparecido el peor de todos: una invasión alienígena letal en evolución. Adapta tu estrategia para llevar la delantera.\n•\tForma una escuadra en un FPS táctico cooperativo de 1 a 3 jugadores\n•\t90 armas y artilugios, 18 agentes personalizables, 12 mapas a gran escala, 13 tipos de misiones, 13 arquetipos de enemigos y más.",
@@ -53957,9 +53843,8 @@
       ],
       "videoUrl": "",
       "videoCaption": "",
-      "releaseDate": "2022-01-20",
+      "releaseDate": "2026-07-21",
       "categories": [
-        "Acción y aventura",
         "Shooter"
       ],
       "tiers": [
@@ -53967,11 +53852,11 @@
         "ultimate"
       ],
       "platform": "pc",
-      "price": 9.99,
+      "price": 39.99,
       "msrp": 39.99,
       "currency": "EUR",
-      "hasDiscount": true,
-      "discountPercent": 75,
+      "hasDiscount": false,
+      "discountPercent": 0,
       "rating": 2.2,
       "ratingCount": 11,
       "ageRating": 16,
@@ -53980,11 +53865,7 @@
       "interactiveDescriptions": [
         "Compras dentro del juego"
       ],
-      "capabilities": [
-        "4K Ultra HD",
-        "Un jugador",
-        "60 fps +"
-      ],
+      "capabilities": [],
       "systemRequirements": [
         {
           "title": "SO",
@@ -54019,7 +53900,7 @@
       ],
       "maxInstallSize": 91268055040,
       "hasAddOns": false,
-      "storeUrl": "https://www.xbox.com/es-es/games/store/tom-clancy-s-rainbow-six-extraction/9NK1FQJ1SMCB"
+      "storeUrl": "https://www.xbox.com/es-es/games/store/tom-clancy-s-rainbow-six-extraction/9P0G4TBCCS7J"
     },
     {
       "id": "9NCZ8W65H33V",
@@ -54259,23 +54140,23 @@
       "storeUrl": "https://www.xbox.com/es-es/games/store/tom-clancy-s-the-division-2/BVQ3V30ZXVT5"
     },
     {
-      "id": "9NRXKRVCGRNM",
+      "id": "9PHR6KG3D1RQ",
       "title": "Tom Clancy's The Division 2",
-      "description": "Defiende y reconstruye Washington D. C tras una pandemia devastadora en este shooter táctico en tercera persona de mundo abierto:\n\nCOMBATE TÁCTICO\nEnfréntate a tus enemigos en intensos tiroteos basados en la cobertura, donde un posicionamiento táctico y el uso de herramientas marcan la diferencia entre la vida y la muerte.\n\nCREA AL AGENTE DEFINITIVO\nSaquea y fabrica equipo puntero y aprende habilidades poderosas para personalizar tu forma de luchar. Ve más allá con las especializaciones, con roles como francotirador, experto en demoliciones, líder de supervivientes y más.\n\nEL TRABAJO EN EQUIPO SALVA VIDAS\nForma equipo con hasta otros tres agentes para emprender misiones cooperativas tácticas en las que la sinergia es fundamental. Combina especializaciones, comparte recursos y enfréntate a desafíos dinámicos que se adaptan a tu escuadrón.\n\nSOBREVIVE EN WASHINGTON D. C., UNA CIUDAD EN CONSTANTE EVOLUCIÓN\nLa ciudad reacciona, se adapta y te desafía a sobrevivir con cada uno de tus movimientos, desde tensos tiroteos en condiciones meteorológicas cambiantes hasta el constante tira y afloja de las facciones que luchan por controlar el mapa.\n\nFINAL DE JUEGO INTENSO\nAlcanzar el nivel máximo solo es el principio. Sumérgete en misiones finales de alto riesgo, intensas batallas JcJ y eventos mundiales dinámicos que llevarán tus habilidades y tu trabajo en equipo al límite. Cada temporada trae consigo nuevas recompensas y encarnizados desafíos.",
+      "description": "Defiende y reconstruye Washington D. C tras una pandemia devastadora en este shooter táctico en tercera persona de mundo abierto:\n\nCOMBATE TÁCTICO\nEnfréntate a tus enemigos en intensos tiroteos basados en la cobertura, donde un posicionamiento táctico y el uso de herramientas marcan la diferencia entre la vida y la muerte.\n\nCREA AL AGENTE DEFINITIVO\nSaquea y fabrica equipo puntero y aprende habilidades poderosas para personalizar tu forma de luchar. Ve más allá con las especializaciones, con roles como francotirador, experto en demoliciones, líder de supervivientes y más.\n\nEL TRABAJO EN EQUIPO SALVA VIDAS\nForma equipo con hasta otros tres agentes para emprender misiones cooperativas tácticas en las que la sinergia es fundamental. Combina especializaciones, comparte recursos y enfréntate a desafíos dinámicos que se adaptan a tu escuadrón.\n\nSOBREVIVE EN WASHINGTON D. C., UNA CIUDAD EN CONSTANTE EVOLUCIÓN\nLa ciudad reacciona, se adapta y te desafía a sobrevivir con cada uno de tus movimientos, desde tensos tiroteos en condiciones meteorológicas cambiantes hasta el constante tira y afloja de las facciones que luchan por controlar el mapa.\n\nFINAL DE JUEGO INTENSO\nAlcanzar el nivel máximo solo es el principio. Sumérgete en misiones finales de alto riesgo, intensas batallas JcJ y eventos mundiales dinámicos que llevarán tus habilidades y tu trabajo en equipo al límite. Cada temporada trae consigo nuevas recompensas y encarnizados desafíos.\n\nSe requiere una conexión a internet, una cuenta de Ubisoft, una cuenta de Microsoft y Game Pass Ultimate o Core (suscripciones vendidas por separado) para acceder a las funciones/multijugador en línea.",
       "shortDescription": "Únete a The Division en este shooter táctico de mundo abierto. Enfréntate en intensos combates basados en la cobertura, forma equipo con tus amigos y crea al agente definitivo para salvar Washington D.C.",
       "developer": "",
       "publisher": "Ubisoft",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.46486.14374220740306400.e1a08859-d002-40cc-8605-3b4d4006909c.ba03125f-0d0b-482a-a71e-7084e93b6320",
-      "heroImage": "https://store-images.s-microsoft.com/image/apps.8662.14374220740306400.e1a08859-d002-40cc-8605-3b4d4006909c.6848d0b9-26e6-4808-9bdf-52a939479ad4",
+      "imageUrl": "https://store-images.s-microsoft.com/image/apps.46486.71050925055292780.d113598c-97ad-4805-8dbc-eb73bf447e25.dae0d307-4fa7-4b01-879e-fd359f5a02c8",
+      "heroImage": "https://store-images.s-microsoft.com/image/apps.8662.71050925055292780.d113598c-97ad-4805-8dbc-eb73bf447e25.c44374e8-bbb5-4411-a862-16a5b5a549e8",
       "screenshots": [
-        "https://store-images.s-microsoft.com/image/apps.62367.14374220740306400.e1a08859-d002-40cc-8605-3b4d4006909c.d4ee85bb-2b2b-47c1-802c-c8576fe13f2c",
-        "https://store-images.s-microsoft.com/image/apps.27526.14374220740306400.e1a08859-d002-40cc-8605-3b4d4006909c.05f349b4-092d-4294-b0b4-06d8e2e81a64",
-        "https://store-images.s-microsoft.com/image/apps.23664.14374220740306400.e1a08859-d002-40cc-8605-3b4d4006909c.676eddc3-9262-4c97-88cd-ce8aaa4b46d8",
-        "https://store-images.s-microsoft.com/image/apps.18162.14374220740306400.e1a08859-d002-40cc-8605-3b4d4006909c.c9b97b62-179d-4972-b251-60019b2120ac"
+        "https://store-images.s-microsoft.com/image/apps.62367.71050925055292780.d113598c-97ad-4805-8dbc-eb73bf447e25.af5cbb6b-9399-4487-8a8b-709967d15792",
+        "https://store-images.s-microsoft.com/image/apps.27526.71050925055292780.d113598c-97ad-4805-8dbc-eb73bf447e25.ae096ec3-c8b8-403b-8209-b3161efd066b",
+        "https://store-images.s-microsoft.com/image/apps.23664.71050925055292780.d113598c-97ad-4805-8dbc-eb73bf447e25.4c1f5b16-7dfa-480f-9922-bb144f522fc2",
+        "https://store-images.s-microsoft.com/image/apps.18162.71050925055292780.d113598c-97ad-4805-8dbc-eb73bf447e25.3b4773b5-9f4a-4cf6-8410-2758583986f9"
       ],
-      "videoUrl": "",
-      "videoCaption": "",
-      "releaseDate": "2025-05-06",
+      "videoUrl": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftassets/354a3432-b254-4b87-b468-ae97e8616921-AVS.m3u8?packagedStreaming=true",
+      "videoCaption": "Gameplay Trailer",
+      "releaseDate": "2026-07-21",
       "categories": [
         "Shooter"
       ],
@@ -54285,11 +54166,11 @@
         "ultimate"
       ],
       "platform": "pc",
-      "price": 7.49,
+      "price": 29.99,
       "msrp": 29.99,
       "currency": "EUR",
-      "hasDiscount": true,
-      "discountPercent": 75,
+      "hasDiscount": false,
+      "discountPercent": 0,
       "rating": 0,
       "ratingCount": 0,
       "ageRating": 18,
@@ -54338,7 +54219,7 @@
       ],
       "maxInstallSize": 82678120448,
       "hasAddOns": true,
-      "storeUrl": "https://www.xbox.com/es-es/games/store/tom-clancy-s-the-division-2/9NRXKRVCGRNM"
+      "storeUrl": "https://www.xbox.com/es-es/games/store/tom-clancy-s-the-division-2/9PHR6KG3D1RQ"
     },
     {
       "id": "9N926481VT1Z",
@@ -56246,7 +56127,7 @@
       "hasDiscount": true,
       "discountPercent": 85,
       "rating": 3.9,
-      "ratingCount": 39,
+      "ratingCount": 40,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -57239,7 +57120,7 @@
           "recommended": "Mouse integrado"
         }
       ],
-      "maxInstallSize": 77631901696,
+      "maxInstallSize": 77670981632,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/war-thunder/BX1DTCBD1HXJ"
     },
@@ -57647,7 +57528,7 @@
           "recommended": "16 GB"
         }
       ],
-      "maxInstallSize": 35132203008,
+      "maxInstallSize": 35132211200,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/warhammer-40-000-rogue-trader/9P30BFHZ1BKN"
     },
@@ -57860,8 +57741,8 @@
       "currency": "EUR",
       "hasDiscount": true,
       "discountPercent": 60,
-      "rating": 3.6,
-      "ratingCount": 121,
+      "rating": 3.5,
+      "ratingCount": 122,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -58315,7 +58196,7 @@
       "storeUrl": "https://www.xbox.com/es-es/games/store/watch-dogs-legion/C1WRX8ZD77M9"
     },
     {
-      "id": "9NW7G97J9S6X",
+      "id": "9MXG725MBV3N",
       "title": "Watch Dogs: Legion",
       "description": "Crea una resistencia con prácticamente cualquiera que te encuentres mientras hackeas, te infiltras y luchas para salvar a Londres de la debacle en un futuro próximo. Te damos la bienvenida a la resistencia.\n\nRecluta y juega con quien quieras en la ciudad. Cualquiera que veas cuenta con historia, personalidad y habilidades únicas.\n\nHackea drones armados, despliega robots araña y elimina a tus enemigos usando una capa de realidad aumentada.\n\nExplora un mundo abierto urbano enorme que presenta diversos lugares emblemáticos de Londres y divertidas actividades secundarias.\n\nLleva la resistencia un paso adelante y lucha con tus amigos en nuevas misiones del modo online.",
       "shortDescription": "En Watch Dogs: Legion, tu misión es crear una resistencia con prácticamente cualquiera que te encuentres mientras hackeas, te infiltras y luchas para salvar a Londres de la debacle en un futuro próximo. Te damos la bienvenida a la resistencia.\nLleva la resistencia un paso adelante y lucha con tus amigos en nuevas misiones del modo online.",
@@ -58331,7 +58212,7 @@
       ],
       "videoUrl": "",
       "videoCaption": "",
-      "releaseDate": "2020-10-29",
+      "releaseDate": "2026-07-21",
       "categories": [
         "Acción y aventura"
       ],
@@ -58341,11 +58222,11 @@
         "ultimate"
       ],
       "platform": "pc",
-      "price": 8.99,
+      "price": 59.99,
       "msrp": 59.99,
       "currency": "EUR",
-      "hasDiscount": true,
-      "discountPercent": 85,
+      "hasDiscount": false,
+      "discountPercent": 0,
       "rating": 0,
       "ratingCount": 0,
       "ageRating": 18,
@@ -58394,7 +58275,7 @@
       ],
       "maxInstallSize": 85899345920,
       "hasAddOns": true,
-      "storeUrl": "https://www.xbox.com/es-es/games/store/watch-dogs-legion/9NW7G97J9S6X"
+      "storeUrl": "https://www.xbox.com/es-es/games/store/watch-dogs-legion/9MXG725MBV3N"
     },
     {
       "id": "BSXLFN5QQZSC",
@@ -58529,86 +58410,6 @@
       "maxInstallSize": 28991029248,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/watch-dogs-2/9NLFKBTNP2VJ"
-    },
-    {
-      "id": "9PCKZH7M40CK",
-      "title": "Watch Dogs®2",
-      "description": "Juega como Marcus Holloway, un joven y brillante hacker que vive en la cuna de la revolución tecnológica, la zona de la bahía de San Francisco.\r\nColabora con DedSec, un conocido grupo de hackers, para ejecutar el mayor pirateo de la historia; acaba con ctOS 2.0, un sistema operativo utilizado por un grupo de genios criminales para vigilar y manipular a los ciudadanos a gran escala.\r\n\r\n·         Explora un mundo abierto y dinámico, lleno de posibilidades.\r\n·        Hackea todos los dispositivos conectados y hazte con el control de la infraestructura de la ciudad. \r\n·        Desarrolla diferentes habilidades según tu estilo de juego y mejora tus herramientas de hacker: coches por radiocontrol, dron cuadrirrotor, armas impresas en 3D y mucho más. \r\n·         Mantente conectado con tus amigos en la nueva experiencia en cooperativo y de enfrentamiento de Watch Dogs.",
-      "shortDescription": "Bienvenido a San Francisco. Juega como Marcus, un brillante hacker, y únete al grupo de hackers más famoso de la ciudad, DedSec. Tu objetivo es ejecutar el mayor pirateo de la historia.",
-      "developer": "Ubisoft Montreal",
-      "publisher": "Ubisoft Entertainment",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.26142.69997608528322872.06dc9610-5c4e-484e-b028-58ad215e637a.b216af15-301f-4f23-83a3-69a59a87985b",
-      "heroImage": "https://store-images.s-microsoft.com/image/apps.38484.69997608528322872.06dc9610-5c4e-484e-b028-58ad215e637a.29a8afc9-c3c7-4b3d-8e9f-f1b2858db4f8",
-      "screenshots": [
-        "https://store-images.s-microsoft.com/image/apps.12122.69997608528322872.06dc9610-5c4e-484e-b028-58ad215e637a.776b84ea-bb02-4b9b-93f9-86a8feb0e11f",
-        "https://store-images.s-microsoft.com/image/apps.20943.69997608528322872.06dc9610-5c4e-484e-b028-58ad215e637a.b4e0430b-8e8d-444f-b1f4-b89fe3bfdfb9",
-        "https://store-images.s-microsoft.com/image/apps.9811.69997608528322872.06dc9610-5c4e-484e-b028-58ad215e637a.a2c3e0dd-ca29-4d82-a974-50519f6bd73e",
-        "https://store-images.s-microsoft.com/image/apps.14290.69997608528322872.06dc9610-5c4e-484e-b028-58ad215e637a.e5b9af69-70ef-4c7c-8814-ee46dcaf086c"
-      ],
-      "videoUrl": "",
-      "videoCaption": "",
-      "releaseDate": "",
-      "categories": [
-        "Acción y aventura"
-      ],
-      "tiers": [
-        "pc",
-        "premium",
-        "ultimate"
-      ],
-      "platform": "pc",
-      "price": 0,
-      "msrp": 0,
-      "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
-      "rating": 0,
-      "ratingCount": 0,
-      "ageRating": 18,
-      "pegiRating": "PEGI 18",
-      "pegiDescription": "Apropiado a partir de 18 años",
-      "interactiveDescriptions": [],
-      "capabilities": [],
-      "systemRequirements": [
-        {
-          "title": "SO",
-          "minimum": "Windows 10 version 18362.0 or higher",
-          "recommended": "Windows 10 version 18362.0 or higher"
-        },
-        {
-          "title": "Arquitectura",
-          "minimum": "x64",
-          "recommended": "x64"
-        },
-        {
-          "title": "Gráficos",
-          "minimum": "AMD Radeon HD 7870 (2 GB), NVIDIA GeForce GTX 660 (2 GB), or better",
-          "recommended": "AMD Radeon R9 290 (4 GB), NVIDIA GeForce GTX 780 (3 GB), or better"
-        },
-        {
-          "title": "Procesador",
-          "minimum": "AMD FX 6120 @ 3.5 GHz, Intel Core i5-2400S @ 2.5 GHz, or better",
-          "recommended": " AMD FX 8120 @ 3.9 GHz, Intel Core i5-3470 @ 3.2 GHz, or better"
-        },
-        {
-          "title": "DirectX",
-          "minimum": "Versión 11",
-          "recommended": "Versión 11"
-        },
-        {
-          "title": "Memoria",
-          "minimum": "6 GB",
-          "recommended": "6 GB"
-        },
-        {
-          "title": "Memoria de vídeo",
-          "minimum": "2 GB",
-          "recommended": "4 GB"
-        }
-      ],
-      "maxInstallSize": 28991029248,
-      "hasAddOns": true,
-      "storeUrl": "https://www.xbox.com/es-es/games/store/watch-dogs-2/9PCKZH7M40CK"
     },
     {
       "id": "9P76M1N37K6K",
@@ -58970,7 +58771,7 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 3.8,
+      "rating": 3.7,
       "ratingCount": 43,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
@@ -59353,7 +59154,7 @@
           "recommended": "8 GB"
         }
       ],
-      "maxInstallSize": 22485069824,
+      "maxInstallSize": 22557458432,
       "hasAddOns": false,
       "storeUrl": "https://www.xbox.com/es-es/games/store/winds-of-arcana-ruination/9P1ZW5K4S44V"
     },
@@ -61314,6 +61115,7 @@
       ],
       "tiers": [
         "essential",
+        "pc",
         "premium",
         "ultimate"
       ],
