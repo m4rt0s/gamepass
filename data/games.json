@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-07-22T10:12:05.539Z",
+  "updatedAt": "2026-07-23T10:10:01.216Z",
   "market": "ES",
   "language": "es-ES",
-  "totalGames": 826,
+  "totalGames": 829,
   "counts": {
-    "essential": 127,
-    "premium": 578,
-    "pc": 512,
-    "ultimate": 733,
-    "total": 826
+    "essential": 130,
+    "premium": 579,
+    "pc": 518,
+    "ultimate": 736,
+    "total": 829
   },
   "categories": [
     "Acción y aventura",
@@ -1870,7 +1870,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.8,
-      "ratingCount": 382,
+      "ratingCount": 383,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -3793,11 +3793,11 @@
         "ultimate"
       ],
       "platform": "pc",
-      "price": 59.99,
+      "price": 8.99,
       "msrp": 59.99,
       "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
+      "hasDiscount": true,
+      "discountPercent": 85,
       "rating": 0,
       "ratingCount": 0,
       "ageRating": 18,
@@ -4116,7 +4116,8 @@
         "Multijugador en línea  (2-4)",
         "Un jugador",
         "60 fps +",
-        "Logros de Xbox"
+        "Logros de Xbox",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -4444,7 +4445,8 @@
         "HDR10",
         "Un jugador",
         "Xbox One X mejorado",
-        "Logros de Xbox"
+        "Logros de Xbox",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -4597,11 +4599,11 @@
         "ultimate"
       ],
       "platform": "pc",
-      "price": 49.99,
+      "price": 19.99,
       "msrp": 49.99,
       "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
+      "hasDiscount": true,
+      "discountPercent": 60,
       "rating": 0,
       "ratingCount": 0,
       "ageRating": 18,
@@ -4654,11 +4656,11 @@
         "ultimate"
       ],
       "platform": "pc",
-      "price": 59.99,
+      "price": 8.99,
       "msrp": 59.99,
       "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
+      "hasDiscount": true,
+      "discountPercent": 85,
       "rating": 0,
       "ratingCount": 0,
       "ageRating": 18,
@@ -4749,7 +4751,8 @@
         "4K Ultra HD",
         "Un jugador",
         "Xbox One X mejorado",
-        "Logros de Xbox"
+        "Logros de Xbox",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -4798,7 +4801,9 @@
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
       "interactiveDescriptions": [],
-      "capabilities": [],
+      "capabilities": [
+        "FPS Boost Series X | S"
+      ],
       "systemRequirements": [
         {
           "title": "Arquitectura",
@@ -4837,11 +4842,11 @@
         "ultimate"
       ],
       "platform": "pc",
-      "price": 59.99,
+      "price": 14.99,
       "msrp": 59.99,
       "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
+      "hasDiscount": true,
+      "discountPercent": 75,
       "rating": 0,
       "ratingCount": 0,
       "ageRating": 18,
@@ -5266,11 +5271,11 @@
         "ultimate"
       ],
       "platform": "pc",
-      "price": 69.99,
+      "price": 41.99,
       "msrp": 69.99,
       "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
+      "hasDiscount": true,
+      "discountPercent": 40,
       "rating": 0,
       "ratingCount": 0,
       "ageRating": 16,
@@ -6242,7 +6247,8 @@
         "Compras dentro del juego (Incluye artículos aleatorios)"
       ],
       "capabilities": [
-        "Multijugador en línea  (4-64)"
+        "Multijugador en línea  (4-64)",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -7425,29 +7431,70 @@
       ],
       "tiers": [
         "essential",
+        "pc",
         "premium",
         "ultimate"
       ],
-      "platform": "console",
+      "platform": "both",
       "price": 9.99,
       "msrp": 9.99,
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 4.1,
-      "ratingCount": 18,
+      "rating": 4.2,
+      "ratingCount": 19,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
       "interactiveDescriptions": [],
       "capabilities": [
-        "Xbox One X mejorado"
+        "Un jugador",
+        "Xbox One X mejorado",
+        "Presencia de Xbox",
+        "Clubs de Xbox",
+        "Cosas guardadas en la nube de Xbox",
+        "Xbox Play Anywhere"
       ],
       "systemRequirements": [
+        {
+          "title": "SO",
+          "minimum": "Windows 11 version 26200.8117 or higher",
+          "recommended": "Windows 11 version 26200.8117 or higher"
+        },
         {
           "title": "Arquitectura",
           "minimum": "x64",
           "recommended": "x64"
+        },
+        {
+          "title": "Gráficos",
+          "minimum": "Nvidia GTX 950 or AMD Radeon RX 550 or Intel Arc A310",
+          "recommended": "Radeon RX 6800S or Nvidia GTX 1070 Ti or Intel Arc A770"
+        },
+        {
+          "title": "Procesador",
+          "minimum": "4 cores and 8 threads | Intel Core i3-10300 or AMD Ryzen 3 3100 or AMD Ryzen Z2 A",
+          "recommended": "6 cores and 12 threads | Intel Core i5-10400 or AMD Ryzen 5 3600 or AMD Ryzen AI Z2 Extreme"
+        },
+        {
+          "title": "Controladora",
+          "minimum": "Controladora de Xbox",
+          "recommended": ""
+        },
+        {
+          "title": "DirectX",
+          "minimum": "API de DirectX 12, nivel de característica de hardware 11",
+          "recommended": "API de DirectX 12, nivel de característica de hardware 11"
+        },
+        {
+          "title": "Memoria",
+          "minimum": "8 GB",
+          "recommended": "16 GB"
+        },
+        {
+          "title": "Memoria de vídeo",
+          "minimum": "4 GB",
+          "recommended": "8 GB"
         }
       ],
       "maxInstallSize": 2277060608,
@@ -8416,7 +8463,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.5,
-      "ratingCount": 32,
+      "ratingCount": 33,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -8466,7 +8513,7 @@
           "recommended": "2 GB"
         }
       ],
-      "maxInstallSize": 1995452416,
+      "maxInstallSize": 1996075008,
       "hasAddOns": false,
       "storeUrl": "https://www.xbox.com/es-es/games/store/buckshot-roulette/9P5B8CPQ9S7F"
     },
@@ -10878,6 +10925,103 @@
       "storeUrl": "https://www.xbox.com/es-es/games/store/commandos-origins-win/9PDH7X3J5CZT"
     },
     {
+      "id": "BVFB8CBS75R6",
+      "title": "Conker: Live and Reloaded",
+      "description": "¿Quién está listo para otra ronda? La ardilla más famosa del mundo de los videojuegos regresa con una resaca de campeonato y con más genio que nunca. Conker se tambalea por un obsceno mundo repleto de personajes retorcidos, conductas lascivas e indignantes parodias de cine. La épica batalla contra el malvado Tediz continúa en este shooter en equipo. Juega con tus amigos: únete a un escuadrón de ardillas de élite o ponte en la piel del malvado Tediz. Elige entre seis especialistas de combate, cada uno con armas, habilidades y vehículos distintos. Juega contigo mismo: disfruta de la versión para un jugador del galardonado Conker's Bad Fur Day®, repleto de gráficos impresionantes. Ríete a carcajadas: las escandalosas parodias y el humor de Conker te desencajarán la mandíbula.",
+      "shortDescription": "¿Quién está listo para otra ronda? La ardilla más famosa del mundo de los videojuegos regresa con una resaca de campeonato y con más genio que nunca.",
+      "developer": "Rare Limited",
+      "publisher": "Microsoft Studios",
+      "imageUrl": "https://store-images.s-microsoft.com/image/apps.26719.71434766889258227.1aee1ea7-c878-4f73-8cb5-6c5dc48abfc3.7469b2a8-4303-416a-b3f5-2a9175f02eb6",
+      "heroImage": "https://store-images.s-microsoft.com/image/apps.42431.71434766889258227.1aee1ea7-c878-4f73-8cb5-6c5dc48abfc3.33f02a8d-2795-4d1c-bb34-bba5d720f638",
+      "screenshots": [
+        "https://store-images.s-microsoft.com/image/apps.23314.71434766889258227.1aee1ea7-c878-4f73-8cb5-6c5dc48abfc3.3b209e45-6b90-4808-a610-66f5949a3518",
+        "https://store-images.s-microsoft.com/image/apps.23799.71434766889258227.1aee1ea7-c878-4f73-8cb5-6c5dc48abfc3.b86b2a79-2d98-4650-92c7-58de0da7da61",
+        "https://store-images.s-microsoft.com/image/apps.37949.71434766889258227.1aee1ea7-c878-4f73-8cb5-6c5dc48abfc3.7d7d398a-b692-44ad-852c-de0ae1321cd7",
+        "https://store-images.s-microsoft.com/image/apps.5996.71434766889258227.1aee1ea7-c878-4f73-8cb5-6c5dc48abfc3.136fd80d-8b16-4e8e-b8da-96165b01c1f2"
+      ],
+      "videoUrl": "",
+      "videoCaption": "",
+      "releaseDate": "2018-04-13",
+      "categories": [
+        "Acción y aventura"
+      ],
+      "tiers": [
+        "essential",
+        "pc",
+        "premium",
+        "ultimate"
+      ],
+      "platform": "both",
+      "price": 9.99,
+      "msrp": 9.99,
+      "currency": "EUR",
+      "hasDiscount": false,
+      "discountPercent": 0,
+      "rating": 4.8,
+      "ratingCount": 45,
+      "ageRating": 18,
+      "pegiRating": "PEGI 18",
+      "pegiDescription": "Apropiado a partir de 18 años",
+      "interactiveDescriptions": [],
+      "capabilities": [
+        "Cooperación local de Xbox (2-2)",
+        "Multijugador local de Xbox (2-2)",
+        "Un jugador",
+        "Pantalla dividida o compartida",
+        "Mouse y teclado de la consola",
+        "Xbox One X mejorado",
+        "Presencia de Xbox",
+        "Clubs de Xbox",
+        "Cosas guardadas en la nube de Xbox",
+        "Xbox Play Anywhere"
+      ],
+      "systemRequirements": [
+        {
+          "title": "SO",
+          "minimum": "Windows 11 version 26200.8117 or higher",
+          "recommended": "Windows 11 version 26200.8117 or higher"
+        },
+        {
+          "title": "Arquitectura",
+          "minimum": "x64",
+          "recommended": "x64"
+        },
+        {
+          "title": "Gráficos",
+          "minimum": "Nvidia GTX 950 or AMD Radeon RX 550 or Intel Arc A310",
+          "recommended": "Radeon RX 6800S or Nvidia GTX 1070 Ti or Intel Arc A770"
+        },
+        {
+          "title": "Procesador",
+          "minimum": "4 cores and 8 threads | Intel Core i3-10300 or AMD Ryzen 3 3100 or AMD Ryzen Z2 A",
+          "recommended": "6 cores and 12 threads | Intel Core i5-10400 or AMD Ryzen 5 3600 or AMD Ryzen AI Z2 Extreme"
+        },
+        {
+          "title": "Controladora",
+          "minimum": "Controladora de Xbox",
+          "recommended": ""
+        },
+        {
+          "title": "DirectX",
+          "minimum": "API de DirectX 12, nivel de característica de hardware 11",
+          "recommended": "API de DirectX 12, nivel de característica de hardware 11"
+        },
+        {
+          "title": "Memoria",
+          "minimum": "8 GB",
+          "recommended": "16 GB"
+        },
+        {
+          "title": "Memoria de vídeo",
+          "minimum": "4 GB",
+          "recommended": "8 GB"
+        }
+      ],
+      "maxInstallSize": 5548130304,
+      "hasAddOns": false,
+      "storeUrl": "https://www.xbox.com/es-es/games/store/conker-live-and-reloaded/BVFB8CBS75R6"
+    },
+    {
       "id": "9NLFZVMSQ7CC",
       "title": "Construction Simulator",
       "description": "¡Construction Simulator ha vuelto más grande y más impresionante que nunca! Métete de lleno en el mundo de la construcción y triunfa estableciendo tu negocio desde cero con ayuda de tu mentor Hape. Lleva a cabo interesantes proyectos de distinta envergadura y con diferentes requisitos que te ayudarán a aumentar tus ingresos para así poder añadir maquinaria más potente a tu flota de vehículos. A lo largo de tu trayectoria, diversos clientes pondrán a prueba tus habilidades a través de desafíos y tareas. ¡Prepárate para mostrar tu proceso a medida que te enfrentas a varios desafíos de construcción en esta dinámica y apasionante aventura!\n\nEmprende tu negocio en dos mapas individuales inspirados en el paisajismo de Estados Unidos y Alemania. Cada uno ofrece su propia campaña, que te ayudará a alcanzar el éxito. Friedenberg se basa en las pintorescas ciudades del suroeste de Alemania, y en ella encontrarás colinas y riberas. Tu objetivo será contribuir al diseño de soluciones de energía renovable y mejorar la infraestructura urbana a lo largo de toda la campaña. Más allá de estos importantes proyectos, irás encontrando diversas tareas que te permitirán poner a prueba toda tu maquinaria. Sunny Haven, por otra parte, es una ciudad portuaria al más puro estilo estadounidense a la que deberás volver a insuflar vida para reavivar el turismo. En resumidas cuentas, habrá más de 90 emocionantes contratos para completar en ambos mapas, así que ¡prepárate para encontrar siempre cosas nuevas por explorar!\n\n¡Vuelve a adentrarte en el mundo de la construcción con una flota de vehículos tan extensa que te alucinará! Elige de entre una selección de más de 80 máquinas de fabricantes oficiales, todas ellas recreaciones virtuales fidedignas de sus homólogos en la vida real. Tendrás la oportunidad de utilizar una variada mezcla de vehículos conocidos de entregas anteriores de la franquicia, además de otros completamente nuevos que se han añadido al juego. Lo mismo ocurre con los fabricantes: además de los ya conocidos socios de Construction Simulator como Atlas, BELL, Bobcat, Bomag, CASE, Caterpillar©, Kenworth, Liebherr, MAN, Mack Trucks, Meiller-Kipper, Palfinger, Still y Wirtgen Group, ahora tendrás la oportunidad de usar maquinaria de Benninghoven de Wirtgen Group, CIFA, DAF, Doosan, Nooteboom, Scania, Schwing Stetter y Wacker Neuson. Además, al crear a tu personaje podrás elegir atuendos oficiales de equipo de protección personal de nuestro nuevo socio, Engelbert Strauss.\n\nTodas las actualizaciones de Construction Simulator publicadas desde su lanzamiento no solo contenían parches, sino también contenido adicional gratuito. De esa forma, hemos ido añadiendo al juego varias máquinas nuevas, entre ellas la innovadora excavadora de ruedas EW100 de Wacker Neuson y un práctico vehículo de servicio para repostar y reparar. Además, contarás con diferentes cucharas para la Wacker Neuson EW100 y la Wacker Neuson ET145, que te permitirán adaptarte rápidamente a varios desafíos en una obra. Gracias a la función de crossplay entre ordenadores y consolas, que incluye la posibilidad de usar el chat de voz, podrás jugar con amigos sin importar la plataforma. Asimismo, contamos entre las adiciones nuevas herramientas y funcionalidades como actualizaciones de terrenos mejorados, mayor capacidad del garaje y una práctica linterna. Y como no queremos que nadie se aburra aceptando los mismos trabajos una y otra vez, hemos provisto una nueva zona turística, además de varios contratos de temporada.\n\nTeniendo en cuenta la combinación del juego base inicial y sus actualizaciones, ahora Construction Simulator ofrece más de 100 contratos, más de 90 máquinas y, por consiguiente, diversión prácticamente infinita que podrás experimentar con hasta tres amigos en el modo multijugador. Suena bien, ¿no? Entonces, ¿a qué esperas? ¡GET TO WORK!",
@@ -12139,10 +12283,12 @@
         "Carreras y vuelo"
       ],
       "tiers": [
+        "essential",
+        "pc",
         "premium",
         "ultimate"
       ],
-      "platform": "console",
+      "platform": "both",
       "price": 9.99,
       "msrp": 9.99,
       "currency": "EUR",
@@ -12156,14 +12302,54 @@
       "interactiveDescriptions": [],
       "capabilities": [
         "Multijugador local de Xbox (2-4)",
+        "Un jugador",
         "Pantalla dividida o compartida",
-        "Xbox One X mejorado"
+        "Xbox One X mejorado",
+        "Presencia de Xbox",
+        "Clubs de Xbox",
+        "Cosas guardadas en la nube de Xbox",
+        "Xbox Play Anywhere"
       ],
       "systemRequirements": [
+        {
+          "title": "SO",
+          "minimum": "Windows 11 version 26200.8117 or higher",
+          "recommended": "Windows 11 version 26200.8117 or higher"
+        },
         {
           "title": "Arquitectura",
           "minimum": "x64",
           "recommended": "x64"
+        },
+        {
+          "title": "Gráficos",
+          "minimum": "Nvidia GTX 950 or AMD Radeon RX 550 or Intel Arc A310",
+          "recommended": "Radeon RX 6800S or Nvidia GTX 1070 Ti or Intel Arc A770"
+        },
+        {
+          "title": "Procesador",
+          "minimum": "4 cores and 8 threads | Intel Core i3-10300 or AMD Ryzen 3 3100 or AMD Ryzen Z2 A",
+          "recommended": "6 cores and 12 threads | Intel Core i5-10400 or AMD Ryzen 5 3600 or AMD Ryzen AI Z2 Extreme"
+        },
+        {
+          "title": "Controladora",
+          "minimum": "Controladora de Xbox",
+          "recommended": ""
+        },
+        {
+          "title": "DirectX",
+          "minimum": "API de DirectX 12, nivel de característica de hardware 11",
+          "recommended": "API de DirectX 12, nivel de característica de hardware 11"
+        },
+        {
+          "title": "Memoria",
+          "minimum": "8 GB",
+          "recommended": "16 GB"
+        },
+        {
+          "title": "Memoria de vídeo",
+          "minimum": "4 GB",
+          "recommended": "8 GB"
         }
       ],
       "maxInstallSize": 5016309760,
@@ -12496,11 +12682,13 @@
       "hasDiscount": true,
       "discountPercent": 70,
       "rating": 4.3,
-      "ratingCount": 701,
+      "ratingCount": 702,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
-      "interactiveDescriptions": [],
+      "interactiveDescriptions": [
+        "Compras dentro del juego"
+      ],
       "capabilities": [
         "4K Ultra HD",
         "HDR10",
@@ -13368,7 +13556,9 @@
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
       "interactiveDescriptions": [],
-      "capabilities": [],
+      "capabilities": [
+        "FPS Boost Series X | S"
+      ],
       "systemRequirements": [
         {
           "title": "Arquitectura",
@@ -13414,7 +13604,9 @@
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
       "interactiveDescriptions": [],
-      "capabilities": [],
+      "capabilities": [
+        "FPS Boost Series X | S"
+      ],
       "systemRequirements": [
         {
           "title": "Arquitectura",
@@ -15354,7 +15546,8 @@
       "capabilities": [
         "Un jugador",
         "Logros de Xbox",
-        "Cosas guardadas en la nube de Xbox"
+        "Cosas guardadas en la nube de Xbox",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -15495,7 +15688,8 @@
       "interactiveDescriptions": [],
       "capabilities": [
         "4K Ultra HD",
-        "Xbox One X mejorado"
+        "Xbox One X mejorado",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -16641,7 +16835,9 @@
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
       "interactiveDescriptions": [],
-      "capabilities": [],
+      "capabilities": [
+        "FPS Boost Series X | S"
+      ],
       "systemRequirements": [
         {
           "title": "Arquitectura",
@@ -16688,7 +16884,9 @@
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
       "interactiveDescriptions": [],
-      "capabilities": [],
+      "capabilities": [
+        "FPS Boost Series X | S"
+      ],
       "systemRequirements": [
         {
           "title": "Arquitectura",
@@ -17964,11 +18162,11 @@
         "ultimate"
       ],
       "platform": "pc",
-      "price": 39.99,
+      "price": 3.99,
       "msrp": 39.99,
       "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
+      "hasDiscount": true,
+      "discountPercent": 90,
       "rating": 0,
       "ratingCount": 0,
       "ageRating": 12,
@@ -18204,7 +18402,7 @@
       "hasDiscount": true,
       "discountPercent": 70,
       "rating": 3.8,
-      "ratingCount": 274,
+      "ratingCount": 275,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -18260,7 +18458,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.3,
-      "ratingCount": 650,
+      "ratingCount": 651,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -18983,7 +19181,8 @@
       "interactiveDescriptions": [],
       "capabilities": [
         "4K Ultra HD",
-        "Xbox One X mejorado"
+        "Xbox One X mejorado",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -19093,7 +19292,8 @@
         "Cooperativo en línea  (2-2)",
         "Multijugador local de Xbox (2-2)",
         "4K Ultra HD",
-        "Xbox One X mejorado"
+        "Xbox One X mejorado",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -19288,7 +19488,8 @@
       "pegiDescription": "Apropiado a partir de 18 años",
       "interactiveDescriptions": [],
       "capabilities": [
-        "Xbox One X mejorado"
+        "Xbox One X mejorado",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -19422,7 +19623,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.4,
-      "ratingCount": 1556,
+      "ratingCount": 1557,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -19765,7 +19966,9 @@
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
       "interactiveDescriptions": [],
-      "capabilities": [],
+      "capabilities": [
+        "FPS Boost Series X | S"
+      ],
       "systemRequirements": [
         {
           "title": "Arquitectura",
@@ -19885,11 +20088,11 @@
         "ultimate"
       ],
       "platform": "pc",
-      "price": 19.99,
+      "price": 3.99,
       "msrp": 19.99,
       "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
+      "hasDiscount": true,
+      "discountPercent": 80,
       "rating": 0,
       "ratingCount": 0,
       "ageRating": 18,
@@ -20128,11 +20331,11 @@
         "ultimate"
       ],
       "platform": "pc",
-      "price": 29.99,
+      "price": 2.99,
       "msrp": 29.99,
       "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
+      "hasDiscount": true,
+      "discountPercent": 90,
       "rating": 0,
       "ratingCount": 0,
       "ageRating": 18,
@@ -20185,11 +20388,11 @@
         "ultimate"
       ],
       "platform": "pc",
-      "price": 44.99,
+      "price": 8.99,
       "msrp": 44.99,
       "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
+      "hasDiscount": true,
+      "discountPercent": 80,
       "rating": 0,
       "ratingCount": 0,
       "ageRating": 18,
@@ -20280,7 +20483,8 @@
       "capabilities": [
         "Un jugador",
         "Optimizado para Xbox Series X|S",
-        "Logros de Xbox"
+        "Logros de Xbox",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -20319,11 +20523,11 @@
         "ultimate"
       ],
       "platform": "pc",
-      "price": 29.99,
+      "price": 4.49,
       "msrp": 29.99,
       "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
+      "hasDiscount": true,
+      "discountPercent": 85,
       "rating": 0,
       "ratingCount": 0,
       "ageRating": 18,
@@ -20493,11 +20697,11 @@
         "ultimate"
       ],
       "platform": "pc",
-      "price": 59.99,
+      "price": 8.99,
       "msrp": 59.99,
       "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
+      "hasDiscount": true,
+      "discountPercent": 85,
       "rating": 0,
       "ratingCount": 0,
       "ageRating": 18,
@@ -20575,11 +20779,11 @@
         "ultimate"
       ],
       "platform": "pc",
-      "price": 59.99,
+      "price": 14.99,
       "msrp": 59.99,
       "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
+      "hasDiscount": true,
+      "discountPercent": 75,
       "rating": 5,
       "ratingCount": 1,
       "ageRating": 18,
@@ -22030,7 +22234,7 @@
           "recommended": "8 GB"
         }
       ],
-      "maxInstallSize": 1157857280,
+      "maxInstallSize": 1158045696,
       "hasAddOns": false,
       "storeUrl": "https://www.xbox.com/es-es/games/store/fogpiercer/9P2PP895LSBJ"
     },
@@ -22512,7 +22716,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.7,
-      "ratingCount": 4408,
+      "ratingCount": 4411,
       "ageRating": 12,
       "pegiRating": "Supervisión parental recomendada",
       "pegiDescription": "Supervisión parental recomendada",
@@ -22673,7 +22877,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.1,
-      "ratingCount": 297,
+      "ratingCount": 300,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -23214,10 +23418,12 @@
         "Acción y aventura"
       ],
       "tiers": [
+        "essential",
+        "pc",
         "premium",
         "ultimate"
       ],
-      "platform": "console",
+      "platform": "both",
       "price": 2.49,
       "msrp": 9.99,
       "currency": "EUR",
@@ -23231,14 +23437,54 @@
       "interactiveDescriptions": [],
       "capabilities": [
         "Multijugador local de Xbox (2-4)",
+        "Un jugador",
         "Pantalla dividida o compartida",
-        "Xbox One X mejorado"
+        "Xbox One X mejorado",
+        "Presencia de Xbox",
+        "Clubs de Xbox",
+        "Cosas guardadas en la nube de Xbox",
+        "Xbox Play Anywhere"
       ],
       "systemRequirements": [
+        {
+          "title": "SO",
+          "minimum": "Windows 11 version 26200.8117 or higher",
+          "recommended": "Windows 11 version 26200.8117 or higher"
+        },
         {
           "title": "Arquitectura",
           "minimum": "x64",
           "recommended": "x64"
+        },
+        {
+          "title": "Gráficos",
+          "minimum": "Nvidia GTX 950 or AMD Radeon RX 550 or Intel Arc A310",
+          "recommended": "Radeon RX 6800S or Nvidia GTX 1070 Ti or Intel Arc A770"
+        },
+        {
+          "title": "Procesador",
+          "minimum": "4 cores and 8 threads | Intel Core i3-10300 or AMD Ryzen 3 3100 or AMD Ryzen Z2 A",
+          "recommended": "6 cores and 12 threads | Intel Core i5-10400 or AMD Ryzen 5 3600 or AMD Ryzen AI Z2 Extreme"
+        },
+        {
+          "title": "Controladora",
+          "minimum": "Controladora de Xbox",
+          "recommended": ""
+        },
+        {
+          "title": "DirectX",
+          "minimum": "API de DirectX 12, nivel de característica de hardware 11",
+          "recommended": "API de DirectX 12, nivel de característica de hardware 11"
+        },
+        {
+          "title": "Memoria",
+          "minimum": "8 GB",
+          "recommended": "16 GB"
+        },
+        {
+          "title": "Memoria de vídeo",
+          "minimum": "4 GB",
+          "recommended": "8 GB"
         }
       ],
       "maxInstallSize": 2578186240,
@@ -23515,7 +23761,8 @@
         "Multijugador multiplataforma de Xbox",
         "Un jugador",
         "Pantalla dividida o compartida",
-        "Cooperación multiplataforma de Xbox"
+        "Cooperación multiplataforma de Xbox",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -23574,7 +23821,8 @@
         "Un jugador",
         "Pantalla dividida o compartida",
         "Cooperación multiplataforma de Xbox",
-        "Xbox One X mejorado"
+        "Xbox One X mejorado",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -23633,7 +23881,8 @@
         "Un jugador",
         "Pantalla dividida o compartida",
         "Cooperación multiplataforma de Xbox",
-        "Xbox One X mejorado"
+        "Xbox One X mejorado",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -23700,7 +23949,8 @@
         "Presencia de Xbox",
         "Clubs de Xbox",
         "Cosas guardadas en la nube de Xbox",
-        "Xbox Play Anywhere"
+        "Xbox Play Anywhere",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -23798,7 +24048,8 @@
         "Multijugador multiplataforma de Xbox",
         "Un jugador",
         "Pantalla dividida o compartida",
-        "Cooperación multiplataforma de Xbox"
+        "Cooperación multiplataforma de Xbox",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -23978,7 +24229,8 @@
         "Cooperativo en línea  (2-2)",
         "Multijugador local de Xbox (2-2)",
         "Multijugador en línea  (2-8)",
-        "Pantalla dividida o compartida"
+        "Pantalla dividida o compartida",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -24676,7 +24928,7 @@
           "recommended": "Controladora de Xbox"
         }
       ],
-      "maxInstallSize": 2479636480,
+      "maxInstallSize": 2479706112,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/goals/9PF2ZS4XB4JH"
     },
@@ -25815,7 +26067,8 @@
         "HDR10",
         "Cooperación multiplataforma de Xbox",
         "Xbox One X mejorado",
-        "Xbox Play Anywhere"
+        "Xbox Play Anywhere",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -26254,7 +26507,8 @@
       "interactiveDescriptions": [],
       "capabilities": [
         "Cooperativo en línea  (2-2)",
-        "Multijugador en línea  (2-2)"
+        "Multijugador en línea  (2-2)",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -26873,11 +27127,11 @@
         "ultimate"
       ],
       "platform": "pc",
-      "price": 9.99,
+      "price": 2.49,
       "msrp": 9.99,
       "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
+      "hasDiscount": true,
+      "discountPercent": 75,
       "rating": 0,
       "ratingCount": 0,
       "ageRating": 12,
@@ -26929,11 +27183,11 @@
         "ultimate"
       ],
       "platform": "pc",
-      "price": 9.99,
+      "price": 2.49,
       "msrp": 9.99,
       "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
+      "hasDiscount": true,
+      "discountPercent": 75,
       "rating": 0,
       "ratingCount": 0,
       "ageRating": 7,
@@ -27558,7 +27812,8 @@
         "Controlador para juegos para PC",
         "Logros de Xbox",
         "Cosas guardadas en la nube de Xbox",
-        "Xbox Play Anywhere"
+        "Xbox Play Anywhere",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -28142,11 +28397,11 @@
         "ultimate"
       ],
       "platform": "pc",
-      "price": 39.99,
+      "price": 7.99,
       "msrp": 39.99,
       "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
+      "hasDiscount": true,
+      "discountPercent": 80,
       "rating": 0,
       "ratingCount": 0,
       "ageRating": 12,
@@ -29730,7 +29985,7 @@
       "hasDiscount": true,
       "discountPercent": 80,
       "rating": 4.1,
-      "ratingCount": 261,
+      "ratingCount": 262,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -29884,7 +30139,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.5,
-      "ratingCount": 271,
+      "ratingCount": 272,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -32489,7 +32744,9 @@
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
       "interactiveDescriptions": [],
-      "capabilities": [],
+      "capabilities": [
+        "FPS Boost Series X | S"
+      ],
       "systemRequirements": [
         {
           "title": "Arquitectura",
@@ -33308,7 +33565,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.7,
-      "ratingCount": 51328,
+      "ratingCount": 51338,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -33386,7 +33643,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.7,
-      "ratingCount": 21113,
+      "ratingCount": 21114,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -33691,7 +33948,7 @@
       "hasDiscount": true,
       "discountPercent": 60,
       "rating": 4,
-      "ratingCount": 15678,
+      "ratingCount": 15681,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -33886,7 +34143,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.5,
-      "ratingCount": 61246,
+      "ratingCount": 61250,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -33939,8 +34196,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 4.8,
-      "ratingCount": 73,
+      "rating": 4.9,
+      "ratingCount": 74,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -34090,7 +34347,8 @@
       "pegiDescription": "Apropiado a partir de 16 años",
       "interactiveDescriptions": [],
       "capabilities": [
-        "Xbox One X mejorado"
+        "Xbox One X mejorado",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -34137,7 +34395,9 @@
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
       "interactiveDescriptions": [],
-      "capabilities": [],
+      "capabilities": [
+        "FPS Boost Series X"
+      ],
       "systemRequirements": [
         {
           "title": "Arquitectura",
@@ -36291,7 +36551,8 @@
         "Xbox One X mejorado",
         "Logros de Xbox",
         "Cosas guardadas en la nube de Xbox",
-        "Xbox Play Anywhere"
+        "Xbox Play Anywhere",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -37344,7 +37605,8 @@
       "pegiDescription": "Apropiado a partir de 16 años",
       "interactiveDescriptions": [],
       "capabilities": [
-        "Xbox One X mejorado"
+        "Xbox One X mejorado",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -37986,7 +38248,8 @@
         "Un jugador",
         "Logros de Xbox",
         "Presencia de Xbox",
-        "Cosas guardadas en la nube de Xbox"
+        "Cosas guardadas en la nube de Xbox",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -38439,7 +38702,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.6,
-      "ratingCount": 830,
+      "ratingCount": 832,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -39654,7 +39917,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.8,
-      "ratingCount": 32,
+      "ratingCount": 33,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -39773,7 +40036,8 @@
         "Cooperación local de Xbox (2-4)",
         "Cooperativo en línea  (2-4)",
         "Multijugador local de Xbox (2-2)",
-        "Multijugador en línea  (2-26)"
+        "Multijugador en línea  (2-26)",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -39826,7 +40090,8 @@
         "Cooperación local de Xbox (2-4)",
         "Cooperativo en línea  (2-4)",
         "Multijugador local de Xbox (2-2)",
-        "Multijugador en línea  (2-24)"
+        "Multijugador en línea  (2-24)",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -39881,7 +40146,8 @@
         "Multijugador en línea  (2-24)",
         "4K Ultra HD",
         "HDR10",
-        "Pantalla dividida o compartida"
+        "Pantalla dividida o compartida",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -40225,7 +40491,8 @@
         "Logros de Xbox",
         "Presencia de Xbox",
         "Clubs de Xbox",
-        "Cosas guardadas en la nube de Xbox"
+        "Cosas guardadas en la nube de Xbox",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -40416,11 +40683,11 @@
         "ultimate"
       ],
       "platform": "pc",
-      "price": 39.99,
+      "price": 11.99,
       "msrp": 39.99,
       "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
+      "hasDiscount": true,
+      "discountPercent": 70,
       "rating": 0,
       "ratingCount": 0,
       "ageRating": 16,
@@ -41260,7 +41527,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 2.4,
-      "ratingCount": 31,
+      "ratingCount": 32,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -41304,7 +41571,7 @@
           "recommended": "16 GB"
         }
       ],
-      "maxInstallSize": 18461765632,
+      "maxInstallSize": 18461786112,
       "hasAddOns": false,
       "storeUrl": "https://www.xbox.com/es-es/games/store/quarantine-zone-the-last-check/9P9446P7D9TZ"
     },
@@ -41940,7 +42207,8 @@
         "Presencia de Xbox",
         "Clubs de Xbox",
         "Cosas guardadas en la nube de Xbox",
-        "Xbox Play Anywhere"
+        "Xbox Play Anywhere",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -43173,7 +43441,7 @@
       "hasDiscount": true,
       "discountPercent": 85,
       "rating": 3.3,
-      "ratingCount": 56,
+      "ratingCount": 57,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -44051,8 +44319,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 4.2,
-      "ratingCount": 33,
+      "rating": 4.3,
+      "ratingCount": 34,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -44128,7 +44396,7 @@
           "recommended": "Micrófono integrado"
         }
       ],
-      "maxInstallSize": 2157412352,
+      "maxInstallSize": 2158202880,
       "hasAddOns": false,
       "storeUrl": "https://www.xbox.com/es-es/games/store/rv-there-yet/9MW79BJVF3QX"
     },
@@ -44337,7 +44605,9 @@
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
       "interactiveDescriptions": [],
-      "capabilities": [],
+      "capabilities": [
+        "FPS Boost Series X | S"
+      ],
       "systemRequirements": [
         {
           "title": "Arquitectura",
@@ -44463,7 +44733,7 @@
           "recommended": "Micrófono integrado"
         }
       ],
-      "maxInstallSize": 140942770176,
+      "maxInstallSize": 141539074048,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/sea-of-thieves-2026-edition/9P2N57MC619K"
     },
@@ -44912,6 +45182,89 @@
       "storeUrl": "https://www.xbox.com/es-es/games/store/shadowrun-hong-kong-extended-edition-pc/9NK2DT3K7DTF"
     },
     {
+      "id": "9N0WDPMXNHWN",
+      "title": "Shift At Midnight",
+      "description": "Gestionar una estación de servicio requiere mucho trabajo. Hay que mantener llenos los estantes, vender suficientes productos para cumplir la cuota cada noche, recibir los pedidos y mantener el establecimiento limpio y ordenado.\n\nAh, y además debes asegurarte de interrogar a cada cliente que atiendas, pues algunos no son humanos, sino cambiaformas. Si dejas escapar a alguno, volverá durante tu turno y tratará de mataros a ti y a tus compañeros… Si sospechas que alguno no es humano, ejecútalo directamente. Pero asegúrate de dejarlo todo bien limpio después.\n\nSi la fastidias, tendrás que poner trampas, atrancar las puertas y esconderte, pues los cambiaformas volverán convertidos en monstruos espantosos.\n\nGestiona la estación de servicio \nRellena los estantes, recibe pedidos, mantén limpio el establecimiento y atiende a los clientes. Cada turno se genera aleatoriamente… así que no hay dos iguales.\n\nNo todos los clientes son humanos…\nPara gestionar una estación de servicio en estos tiempos, hay que hacer labores de detective… Puedes plantear cinco preguntas a cada cliente, examinar su DNI, comprobar sus datos en el ordenador y observar su comportamiento. Asegúrate de que sean humanos antes de permitirles marchar. Si no, volverán…\n\nAtranca la puerta, pon trampas y escóndete\nSi una criatura consigue marcharse de la tienda, el infierno se desatará sobre ti. Atranca las puertas, pon trampas y encuentra un buen escondite. Tu supervivencia ya no está garantizada.\n\n¡Mejor con amigos!\nEl juego es mucho más entretenido en el modo multijugador. Jugad juntos o al menos estad juntos... El chat de proximidad mejora la experiencia.\n\nCaracterísticas:\n•\tModo multijugador\n•\tChat de proximidad\n•\tInterrogatorio de clientes\n•\tTurnos generados aleatoriamente\n•\tGestión de una estación de servicio\n•\tPersonalización de personajes",
+      "shortDescription": "Una aventura cooperativa de terror y detectives para hasta 3 jugadores en línea. Colaborad en turnos generados aleatoriamente para investigar a vuestros clientes, algunos de los cuales fingen ser humanos, pero no lo son. Un solo error y os veréis obligados a encerraros, poner trampas y esconderos.",
+      "developer": "Bun Muen",
+      "publisher": "Kwalee",
+      "imageUrl": "https://store-images.s-microsoft.com/image/apps.57921.13913179094391197.48e0c780-4669-4067-951d-a9b01b9fc923.5a76e43f-115e-43b9-b2ae-67d6b6119442",
+      "heroImage": "https://store-images.s-microsoft.com/image/apps.47672.13913179094391197.48e0c780-4669-4067-951d-a9b01b9fc923.3251cfa0-766d-4e79-8fd0-800a4ba18037",
+      "screenshots": [
+        "https://store-images.s-microsoft.com/image/apps.45296.13913179094391197.48e0c780-4669-4067-951d-a9b01b9fc923.61a0f65d-0219-429a-9478-e19e7b1f719e",
+        "https://store-images.s-microsoft.com/image/apps.46094.13913179094391197.48e0c780-4669-4067-951d-a9b01b9fc923.fbb09f8d-a76c-411f-ba9d-20f379e659d6",
+        "https://store-images.s-microsoft.com/image/apps.39761.13913179094391197.48e0c780-4669-4067-951d-a9b01b9fc923.f561ebb9-be3a-4ead-b3cb-d565021f55da",
+        "https://store-images.s-microsoft.com/image/apps.58316.13913179094391197.48e0c780-4669-4067-951d-a9b01b9fc923.923bb0d5-d442-4e0a-9611-c341f208dac5"
+      ],
+      "videoUrl": "",
+      "videoCaption": "",
+      "releaseDate": "2026-07-22",
+      "categories": [
+        "Simulación"
+      ],
+      "tiers": [
+        "pc",
+        "ultimate"
+      ],
+      "platform": "both",
+      "price": 9.99,
+      "msrp": 9.99,
+      "currency": "EUR",
+      "hasDiscount": false,
+      "discountPercent": 0,
+      "rating": 3.8,
+      "ratingCount": 4,
+      "ageRating": 16,
+      "pegiRating": "PEGI 16",
+      "pegiDescription": "Apropiado a partir de 16 años",
+      "interactiveDescriptions": [],
+      "capabilities": [
+        "Cooperativo en línea  (2-3)",
+        "4K Ultra HD",
+        "Un jugador",
+        "Cooperación multiplataforma de Xbox",
+        "Optimizado para Xbox Series X|S",
+        "Logros de Xbox",
+        "Cosas guardadas en la nube de Xbox",
+        "Xbox Play Anywhere"
+      ],
+      "systemRequirements": [
+        {
+          "title": "SO",
+          "minimum": "Windows 10 version 18362.0 or higher",
+          "recommended": "Windows 10 version 18362.0 or higher"
+        },
+        {
+          "title": "Arquitectura",
+          "minimum": "x64",
+          "recommended": "x64"
+        },
+        {
+          "title": "Gráficos",
+          "minimum": "NVIDIA GeForce GTX 1050 Ti or equivalen",
+          "recommended": "NVIDIA GeForce GTX 1660 Ti (6GB) / GTX 1650 (4GB) or AMD Radeon RX 6500 XT)"
+        },
+        {
+          "title": "Procesador",
+          "minimum": "Intel Core i5-10400F or Equivalent",
+          "recommended": "Intel Core i5-10400 / AMD Ryzen 7 5800X or Equivalent"
+        },
+        {
+          "title": "DirectX",
+          "minimum": "Versión 11",
+          "recommended": "API de DirectX 12, nivel de característica de hardware 12"
+        },
+        {
+          "title": "Memoria",
+          "minimum": "8 GB",
+          "recommended": "16 GB"
+        }
+      ],
+      "maxInstallSize": 1169014784,
+      "hasAddOns": false,
+      "storeUrl": "https://www.xbox.com/es-es/games/store/shift-at-midnight/9N0WDPMXNHWN"
+    },
+    {
       "id": "9P7PF6ZP3958",
       "title": "Sifu",
       "description": "¿Con ganas de kung-fu del bueno? La expansión de Arenas gratis añade múltiples horas de juego que pondrán tu kung-fu a prueba. \r\nCon 5 nuevos modos de juego, 15 ubicaciones dinámicas y 120 retos, equípate para combates espectaculares, oponentes brutales e infinitas oportunidades de pulir tus movimientos.\r\n\r\n¿Basta una vida para aprender kung-fu?\r\nTanto si eliges jugar con un personaje masculino o femenino, Sifu te llevará a meditar esta cuestión en tu camino hacia la venganza, cazando a los asesinos de tu familia. Uno contra todos. Sin aliados, con innumerables enemigos y un misterioso amuleto que te devuelve a la vida cada vez que mueres. ¡Pero ten cuidado! El uso de tu arma secreta supone un precio considerable: el envejecimiento y sus consecuencias.\r\n\r\nAprendiendo con fuego\r\nTus enemigos no esperan su turno y no muestran sus intenciones. Esquiva, bloquea, golpea, utiliza combinaciones y se como el agua fluyendo por entornos cautivadores. Aprende a dominar el arte del kung-fu, ya sea luchando en el sótano de un club nocturno, atravesando finas galerías para evitar que te rodeen o navegando verticalmente por un imponente edificio de oficinas.\r\n\r\nAdaptarse es sobrevivir\r\nUn posicionamiento cuidadoso y un uso inteligente del entorno a tu favor son claves para la supervivencia. Usa todo lo que tengas a mano: objetos arrojadizos, armas improvisadas, ventanas y repisas... La suerte no está de tu parte y no se te concederá clemencia.\r\n\r\nEl entrenamiento nunca termina\r\nLa maestría del kung-fu requiere práctica, un camino tanto para el cuerpo como para la mente. Aprende de tus errores, desbloquea habilidades únicas y halla la fuerza para dominar las devastadoras técnicas del kung-fu Pak Mei.",
@@ -45193,11 +45546,11 @@
         "ultimate"
       ],
       "platform": "pc",
-      "price": 39.99,
+      "price": 3.99,
       "msrp": 39.99,
       "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
+      "hasDiscount": true,
+      "discountPercent": 90,
       "rating": 0,
       "ratingCount": 0,
       "ageRating": 18,
@@ -46014,11 +46367,11 @@
         "ultimate"
       ],
       "platform": "pc",
-      "price": 29.99,
+      "price": 5.99,
       "msrp": 29.99,
       "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
+      "hasDiscount": true,
+      "discountPercent": 80,
       "rating": 0,
       "ratingCount": 0,
       "ageRating": 18,
@@ -46787,11 +47140,11 @@
         "ultimate"
       ],
       "platform": "pc",
-      "price": 69.99,
+      "price": 17.49,
       "msrp": 69.99,
       "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
+      "hasDiscount": true,
+      "discountPercent": 75,
       "rating": 0,
       "ratingCount": 0,
       "ageRating": 12,
@@ -46929,7 +47282,8 @@
         "Multijugador en línea  (8-40)",
         "HDR10",
         "Pantalla dividida o compartida",
-        "Xbox One X mejorado"
+        "Xbox One X mejorado",
+        "FPS Boost Series X"
       ],
       "systemRequirements": [
         {
@@ -47867,7 +48221,8 @@
         "Cooperativo en línea  (2-4)",
         "Multijugador en línea  (2-4)",
         "HDR10",
-        "Xbox One X mejorado"
+        "Xbox One X mejorado",
+        "FPS Boost Series S"
       ],
       "systemRequirements": [
         {
@@ -47906,11 +48261,11 @@
         "ultimate"
       ],
       "platform": "pc",
-      "price": 29.99,
+      "price": 4.49,
       "msrp": 29.99,
       "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
+      "hasDiscount": true,
+      "discountPercent": 85,
       "rating": 0,
       "ratingCount": 0,
       "ageRating": 12,
@@ -48234,7 +48589,8 @@
         "Presencia de Xbox",
         "Clubs de Xbox",
         "Cosas guardadas en la nube de Xbox",
-        "Xbox Play Anywhere"
+        "Xbox Play Anywhere",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -49297,6 +49653,70 @@
       "storeUrl": "https://www.xbox.com/es-es/games/store/teamfight-tactics/9N464X6CT772"
     },
     {
+      "id": "9PN8M16GG8M4",
+      "title": "Tears of Metal (Versión preliminar del juego)",
+      "description": "Este juego es un trabajo en curso. Es posible que, con el tiempo, cambie o no cambie, o que no se lance como producto final. Compra este producto únicamente si estás satisfecho con el estado actual del juego no terminado.\n\nTears of Metal es un roguelike medieval cooperativo de tipo hack-and-slash. Ábrete paso a través de hordas de enemigos para reclamar tu isla con la ayuda de tu formidable batallón escocés. A medida que te adentras en las trincheras, descubre más sobre el misterioso Meteorito del Dragón y la traicionera invasión enemiga.\n\nRECONQUISTA TU ISLA\nÁbrete paso entre hordas de enemigos en vastos campos de batalla, en solitario o con tus amigos. Difíciles desafíos te aguardan a cada paso. Ábrete camino a lo largo de la isla y empuña combinaciones únicas de poderes formidables en cada intento. Reúne más tropas escocesas y otórgales mejoras permanentes a medida que ganan experiencia y se vuelven más fuertes.\nEl impacto del Meteorito de la Piedra del Dragón trajo enjambres de ocupantes a tus puertas, y con él, misteriosos y peligrosos poderes. Inscribe tu nombre en las leyendas y lidera a tus tropas en una campaña para recuperar tu hogar.\n\nCOMBINA PODEROSAS MEJORAS\nObtén poderosas mejoras y combínalas con más de cien artefactos para crear builds exclusivas y devastadoras. Elige entre varios héroes jugables únicos y desata ataques cada vez más explosivos y letales directamente desde el frente. A medida que se desarrolla la acción, prepárate para enfrentarte al ominoso poder extraído de la Piedra del Dragón.\n\nMEJORA A TUS SOLDADOS\nTus soldados obtienen habilidades permanentes entre campañas. Reclútalos, mejóralos y lucha junto a ellos mientras se convierten en recursos esenciales para tus próximas batallas. Pero prepárate: si uno de ellos cae en combate, se perderá para siempre.\nEXPANDE TU ASENTAMIENTO Y DESBLOQUEA NUEVAS FORMAS DE JUGAR\nExpande tu asentamiento entre campañas para tener acceso a nuevas tiendas y comprar mejoras permanentes, o incluso desbloquear desafíos difíciles para obtener mayores recompensas.\nCompleta objetivos especiales para descubrir nuevos artefactos, personajes jugables, cosméticos, mejoras y combos. Desentierra multitud de secretos mientras atraviesas los campos de batalla devastados por la guerra.\n\nJUEGA EN SOLITARIO O EN COOPERATIVO\nReconquista tu isla con tus amigos o en solitario a través de más de 45 entornos creados a mano, con un sinfín de oportunidades para escenarios y objetivos únicos. ¡Invita a tus amigos a unirse a tu campaña y compartid las glorias de la victoria!\n\nVisita https://tearsofmetal.com/ para obtener detalles completos sobre el estado más reciente del juego, así como para proporcionar comentarios y notificar problemas.\n",
+      "shortDescription": "Este juego es un trabajo en curso. Es posible que, con el tiempo, cambie o no cambie, o que no se lance como producto final. Compra este producto únicamente si estás satisfecho con el estado actual del juego no terminado.\n\nTears of Metal es un roguelike medieval cooperativo de tipo hack-and-slash. Ábrete paso a través de hordas de enemigos para reclamar tu isla con la ayuda de tu formidable batallón escocés. A medida que te adentras en las trincheras, descubre más sobre el misterioso Meteorito del Dragón y la traicionera invasión enemiga.\n",
+      "developer": "Paper Cult",
+      "publisher": "Paper Cult",
+      "imageUrl": "https://store-images.s-microsoft.com/image/apps.36199.14348422587763881.b2b2844c-eb84-49b0-920b-516b38b33a6c.10d7bcca-36fe-4105-a80c-29831a0b69b9",
+      "heroImage": "",
+      "screenshots": [
+        "https://store-images.s-microsoft.com/image/apps.57727.14348422587763881.b2b2844c-eb84-49b0-920b-516b38b33a6c.a90d99ec-8b65-4226-bf50-f90fd165c3bc",
+        "https://store-images.s-microsoft.com/image/apps.65147.14348422587763881.b2b2844c-eb84-49b0-920b-516b38b33a6c.fcd4d57c-588f-48fc-8c75-978d2042bb9a",
+        "https://store-images.s-microsoft.com/image/apps.22540.14348422587763881.b2b2844c-eb84-49b0-920b-516b38b33a6c.1369dea9-08cb-4143-9796-2b4a349facb2",
+        "https://store-images.s-microsoft.com/image/apps.11157.14348422587763881.b2b2844c-eb84-49b0-920b-516b38b33a6c.aa24660a-8c02-4707-8ba3-1248d530e3c0"
+      ],
+      "videoUrl": "https://cdn.trailers.xboxservices.com/trailers/00000000-0000-0000-0000-000000000000/xbox/prod/videos/mainprofile/14348422587763881/86180d95-8593-4605-8661-72221bcda33f/manifest.m3u8",
+      "videoCaption": "Tears of Metal - Trailer",
+      "releaseDate": "9998-12-30",
+      "categories": [
+        "Acción y aventura"
+      ],
+      "tiers": [
+        "pc",
+        "ultimate"
+      ],
+      "platform": "pc",
+      "price": 24.99,
+      "msrp": 24.99,
+      "currency": "EUR",
+      "hasDiscount": false,
+      "discountPercent": 0,
+      "rating": 0,
+      "ratingCount": 0,
+      "ageRating": 16,
+      "pegiRating": "PEGI 16",
+      "pegiDescription": "Apropiado a partir de 16 años",
+      "interactiveDescriptions": [
+        "Interacción de usuarios"
+      ],
+      "capabilities": [
+        "Cooperativo en línea  (2-4)",
+        "Multijugador multiplataforma de Xbox",
+        "Un jugador",
+        "Pantalla dividida o compartida",
+        "Cooperación multiplataforma de Xbox",
+        "Logros de Xbox",
+        "Cosas guardadas en la nube de Xbox"
+      ],
+      "systemRequirements": [
+        {
+          "title": "SO",
+          "minimum": "Windows 10 version 18362.0 or higher",
+          "recommended": "Windows 10 version 18362.0 or higher"
+        },
+        {
+          "title": "Arquitectura",
+          "minimum": "x64",
+          "recommended": "x64"
+        }
+      ],
+      "maxInstallSize": 4673421312,
+      "hasAddOns": false,
+      "storeUrl": "https://www.xbox.com/es-es/games/store/tears-of-metal-versi-n-preliminar-del-juego/9PN8M16GG8M4"
+    },
+    {
       "id": "9NF83PRZK6K3",
       "title": "Tell Me Why: Capítulo 1-3",
       "description": "¡El episodio 1 ahora es GRATIS!\r\nTell Me Why es el juego de aventura narrativa más reciente de DONTNOD Entertainment, el estudio detrás de la aclamada franquicia Life is Strange. En este íntimo misterio, los gemelos reunidos Tyler y Alyson Ronan utilizan su vínculo sobrenatural para descifrar los recuerdos de su amada pero problemática niñez. Tell Me Why, ambientada en un hermoso pueblito de Alaska, incluye personajes realistas, temas maduros y elecciones fascinantes.\r\nMientras aparecen los recuerdos del pasado, tus elecciones afectarán la relación de los gemelos, determinarán la fuerza de su vínculo y formarán el rumbo de sus vidas.\r\n¡El primer episodio de Tell Me Why ahora es gratis! \r\n \r\nVisita el pasado, descubre la verdad y dale forma a tu futuro.\r\n• Descubre la verdad: Usa los poderes sobrenaturales de los gemelos para revivir y explorar sus conflictivos recuerdos de la infancia.\r\n• Comparte tu historia: Influye en la relación entre Tyler y Alyson con decisiones que determinarán su futuro.\r\n• Descubre más secretos: Prueba tu ingenio con rompecabezas que ahondan en la historia y abren una ventana al ''Libro de los duendes'', el mundo de fantasía de los gemelos.\r\nExperimenta situaciones y personajes de la vida real.\r\n• Personajes únicos: Construye relaciones y resuelve misterios a través de los ojos de personajes convincentes y realistas.\r\n• El esplendor de Alaska: Explora locaciones ubicadas en un hermoso y detallado pequeño pueblo de Alaska en impresionante 4K y HDR.\r\n\r\nUna historia con propósito: DONTNOD Entertainment y Xbox Game Studios realizaron estudios en sitio y se aliaron de cerca con defensores de la cultura, la salud mental y el género para crear una seria experiencia de la vida real.",
@@ -50300,11 +50720,11 @@
         "ultimate"
       ],
       "platform": "pc",
-      "price": 69.99,
+      "price": 13.99,
       "msrp": 69.99,
       "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
+      "hasDiscount": true,
+      "discountPercent": 80,
       "rating": 0,
       "ratingCount": 0,
       "ageRating": 12,
@@ -50542,11 +50962,11 @@
         "ultimate"
       ],
       "platform": "pc",
-      "price": 29.99,
+      "price": 5.99,
       "msrp": 29.99,
       "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
+      "hasDiscount": true,
+      "discountPercent": 80,
       "rating": 0,
       "ratingCount": 0,
       "ageRating": 12,
@@ -51431,7 +51851,8 @@
         "Logros de Xbox",
         "Presencia de Xbox",
         "Clubs de Xbox",
-        "Cosas guardadas en la nube de Xbox"
+        "Cosas guardadas en la nube de Xbox",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -51721,7 +52142,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 75869532160,
+      "maxInstallSize": 75871367168,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/the-first-descendant/9P8FBXKMCLWC"
     },
@@ -52290,8 +52711,8 @@
       "currency": "EUR",
       "hasDiscount": true,
       "discountPercent": 10,
-      "rating": 2.8,
-      "ratingCount": 5,
+      "rating": 2.7,
+      "ratingCount": 9,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -53343,7 +53764,8 @@
       "interactiveDescriptions": [],
       "capabilities": [
         "Multijugador en línea  (2-16)",
-        "Xbox One X mejorado"
+        "Xbox One X mejorado",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -53634,8 +54056,8 @@
         "https://store-images.s-microsoft.com/image/apps.10945.13854112670148905.26c6c61d-a4a5-45bb-b0b1-c5edd982ab6a.c4a383de-46cd-4637-9960-96a8ead4ece8",
         "https://store-images.s-microsoft.com/image/apps.55506.13854112670148905.26c6c61d-a4a5-45bb-b0b1-c5edd982ab6a.24804905-cb24-4a69-b476-981bcbafc023"
       ],
-      "videoUrl": "",
-      "videoCaption": "",
+      "videoUrl": "https://cdn.trailers.xboxservices.com/trailers/00000000-0000-0000-0000-000000000000/xbox/prod/videos/mainprofile/14266604059481742/5d509be6-951f-4742-8023-8e8d7100931c/manifest.m3u8",
+      "videoCaption": "Launch trailer",
       "releaseDate": "2026-07-21",
       "categories": [
         "Shooter"
@@ -53852,11 +54274,11 @@
         "ultimate"
       ],
       "platform": "pc",
-      "price": 39.99,
+      "price": 9.99,
       "msrp": 39.99,
       "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
+      "hasDiscount": true,
+      "discountPercent": 75,
       "rating": 2.2,
       "ratingCount": 11,
       "ageRating": 16,
@@ -54003,7 +54425,8 @@
         "4K Ultra HD",
         "Un jugador",
         "Xbox One X mejorado",
-        "Logros de Xbox"
+        "Logros de Xbox",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -54166,11 +54589,11 @@
         "ultimate"
       ],
       "platform": "pc",
-      "price": 29.99,
+      "price": 7.49,
       "msrp": 29.99,
       "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
+      "hasDiscount": true,
+      "discountPercent": 75,
       "rating": 0,
       "ratingCount": 0,
       "ageRating": 18,
@@ -54657,7 +55080,8 @@
         "Presencia de Xbox",
         "Clubs de Xbox",
         "Cosas guardadas en la nube de Xbox",
-        "Xbox Play Anywhere"
+        "Xbox Play Anywhere",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -55701,7 +56125,8 @@
         "Logros de Xbox",
         "Presencia de Xbox",
         "Clubs de Xbox",
-        "Cosas guardadas en la nube de Xbox"
+        "Cosas guardadas en la nube de Xbox",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -55896,7 +56321,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 2.3,
-      "ratingCount": 55,
+      "ratingCount": 56,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -56137,7 +56562,8 @@
         "Multijugador local de Xbox (2-2)",
         "4K Ultra HD",
         "Pantalla dividida o compartida",
-        "Xbox One X mejorado"
+        "Xbox One X mejorado",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -56559,7 +56985,7 @@
           "recommended": "1 GB"
         }
       ],
-      "maxInstallSize": 1536167936,
+      "maxInstallSize": 1536139264,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/vampire-survivors/9PD5BM2Z8C4L"
     },
@@ -57917,7 +58343,8 @@
         "Logros de Xbox",
         "Presencia de Xbox",
         "Clubs de Xbox",
-        "Cosas guardadas en la nube de Xbox"
+        "Cosas guardadas en la nube de Xbox",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -58222,11 +58649,11 @@
         "ultimate"
       ],
       "platform": "pc",
-      "price": 59.99,
+      "price": 8.99,
       "msrp": 59.99,
       "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
+      "hasDiscount": true,
+      "discountPercent": 85,
       "rating": 0,
       "ratingCount": 0,
       "ageRating": 18,
@@ -58318,7 +58745,8 @@
         "Cooperativo en línea  (2-2)",
         "Multijugador en línea  (2-4)",
         "Un jugador",
-        "Logros de Xbox"
+        "Logros de Xbox",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -58509,7 +58937,8 @@
         "Cooperativo en línea  (2-8)",
         "Multijugador en línea  (2-8)",
         "Un jugador",
-        "Logros de Xbox"
+        "Logros de Xbox",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -58871,7 +59300,7 @@
           "recommended": "Micrófono integrado"
         }
       ],
-      "maxInstallSize": 302097002496,
+      "maxInstallSize": 320731004928,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/where-winds-meet/9N76QGDS5GJR"
     },
@@ -60984,7 +61413,7 @@
           "recommended": "Controladora de Xbox"
         }
       ],
-      "maxInstallSize": 122649665536,
+      "maxInstallSize": 122649661440,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/wuthering-waves/9P41GS5W1C6L"
     },
@@ -61149,7 +61578,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 104539123712,
+      "maxInstallSize": 110741024768,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/zenless-zone-zero/9N4X0WFZ2STM"
     },
