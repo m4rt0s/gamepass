@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-07-28T10:19:09.299Z",
+  "updatedAt": "2026-07-29T10:24:53.980Z",
   "market": "ES",
   "language": "es-ES",
-  "totalGames": 830,
+  "totalGames": 832,
   "counts": {
     "essential": 130,
-    "premium": 580,
-    "pc": 519,
-    "ultimate": 737,
-    "total": 830
+    "premium": 581,
+    "pc": 521,
+    "ultimate": 739,
+    "total": 832
   },
   "categories": [
     "Acción y aventura",
@@ -353,7 +353,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.5,
-      "ratingCount": 41,
+      "ratingCount": 42,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -1085,7 +1085,7 @@
       "hasDiscount": true,
       "discountPercent": 65,
       "rating": 4.4,
-      "ratingCount": 2933,
+      "ratingCount": 2934,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -2579,7 +2579,7 @@
           "recommended": "Controladora de Xbox"
         }
       ],
-      "maxInstallSize": 214145048576,
+      "maxInstallSize": 214145064960,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/ark-survival-ascended/9P33VJGVPHVP"
     },
@@ -3068,7 +3068,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.7,
-      "ratingCount": 21096,
+      "ratingCount": 21098,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -4751,7 +4751,8 @@
         "4K Ultra HD",
         "Un jugador",
         "Xbox One X mejorado",
-        "Logros de Xbox"
+        "Logros de Xbox",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -7958,7 +7959,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 2301108224,
+      "maxInstallSize": 2346446848,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/brawlhalla/C3B1V55CDL0C"
     },
@@ -8598,7 +8599,7 @@
       "hasDiscount": true,
       "discountPercent": 60,
       "rating": 1.8,
-      "ratingCount": 19,
+      "ratingCount": 20,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -8630,7 +8631,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 167357771776,
+      "maxInstallSize": 167357206528,
       "hasAddOns": false,
       "storeUrl": "https://www.xbox.com/es-es/games/store/call-of-duty-black-ops-6-edici-n-est-ndar-windows/9MZ1RZTJTZKB"
     },
@@ -8665,7 +8666,7 @@
       "hasDiscount": true,
       "discountPercent": 60,
       "rating": 1.8,
-      "ratingCount": 20,
+      "ratingCount": 21,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -8699,7 +8700,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 167357771776,
+      "maxInstallSize": 167357206528,
       "hasAddOns": false,
       "storeUrl": "https://www.xbox.com/es-es/games/store/call-of-duty-black-ops-6-lote-multigeneraci-n/9N1N0NQNGK9W"
     },
@@ -8735,7 +8736,7 @@
       "hasDiscount": true,
       "discountPercent": 50,
       "rating": 1.7,
-      "ratingCount": 85,
+      "ratingCount": 86,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -8943,7 +8944,7 @@
       "hasDiscount": true,
       "discountPercent": 70,
       "rating": 2.6,
-      "ratingCount": 97,
+      "ratingCount": 98,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -9011,7 +9012,7 @@
       "hasDiscount": true,
       "discountPercent": 70,
       "rating": 2.7,
-      "ratingCount": 101,
+      "ratingCount": 102,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -9084,7 +9085,7 @@
       "hasDiscount": true,
       "discountPercent": 60,
       "rating": 2.3,
-      "ratingCount": 111,
+      "ratingCount": 113,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -9149,7 +9150,7 @@
       "hasDiscount": true,
       "discountPercent": 60,
       "rating": 2.2,
-      "ratingCount": 108,
+      "ratingCount": 110,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -9291,8 +9292,8 @@
       "currency": "EUR",
       "hasDiscount": true,
       "discountPercent": 65,
-      "rating": 2.4,
-      "ratingCount": 5,
+      "rating": 2.8,
+      "ratingCount": 6,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -14296,8 +14297,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 4.1,
-      "ratingCount": 27,
+      "rating": 4.2,
+      "ratingCount": 28,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -14924,7 +14925,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.5,
-      "ratingCount": 275,
+      "ratingCount": 276,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -15825,11 +15826,11 @@
         "ultimate"
       ],
       "platform": "both",
-      "price": 39.99,
+      "price": 27.99,
       "msrp": 39.99,
       "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
+      "hasDiscount": true,
+      "discountPercent": 30,
       "rating": 3.6,
       "ratingCount": 187,
       "ageRating": 3,
@@ -15898,7 +15899,7 @@
           "recommended": "8 GB"
         }
       ],
-      "maxInstallSize": 26797105152,
+      "maxInstallSize": 27656826880,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/disney-dreamlight-valley/9NSF0BGH8D86"
     },
@@ -16796,7 +16797,7 @@
           "recommended": "Controladora de Xbox"
         }
       ],
-      "maxInstallSize": 113650638848,
+      "maxInstallSize": 113746194432,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/doom-the-dark-ages/9PH9X0760B0T"
     },
@@ -16883,7 +16884,9 @@
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
       "interactiveDescriptions": [],
-      "capabilities": [],
+      "capabilities": [
+        "FPS Boost Series X | S"
+      ],
       "systemRequirements": [
         {
           "title": "Arquitectura",
@@ -17599,7 +17602,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 2.2,
-      "ratingCount": 163,
+      "ratingCount": 164,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -21533,7 +21536,7 @@
       "hasDiscount": true,
       "discountPercent": 40,
       "rating": 4.3,
-      "ratingCount": 6,
+      "ratingCount": 7,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -22156,6 +22159,121 @@
       "storeUrl": "https://www.xbox.com/es-es/games/store/firewatch/BQQKG9H2STC0"
     },
     {
+      "id": "9N7MVHP2R7VP",
+      "title": "FixForce",
+      "description": "Salta, trepa y lanza a tus amigos en este caótico juego de plataformas cooperativo de extracción para hasta 6 jugadores. Usa tu llave-taladro para abrirte paso por un vibrante mundo posapocalíptico, encontrar piezas de repuesto y reparar máquinas averiadas.\\r\\n\\r\\nCONSTRUYE CON AMIGOS\\r\\n\\r\\nComo robots de la brigada FixForce, tú y hasta 5 amigos levantaréis torres y pasarelas con chatarra y trastos para trepar y moveros por toda la obra. Rescataos unos a otros cuando la cosa se ponga fea y recordad que lo alto o lejos que lleguéis solo depende de cuánta chatarra consigáis encontrar.\\r\\n\\r\\nBUSCAR + REPARAR\\r\\n\\r\\nEn cada ronda, tú y tu equipo apareceréis cerca de máquinas que necesitan reparación urgente. Una vez localizadas, recorred la zona con vuestra llave-taladro en busca de las piezas de repuesto perfectas que os permitan arreglar las máquinas para poder terminar a tiempo. Puede incluso que os salga algún trabajillo extra para llenaros más los bolsillos...\\r\\n\\r\\nRIESGOS LABORALES\\r\\n\\r\\nNo hay dos encargos iguales, pero todos conllevan riesgos y robots renegados violentos. Manteneos alerta para protegeros mutuamente y defender vuestras valiosas torres y puentes de su furia destructiva mientras acabáis el trabajo.\\r\\n\\r\\nPERO SIN PERDER LA CABEZA\\r\\n\\r\\nFixForce es sinónimo de fiabilidad y los encargos de alto riesgo son el pan de cada día. Si te pegas una leche, te caes al agua o das con un robot renegado, tus amigos solo tendrán que recuperar tu cabeza y acoplársela a otro cuerpo para dejarte ¡como nuevo!\\r\\n\\r\\nVENTAJAS DEL PUESTO\\r\\n\\r\\nEl trabajo no da tregua, pero tú tampoco te quedas atrás. Cada reparación exitosa llena tu cuenta bancaria, lo cual te permite conseguir nuevas herramientas para mejorar tu eficiencia y afrontar los retos más difíciles a cambio de unos retoques poco ortodoxos en el uniforme.\\r\\n\\r\\nEmpuña la llave-taladro: usa tu herramienta integrada para arreglar máquinas, construir torres y puentes para moverte, recoger las cabezas caídas de tus amigos y lanzar objetos por los aires.",
+      "shortDescription": "Salta, trepa y lanza a tus amigos en este caótico juego de plataformas cooperativo de extracción para hasta 6 jugadores. Usa tu llave-taladro para abrirte paso por un vibrante mundo posapocalíptico, encontrar piezas de repuesto y reparar máquinas averiadas.",
+      "developer": "Surgent Studios",
+      "publisher": "Surgent Studios",
+      "imageUrl": "https://store-images.s-microsoft.com/image/apps.59766.14061818942283170.453dd0a8-2e69-4069-87c0-422a2c787feb.b061b80e-d27f-4049-9040-e028755de255",
+      "heroImage": "https://store-images.s-microsoft.com/image/apps.8926.14061818942283170.453dd0a8-2e69-4069-87c0-422a2c787feb.5de15890-0a62-4aba-88dc-8e1fdc5988b1",
+      "screenshots": [
+        "https://store-images.s-microsoft.com/image/apps.29814.14061818942283170.453dd0a8-2e69-4069-87c0-422a2c787feb.f9cad699-2f08-48aa-8fd3-6cb9bd9f135b",
+        "https://store-images.s-microsoft.com/image/apps.25592.14061818942283170.453dd0a8-2e69-4069-87c0-422a2c787feb.9ef396b4-5204-40cc-b448-0a1f1a3b245e",
+        "https://store-images.s-microsoft.com/image/apps.37575.14061818942283170.453dd0a8-2e69-4069-87c0-422a2c787feb.a1c2a83e-4bf7-496b-a27c-a27526b1f7ae",
+        "https://store-images.s-microsoft.com/image/apps.39065.14061818942283170.453dd0a8-2e69-4069-87c0-422a2c787feb.89511a4c-1621-49c2-a6e8-712ac232404b"
+      ],
+      "videoUrl": "https://cdn.trailers.xboxservices.com/trailers/00000000-0000-0000-0000-000000000000/xbox/prod/videos/mainprofile/14061818942283170/c5ebc55f-30cd-4967-bbd9-f7e9ddc361cf/manifest.m3u8",
+      "videoCaption": "FixForce",
+      "releaseDate": "2026-07-17",
+      "categories": [
+        "Acción y aventura",
+        "Niños y familia"
+      ],
+      "tiers": [
+        "pc",
+        "premium",
+        "ultimate"
+      ],
+      "platform": "both",
+      "price": 7.99,
+      "msrp": 7.99,
+      "currency": "EUR",
+      "hasDiscount": false,
+      "discountPercent": 0,
+      "rating": 1,
+      "ratingCount": 1,
+      "ageRating": 3,
+      "pegiRating": "PEGI 3",
+      "pegiDescription": "Apropiado a partir de 3 años",
+      "interactiveDescriptions": [
+        "Interacción de usuarios"
+      ],
+      "capabilities": [
+        "Cooperativo en línea  (2-6)",
+        "Multijugador en línea  (2-6)",
+        "Multijugador multiplataforma de Xbox",
+        "Un jugador",
+        "Cooperación multiplataforma de Xbox",
+        "Multijugador multgeneración de Xbox Live",
+        "Optimizado para Xbox Series X|S",
+        "Logros de Xbox",
+        "Presencia de Xbox",
+        "Cosas guardadas en la nube de Xbox",
+        "Xbox Play Anywhere"
+      ],
+      "systemRequirements": [
+        {
+          "title": "SO",
+          "minimum": "Windows 10 version 18362.0 or higher",
+          "recommended": "Windows 10 version 18362.0 or higher"
+        },
+        {
+          "title": "Arquitectura",
+          "minimum": "x64",
+          "recommended": "x64"
+        },
+        {
+          "title": "Gráficos",
+          "minimum": "NVIDIA GTX 1060 6GB, AMD Radeon RX580 8GB, Intel Arc A580",
+          "recommended": "NVIDIA RTX 3080 10GB, AMD Radeon RX6800XT 16GB"
+        },
+        {
+          "title": "Procesador",
+          "minimum": "AMD Ryzen 2600 or Intel Core i7 6700k",
+          "recommended": "AMD Ryzen 3600 or Intel Core i7 7700k"
+        },
+        {
+          "title": "DirectX",
+          "minimum": "API de DirectX 12, nivel de característica de hardware 11",
+          "recommended": "API de DirectX 12, nivel de característica de hardware 11"
+        },
+        {
+          "title": "Memoria",
+          "minimum": "8 GB",
+          "recommended": "16 GB"
+        },
+        {
+          "title": "Memoria de vídeo",
+          "minimum": "8 GB",
+          "recommended": "16 GB"
+        },
+        {
+          "title": "Teclado",
+          "minimum": "",
+          "recommended": "Teclado integrado"
+        },
+        {
+          "title": "Mouse",
+          "minimum": "",
+          "recommended": "Mouse integrado"
+        },
+        {
+          "title": "Controladora",
+          "minimum": "",
+          "recommended": "Controladora de Xbox"
+        },
+        {
+          "title": "Micrófono",
+          "minimum": "",
+          "recommended": "Micrófono integrado"
+        }
+      ],
+      "maxInstallSize": 3665948672,
+      "hasAddOns": false,
+      "storeUrl": "https://www.xbox.com/es-es/games/store/fixforce/9N7MVHP2R7VP"
+    },
+    {
       "id": "9P2PP895LSBJ",
       "title": "Fogpiercer",
       "description": "Una niebla mortal se está propagando por el mundo, ¡y el futuro de la humanidad está en tus manos! Monta tu tren para crear tu mazo inicial, traza tu ruta a través de un mundo donde los bandidos campan a sus anchas y prepárate para librar emocionantes batallas por turnos en las que las tácticas, las sinergias poderosas, un posicionamiento inteligente y las reacciones en cadena planificadas determinarán quién gana.\n\nDISEÑA TU MAZO\nElige entre distintas locomotoras, vagones y maquinistas para liderar tu expedición. Con cada decisión que tomes, recibirás un conjunto diferente de cartas para tu mazo inicial, modificando las opciones y habilidades que podrás utilizar durante la partida. Consigue recursos con los que mejorar o comprar vagones adicionales que aporten más herramientas tácticas a tu mazo mientras te abres paso entre la bruma y te enfrentas a un creciente abanico de enemigos con armas, rasgos, fortalezas y debilidades diferentes. ¿Aprovecharás la dispersión y la potencia de fuego de la ametralladora para acabar rápidamente con tus enemigos? ¿Confiarás en la artillería para desviar a los vehículos que van tras de ti? ¿U optarás por protegerte tras escudos y embestir a tus enemigos?\n\nDesde hackers con la capacidad de desplegar señuelos y asumir el control de vehículos enemigos hasta grúas que los empujan por el campo de batalla, tienes a tu disposición varias formas diferentes de acabar con la amenaza que representan los bandidos y sus líderes. Consigue mejoras de cartas únicas y prueba combinaciones insólitas para descubrir sinergias poderosas, asumiendo los riesgos y oportunidades que conlleve cada una de ellas.\n\nCOMBATES A UNA VELOCIDAD DE VÉRTIGO\nTendrás una cantidad limitada de puntos de acción por turno, por lo que una planificación meticulosa y una ejecución cuidadosa serán los factores que igualen las cosas al enfrentarte a un enemigo que no parará de rodearte y te superará en número. Fuerza a tus enemigos a tropezar con los peligros del entorno, empújalos acantilado abajo y provoca choques entre ellos, o también puedes engañarlos para que se ataquen entre ellos mientras te anticipas a sus movimientos y elaboras tu propia estrategia. Hacer un uso inteligente del carbón y disparar tu artillería con destreza podría obligar a un enemigo a subirse a las vías delante de ti para acabar aplastado bajo tus ruedas segundos después. O podrías usar ese mismo disparo para destruir a uno de los vehículos que vaya en cabeza y hacerlo rodar hacia atrás para dañar (y con suerte destruir) a todos los que vayan tras él, usando previamente cartas de hackeo con las que puedes colocar más vehículos a la cola. El orden de las acciones será decisivo para devastar los convoyes enemigos.\n\nTendrás a tu disposición más de 170 cartas con diferentes efectos de estado, habilidades de apoyo, daño y mucho más, así que construye un tren que se adapte a tu estilo de juego y desbloquea grandes oportunidades. Los daños colaterales, las reacciones en cadena y la manipulación del campo de batalla serán factores críticos parar hacerte con la victoria.\n\n¡PASAJEROS AL TREN!\nViaja de una región a otra en busca del fin de la niebla, decidiendo qué camino tomar en función de los modificadores específicos de cada región y las recompensas especiales que esta ofrezca. Las rutas ramificadas dentro de una región te permitirán ajustar el rumbo hacia la última parada según los riesgos y las recompensas, desde campos de batalla hasta estaciones de paso tranquilas en las que mejorar y reparar el tren.\n\nCada campo de batalla es completamente diferente: en algunos, un aliado acudirá en tu ayuda; en otros, tendrás menos espacio en el que moverte y esquivar al enemigo; mientras que otros pueden desarrollarse al borde de un acantilado, lo que supone un peligro ambiental constante que puedes usar a tu favor. Muchos campos de batalla incluirán una combinación de factores que pueden facilitarte o dificultarte el avance, recompensándote con cartas adicionales, modificadores y chatarra que usar en tu periplo. Puedes reparar los vagones y la locomotora en los desguaces y depósitos, lo que te dará la oportunidad de mejorarlos y desbloquear cartas adicionales, o comprar y vender vagones para modificar tu mazo. Además, los encuentros aleatorios pueden suponer grandes oportunidades en paisajes que, de otro modo, serían implacables. Las batallas contra jefes al final de cada región te enfrentarán a personajes especiales, cada uno con su propia historia y habilidades únicas.\n\nLa metaprogresión te permitirá desbloquear vagones, maquinistas y locomotoras adicionales para buscar nuevas combinaciones y oportunidades para futuras partidas, o centrarte en mejorar tus preferidos y desbloquear aún más cartas que usar en combate. Los bandidos son implacables y despiadados, y aunque las decisiones que tomes durante una partida tendrán un impacto significativo, las que tomes entre partida y partida pueden desbloquear opciones completamente nuevas.\n\nFogpiercer te pone a la cabeza de un tren desenfrenado que avanza en busca de la seguridad y el futuro de la humanidad: lánzate a las intensas batallas tácticas por turnos en las que te superarán en número y armamento constantemente, pero planifica tu estrategia con astucia y encuentra una manera de mantener las cosas encarriladas.",
@@ -22188,8 +22306,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 2.4,
-      "ratingCount": 5,
+      "rating": 2.8,
+      "ratingCount": 6,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -22713,7 +22831,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.7,
-      "ratingCount": 4415,
+      "ratingCount": 4416,
       "ageRating": 12,
       "pegiRating": "Supervisión parental recomendada",
       "pegiDescription": "Supervisión parental recomendada",
@@ -22743,7 +22861,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 107840057344,
+      "maxInstallSize": 98880389120,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/fortnite/BT5P2X999VH2"
     },
@@ -23121,7 +23239,7 @@
           "recommended": "6 GB"
         }
       ],
-      "maxInstallSize": 74493734912,
+      "maxInstallSize": 74494574592,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/fragpunk/9MW715J1P29D"
     },
@@ -23878,7 +23996,8 @@
         "Un jugador",
         "Pantalla dividida o compartida",
         "Cooperación multiplataforma de Xbox",
-        "Xbox One X mejorado"
+        "Xbox One X mejorado",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -23945,7 +24064,8 @@
         "Presencia de Xbox",
         "Clubs de Xbox",
         "Cosas guardadas en la nube de Xbox",
-        "Xbox Play Anywhere"
+        "Xbox Play Anywhere",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -24091,7 +24211,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.1,
-      "ratingCount": 161,
+      "ratingCount": 162,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -25934,7 +26054,7 @@
       "hasDiscount": true,
       "discountPercent": 75,
       "rating": 4.5,
-      "ratingCount": 980,
+      "ratingCount": 981,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -26062,7 +26182,8 @@
         "HDR10",
         "Cooperación multiplataforma de Xbox",
         "Xbox One X mejorado",
-        "Xbox Play Anywhere"
+        "Xbox Play Anywhere",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -26329,6 +26450,78 @@
       "maxInstallSize": 10091098112,
       "hasAddOns": false,
       "storeUrl": "https://www.xbox.com/es-es/games/store/halo-wars-definitive-edition/9NBLGGH5WLR0"
+    },
+    {
+      "id": "9N6J4RNFPKKL",
+      "title": "Halo: Campaign Evolved - Standard Edition",
+      "description": "DESCUBRE DÓNDE COMIENZA LA LEYENDA\nHalo: Campaign Evolved es un remake fiel pero modernizado de la campaña de Halo: Combat Evolved. Vive la historia original reconstruida con gráficos en alta definición, cinemáticas actualizadas y controles mejorados, además de una aventura con tres misiones completamente nuevas con el Jefe Maestro y el Sargento Johnson. Un arsenal más amplio de armas, vehículos, enemigos y «calaveras» que modifican el juego (modificadores opcionales que cambian el combate de formas divertidas y desafiantes) añaden nuevas tácticas y una rejugabilidad infinita. \n\nJuega a tu manera: solo, en modo cooperativo de pantalla dividida para 2 jugadores (solo consola) o en modo cooperativo en línea para hasta 4 jugadores, con compatibilidad total con juego cruzado y progreso cruzado.* Tanto si descubres Halo por primera vez como si regresas al ring después de 25 años, Halo: Campaign Evolved ofrece una aventura que parece atemporal y completamente nueva.\n\nDESCUBRE EL MUNDO ANILLO: \nDespués de un aterrizaje forzoso en un misterioso mundo anillo conocido como Halo, el Jefe Maestro recibe la misión de ayudar a los humanos restantes a sobrevivir contra las abrumadoras fuerzas del Covenant. Descubre los oscuros secretos de Halo con la ayuda de tu compañera de IA, Cortana, y lucha para evitar la aniquilación de toda la vida en la galaxia.\n\nCINEMÁTICAS Y SONIDO TOTALMENTE RENOVADOS: \nImágenes y animaciones totalmente nuevas, además de una banda sonora remasterizada y un diseño de sonido completamente reconstruido para una inmersión más profunda.\n\nEXPANSIÓN DEL COMBATE Y LAS ARMAS: \nEl clásico combate de Halo se siente más refinado que nunca, ahora con 9 armas adicionales icónicas de toda la serie que puedes añadir a tu arsenal.\n\nTRES NUEVAS MISIONES: \nJuega como el Jefe Maestro junto al sargento Johnson en Operation: Meteorite, una operación de combate independiente con nuevos entornos, jugabilidad y enemigos.\n\nJUEGA SOLO O CON AMIGOS: \npantalla dividida para 2 jugadores (solo consola) o modo cooperativo en línea para 4 jugadores con juego cruzado y progresión cruzada en consola y PC.\n\nCONDUCE, SECUESTRA VEHÍCULOS Y SIEMBRA EL CAOS: \nLos icónicos vehículos de Halo están de vuelta con más formas de crear un caos inolvidable. Por primera vez en Halo: CE, secuestra vehículos enemigos y pilota un tanque Wraith completamente manejable.\n\nREJUGABILIDAD EXTREMA: \nMezcla las misiones con modificadores de «Calavera» opcionales que añaden variedad y desafío con armas, enemigos y entornos aleatorios.",
+      "shortDescription": "Descubre dónde comienza la leyenda.",
+      "developer": "Halo Studios",
+      "publisher": "Xbox Game Studios",
+      "imageUrl": "https://store-images.s-microsoft.com/image/apps.33604.14013303168404443.9aeddd2c-3066-401b-a64b-fbe89019f14a.d9903df6-1139-45ca-9be8-af50a3290e51",
+      "heroImage": "https://store-images.s-microsoft.com/image/apps.55711.14013303168404443.9aeddd2c-3066-401b-a64b-fbe89019f14a.7d3e0d82-8972-47d4-956b-79be525dcb3c",
+      "screenshots": [
+        "https://store-images.s-microsoft.com/image/apps.41462.14013303168404443.9aeddd2c-3066-401b-a64b-fbe89019f14a.240db271-4c22-4026-8a9b-dec914af585b",
+        "https://store-images.s-microsoft.com/image/apps.1105.14013303168404443.9aeddd2c-3066-401b-a64b-fbe89019f14a.70f5132a-7f08-48b9-b9d4-08337a328231",
+        "https://store-images.s-microsoft.com/image/apps.39658.14013303168404443.9aeddd2c-3066-401b-a64b-fbe89019f14a.94db1a89-f3a7-46d0-b641-3302326d1493",
+        "https://store-images.s-microsoft.com/image/apps.31877.14013303168404443.9aeddd2c-3066-401b-a64b-fbe89019f14a.d3dca38b-25e3-480e-a7da-aa9a7ff4850c"
+      ],
+      "videoUrl": "https://cdn.trailers.xboxservices.com/trailers/00000000-0000-0000-0000-000000000000/xbox/prod/videos/mainprofile/14013303168404443/0c97c6d6-51dd-4dd8-9d12-db9d82d69628/manifest.m3u8",
+      "videoCaption": "Cinematic Story Trailer",
+      "releaseDate": "2026-07-28",
+      "categories": [
+        "Shooter"
+      ],
+      "tiers": [
+        "pc",
+        "ultimate"
+      ],
+      "platform": "both",
+      "price": 59.99,
+      "msrp": 59.99,
+      "currency": "EUR",
+      "hasDiscount": false,
+      "discountPercent": 0,
+      "rating": 4.2,
+      "ratingCount": 56,
+      "ageRating": 16,
+      "pegiRating": "PEGI 16",
+      "pegiDescription": "Apropiado a partir de 16 años",
+      "interactiveDescriptions": [
+        "Compras dentro del juego"
+      ],
+      "capabilities": [
+        "Cooperación local de Xbox (2-2)",
+        "Cooperativo en línea  (2-4)",
+        "4K Ultra HD",
+        "HDR10",
+        "Un jugador",
+        "Pantalla dividida o compartida",
+        "Frecuencia de actualización variable",
+        "Cooperación multiplataforma de Xbox",
+        "Trazado de rayos",
+        "60 fps +",
+        "Sonido espacial",
+        "Dolby Atmos",
+        "DTS:X",
+        "Optimizado para Xbox Series X|S",
+        "Controlador para juegos para PC"
+      ],
+      "systemRequirements": [
+        {
+          "title": "SO",
+          "minimum": "Windows 10 version 18362.0 or higher",
+          "recommended": "Windows 10 version 18362.0 or higher"
+        },
+        {
+          "title": "Arquitectura",
+          "minimum": "x64",
+          "recommended": "x64"
+        }
+      ],
+      "maxInstallSize": 74937425920,
+      "hasAddOns": true,
+      "storeUrl": "https://www.xbox.com/es-es/games/store/halo-campaign-evolved-standard-edition/9N6J4RNFPKKL"
     },
     {
       "id": "9MT8PTGVHX2P",
@@ -26698,7 +26891,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.7,
-      "ratingCount": 48,
+      "ratingCount": 49,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -31749,7 +31942,7 @@
       "hasDiscount": true,
       "discountPercent": 40,
       "rating": 4.1,
-      "ratingCount": 61,
+      "ratingCount": 62,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -32750,7 +32943,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 2,
-      "ratingCount": 118,
+      "ratingCount": 119,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -32802,7 +32995,7 @@
           "recommended": "16 GB"
         }
       ],
-      "maxInstallSize": 101976543232,
+      "maxInstallSize": 102009118720,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/mechwarrior-5-mercenaries/9PB86W3JK8Z5"
     },
@@ -33307,8 +33500,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 4.2,
-      "ratingCount": 13,
+      "rating": 4.3,
+      "ratingCount": 14,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -33664,7 +33857,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.7,
-      "ratingCount": 51361,
+      "ratingCount": 51363,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -34047,7 +34240,7 @@
       "hasDiscount": true,
       "discountPercent": 60,
       "rating": 4,
-      "ratingCount": 15702,
+      "ratingCount": 15704,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -35701,7 +35894,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.3,
-      "ratingCount": 80,
+      "ratingCount": 81,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -38583,7 +38776,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.6,
-      "ratingCount": 918,
+      "ratingCount": 919,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -38851,7 +39044,7 @@
           "recommended": "32 GB"
         }
       ],
-      "maxInstallSize": 34306154496,
+      "maxInstallSize": 34306142208,
       "hasAddOns": false,
       "storeUrl": "https://www.xbox.com/es-es/games/store/palworld/9NKV34XDW014"
     },
@@ -40135,7 +40328,8 @@
         "Cooperación local de Xbox (2-4)",
         "Cooperativo en línea  (2-4)",
         "Multijugador local de Xbox (2-2)",
-        "Multijugador en línea  (2-26)"
+        "Multijugador en línea  (2-26)",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -40244,7 +40438,8 @@
         "Multijugador en línea  (2-24)",
         "4K Ultra HD",
         "HDR10",
-        "Pantalla dividida o compartida"
+        "Pantalla dividida o compartida",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -42988,7 +43183,7 @@
       "hasDiscount": true,
       "discountPercent": 75,
       "rating": 4.4,
-      "ratingCount": 40,
+      "ratingCount": 41,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -43220,7 +43415,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4,
-      "ratingCount": 125,
+      "ratingCount": 126,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -45837,7 +46032,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 27513147392,
+      "maxInstallSize": 27979321344,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/smite-2/9NV8W1KJSQLL"
     },
@@ -48686,7 +48881,8 @@
         "Presencia de Xbox",
         "Clubs de Xbox",
         "Cosas guardadas en la nube de Xbox",
-        "Xbox Play Anywhere"
+        "Xbox Play Anywhere",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -54374,8 +54570,8 @@
       "currency": "EUR",
       "hasDiscount": true,
       "discountPercent": 75,
-      "rating": 2.2,
-      "ratingCount": 11,
+      "rating": 0,
+      "ratingCount": 0,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -56781,8 +56977,8 @@
         "https://store-images.s-microsoft.com/image/apps.7046.13898029070941789.9b27c201-5a22-498f-93b6-c7805e499f9b.d4e5f14e-c344-442a-8a68-c862934b814e",
         "https://store-images.s-microsoft.com/image/apps.43724.13898029070941789.9b27c201-5a22-498f-93b6-c7805e499f9b.b8ea0b01-3793-437d-b1ad-96be72a06a94"
       ],
-      "videoUrl": "https://cdn.trailers.xboxservices.com/trailers/00000000-0000-0000-0000-000000000000/xbox/prod/videos/mainprofile/13898029070941789/192acc5e-dcc4-4ec9-8c17-6553cf42f94a/manifest.m3u8",
-      "videoCaption": "New Map Summit - Reach Your Peak Here",
+      "videoUrl": "",
+      "videoCaption": "",
       "releaseDate": "2024-08-02",
       "categories": [
         "Shooter",
@@ -56827,7 +57023,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 47164739584,
+      "maxInstallSize": 47441813504,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/valorant/9N1NLJK9SKRN"
     },
@@ -57641,7 +57837,7 @@
           "recommended": "Mouse integrado"
         }
       ],
-      "maxInstallSize": 77675556864,
+      "maxInstallSize": 77675692032,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/war-thunder/BX1DTCBD1HXJ"
     },
@@ -58840,7 +59036,8 @@
         "Cooperativo en línea  (2-2)",
         "Multijugador en línea  (2-4)",
         "Un jugador",
-        "Logros de Xbox"
+        "Logros de Xbox",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -61622,16 +61819,16 @@
       "shortDescription": "Emprende una aventura este universo postapocalíptico, explora las peligrosas Cavidades y descubre los secretos detrás del último bastión de la civilización.",
       "developer": "Shanghai JiaoZhai Technology Co.,Ltd.",
       "publisher": "COGNOSPHERE PTE. LTD.",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.57723.13974579424110118.aae80448-07b8-4653-a3c4-228ea5779358.27e61f5b-d595-4638-8d4b-4b7eba50ca5b",
-      "heroImage": "https://store-images.s-microsoft.com/image/apps.28941.13974579424110118.aae80448-07b8-4653-a3c4-228ea5779358.9a42455b-4563-4555-80ef-ca06ebb5ed06",
+      "imageUrl": "https://store-images.s-microsoft.com/image/apps.64374.13974579424110118.a7c4bc1b-04b3-4177-85c0-1252f18d6f9c.1a231651-8df6-4613-8c7e-8a455b0c81fc",
+      "heroImage": "https://store-images.s-microsoft.com/image/apps.56867.13974579424110118.a7c4bc1b-04b3-4177-85c0-1252f18d6f9c.6d018030-74e6-4dcd-a504-a34a6c0b5f4d",
       "screenshots": [
-        "https://store-images.s-microsoft.com/image/apps.25758.13974579424110118.aae80448-07b8-4653-a3c4-228ea5779358.025429dc-13c5-4890-b85a-916092a82d00",
-        "https://store-images.s-microsoft.com/image/apps.44669.13974579424110118.aae80448-07b8-4653-a3c4-228ea5779358.8563c6bd-6d4a-4fdd-bd78-6a2ccbb845c2",
-        "https://store-images.s-microsoft.com/image/apps.23804.13974579424110118.aae80448-07b8-4653-a3c4-228ea5779358.50a343ce-7538-403e-b905-c58809ed6e8c",
-        "https://store-images.s-microsoft.com/image/apps.49004.13974579424110118.aae80448-07b8-4653-a3c4-228ea5779358.3bb88120-07e1-4fec-8113-fb772add3a17"
+        "https://store-images.s-microsoft.com/image/apps.6062.13974579424110118.a7c4bc1b-04b3-4177-85c0-1252f18d6f9c.e28576ab-f43d-44ec-b6ed-1f1a4fa3c08d",
+        "https://store-images.s-microsoft.com/image/apps.65326.13974579424110118.a7c4bc1b-04b3-4177-85c0-1252f18d6f9c.a7d41f3d-20f6-4691-93d2-cc6b08d4b1e1",
+        "https://store-images.s-microsoft.com/image/apps.62720.13974579424110118.a7c4bc1b-04b3-4177-85c0-1252f18d6f9c.072badde-35e3-42d7-b9e0-0b8671f7998d",
+        "https://store-images.s-microsoft.com/image/apps.14667.13974579424110118.a7c4bc1b-04b3-4177-85c0-1252f18d6f9c.14c284a7-242d-4616-9e7a-8e11bf768c9d"
       ],
-      "videoUrl": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftassets/1dfb32bd-d1f7-4907-9f6e-cd767c906f2a-AVS.m3u8?packagedStreaming=true",
-      "videoCaption": "¡Comienza la temporada 3!",
+      "videoUrl": "https://cdn.trailers.xboxservices.com/trailers/00000000-0000-0000-0000-000000000000/xbox/prod/videos/mainprofile/13974579424110118/e7022d01-d76c-4d18-b81e-25b019bbfb59/manifest.m3u8",
+      "videoCaption": "Desciende Remielle, Agonista de la Vacuidad de la primera generación que permaneció dormida durante un siglo. ¡Elige un agente de grado S por nuestro segundo aniversario!",
       "releaseDate": "2025-06-05",
       "categories": [
         "Acción y aventura"
@@ -61642,7 +61839,7 @@
         "premium",
         "ultimate"
       ],
-      "platform": "console",
+      "platform": "both",
       "price": 0,
       "msrp": 0,
       "currency": "EUR",
@@ -61668,9 +61865,54 @@
       ],
       "systemRequirements": [
         {
+          "title": "SO",
+          "minimum": "Windows 10 version 18362.0 or higher",
+          "recommended": "Windows 10 version 18362.0 or higher"
+        },
+        {
           "title": "Arquitectura",
           "minimum": "x64",
           "recommended": "x64"
+        },
+        {
+          "title": "Gráficos",
+          "minimum": "GeForce GTX970",
+          "recommended": "GeForce GTX1660"
+        },
+        {
+          "title": "Procesador",
+          "minimum": "Intel i5 (7th Gen)",
+          "recommended": "Intel i7 (10th Gen)"
+        },
+        {
+          "title": "Teclado",
+          "minimum": "Teclado integrado",
+          "recommended": "Teclado integrado"
+        },
+        {
+          "title": "Mouse",
+          "minimum": "Mouse integrado",
+          "recommended": "Mouse integrado"
+        },
+        {
+          "title": "DirectX",
+          "minimum": "Versión 11",
+          "recommended": "Versión 11"
+        },
+        {
+          "title": "Memoria",
+          "minimum": "8 GB",
+          "recommended": "16 GB"
+        },
+        {
+          "title": "Memoria de vídeo",
+          "minimum": "4 GB",
+          "recommended": "6 GB"
+        },
+        {
+          "title": "Controladora",
+          "minimum": "",
+          "recommended": "Controladora de Xbox"
         }
       ],
       "maxInstallSize": 110741024768,
