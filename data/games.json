@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-30T10:09:19.096Z",
+  "updatedAt": "2026-07-31T10:25:49.885Z",
   "market": "ES",
   "language": "es-ES",
   "totalGames": 833,
@@ -1138,7 +1138,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.4,
-      "ratingCount": 881,
+      "ratingCount": 882,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -3068,7 +3068,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.7,
-      "ratingCount": 21100,
+      "ratingCount": 21101,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -3680,7 +3680,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.4,
-      "ratingCount": 305,
+      "ratingCount": 306,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -4116,7 +4116,8 @@
         "Multijugador en línea  (2-4)",
         "Un jugador",
         "60 fps +",
-        "Logros de Xbox"
+        "Logros de Xbox",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -4444,7 +4445,8 @@
         "HDR10",
         "Un jugador",
         "Xbox One X mejorado",
-        "Logros de Xbox"
+        "Logros de Xbox",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -4749,7 +4751,8 @@
         "4K Ultra HD",
         "Un jugador",
         "Xbox One X mejorado",
-        "Logros de Xbox"
+        "Logros de Xbox",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -4798,7 +4801,9 @@
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
       "interactiveDescriptions": [],
-      "capabilities": [],
+      "capabilities": [
+        "FPS Boost Series X | S"
+      ],
       "systemRequirements": [
         {
           "title": "Arquitectura",
@@ -5766,7 +5771,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 978747392,
+      "maxInstallSize": 978731008,
       "hasAddOns": false,
       "storeUrl": "https://www.xbox.com/es-es/games/store/ball-x-pit/9MWXF3SRD7QN"
     },
@@ -6242,7 +6247,8 @@
         "Compras dentro del juego (Incluye artículos aleatorios)"
       ],
       "capabilities": [
-        "Multijugador en línea  (4-64)"
+        "Multijugador en línea  (4-64)",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -7904,10 +7910,10 @@
       "imageUrl": "https://store-images.s-microsoft.com/image/apps.65395.13891464908023063.822e2f99-8660-42d9-a91a-df117c02c955.ec10422e-5778-43b7-95f8-cc530bd99efe",
       "heroImage": "https://store-images.s-microsoft.com/image/apps.39724.13891464908023063.a041e1c7-f56f-4ac1-ab92-18f9ca74105a.08fa5ea8-3157-4314-8e90-04ff3dce38ed",
       "screenshots": [
-        "https://store-images.s-microsoft.com/image/apps.41271.13891464908023063.081afde2-8bb8-47a1-8c73-8ae0313b0823.64da87b0-12ba-4653-9521-a7b40a0dc346",
-        "https://store-images.s-microsoft.com/image/apps.19855.13891464908023063.081afde2-8bb8-47a1-8c73-8ae0313b0823.439a10c2-ceda-4c1c-8a25-34f4017b8439",
-        "https://store-images.s-microsoft.com/image/apps.24566.13891464908023063.081afde2-8bb8-47a1-8c73-8ae0313b0823.daee59b7-beef-44f1-93cf-013033fd4d1b",
-        "https://store-images.s-microsoft.com/image/apps.52004.13891464908023063.081afde2-8bb8-47a1-8c73-8ae0313b0823.28df0c65-ac18-427b-9f9f-6240b213577f"
+        "https://store-images.s-microsoft.com/image/apps.35562.13891464908023063.386fe8ed-178a-455b-922e-7fa375e97b1a.3525ea43-0649-4e23-8430-124717655ac3",
+        "https://store-images.s-microsoft.com/image/apps.46828.13891464908023063.386fe8ed-178a-455b-922e-7fa375e97b1a.cd80fe26-cfac-4526-a180-9ea5a3e8eb0e",
+        "https://store-images.s-microsoft.com/image/apps.1966.13891464908023063.386fe8ed-178a-455b-922e-7fa375e97b1a.f6e96abe-99f0-4043-baaa-5cc445549cf3",
+        "https://store-images.s-microsoft.com/image/apps.18504.13891464908023063.386fe8ed-178a-455b-922e-7fa375e97b1a.d860d881-4f34-43e2-bb2e-aa2191b791b8"
       ],
       "videoUrl": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftassets/5c5d383e-b547-428a-b6b8-0af939a77901-AVS.m3u8?packagedStreaming=true",
       "videoCaption": "Welcome To Brawlhalla",
@@ -8593,7 +8599,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 1.8,
-      "ratingCount": 21,
+      "ratingCount": 24,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -8659,8 +8665,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 1.7,
-      "ratingCount": 22,
+      "rating": 1.8,
+      "ratingCount": 25,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -8938,7 +8944,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 2.6,
-      "ratingCount": 98,
+      "ratingCount": 99,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -9006,7 +9012,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 2.7,
-      "ratingCount": 102,
+      "ratingCount": 103,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -9079,7 +9085,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 2.3,
-      "ratingCount": 114,
+      "ratingCount": 115,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -9144,7 +9150,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 2.2,
-      "ratingCount": 110,
+      "ratingCount": 111,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -10952,7 +10958,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.7,
-      "ratingCount": 51,
+      "ratingCount": 52,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -13550,7 +13556,9 @@
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
       "interactiveDescriptions": [],
-      "capabilities": [],
+      "capabilities": [
+        "FPS Boost Series X | S"
+      ],
       "systemRequirements": [
         {
           "title": "Arquitectura",
@@ -13596,7 +13604,9 @@
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
       "interactiveDescriptions": [],
-      "capabilities": [],
+      "capabilities": [
+        "FPS Boost Series X | S"
+      ],
       "systemRequirements": [
         {
           "title": "Arquitectura",
@@ -14345,7 +14355,7 @@
           "recommended": "Controladora de Xbox"
         }
       ],
-      "maxInstallSize": 10280935424,
+      "maxInstallSize": 10281234432,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/denshattack/9N18L56XHK8Z"
     },
@@ -15536,7 +15546,8 @@
       "capabilities": [
         "Un jugador",
         "Logros de Xbox",
-        "Cosas guardadas en la nube de Xbox"
+        "Cosas guardadas en la nube de Xbox",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -15677,7 +15688,8 @@
       "interactiveDescriptions": [],
       "capabilities": [
         "4K Ultra HD",
-        "Xbox One X mejorado"
+        "Xbox One X mejorado",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -16095,7 +16107,7 @@
           "recommended": "2 GB"
         }
       ],
-      "maxInstallSize": 1611378688,
+      "maxInstallSize": 1628495872,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/dome-keeper/9P8XKV2D5DZ5"
     },
@@ -16823,7 +16835,9 @@
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
       "interactiveDescriptions": [],
-      "capabilities": [],
+      "capabilities": [
+        "FPS Boost Series X | S"
+      ],
       "systemRequirements": [
         {
           "title": "Arquitectura",
@@ -16870,7 +16884,9 @@
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
       "interactiveDescriptions": [],
-      "capabilities": [],
+      "capabilities": [
+        "FPS Boost Series X | S"
+      ],
       "systemRequirements": [
         {
           "title": "Arquitectura",
@@ -19165,7 +19181,8 @@
       "interactiveDescriptions": [],
       "capabilities": [
         "4K Ultra HD",
-        "Xbox One X mejorado"
+        "Xbox One X mejorado",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -19275,7 +19292,8 @@
         "Cooperativo en línea  (2-2)",
         "Multijugador local de Xbox (2-2)",
         "4K Ultra HD",
-        "Xbox One X mejorado"
+        "Xbox One X mejorado",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -19470,7 +19488,8 @@
       "pegiDescription": "Apropiado a partir de 18 años",
       "interactiveDescriptions": [],
       "capabilities": [
-        "Xbox One X mejorado"
+        "Xbox One X mejorado",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -19947,7 +19966,9 @@
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
       "interactiveDescriptions": [],
-      "capabilities": [],
+      "capabilities": [
+        "FPS Boost Series X | S"
+      ],
       "systemRequirements": [
         {
           "title": "Arquitectura",
@@ -20462,7 +20483,8 @@
       "capabilities": [
         "Un jugador",
         "Optimizado para Xbox Series X|S",
-        "Logros de Xbox"
+        "Logros de Xbox",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -21081,7 +21103,7 @@
           "recommended": "8 GB"
         }
       ],
-      "maxInstallSize": 42364596224,
+      "maxInstallSize": 42364600320,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/farming-simulator-25-pc/9PM709J61828"
     },
@@ -22770,7 +22792,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 10430173184,
+      "maxInstallSize": 10510819328,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/for-the-king-ii/9NVC9KWJVLT0"
     },
@@ -22809,7 +22831,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.7,
-      "ratingCount": 4416,
+      "ratingCount": 4419,
       "ageRating": 12,
       "pegiRating": "Supervisión parental recomendada",
       "pegiDescription": "Supervisión parental recomendada",
@@ -22970,7 +22992,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.1,
-      "ratingCount": 304,
+      "ratingCount": 306,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -23063,7 +23085,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.6,
-      "ratingCount": 1831,
+      "ratingCount": 1832,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -23426,7 +23448,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.6,
-      "ratingCount": 32,
+      "ratingCount": 33,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -23854,7 +23876,8 @@
         "Multijugador multiplataforma de Xbox",
         "Un jugador",
         "Pantalla dividida o compartida",
-        "Cooperación multiplataforma de Xbox"
+        "Cooperación multiplataforma de Xbox",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -23899,7 +23922,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 2.9,
-      "ratingCount": 355,
+      "ratingCount": 356,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -23913,7 +23936,8 @@
         "Un jugador",
         "Pantalla dividida o compartida",
         "Cooperación multiplataforma de Xbox",
-        "Xbox One X mejorado"
+        "Xbox One X mejorado",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -23972,7 +23996,8 @@
         "Un jugador",
         "Pantalla dividida o compartida",
         "Cooperación multiplataforma de Xbox",
-        "Xbox One X mejorado"
+        "Xbox One X mejorado",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -24018,7 +24043,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.4,
-      "ratingCount": 4637,
+      "ratingCount": 4638,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -24039,7 +24064,8 @@
         "Presencia de Xbox",
         "Clubs de Xbox",
         "Cosas guardadas en la nube de Xbox",
-        "Xbox Play Anywhere"
+        "Xbox Play Anywhere",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -24137,7 +24163,8 @@
         "Multijugador multiplataforma de Xbox",
         "Un jugador",
         "Pantalla dividida o compartida",
-        "Cooperación multiplataforma de Xbox"
+        "Cooperación multiplataforma de Xbox",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -24317,7 +24344,8 @@
         "Cooperativo en línea  (2-2)",
         "Multijugador local de Xbox (2-2)",
         "Multijugador en línea  (2-8)",
-        "Pantalla dividida o compartida"
+        "Pantalla dividida o compartida",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -26154,7 +26182,8 @@
         "HDR10",
         "Cooperación multiplataforma de Xbox",
         "Xbox One X mejorado",
-        "Xbox Play Anywhere"
+        "Xbox Play Anywhere",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -26437,8 +26466,8 @@
         "https://store-images.s-microsoft.com/image/apps.39658.14013303168404443.9aeddd2c-3066-401b-a64b-fbe89019f14a.94db1a89-f3a7-46d0-b641-3302326d1493",
         "https://store-images.s-microsoft.com/image/apps.31877.14013303168404443.9aeddd2c-3066-401b-a64b-fbe89019f14a.d3dca38b-25e3-480e-a7da-aa9a7ff4850c"
       ],
-      "videoUrl": "https://cdn.trailers.xboxservices.com/trailers/00000000-0000-0000-0000-000000000000/xbox/prod/videos/mainprofile/14013303168404443/0c97c6d6-51dd-4dd8-9d12-db9d82d69628/manifest.m3u8",
-      "videoCaption": "Cinematic Story Trailer",
+      "videoUrl": "https://cdn.trailers.xboxservices.com/trailers/00000000-0000-0000-0000-000000000000/xbox/prod/videos/mainprofile/14013303168404443/6d4083cf-8b99-4d72-97c2-7f4e82d3b666/manifest.m3u8",
+      "videoCaption": "Skulls and Remix",
       "releaseDate": "2026-07-28",
       "categories": [
         "Shooter"
@@ -26453,8 +26482,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 4,
-      "ratingCount": 71,
+      "rating": 3.9,
+      "ratingCount": 86,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -26665,7 +26694,8 @@
       "interactiveDescriptions": [],
       "capabilities": [
         "Cooperativo en línea  (2-2)",
-        "Multijugador en línea  (2-2)"
+        "Multijugador en línea  (2-2)",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -26861,7 +26891,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.6,
-      "ratingCount": 51,
+      "ratingCount": 54,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -27503,8 +27533,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 4,
-      "ratingCount": 6,
+      "rating": 4.1,
+      "ratingCount": 7,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -28072,7 +28102,8 @@
         "Controlador para juegos para PC",
         "Logros de Xbox",
         "Cosas guardadas en la nube de Xbox",
-        "Xbox Play Anywhere"
+        "Xbox Play Anywhere",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -28301,20 +28332,20 @@
     {
       "id": "BSMZH25V6V46",
       "title": "Human Fall Flat",
-      "description": "***SENDERO + CHUCHELANDIA: ¡NUEVOS NIVELES YA DISPONIBLES!***\n\nCompatibilidad multiplataforma con tus amigos de Xbox One, Xbox Series X|S y Windows 10.\n\nIncluye 29 niveles geniales. Más de 55 millones de unidades vendidas en todas las plataformas.\n\n¡Prepárate para un subidón de azúcar con la llegada del nuevo nivel de Human Fall Flat, Chuchelandia! \n\n¡Entra en esta fase tan dulce y descubre torres inmensas de azúcar, nubes suaves y blanditas, un castillo de chocolate crujiente y una deliciosa ración de obstáculos que superar!\n\nPara infiltrarte en el castillo, tendrás que trabajar tu equilibrio en plataformas, deslizarte por tirolinas con ayuda de un bastón de caramelo, cruzar un río de chocolate en gofre balsa, rebotar entre montañas de nubes que te cortan el paso, ¡y mucho más!\n\nVive esta desternillante aventura en solitario o junto con hasta 7 amigos.\n\nHuman: Fall Flat es un divertido juego de plataformas basado en física y ambientado en paisajes flotantes y oníricos.\n\nEn cada nivel de ensueño visitarás un nuevo sitio: mansiones, castillos, ruinas aztecas, montañas nevadas, lúgubres paisajes nocturnos y complejos industriales. Cada nivel tiene varias rutas y los divertidísimos puzles recompensan la exploración y el ingenio.\n\nPor supuesto, los tambaleantes movimientos de tu humano no te van a poner las cosas fáciles, así que saltar, escalar, tener algo entre manos o mantener el equilibrio puede acabar fatal y tener resultados muy divertidos.\n\nSi tu humano se cae de una cuerda, calcula mal la posición de una plataforma o cae al vacío traicionado por un amigo, no temas: volverá a soñar dispuesto a volver a intentarlo una y otra vez.\n\nHuman: Fall Flat se puede jugar solo o en línea con hasta 8 jugadores para pasarlo todavía mejor. Además, ¡los niveles gratuitos periódicos ayudan a que la diversión no tenga fin!\n\nMás humanos, más caos\n¿Necesitas ayuda para llevar esa roca a una catapulta o para romper el muro? El multijugador en línea para hasta 8 jugadores transforma la forma de jugar a Human: Fall Flat.\n\nUna comunidad dinámica\nLos streamers y youtubers eligen Human: Fall Flat por la diversión que ofrece. ¡Los fans han visto sus vídeos más de 600 millones de veces!\n\nLienzo en blanco\nPersonaliza a tu humano con atuendos como obrero, cocinero, paracaidista, minero, astronauta, ninja... Elige la cabeza, la parte superior y la inferior del cuerpo, ¡y ponle color!\n\nCONTENIDO GRATUITO INCREÍBLE\nDesde el lanzamiento, se han añadido más de cuatro nuevos niveles totalmente gratis, y hay más a la vista. ¿Qué nos deparará el próximo paisaje de ensueño?\n\nY el premio es para…\nHuman: Fall Flat, ganador de más de 10 premios de la industria, continúa deleitando a su gran número de fans con su encantadora jugabilidad colaborativa.",
-      "shortDescription": "***SENDERO + CHUCHELANDIA: ¡NUEVOS NIVELES YA DISPONIBLES!***",
+      "description": "***SENDERO + CHUCHELANDIA: ¡NUEVOS NIVELES YA DISPONIBLES!***\n\nCompatibilidad multiplataforma con tus amigos de Xbox One, Xbox Series X|S y Windows 10.\n\nIncluye 31 niveles geniales. Más de 55 millones de unidades vendidas en todas las plataformas.\n\nNemo y Otta, de Party Animals, se unen al caos en la primera colaboración especial de Human: Fall Flat. El dúo hace su aparición en Fiesta Steampunk. Prepárate para demostrar tu valía también en la Cámara de Pruebas, un nivel diseñado para poner a prueba tus habilidades de resolución de puzles. ¡Es el momento perfecto para unirte a los 58 millones de jugadores de todo el mundo que disfrutan de la diversión de Human: Fall Flat!\n\nVive esta desternillante aventura en solitario o junto con hasta 7 amigos.\n\nHuman: Fall Flat es un divertido juego de plataformas basado en física y ambientado en paisajes flotantes y oníricos.\n\nEn cada nivel de ensueño visitarás un nuevo sitio: mansiones, castillos, ruinas aztecas, montañas nevadas, lúgubres paisajes nocturnos y complejos industriales. Cada nivel tiene varias rutas y los divertidísimos puzles recompensan la exploración y el ingenio.\n\nPor supuesto, los tambaleantes movimientos de tu humano no te van a poner las cosas fáciles, así que saltar, escalar, tener algo entre manos o mantener el equilibrio puede acabar fatal y tener resultados muy divertidos.\n\nSi tu humano se cae de una cuerda, calcula mal la posición de una plataforma o cae al vacío traicionado por un amigo, no temas: volverá a soñar dispuesto a volver a intentarlo una y otra vez.\n\nHuman: Fall Flat se puede jugar solo o en línea con hasta 8 jugadores para pasarlo todavía mejor. Además, ¡los niveles gratuitos periódicos ayudan a que la diversión no tenga fin!\n\nMás humanos, más caos\n¿Necesitas ayuda para llevar esa roca a una catapulta o para romper el muro? El multijugador en línea para hasta 8 jugadores transforma la forma de jugar a Human: Fall Flat.\n\nUna comunidad dinámica\nLos streamers y youtubers eligen Human: Fall Flat por la diversión que ofrece. ¡Los fans han visto sus vídeos más de 600 millones de veces!\n\nLienzo en blanco\nPersonaliza a tu humano con atuendos como obrero, cocinero, paracaidista, minero, astronauta, ninja... Elige la cabeza, la parte superior y la inferior del cuerpo, ¡y ponle color!\n\nCONTENIDO GRATUITO INCREÍBLE\nDesde el lanzamiento, se han añadido más de cuatro nuevos niveles totalmente gratis, y hay más a la vista. ¿Qué nos deparará el próximo paisaje de ensueño?\n\nY el premio es para…\nHuman: Fall Flat, ganador de más de 10 premios de la industria, continúa deleitando a su gran número de fans con su encantadora jugabilidad colaborativa.",
+      "shortDescription": "***¡YA DISPONIBLES DOS NUEVOS NIVELES! FIESTA STEAMPUNK + CÁMARA DE PRUEBAS***",
       "developer": "No Brakes Games",
       "publisher": "Curve Games",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.28615.69811231537758929.8827505c-9b9c-416b-8cad-66d1b47c6b31.71d30827-91b7-415b-aefe-f152ac8770b4",
-      "heroImage": "https://store-images.s-microsoft.com/image/apps.39927.69811231537758929.2c9d4e54-bad3-430f-aef8-714e2cc8969d.448380bb-35c0-49e1-90e5-cab460a7f3db",
+      "imageUrl": "https://store-images.s-microsoft.com/image/apps.2822.69811231537758929.fc90ef4a-ab04-4596-8db8-fa6120f06b6b.1998db0c-f1a8-4bf7-852a-3b7f9af9c076",
+      "heroImage": "https://store-images.s-microsoft.com/image/apps.47833.69811231537758929.fc90ef4a-ab04-4596-8db8-fa6120f06b6b.c358f2f1-4d39-470f-8f92-7dc6fd8d2757",
       "screenshots": [
-        "https://store-images.s-microsoft.com/image/apps.64453.69811231537758929.2c9d4e54-bad3-430f-aef8-714e2cc8969d.c63d4be3-2cbb-4e15-b0c0-7f660137ac75",
-        "https://store-images.s-microsoft.com/image/apps.27285.69811231537758929.2c9d4e54-bad3-430f-aef8-714e2cc8969d.c069cdfa-3762-4aaf-9f94-49a75821e919",
-        "https://store-images.s-microsoft.com/image/apps.2619.69811231537758929.2c9d4e54-bad3-430f-aef8-714e2cc8969d.3fb80137-aef7-411d-b5d7-0c946ee848e4",
-        "https://store-images.s-microsoft.com/image/apps.38968.69811231537758929.2c9d4e54-bad3-430f-aef8-714e2cc8969d.99b05959-5adb-4660-8590-0b2b6ce31d75"
+        "https://store-images.s-microsoft.com/image/apps.10569.69811231537758929.fc90ef4a-ab04-4596-8db8-fa6120f06b6b.1e754f84-6006-4f1e-bbb5-5922bc35c487",
+        "https://store-images.s-microsoft.com/image/apps.29149.69811231537758929.fc90ef4a-ab04-4596-8db8-fa6120f06b6b.78eb2558-570d-4f31-808f-be2f5c20b8d3",
+        "https://store-images.s-microsoft.com/image/apps.33945.69811231537758929.fc90ef4a-ab04-4596-8db8-fa6120f06b6b.aee4287e-0d4b-446c-9c2d-4737f30a5cb5",
+        "https://store-images.s-microsoft.com/image/apps.19451.69811231537758929.fc90ef4a-ab04-4596-8db8-fa6120f06b6b.086a3e47-9f14-44c9-9513-425ef78d45dc"
       ],
-      "videoUrl": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftassets/28317f6b-e1c0-44dc-9119-28322d1be76a-AVS.m3u8?packagedStreaming=true",
-      "videoCaption": "Human: Fall Flat Miniature Trailer",
+      "videoUrl": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftassets/6b9dcd8a-1434-4740-a52a-aa38679c6460-AVS.m3u8?packagedStreaming=true",
+      "videoCaption": "Human Fall Flat Port Trailer",
       "releaseDate": "2017-05-12",
       "categories": [
         "Acción y aventura",
@@ -28387,7 +28418,7 @@
           "recommended": "2 GB"
         }
       ],
-      "maxInstallSize": 4874420224,
+      "maxInstallSize": 4981452800,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/human-fall-flat/BSMZH25V6V46"
     },
@@ -30208,7 +30239,7 @@
           "recommended": "Controladora de Xbox"
         }
       ],
-      "maxInstallSize": 7848198144,
+      "maxInstallSize": 7848267776,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/kiln/9MW53ZKZH168"
     },
@@ -33003,7 +33034,9 @@
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
       "interactiveDescriptions": [],
-      "capabilities": [],
+      "capabilities": [
+        "FPS Boost Series X | S"
+      ],
       "systemRequirements": [
         {
           "title": "Arquitectura",
@@ -33824,7 +33857,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.7,
-      "ratingCount": 51374,
+      "ratingCount": 51378,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -34207,7 +34240,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4,
-      "ratingCount": 15705,
+      "ratingCount": 15708,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -34402,7 +34435,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.5,
-      "ratingCount": 61276,
+      "ratingCount": 61279,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -34606,7 +34639,8 @@
       "pegiDescription": "Apropiado a partir de 16 años",
       "interactiveDescriptions": [],
       "capabilities": [
-        "Xbox One X mejorado"
+        "Xbox One X mejorado",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -34653,7 +34687,9 @@
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
       "interactiveDescriptions": [],
-      "capabilities": [],
+      "capabilities": [
+        "FPS Boost Series X"
+      ],
       "systemRequirements": [
         {
           "title": "Arquitectura",
@@ -34680,8 +34716,8 @@
         "https://store-images.s-microsoft.com/image/apps.3411.14079456565345641.e3e3713f-53d2-4829-9bd5-395a291216ac.eb9dd5fe-de4c-41f2-8935-3abd3744e949",
         "https://store-images.s-microsoft.com/image/apps.569.14079456565345641.e3e3713f-53d2-4829-9bd5-395a291216ac.e75dbccb-0a13-4564-aa97-17ef6e71313a"
       ],
-      "videoUrl": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftassets/5e184144-e77b-4506-a303-bdd746cee0b2-AVS.m3u8?packagedStreaming=true",
-      "videoCaption": "Gameplay Overview",
+      "videoUrl": "https://cdn.trailers.xboxservices.com/trailers/00000000-0000-0000-0000-000000000000/xbox/prod/videos/mainprofile/14079456565345641/0efa0e36-9d50-4847-88a2-5cacf1bf1eab/manifest.m3u8",
+      "videoCaption": "Game PV",
       "releaseDate": "2026-07-30",
       "categories": [
         "Campo de batalla en línea para varios jugadores",
@@ -34699,8 +34735,8 @@
       "currency": "EUR",
       "hasDiscount": true,
       "discountPercent": 10,
-      "rating": 0,
-      "ratingCount": 0,
+      "rating": 3.1,
+      "ratingCount": 22,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -34776,7 +34812,7 @@
           "recommended": "Micrófono integrado"
         }
       ],
-      "maxInstallSize": 38013603840,
+      "maxInstallSize": 38011432960,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/mistfall-hunter/9P8X6TVW9ZW8"
     },
@@ -36922,7 +36958,8 @@
         "Xbox One X mejorado",
         "Logros de Xbox",
         "Cosas guardadas en la nube de Xbox",
-        "Xbox Play Anywhere"
+        "Xbox Play Anywhere",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -37975,7 +38012,8 @@
       "pegiDescription": "Apropiado a partir de 16 años",
       "interactiveDescriptions": [],
       "capabilities": [
-        "Xbox One X mejorado"
+        "Xbox One X mejorado",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -38617,7 +38655,8 @@
         "Un jugador",
         "Logros de Xbox",
         "Presencia de Xbox",
-        "Cosas guardadas en la nube de Xbox"
+        "Cosas guardadas en la nube de Xbox",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -39120,7 +39159,7 @@
           "recommended": "32 GB"
         }
       ],
-      "maxInstallSize": 34306142208,
+      "maxInstallSize": 34306154496,
       "hasAddOns": false,
       "storeUrl": "https://www.xbox.com/es-es/games/store/palworld/9NKV34XDW014"
     },
@@ -40404,7 +40443,8 @@
         "Cooperación local de Xbox (2-4)",
         "Cooperativo en línea  (2-4)",
         "Multijugador local de Xbox (2-2)",
-        "Multijugador en línea  (2-26)"
+        "Multijugador en línea  (2-26)",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -40457,7 +40497,8 @@
         "Cooperación local de Xbox (2-4)",
         "Cooperativo en línea  (2-4)",
         "Multijugador local de Xbox (2-2)",
-        "Multijugador en línea  (2-24)"
+        "Multijugador en línea  (2-24)",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -40512,7 +40553,8 @@
         "Multijugador en línea  (2-24)",
         "4K Ultra HD",
         "HDR10",
-        "Pantalla dividida o compartida"
+        "Pantalla dividida o compartida",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -40856,7 +40898,8 @@
         "Logros de Xbox",
         "Presencia de Xbox",
         "Clubs de Xbox",
-        "Cosas guardadas en la nube de Xbox"
+        "Cosas guardadas en la nube de Xbox",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -42571,7 +42614,8 @@
         "Presencia de Xbox",
         "Clubs de Xbox",
         "Cosas guardadas en la nube de Xbox",
-        "Xbox Play Anywhere"
+        "Xbox Play Anywhere",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -42946,7 +42990,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 2.7,
-      "ratingCount": 138,
+      "ratingCount": 139,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -43144,7 +43188,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.7,
-      "ratingCount": 480,
+      "ratingCount": 481,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -44452,7 +44496,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.1,
-      "ratingCount": 1417,
+      "ratingCount": 1418,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -44968,7 +45012,9 @@
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
       "interactiveDescriptions": [],
-      "capabilities": [],
+      "capabilities": [
+        "FPS Boost Series X | S"
+      ],
       "systemRequirements": [
         {
           "title": "Arquitectura",
@@ -45573,8 +45619,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 3.8,
-      "ratingCount": 12,
+      "rating": 3.9,
+      "ratingCount": 13,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -46101,7 +46147,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 27979321344,
+      "maxInstallSize": 27979870208,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/smite-2/9NV8W1KJSQLL"
     },
@@ -47643,7 +47689,8 @@
         "Multijugador en línea  (8-40)",
         "HDR10",
         "Pantalla dividida o compartida",
-        "Xbox One X mejorado"
+        "Xbox One X mejorado",
+        "FPS Boost Series X"
       ],
       "systemRequirements": [
         {
@@ -47983,7 +48030,7 @@
       "hasDiscount": true,
       "discountPercent": 20,
       "rating": 3.8,
-      "ratingCount": 1837,
+      "ratingCount": 1838,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -48581,7 +48628,8 @@
         "Cooperativo en línea  (2-4)",
         "Multijugador en línea  (2-4)",
         "HDR10",
-        "Xbox One X mejorado"
+        "Xbox One X mejorado",
+        "FPS Boost Series S"
       ],
       "systemRequirements": [
         {
@@ -48948,7 +48996,8 @@
         "Presencia de Xbox",
         "Clubs de Xbox",
         "Cosas guardadas en la nube de Xbox",
-        "Xbox Play Anywhere"
+        "Xbox Play Anywhere",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -52208,7 +52257,8 @@
         "Logros de Xbox",
         "Presencia de Xbox",
         "Clubs de Xbox",
-        "Cosas guardadas en la nube de Xbox"
+        "Cosas guardadas en la nube de Xbox",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -54120,7 +54170,8 @@
       "interactiveDescriptions": [],
       "capabilities": [
         "Multijugador en línea  (2-16)",
-        "Xbox One X mejorado"
+        "Xbox One X mejorado",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -54532,7 +54583,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 51024572416,
+      "maxInstallSize": 51076915200,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/tom-clancy-s-rainbow-six-siege-elite-edition/9PB3RHWXB9MR"
     },
@@ -54780,7 +54831,8 @@
         "4K Ultra HD",
         "Un jugador",
         "Xbox One X mejorado",
-        "Logros de Xbox"
+        "Logros de Xbox",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -55434,7 +55486,8 @@
         "Presencia de Xbox",
         "Clubs de Xbox",
         "Cosas guardadas en la nube de Xbox",
-        "Xbox Play Anywhere"
+        "Xbox Play Anywhere",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -56478,7 +56531,8 @@
         "Logros de Xbox",
         "Presencia de Xbox",
         "Clubs de Xbox",
-        "Cosas guardadas en la nube de Xbox"
+        "Cosas guardadas en la nube de Xbox",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -56914,7 +56968,8 @@
         "Multijugador local de Xbox (2-2)",
         "4K Ultra HD",
         "Pantalla dividida o compartida",
-        "Xbox One X mejorado"
+        "Xbox One X mejorado",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -58694,7 +58749,8 @@
         "Logros de Xbox",
         "Presencia de Xbox",
         "Clubs de Xbox",
-        "Cosas guardadas en la nube de Xbox"
+        "Cosas guardadas en la nube de Xbox",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -59095,7 +59151,8 @@
         "Cooperativo en línea  (2-2)",
         "Multijugador en línea  (2-4)",
         "Un jugador",
-        "Logros de Xbox"
+        "Logros de Xbox",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -59286,7 +59343,8 @@
         "Cooperativo en línea  (2-8)",
         "Multijugador en línea  (2-8)",
         "Un jugador",
-        "Logros de Xbox"
+        "Logros de Xbox",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -59548,7 +59606,7 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 3.8,
+      "rating": 3.7,
       "ratingCount": 44,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
@@ -61000,8 +61058,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 2.7,
-      "ratingCount": 18,
+      "rating": 2.8,
+      "ratingCount": 19,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
