@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-07-31T10:25:49.885Z",
+  "updatedAt": "2026-08-01T09:48:36.594Z",
   "market": "ES",
   "language": "es-ES",
-  "totalGames": 833,
+  "totalGames": 825,
   "counts": {
-    "essential": 130,
-    "premium": 581,
-    "pc": 522,
-    "ultimate": 740,
-    "total": 833
+    "essential": 129,
+    "premium": 572,
+    "pc": 515,
+    "ultimate": 732,
+    "total": 825
   },
   "categories": [
     "Acción y aventura",
@@ -951,7 +951,7 @@
           "recommended": "Controladora de Xbox"
         }
       ],
-      "maxInstallSize": 9199681536,
+      "maxInstallSize": 9199673344,
       "hasAddOns": false,
       "storeUrl": "https://www.xbox.com/es-es/games/store/aerial-knights-dropshot/9P59J86GHDGL"
     },
@@ -5498,72 +5498,6 @@
       "storeUrl": "https://www.xbox.com/es-es/games/store/baches-y-cachivaches/BVR64CDJ01FJ"
     },
     {
-      "id": "9PKWJSJ4NWC7",
-      "title": "Back to the Dawn",
-      "description": "Un RPG absorbente sobre una fuga de prisión, tejido con crimen, corrupción y agendas ocultas. Entra en una cárcel de máxima seguridad donde cada recluso tiene un pasado... y un plan. Deberás luchar por sobrevivir, investigar y, al final, lograr tu huida antes de que se acabe el tiempo.\n\nDescubre un complot que amenaza más que tu vida: podría derribar toda la ciudad. En esta aventura trepidante, tus decisiones importan y la fuga es tu única salvación.\n\nElige tu camino, escapa\nEscoge entre dos protagonistas: Thomas, un periodista atrapado en una red de mentiras, o Bob, un agente encubierto enviado al corazón del sistema penitenciario. Cada historia ofrece más de 20 horas de misterio apasionante donde cada decisión cuenta.\n\nNavega en una prisión dominada por tres bandas poderosas, relaciónate con 48 internos únicos y descubre capas de intriga a través de docenas de NPC memorables.\n\nCon más de 100 misiones diseñadas a mano, múltiples rutas de escape —cada una con sus riesgos y recompensas— múltiples finales posibles y más de 500.000 palabras de narrativa intensa, Back to the Dawn ofrece un RPG profundo y rejugable como ninguno.\n\nDescubre la verdad\nThomas el Zorro es un periodista atrapado en una oscura conspiración y encarcelado en una prisión de máxima seguridad por no comulgar con el sistema. Trabajando con tu abogado amigo desde fuera, tendrás que reunir pruebas para salvarte a ti y a toda la ciudad de un peligro terrible.\n\nBob la Pantera es un agente encubierto que nunca ha fallado en sus misiones, pero está harto de esta vida y quiere salir. Sin embargo, una tragedia personal lo arrastra de vuelta para un último trabajo en prisión. Vive una historia dura de traición, venganza y verdad.\n\n¿Qué tipo de preso serás?\nEsta prisión es enorme, con mucho que hacer y explorar, pero mejor sigue las reglas... o al menos intenta no ser atrapado.\n\nTe enfrentarás a todo tipo de retos mientras conoces tu nuevo “hogar”. ¿Serás un preso modelo que pasa desapercibido o dejarás un rastro de caos y destrucción? La elección es tuya.\n\nUn elenco de lo más pintoresco\nConoce a un grupo de presos con historias que no te dejarán indiferente. Puedes hacerlos amigos... o golpearlos, intimidarlos y robarles hasta someterlos. ¿Formarás parte de una banda o serás un lobo solitario astuto? ¡Tú decides!\n\nSistema abierto de evolución de personaje\n¿Eres un tipo duro que deja que sus puños hablen, un ladrón que acecha en las sombras, o un charlatán que manipula a su antojo? Desarrolla tus habilidades, crea herramientas a tu estilo y asciende de “novato” a “jefe indiscutible”.\n\nPlanifica tu fuga\nEn un lugar diseñado para romperte, tu arma más afilada son la creatividad y el ingenio. Cada rincón de la prisión Boulderton puede tener la clave para escapar: desde tu celda, la enfermería, las alcantarillas e incluso los tejados. ¿Serás capaz de huir?",
-      "shortDescription": "Back to the Dawn es un RPG con una historia profunda, ambientado en una prisión de máxima seguridad controlada por facciones y secretos ocultos. Investiga dos conspiraciones, reúne pruebas y supera un sistema que busca silenciarte. Haz aliados o enemigos entre los presos y escapa.",
-      "developer": "Metal Head Games",
-      "publisher": "Spiral Up Games",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.45022.14254385379777466.e15db0ce-790e-43a8-a09e-22a73a0d87f5.6a27eef5-7875-4e4f-8814-ec82869ba85f",
-      "heroImage": "https://store-images.s-microsoft.com/image/apps.24597.14254385379777466.8ff2da73-ccca-40bf-ba1d-d4a22cee3c97.c8e835ce-ccf1-498a-8d52-01a897740ff2",
-      "screenshots": [
-        "https://store-images.s-microsoft.com/image/apps.18496.14254385379777466.8ff2da73-ccca-40bf-ba1d-d4a22cee3c97.e48c0bdb-cb0b-4a06-a468-a61530ab2575",
-        "https://store-images.s-microsoft.com/image/apps.22901.14254385379777466.8ff2da73-ccca-40bf-ba1d-d4a22cee3c97.98a8b83f-07f6-4840-a1a1-d5d6b7cef6a3",
-        "https://store-images.s-microsoft.com/image/apps.6417.14254385379777466.8ff2da73-ccca-40bf-ba1d-d4a22cee3c97.950eaf56-fd43-434e-8dd1-a0575904b588",
-        "https://store-images.s-microsoft.com/image/apps.31946.14254385379777466.8ff2da73-ccca-40bf-ba1d-d4a22cee3c97.7eadc80b-71dd-4589-bd27-dde7fe779c73"
-      ],
-      "videoUrl": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftassets/fbb49072-66d9-4db0-8cde-5f5ba9441d4a-AVS.m3u8?packagedStreaming=true",
-      "videoCaption": "Launch Trailer",
-      "releaseDate": "2025-07-18",
-      "categories": [
-        "Juegos de rol",
-        "Estrategia",
-        "Acción y aventura"
-      ],
-      "tiers": [
-        "pc",
-        "premium",
-        "ultimate"
-      ],
-      "platform": "both",
-      "price": 23.99,
-      "msrp": 23.99,
-      "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
-      "rating": 2,
-      "ratingCount": 117,
-      "ageRating": 18,
-      "pegiRating": "PEGI 18",
-      "pegiDescription": "Apropiado a partir de 18 años",
-      "interactiveDescriptions": [],
-      "capabilities": [
-        "4K Ultra HD",
-        "Un jugador",
-        "Optimizado para Xbox Series X|S",
-        "Logros de Xbox",
-        "Presencia de Xbox",
-        "Clubs de Xbox",
-        "Cosas guardadas en la nube de Xbox",
-        "Xbox Play Anywhere"
-      ],
-      "systemRequirements": [
-        {
-          "title": "SO",
-          "minimum": "Windows 10 version 18362.0 or higher",
-          "recommended": "Windows 10 version 18362.0 or higher"
-        },
-        {
-          "title": "Arquitectura",
-          "minimum": "x64",
-          "recommended": "x64"
-        }
-      ],
-      "maxInstallSize": 4507340800,
-      "hasAddOns": false,
-      "storeUrl": "https://www.xbox.com/es-es/games/store/back-to-the-dawn/9PKWJSJ4NWC7"
-    },
-    {
       "id": "9PK087LNGJC5",
       "title": "Balatro",
       "description": "Balatro es un creador de mazos roguelike inspirado en el póquer donde creas poderosas sinergias y ganas a lo grande.\r\n\r\nEl roguelike de póquer. Balatro es un creador de mazos hipnotizante donde juegas manos de póquer ilegal, descubres comodines que cambian tu juego y activas combinaciones hilarantes y llenas de adrenalina.\r\n\r\nCombina manos válidas de póquer con comodines únicos para crear sinergias y construcciones variadas. Gana fichas suficientes para vencer ciegas engañosas y descubre manos y mazos de bonificación ocultos al avanzar. Necesitarás todas las ventajas que puedas conseguir para llegar a la ciega grande, vencer el ante final y asegurar la victoria.",
@@ -8736,7 +8670,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 1.7,
-      "ratingCount": 86,
+      "ratingCount": 87,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -8809,7 +8743,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 2.2,
-      "ratingCount": 445,
+      "ratingCount": 446,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -9222,7 +9156,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 2.8,
-      "ratingCount": 32,
+      "ratingCount": 31,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -9350,7 +9284,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3,
-      "ratingCount": 34,
+      "ratingCount": 33,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -9853,68 +9787,6 @@
       "maxInstallSize": 26969538560,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/car-mechanic-simulator-2021/9NH019ZFFHTV"
-    },
-    {
-      "id": "BWMQL2RPWBHB",
-      "title": "Celeste",
-      "description": "Ayuda a Madeline a sobrevivir a los demonios de su interior en su viaje a la cima de la montaña Celeste;  un ajustadísimo plataforma diseñado a mano por los creadores del clásico multijugador TowerFall. \n\n • Aventura de un jugador marcada por la narración; un encantador elenco de personajes y un argumento conmovedor de descubrimiento personal.\n • Gran montaña con más de 700 pantallas de duros desafíos y retorcidos secretos.\n • Brutales capítulos \"cara B\" para desbloquear; para los más osados.\n • Finalista en “Excellence in Audio” de IGF; más de 2 horas de música original con un asombroso piano y pegadizos ritmos de sintetizador.\n • Pastel\n\nLos mandos son sencillos y accesibles: salta, acelera en el aire y escala, pero con varias capas de profundidad de expresión que habrá que dominar, pues cada muerte enseña una lección. Las reapariciones relámpago te permiten seguir escalando mientras desvelas misterios y te enfrentas a numerosos peligros. \n\nEs el momento, Madeline. Respira hondo. Tú puedes hacerlo.",
-      "shortDescription": "Ayuda a Madeline a sobrevivir a los demonios de su interior en su viaje hasta la cima de la montaña Celeste, en este ajustadísimo plataforma, obra de los creadores de TowerFall. Enfréntate a cientos de desafíos diseñados a mano, devela retorcidos secretos y, y reconstruye el misterio de la montaña.",
-      "developer": "Matt Makes Games Inc.",
-      "publisher": "Matt Makes Games Inc.",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.21257.71633162879241707.7cf18b3b-9fa5-486f-9a68-067f06d50bf1.8f7909cf-d9a5-44aa-9901-2635255ab2ee",
-      "heroImage": "https://store-images.s-microsoft.com/image/apps.24023.71633162879241707.7cf18b3b-9fa5-486f-9a68-067f06d50bf1.6778804d-f496-4d2c-87db-8df1ec5beda7",
-      "screenshots": [
-        "https://store-images.s-microsoft.com/image/apps.62030.71633162879241707.7cf18b3b-9fa5-486f-9a68-067f06d50bf1.3117f2f5-5428-42cd-a150-205a71db2650",
-        "https://store-images.s-microsoft.com/image/apps.24984.71633162879241707.7cf18b3b-9fa5-486f-9a68-067f06d50bf1.c38224c2-f3a1-4af4-b4b5-0fbacb71b8b4",
-        "https://store-images.s-microsoft.com/image/apps.63861.71633162879241707.7cf18b3b-9fa5-486f-9a68-067f06d50bf1.15616060-1e36-49ec-8c67-3a67743f9d2d",
-        "https://store-images.s-microsoft.com/image/apps.4293.71633162879241707.7cf18b3b-9fa5-486f-9a68-067f06d50bf1.52c07028-76a5-40f6-a8cf-93ac9fb738b0"
-      ],
-      "videoUrl": "",
-      "videoCaption": "",
-      "releaseDate": "2018-01-26",
-      "categories": [
-        "Plataformas"
-      ],
-      "tiers": [
-        "essential",
-        "pc",
-        "premium",
-        "ultimate"
-      ],
-      "platform": "both",
-      "price": 18.99,
-      "msrp": 18.99,
-      "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
-      "rating": 4.4,
-      "ratingCount": 185,
-      "ageRating": 7,
-      "pegiRating": "PEGI 7",
-      "pegiDescription": "Apropiado a partir de 7 años",
-      "interactiveDescriptions": [],
-      "capabilities": [
-        "Un jugador",
-        "Logros de Xbox",
-        "Presencia de Xbox",
-        "Cosas guardadas en la nube de Xbox",
-        "Xbox Play Anywhere"
-      ],
-      "systemRequirements": [
-        {
-          "title": "SO",
-          "minimum": "Windows 10 version 16299.0 or higher",
-          "recommended": "Windows 10 version 16299.0 or higher"
-        },
-        {
-          "title": "Arquitectura",
-          "minimum": "x64",
-          "recommended": "x64"
-        }
-      ],
-      "maxInstallSize": 1210236928,
-      "hasAddOns": false,
-      "storeUrl": "https://www.xbox.com/es-es/games/store/celeste/BWMQL2RPWBHB"
     },
     {
       "id": "BQ9Q620NC614",
@@ -10465,7 +10337,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.7,
-      "ratingCount": 1148,
+      "ratingCount": 1149,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -11519,6 +11391,100 @@
       "storeUrl": "https://www.xbox.com/es-es/games/store/cooking-simulator-windows/9PLGBZWN65RG"
     },
     {
+      "id": "9PHS0189K408",
+      "title": "Corsair Cove",
+      "description": "La Edad de oro de la piratería está llegando a su fin: los mares han sucumbido al control de los cazadores de piratas enviados por la Corona. La era de las aventuras y los saqueos morirá... a menos que estés tú para impedirlo.\n\nCorsair Cove es un constructor de ciudades que pondrá a prueba tu altanería. Habrás de construir sin atender a los límites de acantilados y cimas, mientras gestionas cadenas de producción complejas por lo ancho y alto del territorio. Fabrica desde catalejos a cañones, equipa a tu tripulación y construye barcos imparables, capaces de reclamar los mares y combatir a la Corona. Asalta y saquea las islas cercanas para obtener lo que no puedas conseguir de cero, y explora tierras desconocidas en busca de grandes tesoros y poderosos enemigos. Pero, por encima de todo, asegúrate de que el ánimo de tu tripulación nunca decaiga, pues necesitarás miles de nuevos adeptos para que la bandera pirata pueda seguir ondeando.\n\nIZA LA BANDERA EN ALTO\nComienzas tus andanzas en una isla desierta, sin recursos. Apenas dispones de los restos del naufragio y la tripulación que pudo aferrarse a la vida. ¡Tendrás que sacar a relucir la ingeniosidad de la ingeniería pirata y la utilidad de encaramar los caminos para poder sacar provecho de cualquier oportunidad! Construye donde sea, pues son los acantilados más escarpados los que te llevarán a la cima, los que te permitirán crear un puerto seguro para todos los piratas.\n• Tu isla empezará siendo un escondrijo muy humilde, pero podrá convertirse en una fortaleza formidable. Y es que no es un mero hogar en el que hospedar a la tripulación, es el baluarte que defenderá vuestro estilo de vida. Construye viviendas y tabernas, pero no olvides los muelles, las fundiciones de cañones y las fortificaciones defensivas. Al fin y al cabo, tienes que garantizar la seguridad del puerto, y para ello no te queda otra que aprovechar cada ápice de tierra llana, ya sea vertical u horizontal, para asegurar tu expansión.\n• Emplea sistemas complejos, con puentes, tirolinas y toda clase de artilugios para mover suministros de un lado a otro de la forma más eficiente. Vuestros edificios usarán materia prima, y los productos finales que fabriquéis crearán la necesidad de otros edificios de distribución. La habilidad a la hora de transportar vuestros bienes puede ser la diferencia entre la vida o la muerte.\n• Propaga tu influencia por toda la isla para obtener acceso a depósitos de recursos lejanos, desde madera y fibra hasta hierro y cobre. Cuidado, eso sí: a medida que vayas expandiendo tus edificios, cada vez será más difícil trasladarse de uno a otro sin caer en la ineficiencia. La amenaza de los lacayos de la corona precisa de una armada con la que responder, además de los recursos y las cadenas de producción que necesitará la creciente población de la que eres responsable.\n\nLA VIDA PIRATA\nPuede que el pan y el alcohol basten para contentar a los piratas, pero solo por un tiempo. Si pretendes que los más capaces luchen a tu lado, tendrás que cumplir sus expectativas de grandes lujos. Asimismo, las armadas completas tienen sus propias necesidades: los barcos más potentes requieren equipamiento avanzado y tripulación especializada con sus propias necesidades y deseos. En general, no se necesitan tantas cosas para contentar a una población de piratas, pero, si ignoraras sus necesidades, tardarían más bien poco en abandonar la causa. De ser necesario, los piratas no dudan en dejar a quien sea tirado.\n• Cada tipo de población tiene sus propias necesidades que satisfacer, desde los vagabundos a la espera de convertirse en recaderos, hasta los constructores y otros trabajadores de diferente tipo que garantizan el correcto funcionamiento de tus cadenas de producción.\n• En la inmensidad del océano, algunos piratas de poca monta se reúnen para tripular algún barco modesto, con poco más que un guiso, cerveza y ron que llevarse a la boca. Ahora bien, las embarcaciones más poderosas requieren mucho más: se necesitan especialistas como bombarderos y navegantes, y también saqueadores y renegados; es preciso disponer de catalejos, medicina, sables y muchos otros instrumentos. Los navíos más formidables se forman a partir de marineros de élite, descendientes de los primeros bucaneros o corsarios veteranos. Y ellos demandan tabaco, pistolas y, sobre todo, parches para sus ojos.\n• Afina y expande cadenas de producción intrincadas para fabricar y distribuir más de 50 tipos de productos diferentes: comida de todo tipo, como galletas marineras, sopa de tortuga y ave asada, y vestimenta de lo más variada, ya sea ropa humilde como los pantalones pirata y las botas, o atuendos más elegantes y joyas. ¡Y eso sin contar las patas de palo , las botellas de alcohol y las pistolas! ¡Hay para todos los gustos!\n• Navega por los mares y explora islas cercanas en busca de oportunidades y tesoros ocultos en su interior. Hay recursos esenciales que no se pueden producir en tu isla, así que no queda otra que zarpar y saquear ubicaciones por todo el mapa, para así obtener grano, monedas, grasa de ballena, plata y, sobre todo, vino.\n\nEL MAR NOS PERTENECE\nMultitud de oportunidades y peligros se encuentran fuera de la isla, esparcidos por los mares. Utiliza bien los recursos disponibles para fabricar barcos, contratar tripulación y capitanes y proporcionales equipo. Así podrás partir en expediciones por todo el mapa. Encuentra y ayuda a cualquiera que pueda querer rebelarse contra la Corona, descubre grandes tesoros con los que impulsar tu misión y presencia cómo las leyendas piratas se hacen realidad. Tendrás que enfrentarte a ballenas monstruosas, krákenes despiadados y amenazas misteriosas mientras buscas piratas legendarios para tu variopinta tripulación.\n• Viaja a tierras lejanas en aguas sin explorar para desvelar las situaciones únicas que acontecerán por todo el archipiélago. Ayuda a los contrabandistas a transportar sus mercancías, busca tesoros ocultos en templos antiguos, apuesta, saquea y ataca fuertes y flotas enemigos para recuperar el control de los mares. El coraje de tu tripulación y los recursos que sacrifiques determinarán el resultado de estos eventos. ¿Prestarás la pólvora de tus reservas a una rebelión lejana a pesar de que eso debilite tus defensas? ¿O dejarás a algunos de tus marineros a cargo de entrenar a los habitantes locales, sacrificando la productividad de tu propio campamento?\n• Localiza e intercepta a los barcos enemigos que se acerquen a tu isla en un combate por turnos en el que el barco, la tripulación, el capitán y tu planificación táctica son factores que determinarán quién se alzará con la victoria.\n• Erige fortificaciones defensivas en localizaciones estratégicas de tu isla para acabar con aquellos barcos enemigos que se acerquen demasiado disparando sus cañones. Cuando tus barcos no se encuentren por la zona, estas fortalezas militares y torres de artillería serán la última línea de defensa, siempre alerta si les proporcionas un suministro constante de bolas de cañón y pólvora.\n\nTRAZA TU PROPIA TRAVESÍA\n¡Corsair Cove te permite experimentar la libertad total que merece cualquier pirata que se precie! Aventúrate en las diferentes misiones a tu propio ritmo, desarrolla tu sociedad en cuatro aspectos diferentes y progresa de la forma que más se ajuste a tu estilo de juego y a tus prioridades. Te hará falta para enfrentarte a la Corona.\n• A medida que progreses en notoriedad, expansión, sotavento y ostentación, irás desbloqueando herramientas nuevas de cada categoría, como edificios adicionales, las cadenas de producción correspondientes y más barcos útiles con los que embarcarte en desafíos peligrosos. ¡Mejora tu relación con el Concejo de artistas para incrementar la productividad! ¡O mejor aprende a construir tirolinas para que tus piratas cumplan sus funciones con prontitud!\n• Participa en misiones únicas para derrotar a la Corona, en las que tendrás que enfrentarte a monstruos legendarios y baluartes férreos. Tendrás que surcar las peligrosas aguas de los mares si quieres acechar a tu presa, no sin antes prepararte para lo peor: estas misiones te harán navegar directo hacia el peligro, hacia escenarios de combate y enfrentamientos únicos. Para salir airosos, el barco, la tripulación, el capitán a bordo y tu destreza táctica son la clave.\n\n¡Construye una gran sociedad pirata y lidera a tu banda de bucaneros para preservar la Edad de oro de la piratería!",
+      "shortDescription": "Crea un refugio pirata, reúne una flota, surca los mares y haz frente a la Corona para preservar la Edad de oro de la piratería. ¡Cerveza, fusiles, espadachines y rufianes! Maneja cadenas de producción complejas y controla los mares junto a tu tripulación de canallas.",
+      "developer": "Limbic Entertainment",
+      "publisher": "Hooded Horse",
+      "imageUrl": "https://store-images.s-microsoft.com/image/apps.57612.14230424027872647.ab6270a0-0d1f-4913-b718-32112ae966e2.8c40fedf-b616-4b79-ae5e-b0cd60acfb60",
+      "heroImage": "https://store-images.s-microsoft.com/image/apps.45235.14230424027872647.ab6270a0-0d1f-4913-b718-32112ae966e2.92a4cf40-e35d-4cc2-a0a4-47358a3101a8",
+      "screenshots": [
+        "https://store-images.s-microsoft.com/image/apps.17490.14230424027872647.ab6270a0-0d1f-4913-b718-32112ae966e2.bced64ae-1579-4115-bacc-9b8724cd2057",
+        "https://store-images.s-microsoft.com/image/apps.3420.14230424027872647.ab6270a0-0d1f-4913-b718-32112ae966e2.3d4c83b9-d1e9-45dd-892c-d992b720b438",
+        "https://store-images.s-microsoft.com/image/apps.27897.14230424027872647.b4bdf36a-6117-4fed-a82a-86c050ed2299.cc590121-d753-4776-8027-87c1b9161c69",
+        "https://store-images.s-microsoft.com/image/apps.22675.14230424027872647.15331f72-da4c-4aa4-a2b9-b3b8e27eb890.3804e55e-6191-4809-822b-6ad34782f19b"
+      ],
+      "videoUrl": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftassets/099ef6bc-445d-4972-ba20-4f0c6879709d-AVS.m3u8?packagedStreaming=true",
+      "videoCaption": "Release Date Announcement Trailer",
+      "releaseDate": "2026-07-31",
+      "categories": [
+        "Estrategia",
+        "Simulación"
+      ],
+      "tiers": [
+        "pc",
+        "ultimate"
+      ],
+      "platform": "pc",
+      "price": 39.99,
+      "msrp": 39.99,
+      "currency": "EUR",
+      "hasDiscount": false,
+      "discountPercent": 0,
+      "rating": 0,
+      "ratingCount": 0,
+      "ageRating": 16,
+      "pegiRating": "PEGI 16",
+      "pegiDescription": "Apropiado a partir de 16 años",
+      "interactiveDescriptions": [],
+      "capabilities": [
+        "Un jugador",
+        "Logros de Xbox",
+        "Cosas guardadas en la nube de Xbox"
+      ],
+      "systemRequirements": [
+        {
+          "title": "SO",
+          "minimum": "Windows 10 version 18362.0 or higher",
+          "recommended": "Windows 10 version 18362.0 or higher"
+        },
+        {
+          "title": "Arquitectura",
+          "minimum": "x64",
+          "recommended": "x64"
+        },
+        {
+          "title": "Gráficos",
+          "minimum": "NVIDIA® GeForce® GTX 1660 Super (6 GB) / AMD® Radeon™ RX 5600 XT (6 GB)",
+          "recommended": "NVIDIA® GeForce® RTX 2070 (8 GB) / AMD® Radeon™ RX 6600 XT (8 GB)"
+        },
+        {
+          "title": "Procesador",
+          "minimum": "Intel® Core™ i7-7700 (quad-core)  / AMD® Ryzen™ 5 1600 (hexa-core)",
+          "recommended": "Intel® Core™ i5-9600K (hexa-core) / AMD® Ryzen™ 5 3600 (hexa-core)"
+        },
+        {
+          "title": "DirectX",
+          "minimum": "API de DirectX 12, nivel de característica de hardware 12",
+          "recommended": "API de DirectX 12, nivel de característica de hardware 12"
+        },
+        {
+          "title": "Memoria",
+          "minimum": "8 GB",
+          "recommended": "16 GB"
+        },
+        {
+          "title": "Memoria de vídeo",
+          "minimum": "6 GB",
+          "recommended": "8 GB"
+        },
+        {
+          "title": "Teclado",
+          "minimum": "",
+          "recommended": "Teclado integrado"
+        },
+        {
+          "title": "Mouse",
+          "minimum": "",
+          "recommended": "Mouse integrado"
+        }
+      ],
+      "maxInstallSize": 29736480768,
+      "hasAddOns": false,
+      "storeUrl": "https://www.xbox.com/es-es/games/store/corsair-cove/9PHS0189K408"
+    },
+    {
       "id": "BR74RLMH966K",
       "title": "Costume Quest",
       "description": "Vuelve a descubrir Halloween con este imaginativo RPG de Double Fine Productions, de Tim Schafer. Explora el vecindario de Auburn Pines, plagado de monstruos, el centro comercial Autumn Haven y el carnaval de Fall Valley. Consigue disfraces mágicos con superpoderes, armas únicas y objetos especiales a medida que completas las misiones. ¡Haz que tu heroico guerrero suba de nivel y enfréntate a los malvados jefes supremos en esta aventura épica para salvar Halloween! Encontrarás más información en www.CostumeQuestGame.com",
@@ -12355,160 +12321,6 @@
       "maxInstallSize": 5016309760,
       "hasAddOns": false,
       "storeUrl": "https://www.xbox.com/es-es/games/store/crimson-skies-high-road-to-revenge/C4B8XR1LCXR5"
-    },
-    {
-      "id": "9MZ8RZSD0NFQ",
-      "title": "Crusader Kings III",
-      "description": "¡Al fin puedes llevar la vida de un gobernante medieval en consola con Crusader Kings III, el galardonado juego de rol y estrategia de Paradox Development Studio! Lidera una familia noble medieval y aumenta su poder y reputación a lo largo de las generaciones. Cuando muere un gobernante, un heredero ocupa su lugar, pero podría tener habilidades o intereses distintos a los de su predecesor, de modo que tendrás que ajustar tus planes a largo plazo.\n\nDomina el campo de batalla y conquista a tus enemigos o busca secretos, trama conspiraciones y usa venenos para lograr tus objetivos, todo en un mismo juego. Concierta matrimonios, defiende la fe y forja nuevos imperios en este clásico moderno, diferente a cualquier otro juego al que hayas jugado en consola.\n\nHISTORIA\n\nElige una casa real o noble entre diversos reinos en un mapa que abarca desde Islandia hasta India, desde el círculo polar ártico hasta África central.\nGuía a una dinastía a través de los siglos, garantizando la seguridad y el poder de cada nueva generación. Reúne nuevas tierras y títulos para consolidar tu legado.\nEncarna a un rey piadoso para tener a los poderes religiosos de tu lado o actúa por tu cuenta y diseña tu religión propia para obtener la fama o la condenación eterna.\nCaballeros, revueltas campesinas, peregrinaciones, invasores vikingos... Experimenta el drama y la pompa del medievo.\n\n\nPERSONAJE\n\nAdopta uno de cinco estilos de vida diferentes y perfecciona tus habilidades para la estrategia militar o la gestión del reino.\nAdquiere rasgos de carácter que guiarán tus acciones, ¡pero ten cuidado si actúas contra tu naturaleza! ¡El estrés de negar tu verdadero ser podría traerte problemas!\nElige a los guardianes más adecuados para tus herederos o entrénalos tú personalmente. ¿Qué harás si el heredero legal no está a la altura?\nLos personajes violentos pueden desarrollar una reputación temible, que asustará a los súbditos y obedecerán por el miedo que infunden.\n\n\nGUERRA\n\nRecluta unidades de soldados y caballeros poderosos para engrosar las filas reales.\nInvestiga tecnologías nuevas para aumentar la riqueza y el poder militar de tu reino.\nContrata a mercenarios y órdenes sagradas para las guerras importantes.\nCompleta tus ingresos con rescates por prisioneros o con grupos de asalto en los reinos vecinos.\n\n\n\nCONSPIRACIONES\n\nUsa a tu espía más experimentado para descubrir complots contra tu dinastía y tu reinado.\nRecluta a agentes para que te ayuden a socavar o asesinar a cualquiera que se interponga entre el poder y tú.\nSeduce a otros personajes para conseguir poder político o amor.\nReúne información para chantajes o pide favores cuando tus planes requieran influencia adicional.\n\nNecesitas una cuenta de Paradox para utilizar ciertas funciones del juego. Debes tener 16 años o más para crear una cuenta de Paradox. Visita https://legal.paradoxplaza.com/eula para más detalles.",
-      "shortDescription": "Dirige una dinastía medieval generación tras generación a lo largo de la historia. Gobierna un pequeño reino o un gran imperio, y conoce a un sorprendente número de personajes con sus propias personalidades y prioridades en este galardonado juego de estrategia de Paradox Interactive.",
-      "developer": "Paradox Development Studio, Room8 Group",
-      "publisher": "Paradox Interactive",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.25959.13879075332331019.da1cf290-ab60-45cb-891e-71702235fa65.847bbb2b-fe13-4c8e-89fc-c9229398af78",
-      "heroImage": "https://store-images.s-microsoft.com/image/apps.61473.13879075332331019.da1cf290-ab60-45cb-891e-71702235fa65.18daa26b-682e-491f-8e1c-87533a00b5b3",
-      "screenshots": [
-        "https://store-images.s-microsoft.com/image/apps.21344.13879075332331019.67bf6f7f-55a4-4bdf-9e7d-ffd2bce6abc0.7704cf19-6443-4546-9476-23baf015fb2a",
-        "https://store-images.s-microsoft.com/image/apps.47799.13879075332331019.67bf6f7f-55a4-4bdf-9e7d-ffd2bce6abc0.c2eea587-9d4a-405f-b8f1-3922c6b72af7",
-        "https://store-images.s-microsoft.com/image/apps.43012.13879075332331019.67bf6f7f-55a4-4bdf-9e7d-ffd2bce6abc0.68a9e4bb-a344-4b99-ace5-b746deac840c",
-        "https://store-images.s-microsoft.com/image/apps.3117.13879075332331019.67bf6f7f-55a4-4bdf-9e7d-ffd2bce6abc0.414f8d20-0af7-43d0-838d-4745b64c6336"
-      ],
-      "videoUrl": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftassets/0f232a77-63c2-46c7-a63d-f44d9585e3b0-AVS.m3u8?packagedStreaming=true",
-      "videoCaption": "Announcement Trailer",
-      "releaseDate": "2022-03-29",
-      "categories": [
-        "Juegos de rol",
-        "Simulación",
-        "Estrategia"
-      ],
-      "tiers": [
-        "premium",
-        "ultimate"
-      ],
-      "platform": "console",
-      "price": 49.99,
-      "msrp": 49.99,
-      "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
-      "rating": 3.7,
-      "ratingCount": 75,
-      "ageRating": 12,
-      "pegiRating": "PEGI 12",
-      "pegiDescription": "Apropiado a partir de 12 años",
-      "interactiveDescriptions": [],
-      "capabilities": [
-        "Multijugador en línea ",
-        "4K Ultra HD",
-        "Un jugador",
-        "Optimizado para Xbox Series X|S",
-        "Logros de Xbox"
-      ],
-      "systemRequirements": [
-        {
-          "title": "Arquitectura",
-          "minimum": "x64",
-          "recommended": "x64"
-        },
-        {
-          "title": "Controladora",
-          "minimum": "Controladora de Xbox",
-          "recommended": ""
-        },
-        {
-          "title": "Micrófono",
-          "minimum": "",
-          "recommended": "Micrófono integrado"
-        }
-      ],
-      "maxInstallSize": 15511207936,
-      "hasAddOns": true,
-      "storeUrl": "https://www.xbox.com/es-es/games/store/crusader-kings-iii/9MZ8RZSD0NFQ"
-    },
-    {
-      "id": "9N7GG222GTTH",
-      "title": "Crusader Kings III",
-      "description": "Tu legado aguarda. Elige una casa nobiliaria y lidera a tu dinastía a la grandeza en una epopeya de la Edad Media de varias generaciones. La guerra es una de las muchas herramientas que tienes para establecer tu reinado, ya que la estrategia real requiere diplomacia experta, conocimiento del reino y verdadera astucia. Crusader Kings III continúa la famosa saga creada por Paradox Development Studio, que combina la aclamada gran estrategia con un juego de rol medieval dramático y profundo. \n\n\nEmpieza un linaje\n  \n• Toma el control de tu casa y amplía tu dinastía durante una Edad Media documentada al detalle. Empieza en 867, 1066 o 1178, y reclama territorios, títulos y vasallos para conseguir un reino digno de tu sangre real. Tu muerte solo es un detalle, pues tu linaje continúa con nuevos herederos jugables, dispuestos o no por ti.\n• Descubre un mundo simulado en expansión lleno de plebeyos y caballeros, cortesanos, espías, truhanes y bufones, y romances secretos. Un reparto bien nutrido de personajes históricos que puedes enamorar, traicionar, ejecutar o influir sutilmente.  \n• Explora un gran mapa medieval que va desde los territorios nevados del norte hasta el Cuerno de África, y desde las islas británicas al oeste hasta las riquezas exóticas de Birmania al este. Reclama, conquista y gobierna a miles de países, ducados, reinos e imperios únicos. \n\n\nMás profundo de lo que imaginas \n\n• Cada personaje es más profundo de lo que imaginas, ya que sus rasgos y elecciones vitales determinarán sus acciones y planificaciones. Gobierna con el miedo con tu puño de hierro o inspira a tus súbditos con tus hazañas magnánimas. La genética es innegable y tus hijos heredaran una inteligencia desbordante o una estupidez incapacitante. \n• Consigue los tutores adecuados para tu heredero o edúcalo tú mismo. Si tienen aspiraciones, cásalos o líbrate de ellos por otros medios. \n• Personaliza a tu gobernante y su casa nobiliaria, tanto su apariencia como sus atributos, y crea a un monarca digno de todas sus virtudes y vicios heredados.\n\n\nLa estrategia real requiere astucia\n\n• Gobierna un reino que evoluciona constantemente y concede títulos a quien tú prefieras; o vence al señor feudal y reclama la corona para ti. Ten cuidado con las amenazas, que pueden ser desde sirvientes descontentos hasta concubinas vengativas. \n• Las sombras se agitan con frecuencia y el peligro acecha en cada esquina oscura. Recluta a agentes y a otros personajes indeseables para debilitar, chantajear o asesinar a quienes se interponen en tu camino. O déjate inspirar por las canciones de los bardos y consigue poder e influencia mediante la seducción.\n• Correrá la sangre. Reúne a unidades de soldados y caballeros poderosos. Gestiona a tus ejércitos y tus tácticas en la batalla. Asalta y saquea territorios cercanos o contrata a mercenarios y a órdenes sagradas para las guerras importantes. \n\n\n\nConsigue grandes logros\n\n• Encarna a un rey piadoso para atraer a los poderes religiosos o diseña tu propia religión mientras te debates entre la fama o la condenación eternas.\n• Introduce innovaciones en la cultura y levanta poderosos castillos y bastiones para aumentar la riqueza, el prestigio y la seguridad de tu reino. \n• Puedes seguir una cantidad ilimitada de caminos: disfruta de miles de eventos dinámicos y toma decisiones fundamentales adaptadas a todas las situaciones y personajes concebibles. Hay incontables formas de garantizar tu paso a la posteridad. \n\nNecesitas una cuenta de Paradox para utilizar ciertas funciones del juego. Debes tener 16 años o más para crear una cuenta de Paradox. Visita https://legal.paradoxplaza.com/eula para más detalles.",
-      "shortDescription": "Ama, lucha, planea y reclama la grandeza. Determina el legado de tu casa nobiliaria en la gran estrategia en expansión de Crusader Kings III. La muerte solo es el comienzo mientras lideras el linaje de tu dinastía en esta completa simulación realista de la Edad Media.",
-      "developer": "Paradox Development Studio",
-      "publisher": "Paradox Interactive",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.25959.14065406176999862.d433bba3-dfb8-463a-bd60-0c7bd30829d8.8a527e59-eb28-4692-a0cf-f4be29c66f58",
-      "heroImage": "https://store-images.s-microsoft.com/image/apps.61473.14065406176999862.d433bba3-dfb8-463a-bd60-0c7bd30829d8.79455e2e-404c-4e8b-bdaa-1f15562ad48c",
-      "screenshots": [
-        "https://store-images.s-microsoft.com/image/apps.26601.14065406176999862.d06678cb-d6af-4582-b22b-218520cf14de.eaf05a34-a875-416b-bc52-9333022ee9c7",
-        "https://store-images.s-microsoft.com/image/apps.45033.14065406176999862.d06678cb-d6af-4582-b22b-218520cf14de.da604e54-40f2-433e-943d-e3fc93770abc",
-        "https://store-images.s-microsoft.com/image/apps.38032.14065406176999862.d06678cb-d6af-4582-b22b-218520cf14de.9fd864be-1f86-4750-af23-c454b9cc3f43",
-        "https://store-images.s-microsoft.com/image/apps.19853.14065406176999862.d06678cb-d6af-4582-b22b-218520cf14de.948e09d6-9ab5-413b-ae73-3fcdf86a3582"
-      ],
-      "videoUrl": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftassets/f2eccdbe-e854-4c74-a217-7e2f25f8b758-AVS.m3u8?packagedStreaming=true",
-      "videoCaption": "Crusader Kings III - Story Trailer",
-      "releaseDate": "2020-09-01",
-      "categories": [
-        "Juegos de rol",
-        "Simulación",
-        "Estrategia"
-      ],
-      "tiers": [
-        "pc",
-        "premium",
-        "ultimate"
-      ],
-      "platform": "pc",
-      "price": 49.99,
-      "msrp": 49.99,
-      "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
-      "rating": 3.5,
-      "ratingCount": 220,
-      "ageRating": 12,
-      "pegiRating": "PEGI 12",
-      "pegiDescription": "Apropiado a partir de 12 años",
-      "interactiveDescriptions": [],
-      "capabilities": [
-        "Multijugador en línea  (2-64)",
-        "Un jugador",
-        "Logros de Xbox",
-        "Cosas guardadas en la nube de Xbox"
-      ],
-      "systemRequirements": [
-        {
-          "title": "SO",
-          "minimum": "Windows 10 version 18362.0 or higher",
-          "recommended": "Windows 10 version 18362.0 or higher"
-        },
-        {
-          "title": "Arquitectura",
-          "minimum": "x64",
-          "recommended": "x64"
-        },
-        {
-          "title": "Gráficos",
-          "minimum": "NVIDIA GeForce GTX 660 | AMD Radeon HD 7870 | Intel Arc A310 | Intel Iris Plus G7 | AMD Radeon Vega 11",
-          "recommended": "NVIDIA GeForce GTX 970 | AMD Radeon RX 480 | Intel Arc A580"
-        },
-        {
-          "title": "Procesador",
-          "minimum": "Intel Core i5-750 | AMD FX 4300",
-          "recommended": "Intel Core i5-8400 | AMD Ryzen 5 1600X"
-        },
-        {
-          "title": "Teclado",
-          "minimum": "Teclado integrado",
-          "recommended": ""
-        },
-        {
-          "title": "Mouse",
-          "minimum": "Mouse integrado",
-          "recommended": ""
-        },
-        {
-          "title": "Memoria",
-          "minimum": "8 GB",
-          "recommended": "16 GB"
-        }
-      ],
-      "maxInstallSize": 19823464448,
-      "hasAddOns": true,
-      "storeUrl": "https://www.xbox.com/es-es/games/store/crusader-kings-iii/9N7GG222GTTH"
     },
     {
       "id": "BNN7BPDZ6GQB",
@@ -14298,7 +14110,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.2,
-      "ratingCount": 28,
+      "ratingCount": 29,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -14925,7 +14737,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.5,
-      "ratingCount": 276,
+      "ratingCount": 275,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -16232,7 +16044,7 @@
       "hasDiscount": true,
       "discountPercent": 80,
       "rating": 4.7,
-      "ratingCount": 362,
+      "ratingCount": 363,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -16571,7 +16383,7 @@
       "hasDiscount": true,
       "discountPercent": 67,
       "rating": 4.5,
-      "ratingCount": 203,
+      "ratingCount": 204,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -16732,7 +16544,7 @@
       "hasDiscount": true,
       "discountPercent": 67,
       "rating": 4.3,
-      "ratingCount": 416,
+      "ratingCount": 417,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -17245,7 +17057,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.8,
-      "ratingCount": 67,
+      "ratingCount": 68,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -17602,7 +17414,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 2.2,
-      "ratingCount": 164,
+      "ratingCount": 165,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -19623,7 +19435,7 @@
       "hasDiscount": true,
       "discountPercent": 60,
       "rating": 4.4,
-      "ratingCount": 1560,
+      "ratingCount": 1562,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -22130,7 +21942,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.6,
-      "ratingCount": 378,
+      "ratingCount": 379,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -22284,7 +22096,7 @@
       "heroImage": "https://store-images.s-microsoft.com/image/apps.25959.14553435086111963.df80ae9a-2226-4cc1-99bb-24cdb3f4b8a2.243400c9-a25e-4b28-a77d-380956e23ce3",
       "screenshots": [
         "https://store-images.s-microsoft.com/image/apps.52129.14553435086111963.df80ae9a-2226-4cc1-99bb-24cdb3f4b8a2.f3f1c266-51ab-479c-9134-e3a9150a7e8b",
-        "https://store-images.s-microsoft.com/image/apps.7111.14553435086111963.df80ae9a-2226-4cc1-99bb-24cdb3f4b8a2.8f5872e0-5d59-46a3-a4d1-caffab12dbc8",
+        "https://store-images.s-microsoft.com/image/apps.33204.14553435086111963.4d735c2b-bcde-4113-9e7d-622944c99891.5db4f867-b670-45e9-8fd1-0e0ce8f7f56a",
         "https://store-images.s-microsoft.com/image/apps.1976.14553435086111963.df80ae9a-2226-4cc1-99bb-24cdb3f4b8a2.8d073b42-0645-4229-909b-0f459388176c",
         "https://store-images.s-microsoft.com/image/apps.2365.14553435086111963.df80ae9a-2226-4cc1-99bb-24cdb3f4b8a2.fcc5a20d-cd8f-49e0-a4f5-9b7ef7c64796"
       ],
@@ -22831,7 +22643,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.7,
-      "ratingCount": 4419,
+      "ratingCount": 4421,
       "ageRating": 12,
       "pegiRating": "Supervisión parental recomendada",
       "pegiDescription": "Supervisión parental recomendada",
@@ -23085,7 +22897,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.6,
-      "ratingCount": 1832,
+      "ratingCount": 1834,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -24990,8 +24802,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 1.9,
-      "ratingCount": 51,
+      "rating": 2,
+      "ratingCount": 53,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -26483,7 +26295,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.9,
-      "ratingCount": 86,
+      "ratingCount": 94,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -26891,7 +26703,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.6,
-      "ratingCount": 54,
+      "ratingCount": 56,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -29830,7 +29642,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.3,
-      "ratingCount": 162,
+      "ratingCount": 163,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -33387,86 +33199,6 @@
       "storeUrl": "https://www.xbox.com/es-es/games/store/mi-amiga-peppa-pig/9NDJLXD2X2DM"
     },
     {
-      "id": "9MWV1MV9LWF4",
-      "title": "Mi amigable vecindario",
-      "description": "¡Algo raro sucede con el programa de marionetas favorito de todos del sábado por la mañana! Por años, el colorido reparto de El amigable vecindario deleitó a las audiencias del mundo con excéntricas travesuras y aventuras educativas. Sin embargo, a medida que pasó el tiempo y el interés menguó, el estudio de producción se quedó sin dinero y tuvo que cerrar sus puertas para siempre. Las ventas de juguetes disminuyeron y los globos y pasteles de cumpleaños mostraban nuevas caras. Con el tiempo, los nombres que alguna vez fueron famosos se desvanecieron entre blogs cada vez más especializados. Hasta que, una noche, muchos años después, el estudio volvió a la vida de forma inesperada y empezó a transmitir episodios de El amigable vecindario. ¡Los televisores de todo el mundo parpadearon por un segundo antes de que las reconocidas marionetas aparecieran nuevamente en pantalla! Pero este no es el típico especial de navidad que disfrutas en familia, porque... ¿las marionetas se estén comiendo entre ellas?\n\nLa ciudad envía a Gordon, un técnico de mantenimiento, a hacer los arreglos necesarios al edificio principal, porque se cree que la antena que se encuentra en la cima de este empezó a transmitir episodios viejos del programa. Sin embargo, Gordon se da cuenta rápidamente de que el vecindario ya no es tan amigable como solía antes. Amárrate las botas de trabajo y prepárate para repeler a amigos feroces, resolver un montón de inofensivos rompecabezas que ahora son mortales, y, con suerte, descubrir la cruel verdad que yace en el centro de esta terrorífica historia.\n\nSi te cansaste de los juegos que solo se enfocan en la sangre en vez de en los sustos, ¡entonces visita las calles de MAV! Este juego es una mezcla de aventura y acción, por lo que es el juego perfecto para los amantes del horror que buscan algo distinto. Puede que no haya desmembramientos ni decapitaciones, pero eso solo significa que, sin importar lo que hagas, las marionetas volverán a levantarse...",
-      "shortDescription": "Algo escalofriante sucede con el programa de marionetas favorito de todos de los sábados: ¡El amigable vecindario! Juega como Gordon, el encargado de llegar al fondo de este asunto. Repele a las marionetas y resuelve rompecabezas en esta aventura de horror y supervivencia.",
-      "developer": "John Szymanski & Evan Szymanski",
-      "publisher": "DreadXP",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.54533.13832354349125905.43143cd3-426b-4a91-a56a-b6ff2d3a6231.5039abe6-fd55-496d-b92b-1e0eb1b3a966",
-      "heroImage": "https://store-images.s-microsoft.com/image/apps.4716.13832354349125905.43143cd3-426b-4a91-a56a-b6ff2d3a6231.5277a06a-1de7-4d55-bc43-39d97f736f9d",
-      "screenshots": [
-        "https://store-images.s-microsoft.com/image/apps.26001.13832354349125905.f01e8dc9-eb14-4ad0-9b11-4e9ea33b160e.c4371acc-be65-4f0a-867b-5b413e8eb92b",
-        "https://store-images.s-microsoft.com/image/apps.440.13832354349125905.f01e8dc9-eb14-4ad0-9b11-4e9ea33b160e.3d9020da-dce3-4018-8b05-21b6e5814b93",
-        "https://store-images.s-microsoft.com/image/apps.17564.13832354349125905.f01e8dc9-eb14-4ad0-9b11-4e9ea33b160e.9f013b24-3632-4e69-8010-d78a0c956801",
-        "https://store-images.s-microsoft.com/image/apps.1511.13832354349125905.f01e8dc9-eb14-4ad0-9b11-4e9ea33b160e.80344e20-0498-4c1a-ac0e-851bd074af87"
-      ],
-      "videoUrl": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftassets/d4b54a91-cc5c-4188-b1b7-66251653a8b5-AVS.m3u8?packagedStreaming=true",
-      "videoCaption": "MFN - Available Now Trailer",
-      "releaseDate": "2025-07-17",
-      "categories": [
-        "Shooter",
-        "Acción y aventura",
-        "Niños y familia"
-      ],
-      "tiers": [
-        "pc",
-        "premium",
-        "ultimate"
-      ],
-      "platform": "both",
-      "price": 28.99,
-      "msrp": 28.99,
-      "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
-      "rating": 3.9,
-      "ratingCount": 22,
-      "ageRating": 12,
-      "pegiRating": "PEGI 12",
-      "pegiDescription": "Apropiado a partir de 12 años",
-      "interactiveDescriptions": [],
-      "capabilities": [
-        "4K Ultra HD",
-        "Un jugador",
-        "Optimizado para Xbox Series X|S",
-        "Entrega inteligente",
-        "Logros de Xbox",
-        "Cosas guardadas en la nube de Xbox",
-        "Xbox Play Anywhere"
-      ],
-      "systemRequirements": [
-        {
-          "title": "SO",
-          "minimum": "Windows 10 version 18362.0 or higher",
-          "recommended": "Windows 10 version 18362.0 or higher"
-        },
-        {
-          "title": "Arquitectura",
-          "minimum": "x64",
-          "recommended": "x64"
-        },
-        {
-          "title": "Gráficos",
-          "minimum": "NVIDIA GTX 470 / AMD Radeon 6870 HD",
-          "recommended": "NVIDIA 980 TI"
-        },
-        {
-          "title": "Procesador",
-          "minimum": "Quad Core 2.5 GHz or faster",
-          "recommended": "Quad Core 2.5 GHz or faster"
-        },
-        {
-          "title": "Memoria",
-          "minimum": "8 GB",
-          "recommended": "12 GB"
-        }
-      ],
-      "maxInstallSize": 9766420480,
-      "hasAddOns": false,
-      "storeUrl": "https://www.xbox.com/es-es/games/store/mi-amigable-vecindario/9MWV1MV9LWF4"
-    },
-    {
       "id": "9NM8GHT6CXN4",
       "title": "Microsoft Bubble",
       "description": "Microsoft Bubble es un clásico juego de rompecabezas de burbujas con un borde actualizado. Bloquea, apunta y dispara para despejar el panel antes de que te quedes sin movimientos. \n\nMejora tus habilidades con niveles infinitos, objetivos complejos y misiones en constante evolución. Acumula potenciadores explosivos, supera bloqueadores difíciles y perfecciona tu estrategia a medida que avanzas.\n\nTanto si estás en él por la puntuación alta, los logros o simplemente un descanso rápido, Microsoft Bubble está listo para ti. \n\nCARACTERÍSTICAS \n• Niveles ilimitados\n• Desafíos en aumento y misiones únicas\n• Potenciadores y bloqueadores molestos\n• Logros de Xbox\n\nVentajas con Xbox Game Pass\n• Reproducir SIN anuncios\n• ¡Gana movimientos adicionales!",
@@ -33662,7 +33394,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 2.1,
-      "ratingCount": 688,
+      "ratingCount": 689,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -33857,7 +33589,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.7,
-      "ratingCount": 51378,
+      "ratingCount": 51385,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -34240,7 +33972,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4,
-      "ratingCount": 15708,
+      "ratingCount": 15712,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -34435,7 +34167,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.5,
-      "ratingCount": 61279,
+      "ratingCount": 61284,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -34735,8 +34467,8 @@
       "currency": "EUR",
       "hasDiscount": true,
       "discountPercent": 10,
-      "rating": 3.1,
-      "ratingCount": 22,
+      "rating": 3,
+      "ratingCount": 27,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -35760,111 +35492,6 @@
       "storeUrl": "https://www.xbox.com/es-es/games/store/motorslice/9P0073G9FW5Z"
     },
     {
-      "id": "9PDHWZ7X3P03",
-      "title": "Mount & Blade II: Bannerlord",
-      "description": "Resuenan las trompetas y los cuervos huyen en bandadas; una guerra civil asola al imperio. Más allá de sus fronteras nacen nuevos reinos. Empuña tu espada, vístete con tu armadura y alcanza la gloria junto a tus seguidores en los campos de batalla de Calradia.\r\n\r\nEmprende una aventura épica en este sandbox ambientado en los años oscuros que combina características de RPG de acción y de juego de estrategia. \r\n\r\nCrea y desarrolla un personaje, encuentra compañeros, y usa la diplomacia, los intercambios y la picardía en tu beneficio con el fin de instaurar a tu clan entre las filas de la nobleza. \r\n\r\nReúne ejércitos y lucha en descomunales batallas y asedios en tiempo real con la ayuda de una amplia variedad de comandos y un intuitivo sistema de combate basado en habilidades.\r\n\r\nForma un reino o combate por una causa ajena mientras exploras una versión reinventada del amplio continente de Calradia en esta precuela del título elogiado por la crítica, Mount & Blade: Warband.",
-      "shortDescription": "Resuenan las trompetas y los cuervos huyen en bandadas; una guerra civil asola al imperio. Más allá de sus fronteras nacen nuevos reinos. Empuña tu espada, vístete con tu armadura y alcanza la gloria junto a tus seguidores en los campos de batalla de Calradia.",
-      "developer": "TaleWorlds Entertainment",
-      "publisher": "TaleWorlds Entertainment",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.13443.14149597270613176.7ab8db21-d435-4f1c-8c3a-236ab836bd6b.8bf6f412-7f1b-4b9e-8f58-d988a02cc7b6",
-      "heroImage": "https://store-images.s-microsoft.com/image/apps.64331.14149597270613176.7ab8db21-d435-4f1c-8c3a-236ab836bd6b.1a740937-b760-4423-b90e-aba5302fd819",
-      "screenshots": [
-        "https://store-images.s-microsoft.com/image/apps.57105.14149597270613176.7ab8db21-d435-4f1c-8c3a-236ab836bd6b.909a9c83-5603-4330-9fad-18a2df2dafac",
-        "https://store-images.s-microsoft.com/image/apps.61705.14149597270613176.7ab8db21-d435-4f1c-8c3a-236ab836bd6b.206d11f8-5857-4e1c-8ffd-0f14bc8575f9",
-        "https://store-images.s-microsoft.com/image/apps.44191.14149597270613176.7ab8db21-d435-4f1c-8c3a-236ab836bd6b.ef42eb83-1342-4431-9ae6-f8a7b05413d5",
-        "https://store-images.s-microsoft.com/image/apps.63090.14149597270613176.7ab8db21-d435-4f1c-8c3a-236ab836bd6b.0323e26f-a489-45e0-9b5c-c06335d032bd"
-      ],
-      "videoUrl": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftassets/d09fec75-d40f-4b8b-992d-d4509b502d98-AVS.m3u8?packagedStreaming=true",
-      "videoCaption": "Mount & Blade II: Bannerlord",
-      "releaseDate": "2022-10-25",
-      "categories": [
-        "Acción y aventura",
-        "Juegos de rol",
-        "Estrategia"
-      ],
-      "tiers": [
-        "pc",
-        "premium",
-        "ultimate"
-      ],
-      "platform": "both",
-      "price": 49.99,
-      "msrp": 49.99,
-      "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
-      "rating": 3.2,
-      "ratingCount": 136,
-      "ageRating": 16,
-      "pegiRating": "PEGI 16",
-      "pegiDescription": "Apropiado a partir de 16 años",
-      "interactiveDescriptions": [],
-      "capabilities": [
-        "Multijugador en línea  (2-64)",
-        "4K Ultra HD",
-        "Un jugador",
-        "Multijugador multgeneración de Xbox Live",
-        "60 fps +",
-        "Optimizado para Xbox Series X|S",
-        "Entrega inteligente",
-        "Mouse y teclado de la consola",
-        "Controlador para juegos para PC",
-        "Logros de Xbox",
-        "Cosas guardadas en la nube de Xbox",
-        "Xbox Play Anywhere"
-      ],
-      "systemRequirements": [
-        {
-          "title": "SO",
-          "minimum": "Windows 10 version 18362.0 or higher",
-          "recommended": "Windows 10 version 18362.0 or higher"
-        },
-        {
-          "title": "Arquitectura",
-          "minimum": "x64",
-          "recommended": "x64"
-        },
-        {
-          "title": "Gráficos",
-          "minimum": "Intel® UHD Graphics 630 / NVIDIA® GeForce® GTX 660 2GB / AMD Radeon™ HD 7850 2GB",
-          "recommended": "NVIDIA® GeForce® GTX 1060 3GB / AMD Radeon™ RX 580"
-        },
-        {
-          "title": "Procesador",
-          "minimum": "Intel® Core™ i3-8100 / AMD Ryzen™ 3 1200",
-          "recommended": "Intel® Core™ i5-9600K / AMD Ryzen™ 5 3600X"
-        },
-        {
-          "title": "Teclado",
-          "minimum": "Teclado integrado",
-          "recommended": ""
-        },
-        {
-          "title": "Mouse",
-          "minimum": "Mouse integrado",
-          "recommended": ""
-        },
-        {
-          "title": "DirectX",
-          "minimum": "Versión 11",
-          "recommended": "Versión 11"
-        },
-        {
-          "title": "Memoria",
-          "minimum": "8 GB",
-          "recommended": "16 GB"
-        },
-        {
-          "title": "Memoria de vídeo",
-          "minimum": "2 GB",
-          "recommended": "4 GB"
-        }
-      ],
-      "maxInstallSize": 63918759936,
-      "hasAddOns": true,
-      "storeUrl": "https://www.xbox.com/es-es/games/store/mount-blade-ii-bannerlord/9PDHWZ7X3P03"
-    },
-    {
       "id": "9P88K6NQW12H",
       "title": "Moving Out 2",
       "description": "Moving Out 2 es la descabellada secuela del mundialmente famoso simulador de movimiento basado en la física. Puedes trabajar como F.A.R.T. individual o con hasta tres amigos: ¡enfúndate en el uniforme de Smoth Moves y ayuda a los habitantes de Packmore y de otros sitios a guardar todas sus cosas y trasladarlas!\r\n\r\nVECINO MULTIDIMENSIONAL Y MULTIJUGADOR EN LÍNEA\r\n¡Los amigos que se mudan juntos se divierten juntos! Tanto si te gusta la cooperación local como si prefieres una sesión de multijugador en línea, ¡lo tenemos todo recogido, guardado y listo para la entrega!\r\n\r\nNUEVA AVENTURA\r\nYa no estamos en Packmore... a través de los portales interdimensionales podrás explorar nuevos mundos repletos de desternillantes desafíos absurdos y de acción tronchante.\r\n\r\nNUEVOS PERSONAJES Y EL REGRESO DE TUS FAVORITOS\r\nMoving Out 2 presenta un elenco completamente nuevo de personajes adorables, porque Smooth Moves ha contratado nuevos F.A.R.T! Pero no te preocupes: Rye, Yu y Sidney siguen en nómina…\r\n\r\n¡ESTO ES PARA TODO EL MUNDO!\r\n¿Modo asistente? ¡Listo! ¿Gran variedad de opciones de accesibilidad? ¡Listo! ¿Un montón de personajes, atuendos que sientan como un guante y aspectos para los amantes de la moda? ¡Listo! ¡Listo! ¡Listo!",
@@ -36140,7 +35767,7 @@
           "recommended": "Controladora de Xbox"
         }
       ],
-      "maxInstallSize": 105496985600,
+      "maxInstallSize": 105496371200,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/naraka-bladepoint/9P8SQQJ5T94B"
     },
@@ -37214,7 +36841,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.5,
-      "ratingCount": 66,
+      "ratingCount": 65,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -39109,7 +38736,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.6,
-      "ratingCount": 835,
+      "ratingCount": 836,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -41978,7 +41605,7 @@
           "recommended": "16 GB"
         }
       ],
-      "maxInstallSize": 18461786112,
+      "maxInstallSize": 18461802496,
       "hasAddOns": false,
       "storeUrl": "https://www.xbox.com/es-es/games/store/quarantine-zone-the-last-check/9P9446P7D9TZ"
     },
@@ -42164,7 +41791,7 @@
       "hasDiscount": true,
       "discountPercent": 60,
       "rating": 4.3,
-      "ratingCount": 42,
+      "ratingCount": 43,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -42336,86 +41963,6 @@
       "maxInstallSize": 47853039616,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/rage-2-pc/9P2J7WHV0K4N"
-    },
-    {
-      "id": "9PNPFBPLGCMW",
-      "title": "Rain World",
-      "description": "Ponte en la piel de un gato-babosa que tiene que sobrevivir sin ayuda en un mundo lleno de peligros. Después de que una inundación catastrófica te separe de tu familia, debes buscar comida y refugio mientras evitas las lluvias torrenciales que amenazan con ahogar a todos los seres vivos. Avanza por las ruinas de una civilización antigua, escapa de las fauces de fieros depredadores y descubre territorios nuevos repletos de criaturas extrañas y misterios ocultos. ¡Encuentra a tu familia antes de convertirte en la merienda de algún monstruo!\r\n\r\nEste juego de plataformas y supervivencia, inspirado en la sencillez y la estética de los clásicos de 16 bits, pondrá a prueba tu inteligencia y tu capacidad para tomar decisiones tanto para cazar como para escapar de los feroces depredadores. Cada enemigo que te encuentres será voraz, agresivo y siempre estará acechando. Se mueren de ganas por hincarte el diente a ti o incluso a otro de su misma especie. Como eres un pequeño y frágil gato-babosa, debes confiar en el sigilo y la astucia en lugar de la fuerza. Aprende cómo funciona el ecosistema y aprovéchalo a tu beneficio. ¿Podrás sobrevivir en... Rain World?",
-      "shortDescription": "",
-      "developer": "Videocult",
-      "publisher": "Akupara Games",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.21995.14344758136653430.0a9ce6ed-b26d-40f7-a6e0-5e2514866b02.c5adc4e8-fba7-4ac5-b220-ca281c299074",
-      "heroImage": "https://store-images.s-microsoft.com/image/apps.16289.14344758136653430.0a9ce6ed-b26d-40f7-a6e0-5e2514866b02.6cbc74e6-55a0-4e71-9bde-bfb5b8cea35b",
-      "screenshots": [
-        "https://store-images.s-microsoft.com/image/apps.62470.14344758136653430.0a9ce6ed-b26d-40f7-a6e0-5e2514866b02.bc2f8d6e-b722-4c48-8127-fea8b1827380",
-        "https://store-images.s-microsoft.com/image/apps.11359.14344758136653430.0a9ce6ed-b26d-40f7-a6e0-5e2514866b02.a4250916-fc8d-41d6-b09d-8ce3811354ff",
-        "https://store-images.s-microsoft.com/image/apps.31180.14344758136653430.0a9ce6ed-b26d-40f7-a6e0-5e2514866b02.e93dfe1b-70e0-4e98-81e9-20a2d527170d",
-        "https://store-images.s-microsoft.com/image/apps.49676.14344758136653430.0a9ce6ed-b26d-40f7-a6e0-5e2514866b02.8b5846c2-8000-4213-9b0b-8fdf6438319c"
-      ],
-      "videoUrl": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftassets/72063182-670c-40e9-905c-303d40810991-AVS.m3u8?packagedStreaming=true",
-      "videoCaption": "Rain World - Launch Trailer",
-      "releaseDate": "2023-07-11",
-      "categories": [
-        "Acción y aventura",
-        "Plataformas",
-        "Otros"
-      ],
-      "tiers": [
-        "pc",
-        "premium",
-        "ultimate"
-      ],
-      "platform": "both",
-      "price": 23.99,
-      "msrp": 23.99,
-      "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
-      "rating": 3.2,
-      "ratingCount": 16,
-      "ageRating": 7,
-      "pegiRating": "PEGI 7",
-      "pegiDescription": "Apropiado a partir de 7 años",
-      "interactiveDescriptions": [],
-      "capabilities": [
-        "Cooperación local de Xbox (2-4)",
-        "Un jugador",
-        "Optimizado para Xbox Series X|S",
-        "Entrega inteligente",
-        "Logros de Xbox",
-        "Cosas guardadas en la nube de Xbox",
-        "Xbox Play Anywhere"
-      ],
-      "systemRequirements": [
-        {
-          "title": "SO",
-          "minimum": "Windows 10 version 18362.0 or higher",
-          "recommended": "Windows 10 version 18362.0 or higher"
-        },
-        {
-          "title": "Arquitectura",
-          "minimum": "x64",
-          "recommended": "x64"
-        },
-        {
-          "title": "Gráficos",
-          "minimum": "Intel HD (Integrated), GeForce 6 Series / Radeon R7 Series",
-          "recommended": "GeForce 7 Series / Radeon RX400 Series (or better)"
-        },
-        {
-          "title": "Procesador",
-          "minimum": "4th Gen i3 / 1st Gen Ryzen",
-          "recommended": "6th Gen i5 / 2nd Gen Ryzen (or better)"
-        },
-        {
-          "title": "Memoria",
-          "minimum": "4 GB",
-          "recommended": "8 GB"
-        }
-      ],
-      "maxInstallSize": 8909680640,
-      "hasAddOns": true,
-      "storeUrl": "https://www.xbox.com/es-es/games/store/rain-world/9PNPFBPLGCMW"
     },
     {
       "id": "C22T53SQ7FLM",
@@ -43125,7 +42672,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.3,
-      "ratingCount": 120,
+      "ratingCount": 121,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -44496,7 +44043,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.1,
-      "ratingCount": 1418,
+      "ratingCount": 1419,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -45620,7 +45167,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.9,
-      "ratingCount": 13,
+      "ratingCount": 14,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -46147,125 +45694,9 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 27979870208,
+      "maxInstallSize": 27980005376,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/smite-2/9NV8W1KJSQLL"
-    },
-    {
-      "id": "9MXRG5GCRPXZ",
-      "title": "Sniper Elite: Resistance",
-      "description": "NUEVO OPERATIVO, NUEVA AMENAZA, NUEVA CAMPAÑA ÉPICA\nCon una mecánica de tiro, sigilo y combate táctico en tercera persona sin parangón, Sniper Elite: Resistance dirige la atención de la galardonada serie hacia una guerra oculta, lejos del frente, en lo más profundo del corazón de la Francia ocupada.\nEn una nueva y apasionante historia paralela a Sniper Elite 5, Harry Hawker, agente de la Dirección de Operaciones Especiales (SOE), toma por primera vez las riendas de la situación al descubrir una nueva y maligna Wunderwaffe, un arma tan poderosa que garantiza la victoria de los nazis en la guerra.\nEn colaboración con la Resistencia francesa, esta mortífera adición al arsenal del Reich debe eliminarse.\nLos múltiples blancos de la lista de objetivos y los distintos puntos de infiltración y extracción te ofrecen una magnífica elección para cumplir los objetivos y crear tu propio estilo de juego.\nLa campaña completa también puede jugarse en modo cooperativo. Lucha contra la maquinaria de guerra nazi con un aliado para compartir armas, objetos y conocimientos tácticos, así como para ayudaros a volver a la contienda cuando caigáis en combate.\n\nCÁMARA DE MUERTES DE RAYOS X VISCERAL Y FÍSICA AVANZADA DE DISPAROS \nVuelve la característica cámara de muertes de rayos X, que te mostrará el verdadero poder destructivo de cada uno de tus disparos. Los huesos harán que las balas reboten de forma impredecible, abriéndose paso a través de los cuerpos enemigos. Las metralletas y las pistolas también pueden activar las cámaras de muerte, además de una cámara lenta para añadir dramatismo a los disparos múltiples.\nPara acertar en el blanco, tendrás que pensar como un auténtico francotirador. Ten en cuenta las opciones de culata y cañón del rifle, así como la gravedad, el viento y el ritmo cardíaco mientras apuntas al objetivo.\n\nAUTÉNTICAS ARMAS DE LA SEGUNDA GUERRA MUNDIAL CON OPCIONES DE PERSONALIZACIÓN \nEl arsenal que tendrás a tu disposición incluirá los favoritos de la franquicia, así como una serie de nuevas armas auténticas de la Segunda Guerra Mundial. Elegir tu equipo será clave para acabar con los perversos planes del Reich. \nPersonaliza tu arma para adaptarla a tu estilo de juego. Encuentra mesas de trabajo a lo largo de la campaña para personalizar y mejorar tus rifles, armas secundarias y pistolas con nuevos visores, culatas, cañones, cargadores y mucho más. Recuerda también elegir la munición adecuada para cada tarea, desde proyectiles perforantes hasta balas no letales.\n\nMISIONES DE PROPAGANDA: CONVIÉRTETE EN LA RESISTENCIA\nLocaliza carteles de propaganda exclusivos durante la campaña principal y ponte en la piel de un combatiente de la Resistencia francesa en las nuevas misiones de propaganda. Escabúllete, dispara y derriba a enemigos en estos escenarios para completar objetivos urgentes y ayudar a poner fin a la ocupación nazi.\n\nMODO INVASIÓN DEL EJE\nVuelve el modo Invasión del Eje, el favorito de los fans: ¡invade la campaña de otro jugador como francotirador del Eje y participa en un mortal juego del gato y el ratón! Tanto si acechas a tu presa como si preparas una emboscada o entras directamente en combate, la amenaza de invasión hace que el desafío de la campaña adquiera una nueva dimensión.\n\nMODO MULTIJUGADOR EN LÍNEA LLENO DE TENSIÓN \nTras dominar tu rifle, personaliza tu personaje y tu equipamiento mientras luchas en línea en batallas competitivas de 16 jugadores para ganar EXP, medallas y galones.\nSi la competición no es lo tuyo, también puedes formar equipo con hasta otros 3 jugadores contra oleadas de enemigos en el modo Supervivencia.",
-      "shortDescription": "La aclamada franquicia Sniper Elite regresa con un nuevo agente principal. Infíltrate en la Francia ocupada y lucha junto a la Resistencia francesa para impedir que los nazis desarrollen una nueva y pérfida arma milagrosa que podría cambiar el curso de la guerra.",
-      "developer": "Rebellion",
-      "publisher": "Rebellion",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.51551.13884837624671830.a1b4bcb8-63aa-419a-ac34-76ae03d6dca7.638d45d3-e816-4927-9355-71fc2e775cde",
-      "heroImage": "https://store-images.s-microsoft.com/image/apps.55270.13884837624671830.a1b4bcb8-63aa-419a-ac34-76ae03d6dca7.ac396b37-681e-4a66-bec8-0bb4bbe9c4a1",
-      "screenshots": [
-        "https://store-images.s-microsoft.com/image/apps.11903.13884837624671830.a1b4bcb8-63aa-419a-ac34-76ae03d6dca7.e7bf097c-c342-4871-87ea-d1e2ae36800d",
-        "https://store-images.s-microsoft.com/image/apps.26520.13884837624671830.a1b4bcb8-63aa-419a-ac34-76ae03d6dca7.2a2a4538-f54f-43fa-b30f-68ba1dfa8bfa",
-        "https://store-images.s-microsoft.com/image/apps.40745.13884837624671830.a1b4bcb8-63aa-419a-ac34-76ae03d6dca7.9be4d907-a6f1-48b1-9e4a-87adc70947a2",
-        "https://store-images.s-microsoft.com/image/apps.37855.13884837624671830.a1b4bcb8-63aa-419a-ac34-76ae03d6dca7.963c92e2-be1d-4a2b-95c3-3e9d840f562f"
-      ],
-      "videoUrl": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftassets/df9905f3-5f12-49ab-b0a5-849f9022d4cd-AVS.m3u8?packagedStreaming=true",
-      "videoCaption": "Reveal Trailer",
-      "releaseDate": "2025-01-30",
-      "categories": [
-        "Acción y aventura",
-        "Shooter",
-        "Simulación"
-      ],
-      "tiers": [
-        "pc",
-        "premium",
-        "ultimate"
-      ],
-      "platform": "both",
-      "price": 59.99,
-      "msrp": 59.99,
-      "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
-      "rating": 2.7,
-      "ratingCount": 127,
-      "ageRating": 16,
-      "pegiRating": "PEGI 16",
-      "pegiDescription": "Apropiado a partir de 16 años",
-      "interactiveDescriptions": [],
-      "capabilities": [
-        "Cooperativo en línea  (2-4)",
-        "Multijugador en línea  (2-16)",
-        "Multijugador multiplataforma de Xbox",
-        "4K Ultra HD",
-        "HDR10",
-        "Un jugador",
-        "Frecuencia de actualización variable",
-        "Cooperación multiplataforma de Xbox",
-        "Multijugador multgeneración de Xbox Live",
-        "60 fps +",
-        "Optimizado para Xbox Series X|S",
-        "Entrega inteligente",
-        "Mouse y teclado de la consola",
-        "Logros de Xbox",
-        "Presencia de Xbox",
-        "Clubs de Xbox",
-        "Cosas guardadas en la nube de Xbox",
-        "Xbox Play Anywhere"
-      ],
-      "systemRequirements": [
-        {
-          "title": "SO",
-          "minimum": "Windows 10 version 18362.0 or higher",
-          "recommended": "Windows 10 version 18362.0 or higher"
-        },
-        {
-          "title": "Arquitectura",
-          "minimum": "x64",
-          "recommended": "x64"
-        },
-        {
-          "title": "Gráficos",
-          "minimum": "Nvidia 2060, Intel Arc A750, AMD Radeon RX 6600 or equivalent",
-          "recommended": ""
-        },
-        {
-          "title": "Procesador",
-          "minimum": "Intel CPU Core i5-9400f or equivalent",
-          "recommended": ""
-        },
-        {
-          "title": "Teclado",
-          "minimum": "Teclado integrado",
-          "recommended": "Teclado integrado"
-        },
-        {
-          "title": "Mouse",
-          "minimum": "Mouse integrado",
-          "recommended": "Mouse integrado"
-        },
-        {
-          "title": "DirectX",
-          "minimum": "API de DirectX 12, nivel de característica de hardware 12",
-          "recommended": ""
-        },
-        {
-          "title": "Memoria",
-          "minimum": "16 GB",
-          "recommended": ""
-        },
-        {
-          "title": "Memoria de vídeo",
-          "minimum": "6 GB",
-          "recommended": ""
-        },
-        {
-          "title": "Controladora",
-          "minimum": "",
-          "recommended": "Controladora de Xbox"
-        }
-      ],
-      "maxInstallSize": 120547254272,
-      "hasAddOns": true,
-      "storeUrl": "https://www.xbox.com/es-es/games/store/sniper-elite-resistance/9MXRG5GCRPXZ"
     },
     {
       "id": "9PNRSC0J6DT8",
@@ -47497,7 +46928,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.8,
-      "ratingCount": 162,
+      "ratingCount": 163,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -47677,7 +47108,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.8,
-      "ratingCount": 258,
+      "ratingCount": 259,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -48030,7 +47461,7 @@
       "hasDiscount": true,
       "discountPercent": 20,
       "rating": 3.8,
-      "ratingCount": 1838,
+      "ratingCount": 1839,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -48882,7 +48313,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.6,
-      "ratingCount": 485,
+      "ratingCount": 486,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -50118,7 +49549,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 4673773568,
+      "maxInstallSize": 3824754688,
       "hasAddOns": false,
       "storeUrl": "https://www.xbox.com/es-es/games/store/tears-of-metal-versi-n-preliminar-del-juego/9PN8M16GG8M4"
     },
@@ -50644,7 +50075,7 @@
           "recommended": "Controladora de Xbox"
         }
       ],
-      "maxInstallSize": 68911894528,
+      "maxInstallSize": 68881248256,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/the-alters/9N0P25WJHM8C"
     },
@@ -51907,7 +51338,7 @@
           "recommended": "4 GB"
         }
       ],
-      "maxInstallSize": 189787500544,
+      "maxInstallSize": 189787443200,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/the-elder-scrolls-online-standard-edition/BRKX5CRMRTC2"
     },
@@ -52096,7 +51527,7 @@
       "hasDiscount": true,
       "discountPercent": 75,
       "rating": 4.4,
-      "ratingCount": 269,
+      "ratingCount": 270,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -53117,8 +52548,8 @@
       "currency": "EUR",
       "hasDiscount": true,
       "discountPercent": 10,
-      "rating": 3.2,
-      "ratingCount": 13,
+      "rating": 3.5,
+      "ratingCount": 15,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -54361,7 +53792,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 66919858176,
+      "maxInstallSize": 71686713344,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/tom-clancy-s-ghost-recon-wildlands/C2N9CS4FS1QR"
     },
@@ -55999,7 +55430,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4,
-      "ratingCount": 41,
+      "ratingCount": 42,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -57952,7 +57383,7 @@
           "recommended": "Mouse integrado"
         }
       ],
-      "maxInstallSize": 77677785088,
+      "maxInstallSize": 77686140928,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/war-thunder/BX1DTCBD1HXJ"
     },
@@ -58398,7 +57829,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.3,
-      "ratingCount": 251,
+      "ratingCount": 252,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -59711,86 +59142,6 @@
       "storeUrl": "https://www.xbox.com/es-es/games/store/where-winds-meet/9N76QGDS5GJR"
     },
     {
-      "id": "9NM2T0DMP4XV",
-      "title": "Whiskerwood (Versión preliminar del juego)",
-      "description": "Este juego es un trabajo en curso. Es posible que, con el tiempo, cambie o no cambie, o que no se lance como producto final. Compra este producto únicamente si estás satisfecho con el estado actual del juego no terminado.\n\nExcava en las montañas, surca los mares y explora tierras insólitas a medida que desarrollas ciudades maravillosas. Desata el ingenio de los pequeños roedores que te acompañan, capaces de crear sistemas de automatización y cadenas de producción complejas, incluso aunque tengan que lidiar con vivir bajo el yugo de los gatos.\n\nSAL DE TU ESCONDRIJO\nEl dominio felino se expande haciendo caso omiso de las barreras marítimas naturales, por lo que los ratones comunes tendrán que abandonar su hogar y lanzarse a la mar en busca de aventuras. No tardarán en hallar algunas islas yermas repletas de recursos, donde deberán fundar una colonia y atender a las exigencias de sus señores.\n\n• Las ciudades de Whiskerwood se alzan sobre terreno isleño, por lo que siempre hay una limitación de espacio. Pero el instinto de supervivencia de los ratones les permite tanto construir refugios que se alzan por los cielos como cavar madrigueras en acantilados y montañas con tal de sacar provecho de cualquier parte. La expansión vertical es, para tus ratones, un recurso fundamental, que trae consigo oportunidades que exprimir y desafíos que sortear.\n• Llegas a tu destino en un barco con recursos y ratones suficientes como para ponerte manos a la obra, pero la prosperidad y el crecimiento de tu nuevo nido está en juego; deberás priorizar aquellas construcciones que sean esenciales, los servicios básicos y los medios de producción. Asegúrate de fundar redes logísticas y centros sanitarios, sin olvidarte de garantizar la tan necesaria calefacción y el mantenimiento de tus construcciones. Organiza diferentes tareas entre tus ratones: deberán cortar leña, minar en las montañas, cuidar de los cultivos y salir de pesca. Pero la finalidad de estas tareas no se reduce a satisfacer las necesidades de tus compañeros roedores, sino que también tendrás que cumplir con una cuota requerida por tus opresores gatunos. Busca el equilibrio entre complacer a los tuyos y a tus contrarios.\n• Tus colonos cuentan con atributos únicos que dictan cómo se desenvuelven en las distintas tareas, que se corresponden con uno de los múltiples gremios disponibles según las preferencias, fortalezas y debilidades de cada roedor. Presta especial atención a estas características y a sus rasgos personales a la hora de asignar tareas. Algunos preferirán vivir en soledad, bajo tierra, mientras que otros podrían pasar por alto la contaminación con tal de vivir en las zonas más industrializadas de tu asentamiento.\n\nSIMULACIONES COMPLEJAS\nEmigrar es un desafío para cualquier criatura: lejos de las comodidades del mundo conocido, no te quedará otra que sobreponerte a las inclemencias del tiempo y las fuerzas de la naturaleza para sacar a tu colonia adelante y ocuparte de las necesidades de tu pueblo ratonil.\n\n• Sírvete de la capacidad de terraformación de tu especie para crear madrigueras en las que acoger a tus ratones, para excavar almacenes en territorio escarpado o con la idea de extraer agua en la costa y redirigir su uso a la industria. Invierte el tiempo que sea necesario para aplanar la tierra y abaratar, así, los costes de cualquier proyecto de construcción. U opta por adaptarte a cualquier monte o valle que se haya generado de forma procedural en cada una de las islas.\n• Las inclemencias del tiempo pueden determinar si tu hogar ha de perecer. Basta con una tormenta para mermar el entusiasmo natural de tus pequeños roedores, y un frente frío puede acabar con una cosecha entera o atentar contra sus frágiles vidas. Construye redes de tuberías con las que distribuir agua caliente y crear sistemas de control del clima basados en tecnología idónea para aprovechar el vapor. Cuando se acerque el invierno, podréis decidir ocultaros bajo tierra para proteger vuestras reservas de las heladas.\n• Maximiza la producción agrícola adaptándote a los requerimientos de cada cultivo. Puede que una oscura caverna repleta de humedades sea el ambiente apropiado para la cría de champiñones, pero sería una ardua tarea tratar de hacer lo mismo con el trigo, que necesita un sustrato fértil y exposición solar directa. ¿Decidirás explorar cada rincón de tu isla para ir en busca de las condiciones óptimas para cada cultivo? ¿O acaso te servirás de la ingeniería para modificar la naturaleza a tu gusto en la medida de lo posible?\n• La jerarquía de las necesidades ratoniles, de Abratón Maslow, se ve reflejada en tu pueblo, que busca la forma de llevar una vida que se adecue a sus necesidades y aspiraciones en un nuevo paradero. Asegura una fuente constante de agua y alimento, pon a tus ratones bajo techo para que tengan un lugar en el que descansar e implementa servicios que se encarguen de mantener la ciudad en buen estado. Una vez que hayas acabado con lo básico, te enfrentarás a tu primera toma de decisiones: ¿erigirás estatuas de los temibles señores felinos para motivar a tus ratones a trabajar con ahínco? ¿O te decantarás por el camino de la resistencia priorizando la felicidad de tus ciudadanos mediante la construcción de magníficos parques? Deberás encontrar el equilibrio entre las necesidades de tus queridos roedores y las exigencias de los gatos, que contemplan tus vicisitudes afilándose las uñas.\n\nAUTOMATIZACIÓN Y CADENAS DE PRODUCCIÓN INTRINCADAS\nEl ratón no se caracteriza únicamente por ser muy trabajador, sino que además destaca por su inteligencia. Sírvete de la automatización para que prime la eficiencia: implementa cintas transportadoras para mover objetos por grandes distancias, un sistema más rápido que el de tus ratones tratando de llevarlos en sus pequeñas manitas. Avanza a nivel tecnológico, y deja atrás la era de humildes ratones obreros por una ratónpolis fundamentada en la energía a vapor.\n\n• Recolecta, fabrica y comercializa hasta 40 tipos de artículos diferentes con el fin de dotar a tu colonia de bienestar y retribuir lo debido a tus señores. Extrae materia prima, como metal, madera y trigo. Fabrica objetos, tales como velas y tejidos, y cocina tu propia comida. Busca la forma de conseguir preciados bienes de lujo, ya sean especias, té o ciertas piezas de mobiliario. A medida que tu colonia vaya creciendo, deberás ampliar tus horizontes para que la economía se vaya adaptando a sus necesidades.\n• Cumple con las imposiciones de tu contraparte felina para ganarte su favor y poder acceder a bienes de lujo de difícil acceso para tu asentamiento en ciernes. O quizás prefieras optar por reforzar las relaciones con otras facciones de roedores y piratas.\n• Planifica y elabora una laberíntica red de cintas transportadoras, rampas, ascensores y toboganes, con la que facilitar el transporte de artículos de principio a fin, pasando por el lugar donde se recolectan, procesan y almacenan hasta el lugar en el que se van a utilizar. También dispones de otras creaciones parecidas que te permiten transportar a tus ratones y otros materiales. ¡El tiempo es limitado, así que la eficiencia lo es todo para rendir al máximo en la jornada de trabajo!\n• Monta un sistema de cañerías que optimice la distribución de agua y vapor, con bombas de agua, torres de agua, radiadores y conductos de ventilación. El funcionamiento de este tipo de maquinaria puede estar restringido a zonas específicas, por lo que se requiere de una planificación cuidadosa para poder proporcionar lo necesario a toda la colonia.\n• Experimenta con los laboratorios de investigación para desarrollar tecnologías: consigue construcciones nuevas, más recursos y políticas de cambio. ¡Todo un abanico de posibilidades augura un futuro brillante a tus ratonescos amigos!\n\nRATÓN, QUE TE PILLA EL GATO\nTodo tiene un límite, incluso para unos ratoncitos aparentemente inofensivos. Los gatos cada vez aprietan más sus afiladas garras y el sufrimiento de los más pequeños no les genera más que desdén. Llueva o truene, no queda otra que enviar cualquier cargamento que decidan requerir, o, de lo contrario, enseñarán sus colmillos: no hay duda de que enviarán a sus fuerzas para demostrar quién está al mando. ¿Acaso deberás servir para siempre a tan amenazante autoridad? ¿O acabaréis rebelándoos con un castañeteo de dientes al unísono?\n\nVisita https://discord.com/invite/uRKrjRgbM2 para obtener detalles completos sobre el estado más reciente del juego, así como para proporcionar comentarios y notificar problemas.",
-      "shortDescription": "Establece el nido de diligentes ratones sometidos a una tiranía felina en este juego de construcción de ciudades con simulaciones y cadenas de producción complejas, en una batalla ancestral entre las diminutas presas y sus impiadosos opresores.",
-      "developer": "Minakata Dynamics",
-      "publisher": "Hooded Horse",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.30935.13695831805699613.f9bb20f1-c2e9-4227-a17b-f739911e9119.35e1e998-39cb-4258-b4ad-8d75a62f8df4",
-      "heroImage": "https://store-images.s-microsoft.com/image/apps.58191.13695831805699613.e09b9554-b031-482b-a223-893ddf497fef.cf1c0818-67ef-4265-ac28-96e680f95e65",
-      "screenshots": [
-        "https://store-images.s-microsoft.com/image/apps.17083.13695831805699613.e09b9554-b031-482b-a223-893ddf497fef.89d2ae81-ab4d-43aa-a50d-b0f7490a8e4b",
-        "https://store-images.s-microsoft.com/image/apps.57351.13695831805699613.e09b9554-b031-482b-a223-893ddf497fef.c2f90a89-007a-4edd-ab43-e1a730ec2e96",
-        "https://store-images.s-microsoft.com/image/apps.28092.13695831805699613.85557a07-1f76-4d21-bd36-580705f0b76b.0923fff6-9804-499a-a787-a42e0619f4ab",
-        "https://store-images.s-microsoft.com/image/apps.19140.13695831805699613.85557a07-1f76-4d21-bd36-580705f0b76b.6161e758-2c93-4499-8772-f0b0b0649109"
-      ],
-      "videoUrl": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftassets/419eab83-bcdd-4de9-bf90-ccfee792c4cd-AVS.m3u8?packagedStreaming=true",
-      "videoCaption": "Release Date Trailer",
-      "releaseDate": "2025-11-06",
-      "categories": [
-        "Estrategia",
-        "Simulación"
-      ],
-      "tiers": [
-        "pc",
-        "premium",
-        "ultimate"
-      ],
-      "platform": "pc",
-      "price": 30.49,
-      "msrp": 30.49,
-      "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
-      "rating": 3.4,
-      "ratingCount": 9,
-      "ageRating": 7,
-      "pegiRating": "PEGI 7",
-      "pegiDescription": "Apropiado a partir de 7 años",
-      "interactiveDescriptions": [],
-      "capabilities": [
-        "Un jugador",
-        "Logros de Xbox",
-        "Cosas guardadas en la nube de Xbox"
-      ],
-      "systemRequirements": [
-        {
-          "title": "SO",
-          "minimum": "Windows 10 version 18362.0 or higher",
-          "recommended": "Windows 10 version 18362.0 or higher"
-        },
-        {
-          "title": "Arquitectura",
-          "minimum": "x64",
-          "recommended": "x64"
-        },
-        {
-          "title": "Gráficos",
-          "minimum": "NVIDIA® GeForce® GTX 1050 Ti (4 GB) / AMD® Radeon™ RX-580 (8 GB) / Intel® Arc™ A350 (4 GB)",
-          "recommended": "NVIDIA® GeForce® GTX 1070 (8 GB) / AMD® Radeon™ RX 5700 (8 GB) / Intel® Arc™ A380 (6 GB)"
-        },
-        {
-          "title": "Procesador",
-          "minimum": "Intel® Core™ i5-4670 (quad-core)  / AMD® FX-Series™ FX-8350 (quad-core)",
-          "recommended": "Intel® Core™ i5-7600 (quad-core) / AMD® Ryzen™ 3 2200G (quad-core)"
-        },
-        {
-          "title": "DirectX",
-          "minimum": "API de DirectX 12, nivel de característica de hardware 11",
-          "recommended": "API de DirectX 12, nivel de característica de hardware 12"
-        },
-        {
-          "title": "Memoria",
-          "minimum": "8 GB",
-          "recommended": "16 GB"
-        }
-      ],
-      "maxInstallSize": 4234727424,
-      "hasAddOns": false,
-      "storeUrl": "https://www.xbox.com/es-es/games/store/whiskerwood-versi-n-preliminar-del-juego/9NM2T0DMP4XV"
-    },
-    {
       "id": "9N6VS1BMZ3BW",
       "title": "Wildgate",
       "description": "Wildgate es un juego de disparos multijugador JcJcE con tres modalidades diferentes. En Batalla de artefactos, debes apoderarte del artefacto y atravesar el portal antes que nadie, o destruir las naves de cada tripulación rival para alzarte con la victoria. En Batalla de flotas se enfrentarán dos equipos de hasta 12 jugadores cada uno en un combate constante y lleno de acción. Para vivir una experiencia de saqueo más relajada, en Búsqueda del tesoro podrás recuperar un tesoro y huir con él antes de volar en mil pedazos. \n\nEn todas las modalidades, tu nave es un hogar y una fuente de sustento tanto para ti como para tu tripulación de prospectores. Cuida las reservas de hielo, combustible y munición para que nada ni nadie que provenga de la Desembocadura te tome por sorpresa.\n\nBATALLAS ÉPICAS ENTRE NAVES ESPACIALES\nVuela en pedazos a tus enemigos con cañones y aparatos de tecnología de punta, atráelos para que caigan en trampas mortales o desbarata su nave… antes de que saboteen la tuya. Cuando tu plan sale volando por la cámara hiperbárica, solo te queda una opción: ¡improvisar!\n\nUNA NUEVA AVENTURA EN CADA PARTIDA\nSiempre ve un paso adelante con tu tripulación al explorar la Desembocadura, un amplio mapa generado de forma procedural que cambia en cada partida.\n\nPROSPECTORES ÚNICOS\nElige entre una gran variedad de prospectores audaces, cada uno con habilidades y herramientas especiales. Tanto si te pones en los zapatos de un piloto valiente o de un embustero de primera, ¡no hay forma incorrecta de cometer delitos espaciales!\n\nEXPLORA LA DESEMBOCADURA\nLa Desembocadura es un territorio peligroso e impredecible, repleto de amenazas mortales y tesoros más allá de tu imaginación. Navega a través de tormentas cósmicas, combate alimañas espaciales y saquea alijos perdidos en ruinas alienígenas para obtener botín. Solo recuerda ser más rápido que los demás prospectores, ¡o volverás a casa con las manos vacías!",
@@ -59927,8 +59278,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 2.2,
-      "ratingCount": 17,
+      "rating": 2.3,
+      "ratingCount": 18,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -61357,7 +60708,7 @@
           "recommended": "Micrófono integrado"
         }
       ],
-      "maxInstallSize": 56550694912,
+      "maxInstallSize": 57009897472,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/world-of-warships-legends/C1ZT6N30L1WH"
     },
