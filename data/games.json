@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-08-04T10:25:11.103Z",
+  "updatedAt": "2026-08-05T10:21:13.074Z",
   "market": "ES",
   "language": "es-ES",
   "totalGames": 826,
   "counts": {
     "essential": 129,
-    "premium": 572,
+    "premium": 579,
     "pc": 516,
     "ultimate": 733,
     "total": 826
@@ -776,7 +776,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.7,
-      "ratingCount": 43,
+      "ratingCount": 44,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -806,7 +806,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 4743159808,
+      "maxInstallSize": 4742164480,
       "hasAddOns": false,
       "storeUrl": "https://www.xbox.com/es-es/games/store/absolum/9NR6NJ401NBS"
     },
@@ -2317,8 +2317,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 3.1,
-      "ratingCount": 101,
+      "rating": 3.2,
+      "ratingCount": 102,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -5271,8 +5271,8 @@
         "ultimate"
       ],
       "platform": "pc",
-      "price": 69.99,
-      "msrp": 69.99,
+      "price": 29.99,
+      "msrp": 29.99,
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
@@ -5670,6 +5670,7 @@
       ],
       "tiers": [
         "pc",
+        "premium",
         "ultimate"
       ],
       "platform": "both",
@@ -6034,7 +6035,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.5,
-      "ratingCount": 432,
+      "ratingCount": 433,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -6698,8 +6699,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 5,
-      "ratingCount": 3,
+      "rating": 3.8,
+      "ratingCount": 34,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -7179,7 +7180,7 @@
           "recommended": "Nvidia GT 730, Intel UHD 620, or better"
         }
       ],
-      "maxInstallSize": 2579628032,
+      "maxInstallSize": 2581450752,
       "hasAddOns": false,
       "storeUrl": "https://www.xbox.com/es-es/games/store/black-jacket/9NTXGKBW2HSM"
     },
@@ -7839,6 +7840,7 @@
       ],
       "tiers": [
         "pc",
+        "premium",
         "ultimate"
       ],
       "platform": "both",
@@ -10315,7 +10317,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 2.3,
-      "ratingCount": 216,
+      "ratingCount": 217,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -15773,7 +15775,7 @@
           "recommended": "8 GB"
         }
       ],
-      "maxInstallSize": 27656826880,
+      "maxInstallSize": 27657105408,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/disney-dreamlight-valley/9NSF0BGH8D86"
     },
@@ -15981,7 +15983,7 @@
           "recommended": "2 GB"
         }
       ],
-      "maxInstallSize": 1628495872,
+      "maxInstallSize": 1619468288,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/dome-keeper/9P8XKV2D5DZ5"
     },
@@ -16989,7 +16991,7 @@
           "recommended": "Micrófono integrado"
         }
       ],
-      "maxInstallSize": 28857946112,
+      "maxInstallSize": 28857671680,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/dragon-ball-xenoverse-2/BX03760D0QGN"
     },
@@ -17442,7 +17444,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 74487242752,
+      "maxInstallSize": 74479992832,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/ea-sports-fc-26-para-xbox-one/9NK13T4QFPQW"
     },
@@ -17506,7 +17508,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 82504175616,
+      "maxInstallSize": 82503020544,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/ea-sports-fc-26-para-xbox-series-x-s/9P9FTXPKQ35P"
     },
@@ -18171,6 +18173,7 @@
       ],
       "tiers": [
         "pc",
+        "premium",
         "ultimate"
       ],
       "platform": "both",
@@ -22485,7 +22488,7 @@
     {
       "id": "9N3DWR830CVN",
       "title": "FOR HONOR - Standard Edition",
-      "description": "¡Juega gratis del 7/23 al 8/4! Además, si decides comprar el juego podrás conservar tu progreso.\n\nEste juego está optimizado para la próxima generación (resolución 4K, 60 FPS para Xbox Series X / 1080p para Xbox Series S). Puedes usar la función de guardado multiplataforma: tu perfil, incluyendo progresos, todas las compras e inventario, se compartirá de manera automática.\n\nDescubre For Honor, un nuevo y revolucionario juego de acción cuerpo a cuerpo desarrollado por Ubisoft Montreal en colaboración con otros estudios de Ubisoft.\n\n• CONTROLA A GUERREROS ÚNICOS\nElige tu favorito entre valientes Caballeros, brutales Vikingos y mortíferos Samuráis con armas y estilos de juego únicos.\n\n• UNA CAMPAÑA MEMORABLE\nAtaca castillos y fortalezas y enfréntate a jefes en intensos duelos para asegurar tu supervivencia.\n\n• CONQUISTA ENEMIGOS SOLO O CON AMIGOS\nFor Honor presenta un atractivo modo individual, una campaña offline y un emocionante multijugador.\n\n• INNOVADOR SISTEMA DE CONTROL \"ART OF BATTLE\". \nEmpuña tu arma y siente la potencia de cada golpe.\n\nSe requiere una conexión a internet, una cuenta de Ubisoft, una cuenta de Microsoft y Game Pass Ultimate o Core (suscripciones vendidas por separado) para acceder a las funciones/multijugador en línea.",
+      "description": "DOMINA THE ART OF BATTLE\r\nSiente la potencia de cada golpe con el sistema de control The Art of Battle. Blande el arma de acuerdo con tu estilo: el veloz Asesino, el potente Pesado, el versátil Vanguardia o el técnico Híbrido.\r\n\r\nUN JUEGO SIN FIN\r\n¡Disfruta de una experiencia en constante evolución con más de 30 héroes, cinco facciones, 18 mapas, eventos estacionales, miles de objetos, juego multiplataforma y mucho más! \r\n\r\nPERSONALIZA TUS HÉROES\r\n¡Desbloquea recompensas y personaliza tus héroes con miles de armas, emblemas y más!\r\n\r\nUNA CAMPAÑA MEMORABLE\r\nAtaca castillos y fortalezas en combates descomunales y enfréntate a jefes en intensos duelos.\r\n\r\n\r\n¡Elige la Ultimate Edition, con 12 héroes adicionales para disfrutar de la mejor experiencia!",
       "shortDescription": "Lucha solo o con amigos en For Honor, un juego de lucha cuerpo a cuerpo en tercera persona basado en héroes. Entra en el caos de la guerra como caballero, vikingo, samurái, Wu Lin o forastero. Lucha en brutales modos JcJ y por equipos, o vive una apasionante campaña.",
       "developer": "",
       "publisher": "Ubisoft",
@@ -22508,11 +22511,11 @@
         "ultimate"
       ],
       "platform": "console",
-      "price": 4.49,
+      "price": 29.99,
       "msrp": 29.99,
       "currency": "EUR",
-      "hasDiscount": true,
-      "discountPercent": 85,
+      "hasDiscount": false,
+      "discountPercent": 0,
       "rating": 2.8,
       "ratingCount": 274,
       "ageRating": 18,
@@ -22705,7 +22708,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.7,
-      "ratingCount": 4424,
+      "ratingCount": 4427,
       "ageRating": 12,
       "pegiRating": "Supervisión parental recomendada",
       "pegiDescription": "Supervisión parental recomendada",
@@ -22735,7 +22738,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 98880389120,
+      "maxInstallSize": 98799886336,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/fortnite/BT5P2X999VH2"
     },
@@ -22866,7 +22869,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.1,
-      "ratingCount": 309,
+      "ratingCount": 310,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -23611,7 +23614,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.6,
-      "ratingCount": 11248,
+      "ratingCount": 11249,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -23917,7 +23920,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.4,
-      "ratingCount": 4639,
+      "ratingCount": 4640,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -24717,7 +24720,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 169539432448,
+      "maxInstallSize": 177247539200,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/genshin-impact/9N7TFFRRZCC9"
     },
@@ -25548,6 +25551,7 @@
       ],
       "tiers": [
         "pc",
+        "premium",
         "ultimate"
       ],
       "platform": "both",
@@ -25556,8 +25560,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 3.8,
-      "ratingCount": 109,
+      "rating": 3.9,
+      "ratingCount": 110,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -26357,7 +26361,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.9,
-      "ratingCount": 110,
+      "ratingCount": 112,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -26498,7 +26502,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.7,
-      "ratingCount": 596,
+      "ratingCount": 597,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -26765,7 +26769,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.5,
-      "ratingCount": 61,
+      "ratingCount": 62,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -27852,11 +27856,11 @@
         "ultimate"
       ],
       "platform": "both",
-      "price": 11.24,
+      "price": 74.99,
       "msrp": 74.99,
       "currency": "EUR",
-      "hasDiscount": true,
-      "discountPercent": 85,
+      "hasDiscount": false,
+      "discountPercent": 0,
       "rating": 4.4,
       "ratingCount": 238,
       "ageRating": 12,
@@ -28705,7 +28709,7 @@
       "hasDiscount": true,
       "discountPercent": 40,
       "rating": 4.2,
-      "ratingCount": 907,
+      "ratingCount": 908,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -29704,7 +29708,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.3,
-      "ratingCount": 163,
+      "ratingCount": 164,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -29992,7 +29996,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.9,
-      "ratingCount": 694,
+      "ratingCount": 695,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -32115,7 +32119,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.6,
-      "ratingCount": 164,
+      "ratingCount": 165,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -33456,7 +33460,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 2.1,
-      "ratingCount": 692,
+      "ratingCount": 693,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -33589,7 +33593,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.7,
-      "ratingCount": 11305,
+      "ratingCount": 11306,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -33651,7 +33655,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.7,
-      "ratingCount": 51401,
+      "ratingCount": 51410,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -33692,7 +33696,7 @@
           "recommended": "Mouse integrado"
         }
       ],
-      "maxInstallSize": 80863232,
+      "maxInstallSize": 81702912,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/microsoft-solitaire-collection/9WZDNCRFHWD2"
     },
@@ -34034,7 +34038,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4,
-      "ratingCount": 15725,
+      "ratingCount": 15732,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -34229,7 +34233,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.5,
-      "ratingCount": 61304,
+      "ratingCount": 61313,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -34361,6 +34365,7 @@
       ],
       "tiers": [
         "pc",
+        "premium",
         "ultimate"
       ],
       "platform": "both",
@@ -34530,7 +34535,7 @@
       "hasDiscount": true,
       "discountPercent": 10,
       "rating": 3.2,
-      "ratingCount": 40,
+      "ratingCount": 41,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -35114,6 +35119,7 @@
       ],
       "tiers": [
         "pc",
+        "premium",
         "ultimate"
       ],
       "platform": "pc",
@@ -36046,8 +36052,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 2.1,
-      "ratingCount": 18,
+      "rating": 2.3,
+      "ratingCount": 19,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -36636,7 +36642,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.4,
-      "ratingCount": 117,
+      "ratingCount": 118,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -37509,8 +37515,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 3.8,
-      "ratingCount": 764,
+      "rating": 3.9,
+      "ratingCount": 765,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -38609,7 +38615,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 117580238848,
+      "maxInstallSize": 123036663808,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/overwatch/C1C4DZJPBC2V"
     },
@@ -38798,7 +38804,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.6,
-      "ratingCount": 838,
+      "ratingCount": 839,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -40349,7 +40355,7 @@
           "recommended": "Controladora de Xbox"
         }
       ],
-      "maxInstallSize": 1657356288,
+      "maxInstallSize": 1691381760,
       "hasAddOns": false,
       "storeUrl": "https://www.xbox.com/es-es/games/store/plateup/9P2HHT3VS7MP"
     },
@@ -40466,6 +40472,7 @@
       ],
       "tiers": [
         "pc",
+        "premium",
         "ultimate"
       ],
       "platform": "both",
@@ -42734,7 +42741,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.3,
-      "ratingCount": 121,
+      "ratingCount": 122,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -44135,7 +44142,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 50226561024,
+      "maxInstallSize": 50397777920,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/rocket-league/C125W9BG2K0V"
     },
@@ -45228,8 +45235,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 3.9,
-      "ratingCount": 17,
+      "rating": 3.8,
+      "ratingCount": 19,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -47917,7 +47924,7 @@
           "recommended": "Controladora de Xbox"
         }
       ],
-      "maxInstallSize": 4988403712,
+      "maxInstallSize": 5101772800,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/starseeker-astroneer-expeditions-game-preview/9NTZH69PZSH0"
     },
@@ -49192,8 +49199,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 3.7,
-      "ratingCount": 41,
+      "rating": 3.8,
+      "ratingCount": 42,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -49410,8 +49417,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 2.4,
-      "ratingCount": 18,
+      "rating": 2.5,
+      "ratingCount": 19,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -50067,7 +50074,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.6,
-      "ratingCount": 189,
+      "ratingCount": 190,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -51892,7 +51899,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.7,
-      "ratingCount": 186,
+      "ratingCount": 187,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -52611,7 +52618,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.6,
-      "ratingCount": 16,
+      "ratingCount": 17,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -52666,7 +52673,7 @@
           "recommended": "8 GB"
         }
       ],
-      "maxInstallSize": 4210147328,
+      "maxInstallSize": 4210122752,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/the-planet-crafter/9N072VV7MFK7"
     },
@@ -56631,7 +56638,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 47441936384,
+      "maxInstallSize": 47442010112,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/valorant/9N1NLJK9SKRN"
     },
@@ -56915,11 +56922,11 @@
         "ultimate"
       ],
       "platform": "console",
-      "price": 10.49,
+      "price": 69.99,
       "msrp": 69.99,
       "currency": "EUR",
-      "hasDiscount": true,
-      "discountPercent": 85,
+      "hasDiscount": false,
+      "discountPercent": 0,
       "rating": 3.9,
       "ratingCount": 17,
       "ageRating": 12,
@@ -57445,7 +57452,7 @@
           "recommended": "Mouse integrado"
         }
       ],
-      "maxInstallSize": 77686140928,
+      "maxInstallSize": 77688987648,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/war-thunder/BX1DTCBD1HXJ"
     },
@@ -60025,7 +60032,7 @@
       "hasDiscount": true,
       "discountPercent": 75,
       "rating": 4.4,
-      "ratingCount": 110,
+      "ratingCount": 111,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -60378,8 +60385,8 @@
       "shortDescription": "World of Tanks Modern Armor te pone al mando de más de 1000 carros modernos y legendarios. Desafíate a ti mismo en estratégicas batallas por equipos de 15 contra 15. Selecciona las batallas de la Guerra Fría si buscas acción trepidante y moderna o elige las batallas de la Segunda Guerra Mundial si prefieres combates tácticos y pausados.  ",
       "developer": "Wargaming.net",
       "publisher": "Wargaming.net",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.48042.67082279703731056.4323dd94-13a8-413a-af46-bf706bbf13ed.2dc125e0-d573-4fc9-ac1c-a435ffb973a9",
-      "heroImage": "https://store-images.s-microsoft.com/image/apps.28871.67082279703731056.4323dd94-13a8-413a-af46-bf706bbf13ed.6ff58d69-162b-499b-b48c-67662d24a4f7",
+      "imageUrl": "https://store-images.s-microsoft.com/image/apps.50747.67082279703731056.70780ed5-0f1c-4406-ad81-b5de60c2500e.d57120f5-5621-482a-8ac2-b9b479ed0c68",
+      "heroImage": "https://store-images.s-microsoft.com/image/apps.45084.67082279703731056.84cd89a7-80ef-4f91-9d87-815ae664085b.45510c6f-f5f5-4440-804b-4fbc15e9beea",
       "screenshots": [
         "https://store-images.s-microsoft.com/image/apps.17367.67082279703731056.4323dd94-13a8-413a-af46-bf706bbf13ed.aa03f5fa-ff2f-48b0-a150-847b272b6126",
         "https://store-images.s-microsoft.com/image/apps.30309.67082279703731056.4323dd94-13a8-413a-af46-bf706bbf13ed.94a6f3f3-a1c8-41d2-ac75-84e6ab8c8280",
