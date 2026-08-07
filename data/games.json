@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-08-06T10:23:09.463Z",
+  "updatedAt": "2026-08-07T08:44:34.467Z",
   "market": "ES",
   "language": "es-ES",
-  "totalGames": 826,
+  "totalGames": 825,
   "counts": {
     "essential": 129,
-    "premium": 579,
-    "pc": 516,
-    "ultimate": 733,
-    "total": 826
+    "premium": 578,
+    "pc": 515,
+    "ultimate": 732,
+    "total": 825
   },
   "categories": [
     "Acción y aventura",
@@ -29,104 +29,6 @@
     "Simulación"
   ],
   "games": [
-    {
-      "id": "9NPDN9R45JX4",
-      "title": "1000xRESIST",
-      "description": "1000xRESIST es una emocionante aventura de ciencia ficción con tres nominaciones a los premios IGF. En una época futura, dentro de 1000 años, una enfermedad extraterrestre asola la humanidad y obliga a las supervivientes a vivir bajo tierra. Allí, eres Analista y te dedicas a servir a la Holomadre con la mejor predisposición. Sin embargo, todo cambia cuando descubres un antiguo secreto que pone en entredicho toda tu existencia.\n\nEL FIN DE LA HUMANIDAD\nEn un futuro cercano, la humanidad descubre que no está sola en el universo cuando sufre la invasión de unos gigantescos y misteriosos seres a los que llama «ocupantes».\nNo son hostiles, pero eso no importa; su llegada supone una sentencia de muerte. La humanidad se extingue al cabo de pocos meses debido a una enfermedad que les ocupantes han traído a nuestro planeta.\nPero hay una superviviente: una adolescente llamada Iris que, por motivos desconocidos, resulta ser inmune a esa afección.\n\nUNA SOCIEDAD RENACIDA A SU IMAGEN Y SEMEJANZA\nMil años después, Iris ha dado a luz a toda una sociedad formada exclusivamente por clones suyos, y queda patente que no solo es inmune, sino también inmortal.\nLlama a las clones «hermanas», y ellas la llaman «Holomadre».\nA diferencia de la Holomadre, las hermanas sí son vulnerables. Llevan puesta una máscara en todo momento para no contagiarse incluso dentro del Vergel, el búnker subterráneo en el que se refugian. Y ni siquiera allí viven en paz, ya que temen que les ocupantes ataquen en cualquier momento.\nMientras ellas viven en el búnker, la Holomadre reside en unas instalaciones independientes junto al frente de batalla. El sueño compartido de todas las hermanas es, algún día, coger el tren y unirse a ella en la lucha contra les ocupantes.\n\nREVIVE SUS RECUERDOS\nA cada hermana se le asigna una función dentro del Vergel, pero hay seis de ellas que desempeñan un papel especial.\nDirectora: Jefa de administración y supervisora del Vergel\nPium Pium Fuego: Jefa del ejército\nDocta: Jefa de preservación del conocimiento\nMecánica: Jefa de ingeniería\nSanitaria: Jefa de medicina y clonación\nY tú, la nueva Analista.\nTu puesto es único, ya que tienes el inmenso privilegio de revivir e interpretar los recuerdos de la Holomadre. Para hacerlo, debes entrar en la «comunión», un proceso facilitado por el secretario, tu IA acompañante.\nAl principio del juego, estás ilusionada y deseando embarcarte en tu primera comunión.\n\nSOBREPONTE A UNA MENTIRA CENTENARIA\nPero hay algo que no marcha bien.\nTu hermana más querida, Mecánica, te revela una información muy delicada. Al parecer, os han mentido. La Holomadre no es quien dice ser.\nLas palabras de Mecánica te cambian la vida. Sacuden los cimientos de tu existencia y te hacen dudar de todo lo que sabías y pensabas hasta ese momento.\nPor eso, cuando ejecutan a Mecánica por traición, sabes que tienes el deber de averiguar la verdad.\n\nDESCUBRE LA VERDAD\nRebusca entre los recuerdos de la Holomadre.\nExplora los momentos más relevantes de su vida, desde el instituto hasta la llegada de les ocupantes, pasando por la creación del Vergel y el nacimiento de las primeras hermanas.\nSalta de momento en momento, avanza y retrocede en el tiempo, intenta resolver los rompecabezas y accede a secretos y zonas prohibidas.\nCuando no estás en comunión, puedes explorar el Vergel. Este inmenso centro subterráneo no solo alberga tu hogar y el de tus hermanas, sino que es el lugar perfecto para hablar con otros personajes y descubrir cosas nuevas.\nAverigua la verdad y recupera tu legado.\n\nUNA HISTORIA COMO NINGUNA\nExperimenta cambios de perspectiva literales y metafóricos en un juego que combina la aventura en tercera persona, la novela visual y los paseos en primera persona mientras te sorprende con giros y revelaciones para que te cuestiones todo lo que creías saber.\nEl juego bebe de varias fuentes de inspiración, entre ellas los juegos de Yoko Taro (NieR:Automata), los anime de Satoshi Kon (Perfect Blue) y Naoko Yamada (A Silent Voice), e incluso la dramaturgia de Robert Wilson (Einstein en la playa). 1000xRESIST cuenta su historia como solo un videojuego puede hacerlo, pero, al mismo tiempo, consigue algo innovador: incorporar a la narración interactiva ideas propias del teatro, el cine, la danza y el arte interpretativo.\n\nDIÁLOGOS CON DOBLAJE\nEl juego cuenta con 15 000 líneas de diálogo dobladas a lo largo de sus 10 horas de juego. Disfruta del talento del elenco de actores asiático-canadienses y de la increíble banda sonora creada por dos compositores.\n\nSOBRE EL ESTUDIO DE DESARROLLO\n1000xRESIST es obra de sunset visitor 斜陽過客, un estudio independiente de Vancouver (Canadá) especializado en contar historias diversas desde la ficción especulativa. Somos un grupo formado en su mayoría por creadores y creadoras asiático-canadienses con una década de experiencia en danza, música, cine, artes visuales y nuevos medios. Aplicamos nuestros conocimientos y experiencia en las artes experimentales a los medios interactivos.",
-      "shortDescription": "1000xRESIST es una emocionante aventura de ciencia ficción. En una época futura, una enfermedad alienígena te obliga a vivir bajo tierra. Eres Analista y te dedicas a servir a la Holomadre hasta que, un día, descubres un impactante secreto que lo cambia todo. ",
-      "developer": "sunset visitor 斜陽過客",
-      "publisher": "Fellow Traveller",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.42712.13724740810259939.b66dd818-9d75-4097-b510-7e4f8f43131a.ac32cda4-2fd9-4049-a090-966d3ace3e22",
-      "heroImage": "https://store-images.s-microsoft.com/image/apps.38663.13724740810259939.b66dd818-9d75-4097-b510-7e4f8f43131a.17207052-a7ae-4ad3-afaa-030774844c4d",
-      "screenshots": [
-        "https://store-images.s-microsoft.com/image/apps.65229.13724740810259939.b66dd818-9d75-4097-b510-7e4f8f43131a.110cc837-4226-4730-8d4c-e36a920cda42",
-        "https://store-images.s-microsoft.com/image/apps.10765.13724740810259939.b66dd818-9d75-4097-b510-7e4f8f43131a.e996b78c-ced3-43d6-bef8-bd23af4ca86a",
-        "https://store-images.s-microsoft.com/image/apps.43290.13724740810259939.b66dd818-9d75-4097-b510-7e4f8f43131a.829052de-11d7-4fec-99a7-badcfe1024c8",
-        "https://store-images.s-microsoft.com/image/apps.62424.13724740810259939.b66dd818-9d75-4097-b510-7e4f8f43131a.1d3fe248-fdcf-4179-9047-30f52d40cb91"
-      ],
-      "videoUrl": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftassets/5409607a-9799-47a3-9150-2319d25c8403-AVS.m3u8?packagedStreaming=true",
-      "videoCaption": "1000xRESIST Trailer",
-      "releaseDate": "2025-11-04",
-      "categories": [
-        "Acción y aventura"
-      ],
-      "tiers": [
-        "pc",
-        "premium",
-        "ultimate"
-      ],
-      "platform": "both",
-      "price": 19.99,
-      "msrp": 19.99,
-      "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
-      "rating": 2.2,
-      "ratingCount": 46,
-      "ageRating": 16,
-      "pegiRating": "PEGI 16",
-      "pegiDescription": "Apropiado a partir de 16 años",
-      "interactiveDescriptions": [],
-      "capabilities": [
-        "4K Ultra HD",
-        "Un jugador",
-        "Optimizado para Xbox Series X|S",
-        "Mouse y teclado de la consola",
-        "Logros de Xbox",
-        "Cosas guardadas en la nube de Xbox",
-        "Xbox Play Anywhere"
-      ],
-      "systemRequirements": [
-        {
-          "title": "SO",
-          "minimum": "Windows 10 version 18362.0 or higher",
-          "recommended": "Windows 10 version 18362.0 or higher"
-        },
-        {
-          "title": "Arquitectura",
-          "minimum": "x64",
-          "recommended": "x64"
-        },
-        {
-          "title": "Gráficos",
-          "minimum": "GTX 1650 3GB VRAM",
-          "recommended": "GTX 1060 6GB VRAM"
-        },
-        {
-          "title": "Procesador",
-          "minimum": "Intel Core i5",
-          "recommended": "Intel Core i7"
-        },
-        {
-          "title": "Memoria",
-          "minimum": "8 GB",
-          "recommended": "16 GB"
-        },
-        {
-          "title": "Memoria de vídeo",
-          "minimum": "4 GB",
-          "recommended": "6 GB"
-        },
-        {
-          "title": "Teclado",
-          "minimum": "",
-          "recommended": "Teclado integrado"
-        },
-        {
-          "title": "Mouse",
-          "minimum": "",
-          "recommended": "Mouse integrado"
-        },
-        {
-          "title": "Controladora",
-          "minimum": "",
-          "recommended": "Controladora de Xbox"
-        }
-      ],
-      "maxInstallSize": 8615550976,
-      "hasAddOns": false,
-      "storeUrl": "https://www.xbox.com/es-es/games/store/1000xresist/9NPDN9R45JX4"
-    },
     {
       "id": "9P8LR42PTRGJ",
       "title": "33 Immortals",
@@ -1291,7 +1193,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.9,
-      "ratingCount": 352,
+      "ratingCount": 353,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -3068,7 +2970,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.7,
-      "ratingCount": 21106,
+      "ratingCount": 21108,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -4223,7 +4125,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.9,
-      "ratingCount": 306,
+      "ratingCount": 305,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -4986,7 +4888,7 @@
           "recommended": "2 GB"
         }
       ],
-      "maxInstallSize": 3075182592,
+      "maxInstallSize": 3082752000,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/astroneer/9NBLGGH43KZB"
     },
@@ -5649,20 +5551,20 @@
     {
       "id": "9MWXF3SRD7QN",
       "title": "BALL x PIT",
-      "description": "*** The Shadow Update ***\n\nLa actualización Sombría de BALL x PIT añade nuevas bolas, un edificio nuevo, nuevos personajes y pasivas nuevas a tu roguelite de pasar horas y horas viendo bolas rebotar preferido.\n\nEntra en faena con un nuevo personaje: un minero llamado el Tunelador, cuyas bolas se teletransportan por la pantalla. Junto con él hace acto de presencia otra heroína nueva: la Sigilosa, cuya presencia pasa inadvertida para los enemigos a expensas de su salud y daño.\n\nLa actualización Sombría también aporta más de 10 bolas nuevas con las que jugar. La bola Segadora es capaz de eliminar al instante a un enemigo, la bola Tiempo suelta una trampa temporal que frena a los enemigos a su alcance, la bola Teletransporte se desplaza a un lugar distinto del campo con cada golpe y la bola Toxina, además de ralentizar y causar daño a los enemigos, puede llegar a paralizarlos. Pero hasta aquí podemos leer; el resto tendrás que descubrirlo por tu cuenta.\n\nEquípate la nueva pasiva Flecha del destino para que los proyectiles no te hagan daño y les lances bolas bebé como represalia. Si no, equípate la pasiva Estoque de metal, con la que causarás un porcentaje de daño por cada bola bebé y enemigo en el campo. Estas son solo algunas de las nuevas pasivas que encontrarás en esta actualización.\n\nAl volver a tu base, el nuevo edificio Salón de gremio te permitirá sustituir las mejoras que ya hayas establecido para tus personajes.\n\n***\n\nBALL x PIT es un trepidante roguelite de fantasía en el que tus héroes deberán encontrar las bolas para sumergirse en un foso de monstruos aparentemente sin fondo. Crea munición arcana y recursos para encontrar tesoros y recluta a héroes adicionales que te ayuden en tu peligrosa búsqueda.\n\nBolabilonia ha caído. Tras la aniquilación de la gran ciudad a causa de un fenómeno meteórico totalmente inesperado, lo único que queda es un siniestro y gigantesco foso. A la tumba de esta urbe acude toda clase de cazadores de tesoros en busca de fortunas, sondeando las profundidades en busca de las riquezas desperdigadas de Bolabilonia. Pero son pocos los que regresan.\n\nEl foso acoge a ejércitos de criaturas despiadadas, empeñadas en acabar con tu misión antes incluso de que comience. Ármate de un arsenal cada vez mayor de proyectiles mágicos y ábrete paso a través de múltiples niveles con obstáculos cada vez más desafiantes, con el fin de hacerte con los premios definitivos y reconstruir Nueva Bolabilonia.\n\nFusiona tus bolas\nEl sistema de fusión de bolas incita a que experimentes con más de 60 bolas aleatorias que podrás equipar y combinar a lo largo de tu aventura. Descubre combinaciones superpotentes y sinergias inesperadas entre cientos de resultados posibles.\n\nConstruye Nueva Bolabilonia\n¡Expande Nueva Bolabilonia con más de 70 edificios únicos que mejoran la jugabilidad y desbloquean otros potenciadores, nuevos personajes y mucho más! Conforme crezca tu comunidad, asigna tareas automatizadas a los héroes que se queden en la superficie para que sigan obteniendo recursos mientras tú te adentras en el pozo.\n\nDescubre nuevos confines\nEnfréntate a legiones de enemigos de lo más variopintas dentro del foso. Lucha en desiertos áridos, cavernas heladas, bosques salvajes y mucho más. Cada región presenta sus propios peligros, además de oleadas de enemigos cada vez más desafiantes y poderosos jefes que ocupan toda la pantalla.\n\nRecluta a otros cazadores\nA medida que explores el foso, encontrarás a otros cazadores de tesoros ávidos de aportar sus habilidades a tu expedición. Cada personaje tiene mecánicas únicas y mejorables que cambiarán por completo la jugabilidad. ¡La experimentación y la adaptación son cruciales para el triunfo de Nueva Bolabilonia!",
+      "description": "*** The Naturalist Update ***\n\nLa actualización Naturalista es la última actualización gratis para BALL x PIT y ofrece una selección de bolas y pasivas para tu roguelite favorito, además de dos personajes.\n\nEl primer personaje, el Boleador, redobla su potencia de fuego literalmente con el doble de ranuras de bolas con las que crear tu arsenal, pero a cambio carece completamente de pasivas. Mientras, en el extremo opuesto, tenemos al Acumulador, que solo tiene dos ranuras para bolas pero lo compensa con el doble de ranuras de pasivas, permitiendo que las evoluciones de objetos hagan su parte.\n\nLa actualización Naturalista añade además 11 bolas a la mezcla. Los bichos eléctricos iluminan la batalla con una luciérnaga por cada rebote que busca al enemigo más fuerte y fríe a todos los cercanos con un rayo. La bola taladro ataca a tus enemigos por detrás, atravesándolos y causando más daño por el camino. La armagedón hace caer una tromba de meteoritos al alcanzar a un enemigo. Y el resto ya las irás descubriendo.\n\nLa actualización Naturalista también añade 5 pasivas nuevas, como la Mancuerna de platino, que recompensa los disparos limpios aumentando el daño de tus bolas hasta que chocan con el fondo de la pantalla. El Martillo ignominioso mantiene la presión tras los rebotes, haciendo que cualquier bola que golpee una pared o el fondo, alcance inmediatamente a un enemigo con daño reducido. El Detonador remoto crea una oportunidad explosiva con cada eliminación.\n\n¡Todo esto y más te espera en la actualización Naturalista!\n\n***\n\nBALL x PIT es un trepidante roguelite de fantasía en el que tus héroes deberán encontrar las bolas para sumergirse en un foso de monstruos aparentemente sin fondo. Crea munición arcana y recursos para encontrar tesoros y recluta a héroes adicionales que te ayuden en tu peligrosa búsqueda.\n\nBolabilonia ha caído. Tras la aniquilación de la gran ciudad a causa de un fenómeno meteórico totalmente inesperado, lo único que queda es un siniestro y gigantesco foso. A la tumba de esta urbe acude toda clase de cazadores de tesoros en busca de fortunas, sondeando las profundidades en busca de las riquezas desperdigadas de Bolabilonia. Pero son pocos los que regresan.\n\nEl foso acoge a ejércitos de criaturas despiadadas, empeñadas en acabar con tu misión antes incluso de que comience. Ármate de un arsenal cada vez mayor de proyectiles mágicos y ábrete paso a través de múltiples niveles con obstáculos cada vez más desafiantes, con el fin de hacerte con los premios definitivos y reconstruir Nueva Bolabilonia.\n\nFusiona tus bolas\nEl sistema de fusión de bolas incita a que experimentes con más de 60 bolas aleatorias que podrás equipar y combinar a lo largo de tu aventura. Descubre combinaciones superpotentes y sinergias inesperadas entre cientos de resultados posibles.\n\nConstruye Nueva Bolabilonia\n¡Expande Nueva Bolabilonia con más de 70 edificios únicos que mejoran la jugabilidad y desbloquean otros potenciadores, nuevos personajes y mucho más! Conforme crezca tu comunidad, asigna tareas automatizadas a los héroes que se queden en la superficie para que sigan obteniendo recursos mientras tú te adentras en el pozo.\n\nDescubre nuevos confines\nEnfréntate a legiones de enemigos de lo más variopintas dentro del foso. Lucha en desiertos áridos, cavernas heladas, bosques salvajes y mucho más. Cada región presenta sus propios peligros, además de oleadas de enemigos cada vez más desafiantes y poderosos jefes que ocupan toda la pantalla.\n\nRecluta a otros cazadores\nA medida que explores el foso, encontrarás a otros cazadores de tesoros ávidos de aportar sus habilidades a tu expedición. Cada personaje tiene mecánicas únicas y mejorables que cambiarán por completo la jugabilidad. ¡La experimentación y la adaptación son cruciales para el triunfo de Nueva Bolabilonia!",
       "shortDescription": "BALL x PIT es un roguelite de supervivencia en el que hay que romper ladrillos, fusionar bolas y construir bases. Vence a enemigos con bolas que rebotan y peina el foso para ampliar tu hogar, generar recursos y reclutar a héroes.",
       "developer": "Kenny Sun",
       "publisher": "Devolver Digital",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.50016.13835016463632115.ff511f8a-9163-4f5c-ad59-a2477b07361c.7e83314e-d950-4107-bc87-9ea65c5e56a0",
-      "heroImage": "https://store-images.s-microsoft.com/image/apps.21687.13835016463632115.ff511f8a-9163-4f5c-ad59-a2477b07361c.dd7e6172-99c9-4db7-8980-9a86a7f79d36",
+      "imageUrl": "https://store-images.s-microsoft.com/image/apps.65421.13835016463632115.666396b5-f6e8-4a0a-ae87-81ee6b77084a.9ca9b47c-fe5e-416f-b0d8-585389838713",
+      "heroImage": "https://store-images.s-microsoft.com/image/apps.59747.13835016463632115.666396b5-f6e8-4a0a-ae87-81ee6b77084a.b20a80cf-1b8f-43b5-8253-c51070bacef7",
       "screenshots": [
         "https://store-images.s-microsoft.com/image/apps.51.13835016463632115.e71b68fd-01a3-4f56-bac2-9c7e69d8f4f9.0c3755c9-b597-41bd-8305-8af446532e44",
         "https://store-images.s-microsoft.com/image/apps.48916.13835016463632115.e71b68fd-01a3-4f56-bac2-9c7e69d8f4f9.49498df1-bcf6-476f-994c-f3d722f053b0",
         "https://store-images.s-microsoft.com/image/apps.57257.13835016463632115.e71b68fd-01a3-4f56-bac2-9c7e69d8f4f9.3f6c9cbf-8f19-4c09-930c-b31d91c2cfa1",
         "https://store-images.s-microsoft.com/image/apps.60520.13835016463632115.e71b68fd-01a3-4f56-bac2-9c7e69d8f4f9.de780a6b-f036-47e8-a7c7-81034a4660da"
       ],
-      "videoUrl": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftassets/4c38c82b-c4d4-4a40-9258-dd4220b46f2d-AVS.m3u8?packagedStreaming=true",
-      "videoCaption": "BALL x PIT - Reveal Trailer",
+      "videoUrl": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftassets/1d6c109b-de61-422a-8f2f-6ebf58ef7066-AVS.m3u8?packagedStreaming=true",
+      "videoCaption": "BALL x PIT - Launch Trailer",
       "releaseDate": "2025-10-15",
       "categories": [
         "Acción y aventura",
@@ -5680,7 +5582,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.5,
-      "ratingCount": 90,
+      "ratingCount": 91,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -6035,7 +5937,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.5,
-      "ratingCount": 433,
+      "ratingCount": 434,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -6699,8 +6601,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 3.9,
-      "ratingCount": 42,
+      "rating": 3.8,
+      "ratingCount": 54,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -8313,7 +8215,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.4,
-      "ratingCount": 113,
+      "ratingCount": 114,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -8511,7 +8413,7 @@
           "recommended": "2 GB"
         }
       ],
-      "maxInstallSize": 1996075008,
+      "maxInstallSize": 2009595904,
       "hasAddOns": false,
       "storeUrl": "https://www.xbox.com/es-es/games/store/buckshot-roulette/9P5B8CPQ9S7F"
     },
@@ -9490,7 +9392,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3,
-      "ratingCount": 176,
+      "ratingCount": 177,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -11486,8 +11388,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 2,
-      "ratingCount": 2,
+      "rating": 2.7,
+      "ratingCount": 3,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -14346,7 +14248,7 @@
           "recommended": "Controladora de Xbox"
         }
       ],
-      "maxInstallSize": 18188443648,
+      "maxInstallSize": 18081406976,
       "hasAddOns": false,
       "storeUrl": "https://www.xbox.com/es-es/games/store/descenders/C37XBX7DCBZ0"
     },
@@ -14825,7 +14727,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 213496307712,
+      "maxInstallSize": 213482557440,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/diablo-iv-standard-edition/9N8117TM8JL3"
     },
@@ -16854,7 +16756,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3,
-      "ratingCount": 216,
+      "ratingCount": 217,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -17414,7 +17316,7 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 2.1,
+      "rating": 2.2,
       "ratingCount": 16,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
@@ -22183,8 +22085,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 2.8,
-      "ratingCount": 6,
+      "rating": 2.6,
+      "ratingCount": 7,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -22708,7 +22610,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.7,
-      "ratingCount": 4430,
+      "ratingCount": 4433,
       "ageRating": 12,
       "pegiRating": "Supervisión parental recomendada",
       "pegiDescription": "Supervisión parental recomendada",
@@ -22869,7 +22771,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.1,
-      "ratingCount": 310,
+      "ratingCount": 311,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -22925,7 +22827,7 @@
           "recommended": "Controladora de Xbox"
         }
       ],
-      "maxInstallSize": 168322375680,
+      "maxInstallSize": 170594390016,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/forza-horizon-6-standard-edition/9N431PX143P8"
     },
@@ -22962,7 +22864,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.6,
-      "ratingCount": 1836,
+      "ratingCount": 1837,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -24920,7 +24822,7 @@
           "recommended": "Controladora de Xbox"
         }
       ],
-      "maxInstallSize": 2479706112,
+      "maxInstallSize": 2420740096,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/goals/9PF2ZS4XB4JH"
     },
@@ -25456,7 +25358,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.2,
-      "ratingCount": 803,
+      "ratingCount": 804,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -26361,7 +26263,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.9,
-      "ratingCount": 117,
+      "ratingCount": 122,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -26769,7 +26671,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.5,
-      "ratingCount": 63,
+      "ratingCount": 64,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -26967,7 +26869,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.4,
-      "ratingCount": 567,
+      "ratingCount": 568,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -28709,7 +28611,7 @@
       "hasDiscount": true,
       "discountPercent": 40,
       "rating": 4.2,
-      "ratingCount": 908,
+      "ratingCount": 909,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -33299,7 +33201,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.3,
-      "ratingCount": 16,
+      "ratingCount": 15,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -33655,7 +33557,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.7,
-      "ratingCount": 51414,
+      "ratingCount": 51420,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -33866,7 +33768,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.6,
-      "ratingCount": 554,
+      "ratingCount": 555,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -34038,7 +33940,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4,
-      "ratingCount": 15737,
+      "ratingCount": 15741,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -34233,7 +34135,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.5,
-      "ratingCount": 61324,
+      "ratingCount": 61331,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -34534,8 +34436,8 @@
       "currency": "EUR",
       "hasDiscount": true,
       "discountPercent": 10,
-      "rating": 3.2,
-      "ratingCount": 42,
+      "rating": 3.3,
+      "ratingCount": 44,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -35122,14 +35024,14 @@
         "premium",
         "ultimate"
       ],
-      "platform": "pc",
+      "platform": "both",
       "price": 8.99,
       "msrp": 8.99,
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 3.4,
-      "ratingCount": 12,
+      "rating": 3.6,
+      "ratingCount": 14,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -35138,8 +35040,10 @@
       ],
       "capabilities": [
         "Un jugador",
+        "Optimizado para Xbox Series X|S",
         "Logros de Xbox",
-        "Cosas guardadas en la nube de Xbox"
+        "Cosas guardadas en la nube de Xbox",
+        "Xbox Play Anywhere"
       ],
       "systemRequirements": [
         {
@@ -35153,7 +35057,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 1836036096,
+      "maxInstallSize": 2332323840,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/monsters-are-coming/9PJBKF27C16M"
     },
@@ -38804,7 +38708,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.6,
-      "ratingCount": 840,
+      "ratingCount": 841,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -40392,7 +40296,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 2.7,
-      "ratingCount": 68,
+      "ratingCount": 69,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -41078,12 +40982,12 @@
     {
       "id": "9P1Z43KRNQD4",
       "title": "Quake",
-      "description": "Desarrollado por el galardonado equipo de id Software, Quake® es el innovador shooter en primera persona de fantasía oscura que inspiró los shooters de estilo retro de hoy en día. Ahora puedes disfrutar de la versión auténtica, actualizada y mejorada visualmente del original.\r\n\r\nDisfruta del juego original, mejorado\r\n\r\nDisfruta de la versión original y auténtica de Quake, ahora compatible con resolución 4K y pantalla ancha, con modelados mejorados, iluminación dinámica y coloreada, anti-aliasing, profundidad de campo, la evocadora banda sonora original con el tema de Trent Reznor y mucho más. Nunca ha habido un momento mejor para jugar a Quake.\r\n\r\nEnfréntate a la campaña de fantasía oscura\r\n\r\nEres Ranger, un guerrero armado con un potente arsenal. Enfréntate a caballeros corrompidos, ogros deformes y un ejército de criaturas perversas a lo largo de cuatro dimensiones oscuras que abarcan bases militares infestadas, castillos medievales, mazmorras repletas de lava y catedrales góticas. En estos lugares deberás encontrar cuatro runas mágicas. Solo cuando hayas conseguido las cuatro tendrás el poder para derrotar al mal ancestral que amenaza a toda la humanidad.\r\n\r\nConsigue el juego original y los nuevos packs de expansión\r\n\r\nQuake también incluye los dos packs de expansión originales: “The Scourge of Armagon” y “Dissolution of Eternity”, además de las dos expansiones desarrolladas por el galardonado equipo de MachineGames: “Dimension of the Past” y la inédita “Dimension of the Machine”.\r\n\r\nDescubre la nueva expansión “Dimension of the Machine”\r\n\r\nEn los más oscuros rincones del laberinto se halla el núcleo de lava y acero conocido únicamente como la Máquina. Lucha contra las fuerzas del mal a través del tiempo y el espacio para reunir las runas perdidas, activar la máquina y abrir el portal que oculta la mayor amenaza a los mundos conocidos. Acaba con ella... antes de que nos destruya a todos.\r\n\r\nModo Horde\r\n\r\nDisfruta del nuevo modo Horde y de complementos para Quake, gratis para todos los jugadores. Coge tus armas y adéntrate en el modo Horde: juega en solitario, con amigos online o en multijugador local con pantalla dividida. Desbloquea potentes armas y potenciadores y ábrete paso por infinitas oleadas de monstruos.\r\n\r\nDisfruta del multijugador y cooperativo local y online\r\n\r\nCompleta la campaña original y las expansiones en el modo cooperativo para 4 jugadores online o en pantalla dividida, y compite en combates de estilo retro en partidas para hasta 8 jugadores online o 4 jugadores en pantalla dividida local. Incluye servidores dedicados para partidas online y compatibilidad con P2P para partidas personalizadas. \r\n\r\nDescarga gratis mods y misiones adicionales\r\n\r\nAmplía tu experiencia con mods gratuitos y seleccionados, tanto oficiales como creados por fans, como Quake 64, que ya puede descargarse. Próximamente publicaremos más mods oficiales y creados por la comunidad. \r\n\r\nJuega con amigos mediante juego cruzado\r\n\r\n¡Juega la campaña y todos los packs de expansión en modo cooperativo o enfréntate a tus amigos en partidas multijugador sin importar la plataforma! El juego cruzado es compatible entre PC (con mando), Xbox One, Xbox Series X/S, PS4, PS5 y Nintendo Switch.\r\n\r\nDisfruta de Quake en cualquier parte gracias a xCloud \r\n\r\nJuega a Quake donde quieras con xCloud de Xbox, solo disponible para jugadores con Game Pass Ultimate.\r\n\r\n* La resolución máxima varía según la plataforma.\r\n\r\n\r\n\r\n",
+      "description": "Desarrollado por el galardonado equipo de id Software, Quake™ es el innovador shooter en primera persona de fantasía oscura que inspiró los shooters de estilo retro de hoy en día. Ahora puedes disfrutar de la versión auténtica, actualizada y mejorada visualmente del original.\n\nDisfruta del juego original, mejorado\nDisfruta de la versión original y auténtica de Quake, ahora mejorado con resolución de hasta 4K*, compatibilidad con pantallas anchas, modelos mejorados, una iluminación dinámica y con colores más vivos, antialiasing, profundidad de campo, la fantástica banda sonora original y el emblemático tema compuesto por Trent Reznor y muchas cosas más. Nunca ha habido un momento mejor para jugar a Quake.\n\nEnfréntate a la campaña de fantasía oscura\nEres Ranger, un poderoso guerrero armado con un fantástico arsenal. Enfréntate a caballeros corrompidos, ogros deformes y un ejército de criaturas retorcidas en cuatro siniestras dimensiones con bases militares infestadas, antiguos castillos medievales, mazmorras inundadas de lava y catedrales góticas para dar con cuatro runas mágicas. Solo cuando tengas todas ellas en tus manos obtendrás el poder de derrotar a un mal ancestral que amenaza al conjunto de la humanidad.\n\nConsigue el juego original y nuevos packs de expansión\nQuake viene tanto con los dos packs de expansión originales, “The Scourge of Armagon” y “Dissolution of Eternity”, como con las tres expansiones desarrolladas por el galardonado equipo de MachineGames: “Dimension of the Past,” “Dimension of the Machine” y la nueva “Dawn of the Machine”.\n\nDescubre la nueva expansión “Dawn of the Machine”\nRanger está atrapado en una dimensión ilusoria sin fin, en la que debe revivir los mismos ciclos de violencia durante lo que se le antojan vidas enteras, muriendo miles de veces en un fútil intento de escapar. Agotado, pero decidido a perseverar, ha escuchado rumores sobre un artefacto llamado la Máquina de Pesadilla.\nMás allá de hordas de monstruos retorcidos por una eternidad en los reinos ancestrales se encuentra este artefacto, cuya destrucción, según se cree, acabará con la ilusión y permitirá romper el ciclo de una vez.\n\n\nDisfruta del multijugador y cooperativo local y online\nÁbrete paso luchando por una campaña base de fantasía oscura y sus expansiones en modos de juego online para cuatro jugadores o cooperativo local a pantalla dividida, o, si lo prefieres, compite en combates de puro estilo retro para un máximo de 8 o 4 jugadores (online y en local a pantalla dividida, respectivamente). Con servidores dedicados para el matchmaking online y modos P2P para partidas personalizadas.\n\nDescarga misiones y mods gratuitos adicionales\nAmplía tu experiencia con misiones y mods tanto oficiales como creados por los fans (y supervisados por Bethesda), todos ellos totalmente gratuitos. Incluye Quake 64, que se puede descargar y usar desde ya.\n\nJuega con amigos mediante crossplay\nJuega la campaña y todos los packs de expansión en modo cooperativo o enfréntate a tus amigos en partidas multijugador sin importar la plataforma. \n\n\n*La resolución máxima varía según la plataforma.",
       "shortDescription": "Desarrollado por el galardonado equipo de id Software, Quake® es el innovador shooter en primera persona de fantasía oscura que inspiró los shooters de estilo retro de hoy en día. Ahora puedes disfrutar de la versión auténtica, actualizada y mejorada visualmente del original.",
       "developer": "id Software, Nightdive Studios, MachineGames",
       "publisher": "Bethesda Softworks",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.21484.14497943460299347.3ad06bb4-d442-43a2-99e0-f41399a5b03e.e735bdbc-b062-401b-88e7-653b6859fe81",
-      "heroImage": "https://store-images.s-microsoft.com/image/apps.1853.14497943460299347.3ad06bb4-d442-43a2-99e0-f41399a5b03e.cd82a6c1-63e8-44e3-b84a-174ae43f0d57",
+      "imageUrl": "https://store-images.s-microsoft.com/image/apps.43699.14497943460299347.698189cd-abde-4390-8de0-c7c0eba77ee7.8f2221c4-9de7-4ac8-81f3-dcdd99f73d96",
+      "heroImage": "https://store-images.s-microsoft.com/image/apps.26053.14497943460299347.698189cd-abde-4390-8de0-c7c0eba77ee7.76fcbb8c-5b0c-4713-9b92-67ab2bdda749",
       "screenshots": [
         "https://store-images.s-microsoft.com/image/apps.25600.14497943460299347.3ad06bb4-d442-43a2-99e0-f41399a5b03e.49d737b5-dcd2-48dd-983e-58c140c4be4a",
         "https://store-images.s-microsoft.com/image/apps.17350.14497943460299347.3ad06bb4-d442-43a2-99e0-f41399a5b03e.7557f36f-3a56-467f-922a-d10ec8f6b9a6",
@@ -42741,7 +42645,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.3,
-      "ratingCount": 122,
+      "ratingCount": 123,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -43914,7 +43818,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.2,
-      "ratingCount": 221,
+      "ratingCount": 222,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -44112,7 +44016,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.1,
-      "ratingCount": 1419,
+      "ratingCount": 1420,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -51898,8 +51802,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 3.7,
-      "ratingCount": 187,
+      "rating": 3.8,
+      "ratingCount": 188,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -52617,8 +52521,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 3.6,
-      "ratingCount": 17,
+      "rating": 3.5,
+      "ratingCount": 19,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -53808,8 +53712,8 @@
     {
       "id": "C2N9CS4FS1QR",
       "title": "Tom Clancy's Ghost Recon Wildlands",
-      "description": "Disfruta de la experiencia de shooter militar definitiva, ambientada en un mundo enorme, peligroso y dinámico.\n\nACABA CON EL CÁRTEL\nEn un futuro próximo, Bolivia ha caído en manos de un despiadado cártel de la droga. Lidera a tu equipo de soldados de élite y coordina las incursiones. Pilota drones y helicópteros, y conduce los vehículos más salvajes por carretera y todo tipo de terrenos mientras exploras los impresionantes paisajes de Bolivia.\n\nPERSONALIZA A TU GHOST Y TUS VEHÍCULOS\nCrea tu Ghost desde cero y personaliza tus armas y equipo a partir de una extensa biblioteca que incluye desde diseños tácticos hasta llamativos tatuajes para los brazos. Desplázate por tierra, agua y aire con más de 60 vehículos distintos.\n\nFORMA EQUIPO CON TUS AMIGOS\nCrea tu propio equipo con hasta 3 amigos. También puedes jugar a Ghost War en PvP y librar combates tácticos 4 contra 4 basados en clases.\n\nSe requiere una conexión a internet, una cuenta de Ubisoft, una cuenta de Microsoft y Game Pass Ultimate o Core (suscripciones vendidas por separado) para acceder a las funciones/multijugador en línea.",
-      "shortDescription": "Tom Clancy's Ghost Recon Wildlands es un shooter táctico en tercera persona.\nLidera a tu equipo de élite de Ghosts por un mundo abierto enorme, peligroso y dinámico, e infíltrate para acabar con el mortífero cártel de Santa Blanca y salvar a Bolivia y su pueblo del colapso total.",
+      "description": "DESCUBRE O REDESCUBRE ESTE CLÁSICO, AHORA A 60 FPS.\n\nDisfruta de la experiencia de shooter militar definitiva, ambientada en un mundo enorme, peligroso y dinámico.\n\nNUEVA MISIÓN EN WILDLANDS: LAST RITES\nRegresa a una Bolivia más tenebrosa para dar caza a La Llorona en una nueva y tensa misión gratuita. ¡Disfruta de mecánicas de juego depuradas con 60 FPS, gráficos 4K, mejoras de calidad de vida, nuevos objetos estéticos y mucho más!\n\nACABA CON EL CÁRTEL\nEn un futuro próximo, Bolivia ha caído en manos de un despiadado cártel de la droga. Lidera a tu equipo de soldados de élite y coordina las incursiones. Pilota drones y helicópteros, y conduce los vehículos más salvajes por carretera y todo tipo de terrenos mientras exploras los impresionantes paisajes de Bolivia.\n\nPERSONALIZA A TU GHOST Y TUS VEHÍCULOS\nCrea tu Ghost desde cero y personaliza tus armas y equipo a partir de una biblioteca con miles de combinaciones distintas, entre las que se incluyen diseños tácticos, tatuajes para los brazos, parches para tu mochila, cascos y más. Desplázate por tierra, agua y aire con más de 60 vehículos distintos.\n\nFORMA EQUIPO CON TUS AMIGOS\nCrea tu propio equipo con hasta 3 amigos. También puedes jugar a Ghost War en PvP y librar combates tácticos 4 contra 4 basados en clases.",
+      "shortDescription": "Lidera a tu equipo de élite de Ghosts en este shooter táctico en tercera persona. Explora un mundo abierto enorme, infíltrate y destruye al mortífero cártel de Santa Blanca para salvar a Bolivia y su pueblo.\n\n¡Ahora todas las ediciones incluyen una actualización gratuita con una nueva misión de la historia, compatibilidad con 4K y 60 FPS!",
       "developer": "",
       "publisher": "Ubisoft",
       "imageUrl": "https://store-images.s-microsoft.com/image/apps.34828.65577870102127192.cc211066-4ede-470b-9241-48c6083d347f.a7c7df41-881f-4ed4-8b2a-8ef7b6454d3b",
@@ -53820,8 +53724,8 @@
         "https://store-images.s-microsoft.com/image/apps.24828.65577870102127192.07468864-7675-42df-b647-cd42790783e2.26a4eb06-f972-49c0-952a-0b1de2ef325e",
         "https://store-images.s-microsoft.com/image/apps.5982.65577870102127192.07468864-7675-42df-b647-cd42790783e2.8d583dc1-331d-4cbc-9caa-c764d0871e45"
       ],
-      "videoUrl": "",
-      "videoCaption": "",
+      "videoUrl": "https://cdn.trailers.xboxservices.com/trailers/00000000-0000-0000-0000-000000000000/xbox/prod/videos/mainprofile/65577870102127192/c887b696-5ace-4334-848c-233778966e5d/manifest.m3u8",
+      "videoCaption": "Last Rites Launch Trailer",
       "releaseDate": "2017-03-07",
       "categories": [
         "Shooter"
@@ -54464,7 +54368,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 125205925888,
+      "maxInstallSize": 125551112192,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/tom-clancy-s-the-division-2/BVQ3V30ZXVT5"
     },
@@ -56891,7 +56795,7 @@
           "recommended": "1 GB"
         }
       ],
-      "maxInstallSize": 1536139264,
+      "maxInstallSize": 1536311296,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/vampire-survivors/9PD5BM2Z8C4L"
     },
@@ -60381,7 +60285,7 @@
     {
       "id": "C57L9GR0HHB7",
       "title": "World of Tanks Modern Armor",
-      "description": "TEMPORAL: MAESTROS DEL CAOS\nNadie dijo que hubiera que jugar seguro. Aterroriza a tus rivales en Maestros del Caos y ábrete paso luchando a lo largo de 100 etapas repletas de recompensas con oro, plata y tiempo de cuenta premium. Consigue nuevos vehículos potentes, obtén contenido exclusivo y demuéstrales a tus enemigos lo que pasa cuando el caos se adueña del campo de batalla.\n\nEL CAMPO DE BATALLA TE RECLAMA \nWorld of Tanks Modern Armor te pone al mando de más de 1000 carros modernos y legendarios. Desafíate a ti mismo en estratégicas batallas por equipos de 15 contra 15. Selecciona las batallas de la Guerra Fría si buscas acción trepidante y moderna o elige las batallas de la Segunda Guerra Mundial si prefieres combates tácticos y pausados. Explora mapas detallados inspirados en escenarios de guerra auténticos.  \n\nCONOCE LAS MÁQUINAS MÁS TEMIBLES DE LA HISTORIA \nRevive la historia al mando de carros emblemáticos de la Segunda Guerra Mundial como el Sherman y bestias modernas como el M1 Abrams. Colecciona y mejora tus carros blindados, personalízalos con camuflajes y desbloquea vehículos más poderosos. Elige entre un amplio abanico de comandantes 3D que te guíen en el campo de batalla. \n\nENFRÉNTATE A JUGADORES DE TODO EL MUNDO \nJuega gratis y disfruta de actualizaciones de contenido semanales repletas de desafíos, recompensas, colaboraciones especiales y temporadas nuevas. Elige tu modo preferido: JcJ o JcE. Forma equipo con tus amigos, y uníos a World of Tanks Modern Armor para poner a prueba vuestras habilidades. \n\nTus carros te están esperando. ¡Nos vemos en el campo de batalla! \n\n¿Quieres más información? Pásate por WoTModernArmor.com.",
+      "description": "TEMPORAL: FIVE FINGER DEATH PUNCH\nCelebra la llegada del grupazo de metal con varios discos de platino a través de contenido especial, incluidos dos nuevos blindados con temática de Five Finger Death Punch, un nuevo comandante 3D inspirado en el grupo y una serie de ofertas temporales.\n\nEL CAMPO DE BATALLA TE RECLAMA \nWorld of Tanks Modern Armor te pone al mando de más de 1000 carros modernos y legendarios. Desafíate a ti mismo en estratégicas batallas por equipos de 15 contra 15. Selecciona las batallas de la Guerra Fría si buscas acción trepidante y moderna o elige las batallas de la Segunda Guerra Mundial si prefieres combates tácticos y pausados. Explora mapas detallados inspirados en escenarios de guerra auténticos.  \n\nCONOCE LAS MÁQUINAS MÁS TEMIBLES DE LA HISTORIA \nRevive la historia al mando de carros emblemáticos de la Segunda Guerra Mundial como el Sherman y bestias modernas como el M1 Abrams. Colecciona y mejora tus carros blindados, personalízalos con camuflajes y desbloquea vehículos más poderosos. Elige entre un amplio abanico de comandantes 3D que te guíen en el campo de batalla. \n\nENFRÉNTATE A JUGADORES DE TODO EL MUNDO \nJuega gratis y disfruta de actualizaciones de contenido semanales repletas de desafíos, recompensas, colaboraciones especiales y temporadas nuevas. Elige tu modo preferido: JcJ o JcE. Forma equipo con tus amigos, y uníos a World of Tanks Modern Armor para poner a prueba vuestras habilidades. \n\nTus carros te están esperando. ¡Nos vemos en el campo de batalla! \n\n¿Quieres más información? Pásate por WoTModernArmor.com.\n\n© 2026 Merchenaries LLC Under License to Global Merchandising Services Ltd.",
       "shortDescription": "World of Tanks Modern Armor te pone al mando de más de 1000 carros modernos y legendarios. Desafíate a ti mismo en estratégicas batallas por equipos de 15 contra 15. Selecciona las batallas de la Guerra Fría si buscas acción trepidante y moderna o elige las batallas de la Segunda Guerra Mundial si prefieres combates tácticos y pausados.  ",
       "developer": "Wargaming.net",
       "publisher": "Wargaming.net",
