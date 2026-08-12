@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-08-11T08:42:20.497Z",
+  "updatedAt": "2026-08-12T08:58:10.566Z",
   "market": "ES",
   "language": "es-ES",
-  "totalGames": 827,
+  "totalGames": 828,
   "counts": {
     "essential": 129,
-    "premium": 580,
+    "premium": 581,
     "pc": 517,
-    "ultimate": 734,
-    "total": 827
+    "ultimate": 735,
+    "total": 828
   },
   "categories": [
     "Acción y aventura",
@@ -347,11 +347,11 @@
         "ultimate"
       ],
       "platform": "both",
-      "price": 3.49,
+      "price": 4.99,
       "msrp": 4.99,
       "currency": "EUR",
-      "hasDiscount": true,
-      "discountPercent": 30,
+      "hasDiscount": false,
+      "discountPercent": 0,
       "rating": 3.6,
       "ratingCount": 43,
       "ageRating": 7,
@@ -442,7 +442,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.7,
-      "ratingCount": 585,
+      "ratingCount": 586,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -1138,7 +1138,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.4,
-      "ratingCount": 883,
+      "ratingCount": 884,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -2049,11 +2049,11 @@
         "ultimate"
       ],
       "platform": "both",
-      "price": 12.49,
+      "price": 24.99,
       "msrp": 24.99,
       "currency": "EUR",
-      "hasDiscount": true,
-      "discountPercent": 50,
+      "hasDiscount": false,
+      "discountPercent": 0,
       "rating": 2.7,
       "ratingCount": 31,
       "ageRating": 12,
@@ -3068,7 +3068,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.7,
-      "ratingCount": 21111,
+      "ratingCount": 21113,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -4116,7 +4116,8 @@
         "Multijugador en línea  (2-4)",
         "Un jugador",
         "60 fps +",
-        "Logros de Xbox"
+        "Logros de Xbox",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -4444,7 +4445,8 @@
         "HDR10",
         "Un jugador",
         "Xbox One X mejorado",
-        "Logros de Xbox"
+        "Logros de Xbox",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -4749,7 +4751,8 @@
         "4K Ultra HD",
         "Un jugador",
         "Xbox One X mejorado",
-        "Logros de Xbox"
+        "Logros de Xbox",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -4798,7 +4801,9 @@
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
       "interactiveDescriptions": [],
-      "capabilities": [],
+      "capabilities": [
+        "FPS Boost Series X | S"
+      ],
       "systemRequirements": [
         {
           "title": "Arquitectura",
@@ -5017,7 +5022,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4,
-      "ratingCount": 104,
+      "ratingCount": 105,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -6177,7 +6182,8 @@
         "Compras dentro del juego (Incluye artículos aleatorios)"
       ],
       "capabilities": [
-        "Multijugador en línea  (4-64)"
+        "Multijugador en línea  (4-64)",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -6693,8 +6699,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 3.8,
-      "ratingCount": 80,
+      "rating": 3.9,
+      "ratingCount": 85,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -7927,7 +7933,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 2.9,
-      "ratingCount": 114,
+      "ratingCount": 115,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -11969,11 +11975,11 @@
         "ultimate"
       ],
       "platform": "both",
-      "price": 4.86,
+      "price": 7.49,
       "msrp": 7.49,
       "currency": "EUR",
-      "hasDiscount": true,
-      "discountPercent": 35,
+      "hasDiscount": false,
+      "discountPercent": 0,
       "rating": 2.5,
       "ratingCount": 2,
       "ageRating": 3,
@@ -12660,8 +12666,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 1,
-      "ratingCount": 1,
+      "rating": 1.2,
+      "ratingCount": 25,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -13487,7 +13493,9 @@
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
       "interactiveDescriptions": [],
-      "capabilities": [],
+      "capabilities": [
+        "FPS Boost Series X | S"
+      ],
       "systemRequirements": [
         {
           "title": "Arquitectura",
@@ -13533,7 +13541,9 @@
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
       "interactiveDescriptions": [],
-      "capabilities": [],
+      "capabilities": [
+        "FPS Boost Series X | S"
+      ],
       "systemRequirements": [
         {
           "title": "Arquitectura",
@@ -14001,11 +14011,11 @@
         "ultimate"
       ],
       "platform": "both",
-      "price": 8.99,
+      "price": 29.99,
       "msrp": 29.99,
       "currency": "EUR",
-      "hasDiscount": true,
-      "discountPercent": 70,
+      "hasDiscount": false,
+      "discountPercent": 0,
       "rating": 4.3,
       "ratingCount": 164,
       "ageRating": 16,
@@ -15473,7 +15483,8 @@
       "capabilities": [
         "Un jugador",
         "Logros de Xbox",
-        "Cosas guardadas en la nube de Xbox"
+        "Cosas guardadas en la nube de Xbox",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -15614,7 +15625,8 @@
       "interactiveDescriptions": [],
       "capabilities": [
         "4K Ultra HD",
-        "Xbox One X mejorado"
+        "Xbox One X mejorado",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -16760,7 +16772,9 @@
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
       "interactiveDescriptions": [],
-      "capabilities": [],
+      "capabilities": [
+        "FPS Boost Series X | S"
+      ],
       "systemRequirements": [
         {
           "title": "Arquitectura",
@@ -16807,7 +16821,9 @@
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
       "interactiveDescriptions": [],
-      "capabilities": [],
+      "capabilities": [
+        "FPS Boost Series X | S"
+      ],
       "systemRequirements": [
         {
           "title": "Arquitectura",
@@ -19103,7 +19119,8 @@
       "interactiveDescriptions": [],
       "capabilities": [
         "4K Ultra HD",
-        "Xbox One X mejorado"
+        "Xbox One X mejorado",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -19148,7 +19165,7 @@
       "hasDiscount": true,
       "discountPercent": 50,
       "rating": 4.2,
-      "ratingCount": 97,
+      "ratingCount": 98,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -19203,7 +19220,7 @@
       "hasDiscount": true,
       "discountPercent": 50,
       "rating": 4.5,
-      "ratingCount": 84,
+      "ratingCount": 85,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -19213,7 +19230,8 @@
         "Cooperativo en línea  (2-2)",
         "Multijugador local de Xbox (2-2)",
         "4K Ultra HD",
-        "Xbox One X mejorado"
+        "Xbox One X mejorado",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -19408,7 +19426,8 @@
       "pegiDescription": "Apropiado a partir de 18 años",
       "interactiveDescriptions": [],
       "capabilities": [
-        "Xbox One X mejorado"
+        "Xbox One X mejorado",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -19885,7 +19904,9 @@
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
       "interactiveDescriptions": [],
-      "capabilities": [],
+      "capabilities": [
+        "FPS Boost Series X | S"
+      ],
       "systemRequirements": [
         {
           "title": "Arquitectura",
@@ -20400,7 +20421,8 @@
       "capabilities": [
         "Un jugador",
         "Optimizado para Xbox Series X|S",
-        "Logros de Xbox"
+        "Logros de Xbox",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -21305,7 +21327,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4,
-      "ratingCount": 68,
+      "ratingCount": 69,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -22265,7 +22287,7 @@
           "recommended": "8 GB"
         }
       ],
-      "maxInstallSize": 1173774336,
+      "maxInstallSize": 1173811200,
       "hasAddOns": false,
       "storeUrl": "https://www.xbox.com/es-es/games/store/fogpiercer/9P2PP895LSBJ"
     },
@@ -22908,7 +22930,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.1,
-      "ratingCount": 313,
+      "ratingCount": 315,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -23001,7 +23023,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.6,
-      "ratingCount": 1838,
+      "ratingCount": 1840,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -23188,11 +23210,11 @@
         "ultimate"
       ],
       "platform": "both",
-      "price": 5.99,
+      "price": 7.99,
       "msrp": 7.99,
       "currency": "EUR",
-      "hasDiscount": true,
-      "discountPercent": 25,
+      "hasDiscount": false,
+      "discountPercent": 0,
       "rating": 3.5,
       "ratingCount": 4,
       "ageRating": 7,
@@ -23551,11 +23573,11 @@
         "ultimate"
       ],
       "platform": "both",
-      "price": 7.59,
+      "price": 18.99,
       "msrp": 18.99,
       "currency": "EUR",
-      "hasDiscount": true,
-      "discountPercent": 60,
+      "hasDiscount": false,
+      "discountPercent": 0,
       "rating": 3.1,
       "ratingCount": 266,
       "ageRating": 7,
@@ -23792,7 +23814,8 @@
         "Multijugador multiplataforma de Xbox",
         "Un jugador",
         "Pantalla dividida o compartida",
-        "Cooperación multiplataforma de Xbox"
+        "Cooperación multiplataforma de Xbox",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -23837,7 +23860,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 2.9,
-      "ratingCount": 357,
+      "ratingCount": 359,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -23851,7 +23874,8 @@
         "Un jugador",
         "Pantalla dividida o compartida",
         "Cooperación multiplataforma de Xbox",
-        "Xbox One X mejorado"
+        "Xbox One X mejorado",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -23910,7 +23934,8 @@
         "Un jugador",
         "Pantalla dividida o compartida",
         "Cooperación multiplataforma de Xbox",
-        "Xbox One X mejorado"
+        "Xbox One X mejorado",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -23977,7 +24002,8 @@
         "Presencia de Xbox",
         "Clubs de Xbox",
         "Cosas guardadas en la nube de Xbox",
-        "Xbox Play Anywhere"
+        "Xbox Play Anywhere",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -24075,7 +24101,8 @@
         "Multijugador multiplataforma de Xbox",
         "Un jugador",
         "Pantalla dividida o compartida",
-        "Cooperación multiplataforma de Xbox"
+        "Cooperación multiplataforma de Xbox",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -24255,7 +24282,8 @@
         "Cooperativo en línea  (2-2)",
         "Multijugador local de Xbox (2-2)",
         "Multijugador en línea  (2-8)",
-        "Pantalla dividida o compartida"
+        "Pantalla dividida o compartida",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -24703,16 +24731,16 @@
       "shortDescription": "Explora un mundo de aventuras",
       "developer": "Shanghai miHoYo TianMing Technology Co., Ltd.",
       "publisher": "COGNOSPHERE PTE. LTD.",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.6056.14057893183113088.fe9aa8d9-0f2f-4ec3-bdf1-9a1e9a2c0e21.e83084f2-24d0-463a-833f-93b5ec8da7fc",
-      "heroImage": "https://store-images.s-microsoft.com/image/apps.5497.14057893183113088.fe9aa8d9-0f2f-4ec3-bdf1-9a1e9a2c0e21.dcfaafa0-c52e-4b8d-87ec-a5abbb29aeef",
+      "imageUrl": "https://store-images.s-microsoft.com/image/apps.58853.14057893183113088.c7459eb1-fd61-4f8d-9636-e286ca6b3f52.1fca4e5c-8445-4fda-a44d-cf68d967866d",
+      "heroImage": "https://store-images.s-microsoft.com/image/apps.64361.14057893183113088.c7459eb1-fd61-4f8d-9636-e286ca6b3f52.e666f667-28dd-4155-b1b2-f4403b8b92dc",
       "screenshots": [
-        "https://store-images.s-microsoft.com/image/apps.37985.14057893183113088.e19afac6-fbfb-49e1-bc58-15026e91cb61.4c2f35f7-79db-4369-939f-0a06d306dc96",
-        "https://store-images.s-microsoft.com/image/apps.28145.14057893183113088.e19afac6-fbfb-49e1-bc58-15026e91cb61.711f6f38-72fa-41c3-b2b5-523db49f639e",
-        "https://store-images.s-microsoft.com/image/apps.3906.14057893183113088.e19afac6-fbfb-49e1-bc58-15026e91cb61.e398f3e2-f3ac-4d4c-86c0-bd4346797073",
-        "https://store-images.s-microsoft.com/image/apps.10012.14057893183113088.e19afac6-fbfb-49e1-bc58-15026e91cb61.1442e995-dbb3-477c-a4d9-45b0634107d5"
+        "https://store-images.s-microsoft.com/image/apps.8420.14057893183113088.c7459eb1-fd61-4f8d-9636-e286ca6b3f52.da73e83e-3ad8-4b89-81a1-ff175fce3653",
+        "https://store-images.s-microsoft.com/image/apps.35291.14057893183113088.c7459eb1-fd61-4f8d-9636-e286ca6b3f52.b01ae217-ab76-49c3-8ae4-34c722ef862e",
+        "https://store-images.s-microsoft.com/image/apps.52115.14057893183113088.c7459eb1-fd61-4f8d-9636-e286ca6b3f52.f2e663b7-ef31-4415-a209-d289cfa86034",
+        "https://store-images.s-microsoft.com/image/apps.46993.14057893183113088.c7459eb1-fd61-4f8d-9636-e286ca6b3f52.efb89e35-0a79-41a1-889d-c4f6efdfdfc7"
       ],
-      "videoUrl": "https://cdn.trailers.xboxservices.com/trailers/00000000-0000-0000-0000-000000000000/xbox/prod/videos/mainprofile/14057893183113088/b11a423d-653a-4818-8550-0a14ec3adad9/manifest.m3u8",
-      "videoCaption": "¡Verano, regreso, el Festival Fontinal!",
+      "videoUrl": "https://cdn.trailers.xboxservices.com/trailers/00000000-0000-0000-0000-000000000000/xbox/prod/videos/mainprofile/14057893183113088/57e87902-30ba-487a-be6c-dc622083a886/manifest.m3u8",
+      "videoCaption": "Frío eterno y cruel",
       "releaseDate": "2024-11-20",
       "categories": [
         "Acción y aventura",
@@ -25244,11 +25272,11 @@
         "ultimate"
       ],
       "platform": "both",
-      "price": 9.99,
+      "price": 19.99,
       "msrp": 19.99,
       "currency": "EUR",
-      "hasDiscount": true,
-      "discountPercent": 50,
+      "hasDiscount": false,
+      "discountPercent": 0,
       "rating": 1.5,
       "ratingCount": 21,
       "ageRating": 7,
@@ -25594,7 +25622,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.9,
-      "ratingCount": 110,
+      "ratingCount": 111,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -25620,7 +25648,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 39262543872,
+      "maxInstallSize": 39262646272,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/grounded-2-game-preview/9P77PG7DK0W2"
     },
@@ -26093,7 +26121,8 @@
         "HDR10",
         "Cooperación multiplataforma de Xbox",
         "Xbox One X mejorado",
-        "Xbox Play Anywhere"
+        "Xbox Play Anywhere",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -26393,7 +26422,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.9,
-      "ratingCount": 132,
+      "ratingCount": 137,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -26604,7 +26633,8 @@
       "interactiveDescriptions": [],
       "capabilities": [
         "Cooperativo en línea  (2-2)",
-        "Multijugador en línea  (2-2)"
+        "Multijugador en línea  (2-2)",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -28011,7 +28041,8 @@
         "Controlador para juegos para PC",
         "Logros de Xbox",
         "Cosas guardadas en la nube de Xbox",
-        "Xbox Play Anywhere"
+        "Xbox Play Anywhere",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -28832,11 +28863,11 @@
         "ultimate"
       ],
       "platform": "both",
-      "price": 9.99,
+      "price": 24.99,
       "msrp": 24.99,
       "currency": "EUR",
-      "hasDiscount": true,
-      "discountPercent": 60,
+      "hasDiscount": false,
+      "discountPercent": 0,
       "rating": 3.7,
       "ratingCount": 76,
       "ageRating": 18,
@@ -28990,11 +29021,11 @@
         "ultimate"
       ],
       "platform": "both",
-      "price": 5.99,
+      "price": 19.99,
       "msrp": 19.99,
       "currency": "EUR",
-      "hasDiscount": true,
-      "discountPercent": 70,
+      "hasDiscount": false,
+      "discountPercent": 0,
       "rating": 4.5,
       "ratingCount": 124,
       "ageRating": 16,
@@ -32659,7 +32690,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 16441913344,
+      "maxInstallSize": 16430936064,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/mavrix-by-matt-jones/9NZX67J81X6F"
     },
@@ -32942,7 +32973,9 @@
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
       "interactiveDescriptions": [],
-      "capabilities": [],
+      "capabilities": [
+        "FPS Boost Series X | S"
+      ],
       "systemRequirements": [
         {
           "title": "Arquitectura",
@@ -33194,7 +33227,7 @@
           "recommended": "16 GB"
         }
       ],
-      "maxInstallSize": 11220795392,
+      "maxInstallSize": 11088777216,
       "hasAddOns": false,
       "storeUrl": "https://www.xbox.com/es-es/games/store/menace-versi-n-preliminar-del-juego/9NQCJ397CQ6P"
     },
@@ -33683,7 +33716,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.7,
-      "ratingCount": 51430,
+      "ratingCount": 51434,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -34066,7 +34099,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4,
-      "ratingCount": 15754,
+      "ratingCount": 15755,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -34261,7 +34294,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.5,
-      "ratingCount": 61351,
+      "ratingCount": 61353,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -34466,7 +34499,8 @@
       "pegiDescription": "Apropiado a partir de 16 años",
       "interactiveDescriptions": [],
       "capabilities": [
-        "Xbox One X mejorado"
+        "Xbox One X mejorado",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -34513,7 +34547,9 @@
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
       "interactiveDescriptions": [],
-      "capabilities": [],
+      "capabilities": [
+        "FPS Boost Series X"
+      ],
       "systemRequirements": [
         {
           "title": "Arquitectura",
@@ -34559,8 +34595,8 @@
       "currency": "EUR",
       "hasDiscount": true,
       "discountPercent": 10,
-      "rating": 3,
-      "ratingCount": 56,
+      "rating": 3.1,
+      "ratingCount": 60,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -34636,7 +34672,7 @@
           "recommended": "Micrófono integrado"
         }
       ],
-      "maxInstallSize": 38012043264,
+      "maxInstallSize": 38037135360,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/mistfall-hunter/9P8X6TVW9ZW8"
     },
@@ -35153,7 +35189,7 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 3.8,
+      "rating": 3.6,
       "ratingCount": 16,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
@@ -35211,11 +35247,11 @@
         "ultimate"
       ],
       "platform": "both",
-      "price": 2.99,
+      "price": 19.99,
       "msrp": 19.99,
       "currency": "EUR",
-      "hasDiscount": true,
-      "discountPercent": 85,
+      "hasDiscount": false,
+      "discountPercent": 0,
       "rating": 3.9,
       "ratingCount": 110,
       "ageRating": 7,
@@ -35862,7 +35898,7 @@
           "recommended": "Controladora de Xbox"
         }
       ],
-      "maxInstallSize": 105496371200,
+      "maxInstallSize": 104352276480,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/naraka-bladepoint/9P8SQQJ5T94B"
     },
@@ -36680,7 +36716,8 @@
         "Xbox One X mejorado",
         "Logros de Xbox",
         "Cosas guardadas en la nube de Xbox",
-        "Xbox Play Anywhere"
+        "Xbox Play Anywhere",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -37733,7 +37770,8 @@
       "pegiDescription": "Apropiado a partir de 16 años",
       "interactiveDescriptions": [],
       "capabilities": [
-        "Xbox One X mejorado"
+        "Xbox One X mejorado",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -38375,7 +38413,8 @@
         "Un jugador",
         "Logros de Xbox",
         "Presencia de Xbox",
-        "Cosas guardadas en la nube de Xbox"
+        "Cosas guardadas en la nube de Xbox",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -38580,12 +38619,12 @@
     {
       "id": "C1C4DZJPBC2V",
       "title": "Overwatch®",
-      "description": "Overwatch es un shooter por equipos de héroes gratuito siempre activo y en constante evolución que está ambientado en un futuro optimista en el que todas las partidas ofrecen contiendas definitivas 5c5 o 6c6. ¡Disfruta de héroes y mapas nuevos, diferentes formas de jugar y cosméticos únicos! Ponte en la piel de uno de los más de 40 héroes de Overwatch y lidera la carga, embosca a los enemigos o ayuda a tus aliados. Únete a tus amigos y salta al campo de batalla en más de 25 mapas futuristas inspirados en ubicaciones del mundo real y domina modos de juego únicos.\n\nReinado de Talon: Temporada 3, En la guarida del tigre\n\nSaca tus garras y lánzate\n\nUna peligrosa heroína se alza mientras Overwatch lucha en calles destrozadas en un llamativo mapa híbrido. Disfruta de un evento de historia y míticos y aspectos ultra nuevos.\n\nReinado de Talon: Temporada 3, En la guarida del tigre lleva a Overwatch a un lugar en el que la luz se abre paso a través de las sombras y el bando en el que estés será más importante que nunca. Shion, una heroína de daño rápida y letal, entra en escena como líder del infame clan Hashimoto, y pondrá a prueba tu determinación a cada instante. Además, podrás explorar el primer nuevo mapa híbrido en el evento del meta Golpe de ánimas, en el que te adentrarás a lo largo de la temporada para revelar secretos ocultos y conseguir recompensas. Brilla en el combate con el aspecto mítico Illari fénix ascendiente, blande el arma mítica rebelde de Tokio de Hanzo y equípate con un nuevo nivel cosmético para aspectos, el ultra, que le dará más estilo y grandiosidad a tu lucha por un futuro mejor.",
-      "shortDescription": "Overwatch, ¡UN FUTURO POR EL QUE VALE LA PENA LUCHAR!\n\nOverwatch es un juego de acción por equipos, gratuito, siempre activo y en constante evolución que está ambientado en un futuro optimista en el que todas las partidas ofrecen contiendas definitivas 5c5 o 6c6.",
+      "description": "Overwatch es un shooter por equipos de héroes gratuito siempre activo y en constante evolución que está ambientado en un futuro optimista en el que todas las partidas ofrecen contiendas definitivas 5c5 o 6c6. ¡Disfruta de héroes y mapas nuevos, diferentes formas de jugar y cosméticos únicos! Ponte en la piel de uno de los más de 40 héroes de Overwatch y lidera la carga, embosca a los enemigos o ayuda a tus aliados. Únete a tus amigos y salta al campo de batalla en más de 25 mapas futuristas inspirados en ubicaciones del mundo real y domina modos de juego únicos.\n\nReinado de Talon: Temporada 4, Héroes de Busán\n\nSacad los héroes que lleváis dentro\n\nDamos la bienvenida al combate a D.Mon, la nueva heroína tanque que defenderá Busán en una temporada ideada para que cada héroe dé lo mejor de sí mismo en el campo de batalla.\n\nLos chatarreros y Talon arremeten contra Busán, así que la nueva heroína tanque, D.Mon, decide acompañar a D.Va y el resto del escuadrón MEKA para proteger sus hogares. Elije a tu piloto favorito en el evento Estrella fugaz: Mi locura MEKA, consigue estrellas y descubre la historia del escuadrón mientras tu apoyo les ayuda a subir a lo más alto de las clasificaciones mundiales. Déjate sorprender por un pase de batalla renovado con una progresión flexible y la opción de intercambiar una recompensa legendaria de tu elección. Además, podrás explorar las nuevas versiones de Busán, Paraíso y Eichenwalde antes de enfrentarte a Ofensivas por equipos, un modo en el que los equipos avanzan juntos y los comentarios en combate mejorados hacen que ver el impacto de cada jugador sea más fácil que nunca. Corona la jugada desbloqueando a un Genji mítico o el arma mítica de Sojourn, así como otros cosméticos, y completa tu colección.",
+      "shortDescription": "Overwatch, ¡UN FUTURO POR EL QUE VALE LA PENA LUCHAR!\n\nOverwatch es un juego de acción por equipos, gratuito, siempre activo y en constante evolución que está ambientado en un futuro optimista en el que todas las partidas ofrecen contiendas definitivas 5c5 o 6c6. ",
       "developer": "Blizzard Entertainment",
       "publisher": "Blizzard Entertainment",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.45108.64800374430761253.c9b4efbc-3a43-4702-9fd1-0104b8eb6751.a2ff5ed5-68bc-4fca-864a-3829bf58680f",
-      "heroImage": "https://store-images.s-microsoft.com/image/apps.2443.14548245473193065.ca43c283-3e5e-44fa-97fd-449f8fbfb3cb.c539d38e-ce66-4a54-8d25-fbd48c997395",
+      "imageUrl": "https://store-images.s-microsoft.com/image/apps.47151.14548245473193065.9c82be1a-823e-414c-80e7-be1aa2cecce1.dcee3fc6-0b79-488d-a428-3acdf879e6e3",
+      "heroImage": "https://store-images.s-microsoft.com/image/apps.18677.14548245473193065.9c82be1a-823e-414c-80e7-be1aa2cecce1.89a56f88-2bbb-413a-b4e4-0104c28c76cc",
       "screenshots": [
         "https://store-images.s-microsoft.com/image/apps.20236.64800374430761253.40710270-b54a-4aa0-8da0-dba524848906.c365871e-8bc0-4eef-8e96-494e298bd514",
         "https://store-images.s-microsoft.com/image/apps.32150.64800374430761253.40710270-b54a-4aa0-8da0-dba524848906.6d31f8db-ae43-4be5-9dff-80a05dc3b3d7",
@@ -38610,7 +38649,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.6,
-      "ratingCount": 919,
+      "ratingCount": 920,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -38646,12 +38685,12 @@
     {
       "id": "9P36DQX6W9CS",
       "title": "Overwatch® PC",
-      "description": "Overwatch es un shooter por equipos de héroes gratuito siempre activo y en constante evolución que está ambientado en un futuro optimista en el que todas las partidas ofrecen contiendas definitivas 5c5 o 6c6. ¡Disfruta de héroes y mapas nuevos, diferentes formas de jugar y cosméticos únicos! Ponte en la piel de uno de los más de 40 héroes de Overwatch y lidera la carga, embosca a los enemigos o ayuda a tus aliados. Únete a tus amigos y salta al campo de batalla en más de 25 mapas futuristas inspirados en ubicaciones del mundo real y domina modos de juego únicos.\n\nReinado de Talon: Temporada 3, En la guarida del tigre\n\nSaca tus garras y lánzate\n\nUna peligrosa heroína se alza mientras Overwatch lucha en calles destrozadas en un llamativo mapa híbrido. Disfruta de un evento de historia y míticos y aspectos ultra nuevos.\n\nReinado de Talon: Temporada 3, En la guarida del tigre lleva a Overwatch a un lugar en el que la luz se abre paso a través de las sombras y el bando en el que estés será más importante que nunca. Shion, una heroína de daño rápida y letal, entra en escena como líder del infame clan Hashimoto, y pondrá a prueba tu determinación a cada instante. Además, podrás explorar el primer nuevo mapa híbrido en el evento del meta Golpe de ánimas, en el que te adentrarás a lo largo de la temporada para revelar secretos ocultos y conseguir recompensas. Brilla en el combate con el aspecto mítico Illari fénix ascendiente, blande el arma mítica rebelde de Tokio de Hanzo y equípate con un nuevo nivel cosmético para aspectos, el ultra, que le dará más estilo y grandiosidad a tu lucha por un futuro mejor.",
-      "shortDescription": "Overwatch, ¡UN FUTURO POR EL QUE VALE LA PENA LUCHAR!\n\nOverwatch es un juego de acción por equipos, gratuito, siempre activo y en constante evolución que está ambientado en un futuro optimista en el que todas las partidas ofrecen contiendas definitivas 5c5 o 6c6.",
+      "description": "Overwatch es un shooter por equipos de héroes gratuito siempre activo y en constante evolución que está ambientado en un futuro optimista en el que todas las partidas ofrecen contiendas definitivas 5c5 o 6c6. ¡Disfruta de héroes y mapas nuevos, diferentes formas de jugar y cosméticos únicos! Ponte en la piel de uno de los más de 40 héroes de Overwatch y lidera la carga, embosca a los enemigos o ayuda a tus aliados. Únete a tus amigos y salta al campo de batalla en más de 25 mapas futuristas inspirados en ubicaciones del mundo real y domina modos de juego únicos.\n\nReinado de Talon: Temporada 4, Héroes de Busán\n\nSacad los héroes que lleváis dentro\n\nDamos la bienvenida al combate a D.Mon, la nueva heroína tanque que defenderá Busán en una temporada ideada para que cada héroe dé lo mejor de sí mismo en el campo de batalla.\n\nLos chatarreros y Talon arremeten contra Busán, así que la nueva heroína tanque, D.Mon, decide acompañar a D.Va y el resto del escuadrón MEKA para proteger sus hogares. Elije a tu piloto favorito en el evento Estrella fugaz: Mi locura MEKA, consigue estrellas y descubre la historia del escuadrón mientras tu apoyo les ayuda a subir a lo más alto de las clasificaciones mundiales. Déjate sorprender por un pase de batalla renovado con una progresión flexible y la opción de intercambiar una recompensa legendaria de tu elección. Además, podrás explorar las nuevas versiones de Busán, Paraíso y Eichenwalde antes de enfrentarte a Ofensivas por equipos, un modo en el que los equipos avanzan juntos y los comentarios en combate mejorados hacen que ver el impacto de cada jugador sea más fácil que nunca. Corona la jugada desbloqueando a un Genji mítico o el arma mítica de Sojourn, así como otros cosméticos, y completa tu colección.",
+      "shortDescription": "Overwatch, ¡UN FUTURO POR EL QUE VALE LA PENA LUCHAR!\n\nOverwatch es un juego de acción por equipos, gratuito, siempre activo y en constante evolución que está ambientado en un futuro optimista en el que todas las partidas ofrecen contiendas definitivas 5c5 o 6c6. ",
       "developer": "Blizzard Entertainment",
       "publisher": "Blizzard Entertainment",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.45108.14548245473193065.ca43c283-3e5e-44fa-97fd-449f8fbfb3cb.d9f19ccb-8c2c-493e-b084-e9ae81822fb7",
-      "heroImage": "https://store-images.s-microsoft.com/image/apps.2443.14548245473193065.ca43c283-3e5e-44fa-97fd-449f8fbfb3cb.c539d38e-ce66-4a54-8d25-fbd48c997395",
+      "imageUrl": "https://store-images.s-microsoft.com/image/apps.47151.14548245473193065.9c82be1a-823e-414c-80e7-be1aa2cecce1.dcee3fc6-0b79-488d-a428-3acdf879e6e3",
+      "heroImage": "https://store-images.s-microsoft.com/image/apps.18677.14548245473193065.9c82be1a-823e-414c-80e7-be1aa2cecce1.89a56f88-2bbb-413a-b4e4-0104c28c76cc",
       "screenshots": [
         "https://store-images.s-microsoft.com/image/apps.20236.64800374430761253.40710270-b54a-4aa0-8da0-dba524848906.c365871e-8bc0-4eef-8e96-494e298bd514",
         "https://store-images.s-microsoft.com/image/apps.32150.64800374430761253.40710270-b54a-4aa0-8da0-dba524848906.6d31f8db-ae43-4be5-9dff-80a05dc3b3d7",
@@ -38828,7 +38867,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.6,
-      "ratingCount": 841,
+      "ratingCount": 843,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -38878,7 +38917,7 @@
           "recommended": "32 GB"
         }
       ],
-      "maxInstallSize": 34306154496,
+      "maxInstallSize": 34306514944,
       "hasAddOns": false,
       "storeUrl": "https://www.xbox.com/es-es/games/store/palworld/9NKV34XDW014"
     },
@@ -40162,7 +40201,8 @@
         "Cooperación local de Xbox (2-4)",
         "Cooperativo en línea  (2-4)",
         "Multijugador local de Xbox (2-2)",
-        "Multijugador en línea  (2-26)"
+        "Multijugador en línea  (2-26)",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -40215,7 +40255,8 @@
         "Cooperación local de Xbox (2-4)",
         "Cooperativo en línea  (2-4)",
         "Multijugador local de Xbox (2-2)",
-        "Multijugador en línea  (2-24)"
+        "Multijugador en línea  (2-24)",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -40270,7 +40311,8 @@
         "Multijugador en línea  (2-24)",
         "4K Ultra HD",
         "HDR10",
-        "Pantalla dividida o compartida"
+        "Pantalla dividida o compartida",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -40316,7 +40358,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.1,
-      "ratingCount": 32,
+      "ratingCount": 33,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -40497,11 +40539,11 @@
         "ultimate"
       ],
       "platform": "both",
-      "price": 18.74,
+      "price": 24.99,
       "msrp": 24.99,
       "currency": "EUR",
-      "hasDiscount": true,
-      "discountPercent": 25,
+      "hasDiscount": false,
+      "discountPercent": 0,
       "rating": 3.9,
       "ratingCount": 27,
       "ageRating": 3,
@@ -40615,7 +40657,8 @@
         "Logros de Xbox",
         "Presencia de Xbox",
         "Clubs de Xbox",
-        "Cosas guardadas en la nube de Xbox"
+        "Cosas guardadas en la nube de Xbox",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -42250,7 +42293,8 @@
         "Presencia de Xbox",
         "Clubs de Xbox",
         "Cosas guardadas en la nube de Xbox",
-        "Xbox Play Anywhere"
+        "Xbox Play Anywhere",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -42539,11 +42583,11 @@
         "ultimate"
       ],
       "platform": "both",
-      "price": 10.49,
+      "price": 14.99,
       "msrp": 14.99,
       "currency": "EUR",
-      "hasDiscount": true,
-      "discountPercent": 30,
+      "hasDiscount": false,
+      "discountPercent": 0,
       "rating": 1.7,
       "ratingCount": 43,
       "ageRating": 7,
@@ -42691,11 +42735,11 @@
         "ultimate"
       ],
       "platform": "both",
-      "price": 12.49,
+      "price": 49.99,
       "msrp": 49.99,
       "currency": "EUR",
-      "hasDiscount": true,
-      "discountPercent": 75,
+      "hasDiscount": false,
+      "discountPercent": 0,
       "rating": 3.9,
       "ratingCount": 192,
       "ageRating": 18,
@@ -43729,8 +43773,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 4,
-      "ratingCount": 26,
+      "rating": 3.9,
+      "ratingCount": 27,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -44361,8 +44405,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 4.2,
-      "ratingCount": 38,
+      "rating": 4.3,
+      "ratingCount": 39,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -44647,7 +44691,9 @@
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
       "interactiveDescriptions": [],
-      "capabilities": [],
+      "capabilities": [
+        "FPS Boost Series X | S"
+      ],
       "systemRequirements": [
         {
           "title": "Arquitectura",
@@ -45253,7 +45299,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.9,
-      "ratingCount": 21,
+      "ratingCount": 22,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -45713,7 +45759,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 1474555904,
+      "maxInstallSize": 1454755840,
       "hasAddOns": false,
       "storeUrl": "https://www.xbox.com/es-es/games/store/sledding-game/9N9C1TB18R3B"
     },
@@ -45780,7 +45826,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 27980005376,
+      "maxInstallSize": 28322934784,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/smite-2/9NV8W1KJSQLL"
     },
@@ -45958,11 +46004,11 @@
         "ultimate"
       ],
       "platform": "both",
-      "price": 18.39,
+      "price": 22.99,
       "msrp": 22.99,
       "currency": "EUR",
-      "hasDiscount": true,
-      "discountPercent": 20,
+      "hasDiscount": false,
+      "discountPercent": 0,
       "rating": 3.5,
       "ratingCount": 15,
       "ageRating": 3,
@@ -46059,11 +46105,11 @@
         "ultimate"
       ],
       "platform": "both",
-      "price": 19.99,
+      "price": 16.99,
       "msrp": 19.99,
       "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
+      "hasDiscount": true,
+      "discountPercent": 15,
       "rating": 2.8,
       "ratingCount": 25,
       "ageRating": 3,
@@ -47194,7 +47240,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.8,
-      "ratingCount": 259,
+      "ratingCount": 260,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -47206,7 +47252,8 @@
         "Multijugador en línea  (8-40)",
         "HDR10",
         "Pantalla dividida o compartida",
-        "Xbox One X mejorado"
+        "Xbox One X mejorado",
+        "FPS Boost Series X"
       ],
       "systemRequirements": [
         {
@@ -48144,7 +48191,8 @@
         "Cooperativo en línea  (2-4)",
         "Multijugador en línea  (2-4)",
         "HDR10",
-        "Xbox One X mejorado"
+        "Xbox One X mejorado",
+        "FPS Boost Series S"
       ],
       "systemRequirements": [
         {
@@ -48511,7 +48559,8 @@
         "Presencia de Xbox",
         "Clubs de Xbox",
         "Cosas guardadas en la nube de Xbox",
-        "Xbox Play Anywhere"
+        "Xbox Play Anywhere",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -49013,11 +49062,11 @@
         "ultimate"
       ],
       "platform": "both",
-      "price": 7.99,
+      "price": 19.99,
       "msrp": 19.99,
       "currency": "EUR",
-      "hasDiscount": true,
-      "discountPercent": 60,
+      "hasDiscount": false,
+      "discountPercent": 0,
       "rating": 4.6,
       "ratingCount": 309,
       "ageRating": 12,
@@ -49605,7 +49654,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 5,
-      "ratingCount": 1,
+      "ratingCount": 2,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -51771,7 +51820,8 @@
         "Logros de Xbox",
         "Presencia de Xbox",
         "Clubs de Xbox",
-        "Cosas guardadas en la nube de Xbox"
+        "Cosas guardadas en la nube de Xbox",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -52528,7 +52578,7 @@
           "recommended": ""
         }
       ],
-      "maxInstallSize": 58290995200,
+      "maxInstallSize": 58486927360,
       "hasAddOns": false,
       "storeUrl": "https://www.xbox.com/es-es/games/store/the-outer-worlds-spacer-s-choice-edition/9NM50L0DXX1W"
     },
@@ -52594,7 +52644,7 @@
           "recommended": "Controladora de Xbox"
         }
       ],
-      "maxInstallSize": 57166360576,
+      "maxInstallSize": 57226653696,
       "hasAddOns": false,
       "storeUrl": "https://www.xbox.com/es-es/games/store/the-outer-worlds-spacer-s-choice-edition/9NG2F1Q062VV"
     },
@@ -53683,7 +53733,8 @@
       "interactiveDescriptions": [],
       "capabilities": [
         "Multijugador en línea  (2-16)",
-        "Xbox One X mejorado"
+        "Xbox One X mejorado",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -54072,7 +54123,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.8,
-      "ratingCount": 578,
+      "ratingCount": 579,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -54343,7 +54394,8 @@
         "4K Ultra HD",
         "Un jugador",
         "Xbox One X mejorado",
-        "Logros de Xbox"
+        "Logros de Xbox",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -54997,7 +55049,8 @@
         "Presencia de Xbox",
         "Clubs de Xbox",
         "Cosas guardadas en la nube de Xbox",
-        "Xbox Play Anywhere"
+        "Xbox Play Anywhere",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -55509,7 +55562,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4,
-      "ratingCount": 42,
+      "ratingCount": 43,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -56041,7 +56094,8 @@
         "Logros de Xbox",
         "Presencia de Xbox",
         "Clubs de Xbox",
-        "Cosas guardadas en la nube de Xbox"
+        "Cosas guardadas en la nube de Xbox",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -56477,7 +56531,8 @@
         "Multijugador local de Xbox (2-2)",
         "4K Ultra HD",
         "Pantalla dividida o compartida",
-        "Xbox One X mejorado"
+        "Xbox One X mejorado",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -56522,7 +56577,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.6,
-      "ratingCount": 336,
+      "ratingCount": 335,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -56620,7 +56675,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 2.8,
-      "ratingCount": 266,
+      "ratingCount": 267,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -56646,7 +56701,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 47442010112,
+      "maxInstallSize": 47442186240,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/valorant/9N1NLJK9SKRN"
     },
@@ -57783,7 +57838,7 @@
           "recommended": "Controladora de Xbox"
         }
       ],
-      "maxInstallSize": 105155518464,
+      "maxInstallSize": 105797480448,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/warhammer-40-000-darktide/9NT3WC6RKBVQ"
     },
@@ -57982,7 +58037,7 @@
           "recommended": "Controladora de Xbox"
         }
       ],
-      "maxInstallSize": 96719237120,
+      "maxInstallSize": 96724447232,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/warhammer-40-000-space-marine-2/9N9PCZWHVP2L"
     },
@@ -58259,7 +58314,8 @@
         "Logros de Xbox",
         "Presencia de Xbox",
         "Clubs de Xbox",
-        "Cosas guardadas en la nube de Xbox"
+        "Cosas guardadas en la nube de Xbox",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -58660,7 +58716,8 @@
         "Cooperativo en línea  (2-2)",
         "Multijugador en línea  (2-4)",
         "Un jugador",
-        "Logros de Xbox"
+        "Logros de Xbox",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -58851,7 +58908,8 @@
         "Cooperativo en línea  (2-8)",
         "Multijugador en línea  (2-8)",
         "Un jugador",
-        "Logros de Xbox"
+        "Logros de Xbox",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -59731,6 +59789,56 @@
       "storeUrl": "https://www.xbox.com/es-es/games/store/wobbly-life/9NS86BQ33SPX"
     },
     {
+      "id": "BSXDD75Q561F",
+      "title": "Wolfenstein 3D",
+      "description": "Eres B. J. Blazkowicz, un superagente de la organizaciónOSA, y debes escapar del castillo Wolfenstein y derrotar al perverso régimen nazi. Enfréntate a inolvidables enemigos, como Hans Grosse y Mecha-Hitler, en el legendario pionero del género de los shooters en primera persona. Recorre los clásicos niveles en busca de secretos para descubrir tesoros nazis robados, botiquines, munición, armas e incluso algunos atajos.",
+      "shortDescription": "Eres B. J. Blazkowicz, un superagente de la organización OSA, y debes escapar del castillo Wolfenstein y derrotar al perverso régimen nazi.",
+      "developer": "id Software",
+      "publisher": "Bethesda Softworks",
+      "imageUrl": "https://store-images.s-microsoft.com/image/apps.26169.69996971058496124.2c12fbbb-b1fd-4ae1-b929-d0155904a243.cc46ae40-61c3-4243-94ea-788ebd8ab67f",
+      "heroImage": "https://store-images.s-microsoft.com/image/apps.32030.69996971058496124.2c12fbbb-b1fd-4ae1-b929-d0155904a243.e36298f7-5589-4075-8d17-a9fd8856e772",
+      "screenshots": [
+        "https://store-images.s-microsoft.com/image/apps.30694.69996971058496124.2c12fbbb-b1fd-4ae1-b929-d0155904a243.9c5f95df-9c42-433a-b567-ca1fed46e875",
+        "https://store-images.s-microsoft.com/image/apps.25424.69996971058496124.2c12fbbb-b1fd-4ae1-b929-d0155904a243.86e13cf8-f347-4ec3-b9ef-f2109448d57e",
+        "https://store-images.s-microsoft.com/image/apps.57154.69996971058496124.2c12fbbb-b1fd-4ae1-b929-d0155904a243.baa0c88a-0439-4193-a939-0bbe29b54c3e",
+        "https://store-images.s-microsoft.com/image/apps.61761.69996971058496124.2c12fbbb-b1fd-4ae1-b929-d0155904a243.c25cbaa2-b58e-44e1-bb24-5acab7f5d2db"
+      ],
+      "videoUrl": "",
+      "videoCaption": "",
+      "releaseDate": "2013-05-31",
+      "categories": [
+        "Acción y aventura",
+        "Shooter"
+      ],
+      "tiers": [
+        "premium",
+        "ultimate"
+      ],
+      "platform": "console",
+      "price": 4.79,
+      "msrp": 4.79,
+      "currency": "EUR",
+      "hasDiscount": false,
+      "discountPercent": 0,
+      "rating": 4.5,
+      "ratingCount": 13,
+      "ageRating": 12,
+      "pegiRating": "PEGI 12",
+      "pegiDescription": "Apropiado a partir de 12 años",
+      "interactiveDescriptions": [],
+      "capabilities": [],
+      "systemRequirements": [
+        {
+          "title": "Arquitectura",
+          "minimum": "x64",
+          "recommended": "x64"
+        }
+      ],
+      "maxInstallSize": 604786688,
+      "hasAddOns": false,
+      "storeUrl": "https://www.xbox.com/es-es/games/store/wolfenstein-3d/BSXDD75Q561F"
+    },
+    {
       "id": "9P7Z1D3N8KR7",
       "title": "Wolfenstein 3D",
       "description": "Wolfenstein 3D es un shooter de acción en primera persona ambientado en la Segunda Guerra Mundial. Este juego innovador y aclamado por la crítica fue desarrollado por id Software en 1992, y dio comienzo al género de los FPS actuales. \r\n\r\nHistoria \r\n\r\nLa Segunda Guerra Mundial causa estragos. Eres William “B. J.” Blazkowicz, el agente de mayor confianza del bloque aliado. Los nazis planean la Operación Eisenfaust, un proyecto para crear un ejército imparable de mutantes. Tu misión consistía en robar los planos secretos, pero te capturaron y encerraron en el castillo Wolfenstein. Ahora, gracias a un golpe de suerte, tienes la oportunidad de escapar, pero los pasillos laberínticos y los nazis de gatillo fácil se interponen en tu camino hacia la libertad. \r\n\r\nCaracterísticas \r\n\r\n- Vive el origen del género de los shooter en primera persona modernos. \r\n- Disfruta de uno de los primeros FPS completamente tridimensionales de la historia. \r\n- Enfréntate a soldados nazis, científicos malvados, mutantes y mucho más. \r\n- Lucha con una gran variedad de armas, como cuchillos, pistolas y ametralladoras. \r\n- Corre, dispara y ábrete paso a través de seis episodios. \r\n\r\nIncluye la expansión 'Spear of Destiny'\r\n\r\nEn esta precuela de Wolfenstein 3D, eres William “B. J.” Blazkowicz, el agente más valioso del bloque aliado. Durante la blitzkrieg alemana de la Segunda Guerra Mundial, los nazis asaltaron Versalles y robaron la lanza que se clavó en el costado de Cristo, que fue trasladada al castillo de Núremberg. Según la leyenda, es imposible derrotar a quien empuñe la lanza. Tu misión consiste en superar las fuertes medidas de seguridad para infiltrarte en el baluarte nazi y recuperar la Lanza del Destino antes de que sea demasiado tarde. ",
@@ -60363,7 +60471,7 @@
       "hasDiscount": true,
       "discountPercent": 85,
       "rating": 4.3,
-      "ratingCount": 146,
+      "ratingCount": 147,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -61177,7 +61285,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.1,
-      "ratingCount": 35,
+      "ratingCount": 36,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
