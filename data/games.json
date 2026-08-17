@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-08-16T08:14:52.360Z",
+  "updatedAt": "2026-08-17T08:29:06.914Z",
   "market": "ES",
   "language": "es-ES",
-  "totalGames": 831,
+  "totalGames": 826,
   "counts": {
-    "essential": 129,
-    "premium": 582,
-    "pc": 520,
-    "ultimate": 738,
-    "total": 831
+    "essential": 128,
+    "premium": 578,
+    "pc": 516,
+    "ultimate": 733,
+    "total": 826
   },
   "categories": [
     "Acción y aventura",
@@ -775,8 +775,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 4.7,
-      "ratingCount": 44,
+      "rating": 4.6,
+      "ratingCount": 45,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -1691,101 +1691,6 @@
       "storeUrl": "https://www.xbox.com/es-es/games/store/aliens-dark-descent-windows/9N1M64W9XZQ7"
     },
     {
-      "id": "9PG28RXDG9GQ",
-      "title": "Aliens: Fireteam Elite",
-      "description": "Juega con hasta dos jugadores o la IA mientras luchas en cuatro campañas e investigas el misterio que rodea un nuevo planeta: LV-895. Descubre lo que se oculta entre las ruinas y las cuevas subterráneas en este juego de disparos y supervivencia en tercera persona ambientado en el universo de Aliens.\r\n\r\nCrea tu propio equipo con diferentes tipos de clases, consumibles y armas para acabar con xenomorfos, ganar en partidas de tarjetas de desafío o jugar a diversos modos con amigos.\r\n\r\nArrasa con hordas de xenomorfos, esquiva a saltadores y escupidores mortales y establece posiciones defensivas para mantenerte con vida el tiempo suficiente para poner a salvo a tu equipo.\r\n\r\nPersonaliza a tu marine. Sube de nivel las 7 clases únicas que existen o domina una por completo. Elige tu arma: desde mágnums hasta subfusiles y lanzamisiles. Utiliza más de 130 ventajas únicas para crear el conjunto que desees.\r\n\r\nSube de nivel tu personaje mediante 7 tipos de clases diferentes; cada una cuenta con dos habilidades únicas para usar en combate y ventajas desbloqueables. Maximiza una gran variedad de armas y potencia sus estadísticas con cada uso.",
-      "shortDescription": "Aliens: Fireteam Elite es un juego de supervivencia en tercera persona ambientado en el universo de Aliens. Lucha contra hordas de tipos diferentes de xenomorfos, personaliza tu personaje y equipo y sube de nivel mientras contienes la amenaza.",
-      "developer": "Cold Iron Studios",
-      "publisher": "Cold Iron Studios LLC",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.48016.14189206062547849.34667497-3c97-48d3-916d-0cd555e3aee9.bf7b37bc-9777-47ae-98c1-a56ad4015ae7",
-      "heroImage": "https://store-images.s-microsoft.com/image/apps.30369.14189206062547849.34667497-3c97-48d3-916d-0cd555e3aee9.057ac9cb-1d5f-4c0e-b5bc-7a78774595a7",
-      "screenshots": [
-        "https://store-images.s-microsoft.com/image/apps.57280.14189206062547849.5bdeaa8f-d36c-46a1-8607-65da1092c7b4.882fa0f3-7a7c-42f7-86a6-04237b618786",
-        "https://store-images.s-microsoft.com/image/apps.21121.14189206062547849.5bdeaa8f-d36c-46a1-8607-65da1092c7b4.4b926142-3739-44f5-91a3-03d1443b1a7a",
-        "https://store-images.s-microsoft.com/image/apps.368.14189206062547849.5bdeaa8f-d36c-46a1-8607-65da1092c7b4.6e2e7131-24d0-4118-825d-6b40ff5b9de2",
-        "https://store-images.s-microsoft.com/image/apps.19087.14189206062547849.5bdeaa8f-d36c-46a1-8607-65da1092c7b4.390d6907-ae79-4399-95db-4203b8e9a816"
-      ],
-      "videoUrl": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftassets/6a9a1bc9-04bb-4bd9-872b-e71b2dec4382-AVS.m3u8?packagedStreaming=true",
-      "videoCaption": "AFE Accolades",
-      "releaseDate": "2021-08-24",
-      "categories": [
-        "Acción y aventura",
-        "Shooter"
-      ],
-      "tiers": [
-        "pc",
-        "premium",
-        "ultimate"
-      ],
-      "platform": "both",
-      "price": 29.99,
-      "msrp": 29.99,
-      "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
-      "rating": 3,
-      "ratingCount": 177,
-      "ageRating": 16,
-      "pegiRating": "PEGI 16",
-      "pegiDescription": "Apropiado a partir de 16 años",
-      "interactiveDescriptions": [],
-      "capabilities": [
-        "Cooperativo en línea  (2-3)",
-        "Multijugador en línea  (2-3)",
-        "Multijugador multiplataforma de Xbox",
-        "4K Ultra HD",
-        "Un jugador",
-        "Cooperación multiplataforma de Xbox",
-        "Multijugador multgeneración de Xbox Live",
-        "Optimizado para Xbox Series X|S",
-        "Entrega inteligente",
-        "Controlador para juegos para PC",
-        "Logros de Xbox",
-        "Cosas guardadas en la nube de Xbox",
-        "Xbox Play Anywhere"
-      ],
-      "systemRequirements": [
-        {
-          "title": "SO",
-          "minimum": "Windows 10 version 18362.0 or higher",
-          "recommended": "Windows 10 version 18362.0 or higher"
-        },
-        {
-          "title": "Arquitectura",
-          "minimum": "x64",
-          "recommended": "x64"
-        },
-        {
-          "title": "Gráficos",
-          "minimum": "AMD R9 285 4GB / Nvidia GTX 760 4GB",
-          "recommended": "AMD RX 480 8GB / Nvidia GTX 1060 6GB"
-        },
-        {
-          "title": "Procesador",
-          "minimum": "AMD Athlon X4 950 / Intel i5-2500K",
-          "recommended": "AMD Ryzen 5 1600AF / Intel i5-7400"
-        },
-        {
-          "title": "DirectX",
-          "minimum": "Versión 11",
-          "recommended": "Versión 11"
-        },
-        {
-          "title": "Memoria",
-          "minimum": "8 GB",
-          "recommended": "16 GB"
-        },
-        {
-          "title": "Memoria de vídeo",
-          "minimum": "4 GB",
-          "recommended": "6 GB"
-        }
-      ],
-      "maxInstallSize": 32212254720,
-      "hasAddOns": true,
-      "storeUrl": "https://www.xbox.com/es-es/games/store/aliens-fireteam-elite/9PG28RXDG9GQ"
-    },
-    {
       "id": "9NG07QJNK38J",
       "title": "Among Us",
       "description": "Un juego para 4 a 15 jugadores en línea o en modo local mediante wifi en el que debéis preparar vuestra nave espacial para el despegue. Pero, cuidado: ¡uno o más jugadores elegidos al azar entre la tripulación son impostores dispuestos a matar al resto! \r\n\r\nAl haber sido ideado originalmente como un juego de socialización, se recomienda jugar entre amigos en una red local o en línea usando un chat de voz. Disfruta de este juego multiplataforma entre dispositivos móviles y PC.\r\n",
@@ -2450,7 +2355,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 2.2,
-      "ratingCount": 401,
+      "ratingCount": 402,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -3017,7 +2922,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.7,
-      "ratingCount": 21116,
+      "ratingCount": 21119,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -4940,147 +4845,6 @@
       "storeUrl": "https://www.xbox.com/es-es/games/store/astroneer/9NBLGGH43KZB"
     },
     {
-      "id": "9MVN3C4CPDT5",
-      "title": "Atlas Fallen: Reign of Sand",
-      "description": "En solitario o en modo cooperativo para 2 jugadores, experimenta Reign of Sand, la versión definitiva de Atlas Fallen. Viaja por las arenas de un universo atemporal y derrota a monstruos legendarios en batallas espectaculares utilizando poderes devastadores.\n \n Reign of Sand: la versión definitiva de Atlas Fallen\n \n Un mundo ampliado, nuevos enemigos y desafíos, progresión renovada, nuevas misiones, actuación de voz reelaborada, modo de dificultad adicional y modo 'Nuevo Juego+'. ¡El mundo de Atlas Fallen se enriquece con esta importante actualización totalmente gratuita!\n \n El mundo de Atlas Fallen te espera\n \n • En solitario o en modo cooperativo, caza criaturas legendarias colosales en combates espectaculares\n \n • Domina las arenas y explora una tierra de fantasía única repleta de secretos y peligros.\n \n • Desata poderes divinos para manifestar armas devastadoras a voluntad.\n \n • Personaliza tu estilo de juego con más de 170 Gemas de esencia",
-      "shortDescription": "En solitario o en modo cooperativo, experimenta Reign of Sand, la versión definitiva de Atlas Fallen. Cabalga sobre las arenas de una tierra eterna y derrota a monstruos legendarios en combates de RPG de acción utilizando poderes devastadores.",
-      "developer": "Deck13",
-      "publisher": "Focus Entertainment",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.33754.13856038441672716.325fdc4d-5bd6-4022-a9fa-b38cc4bd1996.9a6466fc-093e-4302-9ea3-6f31420714c4",
-      "heroImage": "https://store-images.s-microsoft.com/image/apps.31319.13856038441672716.325fdc4d-5bd6-4022-a9fa-b38cc4bd1996.3422a0c0-420f-430b-a699-2e5a794c1d3f",
-      "screenshots": [
-        "https://store-images.s-microsoft.com/image/apps.6212.13856038441672716.dce31395-3f10-4369-9e89-6e91a0e2ca56.3ffab149-c89f-486e-b681-51ac289e23f6",
-        "https://store-images.s-microsoft.com/image/apps.50095.13856038441672716.dce31395-3f10-4369-9e89-6e91a0e2ca56.79c40cce-4dd5-4a5e-88f1-188815eda64c",
-        "https://store-images.s-microsoft.com/image/apps.36675.13856038441672716.dce31395-3f10-4369-9e89-6e91a0e2ca56.29d64f36-fdbb-4086-8613-2387e8520d1e",
-        "https://store-images.s-microsoft.com/image/apps.26095.13856038441672716.dce31395-3f10-4369-9e89-6e91a0e2ca56.34680c25-61f2-436a-b75e-3e65798989f9"
-      ],
-      "videoUrl": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftassets/1bcf2493-409d-42b0-bf7b-ffac4891ef25-AVS.m3u8?packagedStreaming=true",
-      "videoCaption": "Atlas Fallen: Reign Of Sand - Launch Trailer",
-      "releaseDate": "2024-08-06",
-      "categories": [
-        "Acción y aventura"
-      ],
-      "tiers": [
-        "premium",
-        "ultimate"
-      ],
-      "platform": "console",
-      "price": 49.99,
-      "msrp": 49.99,
-      "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
-      "rating": 4,
-      "ratingCount": 106,
-      "ageRating": 12,
-      "pegiRating": "PEGI 12",
-      "pegiDescription": "Apropiado a partir de 12 años",
-      "interactiveDescriptions": [],
-      "capabilities": [
-        "Cooperativo en línea  (2-2)",
-        "Un jugador",
-        "Optimizado para Xbox Series X|S"
-      ],
-      "systemRequirements": [
-        {
-          "title": "Arquitectura",
-          "minimum": "x64",
-          "recommended": "x64"
-        }
-      ],
-      "maxInstallSize": 30979072000,
-      "hasAddOns": true,
-      "storeUrl": "https://www.xbox.com/es-es/games/store/atlas-fallen-reign-of-sand/9MVN3C4CPDT5"
-    },
-    {
-      "id": "9NCGTG3KR2W9",
-      "title": "Atlas Fallen: Reign of Sand (Windows)",
-      "description": "En solitario o en modo cooperativo para 2 jugadores, experimenta Reign of Sand, la versión definitiva de Atlas Fallen. Viaja por las arenas de un universo atemporal y derrota a monstruos legendarios en batallas espectaculares utilizando poderes devastadores.\n \n Reign of Sand: la versión definitiva de Atlas Fallen\n \n Un mundo ampliado, nuevos enemigos y desafíos, progresión renovada, nuevas misiones, actuación de voz reelaborada, modo de dificultad adicional y modo 'Nuevo Juego+'. ¡El mundo de Atlas Fallen se enriquece con esta importante actualización totalmente gratuita!\n \n El mundo de Atlas Fallen te espera\n \n • En solitario o en modo cooperativo, caza criaturas legendarias colosales en combates espectaculares\n \n • Domina las arenas y explora una tierra de fantasía única repleta de secretos y peligros.\n \n • Desata poderes divinos para manifestar armas devastadoras a voluntad.\n \n • Personaliza tu estilo de juego con más de 170 Gemas de esencia",
-      "shortDescription": "En solitario o en modo cooperativo, experimenta Reign of Sand, la versión definitiva de Atlas Fallen. Cabalga sobre las arenas de una tierra eterna y derrota a monstruos legendarios en combates de RPG de acción utilizando poderes devastadores.",
-      "developer": "Deck13 Interactive",
-      "publisher": "Focus Entertainment",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.33754.13563971826346196.3d957cff-bc47-48aa-b98f-be2691a13f70.27dc9896-5e36-4fbb-b9cc-d3e74fa53c24",
-      "heroImage": "https://store-images.s-microsoft.com/image/apps.31319.13563971826346196.3d957cff-bc47-48aa-b98f-be2691a13f70.f2160616-4476-4190-b158-a8bc1e5d68f6",
-      "screenshots": [
-        "https://store-images.s-microsoft.com/image/apps.6212.13563971826346196.3d957cff-bc47-48aa-b98f-be2691a13f70.e64fa956-9ca5-45d4-82da-3aaa402ed458",
-        "https://store-images.s-microsoft.com/image/apps.50095.13563971826346196.3d957cff-bc47-48aa-b98f-be2691a13f70.704eeb0e-2542-4cd9-a1bb-0a72c1e58705",
-        "https://store-images.s-microsoft.com/image/apps.36675.13563971826346196.3d957cff-bc47-48aa-b98f-be2691a13f70.de1f7c3e-bc77-4c31-a4a3-f55fbb9856fe",
-        "https://store-images.s-microsoft.com/image/apps.26095.13563971826346196.3d957cff-bc47-48aa-b98f-be2691a13f70.ca53b46e-45e1-4d09-ba21-40de7875e12a"
-      ],
-      "videoUrl": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftassets/8c617519-62b1-4ae9-8602-d967f63b064d-AVS.m3u8?packagedStreaming=true",
-      "videoCaption": "Atlas Fallen - Combat Trailer",
-      "releaseDate": "2024-08-22",
-      "categories": [
-        "Acción y aventura",
-        "Juegos de rol"
-      ],
-      "tiers": [
-        "pc",
-        "premium",
-        "ultimate"
-      ],
-      "platform": "pc",
-      "price": 39.99,
-      "msrp": 39.99,
-      "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
-      "rating": 3.6,
-      "ratingCount": 19,
-      "ageRating": 12,
-      "pegiRating": "PEGI 12",
-      "pegiDescription": "Apropiado a partir de 12 años",
-      "interactiveDescriptions": [],
-      "capabilities": [
-        "Cooperativo en línea  (2-2)",
-        "Un jugador",
-        "Logros de Xbox",
-        "Presencia de Xbox",
-        "Clubs de Xbox",
-        "Cosas guardadas en la nube de Xbox"
-      ],
-      "systemRequirements": [
-        {
-          "title": "SO",
-          "minimum": "Windows 10 version 18362.0 or higher",
-          "recommended": "Windows 10 version 18362.0 or higher"
-        },
-        {
-          "title": "Arquitectura",
-          "minimum": "x64",
-          "recommended": "x64"
-        },
-        {
-          "title": "Gráficos",
-          "minimum": "4 GB VRAM, GTX 1050 Ti/RX 470",
-          "recommended": "8 GB VRAM, GTX 1070 Ti/RX 5700"
-        },
-        {
-          "title": "Procesador",
-          "minimum": "Intel Core i5-6600K/AMD Ryzen 3 1200",
-          "recommended": "Intel Core i7-9800X/AMD Ryzen 5 3600"
-        },
-        {
-          "title": "DirectX",
-          "minimum": "API de DirectX 12, nivel de característica de hardware 11",
-          "recommended": "API de DirectX 12, nivel de característica de hardware 11"
-        },
-        {
-          "title": "Memoria",
-          "minimum": "8 GB",
-          "recommended": "16 GB"
-        },
-        {
-          "title": "Memoria de vídeo",
-          "minimum": "4 GB",
-          "recommended": ""
-        }
-      ],
-      "maxInstallSize": 33813372928,
-      "hasAddOns": true,
-      "storeUrl": "https://www.xbox.com/es-es/games/store/atlas-fallen-reign-of-sand-windows/9NCGTG3KR2W9"
-    },
-    {
       "id": "9NC4WDL5KZBL",
       "title": "Atomfall",
       "description": "Atomfall, un juego de acción y supervivencia inspirado en hechos reales, se desarrolla cinco años después del desastre nuclear de Windscale, en el norte de Inglaterra.\nExplora la zona ficticia de cuarentena, rebusca, fabrica, realiza intercambios, lucha y ábrete paso a través de un paisaje rural británico lleno de personajes extraños, misticismo, sectas y agencias gubernamentales corruptas.\nAtomfoll es un videojuego desarrollado por Rebellion, el estudio encargado de Sniper Elite y Zombie Army, que te retará a resolver el oscuro misterio de lo que realmente ocurrió.\nMisterio dirigido por el jugador: desentraña un entramado de historias entrelazadas mientras exploras, entablas conversaciones, investigas y luchas. Cada decisión que tomes tendrá consecuencias.\nExplora las tierras verdes e inhóspitas: en la pintoresca campiña británica, con sus colinas verdes escalonadas, sus valles exuberantes y sus pueblos rurales, se esconden los peligros que te aguardan.\nInvestiga, rebusca, sobrevive:  ¡tendrás que buscar provisiones, fabricar armas y objetos, y luchar a muerte para conseguir salir con vida!  ",
@@ -6649,7 +6413,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4,
-      "ratingCount": 95,
+      "ratingCount": 99,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -10350,7 +10114,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.7,
-      "ratingCount": 1149,
+      "ratingCount": 1150,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -11868,7 +11632,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 2.9,
-      "ratingCount": 46,
+      "ratingCount": 47,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -12197,7 +11961,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 1,
-      "ratingCount": 1,
+      "ratingCount": 2,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -12733,7 +12497,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 1.2,
-      "ratingCount": 37,
+      "ratingCount": 38,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -13026,8 +12790,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 3.4,
-      "ratingCount": 167,
+      "rating": 3.5,
+      "ratingCount": 168,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -17605,7 +17369,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 2.2,
-      "ratingCount": 168,
+      "ratingCount": 169,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -18740,8 +18504,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 3.5,
-      "ratingCount": 35,
+      "rating": 3.4,
+      "ratingCount": 36,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -19178,7 +18942,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.1,
-      "ratingCount": 65,
+      "ratingCount": 66,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -22101,68 +21865,6 @@
       "storeUrl": "https://www.xbox.com/es-es/games/store/firefighting-simulator-the-squad/9NBZ7Z3JRXQ8"
     },
     {
-      "id": "BQQKG9H2STC0",
-      "title": "Firewatch",
-      "description": "Firewatch es un juego de misterio en primera persona para un jugador que se desarrolla en la selva de Wyoming.\n\nEstamos en el año 1989. Eres un hombre llamado Henry que se ha retirado de la vida ajetreada para trabajar de vigilante contra incendios forestales en los montes de Wyoming. Estacionado sobre la cima de una montaña, tu trabajo será localizar el humo y mantener a salvo tu entorno natural. Es un verano más caluroso y seco de lo habitual y todo el mundo está nervioso. Tu supervisora, una mujer llamada Delilah, estará disponible en todo momento para ayudarte; puedes contactar con ella utilizando una pequeña radio portátil, pues es tu único contacto con el mundo que has dejado atrás. Pero, cuando algo extraño te lleva a salir de tu torre de vigilancia para salir al mundo, explorarás un entorno salvaje y desconocido, deberás enfrentarte a tus dudas y tomar decisiones que puedan construir o destruir la única relación significativa que tienes.\n\nNota: Firewatch es un videojuego sobre adultos que tienen conversaciones de adultos sobre temas de adultos. Si piensas jugar con un jugador más joven, deberías saberlo antes de empezar.\n\nIncluye\n■ Un entorno salvaje de una impresionante belleza que se amplía a medida que vas explorando.\n■ Una historia a medida: las decisiones que tomas modelan la narración y desarrollan tus relaciones.\n■ Un emocionantísimo misterio.\n■ Secretos y descubrimientos en cada colina.\n\nCaracterísticas\n\n■ Personajes vivos y realistas que cobran vida de la mano de Cissy Jones (The Walking Dead: Temporada 1) y de Rich Sommer (Mad Men)\n■ Un espectacular entorno salvaje creado por Olly Moss (ilustrador) y Jane Ng (The Cave,\nBrutal Legend)\n■ Una historia emocionante y un guión a cargo de Sean Vanaman y Jake Rodkin (The Walking Dead: Temporada 1, Poker Night at the Inventory)\n■ Una impresionante banda sonora original obra de Chris Remo (Gone Home, Spacebase DF-9)\n■ Una fluida animación en primera persona creada por James Benson (Ori & the Blind Forest)\n■ El trabajo de diseño y mecánica de juego es obra de Patrick Ewing (Twitter) y Nels Anderson (Mark of the Ninja)\n■ Programación de Will Armstrong (Bioshock II) y Ben Burbank (Costume Quest 2,\nSpacebase DF-9)",
-      "shortDescription": "Firewatch es un juego de misterio en primera persona para un jugador que se desarrolla en la selva de Wyoming.\n",
-      "developer": "Campo Santo",
-      "publisher": "Campo Santo",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.15571.68688977722932617.c18986e0-354d-49e5-a689-33d52a7432cb.f9f494d3-344f-411f-9b26-7f175a994678",
-      "heroImage": "https://store-images.s-microsoft.com/image/apps.14501.68688977722932617.c18986e0-354d-49e5-a689-33d52a7432cb.4324e613-281f-4948-bd74-d17321615130",
-      "screenshots": [
-        "https://store-images.s-microsoft.com/image/apps.24629.68688977722932617.c18986e0-354d-49e5-a689-33d52a7432cb.d328ba99-3640-494a-bd2a-08a9175460df",
-        "https://store-images.s-microsoft.com/image/apps.44708.68688977722932617.c18986e0-354d-49e5-a689-33d52a7432cb.0b83d95d-359f-4374-bee3-6aa9d22bb77f",
-        "https://store-images.s-microsoft.com/image/apps.43692.68688977722932617.c18986e0-354d-49e5-a689-33d52a7432cb.5af17b3a-7910-4201-970a-85f32a25e074",
-        "https://store-images.s-microsoft.com/image/apps.44320.68688977722932617.c18986e0-354d-49e5-a689-33d52a7432cb.bfd6590b-1aa3-4f71-9be7-f1bdbd5daa81"
-      ],
-      "videoUrl": "",
-      "videoCaption": "",
-      "releaseDate": "2016-09-23",
-      "categories": [
-        "Acción y aventura"
-      ],
-      "tiers": [
-        "essential",
-        "pc",
-        "premium",
-        "ultimate"
-      ],
-      "platform": "both",
-      "price": 19.98,
-      "msrp": 19.98,
-      "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
-      "rating": 4.6,
-      "ratingCount": 380,
-      "ageRating": 16,
-      "pegiRating": "PEGI 16",
-      "pegiDescription": "Apropiado a partir de 16 años",
-      "interactiveDescriptions": [],
-      "capabilities": [
-        "Controlador para juegos para PC",
-        "Logros de Xbox",
-        "Presencia de Xbox",
-        "Cosas guardadas en la nube de Xbox",
-        "Xbox Play Anywhere"
-      ],
-      "systemRequirements": [
-        {
-          "title": "SO",
-          "minimum": "Windows 10 version 18362.0 or higher",
-          "recommended": "Windows 10 version 18362.0 or higher"
-        },
-        {
-          "title": "Arquitectura",
-          "minimum": "x64",
-          "recommended": "x64"
-        }
-      ],
-      "maxInstallSize": 4326723584,
-      "hasAddOns": false,
-      "storeUrl": "https://www.xbox.com/es-es/games/store/firewatch/BQQKG9H2STC0"
-    },
-    {
       "id": "9N7MVHP2R7VP",
       "title": "FixForce",
       "description": "Salta, trepa y lanza a tus amigos en este caótico juego de plataformas cooperativo de extracción para hasta 6 jugadores. Usa tu llave-taladro para abrirte paso por un vibrante mundo posapocalíptico, encontrar piezas de repuesto y reparar máquinas averiadas.\\r\\n\\r\\nCONSTRUYE CON AMIGOS\\r\\n\\r\\nComo robots de la brigada FixForce, tú y hasta 5 amigos levantaréis torres y pasarelas con chatarra y trastos para trepar y moveros por toda la obra. Rescataos unos a otros cuando la cosa se ponga fea y recordad que lo alto o lejos que lleguéis solo depende de cuánta chatarra consigáis encontrar.\\r\\n\\r\\nBUSCAR + REPARAR\\r\\n\\r\\nEn cada ronda, tú y tu equipo apareceréis cerca de máquinas que necesitan reparación urgente. Una vez localizadas, recorred la zona con vuestra llave-taladro en busca de las piezas de repuesto perfectas que os permitan arreglar las máquinas para poder terminar a tiempo. Puede incluso que os salga algún trabajillo extra para llenaros más los bolsillos...\\r\\n\\r\\nRIESGOS LABORALES\\r\\n\\r\\nNo hay dos encargos iguales, pero todos conllevan riesgos y robots renegados violentos. Manteneos alerta para protegeros mutuamente y defender vuestras valiosas torres y puentes de su furia destructiva mientras acabáis el trabajo.\\r\\n\\r\\nPERO SIN PERDER LA CABEZA\\r\\n\\r\\nFixForce es sinónimo de fiabilidad y los encargos de alto riesgo son el pan de cada día. Si te pegas una leche, te caes al agua o das con un robot renegado, tus amigos solo tendrán que recuperar tu cabeza y acoplársela a otro cuerpo para dejarte ¡como nuevo!\\r\\n\\r\\nVENTAJAS DEL PUESTO\\r\\n\\r\\nEl trabajo no da tregua, pero tú tampoco te quedas atrás. Cada reparación exitosa llena tu cuenta bancaria, lo cual te permite conseguir nuevas herramientas para mejorar tu eficiencia y afrontar los retos más difíciles a cambio de unos retoques poco ortodoxos en el uniforme.\\r\\n\\r\\nEmpuña la llave-taladro: usa tu herramienta integrada para arreglar máquinas, construir torres y puentes para moverte, recoger las cabezas caídas de tus amigos y lanzar objetos por los aires.",
@@ -22835,7 +22537,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.7,
-      "ratingCount": 4442,
+      "ratingCount": 4444,
       "ageRating": 12,
       "pegiRating": "Supervisión parental recomendada",
       "pegiDescription": "Supervisión parental recomendada",
@@ -22996,7 +22698,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.1,
-      "ratingCount": 321,
+      "ratingCount": 322,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -23741,7 +23443,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.6,
-      "ratingCount": 11256,
+      "ratingCount": 11257,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -23926,7 +23628,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 2.9,
-      "ratingCount": 360,
+      "ratingCount": 361,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -23986,7 +23688,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.7,
-      "ratingCount": 200,
+      "ratingCount": 201,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -24151,8 +23853,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 4.1,
-      "ratingCount": 55,
+      "rating": 4,
+      "ratingCount": 59,
       "ageRating": 18,
       "pegiRating": "PEGI 18 PROVISIONAL",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -26601,7 +26303,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.9,
-      "ratingCount": 143,
+      "ratingCount": 147,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -27009,7 +26711,7 @@
       "hasDiscount": true,
       "discountPercent": 70,
       "rating": 4.5,
-      "ratingCount": 75,
+      "ratingCount": 76,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -27367,8 +27069,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 4.1,
-      "ratingCount": 56,
+      "rating": 4.2,
+      "ratingCount": 57,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -28019,7 +27721,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3,
-      "ratingCount": 101,
+      "ratingCount": 102,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -28210,7 +27912,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.8,
-      "ratingCount": 620,
+      "ratingCount": 621,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -28303,7 +28005,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.2,
-      "ratingCount": 472,
+      "ratingCount": 473,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -29695,7 +29397,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.6,
-      "ratingCount": 18,
+      "ratingCount": 19,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -30393,7 +30095,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.1,
-      "ratingCount": 263,
+      "ratingCount": 264,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -30547,7 +30249,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.5,
-      "ratingCount": 275,
+      "ratingCount": 276,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -30836,8 +30538,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 3.9,
-      "ratingCount": 90,
+      "rating": 4,
+      "ratingCount": 91,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -33332,85 +33034,6 @@
       "storeUrl": "https://www.xbox.com/es-es/games/store/medieval-dynasty-xbox-one/9N2PS831S84N"
     },
     {
-      "id": "9NQCJ397CQ6P",
-      "title": "MENACE (Versión preliminar del juego)",
-      "description": "Este juego es un trabajo en curso. Es posible que, con el tiempo, cambie o no cambie, o que no se lance como producto final. Compra este producto únicamente si estás satisfecho con el estado actual del juego no terminado.\n\nLidera una fuerza de marines, mercenarios y criminales en un sistema lejano, al margen de los Mundos Primordiales. En la lejana frontera, el sistema Antaño está bajo el yugo de piratas, corporaciones de dudosa moral y gobiernos planetarios quebrantados que luchan por un nuevo orden. Comienza al mando de un destacamento de marines a bordo del crucero de ataque Impetus RCT, aunque pronto te verás en la necesidad de unir a las gentes del lugar bajo tu liderazgo para derrotar a una amenaza desconocida. Despliega tanques, caminantes, mechas y pelotones de infantería con un amplio abanico de herramientas disponibles. Asegúrate de que tus tropas estén bien entrenadas, planea las operaciones y enfréntate en batallas tácticas absolutamente letales.\n\nLos desarrolladores de Battle Brothers nos llevan al futuro distante en MENACE, un juego de rol táctico por turnos que tiene lugar en un sistema aislado donde hay indicios de una nueva amenaza desconocida hasta el momento.\n\nASUME EL MANDO\nEl destacamento del Cuerpo de Marines de la República ha venido a devolver la frontera al redil, pero lo que tendría que ser una mera misión de pacificación se convertirá pronto en una amenaza que pondrá en jaque a todo el sistema...\n\n- Tú eliges cómo encargarte de la situación. Empezarás a recibir llamadas de auxilio procedentes de múltiples planetas, y tendrás que decidir a quién responder, qué recursos emplear y cuándo actuar en función del nivel de preparación. Tus elecciones determinarán el modo en que te ven las facciones locales y tendrán un impacto directo en las relaciones y los favores que podrían llegar a estar dispuestas a hacerte. ¿Darás prioridad a los criminales especialistas en obtener inteligencia, hackear equipo enemigo y conseguir los mejores precios de los traficantes locales? ¿O los dejarás de lado con la idea de centrarte en los equipos de reparación y recuperación para seguir teniendo a tu alcance vehículos operativos y tecnología avanzada?\n- Las comunicaciones se han caído, así que estás en lo alto de la cadena de mando y los marines, los mercenarios y los criminales acuden a ti en busca de respuestas. Una operación no se limita a un solo campo de batalla, sino que se ramifica en diversas misiones en las que tendrás que combatir a lo largo y ancho de planetas enteros. Valora tus opciones a medida que progresas en una operación y elige de entre las misiones que tengas disponibles: podrías encargarte de las defensas aéreas enemigas que te impiden desplegar tanques, pero también podrías ir directamente a por tu objetivo y rescatar a los rehenes que necesitas para ganarte el apoyo de los lugareños. Progresa en las misiones hasta que logres completar la operación y avanzar en la gran campaña, pero recuerda que cada una de las decisiones que tomes tendrá consecuencias trascendentales, no solo con la operación en sí, sino con el destino de todo el sistema.\n- El crucero de ataque Impetus RCT se ha convertido en tu base de operaciones, que no solo te sirve para desplazarte de misión en misión, sino que proporciona apoyo desde la órbita y un lugar en el que las tropas pueden tomarse un merecido descanso. Invierte en mejoras y personaliza tu cuartel móvil para que se adapte a tu estilo de juego. Busca oportunidades entre los aliados locales para comenzar con ventaja en la tarea que tienes en mano.\n- Sin acceso alguno al arsenal naval estándar que tan bien conoces, tendrás que valerte del mercado negro de la zona y de lo que rapiñes en combate para equipar a tus pelotones. Cada uno de los enfrentamientos servirá no solo para poner bajo control al fracturado sistema, sino para obtener equipo nuevo con el que cumplir tu misión, como la maquinaria de guerra improvisada de las facciones piratas o el armamento de alta calidad de los mercenarios locales.\n\nCOMBATE TÁCTICO DE ALTO RIESGO\nCuando tu enemigo te supera en número y a veces en tecnología, la muerte acecha en cada esquina. Además, las condiciones climatológicas y la variedad de biomas harán que los enemigos humanos sean el menor de tus problemas durante los enfrentamientos en los múltiples campos de batalla. Por si fuera poco, el algún lugar recóndito del planeta se oculta algo alienígena que se sirve de métodos impredecibles e implacables.\n\n- Las batallas en MENACE no son coser y cantar: tendrás que enfrentarte a enemigos despiadados y muy bien preparados que no dudarán en arrojarte una lluvia de plomo, plasma y fuego, así que prepárate para perder pelotones enteros a diestro y siniestro y para adaptarte a un campo de batalla que cambia en todo momento. Pacificar un sistema entero no es una labor exenta de riesgos y necesitarás demostrar pericia si quieres alzarte con la victoria.\n- Flanquea al enemigo para neutralizar su cobertura, o sácalos de ahí a base de artillería. Usa las protecciones para preparar ataques en pinza con los que mantener al enemigo acorralado y sin opciones defensivas. No bajes la guardia, aunque uses toda la información recabada en los informes para idear una estrategia cuidada, los planes nunca sobreviven al primer contacto con el enemigo.\n- Vigila el alcance efectivo de tus armas, su daño de acuerdo con la distancia y su utilidad contra enemigos ligeros o blindados. Incluso más allá del alcance ideal, todos los disparos afectan un poco al pelotón más cercano, sea o no el objetivo que tenías en mente, sin importar que sea aliado o enemigo. El armamento pesado es más propenso a intimidar al enemigo que las armas pequeñas, por lo que podrás adaptarte al enfoque que quieras tirando del arsenal disponible. Estudia al enemigo para decidirte entre usarlos de diana con tus francotiradores o emplear fuego de cobertura y recortar distancias con tus tropas.\n- Llega a la batalla a bordo de una gama de vehículos con distintas fortalezas, debilidades y armamento donde elegir; transportadores de tropas, sistemas MLRS, camionetas adaptadas y mucho más. La potencia de fuego de los tanques pesados es inmensa, pero la libertad y rapidez que tienen los Caminantes para girarse son cruciales a la hora de responder a las amenazas más veloces. Necesitarás pilotos selectos para desplegar tus vehículos, y no saldrá barato. ¿Traerás la artillería autopropulsada requisada a los mercenarios a expensas de privar a tu infantería de mejor equipo? Esta decisión podría hacer que perdieras un pelotón entero, pero la potencia de fuego adicional podría ser lo que buscas para asegurar la victoria.\n- Usa los recursos limitados antes de las misiones para que tus pelotones estén listos para la tarea. Los pelotones de infantería pueden cambiar su armadura para buscar el equilibrio entre la protección y los accesorios adicionales, como drones, granadas o marcadores de blancos. Hay una amplia variedad de armas con las que equipar a tus pelotones, incluyendo las poderosas armas de especialistas (lanzallamas, fusiles de francotirador o cañones PEM, entre otras). Cada una de ellas tendrá ventajas, pero también desventajas.\n\nCADA PERSONAJE ES ÚNICO\nPike es el marine por excelencia: leal a la República y un soldado profesional que no se amilana ante la adversidad. Rewa no puede dejar de revivir traumas pasados y sentir una furia latente. Lim le debe una a Pike por salvar su colonia, y además no se fía de quien no pertenezca a los marines: tendrá que aprender a colaborar con ellos poco a poco. En MENACE, los líderes de pelotón tienen sus propias historias y personalidades, por lo que como su comandante, tu labor también está en mediar en los conflictos que puedan surgir.\n\n- Cada uno de los líderes tiene sus propias expectativas y aspiraciones, sin importar si pertenecen a tus leales marines o si son locales que has reclutado. Sus logros y fracasos en el campo de batalla irán dando forma a su liderazgo: si hay múltiples eliminaciones enemigas confirmadas en una misión, la moral podría reforzarse en los siguientes enfrentamientos; pero si, por el contrario, es el equipo al completo el que perece, el rendimiento del líder se verá afectado hasta que recupere la compostura. ¿Decidirás ponerle a cargo de un pelotón que no da la talla solo porque necesitas filas numerosas? ¿O aceptarás dar de baja a sus integrantes para que tengan tiempo de recuperarse, aunque eso pueda poner en riesgo la operación?\n- Los líderes van mejorando con el tiempo y subiendo de rango, lo que te permitirá personalizarlos y mejorar el desempeño del pelotón a su cargo. Mantenlos con vida y mejóralos mediante un árbol de ascensos lleno de habilidades activas y pasivas con las que enfrentarse al enemigo.\n- En cada partida se extrae una selección de personajes de una reserva descomunal. Descubre cómo se entrelazan sus trasfondos y prepárate para experimentar las combinaciones únicas de cada campaña. Las historias se irán desarrollando de forma inesperada a medida que vayas conociendo a tus líderes. Observa cómo se desmoronan bajo la presión de un cataclismo en ciernes y entrénalos lo mejor posible para luchar contra la amenaza.\n\nUNA EXPERIENCIA NUEVA CADA VEZ\nGracias a la generación procedimental de operaciones compuestas por varias misiones y de mapas de batalla, y junto a una gran selección de personajes y equipo, cada partida de MENACE será diferente de la anterior. Enfréntate a un auténtico desafío que muestra distintas facetas con cada partida nueva y que pondrá a prueba tu pericia y tu capacidad para innovar.\n\nVisita https://discord.com/invite/gYbaYRqwNe para obtener detalles completos sobre el estado más reciente del juego, así como para proporcionar comentarios y notificar problemas.",
-      "shortDescription": "Lucha contra la amenaza alienígena en un juego de rol táctico de los creadores de Battle Brothers. Multitud de planetas piden auxilio: prepara tu infantería, tus tanques y tus mechas, planifica tus misiones y ponlas en marcha en batallas por turnos llenas de detalle.",
-      "developer": "Overhype Studios",
-      "publisher": "Hooded Horse",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.2468.13771742326595134.4fa71590-3431-450f-bd7b-c15460aaef4d.c128d248-af58-4e02-bfb3-63cdb485980b",
-      "heroImage": "https://store-images.s-microsoft.com/image/apps.6475.13771742326595134.f8e03fea-8d76-499e-8b99-bf26a0ad0bf2.b21a6bf1-4df2-4668-a02c-aa2d47c3c709",
-      "screenshots": [
-        "https://store-images.s-microsoft.com/image/apps.62171.13771742326595134.ab0c8eb7-a7b5-4686-bc22-5659b711ed37.a303cf9d-bb72-4a74-b0fa-39b75b641cda",
-        "https://store-images.s-microsoft.com/image/apps.30739.13771742326595134.ab0c8eb7-a7b5-4686-bc22-5659b711ed37.712b88df-5aa8-4f7e-9ef4-107292af6827",
-        "https://store-images.s-microsoft.com/image/apps.32487.13771742326595134.e346fd6c-0d6c-4978-8933-363a9e81aee9.d55f528c-749d-4112-896b-92186ca57bff",
-        "https://store-images.s-microsoft.com/image/apps.29362.13771742326595134.ab0c8eb7-a7b5-4686-bc22-5659b711ed37.e78c625c-920f-4ed2-af70-0ff2cefca28a"
-      ],
-      "videoUrl": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftassets/1baea66e-1d02-4628-b5c9-d41fb761b2bd-AVS.m3u8?packagedStreaming=true",
-      "videoCaption": "MENACE - Release Date Announcement Trailer",
-      "releaseDate": "2026-02-05",
-      "categories": [
-        "Estrategia",
-        "Juegos de rol"
-      ],
-      "tiers": [
-        "pc",
-        "ultimate"
-      ],
-      "platform": "pc",
-      "price": 39.99,
-      "msrp": 39.99,
-      "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
-      "rating": 4.2,
-      "ratingCount": 5,
-      "ageRating": 16,
-      "pegiRating": "PEGI 16",
-      "pegiDescription": "Apropiado a partir de 16 años",
-      "interactiveDescriptions": [],
-      "capabilities": [
-        "Un jugador",
-        "Logros de Xbox",
-        "Cosas guardadas en la nube de Xbox"
-      ],
-      "systemRequirements": [
-        {
-          "title": "SO",
-          "minimum": "Windows 10 version 18362.0 or higher",
-          "recommended": "Windows 10 version 18362.0 or higher"
-        },
-        {
-          "title": "Arquitectura",
-          "minimum": "x64",
-          "recommended": "x64"
-        },
-        {
-          "title": "Gráficos",
-          "minimum": "NVIDIA® GeForce® GTX 1050 Ti (4 GB) / AMD® Radeon™ RX 570 (4 GB)",
-          "recommended": "NVIDIA® GeForce™ RTX 2070 (8 GB) or AMD® Radeon™ RX 5700 XT (8 GB)"
-        },
-        {
-          "title": "Procesador",
-          "minimum": "Intel® Core™ i5-7600 (quad-core) or AMD® Ryzen™ 5 1500X (quad-core)",
-          "recommended": "Intel® Core™ i5-9600K (hexa-core) or AMD® Ryzen™ 5 2600X (hexa-core)"
-        },
-        {
-          "title": "DirectX",
-          "minimum": "Versión 11",
-          "recommended": "API de DirectX 12, nivel de característica de hardware 12"
-        },
-        {
-          "title": "Memoria",
-          "minimum": "8 GB",
-          "recommended": "16 GB"
-        }
-      ],
-      "maxInstallSize": 11088797696,
-      "hasAddOns": false,
-      "storeUrl": "https://www.xbox.com/es-es/games/store/menace-versi-n-preliminar-del-juego/9NQCJ397CQ6P"
-    },
-    {
       "id": "9NDJLXD2X2DM",
       "title": "Mi Amiga, Peppa Pig",
       "description": "¡Embárcate en una divertida aventura con tu nueva amiga Peppa Pig!\r\n\r\nCrea a tu personaje animal y vístelo, llama al timbre de Peppa y empieza una aventura que depende solo de ti. Peppa te sugiere aventuras dondequiera que vas: ayuda a Papá Pig a encontrar sus gafas, sigue el rastro de un animal en el bosque, salta en charcos de barro y mucho más. Es como estar en un episodio de la serie, donde todos tus personajes favoritos están deseando conocerte. Desde la playa hasta el museo o Patatolandia, cada sesión es una experiencia nueva con tu amiga Peppa Pig.",
@@ -33895,7 +33518,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.7,
-      "ratingCount": 51456,
+      "ratingCount": 51461,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -34278,7 +33901,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4,
-      "ratingCount": 15772,
+      "ratingCount": 15773,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -34473,7 +34096,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.5,
-      "ratingCount": 61375,
+      "ratingCount": 61377,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -34775,7 +34398,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3,
-      "ratingCount": 61,
+      "ratingCount": 62,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -38828,7 +38451,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.6,
-      "ratingCount": 920,
+      "ratingCount": 921,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -39419,7 +39042,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.6,
-      "ratingCount": 241,
+      "ratingCount": 242,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -39691,7 +39314,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.2,
-      "ratingCount": 82,
+      "ratingCount": 83,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -40826,7 +40449,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.5,
-      "ratingCount": 181,
+      "ratingCount": 182,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -41872,7 +41495,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 2.4,
-      "ratingCount": 37,
+      "ratingCount": 38,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -43324,7 +42947,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.5,
-      "ratingCount": 328,
+      "ratingCount": 329,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -43480,7 +43103,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.7,
-      "ratingCount": 226,
+      "ratingCount": 227,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -43706,7 +43329,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.3,
-      "ratingCount": 57,
+      "ratingCount": 58,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -45011,7 +44634,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.7,
-      "ratingCount": 2986,
+      "ratingCount": 2987,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -45875,7 +45498,7 @@
           "recommended": ""
         }
       ],
-      "maxInstallSize": 74081660928,
+      "maxInstallSize": 74112901120,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/skull-and-bones/BXF9VWKCD6QW"
     },
@@ -54800,7 +54423,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 125551112192,
+      "maxInstallSize": 124539543552,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/tom-clancy-s-the-division-2/BVQ3V30ZXVT5"
     },
@@ -57788,7 +57411,7 @@
           "recommended": "Mouse integrado"
         }
       ],
-      "maxInstallSize": 77726457856,
+      "maxInstallSize": 77731926016,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/war-thunder/BX1DTCBD1HXJ"
     },
@@ -59172,7 +58795,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.1,
-      "ratingCount": 436,
+      "ratingCount": 437,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -59980,7 +59603,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.7,
-      "ratingCount": 35,
+      "ratingCount": 36,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -61463,7 +61086,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.5,
-      "ratingCount": 47,
+      "ratingCount": 48,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
