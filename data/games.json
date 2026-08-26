@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-08-25T08:27:52.548Z",
+  "updatedAt": "2026-08-26T08:28:52.976Z",
   "market": "ES",
   "language": "es-ES",
-  "totalGames": 827,
+  "totalGames": 829,
   "counts": {
-    "essential": 128,
-    "premium": 583,
-    "pc": 517,
-    "ultimate": 734,
-    "total": 827
+    "essential": 129,
+    "premium": 584,
+    "pc": 519,
+    "ultimate": 736,
+    "total": 829
   },
   "categories": [
     "Acción y aventura",
@@ -2173,7 +2173,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.2,
-      "ratingCount": 106,
+      "ratingCount": 107,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -2923,7 +2923,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.7,
-      "ratingCount": 21123,
+      "ratingCount": 21125,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -6414,7 +6414,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4,
-      "ratingCount": 114,
+      "ratingCount": 115,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -7280,6 +7280,99 @@
       "maxInstallSize": 0,
       "hasAddOns": false,
       "storeUrl": "https://www.xbox.com/es-es/games/store/blizzard-arcade-collection-pc/9NJRRVNZ8MRJ"
+    },
+    {
+      "id": "9MSVBF0KZFVW",
+      "title": "Blood Dungeon",
+      "description": "De los creadores de Nidhogg llega un juego de supervivencia y plataformas en 2D. Ábrete paso por medio del parkour en traicioneras mazmorras para dar esquinazo a los monstruos al tiempo que reúnes sangre y potenciadores. \n\nSobrevive a una incursión, lleva los huesos que hayas amasado a la tienda y hazte más fuerte. \n\nCompleta misiones para desbloquear mejoras, arenas, aspectos y mucho más.",
+      "shortDescription": "Liquida a hordas de monstruos al ritmo de una banda sonora brutal en este autoshooter de plataformas en 2D de los creadores de Nidhogg. Reúne sangre, oro y huesos para fortalecer tus poderes. ¿Sobrevivirás a la Blood Dungeon?",
+      "developer": "Messhof",
+      "publisher": "Messhof",
+      "imageUrl": "https://store-images.s-microsoft.com/image/apps.32680.13820636594696612.89ecbd3c-b2c0-41f3-8114-c05de3a18b22.5721e9d2-88c6-4358-b9d6-2845cbdf8e38",
+      "heroImage": "https://store-images.s-microsoft.com/image/apps.2173.13820636594696612.89ecbd3c-b2c0-41f3-8114-c05de3a18b22.75b0a15c-a098-4c47-a5c5-cfe9aabea869",
+      "screenshots": [
+        "https://store-images.s-microsoft.com/image/apps.64111.13820636594696612.89ecbd3c-b2c0-41f3-8114-c05de3a18b22.ab00122b-b17f-4ce1-b9a6-d9de8f1ef025",
+        "https://store-images.s-microsoft.com/image/apps.29952.13820636594696612.89ecbd3c-b2c0-41f3-8114-c05de3a18b22.20f87681-7622-4c62-8565-ac5f7f6a0b46",
+        "https://store-images.s-microsoft.com/image/apps.20082.13820636594696612.89ecbd3c-b2c0-41f3-8114-c05de3a18b22.b238bc8d-6b42-487b-9b0b-75488cd6d439",
+        "https://store-images.s-microsoft.com/image/apps.51911.13820636594696612.89ecbd3c-b2c0-41f3-8114-c05de3a18b22.97d4bcd0-dfde-4e86-9ff4-9f095c4301b2"
+      ],
+      "videoUrl": "https://cdn.trailers.xboxservices.com/trailers/00000000-0000-0000-0000-000000000000/xbox/prod/videos/mainprofile/13820636594696612/455d1738-284b-425f-96dd-46bccfd2fff4/manifest.m3u8",
+      "videoCaption": "Blood Dungeon // Launch Trailer",
+      "releaseDate": "2026-08-25",
+      "categories": [
+        "Plataformas",
+        "Acción y aventura",
+        "Otros"
+      ],
+      "tiers": [
+        "pc",
+        "ultimate"
+      ],
+      "platform": "both",
+      "price": 8.49,
+      "msrp": 9.99,
+      "currency": "EUR",
+      "hasDiscount": true,
+      "discountPercent": 15,
+      "rating": 0,
+      "ratingCount": 0,
+      "ageRating": 16,
+      "pegiRating": "PEGI 16",
+      "pegiDescription": "Apropiado a partir de 16 años",
+      "interactiveDescriptions": [],
+      "capabilities": [
+        "Un jugador",
+        "60 fps +",
+        "Optimizado para Xbox Series X|S",
+        "Logros de Xbox",
+        "Cosas guardadas en la nube de Xbox",
+        "Xbox Play Anywhere"
+      ],
+      "systemRequirements": [
+        {
+          "title": "SO",
+          "minimum": "Windows 10 version 18362.0 or higher",
+          "recommended": "Windows 10 version 18362.0 or higher"
+        },
+        {
+          "title": "Arquitectura",
+          "minimum": "x64",
+          "recommended": "x64"
+        },
+        {
+          "title": "Gráficos",
+          "minimum": "GeForce GTX 650 / Radeon HD 7750 / Iris Pro Graphics 580",
+          "recommended": "GeForce GTX 650 / Radeon HD 7750 / Iris Pro Graphics 580"
+        },
+        {
+          "title": "Procesador",
+          "minimum": "Intel Core i5-4570T / AMD A10-5800K APU",
+          "recommended": "Intel Core i5-4570T / AMD A10-5800K APU"
+        },
+        {
+          "title": "DirectX",
+          "minimum": "Versión 11",
+          "recommended": "Versión 11"
+        },
+        {
+          "title": "Memoria",
+          "minimum": "8 GB",
+          "recommended": "8 GB"
+        },
+        {
+          "title": "Memoria de vídeo",
+          "minimum": "2 GB",
+          "recommended": "2 GB"
+        },
+        {
+          "title": "Controladora",
+          "minimum": "",
+          "recommended": "Controladora de Xbox"
+        }
+      ],
+      "maxInstallSize": 531509248,
+      "hasAddOns": false,
+      "storeUrl": "https://www.xbox.com/es-es/games/store/blood-dungeon/9MSVBF0KZFVW"
     },
     {
       "id": "9PFRTPRQ569Q",
@@ -8226,7 +8319,7 @@
           "recommended": "2 GB"
         }
       ],
-      "maxInstallSize": 2009595904,
+      "maxInstallSize": 2006847488,
       "hasAddOns": false,
       "storeUrl": "https://www.xbox.com/es-es/games/store/buckshot-roulette/9P5B8CPQ9S7F"
     },
@@ -12560,7 +12653,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.6,
-      "ratingCount": 65,
+      "ratingCount": 66,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -12699,8 +12792,8 @@
       "shortDescription": "Atrapados eternamente en un reino donde mora un mal aterrador y la muerte no existe como escapatoria, cuatro decididos supervivientes se enfrentan a un sanguinario asesino en un cruel juego que pondrá a prueba tu ingenio. Escoge un bando y entra en un mundo de tensión y espanto: descubre el mejor multijugador asimétrico de terror que existe.",
       "developer": "Behaviour Interactive Inc.",
       "publisher": "Behaviour Interactive Inc.",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.16719.64366672042187759.733004ed-c696-44cf-98cc-30eddf2375a8.3dd6c96e-e0c3-4a0b-aeb0-810f815a6d37",
-      "heroImage": "https://store-images.s-microsoft.com/image/apps.13651.64366672042187759.733004ed-c696-44cf-98cc-30eddf2375a8.6bdb69ed-d0ef-4157-b2df-7ea97d3b1c4a",
+      "imageUrl": "https://store-images.s-microsoft.com/image/apps.26358.64366672042187759.89bd4c1b-4d8f-40ca-8c54-de07041e776c.c15ee693-0ff6-4945-963b-ad2295ce7941",
+      "heroImage": "https://store-images.s-microsoft.com/image/apps.2648.64366672042187759.89bd4c1b-4d8f-40ca-8c54-de07041e776c.fccff4e6-31c9-448f-9738-77e1cb947fba",
       "screenshots": [
         "https://store-images.s-microsoft.com/image/apps.12604.64366672042187759.e80ba144-8092-4889-bf35-dc5c5d65e674.03116756-2cb6-485d-8c3d-0598945cffbc",
         "https://store-images.s-microsoft.com/image/apps.37035.64366672042187759.e80ba144-8092-4889-bf35-dc5c5d65e674.44e3aa18-9fb9-433d-8662-fe3346aea65b",
@@ -12766,8 +12859,8 @@
       "shortDescription": "Atrapados eternamente en un reino donde mora un mal aterrador y la muerte no existe como escapatoria, cuatro decididos supervivientes se enfrentan a un sanguinario asesino en un cruel juego que pondrá a prueba tu ingenio. Escoge un bando y entra en un mundo de tensión y espanto: descubre el mejor multijugador asimétrico de terror que existe.",
       "developer": "Behaviour Interactive Inc.",
       "publisher": "Behaviour Interactive Inc.",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.16719.13756572830160292.a0be61ed-4aae-47f9-8a44-c8be54b53f15.917800ae-51f5-48b3-aa38-cb498fde9b40",
-      "heroImage": "https://store-images.s-microsoft.com/image/apps.13651.13756572830160292.a0be61ed-4aae-47f9-8a44-c8be54b53f15.1c02c3b1-16f3-47dc-b18a-317c080cf2f6",
+      "imageUrl": "https://store-images.s-microsoft.com/image/apps.57024.13756572830160292.0d9ecfc6-24df-4a81-9122-c427d59c4c3b.f0ad617d-7e00-49e4-b0a7-f08dd26a6b32",
+      "heroImage": "https://store-images.s-microsoft.com/image/apps.60881.13756572830160292.0d9ecfc6-24df-4a81-9122-c427d59c4c3b.47f087a3-bb36-4575-a725-1a1982cc8565",
       "screenshots": [
         "https://store-images.s-microsoft.com/image/apps.12604.13756572830160292.7196dd08-c5aa-4079-b02f-3c9fbc412475.c2c3cf7d-1134-4e7d-bec9-0593fb29446c",
         "https://store-images.s-microsoft.com/image/apps.37035.13756572830160292.7196dd08-c5aa-4079-b02f-3c9fbc412475.1ce759aa-d5c9-4fa1-83e9-de77dc709292",
@@ -12792,8 +12885,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 3.5,
-      "ratingCount": 168,
+      "rating": 3.4,
+      "ratingCount": 169,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -18227,8 +18320,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 4.3,
-      "ratingCount": 652,
+      "rating": 4.4,
+      "ratingCount": 653,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -18284,7 +18377,7 @@
           "recommended": "8 GB"
         }
       ],
-      "maxInstallSize": 55977844736,
+      "maxInstallSize": 56012034048,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/enlisted/9NHKL695M9F2"
     },
@@ -18351,7 +18444,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 55970349056,
+      "maxInstallSize": 56004530176,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/enlisted-xbox-one/9PF432CVQBXT"
     },
@@ -22089,11 +22182,11 @@
         "ultimate"
       ],
       "platform": "pc",
-      "price": 23.99,
+      "price": 59.99,
       "msrp": 59.99,
       "currency": "EUR",
-      "hasDiscount": true,
-      "discountPercent": 60,
+      "hasDiscount": false,
+      "discountPercent": 0,
       "rating": 2,
       "ratingCount": 29,
       "ageRating": 3,
@@ -22172,11 +22265,11 @@
         "ultimate"
       ],
       "platform": "both",
-      "price": 23.99,
+      "price": 59.99,
       "msrp": 59.99,
       "currency": "EUR",
-      "hasDiscount": true,
-      "discountPercent": 60,
+      "hasDiscount": false,
+      "discountPercent": 0,
       "rating": 1.6,
       "ratingCount": 39,
       "ageRating": 3,
@@ -22371,7 +22464,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 121791086592,
+      "maxInstallSize": 123065839616,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/for-honor-standard-edition/9N3DWR830CVN"
     },
@@ -22423,7 +22516,7 @@
         "Xbox One X mejorado"
       ],
       "systemRequirements": [],
-      "maxInstallSize": 121791086592,
+      "maxInstallSize": 123065839616,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/for-honor-marching-fire-edition/C4CBF3FHHCND"
     },
@@ -22539,7 +22632,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.7,
-      "ratingCount": 4456,
+      "ratingCount": 4457,
       "ageRating": 12,
       "pegiRating": "Supervisión parental recomendada",
       "pegiDescription": "Supervisión parental recomendada",
@@ -22569,7 +22662,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 95036821504,
+      "maxInstallSize": 95041912832,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/fortnite/BT5P2X999VH2"
     },
@@ -23919,7 +24012,7 @@
       "hasDiscount": true,
       "discountPercent": 75,
       "rating": 3.1,
-      "ratingCount": 163,
+      "ratingCount": 164,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -26191,8 +26284,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 3.8,
-      "ratingCount": 157,
+      "rating": 3.9,
+      "ratingCount": 158,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -26599,8 +26692,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 4.5,
-      "ratingCount": 80,
+      "rating": 4.4,
+      "ratingCount": 83,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -26958,8 +27051,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 4.2,
-      "ratingCount": 57,
+      "rating": 4.1,
+      "ratingCount": 58,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -27298,7 +27391,7 @@
           "recommended": "Mouse integrado"
         }
       ],
-      "maxInstallSize": 7135444992,
+      "maxInstallSize": 7135449088,
       "hasAddOns": false,
       "storeUrl": "https://www.xbox.com/es-es/games/store/heroes-of-might-and-magic-olden-era-versi-n-preliminar-del-juego/9P2TFCCRKMRD"
     },
@@ -28481,7 +28574,7 @@
       "hasDiscount": true,
       "discountPercent": 90,
       "rating": 3.2,
-      "ratingCount": 126,
+      "ratingCount": 127,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -30826,11 +30919,11 @@
         "ultimate"
       ],
       "platform": "both",
-      "price": 17.49,
+      "price": 69.99,
       "msrp": 69.99,
       "currency": "EUR",
-      "hasDiscount": true,
-      "discountPercent": 75,
+      "hasDiscount": false,
+      "discountPercent": 0,
       "rating": 4.9,
       "ratingCount": 75,
       "ageRating": 18,
@@ -30918,11 +31011,11 @@
         "ultimate"
       ],
       "platform": "both",
-      "price": 14.99,
+      "price": 59.99,
       "msrp": 59.99,
       "currency": "EUR",
-      "hasDiscount": true,
-      "discountPercent": 75,
+      "hasDiscount": false,
+      "discountPercent": 0,
       "rating": 4.5,
       "ratingCount": 42,
       "ageRating": 18,
@@ -31759,7 +31852,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.2,
-      "ratingCount": 68,
+      "ratingCount": 69,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -33051,7 +33144,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.5,
-      "ratingCount": 26,
+      "ratingCount": 27,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -33108,7 +33201,7 @@
       "hasDiscount": true,
       "discountPercent": 65,
       "rating": 3,
-      "ratingCount": 1478,
+      "ratingCount": 1479,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -33287,8 +33380,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 4.5,
-      "ratingCount": 6,
+      "rating": 4.6,
+      "ratingCount": 8,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -33407,7 +33500,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.7,
-      "ratingCount": 51504,
+      "ratingCount": 51511,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -33790,7 +33883,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4,
-      "ratingCount": 15794,
+      "ratingCount": 15800,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -33985,7 +34078,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.5,
-      "ratingCount": 61421,
+      "ratingCount": 61427,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -35037,9 +35130,9 @@
       "discountPercent": 0,
       "rating": 3.9,
       "ratingCount": 10,
-      "ageRating": 3,
-      "pegiRating": "PEGI 3",
-      "pegiDescription": "Apropiado a partir de 3 años",
+      "ageRating": 12,
+      "pegiRating": "PEGI 12",
+      "pegiDescription": "Apropiado a partir de 12 años",
       "interactiveDescriptions": [],
       "capabilities": [
         "Un jugador",
@@ -37613,6 +37706,106 @@
       "storeUrl": "https://www.xbox.com/es-es/games/store/oddballers/9N4WHFF9HJ7H"
     },
     {
+      "id": "9N0QWXC09MPT",
+      "title": "Once Human",
+      "description": "Once Human es un juego de supervivencia en mundos extraños, ambientado en un extraño mundo apocalíptico. Lucha codo a codo con tus amigos por recursos de supervivencia, construye el territorio de tu hogar y superen juntos lo desconocido y aterrador mientras revelan la verdad detrás de la caída del mundo. Antes eras humano. ¿Lo sigues siendo?\n\nMundo despertó\nAntes eran autos, TVs, sillas. Ahora tienen piernas, lenguas y ojos abiertos.\n\nTodo está fuera\nLas latas te mantienen vivo. Anomalías impulsan tu equipo, armas e inicio.\n\nPelea en equipo\nDerrota y aísla anomalías. Los enemigos de hoy pueden ser aliados mañana.\n\nCrea tu arsenal\nCrea cientos de armas con restos y energía anómala. Cada tiro cuenta.\n\nConstruye casa\nCortan madera, extraen mineral y riegan. Tú no eres el único que la mantiene.\n\nÚnete a ellos\nPuedes ser una Anomalía. Derrótala, tómala, vuélvete. Su energía es tu arma.",
+      "shortDescription": "Once Human es un juego de supervivencia multijugadoren un mundo abierto postapocalíptico. Únete a tus amigos paraluchar por la supervivencia, construye tu santuario y conquista aterradorasaberraciones para desentrañar la verdad que hay detrásdel apocalipsis.",
+      "developer": "NETEASE INTERACTIVE ENTERTAINMENT PTE.LTD",
+      "publisher": "NETEASE INTERACTIVE ENTERTAINMENT PTE.LTD",
+      "imageUrl": "https://store-images.s-microsoft.com/image/apps.26737.13916126641198036.93e1b525-8641-4737-a69b-7287498c268a.dc8a8b1c-9323-4ba2-8bcc-953be8a9c701",
+      "heroImage": "https://store-images.s-microsoft.com/image/apps.42166.13916126641198036.93e1b525-8641-4737-a69b-7287498c268a.175f7f1a-408c-4f9c-8d77-0fa1ed7a323d",
+      "screenshots": [
+        "https://store-images.s-microsoft.com/image/apps.47920.13916126641198036.93e1b525-8641-4737-a69b-7287498c268a.4a40b209-5310-4d84-a122-d33e4703e781",
+        "https://store-images.s-microsoft.com/image/apps.28889.13916126641198036.93e1b525-8641-4737-a69b-7287498c268a.299f6d7f-f507-4ab7-8c12-98dc50916c83",
+        "https://store-images.s-microsoft.com/image/apps.32845.13916126641198036.93e1b525-8641-4737-a69b-7287498c268a.731c672a-ded2-4fbf-8e54-0b54bdb1320c",
+        "https://store-images.s-microsoft.com/image/apps.55701.13916126641198036.93e1b525-8641-4737-a69b-7287498c268a.95b8f90e-4bf9-458e-bf53-a7f6133549c8"
+      ],
+      "videoUrl": "https://cdn.trailers.xboxservices.com/trailers/00000000-0000-0000-0000-000000000000/xbox/prod/videos/mainprofile/13916126641198036/275e7084-bcbf-4282-bdda-b52e08253e36/manifest.m3u8",
+      "videoCaption": "Console Release Date Reveal Trailer",
+      "releaseDate": "2026-08-25",
+      "categories": [
+        "Shooter",
+        "Juegos de rol",
+        "Campo de batalla en línea para varios jugadores",
+        "Acción y aventura"
+      ],
+      "tiers": [
+        "essential",
+        "pc",
+        "premium",
+        "ultimate"
+      ],
+      "platform": "both",
+      "price": 0,
+      "msrp": 0,
+      "currency": "EUR",
+      "hasDiscount": false,
+      "discountPercent": 0,
+      "rating": 2.2,
+      "ratingCount": 30,
+      "ageRating": 18,
+      "pegiRating": "PEGI 18",
+      "pegiDescription": "Apropiado a partir de 18 años",
+      "interactiveDescriptions": [
+        "Interacción de usuarios",
+        "Compras dentro del juego (Incluye artículos aleatorios)"
+      ],
+      "capabilities": [
+        "Multijugador en línea  (2-100)",
+        "Multijugador multiplataforma de Xbox",
+        "4K Ultra HD",
+        "Cooperación multiplataforma de Xbox",
+        "Optimizado para Xbox Series X|S",
+        "Mouse y teclado de la consola",
+        "Xbox Play Anywhere"
+      ],
+      "systemRequirements": [
+        {
+          "title": "SO",
+          "minimum": "Windows 10 version 18362.0 or higher",
+          "recommended": "Windows 10 version 18362.0 or higher"
+        },
+        {
+          "title": "Arquitectura",
+          "minimum": "x64",
+          "recommended": "x64"
+        },
+        {
+          "title": "Gráficos",
+          "minimum": "Nvidia GTX 750ti 4G/ AMD Redeon RX550",
+          "recommended": "Nvidia GTX 1060 6G / AMD Redeon RX 580"
+        },
+        {
+          "title": "Procesador",
+          "minimum": "Intel Core i5-4460",
+          "recommended": "Intel Core i7-7700"
+        },
+        {
+          "title": "DirectX",
+          "minimum": "Versión 11",
+          "recommended": "API de DirectX 12, nivel de característica de hardware 12"
+        },
+        {
+          "title": "Memoria",
+          "minimum": "8 GB",
+          "recommended": "16 GB"
+        },
+        {
+          "title": "Teclado",
+          "minimum": "",
+          "recommended": "Teclado integrado"
+        },
+        {
+          "title": "Mouse",
+          "minimum": "",
+          "recommended": "Mouse integrado"
+        }
+      ],
+      "maxInstallSize": 112426881024,
+      "hasAddOns": true,
+      "storeUrl": "https://www.xbox.com/es-es/games/store/once-human/9N0QWXC09MPT"
+    },
+    {
       "id": "9NRCM30L6GRQ",
       "title": "One Lonely Outpost",
       "description": "Eres el primer pionero que llega a la superficie de un mundo estéril y alienígena, una extensión desolada hasta donde alcanza la vista. Tu trabajo es sencillo: Coge tu Space-RV, enciende tu guantelete tecnológico multiusos y utiliza las semillas que encuentres en el cargamento para empezar una nueva vida en este mundo. Con el tiempo, conseguirás que el planeta sea habitable para ti y para docenas de futuros colonos. Pero hasta entonces, será un puesto solitario...\n",
@@ -38832,8 +39025,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 4,
-      "ratingCount": 18,
+      "rating": 4.1,
+      "ratingCount": 19,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -39096,11 +39289,11 @@
         "ultimate"
       ],
       "platform": "both",
-      "price": 17.99,
+      "price": 59.99,
       "msrp": 59.99,
       "currency": "EUR",
-      "hasDiscount": true,
-      "discountPercent": 70,
+      "hasDiscount": false,
+      "discountPercent": 0,
       "rating": 4.7,
       "ratingCount": 414,
       "ageRating": 16,
@@ -43060,8 +43253,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 2.3,
-      "ratingCount": 54,
+      "rating": 2.2,
+      "ratingCount": 55,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -43867,7 +44060,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.1,
-      "ratingCount": 1427,
+      "ratingCount": 1429,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -45612,7 +45805,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 28322750464,
+      "maxInstallSize": 28885946368,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/smite-2/9NV8W1KJSQLL"
     },
@@ -47379,7 +47572,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.8,
-      "ratingCount": 1839,
+      "ratingCount": 1840,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -51293,7 +51486,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.5,
-      "ratingCount": 417,
+      "ratingCount": 419,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -51749,7 +51942,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.8,
-      "ratingCount": 189,
+      "ratingCount": 190,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -51860,7 +52053,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.8,
-      "ratingCount": 250,
+      "ratingCount": 251,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -53228,7 +53421,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.6,
-      "ratingCount": 381,
+      "ratingCount": 382,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -58021,7 +58214,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 104501850112,
+      "maxInstallSize": 104511254528,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/warhammer-vermintide-2/BXZWT67JBZJH"
     },
@@ -59191,7 +59384,7 @@
           "recommended": "Micrófono integrado"
         }
       ],
-      "maxInstallSize": 336925089792,
+      "maxInstallSize": 338005815296,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/where-winds-meet/9N76QGDS5GJR"
     },
@@ -60513,8 +60706,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 2.9,
-      "ratingCount": 20,
+      "rating": 2.8,
+      "ratingCount": 21,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
