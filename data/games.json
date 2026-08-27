@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-08-26T08:28:52.976Z",
+  "updatedAt": "2026-08-27T18:28:00.078Z",
   "market": "ES",
   "language": "es-ES",
-  "totalGames": 829,
+  "totalGames": 830,
   "counts": {
     "essential": 129,
     "premium": 584,
-    "pc": 519,
-    "ultimate": 736,
-    "total": 829
+    "pc": 520,
+    "ultimate": 737,
+    "total": 830
   },
   "categories": [
     "Acción y aventura",
@@ -62,7 +62,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 2.2,
-      "ratingCount": 46,
+      "ratingCount": 47,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -159,8 +159,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 4.2,
-      "ratingCount": 73,
+      "rating": 4.1,
+      "ratingCount": 74,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -353,7 +353,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.5,
-      "ratingCount": 44,
+      "ratingCount": 45,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -1725,7 +1725,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.8,
-      "ratingCount": 384,
+      "ratingCount": 385,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -2103,7 +2103,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.9,
-      "ratingCount": 137,
+      "ratingCount": 138,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -2717,7 +2717,7 @@
       "hasDiscount": true,
       "discountPercent": 75,
       "rating": 4.6,
-      "ratingCount": 353,
+      "ratingCount": 354,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -2923,7 +2923,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.7,
-      "ratingCount": 21125,
+      "ratingCount": 21127,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -5749,7 +5749,7 @@
       "hasDiscount": true,
       "discountPercent": 85,
       "rating": 4.5,
-      "ratingCount": 435,
+      "ratingCount": 436,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -6414,7 +6414,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4,
-      "ratingCount": 115,
+      "ratingCount": 117,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -7314,8 +7314,8 @@
       "currency": "EUR",
       "hasDiscount": true,
       "discountPercent": 15,
-      "rating": 0,
-      "ratingCount": 0,
+      "rating": 2.8,
+      "ratingCount": 5,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -8615,7 +8615,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 2.2,
-      "ratingCount": 447,
+      "ratingCount": 448,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -9618,11 +9618,11 @@
         "ultimate"
       ],
       "platform": "both",
-      "price": 8.99,
+      "price": 29.99,
       "msrp": 29.99,
       "currency": "EUR",
-      "hasDiscount": true,
-      "discountPercent": 70,
+      "hasDiscount": false,
+      "discountPercent": 0,
       "rating": 3.7,
       "ratingCount": 72,
       "ageRating": 3,
@@ -9805,11 +9805,11 @@
         "ultimate"
       ],
       "platform": "both",
-      "price": 7.99,
+      "price": 39.99,
       "msrp": 39.99,
       "currency": "EUR",
-      "hasDiscount": true,
-      "discountPercent": 80,
+      "hasDiscount": false,
+      "discountPercent": 0,
       "rating": 3.8,
       "ratingCount": 146,
       "ageRating": 18,
@@ -11054,11 +11054,11 @@
         "ultimate"
       ],
       "platform": "console",
-      "price": 39.99,
+      "price": 5.99,
       "msrp": 39.99,
       "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
+      "hasDiscount": true,
+      "discountPercent": 85,
       "rating": 4,
       "ratingCount": 92,
       "ageRating": 16,
@@ -12167,11 +12167,11 @@
         "ultimate"
       ],
       "platform": "both",
-      "price": 19.49,
+      "price": 29.99,
       "msrp": 29.99,
       "currency": "EUR",
-      "hasDiscount": true,
-      "discountPercent": 35,
+      "hasDiscount": false,
+      "discountPercent": 0,
       "rating": 4.5,
       "ratingCount": 92,
       "ageRating": 16,
@@ -14023,7 +14023,7 @@
           "recommended": "Micrófono integrado"
         }
       ],
-      "maxInstallSize": 4463390720,
+      "maxInstallSize": 4461985792,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/deep-rock-galactic/9NHFVWX1V7QJ"
     },
@@ -18599,8 +18599,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 3.3,
-      "ratingCount": 38,
+      "rating": 3.4,
+      "ratingCount": 37,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -18631,7 +18631,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 27328053248,
+      "maxInstallSize": 27648421888,
       "hasAddOns": false,
       "storeUrl": "https://www.xbox.com/es-es/games/store/escape-the-backrooms/9MW15L8FRT9P"
     },
@@ -18668,7 +18668,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 1.5,
-      "ratingCount": 512,
+      "ratingCount": 513,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -19201,8 +19201,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 3.5,
-      "ratingCount": 24,
+      "rating": 3.4,
+      "ratingCount": 25,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -20419,17 +20419,17 @@
     {
       "id": "C0KJ40T9QD86",
       "title": "Far Cry® 4",
-      "description": "SECUELA DEL TIRADOR NÚMERO 1 DE 2012*\n\nConstruido a partir del legendario ADN de su galardonado predecesor, Far Cry® 4 ofrece la experiencia más amplia y envolvente de Far Cry® nunca vista en un nuevo y masivo mundo abierto. Con juego cooperativo de mundo abierto y drop-in drop-out integrado, Far Cry 4 reimagina la experiencia cooperativa para las consolas de nueva generación.  Ahora podrás descubrir y explorar el mundo abierto de Kyrat a la vez. \n\nEscondido en la imponente sierra del Himalaya se encuentra Kyrat, un país lleno de tradición y violencia.  Tú eres a Ajay Ghale. En tu viaje a Kyrat para cumplir el último deseo de tu madre, te encontrarás atrapado en una guerra civil para derrocar al régimen opresor del dictador Pagan Min.  Explora y navega este vasto mundo abierto donde el peligro y la imprevisibilidad acechan en cada esquina.  Aquí, cada decisión cuenta y cada segundo es una historia.  BIENVENIDO A KYRAT.\n \nCARACTERÍSTICAS DEL JUEGO:\n \n• MODO COOP DE MUNDO ABIERTO REVOLUCIONARIO: Far Cry 2 permite que el segundo jugador pueda entra y salir del juego en cualquier momento, reimaginando la experiencia cooperativa para próxima generación bajo el verdadero espíritu de Far Cry. Ahora podrás descubrir y explorar el mundo abierto de Kyrat a la vez. \n\n• Mundo abierto masivo: Descubre el mundo más diverso de Far Cry jamás creado.  Con un terreno que abarca desde frondosos bosques a Himalayas nevados, el mundo entero está vivo ... y es mortal.\n\n• ABUNDANTE NUEVA VIDA SALVAJE: Desde leopardos, rinocerontes, águilas negras, y tejones de miel vicioso, mientras te embarcas en tu búsqueda de recursos, sabes que algo puede estar intentándote cazar a ti también...\n\n• NUEVAS FORMAS DE MOVERSE: Explora el territorio enemigo desde arriba en el totalmente nuevo girocóptero y vuelve a la tierra en tu traje con alas. Sube a la parte trasera de un elefante de 6 toneladas y da rienda suelta a sus fuerza bruta sobre tus enemigos. \n\n• NUEVAS ARMAS DE GRAN ALCANCE: Elige el arma adecuada para el trabajo, sin importar cuán loco o impredecible pueda ser el trabajo. Con un arsenal muy variado, estarás preparado para cualquier cosa. \n\n* Basado en Metacritic desde 18/12/2012",
-      "shortDescription": "Escondido en la imponente sierra del Himalaya se encuentra Kyrat, un país lleno de tradición y violencia.  Tú eres a Ajay Ghale. En tu viaje a Kyrat para cumplir el último deseo de tu madre, te encontrarás atrapado en una guerra civil para derrocar al régimen opresor del dictador Pagan Min.  Explora y navega este vasto mundo abierto donde el peligro y la imprevisibilidad acechan en cada esquina.  Aquí, cada decisión cuenta y cada segundo es una historia.  BIENVENIDO A KYRAT.",
+      "description": "DOMINA UN ARSENAL LETAL\nElige la herramienta perfecta para cada situación, ¡desde ballestas silenciosas hasta potentes lanzacohetes! Ya prefieras el sigilo o la fuerza explosiva, tu variado arsenal garantiza que siempre tengas todo listo para enfrentarte a los peligros de Kyrat.\n\nEXPLORA LAS ALTURAS DE KYRAT\nMuévete por el mundo abierto de FARCRY más vertical y diverso. Explora los frondosos bosques y las cumbres nevadas del territorio enemigo desde el girocóptero antes de descender en picado por los valles con tu traje de alas para tomar ventaja.\n\nDESATA EL PODER DE LA NATURALEZA\nEn Kyrat hay una fauna abundante y peligrosa, desde leopardos y rinocerontes hasta feroces rateles. Monta en un elefante de guerra de seis toneladas para arrasar los puestos avanzados enemigos y aplastar a las fuerzas de Pagan Min con puro poder animal.\n\nMODO COOPERATIVO EN MUNDO ABIERTO\nNo te enfrentes a la naturaleza en solitario. Invita a un amigo a entrar y salir de tu partida en cualquier momento para explorar juntos el mundo vivo de Kyrat. Coordina ataques contra puestos avanzados fortificados y caza bestias legendarias en este mundo abierto.\n\nPara acceder a las funciones en línea se necesita conexión a Internet, una cuenta de Ubisoft y una cuenta de Microsoft.",
+      "shortDescription": "Lucha para liberar una región del Himalaya devastada por la guerra en este shooter en primera persona de mundo abierto. Equípate con un arsenal letal, usa girocópteros y elefantes de guerra para dominar la tierra y el aire, y adéntrate en el territorio enemigo en solitario o en cooperativo.",
       "developer": "Ubisoft Entertainment",
       "publisher": "Ubisoft Entertainment",
       "imageUrl": "https://store-images.s-microsoft.com/image/apps.39188.14286944504058611.3e034c1a-7e15-4e7d-b215-ef424d80d5e7.e847702b-a550-4396-929e-2265837971a7",
       "heroImage": "https://store-images.s-microsoft.com/image/apps.44418.14286944504058611.3e034c1a-7e15-4e7d-b215-ef424d80d5e7.d6c1114a-3068-4a8e-8250-17609b794ca7",
       "screenshots": [
-        "https://store-images.s-microsoft.com/image/apps.53616.14286944504058611.3e034c1a-7e15-4e7d-b215-ef424d80d5e7.0beaeea4-3a60-4e58-a2ac-40441b2c83a6",
-        "https://store-images.s-microsoft.com/image/apps.63853.14286944504058611.3e034c1a-7e15-4e7d-b215-ef424d80d5e7.0e0cb7cf-86f2-4795-a41f-a1b1a65a5ffe",
-        "https://store-images.s-microsoft.com/image/apps.15480.14286944504058611.3e034c1a-7e15-4e7d-b215-ef424d80d5e7.09f29998-8f80-4b21-b13d-1023569cd997",
-        "https://store-images.s-microsoft.com/image/apps.23290.14286944504058611.3e034c1a-7e15-4e7d-b215-ef424d80d5e7.62276386-a48a-4652-b6cd-a0c817c97c76"
+        "https://store-images.s-microsoft.com/image/apps.54184.64350501736896385.3b605a70-8b49-4014-ad6e-ea58a0742bd5.cc6acb55-dd77-4a38-9984-bf34360ffee2",
+        "https://store-images.s-microsoft.com/image/apps.45751.64350501736896385.3b605a70-8b49-4014-ad6e-ea58a0742bd5.c95afc27-b6a7-4e01-83f3-bde34ee31b91",
+        "https://store-images.s-microsoft.com/image/apps.56509.64350501736896385.3b605a70-8b49-4014-ad6e-ea58a0742bd5.1a6a2cd9-2205-4a5e-88e2-2a96b1c6ece8",
+        "https://store-images.s-microsoft.com/image/apps.58309.64350501736896385.3b605a70-8b49-4014-ad6e-ea58a0742bd5.f7ec563a-cc67-4f0f-bb6a-73183e093882"
       ],
       "videoUrl": "",
       "videoCaption": "",
@@ -20475,20 +20475,20 @@
     {
       "id": "BR7X7MVBBQKM",
       "title": "Far Cry® 5",
-      "description": "Te damos la bienvenida al condado de Hope (Montana), la tierra de los libres y valientes, pero también el hogar de una secta apocalíptica llena de fanáticos. Enfréntate a su líder, Joseph Seed, y sus hermanos, los Heraldos, para prender la mecha de la resistencia y liberar a la comunidad asediada. \r\n \r\nDESCUBRE UNO DE LOS FAR CRY MÁS ACLAMADOS \r\nÚnete a los millones de jugadores de Far Cry® 5 y descubre lo que IGN describe como \"diversión frenética\". \r\n \r\nPLANTA CARA A LA SECTA MORTAL DE JOSEPH SEED \r\nLibra al condado de Hope de la secta de la Puerta del Edén y de la familia Seed. Descubre la primera aparición del carismático antagonista Joseph Seed antes de su regreso en Far Cry® New Dawn y su propio DLC en Far Cry® 6: Caída. \r\n \r\nEXPLORA EL CONDADO DE HOPE EN SOLITARIO O COOPERATIVO Y ESTABLECE TUS PROPIAS REGLAS \r\nJuega en solitario o en un modo cooperativo de dos jugadores en el inmenso mundo abierto del condado de Hope. Haz uso de un vasto arsenal que incluye desde lanzacohetes hasta palas, y conduce cochazos icónicos, quads, avionetas y muchas cosas más para luchar contra las fuerzas de la secta en enfrentamientos épicos. Alíate con animales de compañía, como el aclamado oso Cheeseburger y el perro Boomer, y libera el condado de Hope de las garras de sus opresores.",
-      "shortDescription": "Descubre el mundo abierto del condado de Hope (Montana), un lugar asediado por una secta apocalíptica llena de fanáticos. Sumérgete en la acción de la campaña en solitario o en un modo cooperativo de dos personas, usa un amplio arsenal de armas y aliados, y libra al condado de Hope de Joseph Seed y su secta.",
-      "developer": "UBISOFT MONTREAL",
-      "publisher": "UBISOFT",
+      "description": "Libera el condado de Hope de una secta apocalíptica liderada por Joseph Seed y su familia en este shooter en primera persona de mundo abierto ambientado en el corazón de Montana.\n\nCOMBATE EXPLOSIVO Y VISCERAL\nEnfréntate a la secta usando un arsenal letal masivo o ejecuciones sigilosas y mortíferas. Utiliza todas las herramientas que tienes a tu disposición, desde palas para luchar cuerpo a cuerpo hasta potentes lanzacohetes, para desmantelar la Puerta del Edén en un combate sangriento.\n\nEXPLORA UN MUNDO ABIERTO DINÁMICO\nExplora el vasto territorio de Big Sky Country por tierra, agua y aire. Pilota aviones para librar combates aéreos o recorre los campos en bólidos y quads. El mundo reacciona a cada uno de tus movimientos mientras liberas Hope County a tu modo.\n\nRECLUTA A TU ESCUADRÓN\nNo luches en solitario. Recluta a mercenarios, rebeldes especializados en apoyo táctico y animales acompañantes como el perro Boomer y el oso Cheeseburger para que exploren, distraigan y acosen a los escuadrones enemigos.\n\nJUEGA LA CAMPAÑA COMPLETA EN MODO COOPERATIVO\nVive toda la aventura en solitario o con un amigo en cooperativo para 2 jugadores. Coordinad vuestras tácticas, compartir vuestros arsenales y reclamad el condado de Hope juntos.\n\nPara acceder a las funciones en línea se necesita conexión a Internet, una cuenta de Ubisoft y una cuenta de Microsoft.",
+      "shortDescription": "Enfréntate a una secta de fanáticos en este shooter en primera persona de mundo abierto. Libra combates intensos en territorio hostil, recluta a seguidores leales y aliados animales, y libera el condado de Hope en solitario o en cooperativo para 2 jugadores.",
+      "developer": "Ubisoft Montreal",
+      "publisher": "Ubisoft",
       "imageUrl": "https://store-images.s-microsoft.com/image/apps.11227.69582963086497758.e1cff2e3-ddf1-42bf-930d-f380ad63f100.38d7bb7c-3e33-471b-b22d-0f0a635832ad",
       "heroImage": "https://store-images.s-microsoft.com/image/apps.22845.69582963086497758.e1cff2e3-ddf1-42bf-930d-f380ad63f100.1ef04059-9768-4999-b495-f48a52290ae9",
       "screenshots": [
-        "https://store-images.s-microsoft.com/image/apps.60353.69582963086497758.e1cff2e3-ddf1-42bf-930d-f380ad63f100.d5bd93c9-e392-45da-bb66-dc0b4876aa2b",
-        "https://store-images.s-microsoft.com/image/apps.57193.69582963086497758.e1cff2e3-ddf1-42bf-930d-f380ad63f100.09094209-9ba8-4248-9550-3f39df716ecb",
-        "https://store-images.s-microsoft.com/image/apps.1061.69582963086497758.e1cff2e3-ddf1-42bf-930d-f380ad63f100.7d8073c0-65e5-4168-b785-cb78b6f3b2ef",
-        "https://store-images.s-microsoft.com/image/apps.48397.69582963086497758.e1cff2e3-ddf1-42bf-930d-f380ad63f100.bcafc751-c64c-4957-930d-2026644e2697"
+        "https://store-images.s-microsoft.com/image/apps.47013.69582963086497758.df335b6a-c16d-4bcc-a490-54b906497015.c93b8fd6-8eec-4f72-bc31-8a138abe9722",
+        "https://store-images.s-microsoft.com/image/apps.50810.69582963086497758.df335b6a-c16d-4bcc-a490-54b906497015.c28fcb5a-6ef5-49f8-aba1-26fc4e171a34",
+        "https://store-images.s-microsoft.com/image/apps.35052.69582963086497758.df335b6a-c16d-4bcc-a490-54b906497015.cba8c13e-d831-4127-87ec-929dc46c3986",
+        "https://store-images.s-microsoft.com/image/apps.14893.69582963086497758.df335b6a-c16d-4bcc-a490-54b906497015.c072d480-a8d3-4f9f-ba2c-84cfb679c897"
       ],
-      "videoUrl": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftassets/dbcdb01b-e90d-40d6-aa99-d1e1b5ec7cbe-AVS.m3u8?packagedStreaming=true",
-      "videoCaption": "Launch Trailer",
+      "videoUrl": "",
+      "videoCaption": "",
       "releaseDate": "2018-03-27",
       "categories": [
         "Acción y aventura",
@@ -21252,7 +21252,7 @@
       "hasDiscount": true,
       "discountPercent": 75,
       "rating": 4,
-      "ratingCount": 69,
+      "ratingCount": 70,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -22632,7 +22632,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.7,
-      "ratingCount": 4457,
+      "ratingCount": 4459,
       "ageRating": 12,
       "pegiRating": "Supervisión parental recomendada",
       "pegiDescription": "Supervisión parental recomendada",
@@ -22793,7 +22793,7 @@
       "hasDiscount": true,
       "discountPercent": 15,
       "rating": 4,
-      "ratingCount": 341,
+      "ratingCount": 343,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -22959,16 +22959,16 @@
       "shortDescription": "",
       "developer": "Bad Guitar Studio",
       "publisher": "Bad Guitar Studio",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.60702.13848987134544813.7b30c9e3-5909-4f77-afb6-d69bee0cdff7.0370bd21-9589-41dc-a3ba-c3bfca7ff97d",
-      "heroImage": "https://store-images.s-microsoft.com/image/apps.26512.13848987134544813.7b30c9e3-5909-4f77-afb6-d69bee0cdff7.bdc2882b-cf8b-483c-bf54-727bfa64bbb4",
+      "imageUrl": "https://store-images.s-microsoft.com/image/apps.4169.13848987134544813.d162bf9e-36cf-4556-97b2-4e3906f60e29.c00b62a2-662c-4456-80dd-e5dc2313c55b",
+      "heroImage": "https://store-images.s-microsoft.com/image/apps.15439.13848987134544813.d162bf9e-36cf-4556-97b2-4e3906f60e29.91d04bd1-97f6-4849-8cb3-abf671f9e05d",
       "screenshots": [
         "https://store-images.s-microsoft.com/image/apps.38783.13848987134544813.7b30c9e3-5909-4f77-afb6-d69bee0cdff7.a65cc14a-3167-4e4a-b425-c050e27383ed",
         "https://store-images.s-microsoft.com/image/apps.15644.13848987134544813.7b30c9e3-5909-4f77-afb6-d69bee0cdff7.efa316fe-b840-4c71-9738-46fd4599467a",
         "https://store-images.s-microsoft.com/image/apps.38597.13848987134544813.7b30c9e3-5909-4f77-afb6-d69bee0cdff7.6a4bceb4-6176-4086-b87b-d49d2a7634f0",
         "https://store-images.s-microsoft.com/image/apps.59546.13848987134544813.7b30c9e3-5909-4f77-afb6-d69bee0cdff7.83cf0f34-9bf7-479d-ae10-311bc200b816"
       ],
-      "videoUrl": "https://cdn.trailers.xboxservices.com/trailers/00000000-0000-0000-0000-000000000000/xbox/prod/videos/mainprofile/13848987134544813/523b571e-da5e-4f81-9a44-693f8183f9ab/manifest.m3u8",
-      "videoCaption": "Season 5 Chapter 2 Update Overview",
+      "videoUrl": "https://cdn.trailers.xboxservices.com/trailers/00000000-0000-0000-0000-000000000000/xbox/prod/videos/mainprofile/13848987134544813/57dcb8e3-7a2b-4c31-82e2-002c779b2eea/manifest.m3u8",
+      "videoCaption": "Season 6 Chapter 1 Preview Trailer",
       "releaseDate": "2025-04-29",
       "categories": [
         "Shooter"
@@ -23040,7 +23040,7 @@
           "recommended": "6 GB"
         }
       ],
-      "maxInstallSize": 74494574592,
+      "maxInstallSize": 71724109824,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/fragpunk/9MW715J1P29D"
     },
@@ -24844,7 +24844,7 @@
           "recommended": "Controladora de Xbox"
         }
       ],
-      "maxInstallSize": 2420973568,
+      "maxInstallSize": 2423951360,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/goals/9PF2ZS4XB4JH"
     },
@@ -25485,7 +25485,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.9,
-      "ratingCount": 122,
+      "ratingCount": 123,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -25650,7 +25650,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.2,
-      "ratingCount": 41,
+      "ratingCount": 42,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -26284,8 +26284,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 3.9,
-      "ratingCount": 158,
+      "rating": 3.8,
+      "ratingCount": 159,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -26693,7 +26693,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.4,
-      "ratingCount": 83,
+      "ratingCount": 85,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -26795,8 +26795,8 @@
       "currency": "EUR",
       "hasDiscount": true,
       "discountPercent": 75,
-      "rating": 4.4,
-      "ratingCount": 912,
+      "rating": 4.5,
+      "ratingCount": 913,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -26891,7 +26891,7 @@
       "hasDiscount": true,
       "discountPercent": 75,
       "rating": 4.4,
-      "ratingCount": 569,
+      "ratingCount": 570,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -27780,11 +27780,11 @@
         "ultimate"
       ],
       "platform": "both",
-      "price": 74.99,
+      "price": 11.24,
       "msrp": 74.99,
       "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
+      "hasDiscount": true,
+      "discountPercent": 85,
       "rating": 4.3,
       "ratingCount": 238,
       "ageRating": 12,
@@ -27987,7 +27987,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.2,
-      "ratingCount": 473,
+      "ratingCount": 475,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -30132,7 +30132,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.5,
-      "ratingCount": 70,
+      "ratingCount": 71,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -31851,8 +31851,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 3.2,
-      "ratingCount": 69,
+      "rating": 3.3,
+      "ratingCount": 70,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -33195,11 +33195,11 @@
         "ultimate"
       ],
       "platform": "both",
-      "price": 24.49,
+      "price": 69.99,
       "msrp": 69.99,
       "currency": "EUR",
-      "hasDiscount": true,
-      "discountPercent": 65,
+      "hasDiscount": false,
+      "discountPercent": 0,
       "rating": 3,
       "ratingCount": 1479,
       "ageRating": 3,
@@ -33438,7 +33438,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.7,
-      "ratingCount": 11313,
+      "ratingCount": 11314,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -33500,7 +33500,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.7,
-      "ratingCount": 51511,
+      "ratingCount": 51524,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -33883,7 +33883,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4,
-      "ratingCount": 15800,
+      "ratingCount": 15805,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -34078,7 +34078,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.5,
-      "ratingCount": 61427,
+      "ratingCount": 61434,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -35193,7 +35193,7 @@
         }
       ],
       "maxInstallSize": 6792507392,
-      "hasAddOns": false,
+      "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/moonlighter-2-the-endless-vault/9NDJX252Q5BW"
     },
     {
@@ -37741,8 +37741,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 2.2,
-      "ratingCount": 30,
+      "rating": 2.1,
+      "ratingCount": 62,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -43186,7 +43186,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.7,
-      "ratingCount": 227,
+      "ratingCount": 228,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -43211,6 +43211,97 @@
       "maxInstallSize": 33484238848,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/resident-evil-village/9N2S04LGXXH4"
+    },
+    {
+      "id": "9PPBNCXP0096",
+      "title": "Resonance: A Plague Tale Legacy",
+      "description": "15 años antes de Requiem, Sofía, una joven y aguerrida saqueadora, huye decidida a descubrir los secretos de su pasado. Vive una historia original que mezcla combates, mitos y predestinación con una perspectiva totalmente nueva del universo de A Plague Tale.\n\nEl viaje de Sofía la lleva hasta la Isla del Minotauro, donde debe enfrentarse a peligrosas pruebas, recorrer senderos traicioneros y resolver rompecabezas mientras lucha y esquiva al ejército que le pisa los talones. Aun con todo, el verdadero desafío es la aterradora criatura que acecha tras el mito y que pronto se revelará ante ella...\n\nA medida que te adentres en el corazón de la isla, irás desentrañando la verdad sobre una maldición enterrada durante siglos.\n\n• Recorre mapas laberínticos hasta encontrar un misterioso tesoro mientras tus enemigos, que no dejan de aparecer por la isla, te persiguen sin descanso. Cuentas con tu agilidad, tus trucos y tus agudizados reflejos para superar a tus rivales, perfeccionar los bloqueos y lanzar potentes golpes que te salvarán de los enfrentamientos más letales.\n• Alterna entre la Edad Media de Sofía y la antigua era minoica, donde los ecos del pasado dan forma a los combates del presente. Descubre una nueva historia del universo de A Plague Tale a través de las andanzas paralelas de dos personajes unidos por el destino y por el misterioso legado de Macula.\n• Déjate guiar por la sabiduría escrita en tu cuaderno y sigue los pasos de tu tripulación. Explora un mundo repleto de detalles, descifra sus secretos y supera desafíos mortales. Con la ayuda de una esfera minoica robada, resuelve rompecabezas de lo más ingeniosos manipulando la luz y canalizando una fuerza que el mismo Dédalo entretejió en el corazón de la isla.\n• Dicen que son pocos los que vuelven de la isla debido a la inquietante presencia que mora entre las sombras. Te sigue y vigila de cerca todos tus pasos mientras caza a sus presas en las profundidades de la isla. Cada paso que das es un riesgo; cada pausa que haces, tu posible fin. No puedes detenerte, solo esconderte, burlar al enemigo y seguir adelante sin descanso.\n\n¿Sobrevivirás a todas las pruebas y etapas o te unirás a las filas de los que jamás regresaron?\n\nPara disfrutar de la mejor experiencia en PC, se recomienda usar un mando, pero admite plenamente teclado y ratón.",
+      "shortDescription": "Ponte en la piel de Sofía y vive la historia previa a la del galardonado A Plague Tale. Dirígete a la Isla del Minotauro, supera a tus enemigos, descubre antiguos secretos y enfréntate a una criatura mítica en el corazón de una terrible maldición.",
+      "developer": "Asobo Studio",
+      "publisher": "Focus Entertainment",
+      "imageUrl": "https://store-images.s-microsoft.com/image/apps.3115.14332070469741251.b219f2ed-9161-4e36-815d-0a90a76aae89.664db98d-75c1-4f0b-9368-8fe70012133a",
+      "heroImage": "https://store-images.s-microsoft.com/image/apps.39294.14332070469741251.b219f2ed-9161-4e36-815d-0a90a76aae89.a69aff95-48f7-4ef9-977f-95aea9a74b66",
+      "screenshots": [
+        "https://store-images.s-microsoft.com/image/apps.19639.14332070469741251.b219f2ed-9161-4e36-815d-0a90a76aae89.cc93e56c-23b7-4a54-9915-10aae715b73c",
+        "https://store-images.s-microsoft.com/image/apps.53379.14332070469741251.b219f2ed-9161-4e36-815d-0a90a76aae89.b644b3e1-1014-44a7-8ea4-64cfba7d6277",
+        "https://store-images.s-microsoft.com/image/apps.44277.14332070469741251.b219f2ed-9161-4e36-815d-0a90a76aae89.88273eaa-241f-43db-a6fc-550014c2ce62",
+        "https://store-images.s-microsoft.com/image/apps.44319.14332070469741251.b219f2ed-9161-4e36-815d-0a90a76aae89.955821fd-1007-4978-8e5b-9dfaa02c07ba"
+      ],
+      "videoUrl": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftassets/35bf7470-9f70-4944-88a0-3c9ab4e9e55f-AVS.m3u8?packagedStreaming=true",
+      "videoCaption": "Resonance: A Plague Tale Legacy - Reveal Trailer",
+      "releaseDate": "2026-08-27",
+      "categories": [
+        "Acción y aventura",
+        "Juegos de rol",
+        "Puzles y curiosidades"
+      ],
+      "tiers": [
+        "pc",
+        "ultimate"
+      ],
+      "platform": "both",
+      "price": 59.99,
+      "msrp": 59.99,
+      "currency": "EUR",
+      "hasDiscount": false,
+      "discountPercent": 0,
+      "rating": 5,
+      "ratingCount": 2,
+      "ageRating": 16,
+      "pegiRating": "PEGI 16",
+      "pegiDescription": "Apropiado a partir de 16 años",
+      "interactiveDescriptions": [],
+      "capabilities": [
+        "4K Ultra HD",
+        "HDR10",
+        "Un jugador",
+        "Optimizado para Xbox Series X|S",
+        "Logros de Xbox",
+        "Presencia de Xbox",
+        "Clubs de Xbox",
+        "Cosas guardadas en la nube de Xbox",
+        "Xbox Play Anywhere"
+      ],
+      "systemRequirements": [
+        {
+          "title": "SO",
+          "minimum": "Windows 10 version 18362.0 or higher",
+          "recommended": "Windows 10 version 18362.0 or higher"
+        },
+        {
+          "title": "Arquitectura",
+          "minimum": "x64",
+          "recommended": "x64"
+        },
+        {
+          "title": "Gráficos",
+          "minimum": "AMD Radeon RX 5500 XT // Nvidia GeForce GTX 1060",
+          "recommended": "AMD Radeon RX 6700 XT // Nvidia GeForce RTX 3060 Ti"
+        },
+        {
+          "title": "Procesador",
+          "minimum": "AMD Ryzen 3 3100 // Intel Core i3-12100",
+          "recommended": "AMD Ryzen 5 5600X // Intel Core i5-12400F"
+        },
+        {
+          "title": "DirectX",
+          "minimum": "API de DirectX 12, nivel de característica de hardware 12",
+          "recommended": "API de DirectX 12, nivel de característica de hardware 12"
+        },
+        {
+          "title": "Memoria",
+          "minimum": "16 GB",
+          "recommended": "16 GB"
+        },
+        {
+          "title": "Memoria de vídeo",
+          "minimum": "6 GB",
+          "recommended": "8 GB"
+        }
+      ],
+      "maxInstallSize": 80682754048,
+      "hasAddOns": true,
+      "storeUrl": "https://www.xbox.com/es-es/games/store/resonance-a-plague-tale-legacy/9PPBNCXP0096"
     },
     {
       "id": "9MTVJ3HHTQGS",
@@ -44403,7 +44494,7 @@
       "hasDiscount": true,
       "discountPercent": 75,
       "rating": 4.5,
-      "ratingCount": 1307,
+      "ratingCount": 1308,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -45581,7 +45672,7 @@
           "recommended": ""
         }
       ],
-      "maxInstallSize": 74114228224,
+      "maxInstallSize": 74115489792,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/skull-and-bones/BXF9VWKCD6QW"
     },
@@ -46084,11 +46175,11 @@
         "ultimate"
       ],
       "platform": "both",
-      "price": 16.99,
+      "price": 19.99,
       "msrp": 19.99,
       "currency": "EUR",
-      "hasDiscount": true,
-      "discountPercent": 15,
+      "hasDiscount": false,
+      "discountPercent": 0,
       "rating": 2.8,
       "ratingCount": 25,
       "ageRating": 3,
@@ -47858,7 +47949,7 @@
           "recommended": "Controladora de Xbox"
         }
       ],
-      "maxInstallSize": 10240614400,
+      "maxInstallSize": 10244706304,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/starsand-island/9P86LLDCL5CC"
     },
@@ -49548,7 +49639,7 @@
         }
       ],
       "maxInstallSize": 5323603968,
-      "hasAddOns": false,
+      "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/tcg-card-shop-simulator-game-preview/9P9GX5D8H9DW"
     },
     {
@@ -50658,8 +50749,8 @@
         "https://store-images.s-microsoft.com/image/apps.51297.13574941064895040.be038e7d-0758-4324-bfa6-5dadf241ca14.1b89bf98-0575-4ae9-8827-bb61a4e40fbb",
         "https://store-images.s-microsoft.com/image/apps.17320.13574941064895040.be038e7d-0758-4324-bfa6-5dadf241ca14.86d3347a-79be-450c-b6cb-9ab18c2d16de"
       ],
-      "videoUrl": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftassets/bb85eddf-716c-481b-b31c-cc02430f778c-AVS.m3u8?packagedStreaming=true",
-      "videoCaption": "Best Time to Join Trailer",
+      "videoUrl": "https://cdn.trailers.xboxservices.com/trailers/00000000-0000-0000-0000-000000000000/xbox/prod/videos/mainprofile/13574941064895040/6307d665-dd19-43a7-97d8-165a3f468c2b/manifest.m3u8",
+      "videoCaption": "S10 Trailer",
       "releaseDate": "2026-07-21",
       "categories": [
         "Carreras y vuelo"
@@ -51486,7 +51577,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.5,
-      "ratingCount": 419,
+      "ratingCount": 420,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -51510,7 +51601,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 40613126144,
+      "maxInstallSize": 40612925440,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/the-elder-scrolls-v-skyrim-special-edition/BQ1W1T1FC14W"
     },
@@ -51603,7 +51694,7 @@
           "recommended": "4 GB"
         }
       ],
-      "maxInstallSize": 29927600128,
+      "maxInstallSize": 29927604224,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/the-elder-scrolls-v-skyrim-special-edition-pc/9P03JGQ4S1GC"
     },
@@ -52013,7 +52104,7 @@
           "recommended": "Controladora de Xbox"
         }
       ],
-      "maxInstallSize": 85978914816,
+      "maxInstallSize": 85981270016,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/the-finals/9PGD71CMDS0Z"
     },
@@ -52091,7 +52182,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 80992329728,
+      "maxInstallSize": 80996556800,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/the-first-descendant/9P8FBXKMCLWC"
     },
@@ -53421,7 +53512,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.6,
-      "ratingCount": 382,
+      "ratingCount": 384,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -53880,7 +53971,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.2,
-      "ratingCount": 238,
+      "ratingCount": 239,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -54462,8 +54553,8 @@
         "https://store-images.s-microsoft.com/image/apps.23664.71050925055292780.d113598c-97ad-4805-8dbc-eb73bf447e25.4c1f5b16-7dfa-480f-9922-bb144f522fc2",
         "https://store-images.s-microsoft.com/image/apps.18162.71050925055292780.d113598c-97ad-4805-8dbc-eb73bf447e25.3b4773b5-9f4a-4cf6-8410-2758583986f9"
       ],
-      "videoUrl": "https://cdn.trailers.xboxservices.com/trailers/00000000-0000-0000-0000-000000000000/xbox/prod/videos/mainprofile/71050925055292780/f1ef539b-448c-4870-a107-d5d2f6fc5432/manifest.m3u8",
-      "videoCaption": "Y8S2 Trailer",
+      "videoUrl": "https://cdn.trailers.xboxservices.com/trailers/00000000-0000-0000-0000-000000000000/xbox/prod/videos/mainprofile/71050925055292780/7b687f1e-5617-421a-b04a-2eec3c733c89/manifest.m3u8",
+      "videoCaption": "Broken Rain Trailer",
       "releaseDate": "2019-03-15",
       "categories": [
         "Juegos de rol",
@@ -54833,7 +54924,7 @@
       "hasDiscount": true,
       "discountPercent": 35,
       "rating": 2.2,
-      "ratingCount": 110,
+      "ratingCount": 111,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -55354,7 +55445,7 @@
           "recommended": "Controladora de Xbox"
         }
       ],
-      "maxInstallSize": 8203440128,
+      "maxInstallSize": 8203288576,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/trailmakers/9NSFGM8J6MBJ"
     },
@@ -57016,7 +57107,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 1.4,
-      "ratingCount": 33,
+      "ratingCount": 34,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -57098,11 +57189,11 @@
         "ultimate"
       ],
       "platform": "console",
-      "price": 69.99,
+      "price": 10.49,
       "msrp": 69.99,
       "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
+      "hasDiscount": true,
+      "discountPercent": 85,
       "rating": 3.9,
       "ratingCount": 17,
       "ageRating": 12,
@@ -59897,7 +59988,7 @@
           "recommended": "Controladora de Xbox"
         }
       ],
-      "maxInstallSize": 2970525696,
+      "maxInstallSize": 2972991488,
       "hasAddOns": false,
       "storeUrl": "https://www.xbox.com/es-es/games/store/wobbly-life/9NS86BQ33SPX"
     },
@@ -59933,8 +60024,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 4.6,
-      "ratingCount": 17,
+      "rating": 4.7,
+      "ratingCount": 18,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -60607,17 +60698,17 @@
     {
       "id": "C57L9GR0HHB7",
       "title": "World of Tanks Modern Armor",
-      "description": "TEMPORAL: FIVE FINGER DEATH PUNCH\nCelebra la llegada del grupazo de metal con varios discos de platino a través de contenido especial, incluidos dos nuevos blindados con temática de Five Finger Death Punch, un nuevo comandante 3D inspirado en el grupo y una serie de ofertas temporales.\n\nEL CAMPO DE BATALLA TE RECLAMA \nWorld of Tanks Modern Armor te pone al mando de más de 1000 carros modernos y legendarios. Desafíate a ti mismo en estratégicas batallas por equipos de 15 contra 15. Selecciona las batallas de la Guerra Fría si buscas acción trepidante y moderna o elige las batallas de la Segunda Guerra Mundial si prefieres combates tácticos y pausados. Explora mapas detallados inspirados en escenarios de guerra auténticos.  \n\nCONOCE LAS MÁQUINAS MÁS TEMIBLES DE LA HISTORIA \nRevive la historia al mando de carros emblemáticos de la Segunda Guerra Mundial como el Sherman y bestias modernas como el M1 Abrams. Colecciona y mejora tus carros blindados, personalízalos con camuflajes y desbloquea vehículos más poderosos. Elige entre un amplio abanico de comandantes 3D que te guíen en el campo de batalla. \n\nENFRÉNTATE A JUGADORES DE TODO EL MUNDO \nJuega gratis y disfruta de actualizaciones de contenido semanales repletas de desafíos, recompensas, colaboraciones especiales y temporadas nuevas. Elige tu modo preferido: JcJ o JcE. Forma equipo con tus amigos, y uníos a World of Tanks Modern Armor para poner a prueba vuestras habilidades. \n\nTus carros te están esperando. ¡Nos vemos en el campo de batalla! \n\n¿Quieres más información? Pásate por WoTModernArmor.com.\n\n© 2026 Merchenaries LLC Under License to Global Merchandising Services Ltd.",
+      "description": "TEMPORAL: MAESTROS DEL CAOS\nNadie dijo que hubiera que jugar seguro. Aterroriza a tus rivales en Maestros del Caos y ábrete paso luchando a lo largo de 100 etapas repletas de recompensas con oro, plata y tiempo de cuenta premium. Consigue nuevos vehículos potentes, obtén contenido exclusivo y demuéstrales a tus enemigos lo que pasa cuando el caos se adueña del campo de batalla.\n\nEL CAMPO DE BATALLA TE RECLAMA \nWorld of Tanks Modern Armor te pone al mando de más de 1000 carros modernos y legendarios. Desafíate a ti mismo en estratégicas batallas por equipos de 15 contra 15. Selecciona las batallas de la Guerra Fría si buscas acción trepidante y moderna o elige las batallas de la Segunda Guerra Mundial si prefieres combates tácticos y pausados. Explora mapas detallados inspirados en escenarios de guerra auténticos.  \n\nCONOCE LAS MÁQUINAS MÁS TEMIBLES DE LA HISTORIA \nRevive la historia al mando de carros emblemáticos de la Segunda Guerra Mundial como el Sherman y bestias modernas como el M1 Abrams. Colecciona y mejora tus carros blindados, personalízalos con camuflajes y desbloquea vehículos más poderosos. Elige entre un amplio abanico de comandantes 3D que te guíen en el campo de batalla. \n\nENFRÉNTATE A JUGADORES DE TODO EL MUNDO \nJuega gratis y disfruta de actualizaciones de contenido semanales repletas de desafíos, recompensas, colaboraciones especiales y temporadas nuevas. Elige tu modo preferido: JcJ o JcE. Forma equipo con tus amigos, y uníos a World of Tanks Modern Armor para poner a prueba vuestras habilidades. \n\nTus carros te están esperando. ¡Nos vemos en el campo de batalla! \n\n¿Quieres más información? Pásate por WoTModernArmor.com.",
       "shortDescription": "World of Tanks Modern Armor te pone al mando de más de 1000 carros modernos y legendarios. Desafíate a ti mismo en estratégicas batallas por equipos de 15 contra 15. Selecciona las batallas de la Guerra Fría si buscas acción trepidante y moderna o elige las batallas de la Segunda Guerra Mundial si prefieres combates tácticos y pausados.  ",
       "developer": "Wargaming.net",
       "publisher": "Wargaming.net",
       "imageUrl": "https://store-images.s-microsoft.com/image/apps.50747.67082279703731056.70780ed5-0f1c-4406-ad81-b5de60c2500e.d57120f5-5621-482a-8ac2-b9b479ed0c68",
       "heroImage": "https://store-images.s-microsoft.com/image/apps.45084.67082279703731056.84cd89a7-80ef-4f91-9d87-815ae664085b.45510c6f-f5f5-4440-804b-4fbc15e9beea",
       "screenshots": [
-        "https://store-images.s-microsoft.com/image/apps.17367.67082279703731056.4323dd94-13a8-413a-af46-bf706bbf13ed.aa03f5fa-ff2f-48b0-a150-847b272b6126",
-        "https://store-images.s-microsoft.com/image/apps.30309.67082279703731056.4323dd94-13a8-413a-af46-bf706bbf13ed.94a6f3f3-a1c8-41d2-ac75-84e6ab8c8280",
-        "https://store-images.s-microsoft.com/image/apps.20381.67082279703731056.4323dd94-13a8-413a-af46-bf706bbf13ed.fcb112ad-e42a-4f7c-9072-5d4093097515",
-        "https://store-images.s-microsoft.com/image/apps.27782.67082279703731056.4323dd94-13a8-413a-af46-bf706bbf13ed.583fe714-d9d8-4cf8-ac93-42c6d272872c"
+        "https://store-images.s-microsoft.com/image/apps.49054.67082279703731056.8c49d395-906e-4e39-9a30-27acc0b35d58.37562a09-f4c8-4724-8be2-200f7b511077",
+        "https://store-images.s-microsoft.com/image/apps.19019.67082279703731056.8c49d395-906e-4e39-9a30-27acc0b35d58.ca34c010-68a4-4912-a724-622fa706d203",
+        "https://store-images.s-microsoft.com/image/apps.63795.67082279703731056.8c49d395-906e-4e39-9a30-27acc0b35d58.a807461b-e13f-4a4c-98dc-2b94fb02c124",
+        "https://store-images.s-microsoft.com/image/apps.57452.67082279703731056.8c49d395-906e-4e39-9a30-27acc0b35d58.2d0c08aa-1996-40e4-a587-ce22e321df29"
       ],
       "videoUrl": "https://cdn.trailers.xboxservices.com/trailers/00000000-0000-0000-0000-000000000000/xbox/prod/videos/mainprofile/67082279703731056/6876f7b4-2a4e-4659-8918-4b81680be62f/manifest.m3u8",
       "videoCaption": "MASTERS OF MAYHEM",
@@ -61398,8 +61489,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 3.1,
-      "ratingCount": 35,
+      "rating": 3,
+      "ratingCount": 37,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -61924,7 +62015,7 @@
       "hasDiscount": true,
       "discountPercent": 67,
       "rating": 4.3,
-      "ratingCount": 683,
+      "ratingCount": 682,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
