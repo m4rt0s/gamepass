@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-09-06T11:48:24.714Z",
+  "updatedAt": "2026-09-07T13:45:16.565Z",
   "market": "ES",
   "language": "es-ES",
-  "totalGames": 826,
+  "totalGames": 823,
   "counts": {
     "essential": 127,
-    "premium": 581,
-    "pc": 518,
-    "ultimate": 733,
-    "total": 826
+    "premium": 578,
+    "pc": 517,
+    "ultimate": 730,
+    "total": 823
   },
   "categories": [
     "Acción y aventura",
@@ -62,7 +62,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 2.2,
-      "ratingCount": 47,
+      "ratingCount": 48,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -1139,7 +1139,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.4,
-      "ratingCount": 897,
+      "ratingCount": 898,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -2852,7 +2852,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.7,
-      "ratingCount": 21130,
+      "ratingCount": 21131,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -3900,8 +3900,7 @@
         "Multijugador en línea  (2-4)",
         "Un jugador",
         "60 fps +",
-        "Logros de Xbox",
-        "FPS Boost Series X | S"
+        "Logros de Xbox"
       ],
       "systemRequirements": [
         {
@@ -4229,8 +4228,7 @@
         "HDR10",
         "Un jugador",
         "Xbox One X mejorado",
-        "Logros de Xbox",
-        "FPS Boost Series X | S"
+        "Logros de Xbox"
       ],
       "systemRequirements": [
         {
@@ -4535,8 +4533,7 @@
         "4K Ultra HD",
         "Un jugador",
         "Xbox One X mejorado",
-        "Logros de Xbox",
-        "FPS Boost Series X | S"
+        "Logros de Xbox"
       ],
       "systemRequirements": [
         {
@@ -4585,9 +4582,7 @@
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
       "interactiveDescriptions": [],
-      "capabilities": [
-        "FPS Boost Series X | S"
-      ],
+      "capabilities": [],
       "systemRequirements": [
         {
           "title": "Arquitectura",
@@ -5825,8 +5820,7 @@
         "Compras dentro del juego (Incluye artículos aleatorios)"
       ],
       "capabilities": [
-        "Multijugador en línea  (4-64)",
-        "FPS Boost Series X | S"
+        "Multijugador en línea  (4-64)"
       ],
       "systemRequirements": [
         {
@@ -6343,7 +6337,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4,
-      "ratingCount": 126,
+      "ratingCount": 128,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -6989,7 +6983,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.3,
-      "ratingCount": 119,
+      "ratingCount": 118,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -7244,7 +7238,7 @@
       "hasDiscount": true,
       "discountPercent": 15,
       "rating": 3.4,
-      "ratingCount": 12,
+      "ratingCount": 13,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -8884,8 +8878,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 2.3,
-      "ratingCount": 115,
+      "rating": 2.2,
+      "ratingCount": 116,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -12521,7 +12515,7 @@
       "hasDiscount": true,
       "discountPercent": 67,
       "rating": 1.3,
-      "ratingCount": 45,
+      "ratingCount": 46,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -12814,8 +12808,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 3.4,
-      "ratingCount": 170,
+      "rating": 3.5,
+      "ratingCount": 171,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -13347,9 +13341,7 @@
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
       "interactiveDescriptions": [],
-      "capabilities": [
-        "FPS Boost Series X | S"
-      ],
+      "capabilities": [],
       "systemRequirements": [
         {
           "title": "Arquitectura",
@@ -13395,9 +13387,7 @@
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
       "interactiveDescriptions": [],
-      "capabilities": [
-        "FPS Boost Series X | S"
-      ],
+      "capabilities": [],
       "systemRequirements": [
         {
           "title": "Arquitectura",
@@ -14879,7 +14869,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 602857472,
+      "maxInstallSize": 602877952,
       "hasAddOns": false,
       "storeUrl": "https://www.xbox.com/es-es/games/store/dice-a-million/9N3NTDPJCD9Z"
     },
@@ -15339,8 +15329,7 @@
       "capabilities": [
         "Un jugador",
         "Logros de Xbox",
-        "Cosas guardadas en la nube de Xbox",
-        "FPS Boost Series X | S"
+        "Cosas guardadas en la nube de Xbox"
       ],
       "systemRequirements": [
         {
@@ -15481,8 +15470,7 @@
       "interactiveDescriptions": [],
       "capabilities": [
         "4K Ultra HD",
-        "Xbox One X mejorado",
-        "FPS Boost Series X | S"
+        "Xbox One X mejorado"
       ],
       "systemRequirements": [
         {
@@ -16628,9 +16616,7 @@
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
       "interactiveDescriptions": [],
-      "capabilities": [
-        "FPS Boost Series X | S"
-      ],
+      "capabilities": [],
       "systemRequirements": [
         {
           "title": "Arquitectura",
@@ -16677,9 +16663,7 @@
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
       "interactiveDescriptions": [],
-      "capabilities": [
-        "FPS Boost Series X | S"
-      ],
+      "capabilities": [],
       "systemRequirements": [
         {
           "title": "Arquitectura",
@@ -17331,8 +17315,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 2.2,
-      "ratingCount": 17,
+      "rating": 2.3,
+      "ratingCount": 18,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -18562,7 +18546,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 27648421888,
+      "maxInstallSize": 27648405504,
       "hasAddOns": false,
       "storeUrl": "https://www.xbox.com/es-es/games/store/escape-the-backrooms/9MW15L8FRT9P"
     },
@@ -18975,8 +18959,7 @@
       "interactiveDescriptions": [],
       "capabilities": [
         "4K Ultra HD",
-        "Xbox One X mejorado",
-        "FPS Boost Series X | S"
+        "Xbox One X mejorado"
       ],
       "systemRequirements": [
         {
@@ -19086,8 +19069,7 @@
         "Cooperativo en línea  (2-2)",
         "Multijugador local de Xbox (2-2)",
         "4K Ultra HD",
-        "Xbox One X mejorado",
-        "FPS Boost Series X | S"
+        "Xbox One X mejorado"
       ],
       "systemRequirements": [
         {
@@ -19282,8 +19264,7 @@
       "pegiDescription": "Apropiado a partir de 18 años",
       "interactiveDescriptions": [],
       "capabilities": [
-        "Xbox One X mejorado",
-        "FPS Boost Series X | S"
+        "Xbox One X mejorado"
       ],
       "systemRequirements": [
         {
@@ -19760,9 +19741,7 @@
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
       "interactiveDescriptions": [],
-      "capabilities": [
-        "FPS Boost Series X | S"
-      ],
+      "capabilities": [],
       "systemRequirements": [
         {
           "title": "Arquitectura",
@@ -20277,8 +20256,7 @@
       "capabilities": [
         "Un jugador",
         "Optimizado para Xbox Series X|S",
-        "Logros de Xbox",
-        "FPS Boost Series X | S"
+        "Logros de Xbox"
       ],
       "systemRequirements": [
         {
@@ -20808,7 +20786,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 42366980096,
+      "maxInstallSize": 42384834560,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/farming-simulator-25/9NMCDQ6RCJKH"
     },
@@ -20897,7 +20875,7 @@
           "recommended": "8 GB"
         }
       ],
-      "maxInstallSize": 42364600320,
+      "maxInstallSize": 42385711104,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/farming-simulator-25-pc/9PM709J61828"
     },
@@ -22563,7 +22541,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.7,
-      "ratingCount": 4472,
+      "ratingCount": 4474,
       "ageRating": 12,
       "pegiRating": "Supervisión parental recomendada",
       "pegiDescription": "Supervisión parental recomendada",
@@ -23608,8 +23586,7 @@
         "Multijugador multiplataforma de Xbox",
         "Un jugador",
         "Pantalla dividida o compartida",
-        "Cooperación multiplataforma de Xbox",
-        "FPS Boost Series X | S"
+        "Cooperación multiplataforma de Xbox"
       ],
       "systemRequirements": [
         {
@@ -23668,8 +23645,7 @@
         "Un jugador",
         "Pantalla dividida o compartida",
         "Cooperación multiplataforma de Xbox",
-        "Xbox One X mejorado",
-        "FPS Boost Series X | S"
+        "Xbox One X mejorado"
       ],
       "systemRequirements": [
         {
@@ -23728,8 +23704,7 @@
         "Un jugador",
         "Pantalla dividida o compartida",
         "Cooperación multiplataforma de Xbox",
-        "Xbox One X mejorado",
-        "FPS Boost Series X | S"
+        "Xbox One X mejorado"
       ],
       "systemRequirements": [
         {
@@ -23796,8 +23771,7 @@
         "Presencia de Xbox",
         "Clubs de Xbox",
         "Cosas guardadas en la nube de Xbox",
-        "Xbox Play Anywhere",
-        "FPS Boost Series X | S"
+        "Xbox Play Anywhere"
       ],
       "systemRequirements": [
         {
@@ -23895,8 +23869,7 @@
         "Multijugador multiplataforma de Xbox",
         "Un jugador",
         "Pantalla dividida o compartida",
-        "Cooperación multiplataforma de Xbox",
-        "FPS Boost Series X | S"
+        "Cooperación multiplataforma de Xbox"
       ],
       "systemRequirements": [
         {
@@ -24076,8 +24049,7 @@
         "Cooperativo en línea  (2-2)",
         "Multijugador local de Xbox (2-2)",
         "Multijugador en línea  (2-8)",
-        "Pantalla dividida o compartida",
-        "FPS Boost Series X | S"
+        "Pantalla dividida o compartida"
       ],
       "systemRequirements": [
         {
@@ -24195,7 +24167,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.7,
-      "ratingCount": 2891,
+      "ratingCount": 2892,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -25686,7 +25658,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.3,
-      "ratingCount": 42,
+      "ratingCount": 43,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -25915,8 +25887,7 @@
         "HDR10",
         "Cooperación multiplataforma de Xbox",
         "Xbox One X mejorado",
-        "Xbox Play Anywhere",
-        "FPS Boost Series X | S"
+        "Xbox Play Anywhere"
       ],
       "systemRequirements": [
         {
@@ -26216,7 +26187,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.8,
-      "ratingCount": 172,
+      "ratingCount": 173,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -26427,8 +26398,7 @@
       "interactiveDescriptions": [],
       "capabilities": [
         "Cooperativo en línea  (2-2)",
-        "Multijugador en línea  (2-2)",
-        "FPS Boost Series X | S"
+        "Multijugador en línea  (2-2)"
       ],
       "systemRequirements": [
         {
@@ -27835,8 +27805,7 @@
         "Controlador para juegos para PC",
         "Logros de Xbox",
         "Cosas guardadas en la nube de Xbox",
-        "Xbox Play Anywhere",
-        "FPS Boost Series X | S"
+        "Xbox Play Anywhere"
       ],
       "systemRequirements": [
         {
@@ -29890,7 +29859,7 @@
           "recommended": "Controladora de Xbox"
         }
       ],
-      "maxInstallSize": 8471908352,
+      "maxInstallSize": 8471937024,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/kiln/9MW53ZKZH168"
     },
@@ -30080,7 +30049,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.5,
-      "ratingCount": 278,
+      "ratingCount": 279,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -32685,9 +32654,7 @@
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
       "interactiveDescriptions": [],
-      "capabilities": [
-        "FPS Boost Series X | S"
-      ],
+      "capabilities": [],
       "systemRequirements": [
         {
           "title": "Arquitectura",
@@ -33230,7 +33197,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.7,
-      "ratingCount": 11,
+      "ratingCount": 12,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -33287,7 +33254,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.7,
-      "ratingCount": 11320,
+      "ratingCount": 11321,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -33349,7 +33316,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.7,
-      "ratingCount": 51576,
+      "ratingCount": 51581,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -33732,7 +33699,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4,
-      "ratingCount": 15848,
+      "ratingCount": 15857,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -33927,7 +33894,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.5,
-      "ratingCount": 61487,
+      "ratingCount": 61494,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -34132,8 +34099,7 @@
       "pegiDescription": "Apropiado a partir de 16 años",
       "interactiveDescriptions": [],
       "capabilities": [
-        "Xbox One X mejorado",
-        "FPS Boost Series X | S"
+        "Xbox One X mejorado"
       ],
       "systemRequirements": [
         {
@@ -34180,9 +34146,7 @@
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
       "interactiveDescriptions": [],
-      "capabilities": [
-        "FPS Boost Series X"
-      ],
+      "capabilities": [],
       "systemRequirements": [
         {
           "title": "Arquitectura",
@@ -34537,8 +34501,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 2.5,
-      "ratingCount": 6,
+      "rating": 2.8,
+      "ratingCount": 5,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -34849,7 +34813,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 2133712896,
+      "maxInstallSize": 2134003712,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/monsters-are-coming/9PJBKF27C16M"
     },
@@ -35537,256 +35501,9 @@
           "recommended": "Controladora de Xbox"
         }
       ],
-      "maxInstallSize": 105436676096,
+      "maxInstallSize": 105480118272,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/naraka-bladepoint/9P8SQQJ5T94B"
-    },
-    {
-      "id": "9N2FJQC9NTX6",
-      "title": "NBA 2K26 Edición Estándar (PC con Windows)",
-      "description": "Esta edición incluye una copia digital de NBA 2K26* para PC con Windows**.\n\nEl derecho a presumir está en juego en NBA 2K26. Construye tu leyenda en Mi CARRERA, colecciona y compite con estrellas en MyTEAM y toma decisiones ejecutivas en Mi NBA en PC con Windows.\n\nCON TECNOLOGÍA ProPLAY™\n\nDomina cada posesión con una tecnología inmersiva que traduce directamente las imágenes de la NBA en un juego realista en PC con Windows. Siéntete más conectado con cada drible y cada cambio de dirección, y muévete con libertad mientras desatas un juego dinámico utilizando funciones totalmente nuevas.\n\nFORMA TU EQUIPO Y GANA\n\nCrea un Mi JUGADOR que trascienda el juego en Mi CARRERA y pasa de ser una promesa en auge a una superestrella mundial. Conquista entornos impresionantes en los que podrás formar equipo con amigos y desafiar a equipos rivales para ganar el derecho a presumir.\n\nREÚNE ESTRELLAS EN MyTEAM\n\nColecciona y compite con leyendas del pasado y del presente en MyTEAM. Reúne una plantilla repleta de estrellas, pon a prueba a tu equipo ideal en los modos para un jugador y multijugador, y consigue nuevas cartas para hacer realidad tu fantasía MyTEAM.\n\nTU EQUIPO, TU HISTORIA\n\nEscribe el próximo capítulo de una franquicia de la NBA como general manager en Mi NBA. Influye en el futuro de este deporte y deja una huella indeleble en la liga.\n\n*Se necesita disponer de conexión a Internet y una Cuenta de NBA 2K para canjear y utilizar el contenido de bonificación. Se aplican las condiciones.\n\n**Es posible que algunas funciones del juego, como el modo multijugador online, la comunicación y otras funciones online, no sean accesibles para las cuentas infantiles de Xbox. En Xbox, se considera niño a los jugadores menores de 13 años, salvo que las leyes locales especifiquen lo contrario. Jugar ya, Mi LIGA y la WNBA están disponibles sin conexión.\n",
-      "shortDescription": "El derecho a presumir está en juego en NBA 2K26. \n\nConstruye tu leyenda en Mi CARRERA, colecciona y compite con estrellas en MyTEAM y toma decisiones ejecutivas en Mi NBA en PC con Windows.\n",
-      "developer": "Visual Concepts",
-      "publisher": "2K",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.23652.13957745975285029.52df9602-ccd8-4a0d-873f-5731652c7052.96b7a071-ff3c-4629-9cf6-9b37098e28fa",
-      "heroImage": "https://store-images.s-microsoft.com/image/apps.64882.13957745975285029.52df9602-ccd8-4a0d-873f-5731652c7052.7f924e0f-d1d2-4b61-a053-0a8485bb9e74",
-      "screenshots": [
-        "https://store-images.s-microsoft.com/image/apps.11365.13957745975285029.52df9602-ccd8-4a0d-873f-5731652c7052.d637ea11-42c0-4a08-84d9-b87dd1730153",
-        "https://store-images.s-microsoft.com/image/apps.11892.13957745975285029.52df9602-ccd8-4a0d-873f-5731652c7052.49f17572-8e81-455e-b805-bdca346def62",
-        "https://store-images.s-microsoft.com/image/apps.7368.13957745975285029.52df9602-ccd8-4a0d-873f-5731652c7052.e8046632-0891-461f-aaee-fe44da5f761f",
-        "https://store-images.s-microsoft.com/image/apps.18467.13957745975285029.52df9602-ccd8-4a0d-873f-5731652c7052.45ef46c4-6a64-43d6-a300-458795f9cd3a"
-      ],
-      "videoUrl": "",
-      "videoCaption": "",
-      "releaseDate": "2026-04-03",
-      "categories": [
-        "Deportes"
-      ],
-      "tiers": [
-        "pc",
-        "premium",
-        "ultimate"
-      ],
-      "platform": "pc",
-      "price": 79.99,
-      "msrp": 79.99,
-      "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
-      "rating": 2.2,
-      "ratingCount": 4,
-      "ageRating": 3,
-      "pegiRating": "PEGI 3",
-      "pegiDescription": "Apropiado a partir de 3 años",
-      "interactiveDescriptions": [
-        "Compras dentro del juego (Incluye artículos aleatorios)"
-      ],
-      "capabilities": [
-        "Cooperación local de Xbox (2-4)",
-        "Cooperativo en línea  (2-10)",
-        "Multijugador local de Xbox (2-4)",
-        "Multijugador en línea  (2-10)",
-        "HDR10",
-        "Un jugador",
-        "Trazado de rayos",
-        "60 fps +",
-        "Logros de Xbox",
-        "Presencia de Xbox"
-      ],
-      "systemRequirements": [
-        {
-          "title": "SO",
-          "minimum": "Windows 10 version 18362.0 or higher",
-          "recommended": "Windows 10 version 18362.0 or higher"
-        },
-        {
-          "title": "Arquitectura",
-          "minimum": "x64",
-          "recommended": "x64"
-        },
-        {
-          "title": "Gráficos",
-          "minimum": "NVIDIA® GeForce® GTX 1060 5 GB or AMD Radeon™ RX 5500 XT 4 GB or Intel® Arc™ A580",
-          "recommended": "NVIDIA® GeForce® RTX 2070 8 GB or AMD Radeon™ RX 5700 8 GB or Intel® Arc™ A770"
-        },
-        {
-          "title": "Procesador",
-          "minimum": "Intel® Core™ i3-9100 or AMD Ryzen™ 3 1200",
-          "recommended": "Intel® Core™ i5-10600 or AMD Ryzen™ 5 3600X"
-        },
-        {
-          "title": "Táctil",
-          "minimum": "Táctil integrado",
-          "recommended": ""
-        },
-        {
-          "title": "Teclado",
-          "minimum": "Teclado integrado",
-          "recommended": "Teclado integrado"
-        },
-        {
-          "title": "Mouse",
-          "minimum": "Mouse integrado",
-          "recommended": "Mouse integrado"
-        },
-        {
-          "title": "Controladora",
-          "minimum": "Controladora de Xbox",
-          "recommended": "Controladora de Xbox"
-        },
-        {
-          "title": "Micrófono",
-          "minimum": "Micrófono integrado",
-          "recommended": "Micrófono integrado"
-        },
-        {
-          "title": "DirectX",
-          "minimum": "API de DirectX 12, nivel de característica de hardware 11",
-          "recommended": "API de DirectX 12, nivel de característica de hardware 12"
-        },
-        {
-          "title": "Memoria",
-          "minimum": "8 GB",
-          "recommended": "16 GB"
-        },
-        {
-          "title": "Memoria de vídeo",
-          "minimum": "4 GB",
-          "recommended": "8 GB"
-        }
-      ],
-      "maxInstallSize": 106834575360,
-      "hasAddOns": true,
-      "storeUrl": "https://www.xbox.com/es-es/games/store/nba-2k26-edici-n-est-ndar-pc-con-windows/9N2FJQC9NTX6"
-    },
-    {
-      "id": "9PP9PFSCJTWR",
-      "title": "NBA 2K26 para Xbox One",
-      "description": "El derecho a presumir está en juego en NBA 2K26. Construye tu leyenda en Mi CARRERA, colecciona y compite con estrellas en MyTEAM, y toma decisiones ejecutivas en Mi NBA en Xbox Series X|S o Mi LIGA en Xbox One.\n\n\nCON LA TECNOLOGÍA ProPLAY™ \n\nDomina cada posesión con una tecnología inmersiva que traduce directamente las imágenes de la NBA en un juego realista en Xbox Series X|S. Siéntete más conectado con cada drible y cada cambio de dirección, y muévete con libertad mientras desatas una organización dinámica utilizando las nuevas funciones.\n\n\nFORMA TU EQUIPO Y GANA \n\nCrea un Mi JUGADOR que trascienda el juego en Mi CARRERA y pasa de ser una promesa en auge a una superestrella mundial. Adéntrate en entornos impresionantes donde podrás formar equipo con amigos y desafiar a equipos rivales para ganarte el derecho a presumir.\n\n\nREÚNE ESTRELLAS EN MyTEAM \n\nColecciona y compite con leyendas del pasado y del presente en MyTEAM. Reúne una plantilla repleta de estrellas, pon a prueba tu equipo ideal en los modos para un jugador y multijugador, y consigue nuevas cartas para hacer realidad tu fantasía MyTEAM.\n\n\nTU EQUIPO, TU HISTORIA\n\nEscribe el próximo capítulo de una franquicia de la NBA como general manager en Mi NBA en Xbox Series X|S, o Mi LIGA en Xbox One. Influye en el futuro del deporte y deja una huella imborrable en la liga. \n\n*Requiere disponer de una conexión a Internet y una Cuenta de NBA 2K para canjear y utilizar el contenido de bonificación. Se aplican las condiciones.\n\nCiertas características del juego, incluyendo el multijugador online, la comunicación y otras características online, pueden no ser accesibles por cuentas de niño de Xbox. En Xbox, un niño significa jugadores menores de 13 años, a menos que las leyes locales especifiquen otra cosa. Jugar ya, Mi LIGA y WNBA están disponibles sin conexión.\n\nLa compra otorga una licencia para el producto digital sujeta a las Condiciones del servicio (\"CdS\") y la Política de privacidad del juego y en www.take2games.com/legal y www.take2games.com/privacy. El acceso a características, contenidos, servicios o funciones especiales/de bonificación/online (\"Características especiales\"), puede requerir un código de serie de un solo uso, una cuota adicional, el registro de una cuenta online y/o puede no ser accesible para cuentas registradas a usuarios menores de 13 años (la edad mínima varía). Las Funciones especiales pueden requerir conexión a Internet, no estar disponibles para todos los usuarios o en todo momento, y pueden ser canceladas, modificadas u ofrecidas bajo términos diferentes de acuerdo con las CdS. Consulta https://bit.ly/2K-Online-Services-Status para conocer la disponibilidad de determinadas Funciones especiales. La infracción de las CdS puede dar lugar a la restricción o cancelación del acceso al juego o a la cuenta online.\n",
-      "shortDescription": "El derecho a presumir está en juego en NBA 2K26. Construye tu leyenda en Mi CARRERA, colecciona y compite con estrellas en MyTEAM, y toma decisiones ejecutivas en Mi NBA en Xbox Series X|S o Mi LIGA en Xbox One.",
-      "developer": "Visual Concepts",
-      "publisher": "2K",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.23652.14332530460749170.64ca41ff-99bb-414a-b819-ac6c0303cecb.2ff46473-a6f8-49eb-ab03-fbd7fedf4393",
-      "heroImage": "https://store-images.s-microsoft.com/image/apps.64882.14332530460749170.64ca41ff-99bb-414a-b819-ac6c0303cecb.37686e1c-2636-47f5-9443-ec60e1f8e778",
-      "screenshots": [
-        "https://store-images.s-microsoft.com/image/apps.11365.14332530460749170.64ca41ff-99bb-414a-b819-ac6c0303cecb.a4bc3184-a1e5-4b8f-ba5b-4d42f3e730d7",
-        "https://store-images.s-microsoft.com/image/apps.11892.14332530460749170.64ca41ff-99bb-414a-b819-ac6c0303cecb.e327410f-a2eb-42cc-b586-e91e5648205f",
-        "https://store-images.s-microsoft.com/image/apps.7368.14332530460749170.64ca41ff-99bb-414a-b819-ac6c0303cecb.95ef7d4e-03b1-4edb-b049-b4c12ca60c0b",
-        "https://store-images.s-microsoft.com/image/apps.18467.14332530460749170.9b4b5b46-51c1-4822-9469-8015aea7d279.ef36a1b3-f936-403a-9be7-cd7b48f8b9b2"
-      ],
-      "videoUrl": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftassets/0de05cba-8e2e-464a-9258-0a4d61d8b0e8-AVS.m3u8?packagedStreaming=true",
-      "videoCaption": "NBA 2K26 para Xbox One",
-      "releaseDate": "",
-      "categories": [
-        "Deportes"
-      ],
-      "tiers": [
-        "premium",
-        "ultimate"
-      ],
-      "platform": "console",
-      "price": 0,
-      "msrp": 0,
-      "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
-      "rating": 2.7,
-      "ratingCount": 6,
-      "ageRating": 3,
-      "pegiRating": "PEGI 3",
-      "pegiDescription": "Apropiado a partir de 3 años",
-      "interactiveDescriptions": [
-        "Compras dentro del juego (Incluye artículos aleatorios)"
-      ],
-      "capabilities": [
-        "Cooperación local de Xbox (2-4)",
-        "Cooperativo en línea  (2-10)",
-        "Multijugador local de Xbox (2-4)",
-        "Multijugador en línea  (2-10)",
-        "Multijugador multiplataforma de Xbox",
-        "HDR10",
-        "Un jugador",
-        "Cooperación multiplataforma de Xbox",
-        "60 fps +",
-        "Logros de Xbox",
-        "Presencia de Xbox",
-        "Cosas guardadas en la nube de Xbox"
-      ],
-      "systemRequirements": [
-        {
-          "title": "Arquitectura",
-          "minimum": "x64",
-          "recommended": "x64"
-        }
-      ],
-      "maxInstallSize": 112278798336,
-      "hasAddOns": true,
-      "storeUrl": "https://www.xbox.com/es-es/games/store/nba-2k26-para-xbox-one/9PP9PFSCJTWR"
-    },
-    {
-      "id": "9NFKCJNBR34N",
-      "title": "NBA 2K26 para Xbox Series X|S",
-      "description": "El derecho a presumir está en juego en NBA 2K26. Construye tu leyenda en Mi CARRERA, colecciona y compite con estrellas en MyTEAM, y toma decisiones ejecutivas en Mi NBA en Xbox Series X|S o Mi LIGA en Xbox One.\n\n\nCON LA TECNOLOGÍA ProPLAY™ \n\nDomina cada posesión con una tecnología inmersiva que traduce directamente las imágenes de la NBA en un juego realista en Xbox Series X|S. Siéntete más conectado con cada drible y cada cambio de dirección, y muévete con libertad mientras desatas una organización dinámica utilizando las nuevas funciones.\n\n\nFORMA TU EQUIPO Y GANA \n\nCrea un Mi JUGADOR que trascienda el juego en Mi CARRERA y pasa de ser una promesa en auge a una superestrella mundial. Adéntrate en entornos impresionantes donde podrás formar equipo con amigos y desafiar a equipos rivales para ganarte el derecho a presumir.\n\n\nREÚNE ESTRELLAS EN MyTEAM \n\nColecciona y compite con leyendas del pasado y del presente en MyTEAM. Reúne una plantilla repleta de estrellas, pon a prueba tu equipo ideal en los modos para un jugador y multijugador, y consigue nuevas cartas para hacer realidad tu fantasía MyTEAM.\n\n\nTU EQUIPO, TU HISTORIA\n\nEscribe el próximo capítulo de una franquicia de la NBA como general manager en Mi NBA en Xbox Series X|S, o Mi LIGA en Xbox One. Influye en el futuro del deporte y deja una huella imborrable en la liga. \n\n*Requiere disponer de una conexión a Internet y una Cuenta de NBA 2K para canjear y utilizar el contenido de bonificación. Se aplican las condiciones.\n\nCiertas características del juego, incluyendo el multijugador online, la comunicación y otras características online, pueden no ser accesibles por cuentas de niño de Xbox. En Xbox, un niño significa jugadores menores de 13 años, a menos que las leyes locales especifiquen otra cosa. Jugar ya, Mi LIGA y WNBA están disponibles sin conexión.\n\nLa compra otorga una licencia para el producto digital sujeta a las Condiciones del servicio (\"CdS\") y la Política de privacidad del juego y en www.take2games.com/legal y www.take2games.com/privacy. El acceso a características, contenidos, servicios o funciones especiales/de bonificación/online (\"Características especiales\"), puede requerir un código de serie de un solo uso, una cuota adicional, el registro de una cuenta online y/o puede no ser accesible para cuentas registradas a usuarios menores de 13 años (la edad mínima varía). Las Funciones especiales pueden requerir conexión a Internet, no estar disponibles para todos los usuarios o en todo momento, y pueden ser canceladas, modificadas u ofrecidas bajo términos diferentes de acuerdo con las CdS. Consulta https://bit.ly/2K-Online-Services-Status para conocer la disponibilidad de determinadas Funciones especiales. La infracción de las CdS puede dar lugar a la restricción o cancelación del acceso al juego o a la cuenta online.",
-      "shortDescription": "El derecho a presumir está en juego en NBA 2K26. Construye tu leyenda en Mi CARRERA, colecciona y compite con estrellas en MyTEAM, y toma decisiones ejecutivas en Mi NBA en Xbox Series X|S o Mi LIGA en Xbox One.",
-      "developer": "Visual Concepts",
-      "publisher": "2K",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.23652.13597880418237927.1db3ecc3-d73b-4573-a4d1-d16bd9922438.69561e2d-167c-4608-b5f0-287c10e2e5d5",
-      "heroImage": "https://store-images.s-microsoft.com/image/apps.64882.13597880418237927.1db3ecc3-d73b-4573-a4d1-d16bd9922438.024fcdb2-3b80-4f63-9bf3-43b98235264c",
-      "screenshots": [
-        "https://store-images.s-microsoft.com/image/apps.11365.13597880418237927.1db3ecc3-d73b-4573-a4d1-d16bd9922438.bf74cb06-9f2f-48f2-8e63-9e31d46651d9",
-        "https://store-images.s-microsoft.com/image/apps.11892.13597880418237927.1db3ecc3-d73b-4573-a4d1-d16bd9922438.d7e1ce61-5686-408f-ae4f-11dcd6c50a08",
-        "https://store-images.s-microsoft.com/image/apps.7368.13597880418237927.1db3ecc3-d73b-4573-a4d1-d16bd9922438.f70b6925-21c8-42af-90dc-c9461a414652",
-        "https://store-images.s-microsoft.com/image/apps.18467.13597880418237927.53f62c9f-61ce-4ad9-a1c6-16610ad3064f.a026f122-b1c9-4b90-8447-0db231df45eb"
-      ],
-      "videoUrl": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftassets/b1bd5cde-2943-4a87-966a-4b3d67cac8c3-AVS.m3u8?packagedStreaming=true",
-      "videoCaption": "NBA 2K26 para Xbox Series X|S",
-      "releaseDate": "",
-      "categories": [
-        "Deportes"
-      ],
-      "tiers": [
-        "premium",
-        "ultimate"
-      ],
-      "platform": "console",
-      "price": 0,
-      "msrp": 0,
-      "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
-      "rating": 2.3,
-      "ratingCount": 19,
-      "ageRating": 3,
-      "pegiRating": "PEGI 3",
-      "pegiDescription": "Apropiado a partir de 3 años",
-      "interactiveDescriptions": [
-        "Compras dentro del juego (Incluye artículos aleatorios)"
-      ],
-      "capabilities": [
-        "Cooperación local de Xbox (2-4)",
-        "Cooperativo en línea  (2-10)",
-        "Multijugador local de Xbox (2-4)",
-        "Multijugador en línea  (2-10)",
-        "Multijugador multiplataforma de Xbox",
-        "HDR10",
-        "Un jugador",
-        "Cooperación multiplataforma de Xbox",
-        "60 fps +",
-        "Optimizado para Xbox Series X|S",
-        "Logros de Xbox",
-        "Presencia de Xbox",
-        "Cosas guardadas en la nube de Xbox"
-      ],
-      "systemRequirements": [
-        {
-          "title": "Arquitectura",
-          "minimum": "x64",
-          "recommended": "x64"
-        }
-      ],
-      "maxInstallSize": 127231320064,
-      "hasAddOns": true,
-      "storeUrl": "https://www.xbox.com/es-es/games/store/nba-2k26-para-xbox-series-x-s/9NFKCJNBR34N"
     },
     {
       "id": "BXWJNW4170RM",
@@ -36210,8 +35927,7 @@
         "Xbox One X mejorado",
         "Logros de Xbox",
         "Cosas guardadas en la nube de Xbox",
-        "Xbox Play Anywhere",
-        "FPS Boost Series X | S"
+        "Xbox Play Anywhere"
       ],
       "systemRequirements": [
         {
@@ -37264,8 +36980,7 @@
       "pegiDescription": "Apropiado a partir de 16 años",
       "interactiveDescriptions": [],
       "capabilities": [
-        "Xbox One X mejorado",
-        "FPS Boost Series X | S"
+        "Xbox One X mejorado"
       ],
       "systemRequirements": [
         {
@@ -37451,8 +37166,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 2.1,
-      "ratingCount": 109,
+      "rating": 2.2,
+      "ratingCount": 111,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -37909,8 +37624,7 @@
         "Un jugador",
         "Logros de Xbox",
         "Presencia de Xbox",
-        "Cosas guardadas en la nube de Xbox",
-        "FPS Boost Series X | S"
+        "Cosas guardadas en la nube de Xbox"
       ],
       "systemRequirements": [
         {
@@ -39697,8 +39411,7 @@
         "Cooperación local de Xbox (2-4)",
         "Cooperativo en línea  (2-4)",
         "Multijugador local de Xbox (2-2)",
-        "Multijugador en línea  (2-26)",
-        "FPS Boost Series X | S"
+        "Multijugador en línea  (2-26)"
       ],
       "systemRequirements": [
         {
@@ -39751,8 +39464,7 @@
         "Cooperación local de Xbox (2-4)",
         "Cooperativo en línea  (2-4)",
         "Multijugador local de Xbox (2-2)",
-        "Multijugador en línea  (2-24)",
-        "FPS Boost Series X | S"
+        "Multijugador en línea  (2-24)"
       ],
       "systemRequirements": [
         {
@@ -39807,8 +39519,7 @@
         "Multijugador en línea  (2-24)",
         "4K Ultra HD",
         "HDR10",
-        "Pantalla dividida o compartida",
-        "FPS Boost Series X | S"
+        "Pantalla dividida o compartida"
       ],
       "systemRequirements": [
         {
@@ -40153,8 +39864,7 @@
         "Logros de Xbox",
         "Presencia de Xbox",
         "Clubs de Xbox",
-        "Cosas guardadas en la nube de Xbox",
-        "FPS Boost Series X | S"
+        "Cosas guardadas en la nube de Xbox"
       ],
       "systemRequirements": [
         {
@@ -41189,7 +40899,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 2.2,
-      "ratingCount": 45,
+      "ratingCount": 46,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -41789,8 +41499,7 @@
         "Presencia de Xbox",
         "Clubs de Xbox",
         "Cosas guardadas en la nube de Xbox",
-        "Xbox Play Anywhere",
-        "FPS Boost Series X | S"
+        "Xbox Play Anywhere"
       ],
       "systemRequirements": [
         {
@@ -42301,7 +42010,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.3,
-      "ratingCount": 129,
+      "ratingCount": 131,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -42858,7 +42567,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.3,
-      "ratingCount": 184,
+      "ratingCount": 201,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -42957,7 +42666,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 2.2,
-      "ratingCount": 55,
+      "ratingCount": 56,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -43565,7 +43274,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.2,
-      "ratingCount": 224,
+      "ratingCount": 225,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -43829,7 +43538,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.4,
-      "ratingCount": 74,
+      "ratingCount": 75,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -44373,9 +44082,7 @@
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
       "interactiveDescriptions": [],
-      "capabilities": [
-        "FPS Boost Series X | S"
-      ],
+      "capabilities": [],
       "systemRequirements": [
         {
           "title": "Arquitectura",
@@ -44987,7 +44694,7 @@
       "hasDiscount": true,
       "discountPercent": 20,
       "rating": 4.8,
-      "ratingCount": 38,
+      "ratingCount": 40,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -45962,7 +45669,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.3,
-      "ratingCount": 531,
+      "ratingCount": 532,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -47088,8 +46795,7 @@
         "Multijugador en línea  (8-40)",
         "HDR10",
         "Pantalla dividida o compartida",
-        "Xbox One X mejorado",
-        "FPS Boost Series X"
+        "Xbox One X mejorado"
       ],
       "systemRequirements": [
         {
@@ -48028,8 +47734,7 @@
         "Cooperativo en línea  (2-4)",
         "Multijugador en línea  (2-4)",
         "HDR10",
-        "Xbox One X mejorado",
-        "FPS Boost Series S"
+        "Xbox One X mejorado"
       ],
       "systemRequirements": [
         {
@@ -48396,8 +48101,7 @@
         "Presencia de Xbox",
         "Clubs de Xbox",
         "Cosas guardadas en la nube de Xbox",
-        "Xbox Play Anywhere",
-        "FPS Boost Series X | S"
+        "Xbox Play Anywhere"
       ],
       "systemRequirements": [
         {
@@ -51657,8 +51361,7 @@
         "Logros de Xbox",
         "Presencia de Xbox",
         "Clubs de Xbox",
-        "Cosas guardadas en la nube de Xbox",
-        "FPS Boost Series X | S"
+        "Cosas guardadas en la nube de Xbox"
       ],
       "systemRequirements": [
         {
@@ -53515,8 +53218,7 @@
       "interactiveDescriptions": [],
       "capabilities": [
         "Multijugador en línea  (2-16)",
-        "Xbox One X mejorado",
-        "FPS Boost Series X | S"
+        "Xbox One X mejorado"
       ],
       "systemRequirements": [
         {
@@ -54176,8 +53878,7 @@
         "4K Ultra HD",
         "Un jugador",
         "Xbox One X mejorado",
-        "Logros de Xbox",
-        "FPS Boost Series X | S"
+        "Logros de Xbox"
       ],
       "systemRequirements": [
         {
@@ -54309,7 +54010,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 125413220352,
+      "maxInstallSize": 125413228544,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/tom-clancy-s-the-division-2/BVQ3V30ZXVT5"
     },
@@ -54831,8 +54532,7 @@
         "Presencia de Xbox",
         "Clubs de Xbox",
         "Cosas guardadas en la nube de Xbox",
-        "Xbox Play Anywhere",
-        "FPS Boost Series X | S"
+        "Xbox Play Anywhere"
       ],
       "systemRequirements": [
         {
@@ -55920,8 +55620,7 @@
         "Logros de Xbox",
         "Presencia de Xbox",
         "Clubs de Xbox",
-        "Cosas guardadas en la nube de Xbox",
-        "FPS Boost Series X | S"
+        "Cosas guardadas en la nube de Xbox"
       ],
       "systemRequirements": [
         {
@@ -56357,8 +56056,7 @@
         "Multijugador local de Xbox (2-2)",
         "4K Ultra HD",
         "Pantalla dividida o compartida",
-        "Xbox One X mejorado",
-        "FPS Boost Series X | S"
+        "Xbox One X mejorado"
       ],
       "systemRequirements": [
         {
@@ -58229,8 +57927,7 @@
         "Logros de Xbox",
         "Presencia de Xbox",
         "Clubs de Xbox",
-        "Cosas guardadas en la nube de Xbox",
-        "FPS Boost Series X | S"
+        "Cosas guardadas en la nube de Xbox"
       ],
       "systemRequirements": [
         {
@@ -58631,8 +58328,7 @@
         "Cooperativo en línea  (2-2)",
         "Multijugador en línea  (2-4)",
         "Un jugador",
-        "Logros de Xbox",
-        "FPS Boost Series X | S"
+        "Logros de Xbox"
       ],
       "systemRequirements": [
         {
@@ -58823,8 +58519,7 @@
         "Cooperativo en línea  (2-8)",
         "Multijugador en línea  (2-8)",
         "Un jugador",
-        "Logros de Xbox",
-        "FPS Boost Series X | S"
+        "Logros de Xbox"
       ],
       "systemRequirements": [
         {
@@ -60698,13 +60393,13 @@
       "shortDescription": "¡Experimenta la acción naval más épica en World of Warships: Legends, un juego en línea free-to-play global multijugador en el que puedes dominar los mares desde la cubierta de los buques militares más prominentes de la historia! Recluta comandantes legendarios, mejora tus barcos y sienta las bases de tu imperio naval junto a jugadores de todo el mundo y frente a ellos.\n",
       "developer": "Wargaming Group Limited",
       "publisher": "Wargaming.net",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.37618.65694988112101034.315588c9-f4fb-4605-b06d-bd525b01ce5f.ca73cfb6-0e4e-486f-a966-73508483b417",
-      "heroImage": "https://store-images.s-microsoft.com/image/apps.48710.65694988112101034.315588c9-f4fb-4605-b06d-bd525b01ce5f.1e93cf12-a4bf-472b-a29e-17f631c5c630",
+      "imageUrl": "https://store-images.s-microsoft.com/image/apps.15161.65694988112101034.63b3705a-17e4-4e7b-b45a-a3aa58f7a4fc.a900d566-737d-4c84-a3f2-16916236f4e8",
+      "heroImage": "https://store-images.s-microsoft.com/image/apps.22013.65694988112101034.63b3705a-17e4-4e7b-b45a-a3aa58f7a4fc.df65c6b7-7174-4ce2-a917-667c1bd7771d",
       "screenshots": [
-        "https://store-images.s-microsoft.com/image/apps.13803.65694988112101034.315588c9-f4fb-4605-b06d-bd525b01ce5f.ec77376c-0b67-4082-87e5-65b5c8400b1f",
-        "https://store-images.s-microsoft.com/image/apps.41872.65694988112101034.315588c9-f4fb-4605-b06d-bd525b01ce5f.4f0bdfcd-1962-40d8-ab9f-f699acaab066",
-        "https://store-images.s-microsoft.com/image/apps.34132.65694988112101034.315588c9-f4fb-4605-b06d-bd525b01ce5f.8d52596c-b703-4643-8fde-94493cf24ec3",
-        "https://store-images.s-microsoft.com/image/apps.58838.65694988112101034.315588c9-f4fb-4605-b06d-bd525b01ce5f.d9737249-ce9e-4835-b786-289537a41dd9"
+        "https://store-images.s-microsoft.com/image/apps.5973.65694988112101034.63b3705a-17e4-4e7b-b45a-a3aa58f7a4fc.73bb4b1a-b46f-422f-b575-aca99c9447b7",
+        "https://store-images.s-microsoft.com/image/apps.63187.65694988112101034.63b3705a-17e4-4e7b-b45a-a3aa58f7a4fc.dfa83900-4db3-454b-a6a9-fb5d130ea601",
+        "https://store-images.s-microsoft.com/image/apps.34981.65694988112101034.63b3705a-17e4-4e7b-b45a-a3aa58f7a4fc.9bbabcbd-18a6-4fcd-8193-31818ce8507d",
+        "https://store-images.s-microsoft.com/image/apps.49409.65694988112101034.63b3705a-17e4-4e7b-b45a-a3aa58f7a4fc.c5302cc5-414d-4772-a19f-68c0b5968c0b"
       ],
       "videoUrl": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftassets/bd4651f0-d3f9-4dff-a674-eb9b8337f6d5-AVS.m3u8?packagedStreaming=true",
       "videoCaption": "World of Warships: Legends",
