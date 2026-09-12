@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-09-11T12:24:57.789Z",
+  "updatedAt": "2026-09-12T11:47:55.912Z",
   "market": "ES",
   "language": "es-ES",
-  "totalGames": 827,
+  "totalGames": 825,
   "counts": {
-    "essential": 127,
-    "premium": 582,
-    "pc": 520,
-    "ultimate": 734,
-    "total": 827
+    "essential": 130,
+    "premium": 581,
+    "pc": 510,
+    "ultimate": 732,
+    "total": 825
   },
   "categories": [
     "Acción y aventura",
@@ -1725,7 +1725,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.8,
-      "ratingCount": 387,
+      "ratingCount": 389,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -2285,7 +2285,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 2.2,
-      "ratingCount": 405,
+      "ratingCount": 406,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -3464,7 +3464,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.4,
-      "ratingCount": 307,
+      "ratingCount": 308,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -6343,7 +6343,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4,
-      "ratingCount": 131,
+      "ratingCount": 132,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -12223,7 +12223,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.5,
-      "ratingCount": 93,
+      "ratingCount": 94,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -12533,7 +12533,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.3,
-      "ratingCount": 713,
+      "ratingCount": 715,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -13851,114 +13851,6 @@
       "storeUrl": "https://www.xbox.com/es-es/games/store/death-stranding-director-s-cut/9NQGN8TGNT8P"
     },
     {
-      "id": "9P5Z4530318L",
-      "title": "DEATHLOOP",
-      "description": "DEATHLOOP es un shooter en primera persona de nueva generación desarrollado por Arkane Lyon, el galardonado estudio creador de Dishonored. Dos asesinos rivales se ven atrapados en un bucle temporal en la misteriosa isla de Blackreef, condenados a repetir una y otra vez el mismo día. Para escapar, la única esperanza de Colt es acabar con ocho objetivos clave antes de que el día se reinicie. Aprende con cada ciclo, prueba nuevas rutas, consigue información y obtén más armas y habilidades. Lo que sea con tal de romper el bucle.\n\nSI NO LO CONSIGUES A LA PRIMERA... MUERE, MUERE DE NUEVO\nCada bucle te dará la oportunidad de probar cosas nuevas. Sírvete de la información que hayas conseguido en intentos anteriores para adaptar tu estilo de juego y decidir si prefieres escabullirte de nivel a nivel o lanzarte al combate sin reservas. En cada ciclo descubrirás nuevos secretos e información sobre tus objetivos y sobre la isla de Blackreef, y también podrás ampliar tu arsenal. Con la ayuda de un amplio repertorio de habilidades sobrenaturales y armas destructivas, tendrás que aprovechar todas las herramientas a tu disposición para ejecutar remates tan letales como dramáticos. Personaliza tu equipamiento y arréglatelas para sobrevivir a esta letal danza entre cazador y presa.\n\nLA EXPERIENCIA CLÁSICA DE UN SOLO JUGADOR CON UNA FACETA MULTIJUGADOR LETAL\n¿Héroe o villano? Vive la historia principal en la piel de Colt, que ha de dar caza a varios objetivos por la isla de Blackreef con el fin de romper el bucle y conseguir la libertad. Mientras tanto, Julianna, tu rival, te pisará los talones en todo momento, con la posibilidad de que sea otro jugador quien la maneje. Pero si tienes ganas de dar rienda suelta a tu maldad interior, tú también podrás meterte en el papel de la asesina e infiltrarte en la partida de otro jugador para acabar con Colt. La experiencia multijugador es totalmente opcional, e incluso se podrá establecer que la IA del juego controle a Julianna.\n\nLA ISLA DE BLACKREEF – PARAÍSO O PRISIÓN\nLos mundos artísticos llenos de rutas y con una experiencia de juego envolvente son una de las claves de la reputación de Arkane. DEATHLOOP presenta un sobrecogedor entorno retrofuturista inspirado en los años 60 que parece un personaje más del amplio elenco. Y, aunque Blackreef sea una estilizada isla de las maravillas, Colt la considera su prisión: un mundo en el que impera la decadencia, en el que la muerte no significa nada y en el que los criminales van de fiesta en fiesta sin dejarle escapatoria alguna.   \n\nhttps://eulas.bethesda.net/deathloop",
-      "shortDescription": "DEATHLOOP es un shooter en primera persona desarrollado por Arkane Lyon, el estudio creador de Dishonored. Dos asesinos rivales se ven atrapados en un bucle temporal en la misteriosa isla de Blackreef, condenados a repetir una y otra vez el mismo día. Para escapar, Colt tendrá que acabar con ocho objetivos clave antes de que el día se reinicie. Aprende con cada ciclo, prueba nuevas rutas, consigue información y obtén más armas y habilidades. Lo que sea con tal de romper el bucle.",
-      "developer": "Arkane Studios",
-      "publisher": "Bethesda Softworks",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.48244.14634955238674857.649b7ff9-0dfc-4951-9b65-c5d815215da6.e294fb96-a4ec-4326-8521-381109382345",
-      "heroImage": "https://store-images.s-microsoft.com/image/apps.26641.14634955238674857.649b7ff9-0dfc-4951-9b65-c5d815215da6.bacdd878-0313-4c58-9434-459afd7cf535",
-      "screenshots": [
-        "https://store-images.s-microsoft.com/image/apps.56273.14634955238674857.649b7ff9-0dfc-4951-9b65-c5d815215da6.187fcdb2-dda6-4d2e-b7fa-40a6101cc24e",
-        "https://store-images.s-microsoft.com/image/apps.5274.14634955238674857.649b7ff9-0dfc-4951-9b65-c5d815215da6.1c698364-099c-484b-9118-62679397c294",
-        "https://store-images.s-microsoft.com/image/apps.20967.14634955238674857.649b7ff9-0dfc-4951-9b65-c5d815215da6.b8072bfa-2508-4a7c-a762-0f18d82b8be3",
-        "https://store-images.s-microsoft.com/image/apps.5468.14634955238674857.649b7ff9-0dfc-4951-9b65-c5d815215da6.c88c7ad9-f458-49ef-848b-8ebe5a6379d7"
-      ],
-      "videoUrl": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftassets/c2c4bc4a-e752-4a97-a9a4-c699f2f95229-AVS.m3u8?packagedStreaming=true",
-      "videoCaption": "DEATHLOOP Trailer",
-      "releaseDate": "2022-09-20",
-      "categories": [
-        "Acción y aventura",
-        "Shooter"
-      ],
-      "tiers": [
-        "pc",
-        "premium",
-        "ultimate"
-      ],
-      "platform": "both",
-      "price": 69.99,
-      "msrp": 69.99,
-      "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
-      "rating": 4,
-      "ratingCount": 214,
-      "ageRating": 18,
-      "pegiRating": "PEGI 18",
-      "pegiDescription": "Apropiado a partir de 18 años",
-      "interactiveDescriptions": [],
-      "capabilities": [
-        "Multijugador en línea  (2-2)",
-        "Multijugador multiplataforma de Xbox",
-        "4K Ultra HD",
-        "HDR10",
-        "Un jugador",
-        "Frecuencia de actualización variable",
-        "Trazado de rayos",
-        "60 fps +",
-        "Sonido espacial",
-        "Optimizado para Xbox Series X|S",
-        "Controlador para juegos para PC",
-        "Logros de Xbox",
-        "Presencia de Xbox",
-        "Clubs de Xbox",
-        "Cosas guardadas en la nube de Xbox",
-        "Xbox Play Anywhere"
-      ],
-      "systemRequirements": [
-        {
-          "title": "SO",
-          "minimum": "Windows 10 version 18362.0 or higher",
-          "recommended": "Windows 10 version 18362.0 or higher"
-        },
-        {
-          "title": "Arquitectura",
-          "minimum": "x64",
-          "recommended": "x64"
-        },
-        {
-          "title": "Gráficos",
-          "minimum": "Nvidia GTX 1060 (6GB) or AMD Radeon RX 580 (8GB)",
-          "recommended": "Nvidia RTX 2060 (6GB) or AMD Radeon RX 5700 (8GB)"
-        },
-        {
-          "title": "Procesador",
-          "minimum": "Intel Core i5-8400 @ 2.80GHz or AMD Ryzen 5 1600",
-          "recommended": "Intel Core i7-9700K @ 3.60GHz or AMD Ryzen 7 2700X"
-        },
-        {
-          "title": "Teclado",
-          "minimum": "Teclado integrado",
-          "recommended": ""
-        },
-        {
-          "title": "Mouse",
-          "minimum": "Mouse integrado",
-          "recommended": ""
-        },
-        {
-          "title": "DirectX",
-          "minimum": "API de DirectX 12, nivel de característica de hardware 12",
-          "recommended": ""
-        },
-        {
-          "title": "Memoria",
-          "minimum": "12 GB",
-          "recommended": "16 GB"
-        },
-        {
-          "title": "Controladora",
-          "minimum": "",
-          "recommended": "Controladora de Xbox"
-        }
-      ],
-      "maxInstallSize": 41978826752,
-      "hasAddOns": true,
-      "storeUrl": "https://www.xbox.com/es-es/games/store/deathloop/9P5Z4530318L"
-    },
-    {
       "id": "9NHFVWX1V7QJ",
       "title": "Deep Rock Galactic",
       "description": "Compatible con Xbox Play Anywhere: podrás jugar tanto en Xbox One como en un PC con Windows 11 sin coste adicional.\r\n\r\nDeep Rock Galactic es un shooter cooperativo de ciencia ficción en primera persona con enanos espaciales de armas tomar, entornos totalmente destruibles, cuevas generadas procedimentalmente y hordas interminables de monstruos alienígenas.\r\n\r\nHoxxes IV contiene la mayor concentración de minerales valiosos que se haya descubierto. Sin embargo, en el planeta todo es extremadamente hostil, desde las criaturas hasta la fauna. Menos mal que Deep Rock Galactic cuenta con los mejores mineros espaciales del universo: ¡los enanos! Hoxxes combina las dos cosas que más gustan a los enanos: la minería y matar monstruos. Es el encargo perfecto para cualquier enano viajero del espacio que se precie.\r\n\r\n*** Cooperativo para 4 jugadores ***\r\nTrabajad en equipo para excavar, explorar y abriros paso peleando a lo largo de un enorme sistema de cuevas repletas de enemigos mortíferos y valiosos recursos. ¡Necesitaréis la ayuda de vuestros compañeros si queréis sobrevivir a los sistemas de cuevas más mortíferos de la galaxia!\r\n\r\n*** 4 clases únicas ***\r\nEscoge la clase apropiada para cada tarea. Aniquila a los enemigos como Gunner, ve por delante y alumbra las cuevas como Scout, atraviesa la roca viva como Driller o da apoyo al equipo construyendo estructuras defensivas y torretas como Engineer.\r\n\r\n*** Entornos totalmente destruibles ***\r\nDestruye todo lo que te rodea para alcanzar tu objetivo. No hay un camino establecido, puedes completar la misión a tu manera. Taladra en línea recta hasta llegar a tu objetivo o crea una intrincada red de galerías para explorar tus alrededores: tú decides. Pero ve con cuidado, ¡no querrás toparte con un enjambre de alienígenas sin ir preparado!\r\n\r\n*** Red de cuevas generadas procedimentalmente ***\r\nExplora una red de sistemas de cuevas generadas procedimentalmente y llenas de enemigos con los que luchar y riquezas que recoger. Siempre hay algo nuevo que descubrir, y no hay dos recorridos iguales.\r\n\r\n*** Los enanos saben lo que necesitan para hacer un buen trabajo. Cuentan con las armas más potentes y las herramientas más avanzadas de la galaxia: lanzallamas, ametralladoras montadas, lanzadores de plataformas portátiles, y mucho, mucho más.\r\n\r\n*** Alumbra el camino ***\r\nLas cuevas subterráneas son oscuras y albergan terrores. Tendrás que llevar tus propias luces para poder iluminar estas cavernas oscuras como bocas de lobo.\r\n\r\nPuedes obtener información actualizada sobre el estado del juego y averiguar cómo enviar comentarios e informar sobre errores en https://www.deeprockgalactic.com/",
@@ -14175,101 +14067,6 @@
       "maxInstallSize": 3833139200,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/deep-rock-galactic-survivor/9PHGQPRBBSXK"
-    },
-    {
-      "id": "9N18L56XHK8Z",
-      "title": "Denshattack!",
-      "description": "Haz flips, trucos y grinds con tu tren mientras te abres paso a toda velocidad por una colorida distopía japonesa. Supera a las bandas rivales, acaba con una megacorporación de lo más turbia y recupera las vías con habilidad, velocidad y estilo.\n\nHaz ollies, kickflips y grinds en las ciudades más grandes de Japón y en un mundo repleto de prados, volcanes y mares. Consigue la mayor puntuación posible con flips y trucos, y clava el aterrizaje con tu tren personalizado.",
-      "shortDescription": "Haz flips, trucos y grinds con tu tren mientras te abres paso a toda velocidad por una colorida distopía japonesa. Supera a las bandas rivales, acaba con una megacorporación de lo más turbia y recupera las vías con habilidad, velocidad y estilo.",
-      "developer": "Undercoders",
-      "publisher": "Fireshine Games ",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.25514.13909930485351294.30c54075-76a6-46f7-9d7f-06cf4bddc3d5.f17c3112-9e47-4929-a3cb-09cf55ec327f",
-      "heroImage": "https://store-images.s-microsoft.com/image/apps.53135.13909930485351294.30c54075-76a6-46f7-9d7f-06cf4bddc3d5.90bf79d1-9d7b-4e3f-b00d-78dae18ee7f5",
-      "screenshots": [
-        "https://store-images.s-microsoft.com/image/apps.64077.13909930485351294.30c54075-76a6-46f7-9d7f-06cf4bddc3d5.ae752052-84e8-45e0-9719-c95f2a97517f",
-        "https://store-images.s-microsoft.com/image/apps.35165.13909930485351294.30c54075-76a6-46f7-9d7f-06cf4bddc3d5.7712db0f-1f24-4d21-aff4-97cfaf148cf1",
-        "https://store-images.s-microsoft.com/image/apps.23118.13909930485351294.30c54075-76a6-46f7-9d7f-06cf4bddc3d5.43374fb1-efc4-4aea-a7ba-e9a3ffa2d7a4",
-        "https://store-images.s-microsoft.com/image/apps.54206.13909930485351294.30c54075-76a6-46f7-9d7f-06cf4bddc3d5.ef666499-875a-4945-bfb5-ec88f6011bc1"
-      ],
-      "videoUrl": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftassets/0b219ac1-b6cc-4d66-8732-ccf05142b7e3-AVS.m3u8?packagedStreaming=true",
-      "videoCaption": "Denshattack! Trailer",
-      "releaseDate": "2026-07-15",
-      "categories": [
-        "Acción y aventura",
-        "Plataformas",
-        "Carreras y vuelo"
-      ],
-      "tiers": [
-        "pc",
-        "ultimate"
-      ],
-      "platform": "both",
-      "price": 19.99,
-      "msrp": 19.99,
-      "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
-      "rating": 4.3,
-      "ratingCount": 37,
-      "ageRating": 12,
-      "pegiRating": "PEGI 12",
-      "pegiDescription": "Apropiado a partir de 12 años",
-      "interactiveDescriptions": [],
-      "capabilities": [
-        "4K Ultra HD",
-        "Un jugador",
-        "Frecuencia de actualización variable",
-        "60 fps +",
-        "Optimizado para Xbox Series X|S",
-        "Logros de Xbox",
-        "Cosas guardadas en la nube de Xbox",
-        "Xbox Play Anywhere"
-      ],
-      "systemRequirements": [
-        {
-          "title": "SO",
-          "minimum": "Windows 10 version 18362.0 or higher",
-          "recommended": "Windows 10 version 18362.0 or higher"
-        },
-        {
-          "title": "Arquitectura",
-          "minimum": "x64",
-          "recommended": "x64"
-        },
-        {
-          "title": "Gráficos",
-          "minimum": "NVIDIA GeForce GTX 1050 Ti (4096 MB) or AMD Radeon RX 570 (4096 MB)",
-          "recommended": "NVIDIA GeForce GTX 1060 (6144 MB) or AMD Radeon RX 580 (8192 MB)"
-        },
-        {
-          "title": "Procesador",
-          "minimum": "Intel Core i5-6600K (4 * 3500) or AMD Ryzen 3 2200G (4 * 3500)",
-          "recommended": "Intel Core i5-9600K (6 * 3700) or AMD Ryzen 5 1600 (6 * 3200)"
-        },
-        {
-          "title": "DirectX",
-          "minimum": "API de DirectX 12, nivel de característica de hardware 11",
-          "recommended": "API de DirectX 12, nivel de característica de hardware 11"
-        },
-        {
-          "title": "Memoria",
-          "minimum": "8 GB",
-          "recommended": "8 GB"
-        },
-        {
-          "title": "Memoria de vídeo",
-          "minimum": "4 GB",
-          "recommended": "6 GB"
-        },
-        {
-          "title": "Controladora",
-          "minimum": "",
-          "recommended": "Controladora de Xbox"
-        }
-      ],
-      "maxInstallSize": 10430169088,
-      "hasAddOns": true,
-      "storeUrl": "https://www.xbox.com/es-es/games/store/denshattack/9N18L56XHK8Z"
     },
     {
       "id": "C37XBX7DCBZ0",
@@ -15207,7 +15004,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.4,
-      "ratingCount": 49,
+      "ratingCount": 50,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -16711,7 +16508,7 @@
           "recommended": "Controladora de Xbox"
         }
       ],
-      "maxInstallSize": 113746194432,
+      "maxInstallSize": 113755136000,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/doom-the-dark-ages/9PH9X0760B0T"
     },
@@ -19665,7 +19462,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 136169811968,
+      "maxInstallSize": 120328777728,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/fallout-76/BS6WJ2L56B10"
     },
@@ -19761,7 +19558,7 @@
           "recommended": "Controladora de Xbox"
         }
       ],
-      "maxInstallSize": 132621131776,
+      "maxInstallSize": 119741104128,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/fallout-76-pc/9NKGNMNK3K3Z"
     },
@@ -19876,7 +19673,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.7,
-      "ratingCount": 201,
+      "ratingCount": 202,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -20075,7 +19872,6 @@
         "Acción y aventura"
       ],
       "tiers": [
-        "pc",
         "ultimate"
       ],
       "platform": "pc",
@@ -21839,7 +21635,7 @@
       "hasDiscount": true,
       "discountPercent": 40,
       "rating": 5,
-      "ratingCount": 10,
+      "ratingCount": 11,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -22411,7 +22207,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 2.8,
-      "ratingCount": 274,
+      "ratingCount": 275,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -22469,7 +22265,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 2.8,
-      "ratingCount": 267,
+      "ratingCount": 268,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -22684,7 +22480,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.7,
-      "ratingCount": 4479,
+      "ratingCount": 4482,
       "ageRating": 12,
       "pegiRating": "Supervisión parental recomendada",
       "pegiDescription": "Supervisión parental recomendada",
@@ -22845,7 +22641,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.1,
-      "ratingCount": 355,
+      "ratingCount": 356,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -23590,7 +23386,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.6,
-      "ratingCount": 11267,
+      "ratingCount": 11268,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -24896,7 +24692,7 @@
           "recommended": "Controladora de Xbox"
         }
       ],
-      "maxInstallSize": 2700931072,
+      "maxInstallSize": 2700980224,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/goals/9PF2ZS4XB4JH"
     },
@@ -27103,8 +26899,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 4.1,
-      "ratingCount": 58,
+      "rating": 4.2,
+      "ratingCount": 59,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -28298,7 +28094,6 @@
         "Acción y aventura"
       ],
       "tiers": [
-        "pc",
         "ultimate"
       ],
       "platform": "pc",
@@ -31211,7 +31006,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.3,
-      "ratingCount": 124,
+      "ratingCount": 125,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -31821,8 +31616,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 3.2,
-      "ratingCount": 74,
+      "rating": 3.3,
+      "ratingCount": 75,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -33113,8 +32908,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 4.5,
-      "ratingCount": 31,
+      "rating": 4.6,
+      "ratingCount": 32,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -33470,7 +33265,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.7,
-      "ratingCount": 51605,
+      "ratingCount": 51612,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -36644,7 +36439,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.6,
-      "ratingCount": 87,
+      "ratingCount": 88,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -36936,6 +36731,7 @@
         "Simulación"
       ],
       "tiers": [
+        "essential",
         "pc",
         "premium",
         "ultimate"
@@ -37017,7 +36813,7 @@
           "recommended": "Micrófono integrado"
         }
       ],
-      "maxInstallSize": 33701023744,
+      "maxInstallSize": 33679818752,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/no-man-s-sky/BQVQTL3PCH05"
     },
@@ -37326,7 +37122,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 2.2,
-      "ratingCount": 120,
+      "ratingCount": 121,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -39654,7 +39450,7 @@
         "https://store-images.s-microsoft.com/image/apps.5396.66663660452837213.88feed53-4335-4b35-8a3a-476a0f0fd6ca.fcfc6a84-632c-42a7-bc90-52ab4344b2da"
       ],
       "videoUrl": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftassets/1126c244-c81a-4195-bcc7-68fd886607be-AVS.m3u8?packagedStreaming=true",
-      "videoCaption": "Plants vs. Zombies: Battle for Neighborville™ Official Gameplay Trailer (Founder���s Edition)",
+      "videoCaption": "Plants vs. Zombies: Battle for Neighborville™ Official Gameplay Trailer (Founder’s Edition)",
       "releaseDate": "2019-10-17",
       "categories": [
         "Shooter"
@@ -40608,7 +40404,7 @@
           "recommended": ""
         }
       ],
-      "maxInstallSize": 2105360384,
+      "maxInstallSize": 2105569280,
       "hasAddOns": false,
       "storeUrl": "https://www.xbox.com/es-es/games/store/quake/9P1Z43KRNQD4"
     },
@@ -41062,8 +40858,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 2.2,
-      "ratingCount": 47,
+      "rating": 2.1,
+      "ratingCount": 48,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -41598,7 +41394,6 @@
         "Plataformas"
       ],
       "tiers": [
-        "pc",
         "ultimate"
       ],
       "platform": "pc",
@@ -42732,7 +42527,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.4,
-      "ratingCount": 226,
+      "ratingCount": 234,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -44294,7 +44089,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.7,
-      "ratingCount": 2990,
+      "ratingCount": 2991,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -45267,7 +45062,6 @@
         "Acción y aventura"
       ],
       "tiers": [
-        "pc",
         "ultimate"
       ],
       "platform": "pc",
@@ -45928,7 +45722,6 @@
         "Juegos de rol"
       ],
       "tiers": [
-        "pc",
         "ultimate"
       ],
       "platform": "pc",
@@ -47209,7 +47002,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.4,
-      "ratingCount": 184,
+      "ratingCount": 185,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -47303,7 +47096,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.8,
-      "ratingCount": 1839,
+      "ratingCount": 1840,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -49848,7 +49641,7 @@
       "hasDiscount": true,
       "discountPercent": 50,
       "rating": 4.6,
-      "ratingCount": 189,
+      "ratingCount": 190,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -50638,7 +50431,6 @@
         "Carreras y vuelo"
       ],
       "tiers": [
-        "pc",
         "ultimate"
       ],
       "platform": "pc",
@@ -52618,7 +52410,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 5,
-      "ratingCount": 1,
+      "ratingCount": 2,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -53083,8 +52875,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 4.8,
-      "ratingCount": 41,
+      "rating": 4.6,
+      "ratingCount": 64,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -53225,6 +53017,7 @@
         "Estrategia"
       ],
       "tiers": [
+        "essential",
         "premium",
         "ultimate"
       ],
@@ -53252,7 +53045,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 124799389696,
+      "maxInstallSize": 125243346944,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/thehunter-call-of-the-wild/BXBJQ1932138"
     },
@@ -53282,6 +53075,7 @@
         "Estrategia"
       ],
       "tiers": [
+        "essential",
         "pc",
         "premium",
         "ultimate"
@@ -53339,7 +53133,7 @@
           "recommended": "4 GB"
         }
       ],
-      "maxInstallSize": 125857886208,
+      "maxInstallSize": 126297509888,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/thehunter-call-of-the-wild-windows-10/9NQV7C0G1040"
     },
@@ -54936,7 +54730,6 @@
         "Carreras y vuelo"
       ],
       "tiers": [
-        "pc",
         "ultimate"
       ],
       "platform": "pc",
@@ -55446,7 +55239,6 @@
         "Carreras y vuelo"
       ],
       "tiers": [
-        "pc",
         "ultimate"
       ],
       "platform": "pc",
@@ -56917,8 +56709,8 @@
       "currency": "EUR",
       "hasDiscount": true,
       "discountPercent": 50,
-      "rating": 3.2,
-      "ratingCount": 11,
+      "rating": 3,
+      "ratingCount": 12,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -59464,7 +59256,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.2,
-      "ratingCount": 40,
+      "ratingCount": 41,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -61411,7 +61203,7 @@
           "recommended": "Controladora de Xbox"
         }
       ],
-      "maxInstallSize": 2637369344,
+      "maxInstallSize": 2638745600,
       "hasAddOns": false,
       "storeUrl": "https://www.xbox.com/es-es/games/store/young-suns/9N3KQH8183GD"
     },
