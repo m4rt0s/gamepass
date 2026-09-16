@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-09-15T12:58:06.291Z",
+  "updatedAt": "2026-09-16T12:54:42.955Z",
   "market": "ES",
   "language": "es-ES",
-  "totalGames": 828,
+  "totalGames": 816,
   "counts": {
-    "essential": 130,
-    "premium": 583,
-    "pc": 480,
-    "ultimate": 735,
-    "total": 828
+    "essential": 128,
+    "premium": 579,
+    "pc": 472,
+    "ultimate": 723,
+    "total": 816
   },
   "categories": [
     "Acción y aventura",
@@ -1876,6 +1876,125 @@
       "maxInstallSize": 861167616,
       "hasAddOns": false,
       "storeUrl": "https://www.xbox.com/es-es/games/store/an-elder-scrolls-legend-battlespire/9MVSRJWZBG9G"
+    },
+    {
+      "id": "9PK8PHLCQDF6",
+      "title": "Aniimo",
+      "description": "Aniimo es un juego de rol gratuito de capturar criaturas y mundo abierto de próxima generación. En el extenso continente de Idyll, encontrarás un sinfín de criaturas únicas conocidas como Aniimos. Únete a ellas y disfruta de la belleza de este mundo desde una perspectiva completamente nueva y con habilidades inéditas.\nTambién puedes viajar a una metrópolis que flota en el cielo donde podrás conocer a otros buscasendas, compartir historias y participar en batallas competitivas y emocionantes. ¡Elige tu Aniimo y embárcate en un viaje épico, lleno de exploración, descubrimientos y aventuras!\n\n¡Aprovecha todas las oportunidades para capturar y coleccionar los Aniimos que quieras!\n\n¡Mientras estés de aventuras por Idyll, cualquier Aniimo que conozcas puede convertirse en tu compañero! Atrapa Aniimos usando Aniipods, coloca trampas y calcula las capturas a la perfección: ¡disfruta de la emoción y la incertidumbre de cada momento! Aparecerán Aniimos únicos según el entorno, el clima, los fenómenos y la hora del día. La mayoría de Aniimos pueden evolucionar, lo que hace que coleccionarlos y descubrirlos sea aún más emocionante.\n\nÚnete a los Aniimos para percibir el mundo como ellos\n\nEn tu aventura, puedes unirte a los Aniimos y convertirte en cualquier Aniimo que hayas conseguido. ¡Usa las habilidades de los Aniimos para resolver rompecabezas, ganar batallas y superar desafíos! Únete con los Aniimos para ver el mundo desde una perspectiva completamente nueva.\n\nÚnete a la aventura y disfruta explorando un mundo abierto extenso\n\nEl continente de Idyll es extenso y rebosa de belleza: es el escenario ideal para capturar, unirse, encontrar respuestas y para que los Aniimos alcancen su máximo potencial. Desafíos, carreras, descubrimientos... la exploración inmersiva garantiza que cada paso del viaje sea emocionante. Ya sea planeando, buceando, excavando... puedes ir a todas partes.\n\nÚnete a desafíos emocionantes en tiempo real con Aniimos\n\nEn el amplio mundo de Aniimo, cada desafío en tiempo real está lleno de incógnitas y sorpresas. El modo JcEcJ \"Robo de huevos\" te permite unirte a un equipo de 3 jugadores en cualquier momento para participar en búsquedas y batallas en tiempo real en las Islas perdidas.\nYa juegues en solitario o en multijugador, en busca de aventureras o de combates, o simplemente quieras volverte más fuerte con rapidez, ¡cada desafío es real e instantáneo!\n\nDisfruta yendo de acampada y excursiones con tus amigos\n\nCada buscasendas tiene una autocaravana personal en el extenso continente de Idyll, aparcada en un campamento del mundo abierto, donde podrá conocer a otros jugadores e interactuar con ellos. Al regresar a tu hogar con tu autocaravana, podrás plantar cultivos, construir decoraciones y usar Aniimos para organizar el espacio y transformar el hogar en un paraíso inmersivo, acogedor, divertido e interactivo.",
+      "shortDescription": "",
+      "developer": "Pawprint Studio",
+      "publisher": "Pawprint Studio",
+      "imageUrl": "https://store-images.s-microsoft.com/image/apps.33654.14271146495264987.c32913b7-6895-4338-ad19-54121ee5a1e9.8fd7e7b5-86e6-4a76-873b-32af6bd3cd47",
+      "heroImage": "https://store-images.s-microsoft.com/image/apps.10370.14271146495264987.c32913b7-6895-4338-ad19-54121ee5a1e9.4ae0ede3-8fa9-4d8e-ac2b-798092397fa5",
+      "screenshots": [
+        "https://store-images.s-microsoft.com/image/apps.61655.14271146495264987.c32913b7-6895-4338-ad19-54121ee5a1e9.38478a06-a998-4dc9-9b20-fb1b0287cae8",
+        "https://store-images.s-microsoft.com/image/apps.51840.14271146495264987.c32913b7-6895-4338-ad19-54121ee5a1e9.9f9dc7c0-895b-42bd-a7a1-51073edc1520",
+        "https://store-images.s-microsoft.com/image/apps.65051.14271146495264987.c32913b7-6895-4338-ad19-54121ee5a1e9.3ef1d2fa-92a5-4d14-91e8-ef787205358b",
+        "https://store-images.s-microsoft.com/image/apps.43063.14271146495264987.c32913b7-6895-4338-ad19-54121ee5a1e9.7c6277e0-f244-4cdf-b401-a0ac2bd6741f"
+      ],
+      "videoUrl": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftassets/93a2ce6f-a4f0-45ee-9eb7-5522287711b5-AVS.m3u8?packagedStreaming=true",
+      "videoCaption": "Second Closed Beta Test - Sign Up Now!",
+      "releaseDate": "9998-12-30",
+      "categories": [
+        "Acción y aventura",
+        "Juegos de rol"
+      ],
+      "tiers": [
+        "essential",
+        "pc",
+        "premium",
+        "ultimate"
+      ],
+      "platform": "both",
+      "price": 0,
+      "msrp": 0,
+      "currency": "EUR",
+      "hasDiscount": false,
+      "discountPercent": 0,
+      "rating": 4.3,
+      "ratingCount": 6,
+      "ageRating": 7,
+      "pegiRating": "PEGI 7",
+      "pegiDescription": "Apropiado a partir de 7 años",
+      "interactiveDescriptions": [
+        "Interacción de usuarios",
+        "Compras dentro del juego"
+      ],
+      "capabilities": [
+        "Cooperativo en línea  (2-4)",
+        "Multijugador multiplataforma de Xbox",
+        "4K Ultra HD",
+        "HDR10",
+        "Un jugador",
+        "Cooperación multiplataforma de Xbox",
+        "Multijugador multgeneración de Xbox Live",
+        "Trazado de rayos",
+        "Dolby Atmos",
+        "Optimizado para Xbox Series X|S",
+        "Mouse y teclado de la consola",
+        "Logros de Xbox",
+        "Xbox Play Anywhere"
+      ],
+      "systemRequirements": [
+        {
+          "title": "SO",
+          "minimum": "Windows 10 version 18362.0 or higher",
+          "recommended": "Windows 10 version 18362.0 or higher"
+        },
+        {
+          "title": "Arquitectura",
+          "minimum": "x64",
+          "recommended": "x64"
+        },
+        {
+          "title": "Gráficos",
+          "minimum": "GTX 1060/RX 580/Intel Arc A580",
+          "recommended": "RTX 3060/RX 6600 or above"
+        },
+        {
+          "title": "Procesador",
+          "minimum": "Intel i5-9th /Ryzen 2700 or above",
+          "recommended": "Intel i7-9th /Ryzen 3700 or above"
+        },
+        {
+          "title": "Teclado",
+          "minimum": "Teclado integrado",
+          "recommended": "Teclado integrado"
+        },
+        {
+          "title": "Mouse",
+          "minimum": "Mouse integrado",
+          "recommended": "Mouse integrado"
+        },
+        {
+          "title": "DirectX",
+          "minimum": "Versión 11",
+          "recommended": "API de DirectX 12, nivel de característica de hardware 12"
+        },
+        {
+          "title": "Memoria",
+          "minimum": "8 GB",
+          "recommended": "16 GB"
+        },
+        {
+          "title": "Memoria de vídeo",
+          "minimum": "4 GB",
+          "recommended": "8 GB"
+        },
+        {
+          "title": "Controladora",
+          "minimum": "",
+          "recommended": "Controladora de Xbox"
+        },
+        {
+          "title": "Micrófono",
+          "minimum": "",
+          "recommended": "Micrófono integrado"
+        }
+      ],
+      "maxInstallSize": 31691771904,
+      "hasAddOns": true,
+      "storeUrl": "https://www.xbox.com/es-es/games/store/aniimo/9PK8PHLCQDF6"
     },
     {
       "id": "9PMHGHXLGLJM",
@@ -5856,7 +5975,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.3,
-      "ratingCount": 485,
+      "ratingCount": 486,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -7350,7 +7469,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 4278280192,
+      "maxInstallSize": 4276469760,
       "hasAddOns": false,
       "storeUrl": "https://www.xbox.com/es-es/games/store/blue-prince/9PFRTPRQ569Q"
     },
@@ -7682,7 +7801,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 2356137984,
+      "maxInstallSize": 2392739840,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/brawlhalla/C3B1V55CDL0C"
     },
@@ -8313,6 +8432,7 @@
       ],
       "tiers": [
         "pc",
+        "premium",
         "ultimate"
       ],
       "platform": "pc",
@@ -8380,6 +8500,7 @@
         "Shooter"
       ],
       "tiers": [
+        "premium",
         "ultimate"
       ],
       "platform": "console",
@@ -10534,178 +10655,6 @@
       "storeUrl": "https://www.xbox.com/es-es/games/store/colecci-n-arcade-de-blizzard/9NZP7NKR2QWG"
     },
     {
-      "id": "9NNRCR6MBNDR",
-      "title": "Commandos: Origins",
-      "description": "¡ALERTA! Te han seleccionado para una misión que cambiará el destino del mundo entero. Sé testigo de los inicios de la legendaria fuerza de élite de la 2.ª Guerra Mundial en Commandos: Origins. La esperada secuela de la saga Commandos te devuelve a las bases del género de estrategia en tiempo real y a los tiempos en que Jack O'Hara, el Boina verde, se unió a sus cinco compañeros para formar la infame unidad que se encargaba de misiones que nadie más osaba aceptar.\r\n\r\nEn las silenciosas sombras de los momentos históricos más cruciales, en los que nacen héroes y se forjan leyendas, te espera un nuevo capítulo. Ya sea una incursión audaz, un sabotaje encubierto o una valiente misión de rescate, el Boina verde, el Artificiero, el Francotirador, el Conductor, el Buzo y el Espía tendrán que combinar sus habilidades para enfrentarse a las tareas más difíciles. Solo podrás llevar a cabo tu misión si planificas bien y combinas de forma inteligente el sigilo y la destrucción propios de las habilidades únicas de esta tropa de élite.\r\n\r\nDesde las llanuras heladas del Ártico a los vastos desiertos de África; de las costas occidentales de Europa hasta el frente oriental, en tus manos está conducir a tus comandos al triunfo en misiones de alto riesgo. Guíalos en su lucha contra la creciente ocupación nazi, que amenaza la libertad del mundo.\r\n\r\n• Un desafiante juego de sigilo y estrategia en tiempo real: Aprovecha al máximo las habilidades únicas de tus comandos, infíltrate en instalaciones del enemigo y dales donde más les duele antes de desaparecer entre las sombras.\r\n\r\n• Un equipo extraordinario: Conformado por 6 infames personajes, cada uno con su propia historia, que se unen para formar una fuerza de combate excepcional, los comandos: Toma el control de Jack O'Hara, \"el Boina verde\"; Thomas Hancock, \"el Artificiero\"; Francis T. Woolridge, \"el Francotirador\"; Samuel Brooklyn, \"el Conductor\"; James Blackwood, \"el Buzo\" y Rene Duchamp, \"el Espía\", y guíalos hasta el triunfo. \r\n\r\n• Muchos caminos hacia la victoria: Los entornos detallados, variados e interactivos te permiten alcanzar tu objetivo mediante distintas estrategias. ¡Infíltrate, escala, conduce varios vehículos, o escóndete y arrástrate hasta lograr tu misión!\r\n\r\n• A sus puestos: Una experiencia de usuario moderna, con controles precisos e intuitivos te permitirá controlar a los comandos con una precisión de experto. Coordina acciones complejas de forma simultánea para superar a los objetivos mejor defendidos.\r\n\r\n• Lucha en todos los frentes: Juega a más de 10 misiones en entornos históricos auténticos de la 2.ª Guerra Mundial, desde el páramo del Ártico al desierto africano, con un amplio abanico de objetivos centrales y voluntarios con los que tendrás que usar tu pericia táctica al completo.\r\n\r\n• Un equipo es cosa de dos: Completa misiones con un amigo en el modo multijugador cooperativo para 2 jugadores, ya sea en línea o local, con la pantalla dividida.",
-      "shortDescription": "¡ALERTA! Te han seleccionado para una misión que cambiará el destino del mundo entero. Sé testigo de los inicios de la legendaria fuerza de élite de la 2.ª Guerra Mundial en Commandos: Origins. La esperada secuela de la saga Commandos te devuelve a las bases del género de estrategia en tiempo real.",
-      "developer": "Claymore Game Studios",
-      "publisher": "Kalypso Media",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.50462.13737393634442056.0e44fc6f-e14b-46fe-b0b4-5f9ff152b330.104a062e-7a2a-477e-8f83-0bc9a7682659",
-      "heroImage": "https://store-images.s-microsoft.com/image/apps.51073.13737393634442056.a42f3bd3-1ca9-420d-a018-a1064d15638e.ab9f4003-5e8d-4789-83fc-63da8e0be974",
-      "screenshots": [
-        "https://store-images.s-microsoft.com/image/apps.40913.13737393634442056.bfc56609-9f82-4b9f-a132-f93fd77197a1.d89e83d7-03fd-47cc-9ac1-5ef6650aab93",
-        "https://store-images.s-microsoft.com/image/apps.45438.13737393634442056.bfc56609-9f82-4b9f-a132-f93fd77197a1.e7cdf2a5-1cd1-4a52-9ba6-bffea7cf5e6e",
-        "https://store-images.s-microsoft.com/image/apps.37919.13737393634442056.bfc56609-9f82-4b9f-a132-f93fd77197a1.076dd03e-3e3b-413f-a4dd-2bbee9ac62f5",
-        "https://store-images.s-microsoft.com/image/apps.42934.13737393634442056.bfc56609-9f82-4b9f-a132-f93fd77197a1.a1158c3d-d1a2-4c50-9588-dab693a37ff7"
-      ],
-      "videoUrl": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftassets/d5475656-9988-4b41-90c2-f85675cb2d4a-AVS.m3u8?packagedStreaming=true",
-      "videoCaption": "Commandos: Origins - Release Trailer",
-      "releaseDate": "2025-04-09",
-      "categories": [
-        "Estrategia"
-      ],
-      "tiers": [
-        "premium",
-        "ultimate"
-      ],
-      "platform": "console",
-      "price": 59.99,
-      "msrp": 59.99,
-      "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
-      "rating": 3.3,
-      "ratingCount": 34,
-      "ageRating": 16,
-      "pegiRating": "PEGI 16",
-      "pegiDescription": "Apropiado a partir de 16 años",
-      "interactiveDescriptions": [],
-      "capabilities": [
-        "Cooperación local de Xbox (2-2)",
-        "Cooperativo en línea  (2-2)",
-        "Multijugador local de Xbox (2-2)",
-        "Multijugador en línea  (2-2)",
-        "Multijugador multiplataforma de Xbox",
-        "Un jugador",
-        "Pantalla dividida o compartida",
-        "Cooperación multiplataforma de Xbox",
-        "Multijugador multgeneración de Xbox Live",
-        "Optimizado para Xbox Series X|S",
-        "Entrega inteligente",
-        "Logros de Xbox",
-        "Clubs de Xbox",
-        "Cosas guardadas en la nube de Xbox"
-      ],
-      "systemRequirements": [
-        {
-          "title": "Arquitectura",
-          "minimum": "x64",
-          "recommended": "x64"
-        }
-      ],
-      "maxInstallSize": 35675734016,
-      "hasAddOns": true,
-      "storeUrl": "https://www.xbox.com/es-es/games/store/commandos-origins/9NNRCR6MBNDR"
-    },
-    {
-      "id": "9PDH7X3J5CZT",
-      "title": "Commandos: Origins (Win)",
-      "description": "¡ALERTA! Te han seleccionado para una misión que cambiará el destino del mundo entero. Sé testigo de los inicios de la legendaria fuerza de élite de la 2.ª Guerra Mundial en Commandos: Origins. La esperada secuela de la saga Commandos te devuelve a las bases del género de estrategia en tiempo real y a los tiempos en que Jack O'Hara, el Boina verde, se unió a sus cinco compañeros para formar la infame unidad que se encargaba de misiones que nadie más osaba aceptar.\r\n\r\nEn las silenciosas sombras de los momentos históricos más cruciales, en los que nacen héroes y se forjan leyendas, te espera un nuevo capítulo. Ya sea una incursión audaz, un sabotaje encubierto o una valiente misión de rescate, el Boina verde, el Artificiero, el Francotirador, el Conductor, el Buzo y el Espía tendrán que combinar sus habilidades para enfrentarse a las tareas más difíciles. Solo podrás llevar a cabo tu misión si planificas bien y combinas de forma inteligente el sigilo y la destrucción propios de las habilidades únicas de esta tropa de élite.\r\n\r\nDesde las llanuras heladas del Ártico a los vastos desiertos de África; de las costas occidentales de Europa hasta el frente oriental, en tus manos está conducir a tus comandos al triunfo en misiones de alto riesgo. Guíalos en su lucha contra la creciente ocupación nazi, que amenaza la libertad del mundo.\r\n\r\n• Un desafiante juego de sigilo y estrategia en tiempo real: Aprovecha al máximo las habilidades únicas de tus comandos, infíltrate en instalaciones del enemigo y dales donde más les duele antes de desaparecer entre las sombras.\r\n\r\n• Un equipo extraordinario: Conformado por 6 infames personajes, cada uno con su propia historia, que se unen para formar una fuerza de combate excepcional, los comandos: Toma el control de Jack O'Hara, \"el Boina verde\"; Thomas Hancock, \"el Artificiero\"; Francis T. Woolridge, \"el Francotirador\"; Samuel Brooklyn, \"el Conductor\"; James Blackwood, \"el Buzo\" y Rene Duchamp, \"el Espía\", y guíalos hasta el triunfo. \r\n\r\n• Muchos caminos hacia la victoria: Los entornos detallados, variados e interactivos te permiten alcanzar tu objetivo mediante distintas estrategias. ¡Infíltrate, escala, conduce varios vehículos, o escóndete y arrástrate hasta lograr tu misión!\r\n\r\n• A sus puestos: Una experiencia de usuario moderna, con controles precisos e intuitivos te permitirá controlar a los comandos con una precisión de experto. Coordina acciones complejas de forma simultánea para superar a los objetivos mejor defendidos.\r\n\r\n• Lucha en todos los frentes: Juega a más de 10 misiones en entornos históricos auténticos de la 2.ª Guerra Mundial, desde el páramo del Ártico al desierto africano, con un amplio abanico de objetivos centrales y voluntarios con los que tendrás que usar tu pericia táctica al completo.\r\n\r\n• Un equipo es cosa de dos: Completa misiones con un amigo en el modo multijugador cooperativo para 2 jugadores, ya sea en línea o local, con la pantalla dividida.",
-      "shortDescription": "¡ALERTA! Te han seleccionado para una misión que cambiará el destino del mundo entero. Sé testigo de los inicios de la legendaria fuerza de élite de la 2.ª Guerra Mundial en Commandos: Origins. La esperada secuela de la saga Commandos te devuelve a las bases del género de estrategia en tiempo real.",
-      "developer": "Claymore Game Studios",
-      "publisher": "Kalypso Media",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.50462.13737393634442056.0e44fc6f-e14b-46fe-b0b4-5f9ff152b330.104a062e-7a2a-477e-8f83-0bc9a7682659",
-      "heroImage": "https://store-images.s-microsoft.com/image/apps.51073.13737393634442056.a42f3bd3-1ca9-420d-a018-a1064d15638e.ab9f4003-5e8d-4789-83fc-63da8e0be974",
-      "screenshots": [
-        "https://store-images.s-microsoft.com/image/apps.9812.14149691878986692.8eff1a6e-e1df-476f-8269-ff5f55a55e03.643cafe5-0d3b-45d9-b6fd-396c2db822da",
-        "https://store-images.s-microsoft.com/image/apps.60854.14149691878986692.8eff1a6e-e1df-476f-8269-ff5f55a55e03.f2cbd05e-fdfc-4e97-8d7d-a732c4490d21",
-        "https://store-images.s-microsoft.com/image/apps.1143.14149691878986692.8eff1a6e-e1df-476f-8269-ff5f55a55e03.2b3a26bc-a742-457e-a099-a88e30ed5cca",
-        "https://store-images.s-microsoft.com/image/apps.42934.14149691878986692.8eff1a6e-e1df-476f-8269-ff5f55a55e03.2419f440-caae-4c66-beb1-a1478fd2df45"
-      ],
-      "videoUrl": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftassets/c4cbbdd5-5b5c-4b3e-8b0a-90ba25e69ef4-AVS.m3u8?packagedStreaming=true",
-      "videoCaption": "Commandos: Origins - Release Trailer",
-      "releaseDate": "2025-04-09",
-      "categories": [
-        "Estrategia"
-      ],
-      "tiers": [
-        "pc",
-        "premium",
-        "ultimate"
-      ],
-      "platform": "pc",
-      "price": 49.99,
-      "msrp": 49.99,
-      "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
-      "rating": 4.2,
-      "ratingCount": 216,
-      "ageRating": 16,
-      "pegiRating": "PEGI 16",
-      "pegiDescription": "Apropiado a partir de 16 años",
-      "interactiveDescriptions": [],
-      "capabilities": [
-        "Cooperación local de Xbox (2-2)",
-        "Cooperativo en línea  (2-2)",
-        "Multijugador local de Xbox (2-2)",
-        "Multijugador en línea  (2-2)",
-        "Multijugador multiplataforma de Xbox",
-        "Un jugador",
-        "Pantalla dividida o compartida",
-        "Cooperación multiplataforma de Xbox",
-        "Multijugador multgeneración de Xbox Live",
-        "Logros de Xbox",
-        "Clubs de Xbox",
-        "Cosas guardadas en la nube de Xbox"
-      ],
-      "systemRequirements": [
-        {
-          "title": "SO",
-          "minimum": "Windows 10 version 18362.0 or higher",
-          "recommended": "Windows 10 version 18362.0 or higher"
-        },
-        {
-          "title": "Arquitectura",
-          "minimum": "x64",
-          "recommended": "x64"
-        },
-        {
-          "title": "Gráficos",
-          "minimum": "GeForce GTX 970 / Radeon RX 580",
-          "recommended": "GeForce RTX 3060 / Radeon RX 6600 XT"
-        },
-        {
-          "title": "Procesador",
-          "minimum": "i5-4690K / Ryzen 7 2700",
-          "recommended": "i7-9700 / Ryzen 7 3700X"
-        },
-        {
-          "title": "Teclado",
-          "minimum": "Teclado integrado",
-          "recommended": ""
-        },
-        {
-          "title": "Mouse",
-          "minimum": "Mouse integrado",
-          "recommended": ""
-        },
-        {
-          "title": "DirectX",
-          "minimum": "Versión 11",
-          "recommended": "Versión 11"
-        },
-        {
-          "title": "Memoria",
-          "minimum": "8 GB",
-          "recommended": "16 GB"
-        },
-        {
-          "title": "Controladora",
-          "minimum": "",
-          "recommended": "Controladora de Xbox"
-        },
-        {
-          "title": "Micrófono",
-          "minimum": "",
-          "recommended": "Micrófono integrado"
-        }
-      ],
-      "maxInstallSize": 16160530432,
-      "hasAddOns": true,
-      "storeUrl": "https://www.xbox.com/es-es/games/store/commandos-origins-win/9PDH7X3J5CZT"
-    },
-    {
       "id": "BVFB8CBS75R6",
       "title": "Conker: Live and Reloaded",
       "description": "¿Quién está listo para otra ronda? La ardilla más famosa del mundo de los videojuegos regresa con una resaca de campeonato y con más genio que nunca. Conker se tambalea por un obsceno mundo repleto de personajes retorcidos, conductas lascivas e indignantes parodias de cine. La épica batalla contra el malvado Tediz continúa en este shooter en equipo. Juega con tus amigos: únete a un escuadrón de ardillas de élite o ponte en la piel del malvado Tediz. Elige entre seis especialistas de combate, cada uno con armas, habilidades y vehículos distintos. Juega contigo mismo: disfruta de la versión para un jugador del galardonado Conker's Bad Fur Day®, repleto de gráficos impresionantes. Ríete a carcajadas: las escandalosas parodias y el humor de Conker te desencajarán la mandíbula.",
@@ -11926,141 +11875,6 @@
       "storeUrl": "https://www.xbox.com/es-es/games/store/crash-team-racing-nitro-fueled/BQRB60PW2SDL"
     },
     {
-      "id": "9PPN49GPNH5M",
-      "title": "Cricket 24",
-      "description": "Cricket 24 es la culminación de una década de desarrollo de videojuegos de críquet e incluye equipos de todos los rincones del globo. Los jugadores podrán enfrentarse a las principales naciones del críquet, como Australia e Inglaterra en el torneo oficial The Ashes, Indias Occidentales, Nueva Zelanda, Irlanda y muchas más. Además, por vez primera, equipos profesionales del T20 de la India, en más de 50 detallados estadios oficiales. Cricket 24 es el videojuego de simulación de críquet más completo hasta la fecha.\r\n\r\nCricket 24: ¡creando el juego de críquet más realista de la historia!\r\n\r\n- The Ashes: Cricket 24 ofrecerá la mayor rivalidad del mundo del críquet, The Ashes. Detalladas escenas cinemáticas sumergen al jugador en el momento a medida que avanza el torneo de The Ashes. Siéntete parte del equipo con ruedas de prensa y sesiones de entrenamiento en grupo. Los comentarios únicos permiten una inmersión total en The Ashes. Experimenta The Ashes controlando a un solo jugador, o bien a Australia o Inglaterra.\r\n- Licencias oficiales: más de 300 jugadores con fotogrametría completa. Las principales naciones del críquet, incluyendo Australia, Inglaterra, Indias Occidentales, Nueva Zelanda e Irlanda, y muchas otras. Los torneos más importantes, como The Ashes, la KFC BBL y la Weber WBBL, The Hundred, la Caribbean Premier League y varios equipos profesionales del T20 de la India, junto con más de 50 detallados estadios oficiales.\r\n- Modo Carrera: sigue el trayecto de tu jugador, desde miembro de un club hasta la escena internacional, desarrollando tus habilidades y aumentando tu número de seguidores mientras perfeccionas tu juego para convertirte en el próximo as del críquet. Cricket 24 ofrece más control al jugador a la hora de decidir su destino, convirtiéndote en un héroe de la forma abreviada, centrándote en el equipo de test o intentando equilibrar las dos cosas en tu camino al estrellato.\r\n- Fildeo totalmente nuevo: una renovación completa de los sistemas de fildeo para ofrecer los controles más realistas y reactivos que se hayan visto en un videojuego de críquet.\r\n- Multiplataforma: totalmente multiplataforma, juega online con tus amigos y los mejores jugadores del mundo sin importar la plataforma. Crea y comparte contenido personalizado entre las distintas plataformas, incluyendo estadios, jugadores, equipos y mucho más, gracias a la academia.",
-      "shortDescription": "Cricket 24 es la culminación de una década de desarrollo de videojuegos de críquet e incluye equipos de todos los rincones del globo.",
-      "developer": "Big Ant Studios",
-      "publisher": "Nacon",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.22369.14321256981626354.7e5142eb-b60e-4b02-beeb-3d22870051f7.4bbf371e-ebcf-4cf9-9e64-955503b260ff",
-      "heroImage": "https://store-images.s-microsoft.com/image/apps.38122.14321256981626354.7e5142eb-b60e-4b02-beeb-3d22870051f7.a5a55304-93f9-48bf-992d-5d22688b6f78",
-      "screenshots": [
-        "https://store-images.s-microsoft.com/image/apps.45760.14321256981626354.2afb74cd-a673-4baa-9f08-c8891ca682c4.cc24a623-3459-4af4-8276-4ce5b89b84e8",
-        "https://store-images.s-microsoft.com/image/apps.460.14321256981626354.2afb74cd-a673-4baa-9f08-c8891ca682c4.54446425-a708-4f31-b3d1-6a05d5563d43",
-        "https://store-images.s-microsoft.com/image/apps.62760.14321256981626354.2afb74cd-a673-4baa-9f08-c8891ca682c4.5d178b03-9f52-4303-9d30-fcc3bae648bc",
-        "https://store-images.s-microsoft.com/image/apps.2545.14321256981626354.2afb74cd-a673-4baa-9f08-c8891ca682c4.fb68cb40-4299-452c-900f-b1b7d04f9c72"
-      ],
-      "videoUrl": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftassets/6e086a58-021c-4c6b-b241-f3a23e590bb8-AVS.m3u8?packagedStreaming=true",
-      "videoCaption": "Store Trailer",
-      "releaseDate": "2023-10-05",
-      "categories": [
-        "Deportes"
-      ],
-      "tiers": [
-        "premium",
-        "ultimate"
-      ],
-      "platform": "console",
-      "price": 69.99,
-      "msrp": 69.99,
-      "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
-      "rating": 2,
-      "ratingCount": 9,
-      "ageRating": 3,
-      "pegiRating": "PEGI 3",
-      "pegiDescription": "Apropiado a partir de 3 años",
-      "interactiveDescriptions": [
-        "Compras dentro del juego (Incluye artículos aleatorios)"
-      ],
-      "capabilities": [
-        "Cooperación local de Xbox (2-2)",
-        "Cooperativo en línea  (2-2)",
-        "Multijugador local de Xbox (2-4)",
-        "Multijugador en línea  (2-4)",
-        "Multijugador multiplataforma de Xbox",
-        "4K Ultra HD",
-        "HDR10",
-        "Un jugador",
-        "Cooperación multiplataforma de Xbox",
-        "Multijugador multgeneración de Xbox Live",
-        "Trazado de rayos",
-        "60 fps +",
-        "Optimizado para Xbox Series X|S",
-        "Entrega inteligente",
-        "Logros de Xbox",
-        "Presencia de Xbox",
-        "Cosas guardadas en la nube de Xbox"
-      ],
-      "systemRequirements": [
-        {
-          "title": "Arquitectura",
-          "minimum": "x64",
-          "recommended": "x64"
-        }
-      ],
-      "maxInstallSize": 98745602048,
-      "hasAddOns": true,
-      "storeUrl": "https://www.xbox.com/es-es/games/store/cricket-24/9PPN49GPNH5M"
-    },
-    {
-      "id": "9NKF2SZ630ZH",
-      "title": "Cricket 24: The Official Game Of The Ashes",
-      "description": "Cricket 24 es la culminación de una década de desarrollo de videojuegos de críquet e incluye equipos de todos los rincones del globo. Los jugadores podrán enfrentarse a las principales naciones del críquet, como Australia e Inglaterra en el torneo oficial The Ashes, Indias Occidentales, Nueva Zelanda, Irlanda y muchas más. Además, por vez primera, equipos profesionales del T20 de la India, en más de 50 detallados estadios oficiales. Cricket 24 es el videojuego de simulación de críquet más completo hasta la fecha.\r\n\r\nCricket 24: ¡creando el juego de críquet más realista de la historia!\r\n\r\n- The Ashes: Cricket 24 ofrecerá la mayor rivalidad del mundo del críquet, The Ashes. Detalladas escenas cinemáticas sumergen al jugador en el momento a medida que avanza el torneo de The Ashes. Siéntete parte del equipo con ruedas de prensa y sesiones de entrenamiento en grupo. Los comentarios únicos permiten una inmersión total en The Ashes. Experimenta The Ashes controlando a un solo jugador, o bien a Australia o Inglaterra.\r\n- Licencias oficiales: más de 300 jugadores con fotogrametría completa. Las principales naciones del críquet, incluyendo Australia, Inglaterra, Indias Occidentales, Nueva Zelanda e Irlanda, y muchas otras. Los torneos más importantes, como The Ashes, la KFC BBL y la Weber WBBL, The Hundred, la Caribbean Premier League y varios equipos profesionales del T20 de la India, junto con más de 50 detallados estadios oficiales.\r\n- Modo Carrera: sigue el trayecto de tu jugador, desde miembro de un club hasta la escena internacional, desarrollando tus habilidades y aumentando tu número de seguidores mientras perfeccionas tu juego para convertirte en el próximo as del críquet. Cricket 24 ofrece más control al jugador a la hora de decidir su destino, convirtiéndote en un héroe de la forma abreviada, centrándote en el equipo de test o intentando equilibrar las dos cosas en tu camino al estrellato.\r\n- Fildeo totalmente nuevo: una renovación completa de los sistemas de fildeo para ofrecer los controles más realistas y reactivos que se hayan visto en un videojuego de críquet.",
-      "shortDescription": "Cricket 24 es la culminación de una década de desarrollo de videojuegos de críquet e incluye equipos de todos los rincones del globo.",
-      "developer": "Big Ant Studios",
-      "publisher": "Nacon",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.22369.13662804336614394.63dd49dd-f93b-4b67-b597-bace2d4550c2.d43b3619-c31e-41f2-9f53-e8b110203433",
-      "heroImage": "https://store-images.s-microsoft.com/image/apps.6977.13662804336614394.63dd49dd-f93b-4b67-b597-bace2d4550c2.a7a06408-32a7-4b02-82f4-b1d459929f83",
-      "screenshots": [
-        "https://store-images.s-microsoft.com/image/apps.35728.13662804336614394.63dd49dd-f93b-4b67-b597-bace2d4550c2.79c76ea2-6687-43b8-82fd-a5e4aa8b7575",
-        "https://store-images.s-microsoft.com/image/apps.35989.13662804336614394.63dd49dd-f93b-4b67-b597-bace2d4550c2.c32d5af9-a938-4da9-963f-a8dd97d58550",
-        "https://store-images.s-microsoft.com/image/apps.65114.13662804336614394.63dd49dd-f93b-4b67-b597-bace2d4550c2.b8927bb1-58dc-411d-b89a-b657debaccca",
-        "https://store-images.s-microsoft.com/image/apps.27453.13662804336614394.63dd49dd-f93b-4b67-b597-bace2d4550c2.fdbed144-11ce-453a-8ec2-2b3049c0527b"
-      ],
-      "videoUrl": "",
-      "videoCaption": "",
-      "releaseDate": "2024-06-26",
-      "categories": [
-        "Deportes"
-      ],
-      "tiers": [
-        "pc",
-        "premium",
-        "ultimate"
-      ],
-      "platform": "pc",
-      "price": 39.99,
-      "msrp": 39.99,
-      "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
-      "rating": 3,
-      "ratingCount": 2,
-      "ageRating": 3,
-      "pegiRating": "PEGI 3",
-      "pegiDescription": "Apropiado a partir de 3 años",
-      "interactiveDescriptions": [
-        "Compras dentro del juego (Incluye artículos aleatorios)"
-      ],
-      "capabilities": [
-        "Cooperación local de Xbox (2-2)",
-        "Cooperativo en línea  (2-2)",
-        "Multijugador local de Xbox (2-4)",
-        "Multijugador en línea  (2-4)",
-        "Multijugador multiplataforma de Xbox",
-        "Un jugador",
-        "Cooperación multiplataforma de Xbox",
-        "Logros de Xbox"
-      ],
-      "systemRequirements": [
-        {
-          "title": "SO",
-          "minimum": "Windows 10 version 18362.0 or higher",
-          "recommended": "Windows 10 version 18362.0 or higher"
-        },
-        {
-          "title": "Arquitectura",
-          "minimum": "x64",
-          "recommended": "x64"
-        }
-      ],
-      "maxInstallSize": 99066798080,
-      "hasAddOns": true,
-      "storeUrl": "https://www.xbox.com/es-es/games/store/cricket-24-the-official-game-of-the-ashes/9NKF2SZ630ZH"
-    },
-    {
       "id": "9N6JF50HZFW9",
       "title": "Cricket 26 - The Official Game of the Ashes",
       "description": "Con la nueva carrera de gestión, un equipo profesional más grande y mejor, un modo Ashes más profundo y un mayor control dentro y fuera del campo gracias a una jugabilidad mejorada y estrategias más detalladas, Cricket 26 es el enfrentamiento definitivo. \n\n¡Cada decisión cuenta!\nLa nueva carrera de gestión te pone al mando: lleva a un equipo a lo más alto o, lo que es aún más difícil, ¡manténlo allí! Busca, recluta y desarrolla jugadores, crea la mejor alineación y desarrolla estrategias de partido. Juega al críquet a tu manera y lleva a tu equipo a la gloria, tanto en casa como en la escena mundial. \n\nAdéntrate en Ashes. ¡Vive cada momento!\nLa mayor rivalidad del críquet vuelve, más grande que nunca, con un modo Ashes ampliado. Toma el control total de Australia o Inglaterra: con sesiones de entrenamiento del equipo, ruedas de prensa y mucho más, que te proporcionarán una experiencia Ashes más profunda que nunca.\n\n¡Colecciona. Reúne. Domina!\nVuelve el equipo profesional. Más cartas, más modos, más desafíos. Crea tu equipo profesional definitivo y enfréntate al nuevo modo multijugador Centurion. Amplía tu colección con paquetes semanales o con la casa de subastas para conseguir a los jugadores clave para tu éxito. \n\n¡Crea. Comparte. Juega!\nDa rienda suelta a tu creatividad en la Academia. Crea y comparte estadios, jugadores, bates y equipos completos, o juega y descarga contenido de la comunidad de Cricket 26. \n\nControla cada bola. ¡Domina cada partido!\nAlcanza un nuevo nivel de control con la mecánica de juego mejorada, aprovecha los huecos para conseguir sencillos rápidos, equilibra tu ataque y tu defensa, establece estrategias para limitar las tasas de carrera o conseguir wickets, anota carreras rápidamente o conserva energía en un exigente partido de prueba. ",
@@ -12487,68 +12301,6 @@
       "maxInstallSize": 6286868480,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/crysis-3/BNKKJL1VRR5P"
-    },
-    {
-      "id": "BX3M8L83BBRW",
-      "title": "Cyberpunk 2077",
-      "description": "IMPORTANTE: Aunque el juego base de Cyberpunk 2077 esté disponible en Xbox One, esta versión del juego tuvo su último parche el 8 de noviembre de 2022 y ya no es compatible. Se necesita una consola Xbox Series X|S para descargar y aplicar los parches de Cyberpunk 2077 publicados después de esa fecha, así como para comprar y jugar al paquete de expansión Phantom Liberty.\n\nCyberpunk 2077 es un RPG de aventura y acción de mundo abierto ambientado en la megalópolis de Night City, donde te pondrás en la piel de un mercenario o una mercenaria ciberpunk y vivirás su lucha a vida o muerte por la supervivencia. Mejorado para la nueva generación y con contenido adicional gratuito. Personaliza tu personaje y tu estilo de juego a medida que aceptas trabajos, te labras una reputación y desbloqueas mejoras. Las relaciones que forjes y las decisiones que tomes darán forma al mundo que te rodea. Aquí nacen las leyendas. ¿Cuál será la tuya?\n\n¡PERSONALIZA A TU CYBERPUNK CON LA ACTUALIZACIÓN 2.2!\n¡Exprésate con la actualización gratuita 2.2! Da un estilo propio a tu personaje con nuevas variantes estéticas de cyberware, tatuajes y maquillaje. Lleva tu coche al siguiente nivel con la tecnología CrystalCoat, exclusiva de Rayfield, que te permitirá cambiar el color de los coches de lujo y los deportivos. Además, disfruta del modo foto mejorado, para capturar cada momento con un nivel de detalle asombroso.\n\n CREA TU PROPIO CIBERPUNK\nConviértete en un forajido urbano equipado con las últimas mejoras cibernéticas y escribe tu leyenda en las calles de Night City.\n \n EXPLORA LA CIUDAD DEL FUTURO\n Night City está repleta de cosas por hacer, lugares que visitar y gente que conocer. Y tú decides dónde ir, cuándo ir y cómo llegar allí. \n \n CONSTRUYE TU LEYENDA\n Emprende audaces aventuras y forja relaciones personales con personajes inolvidables cuyos destinos se decidirán a partir de las decisiones que tomes.\n \n EQUIPADO CON FUNCIONES DE NUEVA GENERACIÓN\n Sumérgete como nunca en Night City gracias a tiempos de carga más rápidos, características visuales y funciones de juego mejoradas, compatibilidad con trazado de rayos y 4K dinámico, y mucho más. \n \n CONSIGUE OBJETOS EXCLUSIVOS\nConsigue objetos del juego y artículos digitales inspirados por los juegos de CD PROJEKT RED como parte del programa Mis recompensas.\n\nVISITA CYBERPUNK.NET",
-      "shortDescription": "Cyberpunk 2077 es un RPG de aventura y acción de mundo abierto ambientado en la megalópolis de Night City, donde te pondrás en la piel de un mercenario o una mercenaria ciberpunk y vivirás su lucha a vida o muerte por la supervivencia. Mejorado y con contenido nuevo adicional gratuito. Personaliza tu personaje y tu estilo de juego a medida que aceptas trabajos, te labras una reputación y desbloqueas mejoras. Las relaciones que forjes y las decisiones que tomes darán forma al mundo que te rodea. Aquí nacen las leyendas. ¿Cuál será la tuya?",
-      "developer": "CD PROJEKT RED",
-      "publisher": "CD PROJEKT RED",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.47379.63407868131364914.bcaa868c-407e-42c2-baeb-48a3c9f29b54.89bb995b-b066-4a53-9fe4-0260ce07e894",
-      "heroImage": "https://store-images.s-microsoft.com/image/apps.34838.63407868131364914.bcaa868c-407e-42c2-baeb-48a3c9f29b54.1463028d-79fa-46e5-9fc2-63203992a4dc",
-      "screenshots": [
-        "https://store-images.s-microsoft.com/image/apps.25261.63407868131364914.bcaa868c-407e-42c2-baeb-48a3c9f29b54.5ddcc481-c473-4243-8683-cd7f239a7b4f",
-        "https://store-images.s-microsoft.com/image/apps.17805.63407868131364914.bcaa868c-407e-42c2-baeb-48a3c9f29b54.b12a86b0-82ad-4c6f-a246-5700d44bdaf5",
-        "https://store-images.s-microsoft.com/image/apps.13625.63407868131364914.bcaa868c-407e-42c2-baeb-48a3c9f29b54.9b615df6-89cf-4cf3-bf5e-c5407367c98a",
-        "https://store-images.s-microsoft.com/image/apps.40064.63407868131364914.bcaa868c-407e-42c2-baeb-48a3c9f29b54.01ade567-d4f4-42e6-99a1-73771a3c4899"
-      ],
-      "videoUrl": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftassets/365cea05-665a-4e51-9cb4-bc2755b40125-AVS.m3u8?packagedStreaming=true",
-      "videoCaption": "Cyberpunk 2077 — Tráiler Oficial — El encargo",
-      "releaseDate": "2020-12-10",
-      "categories": [
-        "Juegos de rol"
-      ],
-      "tiers": [
-        "premium",
-        "ultimate"
-      ],
-      "platform": "console",
-      "price": 59.99,
-      "msrp": 59.99,
-      "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
-      "rating": 4.3,
-      "ratingCount": 716,
-      "ageRating": 18,
-      "pegiRating": "PEGI 18",
-      "pegiDescription": "Apropiado a partir de 18 años",
-      "interactiveDescriptions": [
-        "Compras dentro del juego"
-      ],
-      "capabilities": [
-        "4K Ultra HD",
-        "HDR10",
-        "Un jugador",
-        "Trazado de rayos",
-        "60 fps +",
-        "Dolby Atmos",
-        "Optimizado para Xbox Series X|S",
-        "Entrega inteligente",
-        "Xbox One X mejorado",
-        "Logros de Xbox"
-      ],
-      "systemRequirements": [
-        {
-          "title": "Arquitectura",
-          "minimum": "x64",
-          "recommended": "x64"
-        }
-      ],
-      "maxInstallSize": 104155103232,
-      "hasAddOns": true,
-      "storeUrl": "https://www.xbox.com/es-es/games/store/cyberpunk-2077/BX3M8L83BBRW"
     },
     {
       "id": "C0X6N5963CTW",
@@ -12992,162 +12744,6 @@
       "maxInstallSize": 65627422720,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/dead-by-daylight-windows/9NMS4SFNBGBH"
-    },
-    {
-      "id": "BQSCNS1T8PHQ",
-      "title": "Dead Cells",
-      "description": "En Dead Cells, controlarás un experimento alquímico fallido e intentarás descubrir qué sucede en una isla, supuestamente maldita, en constante cambio y expansión. Los combates duros pero justos, los controles sensibles, los enemigos desafiantes, la muerte permanente y, desde luego, la tirada de emergencia para salir de apuros conforman un juego de acción exigente, sangriento y catártico.\r\n\r\nDisfruta de un roguevania que combina mundos interconectados, caminos ramificados y habilidades desbloqueables con la adrenalina que produce la amenaza de la muerte permanente. No hay puntos de control: o derrotas al jefe final a la primera o tendrás que volver a intentarlo. Sin embargo, conservarás parte de tus progresos en los sucesivos intentos: nuevos caminos que has desbloqueado, acceso a nuevos niveles, mutaciones, habilidades y armas.\r\n\r\nHablando de armas, Dead Cells presenta múltiples formas de matar a tus enemigos. Hay una gran variedad de espadas, arcos y hechizos, pero también látigos, granadas y torretas. Cada arma armas tiene su toque propio y único. Además, las mutaciones y los pergaminos te permiten crear y personalizar a tu personaje de forma diferente en cada intento.\r\n\r\nEso sí, ¡lo más importante será tu habilidad como jugador! Los juegos de tipo roguelite tratan de mejorar constantemente tus habilidades, hasta que lo que era un obstáculo insuperable se convierte en un paseo militar. ¡Paciencia! Irás mejorando... con el tiempo.\r\n\r\n\r\nCaracterísticas:\r\n\r\nRoguevania: la exploración progresiva de un mundo interconectado, con la rejugabilidad de un juego de tipo roguelite y la adrenalina que produce la amenaza de la muerte permanente.\r\n\r\nAcción en 2D de tipo Dark Souls: combates duros pero justos, la famosa tirada de esquiva, más de 90 armas y hechizos con un sistema de juego exclusivo... La acción implacable, junto con la ausencia de cualquier tipo de red de seguridad, hace que cada partida sea una aventura adrenalínica.\r\n\r\nProgresión no lineal: ¿alcantarillas, osario o murallas? Una vez desbloqueadas, con las habilidades especiales permanentes podrás acceder a nuevas rutas para alcanzar tu objetivo. Opta por el camino que mejor se ajuste a tu estilo de juego o simplemente a tu estado de ánimo.\r\n\r\nExploración: salas secretas, pasadizos ocultos, paisajes encantadores... Tómate un momento para pasear por las torres y respirar ese aire fresco empapado de bruma marina...",
-      "shortDescription": "En Dead Cells, controlarás un experimento alquímico fallido e intentarás descubrir qué sucede en una isla supuestamente maldita que sufre constantes cambios y expansiones. Los combates duros pero justos, los controles sensibles, los enemigos desafiantes, la muerte permanente y, desde luego, la tirada de emergencia para salir de apuros conforman un juego de acción exigente, sangriento y catártico.",
-      "developer": "Motion Twin",
-      "publisher": "Motion Twin",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.33704.68724117649475771.eac68952-84aa-42f0-875b-09de4c2ee208.c6483868-0337-4d5f-bc1f-36132804e3d7",
-      "heroImage": "https://store-images.s-microsoft.com/image/apps.40300.68724117649475771.eac68952-84aa-42f0-875b-09de4c2ee208.400f5d27-ba33-4b31-afc3-474baf8115c7",
-      "screenshots": [
-        "https://store-images.s-microsoft.com/image/apps.60409.68724117649475771.eac68952-84aa-42f0-875b-09de4c2ee208.913fab73-24b9-42b2-8e8f-152e8d18d381",
-        "https://store-images.s-microsoft.com/image/apps.50793.68724117649475771.eac68952-84aa-42f0-875b-09de4c2ee208.5b531ec6-5980-487b-a5cc-3b24a3c67b2c",
-        "https://store-images.s-microsoft.com/image/apps.41457.68724117649475771.eac68952-84aa-42f0-875b-09de4c2ee208.e8be0e86-674e-4151-aab8-141a5af4aaaa",
-        "https://store-images.s-microsoft.com/image/apps.27947.68724117649475771.eac68952-84aa-42f0-875b-09de4c2ee208.90ebebc1-7864-4223-90ac-a98635e2c5dc"
-      ],
-      "videoUrl": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftassets/385598c8-2b60-4247-a229-e4a350bbb6b7-AVS.m3u8?packagedStreaming=true",
-      "videoCaption": "Animated trailer",
-      "releaseDate": "2018-08-07",
-      "categories": [
-        "Acción y aventura",
-        "Plataformas"
-      ],
-      "tiers": [
-        "essential",
-        "premium",
-        "ultimate"
-      ],
-      "platform": "console",
-      "price": 24.99,
-      "msrp": 24.99,
-      "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
-      "rating": 4.6,
-      "ratingCount": 87,
-      "ageRating": 16,
-      "pegiRating": "PEGI 16",
-      "pegiDescription": "Apropiado a partir de 16 años",
-      "interactiveDescriptions": [],
-      "capabilities": [
-        "Un jugador",
-        "Logros de Xbox",
-        "Presencia de Xbox",
-        "Cosas guardadas en la nube de Xbox"
-      ],
-      "systemRequirements": [
-        {
-          "title": "Arquitectura",
-          "minimum": "x64",
-          "recommended": "x64"
-        }
-      ],
-      "maxInstallSize": 2688331776,
-      "hasAddOns": true,
-      "storeUrl": "https://www.xbox.com/es-es/games/store/dead-cells/BQSCNS1T8PHQ"
-    },
-    {
-      "id": "9NKVX66J0ZSK",
-      "title": "Dead Cells",
-      "description": "En Dead Cells, controlarás un experimento alquímico fallido e intentarás descubrir qué sucede en una isla, supuestamente maldita, en constante cambio y expansión. Los combates duros pero justos, los controles sensibles, los enemigos desafiantes, la muerte permanente y, desde luego, la tirada de emergencia para salir de apuros conforman un juego de acción exigente, sangriento y catártico.\r\n\r\nDisfruta de un roguevania que combina mundos interconectados, caminos ramificados y habilidades desbloqueables con la adrenalina que produce la amenaza de la muerte permanente. No hay puntos de control: o derrotas al jefe final a la primera o tendrás que volver a intentarlo. Sin embargo, conservarás parte de tus progresos en los sucesivos intentos: nuevos caminos que has desbloqueado, acceso a nuevos niveles, mutaciones, habilidades y armas.\r\n\r\nHablando de armas, Dead Cells presenta múltiples formas de matar a tus enemigos. Hay una gran variedad de espadas, arcos y hechizos, pero también látigos, granadas y torretas. Cada arma armas tiene su toque propio y único. Además, las mutaciones y los pergaminos te permiten crear y personalizar a tu personaje de forma diferente en cada intento.\r\n\r\nEso sí, ¡lo más importante será tu habilidad como jugador! Los juegos de tipo roguelite tratan de mejorar constantemente tus habilidades, hasta que lo que era un obstáculo insuperable se convierte en un paseo militar. ¡Paciencia! Irás mejorando... con el tiempo.\r\n\r\n\r\nCaracterísticas:\r\n\r\nRoguevania: la exploración progresiva de un mundo interconectado, con la rejugabilidad de un juego de tipo roguelite y la adrenalina que produce la amenaza de la muerte permanente.\r\n\r\nAcción en 2D de tipo Dark Souls: combates duros pero justos, la famosa tirada de esquiva, más de 90 armas y hechizos con un sistema de juego exclusivo... La acción implacable, junto con la ausencia de cualquier tipo de red de seguridad, hace que cada partida sea una aventura adrenalínica.\r\n\r\nProgresión no lineal: ¿alcantarillas, osario o murallas? Una vez desbloqueadas, con las habilidades especiales permanentes podrás acceder a nuevas rutas para alcanzar tu objetivo. Opta por el camino que mejor se ajuste a tu estilo de juego o simplemente a tu estado de ánimo.\r\n\r\nExploración: salas secretas, pasadizos ocultos, paisajes encantadores... Tómate un momento para pasear por las torres y respirar ese aire fresco empapado de bruma marina...",
-      "shortDescription": "En Dead Cells, controlarás un experimento alquímico fallido e intentarás descubrir qué sucede en una isla supuestamente maldita que sufre constantes cambios y expansiones. Los combates duros pero justos, los controles sensibles, los enemigos desafiantes, la muerte permanente y, desde luego, la tirada de emergencia para salir de apuros conforman un juego de acción exigente, sangriento y catártico.\r\n",
-      "developer": "Motion Twin",
-      "publisher": "Motion Twin",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.33704.68724117649475771.eac68952-84aa-42f0-875b-09de4c2ee208.c6483868-0337-4d5f-bc1f-36132804e3d7",
-      "heroImage": "https://store-images.s-microsoft.com/image/apps.40300.68724117649475771.eac68952-84aa-42f0-875b-09de4c2ee208.400f5d27-ba33-4b31-afc3-474baf8115c7",
-      "screenshots": [
-        "https://store-images.s-microsoft.com/image/apps.60409.68724117649475771.eac68952-84aa-42f0-875b-09de4c2ee208.913fab73-24b9-42b2-8e8f-152e8d18d381",
-        "https://store-images.s-microsoft.com/image/apps.50793.68724117649475771.eac68952-84aa-42f0-875b-09de4c2ee208.5b531ec6-5980-487b-a5cc-3b24a3c67b2c",
-        "https://store-images.s-microsoft.com/image/apps.41457.68724117649475771.eac68952-84aa-42f0-875b-09de4c2ee208.e8be0e86-674e-4151-aab8-141a5af4aaaa",
-        "https://store-images.s-microsoft.com/image/apps.27947.68724117649475771.eac68952-84aa-42f0-875b-09de4c2ee208.90ebebc1-7864-4223-90ac-a98635e2c5dc"
-      ],
-      "videoUrl": "",
-      "videoCaption": "",
-      "releaseDate": "2019-09-05",
-      "categories": [
-        "Acción y aventura",
-        "Plataformas"
-      ],
-      "tiers": [
-        "essential",
-        "pc",
-        "premium",
-        "ultimate"
-      ],
-      "platform": "pc",
-      "price": 24.99,
-      "msrp": 24.99,
-      "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
-      "rating": 4.4,
-      "ratingCount": 153,
-      "ageRating": 16,
-      "pegiRating": "PEGI 16",
-      "pegiDescription": "Apropiado a partir de 16 años",
-      "interactiveDescriptions": [],
-      "capabilities": [
-        "Un jugador",
-        "Logros de Xbox"
-      ],
-      "systemRequirements": [
-        {
-          "title": "SO",
-          "minimum": "Windows 10 version 18362.0 or higher",
-          "recommended": "Windows 10 version 18362.0 or higher"
-        },
-        {
-          "title": "Arquitectura",
-          "minimum": "x64",
-          "recommended": "x64"
-        },
-        {
-          "title": "Gráficos",
-          "minimum": "Nvidia 450 GTS / Radeon HD 5750 or better",
-          "recommended": "Nvidia GTX 460 / Radeon HD 7800 or better"
-        },
-        {
-          "title": "Procesador",
-          "minimum": "Intel i5+",
-          "recommended": "Intel i5+"
-        },
-        {
-          "title": "Teclado",
-          "minimum": "Teclado integrado",
-          "recommended": ""
-        },
-        {
-          "title": "Mouse",
-          "minimum": "Mouse integrado",
-          "recommended": ""
-        },
-        {
-          "title": "DirectX",
-          "minimum": "Versión 9",
-          "recommended": "Versión 9"
-        },
-        {
-          "title": "Memoria",
-          "minimum": "1 GB",
-          "recommended": "1 GB"
-        },
-        {
-          "title": "Memoria de vídeo",
-          "minimum": "1 GB",
-          "recommended": "1 GB"
-        },
-        {
-          "title": "Controladora",
-          "minimum": "",
-          "recommended": "Controladora de Xbox"
-        }
-      ],
-      "maxInstallSize": 2115547136,
-      "hasAddOns": true,
-      "storeUrl": "https://www.xbox.com/es-es/games/store/dead-cells/9NKVX66J0ZSK"
     },
     {
       "id": "C3L4J3H7H12R",
@@ -13697,11 +13293,11 @@
         "ultimate"
       ],
       "platform": "both",
-      "price": 13.99,
+      "price": 19.99,
       "msrp": 19.99,
       "currency": "EUR",
-      "hasDiscount": true,
-      "discountPercent": 30,
+      "hasDiscount": false,
+      "discountPercent": 0,
       "rating": 4.3,
       "ratingCount": 16,
       "ageRating": 12,
@@ -14063,105 +13659,6 @@
       "maxInstallSize": 4461985792,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/deep-rock-galactic/9NHFVWX1V7QJ"
-    },
-    {
-      "id": "9PHGQPRBBSXK",
-      "title": "Deep Rock Galactic: Survivor",
-      "description": "¡Os damos la bienvenida, supervivientes!\nDEEP ROCK GALACTIC: SURVIVOR es un \"auto-shooter\" de supervivencia en primera persona. Usa todo el arsenal disponible en Deep Rock Galactic, acaba con hordas de alienígenas letales, excava y consigue tesoros, y desbloquea poderosas mejoras. ¡Ahora solo quedas tú frente a todo el planeta Hoxxes!\n\n\n\"BULLET HELL\" INVERTIDO Y MINERÍA\nMata bichos, mejora tu equipo y adéntrate aún más en las letales cuevas de Hoxxes. Consigue y organiza un arsenal devastador de armas, desata un infierno de balas en un combate rápido y frenético contra interminables oleadas de monstruos alienígenas, y excava túneles para conseguir valiosos tesoros escondidos en las paredes de las cuevas. Gracias al estilo \"auto-shooter\" del juego, no tendrás que preocuparte de apuntar y disparar, solo de excavar y de correr para salvar tu vida mientras tus armas se encargan del resto.\n\nCada misión será irrepetible, gracias a la generación procedural de cuevas y oleadas de enemigos (al igual que en Deep Rock Galactic).\n\n\nCOMPLETA OBJETIVOS DE MISIÓN PARA VOLVERTE MÁS PODEROSO\n¡Excava tanto como puedas, minero! Una vez que la cápsula de transporte te deje en mitad de la opresiva oscuridad del planeta, estarás solo. Completa los objetivos de la misión establecidos por la compañía, y vuelve a la cápsula de transporte a tiempo para ir desbloqueando encuentros cada vez más lucrativos... y mortales. Adéntrate más y más en las profundidades del planeta a la par que te vuelves más fuerte, sobrevive a todo lo que encuentres hasta el final de tu encargo, y solicita una extracción del planeta junto con tu cuantioso botín.\n\n\nDEEP ROCK, DESDE UNA PERSPECTIVA NUNCA VISTA\n¡Ahora podrás disfrutar del universo de Deep Rock Galactic de una manera nueva, exclusiva y para un jugador! Juega a cada misión usando un modo de cámara cenital, recorriendo las cuevas de Hoxxes de una forma totalmente nueva, y disfrutando de la mejor acción de estilo \"auto-shooter\". Los veteranos grisuchos de Deep Rock reconocerán muchos detalles heredados de Deep Rock Galactic; aún así, si te has unido recientemente y eres un verducho, ¡es un honor tenerte aquí! Te gustará lo que hacemos... porque es obligatorio según nuestra Directiva.\n\n\n\n¡ROCA Y PIEDRA!",
-      "shortDescription": "DEEP ROCK GALACTIC: SURVIVOR es un auto-shooter de supervivencia para un jugador. Acaba con hordas de letales alienígenas, descubre tesoros, y sobrevive desbloqueando poderosas mejoras del arsenal de la saga Deep Rock Galactic. ¡Ahora le toca a un solo enano enfrentarse a todo el planeta Hoxxes!",
-      "developer": "Funday Games",
-      "publisher": "Ghost Ship Publishing",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.62117.14236455618786574.7da56d6f-3f92-4177-864c-483af4ecce05.54c72459-96aa-4856-b63f-8b7858f31b2e",
-      "heroImage": "https://store-images.s-microsoft.com/image/apps.49048.14236455618786574.7da56d6f-3f92-4177-864c-483af4ecce05.78767e7f-4222-4d46-b349-2524fcae647e",
-      "screenshots": [
-        "https://store-images.s-microsoft.com/image/apps.35067.14236455618786574.5b48af66-d01f-435c-addc-832c8e12d278.cd8d7345-1bdb-42ed-a2bc-91b71a19e9a8",
-        "https://store-images.s-microsoft.com/image/apps.47827.14236455618786574.5b48af66-d01f-435c-addc-832c8e12d278.9f9707fe-3de3-4345-9342-eb64ed4ae78a",
-        "https://store-images.s-microsoft.com/image/apps.25100.14236455618786574.5b48af66-d01f-435c-addc-832c8e12d278.54592bfe-9509-4e7c-91a2-87032ff7876f",
-        "https://store-images.s-microsoft.com/image/apps.34448.14236455618786574.5b48af66-d01f-435c-addc-832c8e12d278.60b2de8a-6145-4853-9eca-020f432baa4f"
-      ],
-      "videoUrl": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftassets/c5662f9f-f49d-4f05-b612-0f85630e25f9-AVS.m3u8?packagedStreaming=true",
-      "videoCaption": "Deep Rock Galactic: Survivor video tráiler",
-      "releaseDate": "2025-09-17",
-      "categories": [
-        "Acción y aventura",
-        "Shooter"
-      ],
-      "tiers": [
-        "pc",
-        "premium",
-        "ultimate"
-      ],
-      "platform": "both",
-      "price": 12.99,
-      "msrp": 12.99,
-      "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
-      "rating": 4.3,
-      "ratingCount": 61,
-      "ageRating": 12,
-      "pegiRating": "PEGI 12",
-      "pegiDescription": "Apropiado a partir de 12 años",
-      "interactiveDescriptions": [
-        "Compras dentro del juego"
-      ],
-      "capabilities": [
-        "4K Ultra HD",
-        "Un jugador",
-        "Frecuencia de actualización variable",
-        "60 fps +",
-        "Optimizado para Xbox Series X|S",
-        "Mouse y teclado de la consola",
-        "Logros de Xbox",
-        "Presencia de Xbox",
-        "Cosas guardadas en la nube de Xbox",
-        "Xbox Play Anywhere"
-      ],
-      "systemRequirements": [
-        {
-          "title": "SO",
-          "minimum": "Windows 10 version 18362.0 or higher",
-          "recommended": "Windows 10 version 18362.0 or higher"
-        },
-        {
-          "title": "Arquitectura",
-          "minimum": "x64",
-          "recommended": "x64"
-        },
-        {
-          "title": "Gráficos",
-          "minimum": "Geforce GTX 1050 or similar",
-          "recommended": ""
-        },
-        {
-          "title": "Procesador",
-          "minimum": "Intel i5-4590 or similar",
-          "recommended": ""
-        },
-        {
-          "title": "Teclado",
-          "minimum": "Teclado integrado",
-          "recommended": "Teclado integrado"
-        },
-        {
-          "title": "Mouse",
-          "minimum": "Mouse integrado",
-          "recommended": ""
-        },
-        {
-          "title": "Controladora",
-          "minimum": "Controladora de Xbox",
-          "recommended": "Controladora de Xbox"
-        },
-        {
-          "title": "Memoria",
-          "minimum": "8 GB",
-          "recommended": ""
-        }
-      ],
-      "maxInstallSize": 3833139200,
-      "hasAddOns": true,
-      "storeUrl": "https://www.xbox.com/es-es/games/store/deep-rock-galactic-survivor/9PHGQPRBBSXK"
     },
     {
       "id": "9N18L56XHK8Z",
@@ -15134,8 +14631,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 3,
-      "ratingCount": 73,
+      "rating": 3.1,
+      "ratingCount": 74,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -19525,7 +19022,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.4,
-      "ratingCount": 1569,
+      "ratingCount": 1570,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -19599,12 +19096,12 @@
     {
       "id": "BS6WJ2L56B10",
       "title": "Fallout 76",
-      "description": "Bethesda Game Studios, los galardonados creadores de Skyrim y Fallout 4, te dan la bienvenida a Fallout 76. Veinticinco años después de la caída de las bombas, saldrás junto a los demás compañeros moradores del refugio (elegidos de entre lo mejor de la nación) a los Estados Unidos posnucleares el Día de la Recuperación de 2102. Juega solo o forma un equipo mientras exploras, completas misiones, construyes y superas las mayores amenazas del Yermo. Explora un amplio Yermo devastado por el conflicto nuclear en este juego multijugador de mundo abierto que completa la historia de Fallout. Experimenta el mundo más grande y dinámico jamás creado para este legendario universo.\n\nCadenas de misiones inmersivas y personajes interesantes\nDescubre los secretos de Virginia Occidental mientras completas la compleja misión principal, que comienza en el momento en el que abandonas el Refugio 76. Haz amigos y enemigos entre los vecinos que han venido a reconstruir el mundo y vive Appalachia a través de los ojos de sus habitantes.\n\nTemporadas\nVe avanzando a lo largo de cada temporada para completar desafíos por tiempo limitado y desbloquear recompensas gratuitas, como consumibles, objetos para el C.A.M.P. y más.\n\nJuego de rol multijugador\nAprovecha el sistema de S.P.E.C.I.A.L. para crear a tu personaje y labrarte una reputación en un Yermo que cuenta con cientos de ubicaciones por descubrir. Vive tu propia aventura en Fallout en solitario o con amigos.\n\nMontaña esplendorosa\nLa historia se desarrolla a través del mundo de Fallout 76, que cuenta con seis regiones de Virginia Occidental muy diferentes entre sí. Desde los bosques de Appalachia hasta las peligrosas llanuras escarlata del pantano de Cranberry, cada zona plantea sus propios riesgos y recompensas.\n\nEl nuevo sueño americano\nEmplea el nuevo “Centro Ambulante de Montaje y Planificación”, el C.A.M.P., para construir y fabricar objetos en cualquier rincón del mundo. El C.A.M.P. te ofrecerá refugio, provisiones y seguridad en un mundo donde nunca están de más. También podrás establecer un lugar en el que comerciar con otros supervivientes.\n\nMundos de Fallout\nDisfruta de aventuras únicas por Appalachia con Mundos de Fallout, que es un conjunto de funcionalidades en constante evolución que ofrecen a los jugadores la posibilidad de experimentar Fallout 76 de formas únicas con ajustes personalizables.\n\nhttps://eulas.bethesda.net/fallout-76",
-      "shortDescription": "Bethesda Game Studios, los galardonados creadores de Skyrim y Fallout 4, te dan la bienvenida a Fallout 76. Veinticinco años después de la caída de las bombas, saldrás junto a los demás moradores del refugio (elegidos de entre lo mejor de la nación) a la América posnuclear el Día de la Recuperación de 2102. Explora un amplio Yermo devastado por el conflicto nuclear en este juego multijugador de mundo abierto que completa la historia de Fallout.",
+      "description": "Saludos desde Fallout 76 – ¡Vuelve pronto!\nDe Bethesda Game Studios, los galardonados creadores de The Elder Scrolls V: Skyrim y Fallout 4. Únete a millones de jugadores y explora, construye, completa misiones y triunfa en esta aventura multijugador en un enorme mundo abierto.\nDía de la Recuperación, año 2102: juega en solitario o en equipo junto con otros moradores del refugio mientras abandonáis la comodidad del refugio para conquistar la naturaleza salvaje de Virginia Occidental 25 años después de que la Gran Guerra cambiara el mundo para siempre.\n\nAños de actualizaciones GRATUITAS\nFallout 76 ha crecido durante todos estos años gracias a actualizaciones gratuitas, ampliaciones del mapa y un calendario cargado de eventos en el juego. Siempre hay algo nuevo que descubrir en esta Appalachia.\n\nForja a tu superviviente\nConfigura a tu superviviente con el icónico sistema S.P.E.C.I.A.L. de Fallout. Juega como un tanque bajo la protección de una servoarmadura, un sigiloso francotirador, un pistolero del Oeste, un matón con puños de acero... o crea tu propia configuración.\n\nConstruye un C.A.M.P.\n¡Crea tu propio asentamiento en el Yermo! Elige la ubicación y diseña el C.A.M.P. de tus sueños. Una fortaleza en la montaña, una finca en el bosque, un puesto avanzado de saqueador, un laboratorio... ¡Tienes un sinfín de posibilidades disponibles, así que deja volar tu imaginación!\n\nDescubre historias de Appalachia\nCompleta misiones y adéntrate en profundas historias con facciones rivales y decisiones que irán forjando tu aventura. Viaja desde densos bosques hasta la calurosa Burning Springs o el radiactivo pantano de Cranberry; descubre regiones llenas de historias, recompensas ocultas y críptidos legendarios. Caza al misterioso hombre polilla, al enorme Sheepsquatch o al legendario Bigfoot para no convertirte en su presa.\n\nEl Destripador\n¡Una serie de rituales y asesinatos están sembrando el miedo entre los habitantes de Appalachia! Destapa la verdad sobre el regreso del célebre Destripador buscando pistas, exterminando plagas de sectarios por todo el Yermo y enfrentándote a una nueva búsqueda de recompensas.\n\nhttps://eulas.bethesda.net/fallout-76",
+      "shortDescription": "Veinticinco años tras la caída de las bombas, saldrás junto a los demás compañeros moradores del refugio a los Estados Unidos posnucleares. Únete a millones de jugadores y explora, construye, completa misiones y triunfa en esta aventura multijugador en un enorme mundo abierto.  ",
       "developer": "Bethesda Game Studios",
       "publisher": "Bethesda Softworks",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.27487.70143269474194625.c68f14d3-e520-43ff-a1bc-8de449b5cf7c.20ccb406-af50-4f68-96fa-58255675459c",
-      "heroImage": "https://store-images.s-microsoft.com/image/apps.13787.70143269474194625.c68f14d3-e520-43ff-a1bc-8de449b5cf7c.40508e10-16d2-4c76-a997-146df8748073",
+      "imageUrl": "https://store-images.s-microsoft.com/image/apps.32675.70143269474194625.b0e8b744-cb24-48cd-9498-108cc064643f.8f726167-1f33-4d48-910a-2b00822b4ecc",
+      "heroImage": "https://store-images.s-microsoft.com/image/apps.42534.70143269474194625.b0e8b744-cb24-48cd-9498-108cc064643f.b481472f-b6b6-45e4-9b5d-c7c81aba695c",
       "screenshots": [
         "https://store-images.s-microsoft.com/image/apps.55914.70143269474194625.d30e156f-f4ab-4cb5-9abc-95867d2e0650.ad762ac0-21fe-4aef-bf3e-faef1d54da14",
         "https://store-images.s-microsoft.com/image/apps.51595.70143269474194625.d30e156f-f4ab-4cb5-9abc-95867d2e0650.b816a701-846e-4c31-a42e-158386f46d0b",
@@ -19659,12 +19156,12 @@
     {
       "id": "9NKGNMNK3K3Z",
       "title": "Fallout 76 (PC)",
-      "description": "Bethesda Game Studios, los galardonados creadores de Skyrim y Fallout 4, te dan la bienvenida a Fallout 76. Veinticinco años después de la caída de las bombas, saldrás junto a los demás compañeros moradores del refugio (elegidos de entre lo mejor de la nación) a los Estados Unidos posnucleares el Día de la Recuperación de 2102. Juega solo o forma un equipo mientras exploras, completas misiones, construyes y superas las mayores amenazas del Yermo. Explora un amplio Yermo devastado por el conflicto nuclear en este juego multijugador de mundo abierto que completa la historia de Fallout. Experimenta el mundo más grande y dinámico jamás creado para este legendario universo.\n\nCadenas de misiones inmersivas y personajes interesantes\nDescubre los secretos de Virginia Occidental mientras completas la compleja misión principal, que comienza en el momento en el que abandonas el Refugio 76. Haz amigos y enemigos entre los vecinos que han venido a reconstruir el mundo y vive Appalachia a través de los ojos de sus habitantes.\n\nTemporadas\nVe avanzando a lo largo de cada temporada para completar desafíos por tiempo limitado y desbloquear recompensas gratuitas, como consumibles, objetos para el C.A.M.P. y más.\n\nJuego de rol multijugador\nAprovecha el sistema de S.P.E.C.I.A.L. para crear a tu personaje y labrarte una reputación en un Yermo que cuenta con cientos de ubicaciones por descubrir. Vive tu propia aventura en Fallout en solitario o con amigos.\n\nMontaña esplendorosa\nLa historia se desarrolla a través del mundo de Fallout 76, que cuenta con seis regiones de Virginia Occidental muy diferentes entre sí. Desde los bosques de Appalachia hasta las peligrosas llanuras escarlata del pantano de Cranberry, cada zona plantea sus propios riesgos y recompensas.\n\nEl nuevo sueño americano\nEmplea el nuevo “Centro Ambulante de Montaje y Planificación”, el C.A.M.P., para construir y fabricar objetos en cualquier rincón del mundo. El C.A.M.P. te ofrecerá refugio, provisiones y seguridad en un mundo donde nunca están de más. También podrás establecer un lugar en el que comerciar con otros supervivientes.\n\nMundos de Fallout\nDisfruta de aventuras únicas por Appalachia con Mundos de Fallout, que es un conjunto de funcionalidades en constante evolución que ofrecen a los jugadores la posibilidad de experimentar Fallout 76 de formas únicas con ajustes personalizables.\n\nhttps://eulas.bethesda.net/fallout-76",
-      "shortDescription": "Bethesda Game Studios, los galardonados creadores de Skyrim y Fallout 4, te dan la bienvenida a Fallout 76. Veinticinco años después de la caída de las bombas, saldrás junto a los demás moradores del refugio (elegidos de entre lo mejor de la nación) a la América posnuclear el Día de la Recuperación de 2102. Explora un amplio Yermo devastado por el conflicto nuclear en este juego multijugador de mundo abierto que completa la historia de Fallout.",
+      "description": "Saludos desde Fallout 76 – ¡Vuelve pronto!\nDe Bethesda Game Studios, los galardonados creadores de The Elder Scrolls V: Skyrim y Fallout 4. Únete a millones de jugadores y explora, construye, completa misiones y triunfa en esta aventura multijugador en un enorme mundo abierto.\nDía de la Recuperación, año 2102: juega en solitario o en equipo junto con otros moradores del refugio mientras abandonáis la comodidad del refugio para conquistar la naturaleza salvaje de Virginia Occidental 25 años después de que la Gran Guerra cambiara el mundo para siempre.\n\nAños de actualizaciones GRATUITAS\nFallout 76 ha crecido durante todos estos años gracias a actualizaciones gratuitas, ampliaciones del mapa y un calendario cargado de eventos en el juego. Siempre hay algo nuevo que descubrir en esta Appalachia.\n\nForja a tu superviviente\nConfigura a tu superviviente con el icónico sistema S.P.E.C.I.A.L. de Fallout. Juega como un tanque bajo la protección de una servoarmadura, un sigiloso francotirador, un pistolero del Oeste, un matón con puños de acero... o crea tu propia configuración.\n\nConstruye un C.A.M.P.\n¡Crea tu propio asentamiento en el Yermo! Elige la ubicación y diseña el C.A.M.P. de tus sueños. Una fortaleza en la montaña, una finca en el bosque, un puesto avanzado de saqueador, un laboratorio... ¡Tienes un sinfín de posibilidades disponibles, así que deja volar tu imaginación!\n\nDescubre historias de Appalachia\nCompleta misiones y adéntrate en profundas historias con facciones rivales y decisiones que irán forjando tu aventura. Viaja desde densos bosques hasta la calurosa Burning Springs o el radiactivo pantano de Cranberry; descubre regiones llenas de historias, recompensas ocultas y críptidos legendarios. Caza al misterioso hombre polilla, al enorme Sheepsquatch o al legendario Bigfoot para no convertirte en su presa.\n\nEl Destripador\n¡Una serie de rituales y asesinatos están sembrando el miedo entre los habitantes de Appalachia! Destapa la verdad sobre el regreso del célebre Destripador buscando pistas, exterminando plagas de sectarios por todo el Yermo y enfrentándote a una nueva búsqueda de recompensas.\n\nhttps://eulas.bethesda.net/fallout-76",
+      "shortDescription": "Veinticinco años tras la caída de las bombas, saldrás junto a los demás compañeros moradores del refugio a los Estados Unidos posnucleares. Únete a millones de jugadores y explora, construye, completa misiones y triunfa en esta aventura multijugador en un enorme mundo abierto.  ",
       "developer": "Bethesda Game Studios",
       "publisher": "Bethesda Softworks",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.27487.13657086471689364.e50bcd74-5ff2-4070-837d-ba5caf050abc.e408f800-1db7-4f25-b978-25724f367e91",
-      "heroImage": "https://store-images.s-microsoft.com/image/apps.13787.13657086471689364.e50bcd74-5ff2-4070-837d-ba5caf050abc.a8469f63-6ec8-4f36-8273-0a1eed8b321f",
+      "imageUrl": "https://store-images.s-microsoft.com/image/apps.32675.13657086471689364.8f674de7-1bef-4801-8dbc-109dbe27b897.6ce291f2-7d07-44e5-96ff-13d996b0c30c",
+      "heroImage": "https://store-images.s-microsoft.com/image/apps.42534.13657086471689364.8f674de7-1bef-4801-8dbc-109dbe27b897.d742c028-24cf-4a16-bcd7-d2a7eeb22f63",
       "screenshots": [
         "https://store-images.s-microsoft.com/image/apps.55914.13657086471689364.6f683851-4ac8-46ba-b4d3-a484793d6fd4.1782fd31-0609-4d9c-a6df-e883142ee6f9",
         "https://store-images.s-microsoft.com/image/apps.51595.13657086471689364.6f683851-4ac8-46ba-b4d3-a484793d6fd4.dab958fc-a6b5-45f9-a6b4-51e602d5561d",
@@ -22668,7 +22165,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.7,
-      "ratingCount": 4492,
+      "ratingCount": 4493,
       "ageRating": 12,
       "pegiRating": "Supervisión parental recomendada",
       "pegiDescription": "Supervisión parental recomendada",
@@ -22922,7 +22419,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.6,
-      "ratingCount": 1849,
+      "ratingCount": 1848,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -23146,110 +22643,6 @@
       "maxInstallSize": 2757722112,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/frog-sqwad/9N16RZ0S50V2"
-    },
-    {
-      "id": "9N0KN24FWP6B",
-      "title": "Frostpunk 2",
-      "description": "La versión de Frostpunk 2 para Xbox no admite mods creados por la comunidad de jugadores. Estos solo están disponibles en la versión de PC.\n\nFrostpunk 2 eleva el género de la supervivencia urbana a otro nivel. Asume el papel de un Gobernante y lidera la ciudad a lo largo de una serie de calamidades que se desarrollan en un entorno nevado posapocalíptico. Construye grandes distritos con sus necesidades y demandas. Enfréntate a los conflictos de intereses de las distintas facciones que habitan en tu metrópolis. Al aumentar las necesidades de la ciudad y el poder de cada grupo, solo tú podrás dirigir la sociedad hacia un incierto futuro.\n\nLa ciudad crece\nEl mundo está sumido en un invierno perenne que obliga a la ciudad a expandirse como única forma de supervivencia para la humanidad. Para crecer, la metrópolis necesita recursos como el carbón y el petróleo, al igual que sus ciudadanos necesitan calor y alimentos. En Frostpunk 2, tu misión será enfrentarte a este círculo incesante de oferta y demanda.\n\nDistritos de la ciudad\nTu ciudad está dividida en zonas dedicadas a distintos propósitos, como el alojamiento o la extracción. Depende de ti construir otras nuevas y asegurarte de que las existentes funcionen en sincronía.\n\nEdificios especiales\nCon el tiempo, tendrás que construir lugares como el Consejo o el Instituto de Investigación. En estos edificios tramitarás leyes y proyectos para que la ciudad se desarrolle en la dirección adecuada.\n\nColonias\nPara asegurarte de que la ciudad no deje de crecer, tendrás que adentrarte en Tierrahelada. Allí podrás construir vastas colonias que te permitirán obtener todos los recursos necesarios.\n\nPeligros de la naturaleza humana\nLa cifra de habitantes irá creciendo lentamente y complicando las labores de gobierno y la forma de satisfacer sus exigencias. Como Gobernante, tendrás que desenvolverte con mucho cuidado en la maraña de intereses de los distintos grupos que habitan tu ciudad.\n\nHabitantes de Nueva Londres\nTus ciudadanos pueden formar comunidades y facciones, cada una con sus propias perspectivas acerca del futuro de la urbe. En el Consejo, tramitarás leyes y las negociarás con los delegados de cada facción.\n\nConsejo de la ciudad\nConseguir el apoyo de cada facción es complicado, ya que si una de ellas asciende, las demás mostrarán su descontento. Esto significa que tendrás que meditar cada alianza cuidadosamente.\n\nHacia el progreso\nEl Instituto de Investigación es donde forjarás el futuro de la ciudad. Cada nuevo proyecto debe recaer en una facción, así que tendrás que maniobrar para establecer alianzas estratégicas.\n\nFacciones\nLos habitantes de tu ciudad quieren tener voz y voto a la hora de dirigir las cosas. Cada facción tiene una ideología y una perspectiva de futuro, pero todas tienen algo en común: una sed de poder insaciable. Elige cuidadosamente tus aliados en el Consejo.\n\nModo historia y constructor de utopías\nLa historia de Frostpunk 2 presenta una saga con varios capítulos ambientada en los páramos helados. Esta campaña, que sigue la vida del Gobernante, te permite sentir la carga del liderazgo y de ser el responsable de miles de vidas. Al mismo tiempo, el modo sandbox (llamado constructor de utopías) te ofrece un tiempo de juego infinito y permite llevar a cabo experimentos sociales y estructurales sin límites.\n",
-      "shortDescription": "Desarrolla tu ciudad, amplíala y hazla avanzar en un juego de supervivencia social ambientado 30 años después de una apocalíptica ventisca que asoló la Tierra. En Frostpunk 2, te enfrentarás a los peligros de un invierno eterno y a facciones de un Consejo que vigila cada uno de tus pasos.",
-      "developer": "11 bit studios",
-      "publisher": "11 bit studios",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.4430.13923668312910701.01edfea1-db44-49e5-8fd9-8f546040b4b7.9bb1a96f-07fb-4b50-9506-21ef028813fc",
-      "heroImage": "https://store-images.s-microsoft.com/image/apps.46521.13923668312910701.01edfea1-db44-49e5-8fd9-8f546040b4b7.d709052d-5d71-4046-9583-14b3790cedf5",
-      "screenshots": [
-        "https://store-images.s-microsoft.com/image/apps.55667.13923668312910701.6d189aad-09eb-48b7-a9cd-5759dac97d8e.65acbd2d-16f8-42f2-8e38-44347c0441e2",
-        "https://store-images.s-microsoft.com/image/apps.14477.13923668312910701.fcf9b5ed-ee7f-4fb9-a77d-9f3244ae5705.e139e148-ff24-4a38-aeae-0cb3ffb7d2e7",
-        "https://store-images.s-microsoft.com/image/apps.51245.13923668312910701.fcf9b5ed-ee7f-4fb9-a77d-9f3244ae5705.ea0fb71a-e5cd-4df2-be1b-bc939bb47ef8",
-        "https://store-images.s-microsoft.com/image/apps.36914.13923668312910701.6d189aad-09eb-48b7-a9cd-5759dac97d8e.0c16c63f-ad8c-4313-8a78-155f6607447e"
-      ],
-      "videoUrl": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftassets/2d202bff-9cb3-4891-82d1-760e95eed6fa-AVS.m3u8?packagedStreaming=true",
-      "videoCaption": "Gameplay Trailer",
-      "releaseDate": "2024-09-20",
-      "categories": [
-        "Estrategia"
-      ],
-      "tiers": [
-        "pc",
-        "premium",
-        "ultimate"
-      ],
-      "platform": "both",
-      "price": 22.49,
-      "msrp": 44.99,
-      "currency": "EUR",
-      "hasDiscount": true,
-      "discountPercent": 50,
-      "rating": 3.1,
-      "ratingCount": 73,
-      "ageRating": 16,
-      "pegiRating": "PEGI 16",
-      "pegiDescription": "Apropiado a partir de 16 años",
-      "interactiveDescriptions": [],
-      "capabilities": [
-        "4K Ultra HD",
-        "Un jugador",
-        "Sonido espacial",
-        "Optimizado para Xbox Series X|S",
-        "Logros de Xbox",
-        "Clubs de Xbox",
-        "Cosas guardadas en la nube de Xbox",
-        "Xbox Play Anywhere"
-      ],
-      "systemRequirements": [
-        {
-          "title": "SO",
-          "minimum": "Windows 10 version 18362.0 or higher",
-          "recommended": "Windows 10 version 18362.0 or higher"
-        },
-        {
-          "title": "Arquitectura",
-          "minimum": "x64",
-          "recommended": "x64"
-        },
-        {
-          "title": "Gráficos",
-          "minimum": " AMD RX 550 4 GB VRAM  / NVIDIA GTX 1050Ti 4 GB VRAM / INTEL ARC A310 4 GB VRAM",
-          "recommended": "AMD RX 5700 8 GB VRAM / NVIDIA 2060 RTX SUPER 8 GB VRAM / INTEL ARC A770 8 GB VRAM "
-        },
-        {
-          "title": "Procesador",
-          "minimum": "Intel Core i5 2.5 GHz / AMD Ryzen 5",
-          "recommended": "Intel Core i7 2.8GHz / AMD Ryzen 7"
-        },
-        {
-          "title": "DirectX",
-          "minimum": "API de DirectX 12, nivel de característica de hardware 12",
-          "recommended": "API de DirectX 12, nivel de característica de hardware 12"
-        },
-        {
-          "title": "Memoria",
-          "minimum": "8 GB",
-          "recommended": "16 GB"
-        },
-        {
-          "title": "Memoria de vídeo",
-          "minimum": "4 GB",
-          "recommended": ""
-        },
-        {
-          "title": "Teclado",
-          "minimum": "",
-          "recommended": "Teclado integrado"
-        },
-        {
-          "title": "Mouse",
-          "minimum": "",
-          "recommended": "Mouse integrado"
-        },
-        {
-          "title": "Controladora",
-          "minimum": "",
-          "recommended": "Controladora de Xbox"
-        }
-      ],
-      "maxInstallSize": 19437686784,
-      "hasAddOns": true,
-      "storeUrl": "https://www.xbox.com/es-es/games/store/frostpunk-2/9N0KN24FWP6B"
     },
     {
       "id": "9P3ZRGNQVC7D",
@@ -23478,7 +22871,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.1,
-      "ratingCount": 267,
+      "ratingCount": 268,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -23574,7 +22967,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.6,
-      "ratingCount": 11267,
+      "ratingCount": 11266,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -24827,8 +24220,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 1.9,
-      "ratingCount": 61,
+      "rating": 2,
+      "ratingCount": 62,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -25947,7 +25340,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4,
-      "ratingCount": 1183,
+      "ratingCount": 1184,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -26321,7 +25714,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.8,
-      "ratingCount": 176,
+      "ratingCount": 178,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -28586,7 +27979,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.2,
-      "ratingCount": 908,
+      "ratingCount": 909,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -29576,6 +28969,7 @@
       ],
       "tiers": [
         "pc",
+        "premium",
         "ultimate"
       ],
       "platform": "both",
@@ -30184,7 +29578,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.5,
-      "ratingCount": 280,
+      "ratingCount": 281,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -32077,6 +31471,7 @@
       ],
       "tiers": [
         "pc",
+        "premium",
         "ultimate"
       ],
       "platform": "both",
@@ -33096,8 +32491,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 4.6,
-      "ratingCount": 32,
+      "rating": 4.5,
+      "ratingCount": 33,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -33391,7 +32786,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.7,
-      "ratingCount": 11325,
+      "ratingCount": 11326,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -33453,7 +32848,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.7,
-      "ratingCount": 51632,
+      "ratingCount": 51647,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -33836,7 +33231,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4,
-      "ratingCount": 15879,
+      "ratingCount": 15880,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -33933,7 +33328,7 @@
           "recommended": "8 GB"
         }
       ],
-      "maxInstallSize": 2132938752,
+      "maxInstallSize": 2135957504,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/minecraft-preview-for-windows/9P5X4QVLC2XR"
     },
@@ -33994,7 +33389,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 2350575616,
+      "maxInstallSize": 2351603712,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/minecraft-preview-for-xbox/9NQ19C36R0VD"
     },
@@ -34031,7 +33426,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.5,
-      "ratingCount": 61532,
+      "ratingCount": 61538,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -34045,7 +33440,7 @@
         "Un jugador"
       ],
       "systemRequirements": [],
-      "maxInstallSize": 2069929984,
+      "maxInstallSize": 2069975040,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/minecraft-java-bedrock-edition-for-pc/9NXP44L49SHJ"
     },
@@ -34085,7 +33480,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.9,
-      "ratingCount": 75,
+      "ratingCount": 76,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -35475,96 +34870,6 @@
       "storeUrl": "https://www.xbox.com/es-es/games/store/moving-out-2/9P88K6NQW12H"
     },
     {
-      "id": "9PG8TV30NN9H",
-      "title": "MULLET MADJACK",
-      "description": "CARACTERÍSTICAS PRINCIPALES: \n\n • Una experiencia arcade rápida, llena de subidones de dopamina, como en los viejos tiempos.\n\n • Una campaña NARRATIVA totalmente animada con escenas de anime de los 90.\n\n • + 50 potenciadores que cambian tu estilo de juego.\n\n • Puedes jugar toda la vida en el MODO INFINITO.\n\n • UN MODO OCIO sin TIMER si quieres una campaña tradicional\n\n • Revive la brutalidad de los años 80 y 90.",
-      "shortDescription": "MULLET MAD JACK es un juego de disparos FRENÉTICO en primera persona y para un solo jugador en el que te encontrarás dentro de un ANIME CLÁSICO. Perfecciona tu personaje hasta llegar al último piso: consigue tu mejor tiempo o inténtalo de nuevo. ¡Aquí la prisa será tu aliada!",
-      "developer": "HAMMER95",
-      "publisher": "Epopeia Games",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.25799.14185273107843338.c1763a2c-a5bb-46ee-ade7-841a3c40c249.4a1f92fc-067e-4ebd-b515-736f59cfcd7a",
-      "heroImage": "https://store-images.s-microsoft.com/image/apps.25024.14185273107843338.c1763a2c-a5bb-46ee-ade7-841a3c40c249.35e43a65-7583-4de5-af3f-4be4d006bf49",
-      "screenshots": [
-        "https://store-images.s-microsoft.com/image/apps.2395.14185273107843338.c1763a2c-a5bb-46ee-ade7-841a3c40c249.f9cc093a-9b20-4174-876b-5e44e0349f5b",
-        "https://store-images.s-microsoft.com/image/apps.4492.14185273107843338.c1763a2c-a5bb-46ee-ade7-841a3c40c249.a71a677f-917c-44f6-8e70-b8619cb10f74",
-        "https://store-images.s-microsoft.com/image/apps.55568.14185273107843338.c1763a2c-a5bb-46ee-ade7-841a3c40c249.d28c0276-cb41-48ad-9e48-5ee13b436081",
-        "https://store-images.s-microsoft.com/image/apps.36623.14185273107843338.c1763a2c-a5bb-46ee-ade7-841a3c40c249.30e602db-5f58-4155-95a9-d92ce86a5717"
-      ],
-      "videoUrl": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftassets/18206f0d-f940-4b49-9b7d-f14cecef3313-AVS.m3u8?packagedStreaming=true",
-      "videoCaption": "MMJ Release",
-      "releaseDate": "2025-03-13",
-      "categories": [
-        "Shooter",
-        "Acción y aventura"
-      ],
-      "tiers": [
-        "pc",
-        "premium",
-        "ultimate"
-      ],
-      "platform": "both",
-      "price": 19.99,
-      "msrp": 19.99,
-      "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
-      "rating": 4.3,
-      "ratingCount": 85,
-      "ageRating": 12,
-      "pegiRating": "PEGI 12",
-      "pegiDescription": "Apropiado a partir de 12 años",
-      "interactiveDescriptions": [],
-      "capabilities": [
-        "4K Ultra HD",
-        "Un jugador",
-        "Frecuencia de actualización variable",
-        "Optimizado para Xbox Series X|S",
-        "Entrega inteligente",
-        "Logros de Xbox",
-        "Cosas guardadas en la nube de Xbox",
-        "Xbox Play Anywhere"
-      ],
-      "systemRequirements": [
-        {
-          "title": "SO",
-          "minimum": "Windows 10 version 18362.0 or higher",
-          "recommended": "Windows 10 version 18362.0 or higher"
-        },
-        {
-          "title": "Arquitectura",
-          "minimum": "x64",
-          "recommended": "x64"
-        },
-        {
-          "title": "Gráficos",
-          "minimum": "Nvidia GTX GTX 970",
-          "recommended": "Nvidia GTX 1060"
-        },
-        {
-          "title": "Teclado",
-          "minimum": "Teclado integrado",
-          "recommended": ""
-        },
-        {
-          "title": "Mouse",
-          "minimum": "Mouse integrado",
-          "recommended": ""
-        },
-        {
-          "title": "Controladora",
-          "minimum": "Controladora de Xbox",
-          "recommended": ""
-        },
-        {
-          "title": "Memoria",
-          "minimum": "8 GB",
-          "recommended": "16 GB"
-        }
-      ],
-      "maxInstallSize": 4146651136,
-      "hasAddOns": false,
-      "storeUrl": "https://www.xbox.com/es-es/games/store/mullet-madjack/9PG8TV30NN9H"
-    },
-    {
       "id": "9P8SQQJ5T94B",
       "title": "NARAKA: BLADEPOINT",
       "description": "Sumérgete en las leyendas del Lejano Oriente en NARAKA: BLADEPOINT; únete a tus amigos en trepidantes combates cuerpo a cuerpo para vivir una experiencia única de Battle Royale.\n\nHéroes de todo el mundo se han reunido en la isla de Morus, donde dos antiguos dioses chocaron hace eones, creando la Máscara de la Inmortalidad: un artefacto de poder legendario. Tú eres uno de estos héroes, dispuesto a enfrentarte a muchos otros en tu camino para conseguirla.\n\nExperimenta una jugabilidad única de lucha, que combina movimientos rápidos en un vasto entorno y un intenso y profundo sistema de combate cuerpo a cuerpo basado en combos y contraataques.\n\nConstruye tu propio estilo de juego a partir de nuestra enorme lista de personajes originales, cada uno con habilidades únicas. Todos ellos utilizan una amplia variedad de armas, desde katanas hasta mosquetes.\n\nAdemás de varios modos competitivos en los que podrás formar equipo con tus amigos, NARAKA: BLADEPOINT también ofrece el modo campaña, nuevos contenidos de temporada y un profundo sistema de personalización facial, pocas veces visto en Battle Royale.\n\nMás de 20 millones de jugadores ya han entrado en la batalla, ¡ahora es tu turno!\n\nCentrado en el combate cuerpo a cuerpo\nDinámico, trepidante y siempre cambiante, lucha contra tus enemigos con combos, bloqueos y golpes feroces, o sé más astuto que ellos con contraataques letales en un juego intenso.\n\nMovimiento sin límites\nAtraviesa paredes, déjate caer desde grandes alturas y atraviesa montañas y edificios con facilidad mientras das caza a enemigos desprevenidos utilizando tu gancho y tus habilidades de parkour.\n\nTu creación. Tu estilo de juego\nCombina una gran variedad de armas cuerpo a cuerpo y a distancia con nuestros poderosos héroes, cada uno de los cuales cuenta con habilidades normales y definitivas únicas.\n\nLeyendas de Oriente\nViaja a la magnífica y peligrosa tierra de Morus y Holoroth, donde grandes batallas han dado forma a un hermoso paisaje inspirado en las leyendas del Lejano Oriente.",
@@ -36806,6 +36111,7 @@
       ],
       "tiers": [
         "pc",
+        "premium",
         "ultimate"
       ],
       "platform": "both",
@@ -37307,7 +36613,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 2.2,
-      "ratingCount": 124,
+      "ratingCount": 125,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -37366,7 +36672,7 @@
           "recommended": "Mouse integrado"
         }
       ],
-      "maxInstallSize": 114264391680,
+      "maxInstallSize": 116618661888,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/once-human/9N0QWXC09MPT"
     },
@@ -37806,11 +37112,11 @@
         "ultimate"
       ],
       "platform": "pc",
-      "price": 24.99,
+      "price": 6.24,
       "msrp": 24.99,
       "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
+      "hasDiscount": true,
+      "discountPercent": 75,
       "rating": 2.5,
       "ratingCount": 275,
       "ageRating": 3,
@@ -38366,7 +37672,7 @@
           "recommended": "Micrófono integrado"
         }
       ],
-      "maxInstallSize": 25596813312,
+      "maxInstallSize": 25620480000,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/pax-dei/9PHGK0538TXM"
     },
@@ -39424,6 +38730,7 @@
       ],
       "tiers": [
         "pc",
+        "premium",
         "ultimate"
       ],
       "platform": "both",
@@ -41938,7 +41245,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 1.6,
-      "ratingCount": 47,
+      "ratingCount": 48,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -42007,6 +41314,7 @@
         "Campo de batalla en línea para varios jugadores"
       ],
       "tiers": [
+        "essential",
         "pc",
         "premium",
         "ultimate"
@@ -42710,7 +42018,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.4,
-      "ratingCount": 254,
+      "ratingCount": 256,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -43280,7 +42588,7 @@
           "recommended": "Controladora de Xbox"
         }
       ],
-      "maxInstallSize": 37877690368,
+      "maxInstallSize": 37881253888,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/roadcraft/9N4J937WLFPZ"
     },
@@ -43672,6 +42980,7 @@
       ],
       "tiers": [
         "pc",
+        "premium",
         "ultimate"
       ],
       "platform": "both",
@@ -43745,8 +43054,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 0,
-      "ratingCount": 0,
+      "rating": 3.7,
+      "ratingCount": 9,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -43766,7 +43075,6 @@
         "60 fps +",
         "Sonido espacial",
         "Optimizado para Xbox Series X|S",
-        "Mouse y teclado de la consola",
         "Logros de Xbox",
         "Presencia de Xbox",
         "Cosas guardadas en la nube de Xbox",
@@ -43824,7 +43132,7 @@
           "recommended": "Controladora de Xbox"
         }
       ],
-      "maxInstallSize": 42201350144,
+      "maxInstallSize": 42201403392,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/runescape-dragonwilds/9P402RWR63H4"
     },
@@ -44253,7 +43561,7 @@
           "recommended": "Mouse integrado"
         }
       ],
-      "maxInstallSize": 467406848,
+      "maxInstallSize": 467488768,
       "hasAddOns": false,
       "storeUrl": "https://www.xbox.com/es-es/games/store/sandustry-versi-n-preliminar-del-juego/9PPH71DV44T7"
     },
@@ -44950,13 +44258,13 @@
         "ultimate"
       ],
       "platform": "both",
-      "price": 3.99,
+      "price": 4.99,
       "msrp": 4.99,
       "currency": "EUR",
-      "hasDiscount": true,
-      "discountPercent": 20,
+      "hasDiscount": false,
+      "discountPercent": 0,
       "rating": 4.7,
-      "ratingCount": 49,
+      "ratingCount": 51,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -46287,97 +45595,6 @@
       "maxInstallSize": 2593775616,
       "hasAddOns": false,
       "storeUrl": "https://www.xbox.com/es-es/games/store/speedrunners-2-king-of-speed/9PPKR9N31BW6"
-    },
-    {
-      "id": "9NG5L58FD3X5",
-      "title": "Spiritfarer: Edición Farewell",
-      "description": "Spiritfarer® es un juego de gestión sobre la muerte. Eres Stella, guía de los espíritus, y la maestre de un ferri que transporta a los muertos. Construye un barco para explorar el mundo, hazte amiga de los espíritus y cuida de ellos antes de guiarlos hasta el más allá. Cultiva, extrae recursos, pesca, cosecha, cocina y fabrica en los mares místicos. Únete a la aventura como el gato Daffodil en el modo cooperativo para dos jugadores. Diviértete y relájate con los espíritus pasajeros, crea recuerdos inolvidables y aprende a despedirte de los que más quieres.\r\n\r\nLa edición Farewell de Spiritfarer® es la edición definitiva de este juego de gestión sobre la muerte. Te ofrece el juego base que ya ha cautivado a más de un millón de jugadores, además de todo el contenido adicional publicado hasta la fecha. Descubre por qué Spiritfarer es uno de los mejores juegos del 2020 según la crítica.",
-      "shortDescription": "Spiritfarer es un juego de gestión sobre la muerte. Como maestre de un ferri que transporta a las almas, deberás construir un barco para explorar el mundo, cuidar de tus amigos espíritus y guiarlos por los mares místicos camino del más allá.",
-      "developer": "Thunder Lotus",
-      "publisher": "Thunder Lotus",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.25623.13581632098060782.9aea914f-fc5f-474f-a052-eac22427e863.e0e90c3e-1d1b-42e8-8b26-feef9d36a235",
-      "heroImage": "https://store-images.s-microsoft.com/image/apps.13173.13581632098060782.9aea914f-fc5f-474f-a052-eac22427e863.a3894bd4-6307-4ceb-a88c-4b93b686f70d",
-      "screenshots": [
-        "https://store-images.s-microsoft.com/image/apps.10967.13581632098060782.4bd34a2f-1267-46df-919c-27861ca2efe3.82524747-1d18-4697-9de7-67f67d498a2b",
-        "https://store-images.s-microsoft.com/image/apps.7021.13581632098060782.4bd34a2f-1267-46df-919c-27861ca2efe3.a6245999-2f93-4f7d-8223-7ce3a0ae8b75",
-        "https://store-images.s-microsoft.com/image/apps.1324.13581632098060782.4bd34a2f-1267-46df-919c-27861ca2efe3.933f0f52-db79-44fc-a054-b34a9f3da448",
-        "https://store-images.s-microsoft.com/image/apps.44351.13581632098060782.4bd34a2f-1267-46df-919c-27861ca2efe3.0d5149bb-c49b-49fb-96e3-e4d89c881ef4"
-      ],
-      "videoUrl": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftassets/d206e030-14cf-418f-9fa5-d3df28cac75a-AVS.m3u8?packagedStreaming=true",
-      "videoCaption": "Spiritfarer Lily Update Trailer",
-      "releaseDate": "2020-08-18",
-      "categories": [
-        "Acción y aventura",
-        "Plataformas",
-        "Simulación"
-      ],
-      "tiers": [
-        "essential",
-        "pc",
-        "premium",
-        "ultimate"
-      ],
-      "platform": "both",
-      "price": 28.99,
-      "msrp": 28.99,
-      "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
-      "rating": 3.7,
-      "ratingCount": 223,
-      "ageRating": 12,
-      "pegiRating": "PEGI 12",
-      "pegiDescription": "Apropiado a partir de 12 años",
-      "interactiveDescriptions": [],
-      "capabilities": [
-        "Cooperación local de Xbox (2-2)",
-        "Un jugador",
-        "Frecuencia de actualización variable",
-        "Logros de Xbox",
-        "Presencia de Xbox",
-        "Cosas guardadas en la nube de Xbox",
-        "Xbox Play Anywhere"
-      ],
-      "systemRequirements": [
-        {
-          "title": "SO",
-          "minimum": "Windows 10 version 17763.0 or higher",
-          "recommended": "Windows 10 version 17763.0 or higher"
-        },
-        {
-          "title": "Arquitectura",
-          "minimum": "x64",
-          "recommended": "x64"
-        },
-        {
-          "title": "Teclado",
-          "minimum": "Teclado integrado",
-          "recommended": ""
-        },
-        {
-          "title": "DirectX",
-          "minimum": "Versión 10",
-          "recommended": "Versión 11"
-        },
-        {
-          "title": "Memoria",
-          "minimum": "4 GB",
-          "recommended": "8 GB"
-        },
-        {
-          "title": "Memoria de vídeo",
-          "minimum": "1 GB",
-          "recommended": "4 GB"
-        },
-        {
-          "title": "Controladora",
-          "minimum": "",
-          "recommended": "Controladora de Xbox"
-        }
-      ],
-      "maxInstallSize": 6471344128,
-      "hasAddOns": false,
-      "storeUrl": "https://www.xbox.com/es-es/games/store/spiritfarer-edici-n-farewell/9NG5L58FD3X5"
     },
     {
       "id": "BWHFZNSL0PB5",
@@ -48835,103 +48052,6 @@
       "storeUrl": "https://www.xbox.com/es-es/games/store/superhot-mind-control-delete/9NRH78B682L8"
     },
     {
-      "id": "9NVR4ZQKNBSB",
-      "title": "Superliminal",
-      "description": "Son las 3 de la mañana, te estás quedando dormido y cierras los ojos mientras escuchas un aburrido anuncio sobre la terapia de sueño del Dr. Pierce. Despiertas en un lugar que no conoces, solo para darte cuenta de que estás atrapado en un sueño: un sueño en el que la percepción es la realidad. Bienvenido a Superliminal. \r\n\r\nSuperliminal es un juego de rompecabezas en primera persona basado en la perspectiva y las ilusiones ópticas. Los jugadores se enfrentan a puzles imposibles en los que tendrán que pensar de forma muy diferente y esperar que ocurra lo más inesperado. \r\n\r\nEste juego contiene un mundo alterado de forma maravillosa, está narrado con una voz intrigante y en él encontrarás cosas realmente extrañas.",
-      "shortDescription": "La percepción es la realidad. Consigue escapar de este sueño alucinante resolviendo rompecabezas imposibles y usando tu perspectiva.",
-      "developer": "Pillow Castle",
-      "publisher": "Pillow Castle",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.31620.14393569011623061.24d2b16b-20df-48f4-b265-623d2c0e948a.c3577c03-647c-443c-94bc-fa43a7f08bba",
-      "heroImage": "https://store-images.s-microsoft.com/image/apps.1690.14393569011623061.24d2b16b-20df-48f4-b265-623d2c0e948a.b161efbf-815b-4aee-9d82-f815731bd218",
-      "screenshots": [
-        "https://store-images.s-microsoft.com/image/apps.19342.14393569011623061.24d2b16b-20df-48f4-b265-623d2c0e948a.4d5c6c40-9d8f-4d32-a88b-02bb6cf74794",
-        "https://store-images.s-microsoft.com/image/apps.12676.14393569011623061.24d2b16b-20df-48f4-b265-623d2c0e948a.4db03220-22c6-498c-aeb8-809549ae20f1",
-        "https://store-images.s-microsoft.com/image/apps.55983.14393569011623061.24d2b16b-20df-48f4-b265-623d2c0e948a.6b887965-4bd3-42ac-8169-e99425374452",
-        "https://store-images.s-microsoft.com/image/apps.23766.14393569011623061.24d2b16b-20df-48f4-b265-623d2c0e948a.e7543644-81bd-4dbd-a38f-b3186ebf98f5"
-      ],
-      "videoUrl": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftassets/8639092e-62c7-41b0-b6bf-a6826547caba-AVS.m3u8?packagedStreaming=true",
-      "videoCaption": "Superliminal",
-      "releaseDate": "2020-07-06",
-      "categories": [
-        "Acción y aventura",
-        "Puzles y curiosidades",
-        "Shooter"
-      ],
-      "tiers": [
-        "essential",
-        "pc",
-        "premium",
-        "ultimate"
-      ],
-      "platform": "both",
-      "price": 19.99,
-      "msrp": 19.99,
-      "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
-      "rating": 4.6,
-      "ratingCount": 312,
-      "ageRating": 12,
-      "pegiRating": "PEGI 12",
-      "pegiDescription": "Apropiado a partir de 12 años",
-      "interactiveDescriptions": [],
-      "capabilities": [
-        "4K Ultra HD",
-        "Un jugador",
-        "60 fps +",
-        "Optimizado para Xbox Series X|S",
-        "Entrega inteligente",
-        "Logros de Xbox",
-        "Cosas guardadas en la nube de Xbox",
-        "Xbox Play Anywhere"
-      ],
-      "systemRequirements": [
-        {
-          "title": "SO",
-          "minimum": "Windows 10 version 18362.0 or higher",
-          "recommended": "Windows 10 version 18362.0 or higher"
-        },
-        {
-          "title": "Arquitectura",
-          "minimum": "x64",
-          "recommended": "x64"
-        },
-        {
-          "title": "Teclado",
-          "minimum": "Teclado integrado",
-          "recommended": "Teclado integrado"
-        },
-        {
-          "title": "Mouse",
-          "minimum": "Mouse integrado",
-          "recommended": "Mouse integrado"
-        },
-        {
-          "title": "Controladora",
-          "minimum": "Controladora de Xbox",
-          "recommended": "Controladora de Xbox"
-        },
-        {
-          "title": "DirectX",
-          "minimum": "Versión 10",
-          "recommended": "API de DirectX 12, nivel de característica de hardware 12"
-        },
-        {
-          "title": "Memoria",
-          "minimum": "12 GB",
-          "recommended": "16 GB"
-        },
-        {
-          "title": "Memoria de vídeo",
-          "minimum": "4 GB",
-          "recommended": "6 GB"
-        }
-      ],
-      "maxInstallSize": 15486148608,
-      "hasAddOns": false,
-      "storeUrl": "https://www.xbox.com/es-es/games/store/superliminal/9NVR4ZQKNBSB"
-    },
-    {
       "id": "9NR0GCBSLDW4",
       "title": "Supermarket Simulator",
       "description": "Diseña tu tienda optimizando eficiencia y estética. Determina dónde se exhiben los productos, gestiona los pasillos y asegura una experiencia de compra fluida para tus clientes.\nHaz pedidos usando un ordenador dentro del juego. Desempaqueta los productos, organízalos en el almacén y colócalos en estanterías, frigoríficos y congeladores\nEscanea los productos, cobra en efectivo o tarjeta y asegúrate de que los clientes salgan satisfechos con su experiencia de compra y pago.\nNavega por las complejidades de un mercado en tiempo real. Compra productos cuando los precios bajen y establece los mejores precios de venta para equilibrar la satisfacción del cliente con el margen de beneficio.\nA medida que acumules beneficios, considera reinvertir. Amplía el espacio físico de tu tienda, mejora los interiores y adáptate continuamente a las demandas cambiantes del mundo minorista.\nPersonaliza tu tienda para hacerla única. Personaliza los suelos, pinta las paredes, coloca carteles de categorías y más.\nNo todos los clientes visitan tu tienda personalmente. Recibe pedidos en línea, prepara sus paquetes y entrégaselos en persona.\n¿Cansado de pagar gastos de envío o buscando precios con descuento? Visita los mercados locales para conseguir las mejores ofertas.\nHaz que tu tienda brille. Limpia el suelo, saca la basura y pule las ventanas para que tu tienda quede impecable.\nNo todos son clientes que pagan. Usa herramientas de seguridad como cámaras y alarmas o contrata guardias de seguridad para mantener tu tienda segura contra los ladrones.\n\"Supermarket Simulator\" es una simulación relajada en primera persona donde cada detalle de administrar un supermercado cobra vida.\nEn \"Supermarket Simulator\", cada decisión importa. ¿Estarás a la altura, transformando un establecimiento modesto en una potencia minorista, todo mientras equilibras la satisfacción del cliente y las finanzas?",
@@ -49933,11 +49053,11 @@
         "ultimate"
       ],
       "platform": "both",
-      "price": 17.49,
+      "price": 34.99,
       "msrp": 34.99,
       "currency": "EUR",
-      "hasDiscount": true,
-      "discountPercent": 50,
+      "hasDiscount": false,
+      "discountPercent": 0,
       "rating": 4.6,
       "ratingCount": 190,
       "ageRating": 16,
@@ -51271,7 +50391,7 @@
           "recommended": "4 GB"
         }
       ],
-      "maxInstallSize": 189787443200,
+      "maxInstallSize": 191988965376,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/the-elder-scrolls-online-standard-edition/BRKX5CRMRTC2"
     },
@@ -53005,11 +52125,11 @@
         "ultimate"
       ],
       "platform": "both",
-      "price": 12.24,
+      "price": 34.99,
       "msrp": 34.99,
       "currency": "EUR",
-      "hasDiscount": true,
-      "discountPercent": 65,
+      "hasDiscount": false,
+      "discountPercent": 0,
       "rating": 4.2,
       "ratingCount": 29,
       "ageRating": 16,
@@ -55201,106 +54321,6 @@
       "storeUrl": "https://www.xbox.com/es-es/games/store/trailmakers/9NSFGM8J6MBJ"
     },
     {
-      "id": "9N9FR8CSZP56",
-      "title": "Train Sim World® 5: Standard Edition",
-      "description": "¡Las vías son suyas en Train Sim World 5! Asuma nuevos desafíos y nuevos papeles a medida que domina las vías y los trenes de ciudades icónicas a través de 3 nuevas rutas. Sumérjase en lo último del ferrocarril y embárquese en su próximo viaje.\n\nQuedará fascinado con el caos de viajeros de la WEST COAST MAIN LINE, incluida la Northwestern Class 350 y también otras.\n\nLa variedad abunda en las curvas y giros de KINZIGTALBAHN con la DB BR 411 ICE-T inclinable y muchas otras.\n\nLas soleadas vías de la SAN BERNARDINO LINE acogen las circulaciones de Metrolink, con la MP36 y la F125.\n\n¡Una nueva forma de jugar! El MODO REVISOR le coloca en el papel de un revisor/supervisor en cualquier servicio. SALTOS DE RUTA: viaje a través de diferentes rutas para vivir la acción de cualquier estación. MAPA EN VIVO: Obtenga una vista de pájaro en tiempo real de cualquier ruta, familiarícese con las ubicaciones de las estaciones. Embárquese en su nuevo viaje, a su manera, con el CREATORS CLUB, el MODO DE FOTOGRAFÍA y otras.\n\nCiertas características del juego, incluida la comunicación online y otras características online, pueden no resultar accesibles a cuentas infantiles de Xbox. En Xbox, «infantil» hace referencia a jugadores menores de 13 años, a no ser que las leyes locales lo especifiquen de manera diferente.\n\nAtención: Debido a la capacidad de las consolas del tipo Xbox One (Xbox One, Xbox One S, Xbox One X) y las Xbox Series S, los jugadores que utilicen estas plataformas puede que encuentren una programación y una experiencia diferentes para ajustar el rendimiento. Para saber más, por favor diríjase al Dovetail Games Support Centre y busque «Train Sim World 5 FAQ».\n",
-      "shortDescription": "¡Las vías son suyas en Train Sim World 5! Asuma nuevos desafíos y nuevos papeles a medida que domina las vías y los trenes de ciudades icónicas a través de 3 nuevas rutas. Sumérjase en lo último del ferrocarril y embárquese en su próximo viaje.",
-      "developer": "Dovetail Games",
-      "publisher": "Dovetail Games",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.40169.13533673129408975.95f4b180-e431-4714-922e-b555f8c6879d.9433236d-417c-4930-9bb0-16ebc5cf6be1",
-      "heroImage": "https://store-images.s-microsoft.com/image/apps.51939.13533673129408975.95f4b180-e431-4714-922e-b555f8c6879d.3f34437e-d063-4124-b1fe-7a6aeaa1754a",
-      "screenshots": [
-        "https://store-images.s-microsoft.com/image/apps.65086.13533673129408975.95f4b180-e431-4714-922e-b555f8c6879d.51b703b0-3c32-43d5-974c-b332dfffb6c0",
-        "https://store-images.s-microsoft.com/image/apps.42803.13533673129408975.95f4b180-e431-4714-922e-b555f8c6879d.0810cff8-6413-49b5-bdbb-98a79383e661",
-        "https://store-images.s-microsoft.com/image/apps.62258.13533673129408975.95f4b180-e431-4714-922e-b555f8c6879d.8a14e824-59f7-4b59-9130-27f2541edf23",
-        "https://store-images.s-microsoft.com/image/apps.32514.13533673129408975.95f4b180-e431-4714-922e-b555f8c6879d.1d49eb15-6304-4a7b-b4e7-3b8240cee81a"
-      ],
-      "videoUrl": "",
-      "videoCaption": "",
-      "releaseDate": "2024-09-17",
-      "categories": [
-        "Simulación"
-      ],
-      "tiers": [
-        "pc",
-        "premium",
-        "ultimate"
-      ],
-      "platform": "both",
-      "price": 44.99,
-      "msrp": 44.99,
-      "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
-      "rating": 2.8,
-      "ratingCount": 25,
-      "ageRating": 3,
-      "pegiRating": "PEGI 3",
-      "pegiDescription": "Apropiado a partir de 3 años",
-      "interactiveDescriptions": [
-        "Interacción de usuarios",
-        "Compras dentro del juego"
-      ],
-      "capabilities": [
-        "4K Ultra HD",
-        "Un jugador",
-        "Optimizado para Xbox Series X|S",
-        "Entrega inteligente",
-        "Controlador para juegos para PC",
-        "Xbox Play Anywhere"
-      ],
-      "systemRequirements": [
-        {
-          "title": "SO",
-          "minimum": "Windows 10 version 18362.0 or higher",
-          "recommended": "Windows 10 version 18362.0 or higher"
-        },
-        {
-          "title": "Arquitectura",
-          "minimum": "x64",
-          "recommended": "x64"
-        },
-        {
-          "title": "Gráficos",
-          "minimum": "NVIDIA GeForce GTX 750 Ti or AMD Radeon RX 460 with 2 GB VRAM or more",
-          "recommended": "NVIDIA GeForce RTX 2060 6 GB GB/AMD Radeon RX 5700 8 GB"
-        },
-        {
-          "title": "Procesador",
-          "minimum": "Intel Core i5-4690 @ 3.5 GHz or AMD Ryzen 5 1500X @ 3.7 GHz",
-          "recommended": "Intel Core i5-9600K @ 3.7 GHz/AMD Ryzen 5 3600 @ 3.6 GHz"
-        },
-        {
-          "title": "Teclado",
-          "minimum": "Teclado integrado",
-          "recommended": ""
-        },
-        {
-          "title": "Mouse",
-          "minimum": "Mouse integrado",
-          "recommended": ""
-        },
-        {
-          "title": "DirectX",
-          "minimum": "Versión 10",
-          "recommended": "Versión 10"
-        },
-        {
-          "title": "Memoria",
-          "minimum": "8 GB",
-          "recommended": "16 GB"
-        },
-        {
-          "title": "Controladora",
-          "minimum": "",
-          "recommended": "Controladora de Xbox"
-        }
-      ],
-      "maxInstallSize": 7230242816,
-      "hasAddOns": true,
-      "storeUrl": "https://www.xbox.com/es-es/games/store/train-sim-world-5-standard-edition/9N9FR8CSZP56"
-    },
-    {
       "id": "9NKDZ44LZR2R",
       "title": "Transference",
       "description": "Disponible con RV y sin RV.\n\nImagina un \"escape room\" en una mente trastornada. Explora una nueva y escalofriante dimensión en este juego en primera persona. Conoce a una familia desde tres perspectivas con el experimento de un científico perturbado e intenta desentrañar el misterio oculto en este intrincado thriller psicológico.\n\nUN THRILLER QUE PARECE UNA PELÍCULA\nProyéctate en una experiencia narrativa que combina el cine y los videojuegos, y sumérgete en un inquietante thriller psicológico.\n\nRESUELVE EL MISTERIO\nReconstruye una familia dividida mientras te adentras en la conciencia perturbada de cada uno de sus miembros. Conoce sus perspectivas e intenta descifrar el misterio.\n\nTU EXPERIENCIA ES ÚNICA\nEn este relato de misterio en primera persona explorarás todo lo que rodea a este hogar familiar para interpretar los hechos y descubrir tu verdad.\n\n\n\n",
@@ -55998,7 +55018,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 2.3,
-      "ratingCount": 100,
+      "ratingCount": 101,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -56053,6 +55073,7 @@
       ],
       "tiers": [
         "pc",
+        "premium",
         "ultimate"
       ],
       "platform": "both",
@@ -56756,7 +55777,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.8,
-      "ratingCount": 500,
+      "ratingCount": 501,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -57547,7 +56568,7 @@
           "recommended": "Mouse integrado"
         }
       ],
-      "maxInstallSize": 77774995456,
+      "maxInstallSize": 78649016320,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/war-thunder/BX1DTCBD1HXJ"
     },
