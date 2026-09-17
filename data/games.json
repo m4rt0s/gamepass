@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-09-16T12:54:42.955Z",
+  "updatedAt": "2026-09-17T12:51:02.129Z",
   "market": "ES",
   "language": "es-ES",
-  "totalGames": 816,
+  "totalGames": 817,
   "counts": {
     "essential": 128,
-    "premium": 579,
-    "pc": 472,
-    "ultimate": 723,
-    "total": 816
+    "premium": 580,
+    "pc": 473,
+    "ultimate": 724,
+    "total": 817
   },
   "categories": [
     "Acción y aventura",
@@ -1102,7 +1102,7 @@
         "Xbox Play Anywhere"
       ],
       "systemRequirements": [],
-      "maxInstallSize": 65640525824,
+      "maxInstallSize": 68235837440,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/age-of-empires-ii-definitive-edition/9N42SSSX2MTG"
     },
@@ -1911,8 +1911,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 4.3,
-      "ratingCount": 6,
+      "rating": 4,
+      "ratingCount": 16,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -1992,7 +1992,7 @@
           "recommended": "Micrófono integrado"
         }
       ],
-      "maxInstallSize": 31691771904,
+      "maxInstallSize": 31697092608,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/aniimo/9PK8PHLCQDF6"
     },
@@ -2971,7 +2971,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.7,
-      "ratingCount": 21133,
+      "ratingCount": 21134,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -5495,7 +5495,7 @@
       "hasDiscount": true,
       "discountPercent": 70,
       "rating": 4.3,
-      "ratingCount": 136,
+      "ratingCount": 137,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -11338,7 +11338,7 @@
           "recommended": "Mouse integrado"
         }
       ],
-      "maxInstallSize": 29812768768,
+      "maxInstallSize": 29813297152,
       "hasAddOns": false,
       "storeUrl": "https://www.xbox.com/es-es/games/store/corsair-cove/9PHS0189K408"
     },
@@ -12772,11 +12772,11 @@
         "ultimate"
       ],
       "platform": "console",
-      "price": 7.49,
+      "price": 49.99,
       "msrp": 49.99,
       "currency": "EUR",
-      "hasDiscount": true,
-      "discountPercent": 85,
+      "hasDiscount": false,
+      "discountPercent": 0,
       "rating": 4.3,
       "ratingCount": 249,
       "ageRating": 18,
@@ -16430,11 +16430,11 @@
         "ultimate"
       ],
       "platform": "both",
-      "price": 19.99,
+      "price": 4.99,
       "msrp": 19.99,
       "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
+      "hasDiscount": true,
+      "discountPercent": 75,
       "rating": 3.8,
       "ratingCount": 195,
       "ageRating": 12,
@@ -17000,7 +17000,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 2.2,
-      "ratingCount": 173,
+      "ratingCount": 174,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -19022,7 +19022,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.4,
-      "ratingCount": 1570,
+      "ratingCount": 1571,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -19120,13 +19120,13 @@
         "ultimate"
       ],
       "platform": "console",
-      "price": 39.99,
+      "price": 9.99,
       "msrp": 39.99,
       "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
+      "hasDiscount": true,
+      "discountPercent": 75,
       "rating": 3.3,
-      "ratingCount": 271,
+      "ratingCount": 272,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -19181,11 +19181,11 @@
         "ultimate"
       ],
       "platform": "pc",
-      "price": 39.99,
+      "price": 9.99,
       "msrp": 39.99,
       "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
+      "hasDiscount": true,
+      "discountPercent": 75,
       "rating": 2.8,
       "ratingCount": 852,
       "ageRating": 18,
@@ -22137,13 +22137,13 @@
       "shortDescription": "Todo lo que más te gusta está en Fortnite. \n\nLánzate a la acción de siempre o descubre algo nuevo con tu escuadrón. Consigue ser el último jugador en pie en Battle Royale. Siente la nostalgia en Fortnite: Orígenes. Juega de forma táctica en Recarga. Conviértete en la estrella de Fortnite Festival. Explora los mundos de LEGO Fortnite. Siempre hay algo nuevo que hacer para ti y tus amigos.\n\nJuega a miles de juegos creados por desarrolladores, como deathruns, juegos de gestión, carreras, supervivencia zombi y mucho más. También puedes crear tus propios juegos con Unreal Editor para Fortnite (UEFN) o las herramientas del modo Creativo de Fortnite para que los juegue todo el mundo.  Cada juego tiene una clasificación por edades individual para que encuentres el más adecuado para ti.",
       "developer": "Epic Games Inc.",
       "publisher": "Epic Games Inc.",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.19309.70702278257994163.7867c110-12f5-414d-88b4-e851aea24391.e7460671-6dd2-47d7-af59-71118b6d060c",
-      "heroImage": "https://store-images.s-microsoft.com/image/apps.6768.70702278257994163.7867c110-12f5-414d-88b4-e851aea24391.105f573e-af63-41b2-8408-3033f70f104d",
+      "imageUrl": "https://store-images.s-microsoft.com/image/apps.8083.70702278257994163.7f7e49d8-bf13-4838-8f72-548542e51d08.a1739f68-9454-40eb-ba60-81ec2d35e413",
+      "heroImage": "https://store-images.s-microsoft.com/image/apps.25635.70702278257994163.7f7e49d8-bf13-4838-8f72-548542e51d08.d3460053-6d86-4c4d-98ec-f661529c0fc9",
       "screenshots": [
-        "https://store-images.s-microsoft.com/image/apps.6254.70702278257994163.7867c110-12f5-414d-88b4-e851aea24391.7c9b97b8-3bf5-4876-999a-bfc96781d868",
         "https://store-images.s-microsoft.com/image/apps.51181.70702278257994163.9020fde9-23f7-404c-9b79-758e4925f789.dd20bd39-8c32-408f-aae2-05d7d7924808",
         "https://store-images.s-microsoft.com/image/apps.60584.70702278257994163.c945029a-4946-44ef-b5c7-b072f07eb636.30903f94-131c-4a06-b912-93a3f847a74e",
-        "https://store-images.s-microsoft.com/image/apps.45321.70702278257994163.82153f73-d018-4d23-bb4f-14433178e3a6.4199f993-ace7-4a87-8ca0-a18d07e6d9cc"
+        "https://store-images.s-microsoft.com/image/apps.45321.70702278257994163.82153f73-d018-4d23-bb4f-14433178e3a6.4199f993-ace7-4a87-8ca0-a18d07e6d9cc",
+        "https://store-images.s-microsoft.com/image/apps.30681.70702278257994163.c945029a-4946-44ef-b5c7-b072f07eb636.6e6dc827-6c42-4e3b-af68-29f8892be5d7"
       ],
       "videoUrl": "https://cdn.trailers.xboxservices.com/trailers/00000000-0000-0000-0000-000000000000/xbox/prod/videos/mainprofile/70702278257994163/4918c9a7-e120-4fa0-9b50-ce20bb87be53/manifest.m3u8",
       "videoCaption": "Chapter 7 Season 4 Trailer",
@@ -22165,7 +22165,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.7,
-      "ratingCount": 4493,
+      "ratingCount": 4495,
       "ageRating": 12,
       "pegiRating": "Supervisión parental recomendada",
       "pegiDescription": "Supervisión parental recomendada",
@@ -22195,7 +22195,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 95276675072,
+      "maxInstallSize": 95538278400,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/fortnite/BT5P2X999VH2"
     },
@@ -24104,11 +24104,11 @@
         "ultimate"
       ],
       "platform": "both",
-      "price": 69.99,
+      "price": 17.49,
       "msrp": 69.99,
       "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
+      "hasDiscount": true,
+      "discountPercent": 75,
       "rating": 4.2,
       "ratingCount": 270,
       "ageRating": 12,
@@ -24273,7 +24273,7 @@
           "recommended": "Controladora de Xbox"
         }
       ],
-      "maxInstallSize": 2700980224,
+      "maxInstallSize": 2701074432,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/goals/9PF2ZS4XB4JH"
     },
@@ -25714,7 +25714,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.8,
-      "ratingCount": 178,
+      "ratingCount": 179,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -27979,7 +27979,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.2,
-      "ratingCount": 909,
+      "ratingCount": 910,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -31000,7 +31000,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 32391069696,
+      "maxInstallSize": 32448712704,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/los-sims-4-edici-n-ea-play/9PLFD17M47K3"
     },
@@ -31199,7 +31199,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.3,
-      "ratingCount": 76,
+      "ratingCount": 77,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -32848,7 +32848,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.7,
-      "ratingCount": 51647,
+      "ratingCount": 51655,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -32957,7 +32957,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 2276147200,
+      "maxInstallSize": 2276192256,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/minecraft/9MVXMVT8ZKWC"
     },
@@ -33231,7 +33231,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4,
-      "ratingCount": 15880,
+      "ratingCount": 15888,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -33426,7 +33426,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.5,
-      "ratingCount": 61538,
+      "ratingCount": 61546,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -33480,7 +33480,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.9,
-      "ratingCount": 76,
+      "ratingCount": 77,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -33728,7 +33728,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 2.9,
-      "ratingCount": 66,
+      "ratingCount": 67,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -33804,7 +33804,7 @@
           "recommended": "Micrófono integrado"
         }
       ],
-      "maxInstallSize": 38068887552,
+      "maxInstallSize": 38068969472,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/mistfall-hunter/9P8X6TVW9ZW8"
     },
@@ -34544,7 +34544,7 @@
           "recommended": "Controladora de Xbox"
         }
       ],
-      "maxInstallSize": 5983907840,
+      "maxInstallSize": 5971181568,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/moonlighter-2-the-endless-vault/9NDJX252Q5BW"
     },
@@ -34581,7 +34581,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.6,
-      "ratingCount": 99,
+      "ratingCount": 100,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -34944,7 +34944,7 @@
           "recommended": "Controladora de Xbox"
         }
       ],
-      "maxInstallSize": 105480118272,
+      "maxInstallSize": 106264629248,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/naraka-bladepoint/9P8SQQJ5T94B"
     },
@@ -35620,11 +35620,11 @@
         "ultimate"
       ],
       "platform": "both",
-      "price": 13.49,
+      "price": 89.99,
       "msrp": 89.99,
       "currency": "EUR",
-      "hasDiscount": true,
-      "discountPercent": 85,
+      "hasDiscount": false,
+      "discountPercent": 0,
       "rating": 4.5,
       "ratingCount": 65,
       "ageRating": 12,
@@ -36229,11 +36229,11 @@
         "ultimate"
       ],
       "platform": "both",
-      "price": 19.99,
+      "price": 49.99,
       "msrp": 49.99,
       "currency": "EUR",
-      "hasDiscount": true,
-      "discountPercent": 60,
+      "hasDiscount": false,
+      "discountPercent": 0,
       "rating": 3.9,
       "ratingCount": 773,
       "ageRating": 12,
@@ -36613,7 +36613,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 2.2,
-      "ratingCount": 125,
+      "ratingCount": 126,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -40840,7 +40840,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.5,
-      "ratingCount": 298,
+      "ratingCount": 299,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -41326,7 +41326,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 2.7,
-      "ratingCount": 141,
+      "ratingCount": 140,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -42018,7 +42018,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.4,
-      "ratingCount": 256,
+      "ratingCount": 261,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -42725,7 +42725,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.2,
-      "ratingCount": 225,
+      "ratingCount": 226,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -43054,8 +43054,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 3.7,
-      "ratingCount": 9,
+      "rating": 3.5,
+      "ratingCount": 13,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -43691,11 +43691,11 @@
         "ultimate"
       ],
       "platform": "both",
-      "price": 39.99,
+      "price": 13.99,
       "msrp": 39.99,
       "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
+      "hasDiscount": true,
+      "discountPercent": 65,
       "rating": 3.7,
       "ratingCount": 2992,
       "ageRating": 12,
@@ -43778,7 +43778,7 @@
           "recommended": "Micrófono integrado"
         }
       ],
-      "maxInstallSize": 141944705024,
+      "maxInstallSize": 142802898944,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/sea-of-thieves-2026-edition/9P2N57MC619K"
     },
@@ -44227,6 +44227,117 @@
       "storeUrl": "https://www.xbox.com/es-es/games/store/shadowrun-hong-kong-extended-edition-pc/9NK2DT3K7DTF"
     },
     {
+      "id": "9PK0DZ68LGC0",
+      "title": "Shape of Dreams",
+      "description": "Shape of Dreams es un roguelite de acción que combina combates hack-and-slash, juego en equipo al estilo MOBA y decisiones estratégicas.\nViaja por mundos variados, desde campos de lava ardiente y montañas cubiertas por tormentas de nieve hasta un cosmos lleno de estrellas.\nEsquiva oleadas de enemigos, usa tus habilidades con precisión y supera cada batalla con decisiones rápidas.\nEn solitario, enfréntate a un desafío intenso centrado en tu habilidad.\nEn cooperativo de hasta 4 jugadores, vive poderosas sinergias cuando distintos estilos de combate se combinan.\nCombina habilidades y mejoras que cambian constantemente para abrir tu propio camino de progresión y desafiar el mundo de los sueños de una forma nueva.\nNingún desafío es igual a otro, y ningún build o estrategia fija te llevará siempre a la victoria.\n\n9 Viajeros, cada uno con un estilo de combate distinto\n\nDesde ataques rápidos cuerpo a cuerpo y habilidades de precisión hasta ataques de gran área y estilos de apoyo, cada Viajero encara el combate de una manera diferente.\nCrea tu build en torno al estilo de combate del Viajero que elijas y enfrenta a tus enemigos de una forma nueva en cada partida.\n\nSolo y cooperativo, dos formas de luchar\n\nEn solitario, esquiva los ataques enemigos, usa tus habilidades con precisión y moldea tu build a través de tus propias decisiones.\nEn cooperativo de hasta 4 jugadores, el combate se vuelve todavía más variado.\nCuando las habilidades y builds de distintos Viajeros se combinan, surgen combinaciones poderosas y sinergias explosivas que serían imposibles de crear en solitario.\n\nCrea tu propio build\n\nUsa opciones que cambian constantemente para modificar tus ataques, potenciar tus habilidades y descubrir combinaciones inesperadas.\nIncluso con el mismo Viajero, el build que crees puede llevarte a un estilo de combate completamente distinto.\nNo existe una única respuesta correcta.\nConstruye tu estrategia a partir de las opciones que aparecen en cada partida y enfréntate a desafíos que parecen imposibles.\n\nUn mundo de sueños en constante cambio\n\nEl mundo de los sueños está lleno de factores que cambian constantemente.\nCuatro niveles de dificultad, jefes únicos y modificadores de sueño lúcido exigen tácticas y decisiones de build diferentes en cada partida.\nEn lugar de seguir siempre el mismo camino conocido, prueba nuevas combinaciones que se adapten a cada situación.\nCuanto más juegues, más estrategias poderosas descubrirás para abrirte paso por el mundo de los sueños a tu manera.\nEl sueño te espera.",
+      "shortDescription": "Shape of Dreams es un juego único que combina el estilo MOBA con un roguelite de acción. Aventúrate en el mundo de los sueños y edita las memorias de los héroes para crear tu propio campeón. Enfrenta todos los desafíos en solitario o juega con amigos en un modo cooperativo de hasta 4 jugadores.",
+      "developer": "Lizard Smoothie",
+      "publisher": "NEOWIZ",
+      "imageUrl": "https://store-images.s-microsoft.com/image/apps.64297.14272457971400341.9e426def-5803-4abc-8dd4-76b9f9ab9f3d.91c496d2-789c-40fd-a35b-0dfa785817a6",
+      "heroImage": "https://store-images.s-microsoft.com/image/apps.12467.14272457971400341.9e426def-5803-4abc-8dd4-76b9f9ab9f3d.3417b0df-f83b-4596-82f1-e753b237c7a6",
+      "screenshots": [
+        "https://store-images.s-microsoft.com/image/apps.3594.14272457971400341.0dbf8301-2c53-46e4-9cbc-f35c0b1a5aee.6d2b5688-7128-48c6-af59-13cb54b3616a",
+        "https://store-images.s-microsoft.com/image/apps.14290.14272457971400341.0dbf8301-2c53-46e4-9cbc-f35c0b1a5aee.536b2722-4e39-4417-850f-b583b88f6c4d",
+        "https://store-images.s-microsoft.com/image/apps.36725.14272457971400341.0dbf8301-2c53-46e4-9cbc-f35c0b1a5aee.26e53ce4-18fb-4cf9-af13-bc4a4a2640f9",
+        "https://store-images.s-microsoft.com/image/apps.14981.14272457971400341.0dbf8301-2c53-46e4-9cbc-f35c0b1a5aee.270232c7-4d92-46e6-bd21-2eeccaa1bced"
+      ],
+      "videoUrl": "",
+      "videoCaption": "",
+      "releaseDate": "9998-12-30",
+      "categories": [
+        "Acción y aventura",
+        "Estrategia",
+        "Juegos de rol"
+      ],
+      "tiers": [
+        "pc",
+        "premium",
+        "ultimate"
+      ],
+      "platform": "both",
+      "price": 19.99,
+      "msrp": 24.99,
+      "currency": "EUR",
+      "hasDiscount": true,
+      "discountPercent": 20,
+      "rating": 0,
+      "ratingCount": 0,
+      "ageRating": 7,
+      "pegiRating": "PEGI 7",
+      "pegiDescription": "Apropiado a partir de 7 años",
+      "interactiveDescriptions": [
+        "Interacción de usuarios"
+      ],
+      "capabilities": [
+        "Cooperativo en línea  (2-4)",
+        "Multijugador en línea  (2-4)",
+        "Multijugador multiplataforma de Xbox",
+        "4K Ultra HD",
+        "HDR10",
+        "Un jugador",
+        "Cooperación multiplataforma de Xbox",
+        "Optimizado para Xbox Series X|S",
+        "Logros de Xbox",
+        "Cosas guardadas en la nube de Xbox",
+        "Xbox Play Anywhere"
+      ],
+      "systemRequirements": [
+        {
+          "title": "SO",
+          "minimum": "Windows 10 version 18362.0 or higher",
+          "recommended": "Windows 10 version 18362.0 or higher"
+        },
+        {
+          "title": "Arquitectura",
+          "minimum": "x64",
+          "recommended": "x64"
+        },
+        {
+          "title": "Gráficos",
+          "minimum": "GeForce GTX 960 / AMD Radeon R9 280",
+          "recommended": "GeForce GTX 970 / Radeon R9 Fury"
+        },
+        {
+          "title": "Procesador",
+          "minimum": "Intel Core i5-6400",
+          "recommended": "Intel Core i7-6700K"
+        },
+        {
+          "title": "DirectX",
+          "minimum": "API de DirectX 12, nivel de característica de hardware 11",
+          "recommended": "API de DirectX 12, nivel de característica de hardware 11"
+        },
+        {
+          "title": "Memoria",
+          "minimum": "8 GB",
+          "recommended": "8 GB"
+        },
+        {
+          "title": "Memoria de vídeo",
+          "minimum": "2 GB",
+          "recommended": "2 GB"
+        },
+        {
+          "title": "Teclado",
+          "minimum": "",
+          "recommended": "Teclado integrado"
+        },
+        {
+          "title": "Mouse",
+          "minimum": "",
+          "recommended": "Mouse integrado"
+        },
+        {
+          "title": "Controladora",
+          "minimum": "",
+          "recommended": "Controladora de Xbox"
+        }
+      ],
+      "maxInstallSize": 9616695296,
+      "hasAddOns": false,
+      "storeUrl": "https://www.xbox.com/es-es/games/store/shape-of-dreams/9PK0DZ68LGC0"
+    },
+    {
       "id": "9N51NR4GX891",
       "title": "Shelldiver",
       "description": "¡Todos a bordo del submarino! Shelldiver es un videojuego incremental en el que una tortuga se dedica a pescar medusas y venderlas en su pequeña tienda. Ayudad a nuestra veterana protagonista a mejorar su equipo, explorar distintos biomas y profundidades oceánicas, y a echar una mano a la población local de tortugas… ¡quizá después de una siesta bien merecida!\n\nVuestro recurso principal son las medusas, ¡el plato favorito de estas tortugas! Con vuestra práctica pistola de burbujas podréis perseguir y capturar distintos tipos de medusas, cada una con su propio estilo —y sabor, probablemente—, para luego venderlas en vuestra tienda. Medusas eléctricas, amalgamas mutantes, medusas infernales que explotan cuando os acercáis… ¡Cuantas más capturéis, y cuanto más rápido lo hagáis, más pasta ganaréis para reinvertir en vuestro negocio!\n\n¡Además de criaturas gelatinosas, también encontraréis otros recursos flotando cerca del lecho marino para desmontar y aprovechar sus piezas! Usad vuestra potente pistola láser para desarmar basura humana, rocas de cristal, setas y otros componentes especiales, y luego empleadlos para mejorar vuestro submarino, vuestras herramientas y mucho más.\n\nCuanto más recojáis, exploréis y avancéis, más oportunidades tendréis de mejorar vuestras habilidades. Con un amplio árbol de habilidades ramificado, podréis elegir vuestras ventajas favoritas y personalizar vuestras expediciones para maximizar lo que más os interese, ¡desde el tamaño de vuestra botella de oxígeno hasta las dimensiones de vuestra tienda!\n\n¡El océano es inmenso y vuestra clientela es exigente! Desbloquead y explorad biomas únicos —desde aguas volcánicas hasta cavernas cristalinas—, así como sus distintas profundidades y recursos exclusivos. ¡No os olvidéis de comprobar vuestro suministro de oxígeno!",
@@ -44263,8 +44374,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 4.7,
-      "ratingCount": 51,
+      "rating": 4.8,
+      "ratingCount": 53,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -45552,11 +45663,11 @@
         "ultimate"
       ],
       "platform": "both",
-      "price": 11.99,
+      "price": 14.99,
       "msrp": 14.99,
       "currency": "EUR",
-      "hasDiscount": true,
-      "discountPercent": 20,
+      "hasDiscount": false,
+      "discountPercent": 0,
       "rating": 3,
       "ratingCount": 5,
       "ageRating": 7,
@@ -46898,7 +47009,7 @@
           "recommended": "Controladora de Xbox"
         }
       ],
-      "maxInstallSize": 10214846464,
+      "maxInstallSize": 10215137280,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/starsand-island/9P86LLDCL5CC"
     },
@@ -50574,11 +50685,11 @@
         "ultimate"
       ],
       "platform": "console",
-      "price": 19.99,
+      "price": 4.99,
       "msrp": 19.99,
       "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
+      "hasDiscount": true,
+      "discountPercent": 75,
       "rating": 4.4,
       "ratingCount": 271,
       "ageRating": 18,
@@ -50630,11 +50741,11 @@
         "ultimate"
       ],
       "platform": "pc",
-      "price": 24.99,
+      "price": 6.24,
       "msrp": 24.99,
       "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
+      "hasDiscount": true,
+      "discountPercent": 75,
       "rating": 2.8,
       "ratingCount": 45,
       "ageRating": 18,
@@ -50723,11 +50834,11 @@
         "ultimate"
       ],
       "platform": "console",
-      "price": 39.99,
+      "price": 7.99,
       "msrp": 39.99,
       "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
+      "hasDiscount": true,
+      "discountPercent": 80,
       "rating": 4.7,
       "ratingCount": 192,
       "ageRating": 18,
@@ -50782,11 +50893,11 @@
         "ultimate"
       ],
       "platform": "pc",
-      "price": 39.99,
+      "price": 7.99,
       "msrp": 39.99,
       "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
+      "hasDiscount": true,
+      "discountPercent": 80,
       "rating": 4.1,
       "ratingCount": 37,
       "ageRating": 18,
@@ -50994,7 +51105,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.8,
-      "ratingCount": 252,
+      "ratingCount": 253,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -51032,7 +51143,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 81116106752,
+      "maxInstallSize": 81050288128,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/the-first-descendant/9P8FBXKMCLWC"
     },
@@ -51827,8 +51938,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 4,
-      "ratingCount": 4,
+      "rating": 3.5,
+      "ratingCount": 6,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -53091,7 +53202,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 53051637760,
+      "maxInstallSize": 54528241664,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/tom-clancy-s-rainbow-six-siege-elite-edition/9PB3RHWXB9MR"
     },
@@ -54606,7 +54717,7 @@
       "hasDiscount": true,
       "discountPercent": 70,
       "rating": 4.7,
-      "ratingCount": 46,
+      "ratingCount": 47,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -55528,8 +55639,8 @@
       "shortDescription": "",
       "developer": "Riot Games",
       "publisher": "Riot Games",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.52657.13898029070941789.3b9f6846-9549-48fd-86cb-b4ed0bd62a55.99c4eceb-d9fa-4213-a6d1-619bd1ec794b",
-      "heroImage": "https://store-images.s-microsoft.com/image/apps.54027.13898029070941789.3b9f6846-9549-48fd-86cb-b4ed0bd62a55.b7f7e1c8-1cc6-45dc-9fec-8f6d1fc829f2",
+      "imageUrl": "https://store-images.s-microsoft.com/image/apps.24285.13898029070941789.8d58b251-455c-4993-a1fd-1d77e8261eaf.f83375e3-5886-4708-888a-8d37fbb998f5",
+      "heroImage": "https://store-images.s-microsoft.com/image/apps.56412.13898029070941789.8d58b251-455c-4993-a1fd-1d77e8261eaf.298cb0c7-8b39-4c9c-8eac-90140da703fa",
       "screenshots": [
         "https://store-images.s-microsoft.com/image/apps.17610.13898029070941789.9b27c201-5a22-498f-93b6-c7805e499f9b.db05f7a9-f20a-4b07-8756-743a1e288472",
         "https://store-images.s-microsoft.com/image/apps.54314.13898029070941789.9b27c201-5a22-498f-93b6-c7805e499f9b.af90ac86-bffd-4197-b164-229ccde92c9c",
@@ -55593,8 +55704,8 @@
       "shortDescription": "VALORANT es un juego de disparos táctico 5v5 basado en personajes y que se desarrolla en un escenario internacional. Supera, deslumbra y vence a tus oponentes con habilidades tácticas, precisión en el manejo de armas y trabajo en equipo.\r\n\r\nCon el Game Pass, los miembros podrán desbloquear: \r\n●        Todos los agentes actuales \r\n●        Acceso desde el primer día a cada nuevo Agente que sea lanzado\r\n●        Aumento de XP del 20% por partida otorgado al Pase de Batalla, al Pase del Evento y al progreso del Contrato de Agente activo.",
       "developer": "Riot Games",
       "publisher": "Riot Games",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.52657.13663857844271189.41debf59-13e2-4cf9-a53f-e10086983497.f889d591-c0c6-4119-a3a4-7014f74cda4d",
-      "heroImage": "https://store-images.s-microsoft.com/image/apps.54027.13663857844271189.41debf59-13e2-4cf9-a53f-e10086983497.be6eb76e-a10b-4bf1-ab95-634452d4509d",
+      "imageUrl": "https://store-images.s-microsoft.com/image/apps.24285.13663857844271189.42ac3116-ce9d-40e2-939f-ca94e72c04a8.bc2c8a77-f251-47c2-908a-6b9d61b7f479",
+      "heroImage": "https://store-images.s-microsoft.com/image/apps.56412.13663857844271189.42ac3116-ce9d-40e2-939f-ca94e72c04a8.a593939f-3d22-458f-8e5b-23473a61e93e",
       "screenshots": [
         "https://store-images.s-microsoft.com/image/apps.43724.13663857844271189.404e9066-b027-4438-ac33-00126d0fe125.43fd7515-ca00-456d-91bb-47c4afba0ba9",
         "https://store-images.s-microsoft.com/image/apps.45086.13663857844271189.404e9066-b027-4438-ac33-00126d0fe125.fdc9aac4-14b3-4a7d-b45a-92335ad08c71",
@@ -56468,8 +56579,8 @@
       "shortDescription": "War Thunder es el juego MMO militar gratis más amplio en plataforma cruzada, dedicado a la aviación, los vehículos acorazados, y las flotas desde la segunda guerra mundial hasta la Guera Fría. Aviones, fuerzas de tierra y buques de guerra luchan juntos en una batalla, exactamente como en la realidad.",
       "developer": "Gaijin Distribution Kft",
       "publisher": "Gaijin Distribution Kft",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.4307.63381296256995371.c90350dc-f7ef-4c1a-a158-a8de2f5a7725.ad06d202-b4d4-452e-abca-bebb22a08dbb",
-      "heroImage": "https://store-images.s-microsoft.com/image/apps.59214.63381296256995371.c90350dc-f7ef-4c1a-a158-a8de2f5a7725.c38eb78e-3d34-4097-8c7b-0835467744ca",
+      "imageUrl": "https://store-images.s-microsoft.com/image/apps.30829.63381296256995371.9e10cdbd-1881-4099-9f20-0b0885c216a7.cea534d7-08cd-4f3f-9bed-765c2c2534cc",
+      "heroImage": "https://store-images.s-microsoft.com/image/apps.807.63381296256995371.9e10cdbd-1881-4099-9f20-0b0885c216a7.7d58f477-d384-4f9a-b610-cabcee88978e",
       "screenshots": [
         "https://store-images.s-microsoft.com/image/apps.16405.63381296256995371.9fd79b64-0e52-454c-9406-562322170d22.c0ff3bc9-a1b9-4026-a62e-8a917eddaaf6",
         "https://store-images.s-microsoft.com/image/apps.5897.63381296256995371.9fd79b64-0e52-454c-9406-562322170d22.7b489c36-8e7a-4bc2-bfe5-4f09ee8b0cbc",
@@ -56568,7 +56679,7 @@
           "recommended": "Mouse integrado"
         }
       ],
-      "maxInstallSize": 78649016320,
+      "maxInstallSize": 78673674240,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/war-thunder/BX1DTCBD1HXJ"
     },
@@ -57616,7 +57727,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 2.9,
-      "ratingCount": 108,
+      "ratingCount": 109,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -57951,7 +58062,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.1,
-      "ratingCount": 437,
+      "ratingCount": 438,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -60337,8 +60448,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 3,
-      "ratingCount": 40,
+      "rating": 2.9,
+      "ratingCount": 41,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
