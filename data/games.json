@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-09-17T12:51:02.129Z",
+  "updatedAt": "2026-09-18T12:25:24.494Z",
   "market": "ES",
   "language": "es-ES",
-  "totalGames": 817,
+  "totalGames": 818,
   "counts": {
     "essential": 128,
     "premium": 580,
-    "pc": 473,
-    "ultimate": 724,
-    "total": 817
+    "pc": 474,
+    "ultimate": 725,
+    "total": 818
   },
   "categories": [
     "Acción y aventura",
@@ -160,7 +160,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.1,
-      "ratingCount": 75,
+      "ratingCount": 76,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -1911,8 +1911,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 4,
-      "ratingCount": 16,
+      "rating": 3.9,
+      "ratingCount": 22,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -1992,7 +1992,7 @@
           "recommended": "Micrófono integrado"
         }
       ],
-      "maxInstallSize": 31697092608,
+      "maxInstallSize": 31692505088,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/aniimo/9PK8PHLCQDF6"
     },
@@ -2404,7 +2404,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 2.2,
-      "ratingCount": 406,
+      "ratingCount": 407,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -2482,7 +2482,7 @@
           "recommended": "Controladora de Xbox"
         }
       ],
-      "maxInstallSize": 215918915584,
+      "maxInstallSize": 215920832512,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/ark-survival-ascended/9P33VJGVPHVP"
     },
@@ -2971,7 +2971,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.7,
-      "ratingCount": 21134,
+      "ratingCount": 21136,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -6449,8 +6449,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 4,
-      "ratingCount": 133,
+      "rating": 4.1,
+      "ratingCount": 135,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -6475,7 +6475,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 35068346368,
+      "maxInstallSize": 35068461056,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/beast-of-reincarnation/9NXWSWBM4H6T"
     },
@@ -8441,8 +8441,8 @@
       "currency": "EUR",
       "hasDiscount": true,
       "discountPercent": 60,
-      "rating": 2,
-      "ratingCount": 34,
+      "rating": 1.9,
+      "ratingCount": 33,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -8509,8 +8509,8 @@
       "currency": "EUR",
       "hasDiscount": true,
       "discountPercent": 60,
-      "rating": 2,
-      "ratingCount": 36,
+      "rating": 1.9,
+      "ratingCount": 35,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -9358,20 +9358,20 @@
     {
       "id": "9NNFG8BQRCXL",
       "title": "Call of Duty®: Warzone™",
-      "description": "Call of Duty®: Warzone™ dejará de ser jugable en Xbox One al final de la Temporada 6 de Black Ops 7.\n\nTe damos la bienvenida a Call of Duty®: Warzone™, la zona de combate masivo gratuita. Disfruta de modos emocionantes y nuevas características con el nuevo punto de interés Drone Labs en Verdansk, Endgame (por tiempo limitado), Battle Royale, Black Ops Royale y Resurgimiento.\n\nCall of Duty®: Warzone™ está equipado con armas para impacto.\n\nOjos bien abiertos: los cielos de Verdansk se han cargado más que nunca. El nuevo punto de interés Drone Labs introduce el mapa con producción acelerada, liberando drones de botín que ahora inundan los cielos.\n\nAdemás, por tiempo limitado, Objetivo final es ahora GRATUITO en Call of Duty®: Warzone™. La lucha en Objetivo final se vuelve incluso más peligrosa con la llegada de una nueva asignación y una manera de actualizar sus habilidades con nuevas y excepcionales mejoras que se pueden adquirir de contenedores.\n\n¿Quieres subir el nivel de verdad? Ve a Partidas igualadas de Resurgimiento y arrasa a la competencia.\n\n\nEs posible que se requiera un número de teléfono móvil vinculado a tu cuenta de Activision para jugar a Call of Duty®: Warzone™.\n\nNo se necesita una suscripción a Game Pass Core para jugar a Call of Duty®: Warzone™. Para los demás modos en línea se requiere Game Pass Core.\n\nPara obtener más información, visita www.callofduty.com.\n\n©/TM/® 2026 Activision Publishing, Inc. Este producto contiene tecnología de software con licencia de Id Software ('Id Technology'). Id Technology © 1999-2026 Id Software, Inc.",
-      "shortDescription": "Te damos la bienvenida a Call of Duty®: Warzone™, la zona de combate masivo gratuita. Disfruta de modos emocionantes y nuevas características con el nuevo punto de interés Drone Labs en Verdansk, Endgame (por tiempo limitado), Battle Royale, Black Ops Royale y Resurgimiento.",
+      "description": "Call of Duty®: Warzone™ dejará de ser jugable en Xbox One al final de la Temporada 6 de Black Ops 7.\n\nTe damos la bienvenida a Call of Duty®: Warzone™, la zona de combate masivo gratuita. Disfruta de modos emocionantes y nuevas características con la nueva y espeluznante versión de Haven's Hollow, Battle Royale, Black Ops Royale y Resurgimiento.\n\nSobrevive a lo desconocido en Call of Duty®: Warzone™.\n\nÁbrete paso por la oscuridad que ha consumido Haven's Hollow. Descubre nuevos y retorcidos secretos, rutas ocultas y encuentros aterradores antes de sobrevivir al modo por tiempo limitado exclusivo del nuevo mapa Gigante infectado.\n\n¿Quieres subir el nivel de verdad? Ve al modo de partidas igualadas de Resurgimiento y arrasa a la competencia.\n\n\nEs posible que se requiera un número de teléfono móvil vinculado a tu cuenta de Activision para jugar a Call of Duty®: Warzone™.\n\nNo se necesita una suscripción a Game Pass Core para jugar a Call of Duty®: Warzone™. Para los demás modos en línea se requiere Game Pass Core.\n\nPara obtener más información, visita www.callofduty.com.\n\n©/TM/® 2026 Activision Publishing, Inc. Este producto contiene tecnología de software con licencia de Id Software ('Id Technology'). Id Technology © 1999-2026 Id Software, Inc.",
+      "shortDescription": "Te damos la bienvenida a Call of Duty®: Warzone™, la zona de combate masivo gratuita. Disfruta de modos emocionantes y nuevas características con la nueva y espeluznante versión de Haven's Hollow, Battle Royale, Black Ops Royale y Resurgimiento.",
       "developer": "",
       "publisher": "Activision Publishing Inc.",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.32046.13739535057760905.cd3d6e45-3ccc-4b13-80a5-0568cb1692ae.0a0c8972-422f-43f7-9079-f668009f7596",
-      "heroImage": "https://store-images.s-microsoft.com/image/apps.26499.13739535057760905.cd3d6e45-3ccc-4b13-80a5-0568cb1692ae.29ec6b3c-c60f-4746-b246-fcafeb63e866",
+      "imageUrl": "https://store-images.s-microsoft.com/image/apps.61500.13739535057760905.ee63b998-143e-4256-bd0e-3e78d667ab11.31188761-50b5-4ec9-91f4-ec4f1a8b5503",
+      "heroImage": "https://store-images.s-microsoft.com/image/apps.20908.13739535057760905.ee63b998-143e-4256-bd0e-3e78d667ab11.7315f232-c36d-4d7d-8581-edc82aebe238",
       "screenshots": [
         "https://store-images.s-microsoft.com/image/apps.2371.13739535057760905.9640bbdc-dc7f-4305-8a6f-c5ea2ef2352e.e1b87fd5-272a-4a87-a78d-fa9ccfde88a1",
         "https://store-images.s-microsoft.com/image/apps.60930.13739535057760905.9640bbdc-dc7f-4305-8a6f-c5ea2ef2352e.3e1ee2d0-e468-4d6c-bc73-ab282f29d4d6",
-        "https://store-images.s-microsoft.com/image/apps.3484.13739535057760905.cd3d6e45-3ccc-4b13-80a5-0568cb1692ae.5c383180-b70c-4d0c-90d0-2c9916215fb3",
-        "https://store-images.s-microsoft.com/image/apps.17836.13739535057760905.cd3d6e45-3ccc-4b13-80a5-0568cb1692ae.600b2c7b-7804-4657-b00d-1df739439fc1"
+        "https://store-images.s-microsoft.com/image/apps.27655.13739535057760905.ee63b998-143e-4256-bd0e-3e78d667ab11.729d3801-ade1-4ba9-9383-66446f34bd65",
+        "https://store-images.s-microsoft.com/image/apps.37988.13739535057760905.ee63b998-143e-4256-bd0e-3e78d667ab11.1a0ab3f0-b48d-415b-af96-92faa1d6b883"
       ],
-      "videoUrl": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftassets/c3016e84-4fc2-4a8c-bf24-28091ce570e0-AVS.m3u8?packagedStreaming=true",
-      "videoCaption": "Call of Duty: Warzone - Verdansk Flythrough Trailer",
+      "videoUrl": "",
+      "videoCaption": "",
       "releaseDate": "2022-11-14",
       "categories": [
         "Shooter"
@@ -13404,7 +13404,7 @@
       "hasDiscount": true,
       "discountPercent": 65,
       "rating": 4.2,
-      "ratingCount": 301,
+      "ratingCount": 302,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -16909,18 +16909,18 @@
     },
     {
       "id": "9NK13T4QFPQW",
-      "title": "EA SPORTS FC™ 26 para XBOX One",
+      "title": "EA SPORTS FC™ 26 para Xbox One",
       "description": "El Club es tuyo en EA SPORTS FC™ 26.\n\nVive The World's Game como nunca antes en EA SPORTS FC™ 26. La última actualización presenta un nuevo modo de torneo internacional con 48 selecciones nacionales, junto con nuevos estadios auténticos para jugar. Afronta desafíos de Mánager en vivo con temática internacional y entra en Carrera de futbolista con nuevos ICONOS y Héroes internacionales.\nJuega a tu manera con una experiencia de juego renovada y moldeada según los comentarios de la comunidad, desafíos de Mánager en vivo que presentan nuevos escenarios a lo largo de la temporada y nuevos arquetipos inspirados en grandes del deporte.\n\nPon a prueba tu plantilla de ensueño en Football Ultimate Team™ con nuevos eventos en vivo y modos de torneo, además de una experiencia renovada de Rivals y Champs.\nVive The World’s Game como nunca antes en EA SPORTS FC™ 26, con datos de partidos de las mejores ligas del mundo en las que participan más de 20 000 futbolistas reales.\n\nEste juego incluye la compra opcional en el juego de divisa virtual que se puede utilizar para adquirir artículos virtuales del juego, incluida una selección aleatoria de artículos virtuales del juego.\n\nSujeto a condiciones y limitaciones. Consulta ea.com/es-es/legal/legal-disclosures para obtener más información.\n\nSujeto a condiciones y limitaciones. Consulta ea.com/games/ea-sports-fc/fc-26/game-disclaimers para obtener más información.\n\nLos FC Points no están disponibles para su compra en Bélgica y Corea del Sur.\n\nEs necesaria una descarga independiente para los comentarios de audio de idiomas distintos al inglés y el idioma de los ajustes de la consola.\n\n© 2025 Electronic Arts Inc. Electronic Arts, EA, EA SPORTS, el logotipo de EA SPORTS, EA SPORTS FC, el logotipo de EA SPORTS FC, Frostbite, el logotipo de Frostbite, Football Ultimate Team y Ultimate Team son marcas comerciales de Electronic Arts Inc.",
-      "shortDescription": "Inicia sesión en EA SPORTS FC™ 26 antes del 16 de septiembre para obtener una Elección de futbolista con GRL 99. Elige tres Artículos de futbolista con GRL 99 de un grupo de 20.",
+      "shortDescription": "El Club es tuyo en EA SPORTS FC™ 26.\nJuega a tu manera con una experiencia de juego renovada según los comentarios de la comunidad, desafíos de Mánager en vivo que traen nuevos escenarios a la temporada y nuevos arquetipos inspirados en grandes del deporte.",
       "developer": "EA CANADA",
       "publisher": "Electronic Arts",
       "imageUrl": "https://store-images.s-microsoft.com/image/apps.10782.13665948255535452.c62f2600-0a85-4be2-b5a3-4453b231bb70.31935413-8ff9-41fa-a5e8-b8a6eb8775c9",
       "heroImage": "https://store-images.s-microsoft.com/image/apps.35717.13665948255535452.c62f2600-0a85-4be2-b5a3-4453b231bb70.41230812-1aae-45c0-8607-7f02130cd0dd",
       "screenshots": [
-        "https://store-images.s-microsoft.com/image/apps.4538.13665948255535452.5612bddb-ddc3-487a-8f8c-313478351f7e.fa0bddcc-840a-4978-b06c-692e46f0be4c",
         "https://store-images.s-microsoft.com/image/apps.36288.13628388140711442.b4288d99-175c-4445-b6fe-03ffee0457a3.06840614-bdc1-4548-9483-b5f4d85b13c1",
         "https://store-images.s-microsoft.com/image/apps.63630.13665948255535452.d93b5d6d-aaa5-4c34-95b4-e4a25c2d92e5.205c1f38-4c98-4523-8117-e50355738a32",
-        "https://store-images.s-microsoft.com/image/apps.37750.13628388140711442.b4288d99-175c-4445-b6fe-03ffee0457a3.3c4325c8-275a-4676-b17b-0c2544071934"
+        "https://store-images.s-microsoft.com/image/apps.37750.13628388140711442.b4288d99-175c-4445-b6fe-03ffee0457a3.3c4325c8-275a-4676-b17b-0c2544071934",
+        "https://store-images.s-microsoft.com/image/apps.28420.13628388140711442.b4288d99-175c-4445-b6fe-03ffee0457a3.dbe7855d-d339-447f-b89e-845dacfb69b3"
       ],
       "videoUrl": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftassets/780b8367-d2c2-4d54-8e35-02d0971c7506-AVS.m3u8?packagedStreaming=true",
       "videoCaption": "EA SPORTS FC 26 | The World's Game - Trailer",
@@ -16972,18 +16972,18 @@
     },
     {
       "id": "9P9FTXPKQ35P",
-      "title": "EA SPORTS FC™ 26 para XBOX Series X|S",
+      "title": "EA SPORTS FC™ 26 para Xbox Series X|S",
       "description": "El Club es tuyo en EA SPORTS FC™ 26.\n\nVive The World's Game como nunca antes en EA SPORTS FC™ 26. La última actualización presenta un nuevo modo de torneo internacional con 48 selecciones nacionales, junto con nuevos estadios auténticos para jugar. Afronta desafíos de Mánager en vivo con temática internacional y entra en Carrera de futbolista con nuevos ICONOS y Héroes internacionales.\nJuega a tu manera con una experiencia de juego renovada y moldeada según los comentarios de la comunidad, desafíos de Mánager en vivo que presentan nuevos escenarios a lo largo de la temporada y nuevos arquetipos inspirados en grandes del deporte.\n\nPon a prueba tu plantilla de ensueño en Football Ultimate Team™ con nuevos eventos en vivo y modos de torneo, además de una experiencia renovada de Rivals y Champs.\nVive The World’s Game como nunca antes en EA SPORTS FC™ 26, con datos de partidos de las mejores ligas del mundo en las que participan más de 20 000 futbolistas reales.\n\nEste juego incluye la compra opcional en el juego de divisa virtual que se puede utilizar para adquirir artículos virtuales del juego, incluida una selección aleatoria de artículos virtuales del juego.\n\nSujeto a condiciones y limitaciones. Consulta ea.com/es-es/legal/legal-disclosures para obtener más información.\n\nSujeto a condiciones y limitaciones. Consulta ea.com/games/ea-sports-fc/fc-26/game-disclaimers para obtener más información.\n\nLos FC Points no están disponibles para su compra en Bélgica y Corea del Sur.\n\nEs necesaria una descarga independiente para los comentarios de audio de idiomas distintos al inglés y el idioma de los ajustes de la consola.\n\n© 2025 Electronic Arts Inc. Electronic Arts, EA, EA SPORTS, el logotipo de EA SPORTS, EA SPORTS FC, el logotipo de EA SPORTS FC, Frostbite, el logotipo de Frostbite, Football Ultimate Team y Ultimate Team son marcas comerciales de Electronic Arts Inc.",
-      "shortDescription": "Inicia sesión en EA SPORTS FC™ 26 antes del 16 de septiembre para obtener una Elección de futbolista con GRL 99. Elige tres Artículos de futbolista con GRL 99 de un grupo de 20.",
+      "shortDescription": "El Club es tuyo en EA SPORTS FC™ 26.\nJuega a tu manera con una experiencia de juego renovada según los comentarios de la comunidad, desafíos de Mánager en vivo que traen nuevos escenarios a la temporada y nuevos arquetipos inspirados en grandes del deporte.",
       "developer": "EA CANADA",
       "publisher": "Electronic Arts",
       "imageUrl": "https://store-images.s-microsoft.com/image/apps.10782.14143997528953872.6dedfcb1-25c9-4700-a587-b5e8d2190c68.12c48214-554d-4f98-a995-c19b9101d1aa",
       "heroImage": "https://store-images.s-microsoft.com/image/apps.35717.14143997528953872.6dedfcb1-25c9-4700-a587-b5e8d2190c68.a2f0289a-bfc2-427b-a171-7326ed42c9f2",
       "screenshots": [
-        "https://store-images.s-microsoft.com/image/apps.4538.14143997528953872.e5d2de4e-6df9-4fe6-b7cb-0548e5257659.861a8d73-6eb5-421e-88e6-43fe76231136",
         "https://store-images.s-microsoft.com/image/apps.36288.13628388140711442.b4288d99-175c-4445-b6fe-03ffee0457a3.06840614-bdc1-4548-9483-b5f4d85b13c1",
         "https://store-images.s-microsoft.com/image/apps.63630.14143997528953872.c53b74e0-5dc5-48e0-8017-b7e14664f22f.19385d5e-d2a7-4cde-8632-4fa41c9cd8ef",
-        "https://store-images.s-microsoft.com/image/apps.37750.13628388140711442.b4288d99-175c-4445-b6fe-03ffee0457a3.3c4325c8-275a-4676-b17b-0c2544071934"
+        "https://store-images.s-microsoft.com/image/apps.37750.13628388140711442.b4288d99-175c-4445-b6fe-03ffee0457a3.3c4325c8-275a-4676-b17b-0c2544071934",
+        "https://store-images.s-microsoft.com/image/apps.28420.13628388140711442.b4288d99-175c-4445-b6fe-03ffee0457a3.dbe7855d-d339-447f-b89e-845dacfb69b3"
       ],
       "videoUrl": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftassets/4b7012cd-e915-4680-be37-5e2e6e3e72c7-AVS.m3u8?packagedStreaming=true",
       "videoCaption": "EA SPORTS FC 26 | The World's Game - Trailer",
@@ -22126,7 +22126,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 10510819328,
+      "maxInstallSize": 10508177408,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/for-the-king-ii/9NVC9KWJVLT0"
     },
@@ -22326,7 +22326,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.1,
-      "ratingCount": 360,
+      "ratingCount": 361,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -22967,7 +22967,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.6,
-      "ratingCount": 11266,
+      "ratingCount": 11267,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -26320,7 +26320,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.4,
-      "ratingCount": 570,
+      "ratingCount": 571,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -27039,7 +27039,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.7,
-      "ratingCount": 707,
+      "ratingCount": 708,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -29049,6 +29049,113 @@
       "storeUrl": "https://www.xbox.com/es-es/games/store/keeper/9NCJWHHMVHR0"
     },
     {
+      "id": "9NXSNQR7CM1Q",
+      "title": "Kernel Hearts",
+      "description": "Kernel Hearts es una combinación única de elementos de RPG de acción y roguelike con juego cooperativo multijugador. Como miembro de la unidad MAHOU, deberás subir a la Torre de Babel, eliminar a los ángeles que se crucen en tu camino para destronar a Dios y salvar al mundo, que se cae a pedazos.\n\nOTRO DIOS RECHAZADO\nCombina tus ataques, conjuros y movimientos con poderes únicos en cada intento para lanzar combos devastadores a los enemigos que enfrentes. Golpea a monstruos bíblicos con hasta cuatro amigos. Cada nivel culmina con un combate intenso contra el jefe de cada dominio.\n\nEQUIPA Y PERSONALIZA A TUS UNIDADES\nTras cada expedición, regresarás a la copia de respaldo de memoria más reciente en un laboratorio ubicado en las afueras del último bastión de la humanidad.\n Aprovecha las recompensas de cada intento para desbloquear y equipar hasta 256 KB de chips en el MAHOU.OS de tu unidad y personalizar todo como quieras.\n\nCONVIÉRTETE EN UNA CHICA MÁGICA\nEmplea el poder de la torre para librarte de la maldición celestial y lanzar un ataque devastador contra los enemigos cercanos. Así alcanzarás tu verdadera forma por un período breve.\n\nESTRECHA LAZOS CON TUS ALIADOS\nInteractúa con los habitantes únicos de la torre y dales obsequios para profundizar tu relación con ellos.",
+      "shortDescription": "Reúne a tus aliados. Elimina a los ángeles. Conviértete en una chica mágica. Acaba con Dios.\n \nKernel Hearts es un RPG de acción roguelike cooperativo y multijugador de cuatro chicas mágicas y su intento por salvar al mundo, que se cae a pedazos.",
+      "developer": "Ephemera Games",
+      "publisher": "Whitethorn Games",
+      "imageUrl": "https://store-images.s-microsoft.com/image/apps.21502.14493835367297887.3d2ad750-4d36-4684-b869-351a4f2e7062.3f9f2883-857e-40ff-a44d-8aefcb6db8f6",
+      "heroImage": "https://store-images.s-microsoft.com/image/apps.55801.14493835367297887.3453835a-68da-49f0-99e0-29a4915f2e4e.e6a3728e-9216-41de-a09d-9deb268c7f9f",
+      "screenshots": [
+        "https://store-images.s-microsoft.com/image/apps.52994.14493835367297887.3453835a-68da-49f0-99e0-29a4915f2e4e.7726bea4-75cb-4890-9637-b5a1c1319b02",
+        "https://store-images.s-microsoft.com/image/apps.15029.14493835367297887.3453835a-68da-49f0-99e0-29a4915f2e4e.c2759df8-0162-4458-9f21-0c7df1cf00f1",
+        "https://store-images.s-microsoft.com/image/apps.62574.14493835367297887.3453835a-68da-49f0-99e0-29a4915f2e4e.2b2c07db-a76a-4b16-a705-78b31e654cb7",
+        "https://store-images.s-microsoft.com/image/apps.14556.14493835367297887.3453835a-68da-49f0-99e0-29a4915f2e4e.3d25338e-6bfc-4bac-b6ac-fab938952e57"
+      ],
+      "videoUrl": "https://cdn.trailers.xboxservices.com/trailers/00000000-0000-0000-0000-000000000000/xbox/prod/videos/mainprofile/14493835367297887/856dad7c-42a5-4e50-902a-cdbbd9876260/manifest.m3u8",
+      "videoCaption": "Kernel Hearts Out Now",
+      "releaseDate": "2026-09-17",
+      "categories": [
+        "Acción y aventura",
+        "Juegos de rol",
+        "Otros"
+      ],
+      "tiers": [
+        "pc",
+        "ultimate"
+      ],
+      "platform": "both",
+      "price": 17.99,
+      "msrp": 17.99,
+      "currency": "EUR",
+      "hasDiscount": false,
+      "discountPercent": 0,
+      "rating": 3,
+      "ratingCount": 9,
+      "ageRating": 16,
+      "pegiRating": "PEGI 16",
+      "pegiDescription": "Apropiado a partir de 16 años",
+      "interactiveDescriptions": [],
+      "capabilities": [
+        "Cooperativo en línea  (2-4)",
+        "Un jugador",
+        "Cooperación multiplataforma de Xbox",
+        "Multijugador multgeneración de Xbox Live",
+        "60 fps +",
+        "Optimizado para Xbox Series X|S",
+        "Logros de Xbox",
+        "Presencia de Xbox",
+        "Cosas guardadas en la nube de Xbox",
+        "Xbox Play Anywhere"
+      ],
+      "systemRequirements": [
+        {
+          "title": "SO",
+          "minimum": "Windows 10 version 18362.0 or higher",
+          "recommended": "Windows 10 version 18362.0 or higher"
+        },
+        {
+          "title": "Arquitectura",
+          "minimum": "x64",
+          "recommended": "x64"
+        },
+        {
+          "title": "Gráficos",
+          "minimum": "Nvidia GTX 760 / Radeon HD 7950 (2GB VRAM)",
+          "recommended": "Nvidia GTX 970 / Radeon R9 390 (4GB VRAM)"
+        },
+        {
+          "title": "Procesador",
+          "minimum": "Intel i5 4750 / AMD FX-8350",
+          "recommended": "Intel i5 7600 / Ryzen 5 1600"
+        },
+        {
+          "title": "DirectX",
+          "minimum": "Versión 11",
+          "recommended": "API de DirectX 12, nivel de característica de hardware 11"
+        },
+        {
+          "title": "Memoria",
+          "minimum": "8 GB",
+          "recommended": "16 GB"
+        },
+        {
+          "title": "Memoria de vídeo",
+          "minimum": "2 GB",
+          "recommended": "4 GB"
+        },
+        {
+          "title": "Teclado",
+          "minimum": "",
+          "recommended": "Teclado integrado"
+        },
+        {
+          "title": "Mouse",
+          "minimum": "",
+          "recommended": "Mouse integrado"
+        },
+        {
+          "title": "Controladora",
+          "minimum": "",
+          "recommended": "Controladora de Xbox"
+        }
+      ],
+      "maxInstallSize": 16702246912,
+      "hasAddOns": false,
+      "storeUrl": "https://www.xbox.com/es-es/games/store/kernel-hearts/9NXSNQR7CM1Q"
+    },
+    {
       "id": "9MXHL3TT792F",
       "title": "KILL IT WITH FIRE! 2",
       "description": "Ponte el traje de exterminador y embárcate en una cruzada para eliminar a la horda arácnida que está haciéndose con el multiverso. Juega a solas o con amigos en un modo cooperativo en línea de hasta 4 jugadores. ¡También podéis jugar al modo JcJ de humanos contra arañas para pasároslo de miedo! \n\nPREPÁRATE PARA EL EXTERMINIO\nUsa las 45 armas y objetos dignos de un exterminador para acabar con esos monstruos de ocho patas. ¿Qué prefieres? ¿Un periódico, reducirlas a cenizas, una ametralladora, lanzarles un cohete o acabar con ellas con un sable láser?\n\nSALVA EL MULTIVERSO\nVisita los siete mundos en una caza arácnida sin precedentes. Acaba con la molesta plaga que asola una mansión misteriosa, libera un pueblo del viejo Oeste, explora el ciberespacio y baja hasta el mismísimo infierno arácnido. ¡Cada nivel es una batalla sin igual contra las arañas!\n\nCOMPLETA LOS DESAFÍOS\nCrea pociones mágicas en un caldero, destruye una megápolis mientras eres del tamaño de un kaiju, defiende una taberna regentada por cactus de las oleadas de arañas o gana una carrera de drones en realidad virtual. ¡Hay un montón!\n\nSÉ LA ARAÑA (SÍ, TAMBIÉN)\nSabemos que esto de cazar arañas suena superdivertido, pero ¿no te gustaría jugar como una de ellas? ¡Pues tenemos buenas noticias! Puedes ponerte en la piel de una en Caza arácnida, un modo JcJ en línea de hasta 8 personas. Se trata de un modo humanos contra arañas (¡controladas por humanos!).",
@@ -30676,8 +30783,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 4.6,
-      "ratingCount": 23,
+      "rating": 4.5,
+      "ratingCount": 25,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -32848,7 +32955,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.7,
-      "ratingCount": 51655,
+      "ratingCount": 51662,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -33231,7 +33338,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4,
-      "ratingCount": 15888,
+      "ratingCount": 15889,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -33426,7 +33533,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.5,
-      "ratingCount": 61546,
+      "ratingCount": 61547,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -36305,7 +36412,7 @@
           "recommended": "Micrófono integrado"
         }
       ],
-      "maxInstallSize": 33679818752,
+      "maxInstallSize": 33679171584,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/no-man-s-sky/BQVQTL3PCH05"
     },
@@ -36613,7 +36720,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 2.2,
-      "ratingCount": 126,
+      "ratingCount": 130,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -37524,7 +37631,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.6,
-      "ratingCount": 846,
+      "ratingCount": 845,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -42017,8 +42124,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 4.4,
-      "ratingCount": 261,
+      "rating": 4.5,
+      "ratingCount": 262,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -42725,7 +42832,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.2,
-      "ratingCount": 226,
+      "ratingCount": 227,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -42923,7 +43030,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.1,
-      "ratingCount": 1434,
+      "ratingCount": 1435,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -43054,8 +43161,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 3.5,
-      "ratingCount": 13,
+      "rating": 3.3,
+      "ratingCount": 14,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -44243,7 +44350,7 @@
       ],
       "videoUrl": "",
       "videoCaption": "",
-      "releaseDate": "9998-12-30",
+      "releaseDate": "2026-09-17",
       "categories": [
         "Acción y aventura",
         "Estrategia",
@@ -44260,8 +44367,8 @@
       "currency": "EUR",
       "hasDiscount": true,
       "discountPercent": 20,
-      "rating": 0,
-      "ratingCount": 0,
+      "rating": 3,
+      "ratingCount": 7,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -44375,7 +44482,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.8,
-      "ratingCount": 53,
+      "ratingCount": 55,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -44537,7 +44644,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.9,
-      "ratingCount": 96,
+      "ratingCount": 97,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -45668,8 +45775,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 3,
-      "ratingCount": 5,
+      "rating": 2.7,
+      "ratingCount": 6,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -45788,8 +45895,8 @@
       "currency": "EUR",
       "hasDiscount": true,
       "discountPercent": 65,
-      "rating": 3.6,
-      "ratingCount": 9,
+      "rating": 3.7,
+      "ratingCount": 10,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -46932,11 +47039,11 @@
         "ultimate"
       ],
       "platform": "both",
-      "price": 31.59,
+      "price": 39.49,
       "msrp": 39.49,
       "currency": "EUR",
-      "hasDiscount": true,
-      "discountPercent": 20,
+      "hasDiscount": false,
+      "discountPercent": 0,
       "rating": 1.9,
       "ratingCount": 37,
       "ageRating": 12,
@@ -47442,7 +47549,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.5,
-      "ratingCount": 61,
+      "ratingCount": 60,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -48296,7 +48403,7 @@
       "hasDiscount": true,
       "discountPercent": 75,
       "rating": 3.8,
-      "ratingCount": 42,
+      "ratingCount": 43,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -49035,7 +49142,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 735395840,
+      "maxInstallSize": 735375360,
       "hasAddOns": false,
       "storeUrl": "https://www.xbox.com/es-es/games/store/terraria/BTNPS60N3114"
     },
@@ -51938,8 +52045,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 3.5,
-      "ratingCount": 6,
+      "rating": 3.4,
+      "ratingCount": 7,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -55888,7 +55995,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.8,
-      "ratingCount": 501,
+      "ratingCount": 502,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -55984,7 +56091,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 1.7,
-      "ratingCount": 41,
+      "ratingCount": 42,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -56130,8 +56237,8 @@
       "currency": "EUR",
       "hasDiscount": true,
       "discountPercent": 50,
-      "rating": 3,
-      "ratingCount": 15,
+      "rating": 3.1,
+      "ratingCount": 16,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -60623,7 +60730,7 @@
           "recommended": "Controladora de Xbox"
         }
       ],
-      "maxInstallSize": 2638745600,
+      "maxInstallSize": 2637824000,
       "hasAddOns": false,
       "storeUrl": "https://www.xbox.com/es-es/games/store/young-suns/9N3KQH8183GD"
     },
