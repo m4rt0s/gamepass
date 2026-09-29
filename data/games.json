@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-09-28T16:09:11.156Z",
+  "updatedAt": "2026-09-29T14:25:18.450Z",
   "market": "ES",
   "language": "es-ES",
-  "totalGames": 821,
+  "totalGames": 822,
   "counts": {
     "essential": 128,
     "premium": 582,
-    "pc": 477,
-    "ultimate": 728,
-    "total": 821
+    "pc": 478,
+    "ultimate": 729,
+    "total": 822
   },
   "categories": [
     "Acción y aventura",
@@ -1241,7 +1241,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.9,
-      "ratingCount": 352,
+      "ratingCount": 353,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -1782,7 +1782,7 @@
           "recommended": "1 GB"
         }
       ],
-      "maxInstallSize": 1538338816,
+      "maxInstallSize": 1546186752,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/among-us/9NG07QJNK38J"
     },
@@ -1912,7 +1912,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4,
-      "ratingCount": 39,
+      "ratingCount": 40,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -1992,7 +1992,7 @@
           "recommended": "Micrófono integrado"
         }
       ],
-      "maxInstallSize": 31992262656,
+      "maxInstallSize": 31999344640,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/aniimo/9PK8PHLCQDF6"
     },
@@ -2221,7 +2221,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.2,
-      "ratingCount": 109,
+      "ratingCount": 110,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -12375,11 +12375,11 @@
         "ultimate"
       ],
       "platform": "both",
-      "price": 9.89,
+      "price": 29.99,
       "msrp": 29.99,
       "currency": "EUR",
-      "hasDiscount": true,
-      "discountPercent": 67,
+      "hasDiscount": false,
+      "discountPercent": 0,
       "rating": 1.3,
       "ratingCount": 48,
       "ageRating": 16,
@@ -12541,7 +12541,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 2.9,
-      "ratingCount": 301,
+      "ratingCount": 302,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -14463,8 +14463,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 4.4,
-      "ratingCount": 5,
+      "rating": 4.5,
+      "ratingCount": 6,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -15886,7 +15886,7 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 4.5,
+      "rating": 4.4,
       "ratingCount": 40,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
@@ -16816,7 +16816,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 2.9,
-      "ratingCount": 33,
+      "ratingCount": 34,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -17945,8 +17945,8 @@
       "shortDescription": "¡En Enlisted, no sólo estarás al mando de un solo soldado, sino de todo un escuadrón! Este shooter MMO basado en escuadrones recrea las batallas clave de la guerra más sangrienta del siglo XX, con cientos de soldados, tanques y aviones participando en cada batalla.",
       "developer": "Darkflow Software",
       "publisher": "Gaijin Distribution Kft",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.4889.13628462776883363.4ce215b9-ddc3-4532-97df-f15c3a95e667.139b95cc-4784-4af1-823e-0c46920ce025",
-      "heroImage": "https://store-images.s-microsoft.com/image/apps.41443.13628462776883363.4ce215b9-ddc3-4532-97df-f15c3a95e667.5ef2540a-f8a5-435c-b021-b42b137dba26",
+      "imageUrl": "https://store-images.s-microsoft.com/image/apps.61345.13628462776883363.b5671ab7-c80f-40e6-93ba-83e5efc0e1a5.29102d0c-f57a-415d-ab4d-98abb74ad700",
+      "heroImage": "https://store-images.s-microsoft.com/image/apps.20102.13628462776883363.b5671ab7-c80f-40e6-93ba-83e5efc0e1a5.272042f4-6799-4f5f-b3ea-72af5e545371",
       "screenshots": [
         "https://store-images.s-microsoft.com/image/apps.54225.13628462776883363.5ca58583-9cb9-4548-b09e-0efa62c22db0.a4af2a7e-1afa-4985-bd63-86eda5d35194",
         "https://store-images.s-microsoft.com/image/apps.11953.13628462776883363.5ca58583-9cb9-4548-b09e-0efa62c22db0.200ade70-3506-4a4e-a2da-bf4eaaf50477",
@@ -18030,7 +18030,7 @@
           "recommended": "8 GB"
         }
       ],
-      "maxInstallSize": 56015298560,
+      "maxInstallSize": 62021632000,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/enlisted/9NHKL695M9F2"
     },
@@ -18041,16 +18041,16 @@
       "shortDescription": "Enlisted es un shooter MMO en primera persona basado en escuadrones que cubre las batallas clave de la Segunda Guerra Mundial. El juego recrea cuidadosamente las armas, los vehículos militares y la atmósfera de esa época, mientras demuestra los enfrentamientos realmente masivos de numerosos soldados, tanques y aviones con artillería y apoyo naval. ",
       "developer": "Darkflow Software",
       "publisher": "Gaijin Distribution Kft",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.4889.13628462776883363.4ce215b9-ddc3-4532-97df-f15c3a95e667.139b95cc-4784-4af1-823e-0c46920ce025",
-      "heroImage": "https://store-images.s-microsoft.com/image/apps.41443.13628462776883363.4ce215b9-ddc3-4532-97df-f15c3a95e667.5ef2540a-f8a5-435c-b021-b42b137dba26",
+      "imageUrl": "https://store-images.s-microsoft.com/image/apps.61345.14212477956808574.da26f75d-69b4-4507-87ab-5c4d257304d3.80e17e30-f652-4151-a6a1-cad72d9d35b7",
+      "heroImage": "https://store-images.s-microsoft.com/image/apps.20102.14212477956808574.da26f75d-69b4-4507-87ab-5c4d257304d3.bbf1804b-4973-4d4a-a866-d5ef656b6d0a",
       "screenshots": [
         "https://store-images.s-microsoft.com/image/apps.54225.13628462776883363.5ca58583-9cb9-4548-b09e-0efa62c22db0.a4af2a7e-1afa-4985-bd63-86eda5d35194",
         "https://store-images.s-microsoft.com/image/apps.11953.13628462776883363.5ca58583-9cb9-4548-b09e-0efa62c22db0.200ade70-3506-4a4e-a2da-bf4eaaf50477",
         "https://store-images.s-microsoft.com/image/apps.5833.13628462776883363.5ca58583-9cb9-4548-b09e-0efa62c22db0.f8cca053-1550-4d0d-bdce-c3413a363a82",
         "https://store-images.s-microsoft.com/image/apps.56741.13628462776883363.5117bd61-6e50-465e-b34f-710477d01a8b.f76eb350-e8b3-469d-9f62-b5a2df505279"
       ],
-      "videoUrl": "",
-      "videoCaption": "",
+      "videoUrl": "https://cdn.trailers.xboxservices.com/trailers/00000000-0000-0000-0000-000000000000/xbox/prod/videos/mainprofile/14212477956808574/61ffe1eb-dfa7-4245-b398-464c0b0fc8cd/manifest.m3u8",
+      "videoCaption": "'Off-road Patrol' Update",
       "releaseDate": "2021-10-07",
       "categories": [
         "Acción y aventura",
@@ -18097,7 +18097,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 56007778304,
+      "maxInstallSize": 62025248768,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/enlisted-xbox-one/9PF432CVQBXT"
     },
@@ -22282,7 +22282,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.7,
-      "ratingCount": 4511,
+      "ratingCount": 4513,
       "ageRating": 12,
       "pegiRating": "Supervisión parental recomendada",
       "pegiDescription": "Supervisión parental recomendada",
@@ -22443,7 +22443,7 @@
       "hasDiscount": true,
       "discountPercent": 20,
       "rating": 4.1,
-      "ratingCount": 367,
+      "ratingCount": 368,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -22723,11 +22723,11 @@
         "ultimate"
       ],
       "platform": "both",
-      "price": 7.99,
+      "price": 5.99,
       "msrp": 7.99,
       "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
+      "hasDiscount": true,
+      "discountPercent": 25,
       "rating": 3.8,
       "ratingCount": 5,
       "ageRating": 7,
@@ -23269,7 +23269,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 2.9,
-      "ratingCount": 362,
+      "ratingCount": 363,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -25831,7 +25831,7 @@
       "hasDiscount": true,
       "discountPercent": 20,
       "rating": 3.8,
-      "ratingCount": 180,
+      "ratingCount": 181,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -26342,7 +26342,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.4,
-      "ratingCount": 915,
+      "ratingCount": 914,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -27305,8 +27305,8 @@
       "shortDescription": "Hogwarts Legacy es un RPG inmersivo de acción en mundo abierto. Ahora puedes tomar el control de la acción y ser el centro de tu propia aventura en el mundo mágico.",
       "developer": "Avalanche Software",
       "publisher": "Warner Bros. Games",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.6642.13814785456466922.0fef76f8-710d-4aca-b42f-c45e536f8d2b.012a86fe-8506-4e46-8e5a-1ec47e011f62",
-      "heroImage": "https://store-images.s-microsoft.com/image/apps.38223.13814785456466922.0fef76f8-710d-4aca-b42f-c45e536f8d2b.0570d0b7-cf5e-4106-84d7-fa031e67d49f",
+      "imageUrl": "https://store-images.s-microsoft.com/image/apps.11179.13814785456466922.4e78e496-4e8c-4f2c-93df-55ea1fa48e05.0d64da1c-8197-4d17-ba47-9e7494b62f6e",
+      "heroImage": "https://store-images.s-microsoft.com/image/apps.8560.13814785456466922.4e78e496-4e8c-4f2c-93df-55ea1fa48e05.5866932e-1b13-41b8-974d-d9c49175f488",
       "screenshots": [
         "https://store-images.s-microsoft.com/image/apps.36022.13814785456466922.4e78e496-4e8c-4f2c-93df-55ea1fa48e05.5871650b-f682-48cc-a882-c003b9d1f725",
         "https://store-images.s-microsoft.com/image/apps.41433.13814785456466922.4e78e496-4e8c-4f2c-93df-55ea1fa48e05.4c5291b0-6136-471a-8310-39bb68e2b5d7",
@@ -31112,7 +31112,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.5,
-      "ratingCount": 41,
+      "ratingCount": 42,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -31315,7 +31315,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.2,
-      "ratingCount": 61,
+      "ratingCount": 62,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -31485,8 +31485,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 4,
-      "ratingCount": 11,
+      "rating": 3.9,
+      "ratingCount": 13,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -32220,7 +32220,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 16463228928,
+      "maxInstallSize": 16465743872,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/mavrix-by-matt-jones/9NZX67J81X6F"
     },
@@ -33167,7 +33167,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.7,
-      "ratingCount": 51731,
+      "ratingCount": 51733,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -33344,6 +33344,91 @@
       "maxInstallSize": 5524271104,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/minecraft-dungeons/9N8NJ74FZTG9"
+    },
+    {
+      "id": "9P5786PJB9RP",
+      "title": "Minecraft Dungeons II",
+      "description": "Una nueva amenaza se cierne sobre el Mundo superior...\nMinecraft Dungeons II ya está aquí con más acción, más botín y más aventura. Cruza la grieta y lucha donde ningún héroe ha llegado antes: El Sift, una dimensión inexplorada repleta de amenazas, misterios y una belleza impresionante. Equípate y personaliza tu estilo de juego para enfrentarte a tus enemigos más duros hasta la fecha en batallas explosivas. Afronta lo desconocido como héroe solitario, forma equipo con amigos en cooperativo local, online y mixto, o encuentra aliados mediante el emparejamiento. El plan de los maldeanos ya está en marcha, y su crueldad solo es comparable a su poder. Detenlos, o el Mundo superior caerá presa de su corrupción.\n*Requiere una descarga inicial de contenido. El multijugador/cooperativo online en consola requiere una suscripción online específica de la plataforma (se vende por separado).",
+      "shortDescription": "¡El próximo capítulo de Minecraft Dungeons empezará en otoño de 2026! Una nueva amenaza se agita, lista para descender sobre la tierra y sus habitantes para causar un caos indescriptible. ¡Conviértete en un héroe y enfréntate a enemigos como nunca antes te has enfrentado, recorre lugares largamente olvidados y enfréntate a las fuerzas del mal una vez más! ",
+      "developer": "Mojang Studios / ‪Double Eleven Limited",
+      "publisher": "Xbox Game Studios",
+      "imageUrl": "https://store-images.s-microsoft.com/image/apps.26573.14578966298260124.ac5059d8-7ee1-409a-8326-c91ad228baaf.a247be92-60ea-4246-8144-1223dd311ff6",
+      "heroImage": "https://store-images.s-microsoft.com/image/apps.1020.14578966298260124.ac5059d8-7ee1-409a-8326-c91ad228baaf.a97b984e-8283-44f4-8b8f-f6949d38008f",
+      "screenshots": [
+        "https://store-images.s-microsoft.com/image/apps.27155.14578966298260124.ac5059d8-7ee1-409a-8326-c91ad228baaf.a2e3b8d5-0f56-4966-9f20-462e4f6f2cf4",
+        "https://store-images.s-microsoft.com/image/apps.21261.14578966298260124.ac5059d8-7ee1-409a-8326-c91ad228baaf.4c3f1e5c-cf0c-4221-a430-6facfa060bab",
+        "https://store-images.s-microsoft.com/image/apps.54316.14578966298260124.ac5059d8-7ee1-409a-8326-c91ad228baaf.a1b5ca77-c61a-4776-998d-916eb9719b07",
+        "https://store-images.s-microsoft.com/image/apps.38847.14578966298260124.ac5059d8-7ee1-409a-8326-c91ad228baaf.f6d85dd1-5c32-4f56-be54-c57627799db0"
+      ],
+      "videoUrl": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftassets/852a37e0-7919-4f3a-8acb-903f3ff92e55-AVS.m3u8?packagedStreaming=true",
+      "videoCaption": "MINECRAFT DUNGEONS II | Announce Trailer",
+      "releaseDate": "",
+      "categories": [
+        "Acción y aventura",
+        "Juegos de rol"
+      ],
+      "tiers": [
+        "pc",
+        "ultimate"
+      ],
+      "platform": "both",
+      "price": 0,
+      "msrp": 0,
+      "currency": "EUR",
+      "hasDiscount": false,
+      "discountPercent": 0,
+      "rating": 5,
+      "ratingCount": 1,
+      "ageRating": 7,
+      "pegiRating": "PEGI 7",
+      "pegiDescription": "Apropiado a partir de 7 años",
+      "interactiveDescriptions": [
+        "Compras dentro del juego"
+      ],
+      "capabilities": [
+        "Cooperación local de Xbox (2-4)",
+        "Cooperativo en línea  (2-4)",
+        "Multijugador local de Xbox (2-4)",
+        "Multijugador en línea  (2-4)",
+        "Multijugador multiplataforma de Xbox",
+        "4K Ultra HD",
+        "Un jugador",
+        "Cooperación multiplataforma de Xbox",
+        "Optimizado para Xbox Series X|S",
+        "Logros de Xbox",
+        "Cosas guardadas en la nube de Xbox",
+        "Xbox Play Anywhere"
+      ],
+      "systemRequirements": [
+        {
+          "title": "SO",
+          "minimum": "Windows 10 version 18362.0 or higher",
+          "recommended": "Windows 10 version 18362.0 or higher"
+        },
+        {
+          "title": "Arquitectura",
+          "minimum": "x64",
+          "recommended": "x64"
+        },
+        {
+          "title": "Teclado",
+          "minimum": "Teclado integrado",
+          "recommended": ""
+        },
+        {
+          "title": "Mouse",
+          "minimum": "",
+          "recommended": "Mouse integrado"
+        },
+        {
+          "title": "Controladora",
+          "minimum": "",
+          "recommended": "Controladora de Xbox"
+        }
+      ],
+      "maxInstallSize": 9728999424,
+      "hasAddOns": true,
+      "storeUrl": "https://www.xbox.com/es-es/games/store/minecraft-dungeons-ii/9P5786PJB9RP"
     },
     {
       "id": "9NB6BVL3MTG4",
@@ -33550,7 +33635,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4,
-      "ratingCount": 15926,
+      "ratingCount": 15928,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -33647,7 +33732,7 @@
           "recommended": "8 GB"
         }
       ],
-      "maxInstallSize": 2143096832,
+      "maxInstallSize": 2154356736,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/minecraft-preview-for-windows/9P5X4QVLC2XR"
     },
@@ -33708,7 +33793,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 2358415360,
+      "maxInstallSize": 2368081920,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/minecraft-preview-for-xbox/9NQ19C36R0VD"
     },
@@ -33745,7 +33830,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.5,
-      "ratingCount": 61601,
+      "ratingCount": 61604,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -34047,7 +34132,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 2.9,
-      "ratingCount": 69,
+      "ratingCount": 70,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -35105,11 +35190,11 @@
         "ultimate"
       ],
       "platform": "both",
-      "price": 7.49,
+      "price": 29.99,
       "msrp": 29.99,
       "currency": "EUR",
-      "hasDiscount": true,
-      "discountPercent": 75,
+      "hasDiscount": false,
+      "discountPercent": 0,
       "rating": 3.4,
       "ratingCount": 15,
       "ageRating": 3,
@@ -36991,7 +37076,7 @@
           "recommended": "Mouse integrado"
         }
       ],
-      "maxInstallSize": 116618661888,
+      "maxInstallSize": 117841281024,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/once-human/9N0QWXC09MPT"
     },
@@ -37625,7 +37710,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.6,
-      "ratingCount": 926,
+      "ratingCount": 927,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -37654,7 +37739,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 126948945920,
+      "maxInstallSize": 136718127104,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/overwatch/C1C4DZJPBC2V"
     },
@@ -41679,7 +41764,7 @@
           "recommended": "Controladora de Xbox"
         }
       ],
-      "maxInstallSize": 12228272128,
+      "maxInstallSize": 12229529600,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/rematch/9N5K7HWXL4Q6"
     },
@@ -41843,7 +41928,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.7,
-      "ratingCount": 489,
+      "ratingCount": 490,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -42337,7 +42422,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.5,
-      "ratingCount": 302,
+      "ratingCount": 305,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -43451,7 +43536,7 @@
           "recommended": "Controladora de Xbox"
         }
       ],
-      "maxInstallSize": 42263875584,
+      "maxInstallSize": 42263822336,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/runescape-dragonwilds/9P402RWR63H4"
     },
@@ -44694,7 +44779,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.8,
-      "ratingCount": 59,
+      "ratingCount": 60,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -46949,7 +47034,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.4,
-      "ratingCount": 185,
+      "ratingCount": 186,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -47043,7 +47128,7 @@
       "hasDiscount": true,
       "discountPercent": 40,
       "rating": 3.8,
-      "ratingCount": 1842,
+      "ratingCount": 1843,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -48609,11 +48694,11 @@
         "ultimate"
       ],
       "platform": "both",
-      "price": 7.49,
+      "price": 29.99,
       "msrp": 29.99,
       "currency": "EUR",
-      "hasDiscount": true,
-      "discountPercent": 75,
+      "hasDiscount": false,
+      "discountPercent": 0,
       "rating": 3.8,
       "ratingCount": 43,
       "ageRating": 12,
@@ -50138,7 +50223,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 60208545792,
+      "maxInstallSize": 65808093184,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/the-crew-motorfest-xbox-one/9PB5JN044BHZ"
     },
@@ -50197,7 +50282,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 85480378368,
+      "maxInstallSize": 93154844672,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/the-crew-motorfest-xbox-series-x-s/9NTB0ZG811GR"
     },
@@ -51384,7 +51469,7 @@
           "recommended": "Controladora de Xbox"
         }
       ],
-      "maxInstallSize": 86661611520,
+      "maxInstallSize": 87055736832,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/the-finals/9PGD71CMDS0Z"
     },
@@ -51785,7 +51870,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.2,
-      "ratingCount": 249,
+      "ratingCount": 250,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -54746,7 +54831,7 @@
           "recommended": "Controladora de Xbox"
         }
       ],
-      "maxInstallSize": 8663080960,
+      "maxInstallSize": 8663375872,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/trailmakers/9NSFGM8J6MBJ"
     },
@@ -54871,11 +54956,11 @@
         "ultimate"
       ],
       "platform": "both",
-      "price": 7.49,
+      "price": 29.99,
       "msrp": 29.99,
       "currency": "EUR",
-      "hasDiscount": true,
-      "discountPercent": 75,
+      "hasDiscount": false,
+      "discountPercent": 0,
       "rating": 3.9,
       "ratingCount": 47,
       "ageRating": 18,
@@ -55603,7 +55688,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 2.4,
-      "ratingCount": 63,
+      "ratingCount": 64,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -56365,8 +56450,8 @@
       "shortDescription": "Hogwarts Legacy es un RPG inmersivo de acción en mundo abierto. Ahora puedes tomar el control de la acción y ser el centro de tu propia aventura en el mundo mágico.",
       "developer": "Avalanche Software",
       "publisher": "Warner Bros. Games",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.6642.13668282042107954.990e31ce-5b94-4058-beec-37b32e211c05.46dc11ff-dcf6-425c-8aaf-5b474edd9def",
-      "heroImage": "https://store-images.s-microsoft.com/image/apps.38223.13668282042107954.990e31ce-5b94-4058-beec-37b32e211c05.c3107f41-508f-4359-b859-bb2f1e2913dd",
+      "imageUrl": "https://store-images.s-microsoft.com/image/apps.11179.13668282042107954.874f4821-1931-4173-aee3-0eed5c78ce55.5e9896f6-415e-4233-89da-d05cb61e48a6",
+      "heroImage": "https://store-images.s-microsoft.com/image/apps.8560.13668282042107954.874f4821-1931-4173-aee3-0eed5c78ce55.1e00c8d2-ef3a-479f-8868-5107a5836bd1",
       "screenshots": [
         "https://store-images.s-microsoft.com/image/apps.36022.13814785456466922.4e78e496-4e8c-4f2c-93df-55ea1fa48e05.5871650b-f682-48cc-a882-c003b9d1f725",
         "https://store-images.s-microsoft.com/image/apps.41433.13814785456466922.4e78e496-4e8c-4f2c-93df-55ea1fa48e05.4c5291b0-6136-471a-8310-39bb68e2b5d7",
@@ -56449,8 +56534,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 3.4,
-      "ratingCount": 16,
+      "rating": 3.2,
+      "ratingCount": 17,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -56998,7 +57083,7 @@
           "recommended": "Mouse integrado"
         }
       ],
-      "maxInstallSize": 78688079872,
+      "maxInstallSize": 78713274368,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/war-thunder/BX1DTCBD1HXJ"
     },
@@ -57321,7 +57406,7 @@
           "recommended": "Controladora de Xbox"
         }
       ],
-      "maxInstallSize": 105798737920,
+      "maxInstallSize": 107674763264,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/warhammer-40-000-darktide/9NT3WC6RKBVQ"
     },
@@ -58588,7 +58673,7 @@
       "hasDiscount": true,
       "discountPercent": 15,
       "rating": 4.6,
-      "ratingCount": 23,
+      "ratingCount": 28,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -60380,7 +60465,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4,
-      "ratingCount": 241,
+      "ratingCount": 242,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -60922,7 +61007,7 @@
           "recommended": "Controladora de Xbox"
         }
       ],
-      "maxInstallSize": 127499456512,
+      "maxInstallSize": 131788410880,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/wuthering-waves/9P41GS5W1C6L"
     },
