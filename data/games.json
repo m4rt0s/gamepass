@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-29T14:25:18.450Z",
+  "updatedAt": "2026-09-30T14:19:15.748Z",
   "market": "ES",
   "language": "es-ES",
   "totalGames": 822,
@@ -2971,7 +2971,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.7,
-      "ratingCount": 21148,
+      "ratingCount": 21149,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -5101,8 +5101,8 @@
       "currency": "EUR",
       "hasDiscount": true,
       "discountPercent": 45,
-      "rating": 3.6,
-      "ratingCount": 84,
+      "rating": 3.7,
+      "ratingCount": 85,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -5495,7 +5495,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.3,
-      "ratingCount": 137,
+      "ratingCount": 138,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -7351,7 +7351,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.3,
-      "ratingCount": 17,
+      "ratingCount": 18,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -9050,7 +9050,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 2.4,
-      "ratingCount": 121,
+      "ratingCount": 122,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -9115,7 +9115,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 2.3,
-      "ratingCount": 118,
+      "ratingCount": 119,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -12063,7 +12063,7 @@
           "recommended": "16 GB"
         }
       ],
-      "maxInstallSize": 22576664576,
+      "maxInstallSize": 51237167104,
       "hasAddOns": false,
       "storeUrl": "https://www.xbox.com/es-es/games/store/crime-scene-cleaner/9NGZ1M3N98P2"
     },
@@ -12812,7 +12812,7 @@
           "recommended": "Controladora de Xbox"
         }
       ],
-      "maxInstallSize": 79750529024,
+      "maxInstallSize": 79749996544,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/dead-island-2/C3L4J3H7H12R"
     },
@@ -12912,7 +12912,7 @@
           "recommended": "Controladora de Xbox"
         }
       ],
-      "maxInstallSize": 97272168448,
+      "maxInstallSize": 96553345024,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/dead-island-2-windows/9N92LSHFZ935"
     },
@@ -13407,7 +13407,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.2,
-      "ratingCount": 305,
+      "ratingCount": 306,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -14324,7 +14324,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.5,
-      "ratingCount": 278,
+      "ratingCount": 280,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -14348,7 +14348,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 216763133952,
+      "maxInstallSize": 216741236736,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/diablo-iv-standard-edition/9N8117TM8JL3"
     },
@@ -15886,7 +15886,7 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 4.4,
+      "rating": 4.5,
       "ratingCount": 40,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
@@ -16816,7 +16816,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 2.9,
-      "ratingCount": 34,
+      "ratingCount": 35,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -16891,7 +16891,7 @@
           "recommended": "Micrófono integrado"
         }
       ],
-      "maxInstallSize": 42603450368,
+      "maxInstallSize": 42614403072,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/dune-awakening/9PJ6FV3130QZ"
     },
@@ -21242,8 +21242,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 4.2,
-      "ratingCount": 5,
+      "rating": 4.3,
+      "ratingCount": 6,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -21437,7 +21437,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 5,
-      "ratingCount": 11,
+      "ratingCount": 12,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -22282,7 +22282,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.7,
-      "ratingCount": 4513,
+      "ratingCount": 4517,
       "ageRating": 12,
       "pegiRating": "Supervisión parental recomendada",
       "pegiDescription": "Supervisión parental recomendada",
@@ -24390,7 +24390,7 @@
           "recommended": "Controladora de Xbox"
         }
       ],
-      "maxInstallSize": 2701074432,
+      "maxInstallSize": 2701115392,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/goals/9PF2ZS4XB4JH"
     },
@@ -25831,7 +25831,7 @@
       "hasDiscount": true,
       "discountPercent": 20,
       "rating": 3.8,
-      "ratingCount": 181,
+      "ratingCount": 183,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -26888,9 +26888,12 @@
       "pegiDescription": "Apropiado a partir de 12 años",
       "interactiveDescriptions": [],
       "capabilities": [
+        "Cooperación local de Xbox (2-7)",
+        "Cooperativo en línea  (2-7)",
         "Multijugador local de Xbox (2-8)",
         "Multijugador en línea  (2-8)",
         "Un jugador",
+        "Pantalla dividida o compartida",
         "Logros de Xbox",
         "Presencia de Xbox",
         "Cosas guardadas en la nube de Xbox"
@@ -26937,7 +26940,7 @@
           "recommended": "Mouse integrado"
         }
       ],
-      "maxInstallSize": 7135842304,
+      "maxInstallSize": 7257083904,
       "hasAddOns": false,
       "storeUrl": "https://www.xbox.com/es-es/games/store/heroes-of-might-and-magic-olden-era-versi-n-preliminar-del-juego/9P2TFCCRKMRD"
     },
@@ -29096,7 +29099,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.3,
-      "ratingCount": 164,
+      "ratingCount": 165,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -33167,7 +33170,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.7,
-      "ratingCount": 51733,
+      "ratingCount": 51738,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -33245,7 +33248,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.7,
-      "ratingCount": 21127,
+      "ratingCount": 21129,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -33346,57 +33349,52 @@
       "storeUrl": "https://www.xbox.com/es-es/games/store/minecraft-dungeons/9N8NJ74FZTG9"
     },
     {
-      "id": "9P5786PJB9RP",
+      "id": "9PM3J18QM4Q3",
       "title": "Minecraft Dungeons II",
-      "description": "Una nueva amenaza se cierne sobre el Mundo superior...\nMinecraft Dungeons II ya está aquí con más acción, más botín y más aventura. Cruza la grieta y lucha donde ningún héroe ha llegado antes: El Sift, una dimensión inexplorada repleta de amenazas, misterios y una belleza impresionante. Equípate y personaliza tu estilo de juego para enfrentarte a tus enemigos más duros hasta la fecha en batallas explosivas. Afronta lo desconocido como héroe solitario, forma equipo con amigos en cooperativo local, online y mixto, o encuentra aliados mediante el emparejamiento. El plan de los maldeanos ya está en marcha, y su crueldad solo es comparable a su poder. Detenlos, o el Mundo superior caerá presa de su corrupción.\n*Requiere una descarga inicial de contenido. El multijugador/cooperativo online en consola requiere una suscripción online específica de la plataforma (se vende por separado).",
+      "description": "Una nueva amenaza se cierne sobre el Mundo superior...\n\nMinecraft Dungeons II ya está aquí con más acción, más botín y más aventura. Cruza la grieta y lucha donde ningún héroe ha llegado antes: El Sift, una dimensión inexplorada repleta de amenazas, misterios y una belleza impresionante. Equípate y personaliza tu estilo de juego para enfrentarte a tus enemigos más duros hasta la fecha en batallas explosivas. Afronta lo desconocido como héroe solitario, forma equipo con amigos en cooperativo local, online y mixto, o encuentra aliados mediante el emparejamiento. El plan de los maldeanos ya está en marcha, y su crueldad solo es comparable a su poder. Detenlos, o el Mundo superior caerá presa de su corrupción.\n\n*Requiere una descarga inicial de contenido. El multijugador/cooperativo online en consola requiere una suscripción online específica de la plataforma (se vende por separado).",
       "shortDescription": "¡El próximo capítulo de Minecraft Dungeons empezará en otoño de 2026! Una nueva amenaza se agita, lista para descender sobre la tierra y sus habitantes para causar un caos indescriptible. ¡Conviértete en un héroe y enfréntate a enemigos como nunca antes te has enfrentado, recorre lugares largamente olvidados y enfréntate a las fuerzas del mal una vez más! ",
       "developer": "Mojang Studios / ‪Double Eleven Limited",
       "publisher": "Xbox Game Studios",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.26573.14578966298260124.ac5059d8-7ee1-409a-8326-c91ad228baaf.a247be92-60ea-4246-8144-1223dd311ff6",
-      "heroImage": "https://store-images.s-microsoft.com/image/apps.1020.14578966298260124.ac5059d8-7ee1-409a-8326-c91ad228baaf.a97b984e-8283-44f4-8b8f-f6949d38008f",
+      "imageUrl": "https://store-images.s-microsoft.com/image/apps.26573.14305479850136392.1d44bfb9-b43e-4fae-a421-d6f972529d66.fd3f91b2-3de0-4920-a853-4f5725b2495f",
+      "heroImage": "https://store-images.s-microsoft.com/image/apps.52340.14305479850136392.1d44bfb9-b43e-4fae-a421-d6f972529d66.0f08e1c6-ec15-4afe-957f-8e79d1ed0712",
       "screenshots": [
-        "https://store-images.s-microsoft.com/image/apps.27155.14578966298260124.ac5059d8-7ee1-409a-8326-c91ad228baaf.a2e3b8d5-0f56-4966-9f20-462e4f6f2cf4",
-        "https://store-images.s-microsoft.com/image/apps.21261.14578966298260124.ac5059d8-7ee1-409a-8326-c91ad228baaf.4c3f1e5c-cf0c-4221-a430-6facfa060bab",
-        "https://store-images.s-microsoft.com/image/apps.54316.14578966298260124.ac5059d8-7ee1-409a-8326-c91ad228baaf.a1b5ca77-c61a-4776-998d-916eb9719b07",
-        "https://store-images.s-microsoft.com/image/apps.38847.14578966298260124.ac5059d8-7ee1-409a-8326-c91ad228baaf.f6d85dd1-5c32-4f56-be54-c57627799db0"
+        "https://store-images.s-microsoft.com/image/apps.42157.14305479850136392.1d44bfb9-b43e-4fae-a421-d6f972529d66.63310776-47ec-497b-a958-3c6881ec3548",
+        "https://store-images.s-microsoft.com/image/apps.30775.14305479850136392.1d44bfb9-b43e-4fae-a421-d6f972529d66.2ff28c9d-5487-4105-9966-c7fde91ab92e",
+        "https://store-images.s-microsoft.com/image/apps.1395.14305479850136392.1d44bfb9-b43e-4fae-a421-d6f972529d66.013cfa34-8762-4c5f-96f2-04980eccc03f",
+        "https://store-images.s-microsoft.com/image/apps.26442.14305479850136392.1d44bfb9-b43e-4fae-a421-d6f972529d66.699c2d17-0e5b-4a35-9236-2a20ba340ae6"
       ],
-      "videoUrl": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftassets/852a37e0-7919-4f3a-8acb-903f3ff92e55-AVS.m3u8?packagedStreaming=true",
-      "videoCaption": "MINECRAFT DUNGEONS II | Announce Trailer",
-      "releaseDate": "",
+      "videoUrl": "https://cdn.trailers.xboxservices.com/trailers/00000000-0000-0000-0000-000000000000/xbox/prod/videos/mainprofile/14305479850136392/3a25ce81-a099-42c1-bb93-637d5e85ee4f/manifest.m3u8",
+      "videoCaption": "MINECRAFT DUNGEONS II | Official Gameplay Trailer",
+      "releaseDate": "9998-12-30",
       "categories": [
-        "Acción y aventura",
-        "Juegos de rol"
+        "Acción y aventura"
       ],
       "tiers": [
         "pc",
         "ultimate"
       ],
       "platform": "both",
-      "price": 0,
-      "msrp": 0,
+      "price": 29.99,
+      "msrp": 29.99,
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 5,
-      "ratingCount": 1,
+      "rating": 4.3,
+      "ratingCount": 12,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
       "interactiveDescriptions": [
-        "Compras dentro del juego"
+        "Compras dentro del juego",
+        "Interacción de usuarios"
       ],
       "capabilities": [
         "Cooperación local de Xbox (2-4)",
         "Cooperativo en línea  (2-4)",
-        "Multijugador local de Xbox (2-4)",
-        "Multijugador en línea  (2-4)",
         "Multijugador multiplataforma de Xbox",
-        "4K Ultra HD",
         "Un jugador",
+        "Pantalla dividida o compartida",
         "Cooperación multiplataforma de Xbox",
-        "Optimizado para Xbox Series X|S",
-        "Logros de Xbox",
-        "Cosas guardadas en la nube de Xbox",
         "Xbox Play Anywhere"
       ],
       "systemRequirements": [
@@ -33428,7 +33426,7 @@
       ],
       "maxInstallSize": 9728999424,
       "hasAddOns": true,
-      "storeUrl": "https://www.xbox.com/es-es/games/store/minecraft-dungeons-ii/9P5786PJB9RP"
+      "storeUrl": "https://www.xbox.com/es-es/games/store/minecraft-dungeons-ii/9PM3J18QM4Q3"
     },
     {
       "id": "9NB6BVL3MTG4",
@@ -33635,7 +33633,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4,
-      "ratingCount": 15928,
+      "ratingCount": 15935,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -33830,7 +33828,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.5,
-      "ratingCount": 61604,
+      "ratingCount": 61611,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -34307,46 +34305,64 @@
       "storeUrl": "https://www.xbox.com/es-es/games/store/mixtape/9NH0MSG29X6L"
     },
     {
-      "id": "9NVH8SJNX20S",
-      "title": "MONOPOLY 2024",
-      "description": "MONOPOLY® vuelve con un aspecto renovado y una mejor experiencia de juego. Compra, vende e intercambia propiedades, y haz crecer tu imperio en esta fiel adaptación del juego con el que todos crecimos. Tira los dados, empieza la partida y lánzate a explorar una emocionante ciudad en 3D completamente animada. \n\nEL TABLERO COBRA VIDA\n- MONOPOLY sube el listón de la saga clásica gracias a una detallada ciudad en 3D y gráficos de última generación.\n- Desplázate por el tablero para explorar la ciudad y sus distintos vecindarios, o espía a tus oponentes antes de tu siguiente movimiento.\n- El juego dispone de ciclos meteorológicos y de día/noche. Admira la ciudad mientras una mañana soleada se transforma en una noche tormentosa.\n\nCOMO JUGAR EN TABLERO\n- Siente la esencia de jugar en tablero en cada compra, venta e intercambio, y planifica tu estrategia para forrarte.\n- Ahora puedes manipular tu ficha moviéndola de un lado a otro y haciendo saltos. ¿Quieres vengarte por tu bancarrota? ¡Tumba las fichas del culpable! ¿Acabarás en la cárcel? ¡Lanza todo el tablero! \n\nLA ESENCIA DE UNA TARDE DE JUEGOS EN FAMILIA\n- Monta una partida de hasta seis jugadores en tu sala de estar, o compite en línea* contra otros magnates del sector inmobiliario de todo el mundo. ¡También es posible jugar a MONOPOLY entre distintas plataformas!\n- Elige usar un mando para todos, o que cada jugador utilice el suyo.\n- Personaliza tus dados y descubre tus fichas favoritas desde una perspectiva nueva.\n",
-      "shortDescription": "MONOPOLY® vuelve con un aspecto renovado y una mejor experiencia de juego. Compra, vende e intercambia propiedades, y haz crecer tu imperio en una ciudad en 3D completamente animada en la que vivirás días soleados y noches tormentosas mientras juegas.",
+      "id": "9P0RGJND5SR0",
+      "title": "MONOPOLY Madness",
+      "description": "Redescubre el juego de compraventa de propiedades de una forma nunca vista. ¡El Sr. Monopoly busca a alguien que lo sustituya temporalmente durante sus vacaciones! Prepárate para participar en una carrera competitiva en tiempo real y demuestra que eres capaz de ocupar su puesto.\n\nEn esta carrera por la fama y la fortuna, las reglas han cambiado ligeramente:\n•\t¡Ya no hay tablero! Recorre las calles de Monopoly Town para conseguir dinero, agua y electricidad.\n•\t20 personajes NUEVOS para jugar inspirados en fichas clásicas de MONOPOLY®.\n•\tDescubre 4 entornos distintos, cada uno con varios niveles y distribuciones.\n•\tJuega con hasta 6 jugadores en línea o en modo local.\n•\t¡Consigue potenciadores en las Cajas de Comunidad! Úsalos para perjudicar a tus adversarios y conseguir una ventaja que te permita ganar.\n\n¡Es el caos!\n\nEste juego aprovecha Smart Delivery, que permite acceder al título para Xbox One y para Xbox Series X y S.\n\nSe requiere una conexión a internet, una cuenta de Ubisoft, una cuenta de Microsoft y Game Pass Ultimate o Core (suscripciones vendidas por separado) para acceder a las funciones/multijugador en línea.",
+      "shortDescription": "Redescubre el apasionante MONOPOLY® de un forma nunca vista. Enfréntate a los demás jugadores en las bulliciosas calles de Monopoly Town en rondas más cortas, consigue recursos, compra y mejora propiedades, engaña a tus rivales y evita caer en sus trampas para ganar la carrera por las riquezas. ¡Es el caos!",
       "developer": "",
       "publisher": "Ubisoft",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.24554.14343020341393542.4f6cb4fc-0df1-45e4-a990-fc48bedc288e.b73882ca-49f6-4393-8ec0-b101494ee32d",
-      "heroImage": "https://store-images.s-microsoft.com/image/apps.41221.14343020341393542.4f6cb4fc-0df1-45e4-a990-fc48bedc288e.3eb44155-7303-4c78-95b7-7af636772e34",
+      "imageUrl": "https://store-images.s-microsoft.com/image/apps.35409.14525699525425613.9329bf2d-2490-4f7b-bf0f-cdbaa75d45b4.addb5bfa-936f-4cb1-a823-87d71ecfebb6",
+      "heroImage": "https://store-images.s-microsoft.com/image/apps.58582.14525699525425613.9329bf2d-2490-4f7b-bf0f-cdbaa75d45b4.469c5522-f7ed-406b-af2e-b519a48519fb",
       "screenshots": [
-        "https://store-images.s-microsoft.com/image/apps.45862.14343020341393542.4f6cb4fc-0df1-45e4-a990-fc48bedc288e.93e5c71e-afcc-4807-b11a-2301e125f82a",
-        "https://store-images.s-microsoft.com/image/apps.56535.14343020341393542.4f6cb4fc-0df1-45e4-a990-fc48bedc288e.6288d856-532e-4e1f-bd17-d768922f4b62",
-        "https://store-images.s-microsoft.com/image/apps.43080.14343020341393542.4f6cb4fc-0df1-45e4-a990-fc48bedc288e.9c5d4afa-06d6-4180-891a-de5f8aad9cb2",
-        "https://store-images.s-microsoft.com/image/apps.40132.14343020341393542.4f6cb4fc-0df1-45e4-a990-fc48bedc288e.4292849e-79d9-4677-916d-ef4f71e29077"
+        "https://store-images.s-microsoft.com/image/apps.60224.14525699525425613.38c1323d-1fa9-4028-acbb-5778d7714603.d2a463c8-0c8f-4e0c-85cb-5db80f7e8ee3",
+        "https://store-images.s-microsoft.com/image/apps.16601.14525699525425613.9329bf2d-2490-4f7b-bf0f-cdbaa75d45b4.8bf9f11f-2bf3-4a96-b0c3-c45a06efd4a6",
+        "https://store-images.s-microsoft.com/image/apps.63868.14525699525425613.38c1323d-1fa9-4028-acbb-5778d7714603.12b13fdb-6425-441d-ab30-214e469acb3a",
+        "https://store-images.s-microsoft.com/image/apps.29332.14525699525425613.38c1323d-1fa9-4028-acbb-5778d7714603.66fdaa8c-e66b-455a-a16a-650a4419deed"
       ],
       "videoUrl": "",
       "videoCaption": "",
-      "releaseDate": "2026-07-21",
+      "releaseDate": "2021-12-08",
       "categories": [
-        "Juegos de mesa"
+        "Acción y aventura",
+        "Clásicos",
+        "Niños y familia"
       ],
       "tiers": [
         "ultimate"
       ],
-      "platform": "pc",
-      "price": 5.99,
-      "msrp": 14.99,
+      "platform": "console",
+      "price": 7.49,
+      "msrp": 29.99,
       "currency": "EUR",
       "hasDiscount": true,
-      "discountPercent": 60,
-      "rating": 0,
-      "ratingCount": 0,
+      "discountPercent": 75,
+      "rating": 2.8,
+      "ratingCount": 5,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
       "interactiveDescriptions": [],
-      "capabilities": [],
-      "systemRequirements": [],
-      "maxInstallSize": 5368709120,
-      "hasAddOns": false,
-      "storeUrl": "https://www.xbox.com/es-es/games/store/monopoly-2024/9NVH8SJNX20S"
+      "capabilities": [
+        "Cooperación local de Xbox (2-6)",
+        "Multijugador local de Xbox (2-6)",
+        "Multijugador en línea  (2-6)",
+        "4K Ultra HD",
+        "Un jugador",
+        "Multijugador multgeneración de Xbox Live",
+        "Logros de Xbox",
+        "Clubs de Xbox",
+        "Cosas guardadas en la nube de Xbox"
+      ],
+      "systemRequirements": [
+        {
+          "title": "Arquitectura",
+          "minimum": "x64",
+          "recommended": "x64"
+        }
+      ],
+      "maxInstallSize": 3593928704,
+      "hasAddOns": true,
+      "storeUrl": "https://www.xbox.com/es-es/games/store/monopoly-madness/9P0RGJND5SR0"
     },
     {
       "id": "9MTP0GJ0Q3MG",
@@ -34405,66 +34421,6 @@
       "maxInstallSize": 0,
       "hasAddOns": false,
       "storeUrl": "https://www.xbox.com/es-es/games/store/monopoly-madness/9MTP0GJ0Q3MG"
-    },
-    {
-      "id": "9P0RGJND5SR0",
-      "title": "MONOPOLY® Madness",
-      "description": "Redescubre el juego de compraventa de propiedades de una forma nunca vista. ¡El Sr. Monopoly busca a alguien que lo sustituya temporalmente durante sus vacaciones! Prepárate para participar en una carrera competitiva en tiempo real y demuestra que eres capaz de ocupar su puesto.\r\n\r\nEn esta carrera por la fama y la fortuna, las reglas han cambiado ligeramente:\r\n•\t¡Ya no hay tablero! Recorre las calles de Monopoly Town para conseguir dinero, agua y electricidad.\r\n•\t20 personajes NUEVOS para jugar inspirados en fichas clásicas de MONOPOLY®.\r\n•\tDescubre 4 entornos distintos, cada uno con varios niveles y distribuciones.\r\n•\tJuega con hasta 6 jugadores en línea o en modo local.\r\n•\t¡Consigue potenciadores en las Cajas de Comunidad! Úsalos para perjudicar a tus adversarios y conseguir una ventaja que te permita ganar.\r\n\r\n¡Es el caos!",
-      "shortDescription": "Redescubre el apasionante MONOPOLY® de un forma nunca vista. Enfréntate a los demás jugadores en las bulliciosas calles de Monopoly Town en rondas más cortas, consigue recursos, compra y mejora propiedades, engaña a tus rivales y evita caer en sus trampas para ganar la carrera por las riquezas. ¡Es el caos!",
-      "developer": "",
-      "publisher": "Ubisoft",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.35409.14525699525425613.9329bf2d-2490-4f7b-bf0f-cdbaa75d45b4.addb5bfa-936f-4cb1-a823-87d71ecfebb6",
-      "heroImage": "https://store-images.s-microsoft.com/image/apps.58582.14525699525425613.9329bf2d-2490-4f7b-bf0f-cdbaa75d45b4.469c5522-f7ed-406b-af2e-b519a48519fb",
-      "screenshots": [
-        "https://store-images.s-microsoft.com/image/apps.60224.14525699525425613.38c1323d-1fa9-4028-acbb-5778d7714603.d2a463c8-0c8f-4e0c-85cb-5db80f7e8ee3",
-        "https://store-images.s-microsoft.com/image/apps.16601.14525699525425613.9329bf2d-2490-4f7b-bf0f-cdbaa75d45b4.8bf9f11f-2bf3-4a96-b0c3-c45a06efd4a6",
-        "https://store-images.s-microsoft.com/image/apps.63868.14525699525425613.38c1323d-1fa9-4028-acbb-5778d7714603.12b13fdb-6425-441d-ab30-214e469acb3a",
-        "https://store-images.s-microsoft.com/image/apps.29332.14525699525425613.38c1323d-1fa9-4028-acbb-5778d7714603.66fdaa8c-e66b-455a-a16a-650a4419deed"
-      ],
-      "videoUrl": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftassets/c0891858-92c2-4f35-a540-61f065256118-AVS.m3u8?packagedStreaming=true",
-      "videoCaption": "Trailer",
-      "releaseDate": "2021-12-08",
-      "categories": [
-        "Acción y aventura",
-        "Clásicos",
-        "Niños y familia"
-      ],
-      "tiers": [
-        "ultimate"
-      ],
-      "platform": "console",
-      "price": 7.49,
-      "msrp": 29.99,
-      "currency": "EUR",
-      "hasDiscount": true,
-      "discountPercent": 75,
-      "rating": 2.8,
-      "ratingCount": 5,
-      "ageRating": 3,
-      "pegiRating": "PEGI 3",
-      "pegiDescription": "Apropiado a partir de 3 años",
-      "interactiveDescriptions": [],
-      "capabilities": [
-        "Cooperación local de Xbox (2-6)",
-        "Multijugador local de Xbox (2-6)",
-        "Multijugador en línea  (2-6)",
-        "4K Ultra HD",
-        "Un jugador",
-        "Multijugador multgeneración de Xbox Live",
-        "Logros de Xbox",
-        "Clubs de Xbox",
-        "Cosas guardadas en la nube de Xbox"
-      ],
-      "systemRequirements": [
-        {
-          "title": "Arquitectura",
-          "minimum": "x64",
-          "recommended": "x64"
-        }
-      ],
-      "maxInstallSize": 3593928704,
-      "hasAddOns": true,
-      "storeUrl": "https://www.xbox.com/es-es/games/store/monopoly-madness/9P0RGJND5SR0"
     },
     {
       "id": "9MZNS9NZ97PF",
@@ -35348,7 +35304,7 @@
           "recommended": "Controladora de Xbox"
         }
       ],
-      "maxInstallSize": 106264629248,
+      "maxInstallSize": 108501225472,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/naraka-bladepoint/9P8SQQJ5T94B"
     },
@@ -35728,6 +35684,48 @@
       "maxInstallSize": 2895560704,
       "hasAddOns": false,
       "storeUrl": "https://www.xbox.com/es-es/games/store/new-monopoly/9P8H220G3S4P"
+    },
+    {
+      "id": "9NVH8SJNX20S",
+      "title": "NEW MONOPOLY®",
+      "description": "NEW MONOPOLY® (antes llamado MONOPOLY® 2024) es el mismo juego, pero con otro nombre. Si tienes alguna pregunta o necesitas ayuda, no dudes en ponerte en contacto con el servicio de atención al cliente de Ubisoft en ubisoft.com/r/help/monopoly\n\nNEW MONOPOLY® vuelve con un aspecto renovado y una mejor experiencia de juego. Compra, vende e intercambia propiedades, y haz crecer tu imperio en esta fiel adaptación del juego con el que todos crecimos. Tira los dados, empieza la partida y lánzate a explorar una emocionante ciudad en 3D completamente animada.\n\nEL TABLERO COBRA VIDA\nNEW MONOPOLY sube el listón de la saga clásica gracias a una detallada ciudad en 3D y gráficos de última generación.\n- Desplázate por el tablero para explorar la ciudad y sus distintos vecindarios, o espía a tus oponentes antes de tu siguiente movimiento.\n- Admira la ciudad mientras una mañana soleada se transforma en una noche tormentosa, gracias a los ciclos de día/noche y la variación meteorológica.\n\nCOMO JUGAR EN TABLERO\n- Siente la esencia de jugar en tablero en cada compra, venta e intercambio, y planifica tu estrategia para forrarte.\n- Ahora puedes manipular tu ficha moviéndola de un lado a otro y haciendo saltos. ¿Quieres vengarte por tu bancarrota? ¡Tumba las fichas del culpable! ¿Acabarás en la cárcel? ¡Lanza todo el tablero!\n\nLA ESENCIA DE UNA TARDE DE JUEGOS EN FAMILIA\n- Monta una partida de hasta seis jugadores en tu sala de estar, o compite en línea contra otros magnates del sector inmobiliario de todo el mundo. ¡También es posible jugar a NEW MONOPOLY entre distintas plataformas!\n- Elige usar un mando para todos, o que cada jugador utilice el suyo.\n- Personaliza tus dados y descubre tus fichas favoritas desde una perspectiva nueva.",
+      "shortDescription": "MONOPOLY® vuelve con un aspecto renovado y una mejor experiencia de juego. Compra, vende e intercambia propiedades, y haz crecer tu imperio en una ciudad en 3D completamente animada en la que vivirás días soleados y noches tormentosas mientras juegas.",
+      "developer": "",
+      "publisher": "Ubisoft",
+      "imageUrl": "https://store-images.s-microsoft.com/image/apps.64235.14413018653132681.2d76bec8-c25a-469e-9cf1-eaaa965332ec.caaf0b02-181d-4f13-b640-5e572719e02c",
+      "heroImage": "https://store-images.s-microsoft.com/image/apps.5343.14413018653132681.2d76bec8-c25a-469e-9cf1-eaaa965332ec.1dc377f5-40a8-4de9-91b2-5512700b15c9",
+      "screenshots": [
+        "https://store-images.s-microsoft.com/image/apps.64758.14413018653132681.d282348d-2cd2-4032-824b-309efde9e63e.30024ec6-47b4-4cef-84ff-fee68b924bd2",
+        "https://store-images.s-microsoft.com/image/apps.31292.14413018653132681.d282348d-2cd2-4032-824b-309efde9e63e.987022f8-871a-430c-95a7-3337ebf83d2f",
+        "https://store-images.s-microsoft.com/image/apps.13652.14413018653132681.d282348d-2cd2-4032-824b-309efde9e63e.b4f5dcbc-fb03-42c4-b76a-bbd490b8df35",
+        "https://store-images.s-microsoft.com/image/apps.16096.14413018653132681.d282348d-2cd2-4032-824b-309efde9e63e.9b00a2a6-4d34-4b56-be8b-4753801a409a"
+      ],
+      "videoUrl": "",
+      "videoCaption": "",
+      "releaseDate": "2026-07-21",
+      "categories": [
+        "Juegos de mesa"
+      ],
+      "tiers": [
+        "ultimate"
+      ],
+      "platform": "pc",
+      "price": 5.99,
+      "msrp": 14.99,
+      "currency": "EUR",
+      "hasDiscount": true,
+      "discountPercent": 60,
+      "rating": 0,
+      "ratingCount": 0,
+      "ageRating": 3,
+      "pegiRating": "PEGI 3",
+      "pegiDescription": "Apropiado a partir de 3 años",
+      "interactiveDescriptions": [],
+      "capabilities": [],
+      "systemRequirements": [],
+      "maxInstallSize": 5368709120,
+      "hasAddOns": false,
+      "storeUrl": "https://www.xbox.com/es-es/games/store/new-monopoly/9NVH8SJNX20S"
     },
     {
       "id": "9MZN3SMXN824",
@@ -36525,7 +36523,7 @@
       "hasDiscount": true,
       "discountPercent": 50,
       "rating": 3.9,
-      "ratingCount": 95,
+      "ratingCount": 96,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -36639,7 +36637,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.9,
-      "ratingCount": 775,
+      "ratingCount": 776,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -42422,7 +42420,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.5,
-      "ratingCount": 305,
+      "ratingCount": 308,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -43327,7 +43325,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.1,
-      "ratingCount": 1435,
+      "ratingCount": 1436,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -44779,7 +44777,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.8,
-      "ratingCount": 60,
+      "ratingCount": 61,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -46974,7 +46972,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.6,
-      "ratingCount": 116,
+      "ratingCount": 117,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -47128,7 +47126,7 @@
       "hasDiscount": true,
       "discountPercent": 40,
       "rating": 3.8,
-      "ratingCount": 1843,
+      "ratingCount": 1844,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -48663,7 +48661,7 @@
           "recommended": "Controladora de Xbox"
         }
       ],
-      "maxInstallSize": 1589501952,
+      "maxInstallSize": 1590059008,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/supermarket-simulator/9NR0GCBSLDW4"
     },
@@ -53959,7 +53957,7 @@
       "hasDiscount": true,
       "discountPercent": 85,
       "rating": 3.9,
-      "ratingCount": 200,
+      "ratingCount": 201,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -58672,8 +58670,8 @@
       "currency": "EUR",
       "hasDiscount": true,
       "discountPercent": 15,
-      "rating": 4.6,
-      "ratingCount": 28,
+      "rating": 4.7,
+      "ratingCount": 32,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -59452,8 +59450,8 @@
       "screenshots": [
         "https://store-images.s-microsoft.com/image/apps.30694.69996971058496124.2c12fbbb-b1fd-4ae1-b929-d0155904a243.9c5f95df-9c42-433a-b567-ca1fed46e875",
         "https://store-images.s-microsoft.com/image/apps.25424.69996971058496124.2c12fbbb-b1fd-4ae1-b929-d0155904a243.86e13cf8-f347-4ec3-b9ef-f2109448d57e",
-        "https://store-images.s-microsoft.com/image/apps.57154.69996971058496124.2c12fbbb-b1fd-4ae1-b929-d0155904a243.baa0c88a-0439-4193-a939-0bbe29b54c3e",
-        "https://store-images.s-microsoft.com/image/apps.61761.69996971058496124.2c12fbbb-b1fd-4ae1-b929-d0155904a243.c25cbaa2-b58e-44e1-bb24-5acab7f5d2db"
+        "https://store-images.s-microsoft.com/image/apps.61761.69996971058496124.2c12fbbb-b1fd-4ae1-b929-d0155904a243.c25cbaa2-b58e-44e1-bb24-5acab7f5d2db",
+        "https://store-images.s-microsoft.com/image/apps.46184.69996971058496124.2c12fbbb-b1fd-4ae1-b929-d0155904a243.e7c4e8d2-ab02-4905-b903-a445c567129b"
       ],
       "videoUrl": "",
       "videoCaption": "",
@@ -60910,16 +60908,16 @@
       "shortDescription": "Wuthering Waves es un juego de rol de mundo abierto lleno de historias y que permite un alto grado de libertad de juego. Despiertas como Errante, acompañado de un elenco vibrante de Resonadores, en un viaje para recuperar tus recuerdos perdidos, explorar y transformar el mundo.",
       "developer": "KURO GAMES",
       "publisher": "KURO GAMES",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.60003.14597666972638877.55b60d16-e509-4234-9639-bf718c9d3da9.8af49ba9-303d-4b15-bd23-ebc7e47279fb",
-      "heroImage": "https://store-images.s-microsoft.com/image/apps.60717.14597666972638877.55b60d16-e509-4234-9639-bf718c9d3da9.bb0685be-dba5-4aa4-8391-71b9d6d41852",
+      "imageUrl": "https://store-images.s-microsoft.com/image/apps.41355.14597666972638877.5bceb6f8-6cdc-4d7b-bf47-6857fe6c0434.7ed514f5-984b-48f8-9420-0aff88f34e7f",
+      "heroImage": "https://store-images.s-microsoft.com/image/apps.53938.14597666972638877.5bceb6f8-6cdc-4d7b-bf47-6857fe6c0434.62c89a6e-8525-4e0f-a416-1bb7f9f8d66b",
       "screenshots": [
-        "https://store-images.s-microsoft.com/image/apps.57090.14597666972638877.4c0fa7d8-85b9-41ec-92d4-4c095a3f069c.7a793f49-0884-4feb-bd32-30b39dece814",
-        "https://store-images.s-microsoft.com/image/apps.1694.14597666972638877.55b60d16-e509-4234-9639-bf718c9d3da9.5c9fd5b5-07f2-44ae-b00c-ced0dc0cad61",
-        "https://store-images.s-microsoft.com/image/apps.63009.14597666972638877.55b60d16-e509-4234-9639-bf718c9d3da9.a35f37b6-999c-4275-82d2-68eb785dae0f",
-        "https://store-images.s-microsoft.com/image/apps.26014.14597666972638877.55b60d16-e509-4234-9639-bf718c9d3da9.6eebcd6c-0e79-4c8c-a3bd-53bcad25986b"
+        "https://store-images.s-microsoft.com/image/apps.15679.14597666972638877.5bceb6f8-6cdc-4d7b-bf47-6857fe6c0434.79de16a6-ab96-45db-89a9-5ad01b98475b",
+        "https://store-images.s-microsoft.com/image/apps.36014.14597666972638877.5bceb6f8-6cdc-4d7b-bf47-6857fe6c0434.ada3f635-18fd-4d76-b938-c5987ddfac9e",
+        "https://store-images.s-microsoft.com/image/apps.25586.14597666972638877.5bceb6f8-6cdc-4d7b-bf47-6857fe6c0434.c4dcc398-4024-4d47-84cb-952265c40daa",
+        "https://store-images.s-microsoft.com/image/apps.35400.14597666972638877.5bceb6f8-6cdc-4d7b-bf47-6857fe6c0434.ac90d688-8c8f-42c1-b9ae-745e718457c2"
       ],
-      "videoUrl": "https://cdn.trailers.xboxservices.com/trailers/00000000-0000-0000-0000-000000000000/xbox/prod/videos/mainprofile/14597666972638877/12250d0f-4f5d-49cd-b296-55fe8dc938ca/manifest.m3u8",
-      "videoCaption": "Version 3.6 Official Trailer ",
+      "videoUrl": "https://cdn.trailers.xboxservices.com/trailers/00000000-0000-0000-0000-000000000000/xbox/prod/videos/mainprofile/14597666972638877/774d4e53-ece7-4816-8115-47dc7a73435e/manifest.m3u8",
+      "videoCaption": "WuWa v3.7",
       "releaseDate": "2026-07-09",
       "categories": [
         "Acción y aventura",
