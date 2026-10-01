@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-09-30T14:19:15.748Z",
+  "updatedAt": "2026-10-01T14:52:56.929Z",
   "market": "ES",
   "language": "es-ES",
-  "totalGames": 822,
+  "totalGames": 812,
   "counts": {
-    "essential": 128,
-    "premium": 582,
-    "pc": 478,
-    "ultimate": 729,
-    "total": 822
+    "essential": 127,
+    "premium": 572,
+    "pc": 470,
+    "ultimate": 719,
+    "total": 812
   },
   "categories": [
     "Acción y aventura",
@@ -442,7 +442,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.7,
-      "ratingCount": 592,
+      "ratingCount": 593,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -1339,7 +1339,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.1,
-      "ratingCount": 117,
+      "ratingCount": 118,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -1992,7 +1992,7 @@
           "recommended": "Micrófono integrado"
         }
       ],
-      "maxInstallSize": 31999344640,
+      "maxInstallSize": 32013713408,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/aniimo/9PK8PHLCQDF6"
     },
@@ -2404,7 +2404,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 2.2,
-      "ratingCount": 408,
+      "ratingCount": 409,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -2482,7 +2482,7 @@
           "recommended": "Controladora de Xbox"
         }
       ],
-      "maxInstallSize": 215920898048,
+      "maxInstallSize": 216316338176,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/ark-survival-ascended/9P33VJGVPHVP"
     },
@@ -2971,7 +2971,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.7,
-      "ratingCount": 21149,
+      "ratingCount": 21150,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -4880,120 +4880,6 @@
       "maxInstallSize": 3083276288,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/astroneer/9NBLGGH43KZB"
-    },
-    {
-      "id": "9NC4WDL5KZBL",
-      "title": "Atomfall",
-      "description": "Atomfall, un juego de acción y supervivencia inspirado en hechos reales, se desarrolla cinco años después del desastre nuclear de Windscale, en el norte de Inglaterra.\nExplora la zona ficticia de cuarentena, rebusca, fabrica, realiza intercambios, lucha y ábrete paso a través de un paisaje rural británico lleno de personajes extraños, misticismo, sectas y agencias gubernamentales corruptas.\nAtomfoll es un videojuego desarrollado por Rebellion, el estudio encargado de Sniper Elite y Zombie Army, que te retará a resolver el oscuro misterio de lo que realmente ocurrió.\nMisterio dirigido por el jugador: desentraña un entramado de historias entrelazadas mientras exploras, entablas conversaciones, investigas y luchas. Cada decisión que tomes tendrá consecuencias.\nExplora las tierras verdes e inhóspitas: en la pintoresca campiña británica, con sus colinas verdes escalonadas, sus valles exuberantes y sus pueblos rurales, se esconden los peligros que te aguardan.\nInvestiga, rebusca, sobrevive:  ¡tendrás que buscar provisiones, fabricar armas y objetos, y luchar a muerte para conseguir salir con vida!  ",
-      "shortDescription": "Un desastre nuclear ha dejado una zona de Gran Bretaña destrozada. Atomfall es un nuevo juego de acción y supervivencia en el que tendrás que explorar, rebuscar, fabricar, hacer intercambios y abrirte paso en busca de respuestas por unos escenarios de gran belleza.",
-      "developer": "Rebellion",
-      "publisher": "Rebellion",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.34329.13575061151050973.cebfa75f-b2f4-4dde-99fa-c709bab904af.9b26f97c-19cc-4602-8f8d-27a7ab70c8b0",
-      "heroImage": "https://store-images.s-microsoft.com/image/apps.15012.13575061151050973.cebfa75f-b2f4-4dde-99fa-c709bab904af.a2bea58d-f1fe-4201-895c-59870cfa2c80",
-      "screenshots": [
-        "https://store-images.s-microsoft.com/image/apps.35355.13575061151050973.bca8c259-81dd-433d-877d-7cef19540446.41398700-cba1-4542-a0d6-e97efa62047b",
-        "https://store-images.s-microsoft.com/image/apps.51046.13575061151050973.bca8c259-81dd-433d-877d-7cef19540446.beba907b-4deb-40ce-90fb-d89ed13778a9",
-        "https://store-images.s-microsoft.com/image/apps.34299.13575061151050973.bca8c259-81dd-433d-877d-7cef19540446.0f6c6b95-871f-453c-b5da-bc198b78da06",
-        "https://store-images.s-microsoft.com/image/apps.49550.13575061151050973.bca8c259-81dd-433d-877d-7cef19540446.1d0f14a2-99e8-440e-926e-0e438cf4eeeb"
-      ],
-      "videoUrl": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftassets/a7eb345e-fa97-42b8-b33a-1a373900095f-AVS.m3u8?packagedStreaming=true",
-      "videoCaption": "Launch Trailer",
-      "releaseDate": "2025-03-27",
-      "categories": [
-        "Shooter",
-        "Acción y aventura"
-      ],
-      "tiers": [
-        "pc",
-        "premium",
-        "ultimate"
-      ],
-      "platform": "both",
-      "price": 59.99,
-      "msrp": 59.99,
-      "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
-      "rating": 3.2,
-      "ratingCount": 254,
-      "ageRating": 18,
-      "pegiRating": "PEGI 18",
-      "pegiDescription": "Apropiado a partir de 18 años",
-      "interactiveDescriptions": [
-        "Compras dentro del juego"
-      ],
-      "capabilities": [
-        "4K Ultra HD",
-        "HDR10",
-        "Un jugador",
-        "Frecuencia de actualización variable",
-        "60 fps +",
-        "Sonido espacial",
-        "Dolby Atmos",
-        "DTS:X",
-        "Optimizado para Xbox Series X|S",
-        "Entrega inteligente",
-        "Mouse y teclado de la consola",
-        "Logros de Xbox",
-        "Presencia de Xbox",
-        "Cosas guardadas en la nube de Xbox",
-        "Xbox Play Anywhere"
-      ],
-      "systemRequirements": [
-        {
-          "title": "SO",
-          "minimum": "Windows 10 version 18362.0 or higher",
-          "recommended": "Windows 10 version 18362.0 or higher"
-        },
-        {
-          "title": "Arquitectura",
-          "minimum": "x64",
-          "recommended": "x64"
-        },
-        {
-          "title": "Gráficos",
-          "minimum": "Nvidia 2060 or equivalent",
-          "recommended": ""
-        },
-        {
-          "title": "Procesador",
-          "minimum": "Intel CPU Core i5-9400f or equivalent",
-          "recommended": ""
-        },
-        {
-          "title": "Teclado",
-          "minimum": "Teclado integrado",
-          "recommended": "Teclado integrado"
-        },
-        {
-          "title": "Mouse",
-          "minimum": "Mouse integrado",
-          "recommended": "Mouse integrado"
-        },
-        {
-          "title": "DirectX",
-          "minimum": "API de DirectX 12, nivel de característica de hardware 11",
-          "recommended": ""
-        },
-        {
-          "title": "Memoria",
-          "minimum": "16 GB",
-          "recommended": ""
-        },
-        {
-          "title": "Memoria de vídeo",
-          "minimum": "6 GB",
-          "recommended": ""
-        },
-        {
-          "title": "Controladora",
-          "minimum": "",
-          "recommended": "Controladora de Xbox"
-        }
-      ],
-      "maxInstallSize": 77543120896,
-      "hasAddOns": true,
-      "storeUrl": "https://www.xbox.com/es-es/games/store/atomfall/9NC4WDL5KZBL"
     },
     {
       "id": "9N21G14CVS5L",
@@ -7017,8 +6903,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 3.5,
-      "ratingCount": 19,
+      "rating": 3.4,
+      "ratingCount": 20,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -7350,8 +7236,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 3.3,
-      "ratingCount": 18,
+      "rating": 3.4,
+      "ratingCount": 17,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -10523,7 +10409,7 @@
           "recommended": "2 GB"
         }
       ],
-      "maxInstallSize": 2213314560,
+      "maxInstallSize": 2213335040,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/clone-drone-in-the-danger-zone/9NKHKBQJSSC3"
     },
@@ -12637,7 +12523,7 @@
           "recommended": "Controladora de Xbox"
         }
       ],
-      "maxInstallSize": 77640171520,
+      "maxInstallSize": 78966173696,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/dead-by-daylight/C0N22P73QZ60"
     },
@@ -12741,7 +12627,7 @@
           "recommended": "Controladora de Xbox"
         }
       ],
-      "maxInstallSize": 65627422720,
+      "maxInstallSize": 66692673536,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/dead-by-daylight-windows/9NMS4SFNBGBH"
     },
@@ -12947,7 +12833,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.7,
-      "ratingCount": 252,
+      "ratingCount": 253,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -16816,7 +16702,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 2.9,
-      "ratingCount": 35,
+      "ratingCount": 36,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -17117,7 +17003,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 2.2,
-      "ratingCount": 175,
+      "ratingCount": 176,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -18690,7 +18576,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.1,
-      "ratingCount": 66,
+      "ratingCount": 67,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -19220,10 +19106,10 @@
       "imageUrl": "https://store-images.s-microsoft.com/image/apps.32675.70143269474194625.b0e8b744-cb24-48cd-9498-108cc064643f.8f726167-1f33-4d48-910a-2b00822b4ecc",
       "heroImage": "https://store-images.s-microsoft.com/image/apps.42534.70143269474194625.b0e8b744-cb24-48cd-9498-108cc064643f.b481472f-b6b6-45e4-9b5d-c7c81aba695c",
       "screenshots": [
-        "https://store-images.s-microsoft.com/image/apps.55914.70143269474194625.d30e156f-f4ab-4cb5-9abc-95867d2e0650.ad762ac0-21fe-4aef-bf3e-faef1d54da14",
-        "https://store-images.s-microsoft.com/image/apps.51595.70143269474194625.d30e156f-f4ab-4cb5-9abc-95867d2e0650.b816a701-846e-4c31-a42e-158386f46d0b",
-        "https://store-images.s-microsoft.com/image/apps.33161.70143269474194625.d30e156f-f4ab-4cb5-9abc-95867d2e0650.5b037997-02cf-4b2c-9119-13b3f37c9f98",
-        "https://store-images.s-microsoft.com/image/apps.47976.70143269474194625.d30e156f-f4ab-4cb5-9abc-95867d2e0650.876227bb-b44d-4c12-8d8e-64954e67c9af"
+        "https://store-images.s-microsoft.com/image/apps.54040.70143269474194625.1b4c1e17-a2f7-4a38-927e-ca62162592bd.2822a44f-4514-40aa-a97c-f843696ea582",
+        "https://store-images.s-microsoft.com/image/apps.2766.70143269474194625.1b4c1e17-a2f7-4a38-927e-ca62162592bd.b06318b6-94b3-486b-9f4c-56266c90295c",
+        "https://store-images.s-microsoft.com/image/apps.52958.70143269474194625.1b4c1e17-a2f7-4a38-927e-ca62162592bd.59124518-ed25-4c94-83e9-926981a6a5ee",
+        "https://store-images.s-microsoft.com/image/apps.22442.70143269474194625.1b4c1e17-a2f7-4a38-927e-ca62162592bd.41013c85-307e-498c-a03a-82f3b540cf90"
       ],
       "videoUrl": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftassets/7894201a-88cb-4ba9-afff-a0f19e67fe49-AVS.m3u8?packagedStreaming=true",
       "videoCaption": "Official Trailer",
@@ -19266,7 +19152,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 120328777728,
+      "maxInstallSize": 120328503296,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/fallout-76/BS6WJ2L56B10"
     },
@@ -19362,7 +19248,7 @@
           "recommended": "Controladora de Xbox"
         }
       ],
-      "maxInstallSize": 119741104128,
+      "maxInstallSize": 119741157376,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/fallout-76-pc/9NKGNMNK3K3Z"
     },
@@ -22254,8 +22140,8 @@
       "shortDescription": "Todo lo que más te gusta está en Fortnite. \n\nLánzate a la acción de siempre o descubre algo nuevo con tu escuadrón. Consigue ser el último jugador en pie en Battle Royale. Siente la nostalgia en Fortnite: Orígenes. Juega de forma táctica en Recarga. Conviértete en la estrella de Fortnite Festival. Explora los mundos de LEGO Fortnite. Siempre hay algo nuevo que hacer para ti y tus amigos.\n\nJuega a miles de juegos creados por desarrolladores, como deathruns, juegos de gestión, carreras, supervivencia zombi y mucho más. También puedes crear tus propios juegos con Unreal Editor para Fortnite (UEFN) o las herramientas del modo Creativo de Fortnite para que los juegue todo el mundo.  Cada juego tiene una clasificación por edades individual para que encuentres el más adecuado para ti.",
       "developer": "Epic Games Inc.",
       "publisher": "Epic Games Inc.",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.8083.70702278257994163.7f7e49d8-bf13-4838-8f72-548542e51d08.a1739f68-9454-40eb-ba60-81ec2d35e413",
-      "heroImage": "https://store-images.s-microsoft.com/image/apps.25635.70702278257994163.7f7e49d8-bf13-4838-8f72-548542e51d08.d3460053-6d86-4c4d-98ec-f661529c0fc9",
+      "imageUrl": "https://store-images.s-microsoft.com/image/apps.17283.70702278257994163.6d75301b-59c3-4a73-b70c-5901ae9cbb44.bd4108fb-c5af-4a9a-90c5-9a25a46d76a1",
+      "heroImage": "https://store-images.s-microsoft.com/image/apps.9161.70702278257994163.6d75301b-59c3-4a73-b70c-5901ae9cbb44.315efab2-af78-4d3e-b99d-e89298f83ad9",
       "screenshots": [
         "https://store-images.s-microsoft.com/image/apps.51181.70702278257994163.9020fde9-23f7-404c-9b79-758e4925f789.dd20bd39-8c32-408f-aae2-05d7d7924808",
         "https://store-images.s-microsoft.com/image/apps.60584.70702278257994163.c945029a-4946-44ef-b5c7-b072f07eb636.30903f94-131c-4a06-b912-93a3f847a74e",
@@ -22282,7 +22168,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.7,
-      "ratingCount": 4517,
+      "ratingCount": 4518,
       "ageRating": 12,
       "pegiRating": "Supervisión parental recomendada",
       "pegiDescription": "Supervisión parental recomendada",
@@ -22312,7 +22198,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 95538278400,
+      "maxInstallSize": 94991187968,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/fortnite/BT5P2X999VH2"
     },
@@ -22499,7 +22385,7 @@
           "recommended": "Controladora de Xbox"
         }
       ],
-      "maxInstallSize": 171036917760,
+      "maxInstallSize": 171545784320,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/forza-horizon-6-standard-edition/9N431PX143P8"
     },
@@ -23084,7 +22970,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.6,
-      "ratingCount": 11268,
+      "ratingCount": 11269,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -24926,7 +24812,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.2,
-      "ratingCount": 804,
+      "ratingCount": 805,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -29864,8 +29750,8 @@
         "https://store-images.s-microsoft.com/image/apps.47974.71673052342730938.12f5dc66-78e3-448a-b299-85f4d36d7c0f.d55c704b-340d-4f9a-83bb-cb9f2ef1c0f5",
         "https://store-images.s-microsoft.com/image/apps.31568.71673052342730938.4cec17e9-ee54-4a33-bf2c-9d4fc12678c1.07b93163-2f9f-4bfc-aec5-64551e1feeab"
       ],
-      "videoUrl": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftassets/8b5aede1-4baf-4823-ab91-29f46bc01a47-AVS.m3u8?packagedStreaming=true",
-      "videoCaption": "KTC Norse Lands Launch Trailer",
+      "videoUrl": "",
+      "videoCaption": "",
       "releaseDate": "2018-12-11",
       "categories": [
         "Acción y aventura",
@@ -29943,124 +29829,9 @@
           "recommended": "4 GB"
         }
       ],
-      "maxInstallSize": 2452639744,
+      "maxInstallSize": 2452176896,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/kingdom-two-crowns/BWT2GPVWCH2F"
-    },
-    {
-      "id": "BX7XFZ51XTW8",
-      "title": "Lara Croft and the Guardian of Light",
-      "description": "Experimenta el primer juego de aventura en modo multijugador con Lara Croft.Juega con un amigo o en solitario mientras superas trampas mortales, lucha contra multitudes de muertos vivientes, y recoge hasta 60 artefactos y reliquias. Lara Croft and the Guardian of Light ofrece acción desenfrenada e impresionantes gráficos en perspectiva isométrica.",
-      "shortDescription": "Experimenta el primer juego de aventura en modo multijugador con Lara Croft.Juega con un amigo o en solitario mientras superas trampas mortales, lucha contra multitudes de muertos vivientes, y recoge hasta 60 artefactos y reliquias. Lara Croft and the Guardian of Light ofrece acción desenfrenada e impresionantes gráficos en perspectiva isométrica.",
-      "developer": "Crystal Dynamics",
-      "publisher": "Crystal Dynamics",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.7455.63534390885266689.ca30eabf-228a-44d6-850d-48cfca22564f.c6172d93-f082-4dc4-9a7f-7ae96f2799ce",
-      "heroImage": "https://store-images.s-microsoft.com/image/apps.22476.63534390885266689.ca30eabf-228a-44d6-850d-48cfca22564f.6f5e8343-eda7-48c2-ad2a-95f1d26ee786",
-      "screenshots": [
-        "https://store-images.s-microsoft.com/image/apps.63044.63534390885266689.ca30eabf-228a-44d6-850d-48cfca22564f.e71c467c-b57c-4108-8ae4-f9c320d87016",
-        "https://store-images.s-microsoft.com/image/apps.57440.63534390885266689.ca30eabf-228a-44d6-850d-48cfca22564f.ca88d12b-6f8f-4e1d-ad6a-3c8fc38b297b",
-        "https://store-images.s-microsoft.com/image/apps.12155.63534390885266689.ca30eabf-228a-44d6-850d-48cfca22564f.f172399e-d9d7-42ce-a2dd-672a68a62471",
-        "https://store-images.s-microsoft.com/image/apps.27342.63534390885266689.ca30eabf-228a-44d6-850d-48cfca22564f.54c54e9f-db42-4b8c-923c-efe86a0e6b6e"
-      ],
-      "videoUrl": "",
-      "videoCaption": "",
-      "releaseDate": "2010-08-06",
-      "categories": [
-        "Acción y aventura"
-      ],
-      "tiers": [
-        "premium",
-        "ultimate"
-      ],
-      "platform": "console",
-      "price": 14.99,
-      "msrp": 14.99,
-      "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
-      "rating": 3.9,
-      "ratingCount": 22,
-      "ageRating": 12,
-      "pegiRating": "PEGI 12",
-      "pegiDescription": "Apropiado a partir de 12 años",
-      "interactiveDescriptions": [],
-      "capabilities": [
-        "Cooperación local de Xbox (2-2)",
-        "Cooperativo en línea  (2-2)",
-        "Multijugador en línea  (2-2)"
-      ],
-      "systemRequirements": [
-        {
-          "title": "Arquitectura",
-          "minimum": "x64",
-          "recommended": "x64"
-        }
-      ],
-      "maxInstallSize": 2760421376,
-      "hasAddOns": true,
-      "storeUrl": "https://www.xbox.com/es-es/games/store/lara-croft-and-the-guardian-of-light/BX7XFZ51XTW8"
-    },
-    {
-      "id": "9NS37Q75LBCG",
-      "title": "Lara Croft and the Guardian of Light (PC)",
-      "description": "Experimenta el primer juego de aventura en modo multijugador con Lara Croft.Juega con un amigo o en solitario mientras superas trampas mortales, lucha contra multitudes de muertos vivientes, y recoge hasta 60 artefactos y reliquias. Lara Croft and the Guardian of Light ofrece acción desenfrenada e impresionantes gráficos en perspectiva isométrica.\n\nIncluye contenido descargable:\n•\tRaziel and Kain character pack\n•\tAll the Trappings - Challenge Pack 1\n•\tThings that go Boom - Challenge Pack 2\n•\tHazadous Reunion - Challenge Pack 3",
-      "shortDescription": "Experimenta el primer juego de aventura en modo multijugador con Lara Croft.Juega con un amigo o en solitario mientras superas trampas mortales, lucha contra multitudes de muertos vivientes, y recoge hasta 60 artefactos y reliquias. Lara Croft and the Guardian of Light ofrece acción desenfrenada e impresionantes gráficos en perspectiva isométrica.",
-      "developer": "Crystal Dynamics",
-      "publisher": "Crystal Dynamics",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.30416.14375628118106119.0b332df6-8930-4796-a54f-b6a7fba77404.9411324e-666c-4897-a8b9-db7cbe7cae69",
-      "heroImage": "https://store-images.s-microsoft.com/image/apps.8065.14375628118106119.0b332df6-8930-4796-a54f-b6a7fba77404.c60741f4-37ad-4b50-833f-b78372f2316c",
-      "screenshots": [
-        "https://store-images.s-microsoft.com/image/apps.63044.63534390885266689.ca30eabf-228a-44d6-850d-48cfca22564f.e71c467c-b57c-4108-8ae4-f9c320d87016",
-        "https://store-images.s-microsoft.com/image/apps.57440.63534390885266689.ca30eabf-228a-44d6-850d-48cfca22564f.ca88d12b-6f8f-4e1d-ad6a-3c8fc38b297b",
-        "https://store-images.s-microsoft.com/image/apps.12155.63534390885266689.ca30eabf-228a-44d6-850d-48cfca22564f.f172399e-d9d7-42ce-a2dd-672a68a62471",
-        "https://store-images.s-microsoft.com/image/apps.27342.63534390885266689.ca30eabf-228a-44d6-850d-48cfca22564f.54c54e9f-db42-4b8c-923c-efe86a0e6b6e"
-      ],
-      "videoUrl": "",
-      "videoCaption": "",
-      "releaseDate": "2025-09-05",
-      "categories": [
-        "Acción y aventura"
-      ],
-      "tiers": [
-        "pc",
-        "premium",
-        "ultimate"
-      ],
-      "platform": "pc",
-      "price": 14.99,
-      "msrp": 14.99,
-      "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
-      "rating": 1,
-      "ratingCount": 3,
-      "ageRating": 12,
-      "pegiRating": "PEGI 12",
-      "pegiDescription": "Apropiado a partir de 12 años",
-      "interactiveDescriptions": [],
-      "capabilities": [
-        "Cooperación local de Xbox (2-4)",
-        "Cooperativo en línea  (2-4)",
-        "Un jugador",
-        "Cooperación multiplataforma de Xbox",
-        "Logros de Xbox",
-        "Cosas guardadas en la nube de Xbox"
-      ],
-      "systemRequirements": [
-        {
-          "title": "SO",
-          "minimum": "Windows 10 version 19045.3570 or higher",
-          "recommended": "Windows 10 version 19045.3570 or higher"
-        },
-        {
-          "title": "Arquitectura",
-          "minimum": "x64",
-          "recommended": "x64"
-        }
-      ],
-      "maxInstallSize": 5007884288,
-      "hasAddOns": false,
-      "storeUrl": "https://www.xbox.com/es-es/games/store/lara-croft-and-the-guardian-of-light-pc/9NS37Q75LBCG"
     },
     {
       "id": "C3553MB4P5TT",
@@ -30950,236 +30721,6 @@
       "maxInstallSize": 4957442048,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/little-nightmares-enhanced-edition/9N8Q6DRTG22H"
-    },
-    {
-      "id": "C1H74N0TR8KT",
-      "title": "Little Nightmares II Enhanced Edition",
-      "description": "Sumérgete en una perturbadora aventura que no podrás olvidar jamás, ahora mejorada en 4K sin límite de fotogramas por segundo.\n\nEn Xbox Series X|S, la mejora visual de la edición mejorada incluye reflejos de trazado de rayos, mejores sombras volumétricas y mayores detalles al jugar, como las partículas interactivas.\nTambién dispondrás de un envolvente paisaje sonoro 3D en 5.1 y 7.1. para que las pequeñas pesadillas de Little Nightmares II sean aún más realistas.\n\nVuelve al mundo del encantador horror de Little Nightmares II, un juego de aventura y suspense en el que eres Mono, un joven atrapado en un mundo distorsionado por la transmisión zumbante de una torre distante.\n\nSix, la chica con el chubasquero amarillo, será la guía de Mono en su aventura por descubrir los inquietantes secretos de la torre de señales. Y no será fácil, pues se enfrentarán a una serie de amenazas que los terribles residentes de este mundo les han preparado.\n\n¿Te atreves a enfrentarte a esta nueva serie de pequeñas pesadillas?",
-      "shortDescription": "Vuelve al mundo del horror encantador de Little Nightmares II, un juego de aventura y suspense en el que eres Mono, un joven atrapado en un mundo distorsionado por la transmisión zumbante de una torre distante.\r\n\r\nJunto a su nueva amiga Six, Mono se dispone a descubrir los inquietantes secretos de la torre de señales, si es que consiguen superar la sucesión constante de amenazas y enemigos nuevos. ",
-      "developer": "TARSIER STUDIOS",
-      "publisher": "BANDAI NAMCO Entertainment Europe",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.1273.64860558234786024.c6d17f3a-2d73-46e6-8a1e-c828e528d51f.c0546c16-c1b2-4f91-921f-762c88c3ab54",
-      "heroImage": "https://store-images.s-microsoft.com/image/apps.37713.64860558234786024.c6d17f3a-2d73-46e6-8a1e-c828e528d51f.60a952aa-8805-4d5e-854c-7889754425c7",
-      "screenshots": [
-        "https://store-images.s-microsoft.com/image/apps.2876.64860558234786024.c6d17f3a-2d73-46e6-8a1e-c828e528d51f.b63cc336-4c3a-4fa1-882f-edbd9b418fff",
-        "https://store-images.s-microsoft.com/image/apps.56681.64860558234786024.c6d17f3a-2d73-46e6-8a1e-c828e528d51f.849a6654-92f0-4098-b433-814c07cbc653",
-        "https://store-images.s-microsoft.com/image/apps.62808.64860558234786024.c6d17f3a-2d73-46e6-8a1e-c828e528d51f.2d133f58-4bb6-469e-a12a-abe8e6a4d6f0",
-        "https://store-images.s-microsoft.com/image/apps.11405.64860558234786024.c6d17f3a-2d73-46e6-8a1e-c828e528d51f.55fd63af-d7a9-4a4c-99e7-d90f9c9ad1fc"
-      ],
-      "videoUrl": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftassets/9ea3b2ce-fa48-41dc-8776-a2664232a837-AVS.m3u8?packagedStreaming=true",
-      "videoCaption": "LITTLE NIGHTMARES II - Story Trailer",
-      "releaseDate": "2021-02-10",
-      "categories": [
-        "Acción y aventura",
-        "Plataformas"
-      ],
-      "tiers": [
-        "premium",
-        "ultimate"
-      ],
-      "platform": "console",
-      "price": 29.99,
-      "msrp": 29.99,
-      "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
-      "rating": 4.3,
-      "ratingCount": 73,
-      "ageRating": 16,
-      "pegiRating": "PEGI 16",
-      "pegiDescription": "Apropiado a partir de 16 años",
-      "interactiveDescriptions": [],
-      "capabilities": [
-        "4K Ultra HD",
-        "Un jugador",
-        "Optimizado para Xbox Series X|S",
-        "Entrega inteligente",
-        "Logros de Xbox",
-        "Presencia de Xbox",
-        "Cosas guardadas en la nube de Xbox"
-      ],
-      "systemRequirements": [
-        {
-          "title": "Arquitectura",
-          "minimum": "x64",
-          "recommended": "x64"
-        }
-      ],
-      "maxInstallSize": 6172082176,
-      "hasAddOns": true,
-      "storeUrl": "https://www.xbox.com/es-es/games/store/little-nightmares-ii-enhanced-edition/C1H74N0TR8KT"
-    },
-    {
-      "id": "9PBM67RXX3V8",
-      "title": "Little Nightmares II Enhanced Edition - Windows",
-      "description": "Sumérgete en una perturbadora aventura que no podrás olvidar jamás, ahora mejorada en 4K sin límite de fotogramas por segundo.\n\nLa mejora visual de la edición mejorada incluye reflejos de trazado de rayos, mejores sombras volumétricas y mayores detalles al jugar, como las partículas interactivas.\nTambién dispondrás de un envolvente paisaje sonoro 3D en 5.1 y 7.1. para que las pequeñas pesadillas de Little Nightmares II sean aún más realistas.\n\nVuelve al mundo del encantador horror de Little Nightmares II, un juego de aventura y suspense en el que eres Mono, un joven atrapado en un mundo distorsionado por la transmisión zumbante de una torre distante.\n\nSix, la chica con el chubasquero amarillo, será la guía de Mono en su aventura por descubrir los inquietantes secretos de la torre de señales. Y no será fácil, pues se enfrentarán a una serie de amenazas que los terribles residentes de este mundo les han preparado.\n\n¿Te atreves a enfrentarte a esta nueva serie de pequeñas pesadillas?",
-      "shortDescription": "Vuelve al mundo del horror encantador de Little Nightmares II, un juego de aventura y suspense en el que eres Mono, un joven atrapado en un mundo distorsionado por la transmisión zumbante de una torre distante.\n\nJunto a su nueva amiga Six, Mono se dispone a descubrir los inquietantes secretos de la torre de señales, si es que consiguen superar la sucesión constante de amenazas y enemigos nuevos. ",
-      "developer": "Tarsier Studios",
-      "publisher": "Bandai Namco Entertainment Inc.",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.29670.14120603671422983.276bdb7c-80c3-44c3-a0a2-c6f4510ef9af.73fd1948-9741-42f4-89a8-3c6d093d797d",
-      "heroImage": "https://store-images.s-microsoft.com/image/apps.64667.14120603671422983.276bdb7c-80c3-44c3-a0a2-c6f4510ef9af.327a1920-7e9c-409e-acfc-6e771bcb2362",
-      "screenshots": [
-        "https://store-images.s-microsoft.com/image/apps.2876.14120603671422983.276bdb7c-80c3-44c3-a0a2-c6f4510ef9af.69098f27-0c63-44c2-a018-5c2c551cd331",
-        "https://store-images.s-microsoft.com/image/apps.56681.14120603671422983.276bdb7c-80c3-44c3-a0a2-c6f4510ef9af.1efe1002-95b7-4bd0-b778-d76fe6a32eeb",
-        "https://store-images.s-microsoft.com/image/apps.62808.14120603671422983.276bdb7c-80c3-44c3-a0a2-c6f4510ef9af.ae4d9b3e-e975-4cda-8510-d61e4e0ab8b9",
-        "https://store-images.s-microsoft.com/image/apps.11405.14120603671422983.276bdb7c-80c3-44c3-a0a2-c6f4510ef9af.0ea29ebe-ee55-4dad-ba3a-d330ac1c095c"
-      ],
-      "videoUrl": "",
-      "videoCaption": "",
-      "releaseDate": "2025-07-01",
-      "categories": [
-        "Acción y aventura",
-        "Plataformas"
-      ],
-      "tiers": [
-        "pc",
-        "premium",
-        "ultimate"
-      ],
-      "platform": "pc",
-      "price": 29.99,
-      "msrp": 29.99,
-      "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
-      "rating": 2.8,
-      "ratingCount": 16,
-      "ageRating": 16,
-      "pegiRating": "PEGI 16",
-      "pegiDescription": "Apropiado a partir de 16 años",
-      "interactiveDescriptions": [],
-      "capabilities": [
-        "4K Ultra HD",
-        "Un jugador",
-        "Trazado de rayos",
-        "Sonido espacial",
-        "Logros de Xbox",
-        "Presencia de Xbox",
-        "Cosas guardadas en la nube de Xbox"
-      ],
-      "systemRequirements": [
-        {
-          "title": "SO",
-          "minimum": "Windows 10 version 18362.0 or higher",
-          "recommended": "Windows 10 version 18362.0 or higher"
-        },
-        {
-          "title": "Arquitectura",
-          "minimum": "x64",
-          "recommended": "x64"
-        },
-        {
-          "title": "Controladora",
-          "minimum": "",
-          "recommended": "Controladora de Xbox"
-        }
-      ],
-      "maxInstallSize": 13071548416,
-      "hasAddOns": false,
-      "storeUrl": "https://www.xbox.com/es-es/games/store/little-nightmares-ii-enhanced-edition-windows/9PBM67RXX3V8"
-    },
-    {
-      "id": "9N3M5D5ZSW34",
-      "title": "Little Rocket Lab",
-      "description": "Encarnarás a Morgan, una aspirante a ingeniera que vuelve a casa para completar el sueño de su familia: ¡un cohete! Aunque la ciudad no es como la recordaba, Morgan deberá investigar y construir inteligentes artefactos, así como fábricas en expansión para ayudar a sus vecinos. Deberás convertir los recursos locales en materiales útiles, desde sencillos taladros y fraguas hasta complejas máquinas ensambladoras, grúas y kilómetros de cintas transportadoras. Tu objetivo es devolver la industria a la aletargada St. Ambroise.\n\n• Construye inteligentes artefactos y fábricas en expansión para resolver acertijos y ayudar a la ciudad.\n• Conoce a los vecinos, establece amistades y conviértete en el alma de la comunidad.\n• Investiga e inventa nuevas máquinas, fuentes de energía y amigos mecánicos.\n• Descubre una reconfortante historia encarnando a Morgan, una aspirante a ingeniera con grandes sueños para la ciudad.\n• ¡Construye, por fin, el cohete de tu familia!\n\nAdemás de crear artefactos estrafalarios, deberás extraer recursos, explorar las costas, las estaciones de tren, las canteras y las zonas subterráneas; ¡cada lugar tendrá materiales que te inspirarán! Te enfrentarás también a diferentes desafíos con elementos eléctricos, agua, grúas, fraguas, tareas de elaboración y automatización con componentes robóticos ¡y mucho más! Tu objetivo es devolverle a St. Ambroise su antigua gloria. ¿Todo listo para alcanzar las estrellas?",
-      "shortDescription": "Transforma tu ciudad natal a medida que construyas increíbles fábricas y establezcas amistades de por vida. Luego, alcanza las estrellas y termina el sueño de tu familia: el preciado cohete de tu madre. Remángate, porque al final va a resultar que sí hace falta ingeniería para salvar la ciudad.",
-      "developer": "Teenage Astronauts",
-      "publisher": "No More Robots",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.32936.14000344005974621.9729934f-27d2-4900-8aa2-53049eb44202.5ca80ddb-fffd-4d9b-9fde-76a41b9f9201",
-      "heroImage": "https://store-images.s-microsoft.com/image/apps.60878.14000344005974621.9729934f-27d2-4900-8aa2-53049eb44202.91ed7bc1-7f4f-4f85-b5ed-d5d95c9bb10e",
-      "screenshots": [
-        "https://store-images.s-microsoft.com/image/apps.55689.14000344005974621.9729934f-27d2-4900-8aa2-53049eb44202.d2c9b0f6-94e4-4d8f-9ec9-471642eb2fd5",
-        "https://store-images.s-microsoft.com/image/apps.27365.14000344005974621.9729934f-27d2-4900-8aa2-53049eb44202.07674ff4-9444-4227-8b44-82a46c14be73",
-        "https://store-images.s-microsoft.com/image/apps.22866.14000344005974621.9729934f-27d2-4900-8aa2-53049eb44202.fe3e5981-67c7-4808-a455-8821e05398d3",
-        "https://store-images.s-microsoft.com/image/apps.55961.14000344005974621.9729934f-27d2-4900-8aa2-53049eb44202.00bdf8e7-7824-4ace-8813-9bf923d6eccf"
-      ],
-      "videoUrl": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftassets/90c96674-5ade-4200-8c8b-01fc3ccd5410-AVS.m3u8?packagedStreaming=true",
-      "videoCaption": "Little Rocket Lab Art",
-      "releaseDate": "2025-10-07",
-      "categories": [
-        "Simulación",
-        "Juegos de rol",
-        "Estrategia",
-        "Niños y familia",
-        "Acción y aventura"
-      ],
-      "tiers": [
-        "pc",
-        "premium",
-        "ultimate"
-      ],
-      "platform": "both",
-      "price": 17.99,
-      "msrp": 17.99,
-      "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
-      "rating": 3.5,
-      "ratingCount": 42,
-      "ageRating": 3,
-      "pegiRating": "PEGI 3",
-      "pegiDescription": "Apropiado a partir de 3 años",
-      "interactiveDescriptions": [],
-      "capabilities": [
-        "4K Ultra HD",
-        "Un jugador",
-        "Optimizado para Xbox Series X|S",
-        "Entrega inteligente",
-        "Logros de Xbox",
-        "Clubs de Xbox",
-        "Cosas guardadas en la nube de Xbox",
-        "Xbox Play Anywhere"
-      ],
-      "systemRequirements": [
-        {
-          "title": "SO",
-          "minimum": "Windows 10 version 18362.0 or higher",
-          "recommended": "Windows 10 version 18362.0 or higher"
-        },
-        {
-          "title": "Arquitectura",
-          "minimum": "x64",
-          "recommended": "x64"
-        },
-        {
-          "title": "Gráficos",
-          "minimum": "Nvidia Geforce RTX 2070/equivalent or higher",
-          "recommended": "Nvidia Geforce RTX 3060/equivalent or higher"
-        },
-        {
-          "title": "Procesador",
-          "minimum": "High-range Intel Core i5",
-          "recommended": "Intel Core i7 or higher"
-        },
-        {
-          "title": "DirectX",
-          "minimum": "Versión 11",
-          "recommended": "Versión 11"
-        },
-        {
-          "title": "Memoria",
-          "minimum": "4 GB",
-          "recommended": "8 GB"
-        },
-        {
-          "title": "Teclado",
-          "minimum": "",
-          "recommended": "Teclado integrado"
-        },
-        {
-          "title": "Mouse",
-          "minimum": "",
-          "recommended": "Mouse integrado"
-        },
-        {
-          "title": "Controladora",
-          "minimum": "",
-          "recommended": "Controladora de Xbox"
-        }
-      ],
-      "maxInstallSize": 1886040064,
-      "hasAddOns": false,
-      "storeUrl": "https://www.xbox.com/es-es/games/store/little-rocket-lab/9N3M5D5ZSW34"
     },
     {
       "id": "9PLFD17M47K3",
@@ -32975,7 +32516,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 2.1,
-      "ratingCount": 698,
+      "ratingCount": 699,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -32983,6 +32524,7 @@
         "Compras dentro del juego"
       ],
       "capabilities": [
+        "Multijugador en línea  (2-2)",
         "Multijugador multiplataforma de Xbox",
         "4K Ultra HD",
         "Un jugador",
@@ -33050,8 +32592,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 4.6,
-      "ratingCount": 17,
+      "rating": 4.7,
+      "ratingCount": 18,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -33108,7 +32650,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.7,
-      "ratingCount": 11334,
+      "ratingCount": 11335,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -33170,7 +32712,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.7,
-      "ratingCount": 51738,
+      "ratingCount": 51747,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -33379,8 +32921,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 4.3,
-      "ratingCount": 12,
+      "rating": 4.1,
+      "ratingCount": 16,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -33633,7 +33175,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4,
-      "ratingCount": 15935,
+      "ratingCount": 15939,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -33828,7 +33370,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.5,
-      "ratingCount": 61611,
+      "ratingCount": 61618,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -34244,7 +33786,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.1,
-      "ratingCount": 174,
+      "ratingCount": 175,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -34679,7 +34221,7 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 3.4,
+      "rating": 3.6,
       "ratingCount": 20,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
@@ -35058,8 +34600,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 3.9,
-      "ratingCount": 35,
+      "rating": 3.8,
+      "ratingCount": 36,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -37015,7 +36557,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 2.2,
-      "ratingCount": 134,
+      "ratingCount": 133,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -37821,11 +37363,11 @@
         "ultimate"
       ],
       "platform": "both",
-      "price": 10.49,
+      "price": 29.99,
       "msrp": 29.99,
       "currency": "EUR",
-      "hasDiscount": true,
-      "discountPercent": 65,
+      "hasDiscount": false,
+      "discountPercent": 0,
       "rating": 3.5,
       "ratingCount": 33,
       "ageRating": 12,
@@ -41722,11 +41264,11 @@
         "ultimate"
       ],
       "platform": "both",
-      "price": 9.99,
+      "price": 24.99,
       "msrp": 24.99,
       "currency": "EUR",
-      "hasDiscount": true,
-      "discountPercent": 60,
+      "hasDiscount": false,
+      "discountPercent": 0,
       "rating": 2.7,
       "ratingCount": 141,
       "ageRating": 3,
@@ -42141,7 +41683,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.3,
-      "ratingCount": 142,
+      "ratingCount": 143,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -42360,7 +41902,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.7,
-      "ratingCount": 229,
+      "ratingCount": 230,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -42420,7 +41962,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.5,
-      "ratingCount": 308,
+      "ratingCount": 310,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -42924,7 +42466,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.9,
-      "ratingCount": 28,
+      "ratingCount": 29,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -43325,7 +42867,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.1,
-      "ratingCount": 1436,
+      "ratingCount": 1437,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -44657,11 +44199,11 @@
         "ultimate"
       ],
       "platform": "both",
-      "price": 19.99,
+      "price": 24.99,
       "msrp": 24.99,
       "currency": "EUR",
-      "hasDiscount": true,
-      "discountPercent": 20,
+      "hasDiscount": false,
+      "discountPercent": 0,
       "rating": 3.3,
       "ratingCount": 14,
       "ageRating": 7,
@@ -44904,93 +44446,6 @@
       "maxInstallSize": 1159753728,
       "hasAddOns": false,
       "storeUrl": "https://www.xbox.com/es-es/games/store/shift-at-midnight/9N0WDPMXNHWN"
-    },
-    {
-      "id": "9P7PF6ZP3958",
-      "title": "Sifu",
-      "description": "¿Con ganas de kung-fu del bueno? La expansión de Arenas gratis añade múltiples horas de juego que pondrán tu kung-fu a prueba. \r\nCon 5 nuevos modos de juego, 15 ubicaciones dinámicas y 120 retos, equípate para combates espectaculares, oponentes brutales e infinitas oportunidades de pulir tus movimientos.\r\n\r\n¿Basta una vida para aprender kung-fu?\r\nTanto si eliges jugar con un personaje masculino o femenino, Sifu te llevará a meditar esta cuestión en tu camino hacia la venganza, cazando a los asesinos de tu familia. Uno contra todos. Sin aliados, con innumerables enemigos y un misterioso amuleto que te devuelve a la vida cada vez que mueres. ¡Pero ten cuidado! El uso de tu arma secreta supone un precio considerable: el envejecimiento y sus consecuencias.\r\n\r\nAprendiendo con fuego\r\nTus enemigos no esperan su turno y no muestran sus intenciones. Esquiva, bloquea, golpea, utiliza combinaciones y se como el agua fluyendo por entornos cautivadores. Aprende a dominar el arte del kung-fu, ya sea luchando en el sótano de un club nocturno, atravesando finas galerías para evitar que te rodeen o navegando verticalmente por un imponente edificio de oficinas.\r\n\r\nAdaptarse es sobrevivir\r\nUn posicionamiento cuidadoso y un uso inteligente del entorno a tu favor son claves para la supervivencia. Usa todo lo que tengas a mano: objetos arrojadizos, armas improvisadas, ventanas y repisas... La suerte no está de tu parte y no se te concederá clemencia.\r\n\r\nEl entrenamiento nunca termina\r\nLa maestría del kung-fu requiere práctica, un camino tanto para el cuerpo como para la mente. Aprende de tus errores, desbloquea habilidades únicas y halla la fuerza para dominar las devastadoras técnicas del kung-fu Pak Mei.",
-      "shortDescription": "Sifu es un juego de lucha realista en tercera persona con cuidadas mecánicas de combate kung-fu y artes marciales cinematográficas que te conducirá por el camino de la venganza.",
-      "developer": "Sloclap",
-      "publisher": "Sloclap, Kepler Interactive",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.14154.14108092972231485.130f8f79-218a-4318-83ee-72f0213be0dd.51a702bd-7750-456c-b538-dc31b25c4f1f",
-      "heroImage": "https://store-images.s-microsoft.com/image/apps.32319.14108092972231485.130f8f79-218a-4318-83ee-72f0213be0dd.dd36cb3f-f189-4403-9bc1-fa54bacbf55d",
-      "screenshots": [
-        "https://store-images.s-microsoft.com/image/apps.14732.14108092972231485.c5ba26aa-ce6e-4ddc-af11-aa9f6c9af553.c2b95154-b0aa-4ab1-afa2-bf63629bec85",
-        "https://store-images.s-microsoft.com/image/apps.24266.14108092972231485.c5ba26aa-ce6e-4ddc-af11-aa9f6c9af553.3358e2f7-2d8d-4b5d-82a9-adefb3ee6db7",
-        "https://store-images.s-microsoft.com/image/apps.15518.14108092972231485.130f8f79-218a-4318-83ee-72f0213be0dd.6f91e042-6acb-4ec2-b0a1-dfcd37eaef12",
-        "https://store-images.s-microsoft.com/image/apps.50295.14108092972231485.130f8f79-218a-4318-83ee-72f0213be0dd.c1480c40-648a-4eb1-88aa-5c990e465362"
-      ],
-      "videoUrl": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftassets/e564295a-d4a2-4833-b6ff-ff322fd025cf-AVS.m3u8?packagedStreaming=true",
-      "videoCaption": "Sifu Reveal Trailer",
-      "releaseDate": "2023-03-28",
-      "categories": [
-        "Acción y aventura",
-        "Lucha"
-      ],
-      "tiers": [
-        "pc",
-        "premium",
-        "ultimate"
-      ],
-      "platform": "both",
-      "price": 9.99,
-      "msrp": 39.99,
-      "currency": "EUR",
-      "hasDiscount": true,
-      "discountPercent": 75,
-      "rating": 3.9,
-      "ratingCount": 97,
-      "ageRating": 16,
-      "pegiRating": "PEGI 16",
-      "pegiDescription": "Apropiado a partir de 16 años",
-      "interactiveDescriptions": [],
-      "capabilities": [
-        "4K Ultra HD",
-        "Un jugador",
-        "Frecuencia de actualización variable",
-        "60 fps +",
-        "Optimizado para Xbox Series X|S",
-        "Entrega inteligente",
-        "Controlador para juegos para PC",
-        "Logros de Xbox",
-        "Cosas guardadas en la nube de Xbox",
-        "Xbox Play Anywhere"
-      ],
-      "systemRequirements": [
-        {
-          "title": "SO",
-          "minimum": "Windows 10 version 18362.0 or higher",
-          "recommended": "Windows 10 version 18362.0 or higher"
-        },
-        {
-          "title": "Arquitectura",
-          "minimum": "x64",
-          "recommended": "x64"
-        },
-        {
-          "title": "Gráficos",
-          "minimum": " GeForce GT 640",
-          "recommended": "GeForce GTX 970"
-        },
-        {
-          "title": "Procesador",
-          "minimum": " Intel Core i5-3470",
-          "recommended": "Intel Core i7-6700K"
-        },
-        {
-          "title": "Memoria",
-          "minimum": "8 GB",
-          "recommended": "12 GB"
-        },
-        {
-          "title": "Controladora",
-          "minimum": "",
-          "recommended": "Controladora de Xbox"
-        }
-      ],
-      "maxInstallSize": 24135319552,
-      "hasAddOns": true,
-      "storeUrl": "https://www.xbox.com/es-es/games/store/sifu/9P7PF6ZP3958"
     },
     {
       "id": "BNKDKQXMXRR2",
@@ -45380,7 +44835,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 29661417472,
+      "maxInstallSize": 29664989184,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/smite-2/9NV8W1KJSQLL"
     },
@@ -45629,94 +45084,6 @@
       "maxInstallSize": 1060347904,
       "hasAddOns": false,
       "storeUrl": "https://www.xbox.com/es-es/games/store/solarpunk/9N8BRH7PGJMJ"
-    },
-    {
-      "id": "9N221ZTFGQB0",
-      "title": "SOPA - Relato de la Papa Robada",
-      "description": "Cuando Miho entra en la despensa para buscar una papa para la sopa de su abuela, es transportado a una tierra fantástica y lejana donde debe seguir los pasos de un gran y misterioso viajero que lo precedió.\n\nDebe aventurarse por un mundo de selvas misteriosas, pueblos tambaleantes y bestias parlantes, burlando a ladrones y ayudando a los personajes peculiares en su camino.\n\n\nPero cada vez que regresa a la cocina con un ingrediente, las cosas han cambiado de maneras inesperadas...\n\nAventúrate en la búsqueda de los ingredientes exóticos de Nana y descubre el secreto detrás de la SOPA...",
-      "shortDescription": "Un relato aventurero y conmovedor acerca del legado que dejamos. Inspirado en Miyazaki, Coco, y El Principito.",
-      "developer": "StudioBando, Inc.",
-      "publisher": "StudioBando, Inc.",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.45399.13960509830993635.c8e589d4-58bf-48a0-94b9-7be5647c6cf2.3a36e99d-25c5-4a37-8d16-025e9d1a8fde",
-      "heroImage": "https://store-images.s-microsoft.com/image/apps.39810.13960509830993635.4471c47e-92e9-4052-8f4a-4b145424ae5d.44b405a8-eaf0-46ba-b08a-81fb851c473d",
-      "screenshots": [
-        "https://store-images.s-microsoft.com/image/apps.2482.13960509830993635.4471c47e-92e9-4052-8f4a-4b145424ae5d.619fe478-cc06-4e88-aa55-efe327465216",
-        "https://store-images.s-microsoft.com/image/apps.60960.13960509830993635.4471c47e-92e9-4052-8f4a-4b145424ae5d.dc030622-5104-4e0b-89bf-2739895b52e4",
-        "https://store-images.s-microsoft.com/image/apps.41052.13960509830993635.4471c47e-92e9-4052-8f4a-4b145424ae5d.3f4a2311-ea26-4e9b-922e-78583e13701f",
-        "https://store-images.s-microsoft.com/image/apps.33561.13960509830993635.4471c47e-92e9-4052-8f4a-4b145424ae5d.85472fbc-8fe8-4f82-85fc-b79bd600b01b"
-      ],
-      "videoUrl": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftassets/fac1f06a-875d-46a2-a4e0-1453e6e45cfb-AVS.m3u8?packagedStreaming=true",
-      "videoCaption": "SOPA - Tale of the Stolen Potato - Trailer",
-      "releaseDate": "2025-10-07",
-      "categories": [
-        "Otros",
-        "Niños y familia",
-        "Acción y aventura"
-      ],
-      "tiers": [
-        "pc",
-        "premium",
-        "ultimate"
-      ],
-      "platform": "both",
-      "price": 19.99,
-      "msrp": 19.99,
-      "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
-      "rating": 2.8,
-      "ratingCount": 25,
-      "ageRating": 3,
-      "pegiRating": "PEGI 3",
-      "pegiDescription": "Apropiado a partir de 3 años",
-      "interactiveDescriptions": [],
-      "capabilities": [
-        "Un jugador",
-        "Mouse y teclado de la consola",
-        "Logros de Xbox",
-        "Cosas guardadas en la nube de Xbox",
-        "Xbox Play Anywhere"
-      ],
-      "systemRequirements": [
-        {
-          "title": "SO",
-          "minimum": "Windows 10 version 18362.0 or higher",
-          "recommended": "Windows 10 version 18362.0 or higher"
-        },
-        {
-          "title": "Arquitectura",
-          "minimum": "x64",
-          "recommended": "x64"
-        },
-        {
-          "title": "Gráficos",
-          "minimum": "Intel HD Graphics 4600 or Radeon RX Vega 8",
-          "recommended": ""
-        },
-        {
-          "title": "Procesador",
-          "minimum": "Intel Core i5 2500",
-          "recommended": ""
-        },
-        {
-          "title": "DirectX",
-          "minimum": "Versión 11",
-          "recommended": ""
-        },
-        {
-          "title": "Memoria",
-          "minimum": "4 GB",
-          "recommended": ""
-        },
-        {
-          "title": "Controladora",
-          "minimum": "",
-          "recommended": "Controladora de Xbox"
-        }
-      ],
-      "maxInstallSize": 6813073408,
-      "hasAddOns": false,
-      "storeUrl": "https://www.xbox.com/es-es/games/store/sopa-relato-de-la-papa-robada/9N221ZTFGQB0"
     },
     {
       "id": "9NJCVGS6T30K",
@@ -46070,8 +45437,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 2.7,
-      "ratingCount": 6,
+      "rating": 3,
+      "ratingCount": 5,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -46593,7 +45960,7 @@
       "hasDiscount": true,
       "discountPercent": 75,
       "rating": 3.9,
-      "ratingCount": 170,
+      "ratingCount": 171,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -48666,106 +48033,6 @@
       "storeUrl": "https://www.xbox.com/es-es/games/store/supermarket-simulator/9NR0GCBSLDW4"
     },
     {
-      "id": "9MWDJRQ1BXTC",
-      "title": "SWORN",
-      "description": "SWORN es un juego cooperativo rogue-like de acción para un máximo de 4 jugadores. Explora y salva a Camelot de la desgracia en que lo ha sumido el reinado de un rey Arturo corrompido y sus Caballeros de la Mesa Redonda.\nJuega solo o en cooperativo\n\nJuega solo o únete a tus amigos para combatir a los Caballeros de la Mesa Redonda. Combinad las fortalezas de vuestros personajes de formas sorprendentes y dominad habilidades para convertiros en caballeros dignos de enfrentarse al mismísimo Arturo.\n\nExplora un Camelot sumido en la desgracia\n\n\"Encuentra a amigos y enemigos de la leyenda artúrica.\nDescubre la fuente de oscuridad insaciable que se esparce por Ávalon.\nGánate la amistad de personajes poderosos como Merlín y Nimue, y aprende bajo su tutela. \nEmpuña tu espada como caballero almaforjada.\"\n\nControla el poder de los feéricos\n\nJura lealtad a las deidades feéricas y elige entre más de 200 bendiciones únicas para liberar todo tu potencial. ¿Usarás los fuegos purificadores de Titania o recibirás las bendiciones de Oberón para atacar con la furia del viento?\n\nDa rienda suelta a tu creatividad\n\nLa versatilidad es la mejor arma en los campos de batalla cambiantes de Camelot. Combina tus bendiciones con opciones únicas de personajes, armas y habilidades. Prueba miles de opciones posibles hasta convertirte en un aguerrido caballero.\n\nDemuestra tu valía\n\nLas mejoras del Faro de Avalore harán de tu escudero un campeón digno con el paso del tiempo. Sin embargo, si crees que ya tienes lo necesario para enfrentar a Arturo, prepárate para un desafío que pondrá a prueba tus habilidades.\n\nSé parte de un mundo único\n\nSumérgete en un bello mundo con estética de cómic, inspirado en la obra del artista estadounidense Mike Mignola. Disfruta al máximo del sorprendente arte y el sonido original que le dan vida al mundo de SWORN.\n",
-      "shortDescription": "",
-      "developer": "Windwalk Games",
-      "publisher": "Team17",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.64072.13511316360139765.c27c733b-7cf6-4671-a04c-5a2fcb95b0f0.9e92bee3-e2bf-4b07-9382-3f8347455466",
-      "heroImage": "https://store-images.s-microsoft.com/image/apps.64945.13511316360139765.c27c733b-7cf6-4671-a04c-5a2fcb95b0f0.ffc35dea-4ec4-4d82-93b8-db33a5342958",
-      "screenshots": [
-        "https://store-images.s-microsoft.com/image/apps.28334.13840932818197582.c8383e54-7a79-4026-a197-7b417117a69a.04357792-bd0c-4985-88c0-11bd29db6998",
-        "https://store-images.s-microsoft.com/image/apps.33681.13840932818197582.c8383e54-7a79-4026-a197-7b417117a69a.0b00fea3-0932-495a-be3b-31d461fd10f8",
-        "https://store-images.s-microsoft.com/image/apps.6182.13840932818197582.c8383e54-7a79-4026-a197-7b417117a69a.57a87919-054d-49bc-89bd-718a43f99203",
-        "https://store-images.s-microsoft.com/image/apps.41451.13840932818197582.c8383e54-7a79-4026-a197-7b417117a69a.66a8d53d-7e1a-433d-acfa-c41d4b41a53a"
-      ],
-      "videoUrl": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftassets/29fb5591-3b37-46ff-ab68-a40bdc1b0ed0-AVS.m3u8?packagedStreaming=true",
-      "videoCaption": "SWORN - Announce Trailer",
-      "releaseDate": "2025-09-23",
-      "categories": [
-        "Acción y aventura"
-      ],
-      "tiers": [
-        "pc",
-        "premium",
-        "ultimate"
-      ],
-      "platform": "both",
-      "price": 29.99,
-      "msrp": 29.99,
-      "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
-      "rating": 3.8,
-      "ratingCount": 43,
-      "ageRating": 12,
-      "pegiRating": "PEGI 12",
-      "pegiDescription": "Apropiado a partir de 12 años",
-      "interactiveDescriptions": [],
-      "capabilities": [
-        "Cooperativo en línea  (2-4)",
-        "Multijugador multiplataforma de Xbox",
-        "4K Ultra HD",
-        "Un jugador",
-        "60 fps +",
-        "Optimizado para Xbox Series X|S",
-        "Logros de Xbox",
-        "Cosas guardadas en la nube de Xbox",
-        "Xbox Play Anywhere"
-      ],
-      "systemRequirements": [
-        {
-          "title": "SO",
-          "minimum": "Windows 10 version 18362.0 or higher",
-          "recommended": "Windows 10 version 18362.0 or higher"
-        },
-        {
-          "title": "Arquitectura",
-          "minimum": "x64",
-          "recommended": "x64"
-        },
-        {
-          "title": "Gráficos",
-          "minimum": "NVIDIA GeForce GTX 960, 4GB or AMD Radeon HD 7970, 3GB or Intel Arc A310,4GB",
-          "recommended": "NVIDIA GeForce RTX 2060, 6GB or AMD Radeon RX 5600, 6GB or Intel Arc A380, 4GB"
-        },
-        {
-          "title": "Procesador",
-          "minimum": "Intel Core i5-3470 or AMD FX-6300",
-          "recommended": "Intel Core i5-3470 or AMD FX-6300"
-        },
-        {
-          "title": "Memoria",
-          "minimum": "8 GB",
-          "recommended": "8 GB"
-        },
-        {
-          "title": "Memoria de vídeo",
-          "minimum": "4 GB",
-          "recommended": "6 GB"
-        },
-        {
-          "title": "Teclado",
-          "minimum": "",
-          "recommended": "Teclado integrado"
-        },
-        {
-          "title": "Mouse",
-          "minimum": "",
-          "recommended": "Mouse integrado"
-        },
-        {
-          "title": "Controladora",
-          "minimum": "",
-          "recommended": "Controladora de Xbox"
-        }
-      ],
-      "maxInstallSize": 6408466432,
-      "hasAddOns": true,
-      "storeUrl": "https://www.xbox.com/es-es/games/store/sworn/9MWDJRQ1BXTC"
-    },
-    {
       "id": "9NBLHDB0WLHZ",
       "title": "Symphonia 𝄞",
       "description": "En el reino de Symphonia, la música actúa como fuente de vida y energía. Sin embargo, desde la desaparición de los fundadores y su orquesta, los habitantes están divididos y el mundo se sume poco a poco en el silencio. ¿Y si hubiera alguna forma de reunir una nueva orquesta? Esa es la pregunta a la que tendrá que responder Philemon, el misterioso músico de Symphonia.\n \nEncarna a un misterioso violinista que ha vuelto a la vida en un mundo en decadencia.\nTu violín y tu arco hacen las veces de instrumento y medio de transporte. Catapúltate por el mundo y completa los niveles resolviendo emocionantes desafíos de plataformas mientras reactivas la maquinaria que devuelve la vida y la energía a este mundo.\n \nDescubre un mundo musical basado en la orquesta sinfónica y repleto de personajes variopintos.\nCada zona de Symphonia tiene su propia ambientación y sus propios personajes, y cada sala está diseñada a mano. Conoce a músicos prodigiosos e intenta convencerlos para que se unan a la orquesta.\n \nUna banda sonora única con base en el periodo musical romántico e ideada por el compositor Olivier Esman.\nDisfruta de la actuación de la Scoring Orchestra Paris, grabada específicamente para Symphonia y escrita por el compositor Olivier Esman y su equipo. Interpreta conciertos apasionantes centrados en cada una de las familias de instrumentos: cuerda, viento metal y viento madera.\n \nExplora, navega, toca el violín y reúne a músicos. Haz que Symphonia despierte.\n\nCaracterísticas:\n•\tVive y supera grandes desafíos de plataformas con todas las habilidades de Philemon\n•\tDescubre varios entornos en los que se combinan música y maquinaria\n•\tToca el violín para activar elementos dentro del nivel y dar vida al reino\n•\tReúne a prodigios de la música e interpreta conciertos impresionantes para devolver la música, la alegría y la gloria al mundo\n",
@@ -49116,7 +48383,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 3930632192,
+      "maxInstallSize": 3947233280,
       "hasAddOns": false,
       "storeUrl": "https://www.xbox.com/es-es/games/store/tears-of-metal-versi-n-preliminar-del-juego/9PN8M16GG8M4"
     },
@@ -49268,116 +48535,6 @@
       "maxInstallSize": 2150608896,
       "hasAddOns": false,
       "storeUrl": "https://www.xbox.com/es-es/games/store/tempopo/9P6X0VL8BXZF"
-    },
-    {
-      "id": "9MW1V43D3VZN",
-      "title": "Terminull Brigade™",
-      "description": "Terminull Brigade™ es un juego PVE de disparos roguelike con temática de mundos virtuales múltiples.\nNunca entrarás en la misma batalla dos veces, construye diversos estilos de combate en una sola partida, enfréntate a jefes extremadamente desafiantes en niveles generados aleatoriamente y elige tu destino en medio de una intensa lluvia de balas.\nExplora mundos de estilos variados, domina diferentes héroes y traza tu propio camino.\nRecuerda: la muerte no es tu final.",
-      "shortDescription": "Terminull Brigade es un shooter PvE con elementos roguelike ambientado en un multiverso virtual.",
-      "developer": "Pew Pew Games",
-      "publisher": "Level Infinite",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.27991.13852618521586125.794367d4-7c0a-4882-abf5-d6a6cb1acacb.38253108-4809-44fe-8aef-d42ca967c44d",
-      "heroImage": "https://store-images.s-microsoft.com/image/apps.46366.13852618521586125.f5994d2a-107c-4a37-ac46-e40e989044c3.1cd7be2c-98e6-454a-851f-ebc8d0a0fb39",
-      "screenshots": [
-        "https://store-images.s-microsoft.com/image/apps.62496.13852618521586125.5d9ce2bc-24c3-45fb-8c0d-a6a41f431887.b1c9ccbe-b9fe-45c9-b9cb-70dadb33dea7",
-        "https://store-images.s-microsoft.com/image/apps.37558.13852618521586125.5d9ce2bc-24c3-45fb-8c0d-a6a41f431887.b63770d7-fefc-4b79-a8c6-72849abd7c80",
-        "https://store-images.s-microsoft.com/image/apps.51019.13852618521586125.5d9ce2bc-24c3-45fb-8c0d-a6a41f431887.125d478d-aecf-4035-8aa6-bfa8af19d6fb",
-        "https://store-images.s-microsoft.com/image/apps.42462.13852618521586125.5d9ce2bc-24c3-45fb-8c0d-a6a41f431887.b4fa7e8d-01a7-4b00-8ff4-ba86aa1c679b"
-      ],
-      "videoUrl": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftassets/204058ab-d759-4231-be76-3d91b913e5bd-AVS.m3u8?packagedStreaming=true",
-      "videoCaption": "Terminull Brigade",
-      "releaseDate": "2025-12-08",
-      "categories": [
-        "Shooter",
-        "Acción y aventura",
-        "Otros",
-        "Juegos de rol"
-      ],
-      "tiers": [
-        "essential",
-        "pc",
-        "premium",
-        "ultimate"
-      ],
-      "platform": "both",
-      "price": 0,
-      "msrp": 0,
-      "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
-      "rating": 2.4,
-      "ratingCount": 37,
-      "ageRating": 12,
-      "pegiRating": "PEGI 12",
-      "pegiDescription": "Apropiado a partir de 12 años",
-      "interactiveDescriptions": [
-        "Interacción de usuarios",
-        "Compras dentro del juego (Incluye artículos aleatorios)"
-      ],
-      "capabilities": [
-        "Cooperativo en línea  (2-3)",
-        "Multijugador en línea  (2-3)",
-        "Multijugador multiplataforma de Xbox",
-        "4K Ultra HD",
-        "Un jugador",
-        "Cooperación multiplataforma de Xbox",
-        "Multijugador multgeneración de Xbox Live",
-        "Mouse y teclado de la consola",
-        "Logros de Xbox",
-        "Clubs de Xbox",
-        "Cosas guardadas en la nube de Xbox",
-        "Xbox Play Anywhere"
-      ],
-      "systemRequirements": [
-        {
-          "title": "SO",
-          "minimum": "Windows 10 version 18362.0 or higher",
-          "recommended": "Windows 10 version 18362.0 or higher"
-        },
-        {
-          "title": "Arquitectura",
-          "minimum": "x64",
-          "recommended": "x64"
-        },
-        {
-          "title": "Gráficos",
-          "minimum": " NVIDIA GeForce GTX 1650，AMD Radeon RX 580",
-          "recommended": " NVIDIA GeForce RTX 2060, AMD Radeon RX 6600XT"
-        },
-        {
-          "title": "Procesador",
-          "minimum": " Intel(R) Core(TM) i5-7500/AMD Ryzen(TM) 5 1400",
-          "recommended": " Intel(R) Core(TM) i5-9400F, AMD Ryzen(TM) 5 1600"
-        },
-        {
-          "title": "Teclado",
-          "minimum": "Teclado integrado",
-          "recommended": "Teclado integrado"
-        },
-        {
-          "title": "Mouse",
-          "minimum": "Mouse integrado",
-          "recommended": "Mouse integrado"
-        },
-        {
-          "title": "Controladora",
-          "minimum": "Controladora de Xbox",
-          "recommended": "Controladora de Xbox"
-        },
-        {
-          "title": "DirectX",
-          "minimum": "Versión 11",
-          "recommended": "API de DirectX 12, nivel de característica de hardware 12"
-        },
-        {
-          "title": "Memoria",
-          "minimum": "16 GB",
-          "recommended": "16 GB"
-        }
-      ],
-      "maxInstallSize": 38559264768,
-      "hasAddOns": true,
-      "storeUrl": "https://www.xbox.com/es-es/games/store/terminull-brigade/9MW1V43D3VZN"
     },
     {
       "id": "BTNPS60N3114",
@@ -51545,7 +50702,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 81050292224,
+      "maxInstallSize": 81230778368,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/the-first-descendant/9P8FBXKMCLWC"
     },
@@ -51683,7 +50840,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.1,
-      "ratingCount": 219,
+      "ratingCount": 220,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -55814,7 +54971,7 @@
       "hasDiscount": true,
       "discountPercent": 60,
       "rating": 2.3,
-      "ratingCount": 60,
+      "ratingCount": 61,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -57404,7 +56561,7 @@
           "recommended": "Controladora de Xbox"
         }
       ],
-      "maxInstallSize": 107674763264,
+      "maxInstallSize": 107674869760,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/warhammer-40-000-darktide/9NT3WC6RKBVQ"
     },
@@ -58671,7 +57828,7 @@
       "hasDiscount": true,
       "discountPercent": 15,
       "rating": 4.7,
-      "ratingCount": 32,
+      "ratingCount": 33,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -59441,12 +58598,12 @@
     {
       "id": "BSXDD75Q561F",
       "title": "Wolfenstein 3D",
-      "description": "Eres B. J. Blazkowicz, un superagente de la organizaciónOSA, y debes escapar del castillo Wolfenstein y derrotar al perverso régimen nazi. Enfréntate a inolvidables enemigos, como Hans Grosse y Mecha-Hitler, en el legendario pionero del género de los shooters en primera persona. Recorre los clásicos niveles en busca de secretos para descubrir tesoros nazis robados, botiquines, munición, armas e incluso algunos atajos.",
-      "shortDescription": "Eres B. J. Blazkowicz, un superagente de la organización OSA, y debes escapar del castillo Wolfenstein y derrotar al perverso régimen nazi.",
+      "description": "Wolfenstein 3D es un shooter de acción en primera persona ambientado en la Segunda Guerra Mundial. Este juego innovador y aclamado por la crítica fue desarrollado por id Software en 1992, y dio comienzo al género de los FPS actuales. \n\nHistoria \n\nLa Segunda Guerra Mundial causa estragos. Eres William “B. J.” Blazkowicz, el agente de mayor confianza del bloque aliado. Los nazis planean la Operación Eisenfaust, un proyecto para crear un ejército imparable de mutantes. Tu misión consistía en robar los planos secretos, pero te capturaron y encerraron en el castillo Wolfenstein. Ahora, gracias a un golpe de suerte, tienes la oportunidad de escapar, pero los pasillos laberínticos y los nazis de gatillo fácil se interponen en tu camino hacia la libertad. \n\nCaracterísticas \n\n- Vive el origen del género de los shooter en primera persona modernos. \n- Disfruta de uno de los primeros FPS completamente tridimensionales de la historia. \n- Enfréntate a soldados nazis, científicos malvados, mutantes y mucho más. \n- Lucha con una gran variedad de armas, como cuchillos, pistolas y ametralladoras. \n- Corre, dispara y ábrete paso a través de seis episodios. \n\nIncluye la expansión 'Spear of Destiny'\n\nEn esta precuela de Wolfenstein 3D, eres William “B. J.” Blazkowicz, el agente más valioso del bloque aliado. Durante la blitzkrieg alemana de la Segunda Guerra Mundial, los nazis asaltaron Versalles y robaron la lanza que se clavó en el costado de Cristo, que fue trasladada al castillo de Núremberg. Según la leyenda, es imposible derrotar a quien empuñe la lanza. Tu misión consiste en superar las fuertes medidas de seguridad para infiltrarte en el baluarte nazi y recuperar la Lanza del Destino antes de que sea demasiado tarde. ",
+      "shortDescription": "La Segunda Guerra Mundial causa estragos. Los nazis planean crear un ejército imparable de mutantes. Cuando estabas en una misión para robar los planos secretos, te capturaron y encerraron. Ahora, gracias a un golpe de suerte, tienes la oportunidad de escapar, pero los pasillos laberínticos y los nazis de gatillo fácil se interponen en tu camino hacia la libertad.",
       "developer": "id Software",
       "publisher": "Bethesda Softworks",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.26169.69996971058496124.2c12fbbb-b1fd-4ae1-b929-d0155904a243.cc46ae40-61c3-4243-94ea-788ebd8ab67f",
-      "heroImage": "https://store-images.s-microsoft.com/image/apps.32030.69996971058496124.2c12fbbb-b1fd-4ae1-b929-d0155904a243.e36298f7-5589-4075-8d17-a9fd8856e772",
+      "imageUrl": "https://store-images.s-microsoft.com/image/apps.53556.14103068553133050.2db8938c-844e-4b8f-bb62-aca2ce562342.be454e36-958e-43ec-a1de-de65a69e2cae",
+      "heroImage": "https://store-images.s-microsoft.com/image/apps.30633.14103068553133050.5dce9644-f234-4860-92c4-d9058b94e09e.90fc783c-a66a-4365-b2a0-696cc0ce4179",
       "screenshots": [
         "https://store-images.s-microsoft.com/image/apps.30694.69996971058496124.2c12fbbb-b1fd-4ae1-b929-d0155904a243.9c5f95df-9c42-433a-b567-ca1fed46e875",
         "https://store-images.s-microsoft.com/image/apps.25424.69996971058496124.2c12fbbb-b1fd-4ae1-b929-d0155904a243.86e13cf8-f347-4ec3-b9ef-f2109448d57e",
