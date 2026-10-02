@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-01T14:52:56.929Z",
+  "updatedAt": "2026-10-02T14:13:55.876Z",
   "market": "ES",
   "language": "es-ES",
   "totalGames": 812,
@@ -442,7 +442,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.7,
-      "ratingCount": 593,
+      "ratingCount": 592,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -1912,7 +1912,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4,
-      "ratingCount": 40,
+      "ratingCount": 41,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -1992,7 +1992,7 @@
           "recommended": "Micrófono integrado"
         }
       ],
-      "maxInstallSize": 32013713408,
+      "maxInstallSize": 32013692928,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/aniimo/9PK8PHLCQDF6"
     },
@@ -2482,7 +2482,7 @@
           "recommended": "Controladora de Xbox"
         }
       ],
-      "maxInstallSize": 216316338176,
+      "maxInstallSize": 216316354560,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/ark-survival-ascended/9P33VJGVPHVP"
     },
@@ -2971,7 +2971,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.7,
-      "ratingCount": 21150,
+      "ratingCount": 21152,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -5671,7 +5671,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.5,
-      "ratingCount": 437,
+      "ratingCount": 438,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -5810,7 +5810,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.2,
-      "ratingCount": 933,
+      "ratingCount": 932,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -6361,7 +6361,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 35068461056,
+      "maxInstallSize": 35092160512,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/beast-of-reincarnation/9NXWSWBM4H6T"
     },
@@ -7292,7 +7292,7 @@
           "recommended": "Controladora de Xbox"
         }
       ],
-      "maxInstallSize": 535425024,
+      "maxInstallSize": 535638016,
       "hasAddOns": false,
       "storeUrl": "https://www.xbox.com/es-es/games/store/blood-dungeon/9MSVBF0KZFVW"
     },
@@ -8936,7 +8936,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 2.4,
-      "ratingCount": 122,
+      "ratingCount": 123,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -9001,7 +9001,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 2.3,
-      "ratingCount": 119,
+      "ratingCount": 120,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -10932,7 +10932,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4,
-      "ratingCount": 93,
+      "ratingCount": 94,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -12560,8 +12560,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 3.5,
-      "ratingCount": 171,
+      "rating": 3.4,
+      "ratingCount": 172,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -13293,7 +13293,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.2,
-      "ratingCount": 306,
+      "ratingCount": 307,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -14580,7 +14580,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.4,
-      "ratingCount": 50,
+      "ratingCount": 51,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -16701,8 +16701,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 2.9,
-      "ratingCount": 36,
+      "rating": 3,
+      "ratingCount": 37,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -17003,7 +17003,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 2.2,
-      "ratingCount": 176,
+      "ratingCount": 177,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -17916,7 +17916,7 @@
           "recommended": "8 GB"
         }
       ],
-      "maxInstallSize": 62021632000,
+      "maxInstallSize": 62021496832,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/enlisted/9NHKL695M9F2"
     },
@@ -17983,7 +17983,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 62025248768,
+      "maxInstallSize": 62025113600,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/enlisted-xbox-one/9PF432CVQBXT"
     },
@@ -18139,7 +18139,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.5,
-      "ratingCount": 39,
+      "ratingCount": 40,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -19166,10 +19166,10 @@
       "imageUrl": "https://store-images.s-microsoft.com/image/apps.32675.13657086471689364.8f674de7-1bef-4801-8dbc-109dbe27b897.6ce291f2-7d07-44e5-96ff-13d996b0c30c",
       "heroImage": "https://store-images.s-microsoft.com/image/apps.42534.13657086471689364.8f674de7-1bef-4801-8dbc-109dbe27b897.d742c028-24cf-4a16-bcd7-d2a7eeb22f63",
       "screenshots": [
-        "https://store-images.s-microsoft.com/image/apps.55914.13657086471689364.6f683851-4ac8-46ba-b4d3-a484793d6fd4.1782fd31-0609-4d9c-a6df-e883142ee6f9",
-        "https://store-images.s-microsoft.com/image/apps.51595.13657086471689364.6f683851-4ac8-46ba-b4d3-a484793d6fd4.dab958fc-a6b5-45f9-a6b4-51e602d5561d",
-        "https://store-images.s-microsoft.com/image/apps.33161.13657086471689364.6f683851-4ac8-46ba-b4d3-a484793d6fd4.30910202-bfdc-4505-a796-ce3996da3bf6",
-        "https://store-images.s-microsoft.com/image/apps.47976.13657086471689364.6f683851-4ac8-46ba-b4d3-a484793d6fd4.9ec3d9bb-6252-479e-8d02-9da255c8c96e"
+        "https://store-images.s-microsoft.com/image/apps.54040.13657086471689364.abe8cab9-c948-47c9-87e4-f5e6ed013966.904c31ed-02ad-45a8-ae78-e2a11b131222",
+        "https://store-images.s-microsoft.com/image/apps.2766.13657086471689364.abe8cab9-c948-47c9-87e4-f5e6ed013966.074164dc-842a-44e6-9884-6b4581c2922c",
+        "https://store-images.s-microsoft.com/image/apps.52958.13657086471689364.abe8cab9-c948-47c9-87e4-f5e6ed013966.d6a63e55-d876-46c1-a282-98f69944d534",
+        "https://store-images.s-microsoft.com/image/apps.22442.13657086471689364.abe8cab9-c948-47c9-87e4-f5e6ed013966.93c14fc1-39af-4f75-9fba-a3291ef05535"
       ],
       "videoUrl": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftassets/23a2f101-5eab-4d93-b958-7845ec58fd75-AVS.m3u8?packagedStreaming=true",
       "videoCaption": "Official Trailer",
@@ -22148,8 +22148,8 @@
         "https://store-images.s-microsoft.com/image/apps.45321.70702278257994163.82153f73-d018-4d23-bb4f-14433178e3a6.4199f993-ace7-4a87-8ca0-a18d07e6d9cc",
         "https://store-images.s-microsoft.com/image/apps.30681.70702278257994163.c945029a-4946-44ef-b5c7-b072f07eb636.6e6dc827-6c42-4e3b-af68-29f8892be5d7"
       ],
-      "videoUrl": "https://cdn.trailers.xboxservices.com/trailers/00000000-0000-0000-0000-000000000000/xbox/prod/videos/mainprofile/70702278257994163/4918c9a7-e120-4fa0-9b50-ce20bb87be53/manifest.m3u8",
-      "videoCaption": "Chapter 7 Season 4 Trailer",
+      "videoUrl": "https://cdn.trailers.xboxservices.com/trailers/00000000-0000-0000-0000-000000000000/xbox/prod/videos/mainprofile/70702278257994163/d885ae96-fd22-4c18-b652-05578c4ddb93/manifest.m3u8",
+      "videoCaption": "Fortnitemares Trailer",
       "releaseDate": "2017-07-25",
       "categories": [
         "Acción y aventura",
@@ -22168,7 +22168,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.7,
-      "ratingCount": 4518,
+      "ratingCount": 4519,
       "ageRating": 12,
       "pegiRating": "Supervisión parental recomendada",
       "pegiDescription": "Supervisión parental recomendada",
@@ -22422,7 +22422,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.6,
-      "ratingCount": 1852,
+      "ratingCount": 1854,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -24943,7 +24943,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 39373987840,
+      "maxInstallSize": 39374180352,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/grounded-2-game-preview/9P77PG7DK0W2"
     },
@@ -25717,7 +25717,7 @@
       "hasDiscount": true,
       "discountPercent": 20,
       "rating": 3.8,
-      "ratingCount": 183,
+      "ratingCount": 184,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -27329,7 +27329,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.7,
-      "ratingCount": 626,
+      "ratingCount": 627,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -31764,7 +31764,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 16465743872,
+      "maxInstallSize": 16465248256,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/mavrix-by-matt-jones/9NZX67J81X6F"
     },
@@ -32650,7 +32650,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.7,
-      "ratingCount": 11335,
+      "ratingCount": 11336,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -32712,7 +32712,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.7,
-      "ratingCount": 51747,
+      "ratingCount": 51749,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -32921,7 +32921,7 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 4.1,
+      "rating": 4.3,
       "ratingCount": 16,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
@@ -33370,7 +33370,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.5,
-      "ratingCount": 61618,
+      "ratingCount": 61621,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -33786,7 +33786,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.1,
-      "ratingCount": 175,
+      "ratingCount": 174,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -34248,7 +34248,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 2134003712,
+      "maxInstallSize": 2153787392,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/monsters-are-coming/9PJBKF27C16M"
     },
@@ -36249,7 +36249,7 @@
           "recommended": "Micrófono integrado"
         }
       ],
-      "maxInstallSize": 33688145920,
+      "maxInstallSize": 33692291072,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/no-man-s-sky/BQVQTL3PCH05"
     },
@@ -40294,7 +40294,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 2.1,
-      "ratingCount": 54,
+      "ratingCount": 55,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -41304,7 +41304,7 @@
           "recommended": "Controladora de Xbox"
         }
       ],
-      "maxInstallSize": 12229529600,
+      "maxInstallSize": 12229517312,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/rematch/9N5K7HWXL4Q6"
     },
@@ -41962,7 +41962,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.5,
-      "ratingCount": 310,
+      "ratingCount": 311,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -42279,7 +42279,7 @@
           "recommended": "Controladora de Xbox"
         }
       ],
-      "maxInstallSize": 32209768448,
+      "maxInstallSize": 31287250944,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/riders-republic/9P1RPXHWZ1C7"
     },
@@ -42998,8 +42998,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 3.7,
-      "ratingCount": 23,
+      "rating": 3.8,
+      "ratingCount": 24,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -45472,7 +45472,7 @@
           "recommended": "Controladora de Xbox"
         }
       ],
-      "maxInstallSize": 2599247872,
+      "maxInstallSize": 2602045440,
       "hasAddOns": false,
       "storeUrl": "https://www.xbox.com/es-es/games/store/speedrunners-2-king-of-speed/9PPKR9N31BW6"
     },
@@ -49412,8 +49412,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 3.2,
-      "ratingCount": 56,
+      "rating": 3.1,
+      "ratingCount": 57,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -53258,8 +53258,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 2.9,
-      "ratingCount": 33,
+      "rating": 3,
+      "ratingCount": 32,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -57828,7 +57828,7 @@
       "hasDiscount": true,
       "discountPercent": 15,
       "rating": 4.7,
-      "ratingCount": 33,
+      "ratingCount": 37,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -58627,8 +58627,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 4.7,
-      "ratingCount": 19,
+      "rating": 4.8,
+      "ratingCount": 20,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -59518,7 +59518,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.3,
-      "ratingCount": 610,
+      "ratingCount": 611,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -59700,7 +59700,7 @@
           "recommended": "Micrófono integrado"
         }
       ],
-      "maxInstallSize": 58257006592,
+      "maxInstallSize": 58772361216,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/world-of-warships-legends/C1ZT6N30L1WH"
     },
@@ -59782,7 +59782,7 @@
           "recommended": "16 GB"
         }
       ],
-      "maxInstallSize": 78423216128,
+      "maxInstallSize": 78934683648,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/world-war-z-aftermath/9PLCL2VB2SC0"
     },
