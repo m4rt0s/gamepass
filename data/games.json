@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-05T16:29:41.633Z",
+  "updatedAt": "2026-10-06T14:33:36.000Z",
   "market": "ES",
   "language": "es-ES",
   "totalGames": 812,
@@ -1912,7 +1912,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4,
-      "ratingCount": 42,
+      "ratingCount": 43,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -2404,7 +2404,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 2.2,
-      "ratingCount": 411,
+      "ratingCount": 412,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -2482,7 +2482,7 @@
           "recommended": "Controladora de Xbox"
         }
       ],
-      "maxInstallSize": 216416333824,
+      "maxInstallSize": 216416256000,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/ark-survival-ascended/9P33VJGVPHVP"
     },
@@ -5066,7 +5066,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.8,
-      "ratingCount": 814,
+      "ratingCount": 815,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -9275,7 +9275,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 2.6,
-      "ratingCount": 621,
+      "ratingCount": 622,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -15922,7 +15922,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.9,
-      "ratingCount": 487,
+      "ratingCount": 488,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -16019,7 +16019,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.3,
-      "ratingCount": 423,
+      "ratingCount": 424,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -16701,8 +16701,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 3,
-      "ratingCount": 42,
+      "rating": 3.1,
+      "ratingCount": 43,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -22168,7 +22168,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.7,
-      "ratingCount": 4524,
+      "ratingCount": 4528,
       "ageRating": 12,
       "pegiRating": "Supervisión parental recomendada",
       "pegiDescription": "Supervisión parental recomendada",
@@ -22198,7 +22198,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 94991187968,
+      "maxInstallSize": 95106850816,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/fortnite/BT5P2X999VH2"
     },
@@ -22422,7 +22422,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.6,
-      "ratingCount": 1856,
+      "ratingCount": 1857,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -22609,11 +22609,11 @@
         "ultimate"
       ],
       "platform": "both",
-      "price": 5.99,
+      "price": 7.99,
       "msrp": 7.99,
       "currency": "EUR",
-      "hasDiscount": true,
-      "discountPercent": 25,
+      "hasDiscount": false,
+      "discountPercent": 0,
       "rating": 3.8,
       "ratingCount": 5,
       "ageRating": 7,
@@ -25343,7 +25343,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4,
-      "ratingCount": 1186,
+      "ratingCount": 1187,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -25717,7 +25717,7 @@
       "hasDiscount": true,
       "discountPercent": 20,
       "rating": 3.8,
-      "ratingCount": 187,
+      "ratingCount": 188,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -27985,7 +27985,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.2,
-      "ratingCount": 911,
+      "ratingCount": 912,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -28084,7 +28084,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.7,
-      "ratingCount": 78,
+      "ratingCount": 79,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -28731,7 +28731,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.5,
-      "ratingCount": 21,
+      "ratingCount": 22,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -28799,7 +28799,7 @@
           "recommended": "Controladora de Xbox"
         }
       ],
-      "maxInstallSize": 26647396352,
+      "maxInstallSize": 26633879552,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/jurassic-world-evolution-3/9NX7HCWL13Z9"
     },
@@ -31029,7 +31029,7 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 3.8,
+      "rating": 3.7,
       "ratingCount": 14,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
@@ -32008,7 +32008,7 @@
           "recommended": "16 GB"
         }
       ],
-      "maxInstallSize": 102009118720,
+      "maxInstallSize": 119830523904,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/mechwarrior-5-mercenaries/9PB86W3JK8Z5"
     },
@@ -32712,7 +32712,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.7,
-      "ratingCount": 51770,
+      "ratingCount": 51774,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -32921,8 +32921,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 4.5,
-      "ratingCount": 21,
+      "rating": 4.4,
+      "ratingCount": 23,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -33175,7 +33175,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4,
-      "ratingCount": 15952,
+      "ratingCount": 15955,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -33272,7 +33272,7 @@
           "recommended": "8 GB"
         }
       ],
-      "maxInstallSize": 2154356736,
+      "maxInstallSize": 2153230336,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/minecraft-preview-for-windows/9P5X4QVLC2XR"
     },
@@ -33333,7 +33333,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 2368081920,
+      "maxInstallSize": 2367131648,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/minecraft-preview-for-xbox/9NQ19C36R0VD"
     },
@@ -33370,7 +33370,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.5,
-      "ratingCount": 61637,
+      "ratingCount": 61638,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -36179,7 +36179,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.9,
-      "ratingCount": 776,
+      "ratingCount": 775,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -36249,7 +36249,7 @@
           "recommended": "Micrófono integrado"
         }
       ],
-      "maxInstallSize": 33692291072,
+      "maxInstallSize": 33692307456,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/no-man-s-sky/BQVQTL3PCH05"
     },
@@ -41189,7 +41189,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 1.6,
-      "ratingCount": 49,
+      "ratingCount": 50,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -41962,7 +41962,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.5,
-      "ratingCount": 318,
+      "ratingCount": 320,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -42015,7 +42015,7 @@
           "recommended": "8 GB"
         }
       ],
-      "maxInstallSize": 82248687616,
+      "maxInstallSize": 82249052160,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/resonance-a-plague-tale-legacy/9PPBNCXP0096"
     },
@@ -42897,7 +42897,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 51150704640,
+      "maxInstallSize": 51255951360,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/rocket-league/C125W9BG2K0V"
     },
@@ -42999,7 +42999,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.8,
-      "ratingCount": 24,
+      "ratingCount": 25,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -43113,7 +43113,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.5,
-      "ratingCount": 1374,
+      "ratingCount": 1375,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -44835,7 +44835,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 29664989184,
+      "maxInstallSize": 30635147264,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/smite-2/9NV8W1KJSQLL"
     },
@@ -45019,7 +45019,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.4,
-      "ratingCount": 17,
+      "ratingCount": 18,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -47254,7 +47254,7 @@
           "recommended": "Controladora de Xbox"
         }
       ],
-      "maxInstallSize": 15635943424,
+      "maxInstallSize": 15636086784,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/subnautica-2-game-preview/9PJPCB188SVG"
     },
@@ -48219,7 +48219,7 @@
       "shortDescription": "Abre tu propia tienda de juegos de cartas. Llena tus estanterías con los últimos sobres de cartas o abre los sobres y colecciona las cartas tú mismo. Fija tus propios precios, contrata personal, organiza eventos y amplía tu tienda.",
       "developer": "OPNeon Games Sdn Bhd",
       "publisher": "OPNeon Games Sdn Bhd",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.31469.14143053245725704.14ebe58d-2f1e-46da-9224-f0da06983250.3a495eda-df3b-4790-a3de-ee27888dfa75",
+      "imageUrl": "https://store-images.s-microsoft.com/image/apps.58237.13937399101571368.d7ea1ad6-8d5d-4b4d-a570-efed308de865.26b2bdaf-a722-4b21-bb40-d7dfdb82b2a9",
       "heroImage": "https://store-images.s-microsoft.com/image/apps.17623.14143053245725704.49eb3f58-de5c-40bc-a143-9408aebac56e.da427190-5c5d-4759-990f-46ba1e0313a3",
       "screenshots": [
         "https://store-images.s-microsoft.com/image/apps.10557.14143053245725704.49eb3f58-de5c-40bc-a143-9408aebac56e.c15b8fc0-e4f8-4f0f-abe0-af1942d39b24",
@@ -50097,7 +50097,7 @@
       "hasDiscount": true,
       "discountPercent": 75,
       "rating": 4.5,
-      "ratingCount": 423,
+      "ratingCount": 424,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -53321,8 +53321,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 3.1,
-      "ratingCount": 25,
+      "rating": 3.2,
+      "ratingCount": 26,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -56167,7 +56167,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.4,
-      "ratingCount": 8309,
+      "ratingCount": 8308,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -56238,7 +56238,7 @@
           "recommended": "Mouse integrado"
         }
       ],
-      "maxInstallSize": 78713274368,
+      "maxInstallSize": 78735589376,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/war-thunder/BX1DTCBD1HXJ"
     },
@@ -56561,7 +56561,7 @@
           "recommended": "Controladora de Xbox"
         }
       ],
-      "maxInstallSize": 107674869760,
+      "maxInstallSize": 107674701824,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/warhammer-40-000-darktide/9NT3WC6RKBVQ"
     },
@@ -59301,20 +59301,20 @@
     {
       "id": "C57L9GR0HHB7",
       "title": "World of Tanks Modern Armor",
-      "description": "TEMPORAL: MAESTROS DEL CAOS\nNadie dijo que hubiera que jugar seguro. Aterroriza a tus rivales en Maestros del Caos y ábrete paso luchando a lo largo de 100 etapas repletas de recompensas con oro, plata y tiempo de cuenta premium. Consigue nuevos vehículos potentes, obtén contenido exclusivo y demuéstrales a tus enemigos lo que pasa cuando el caos se adueña del campo de batalla.\n\nEL CAMPO DE BATALLA TE RECLAMA \nWorld of Tanks Modern Armor te pone al mando de más de 1000 carros modernos y legendarios. Desafíate a ti mismo en estratégicas batallas por equipos de 15 contra 15. Selecciona las batallas de la Guerra Fría si buscas acción trepidante y moderna o elige las batallas de la Segunda Guerra Mundial si prefieres combates tácticos y pausados. Explora mapas detallados inspirados en escenarios de guerra auténticos.  \n\nCONOCE LAS MÁQUINAS MÁS TEMIBLES DE LA HISTORIA \nRevive la historia al mando de carros emblemáticos de la Segunda Guerra Mundial como el Sherman y bestias modernas como el M1 Abrams. Colecciona y mejora tus carros blindados, personalízalos con camuflajes y desbloquea vehículos más poderosos. Elige entre un amplio abanico de comandantes 3D que te guíen en el campo de batalla. \n\nENFRÉNTATE A JUGADORES DE TODO EL MUNDO \nJuega gratis y disfruta de actualizaciones de contenido semanales repletas de desafíos, recompensas, colaboraciones especiales y temporadas nuevas. Elige tu modo preferido: JcJ o JcE. Forma equipo con tus amigos, y uníos a World of Tanks Modern Armor para poner a prueba vuestras habilidades. \n\nTus carros te están esperando. ¡Nos vemos en el campo de batalla! \n\n¿Quieres más información? Pásate por WoTModernArmor.com.",
+      "description": "TEMPORAL: ASILO DE ACERO\nAdéntrate en la nueva temporada de World of Tanks Modern Armor, Asilo de acero, y enfréntate a la locura del campo de batalla. Descubre nuevos carros premium aterradores, un comandante 3D temible, desafíos especiales de Halloween, ofertas de Black Friday y una serie de eventos temporales que pondrán a prueba tu valor.\n\nEL CAMPO DE BATALLA TE RECLAMA \nWorld of Tanks Modern Armor te pone al mando de más de 1000 carros modernos y legendarios. Desafíate a ti mismo en estratégicas batallas por equipos de 15 contra 15. Selecciona las batallas de la Guerra Fría si buscas acción trepidante y moderna o elige las batallas de la Segunda Guerra Mundial si prefieres combates tácticos y pausados. Explora mapas detallados inspirados en escenarios de guerra auténticos.  \n\nCONOCE LAS MÁQUINAS MÁS TEMIBLES DE LA HISTORIA \nRevive la historia al mando de carros emblemáticos de la Segunda Guerra Mundial como el Sherman y bestias modernas como el M1 Abrams. Colecciona y mejora tus carros blindados, personalízalos con camuflajes y desbloquea vehículos más poderosos. Elige entre un amplio abanico de comandantes 3D que te guíen en el campo de batalla. \n\nENFRÉNTATE A JUGADORES DE TODO EL MUNDO \nJuega gratis y disfruta de actualizaciones de contenido semanales repletas de desafíos, recompensas, colaboraciones especiales y temporadas nuevas. Elige tu modo preferido: JcJ o JcE. Forma equipo con tus amigos, y uníos a World of Tanks Modern Armor para poner a prueba vuestras habilidades. \n\nTus carros te están esperando. ¡Nos vemos en el campo de batalla! \n\n¿Quieres más información? Pásate por WoTModernArmor.com.",
       "shortDescription": "World of Tanks Modern Armor te pone al mando de más de 1000 carros modernos y legendarios. Desafíate a ti mismo en estratégicas batallas por equipos de 15 contra 15. Selecciona las batallas de la Guerra Fría si buscas acción trepidante y moderna o elige las batallas de la Segunda Guerra Mundial si prefieres combates tácticos y pausados.  ",
       "developer": "Wargaming.net",
       "publisher": "Wargaming.net",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.50747.67082279703731056.70780ed5-0f1c-4406-ad81-b5de60c2500e.d57120f5-5621-482a-8ac2-b9b479ed0c68",
-      "heroImage": "https://store-images.s-microsoft.com/image/apps.45084.67082279703731056.84cd89a7-80ef-4f91-9d87-815ae664085b.45510c6f-f5f5-4440-804b-4fbc15e9beea",
+      "imageUrl": "https://store-images.s-microsoft.com/image/apps.56441.67082279703731056.6e3bd00c-6996-4fb3-aaff-b5a1ec4229ca.e30bf06c-1657-4b9c-8c20-f83420c09d4e",
+      "heroImage": "https://store-images.s-microsoft.com/image/apps.8100.67082279703731056.6e3bd00c-6996-4fb3-aaff-b5a1ec4229ca.ae7b70f6-96c5-4f6d-9047-dda63a791596",
       "screenshots": [
-        "https://store-images.s-microsoft.com/image/apps.35455.67082279703731056.09e03418-c06c-47b7-8942-511784b223f4.e3b2e3fb-048f-45b5-937f-03506601b9fa",
-        "https://store-images.s-microsoft.com/image/apps.54412.67082279703731056.09e03418-c06c-47b7-8942-511784b223f4.fdc22a29-f24e-4e87-a096-ca5c288d8efc",
-        "https://store-images.s-microsoft.com/image/apps.53766.67082279703731056.09e03418-c06c-47b7-8942-511784b223f4.ccc73517-a2c9-45b2-8cf0-df846257c95e",
-        "https://store-images.s-microsoft.com/image/apps.45758.67082279703731056.09e03418-c06c-47b7-8942-511784b223f4.7d63a255-a2b7-46a9-8eef-48a233b1dedd"
+        "https://store-images.s-microsoft.com/image/apps.40172.67082279703731056.6e3bd00c-6996-4fb3-aaff-b5a1ec4229ca.c0fdc045-1041-4839-8499-441b11e911b1",
+        "https://store-images.s-microsoft.com/image/apps.52906.67082279703731056.6e3bd00c-6996-4fb3-aaff-b5a1ec4229ca.55b55bdd-0b4f-4b73-b3df-0ecc9cb7e740",
+        "https://store-images.s-microsoft.com/image/apps.48226.67082279703731056.6e3bd00c-6996-4fb3-aaff-b5a1ec4229ca.50dccf4f-3cd9-41ce-b555-8a220d5cf0c8",
+        "https://store-images.s-microsoft.com/image/apps.54609.67082279703731056.6e3bd00c-6996-4fb3-aaff-b5a1ec4229ca.481ec115-0a10-4c57-923f-5114eb85aaae"
       ],
-      "videoUrl": "https://cdn.trailers.xboxservices.com/trailers/00000000-0000-0000-0000-000000000000/xbox/prod/videos/mainprofile/67082279703731056/6876f7b4-2a4e-4659-8918-4b81680be62f/manifest.m3u8",
-      "videoCaption": "MASTERS OF MAYHEM",
+      "videoUrl": "https://cdn.trailers.xboxservices.com/trailers/00000000-0000-0000-0000-000000000000/xbox/prod/videos/mainprofile/67082279703731056/32805793-5251-4c87-9ebd-539b7e2fe043/manifest.m3u8",
+      "videoCaption": "Steel Asylum",
       "releaseDate": "2015-07-28",
       "categories": [
         "Acción y aventura",
@@ -59579,7 +59579,7 @@
           "recommended": "4 GB"
         }
       ],
-      "maxInstallSize": 90504085504,
+      "maxInstallSize": 91382517760,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/world-of-warships/9NK9K07FDPJV"
     },
@@ -59738,7 +59738,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.1,
-      "ratingCount": 125,
+      "ratingCount": 126,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
