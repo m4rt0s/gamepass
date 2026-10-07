@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-06T14:33:36.000Z",
+  "updatedAt": "2026-10-07T14:49:28.808Z",
   "market": "ES",
   "language": "es-ES",
-  "totalGames": 812,
+  "totalGames": 813,
   "counts": {
     "essential": 127,
     "premium": 572,
-    "pc": 470,
-    "ultimate": 719,
-    "total": 812
+    "pc": 471,
+    "ultimate": 720,
+    "total": 813
   },
   "categories": [
     "Acción y aventura",
@@ -660,11 +660,11 @@
         "ultimate"
       ],
       "platform": "both",
-      "price": 33.99,
+      "price": 27.19,
       "msrp": 33.99,
       "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
+      "hasDiscount": true,
+      "discountPercent": 20,
       "rating": 4.2,
       "ratingCount": 55,
       "ageRating": 16,
@@ -2971,7 +2971,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.7,
-      "ratingCount": 21155,
+      "ratingCount": 21156,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -6898,11 +6898,11 @@
         "ultimate"
       ],
       "platform": "both",
-      "price": 34.99,
+      "price": 22.74,
       "msrp": 34.99,
       "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
+      "hasDiscount": true,
+      "discountPercent": 35,
       "rating": 3.4,
       "ratingCount": 20,
       "ageRating": 12,
@@ -8037,11 +8037,11 @@
         "ultimate"
       ],
       "platform": "both",
-      "price": 4.99,
+      "price": 3.99,
       "msrp": 4.99,
       "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
+      "hasDiscount": true,
+      "discountPercent": 20,
       "rating": 4.4,
       "ratingCount": 116,
       "ageRating": 7,
@@ -10442,11 +10442,11 @@
         "ultimate"
       ],
       "platform": "both",
-      "price": 9.99,
+      "price": 5.99,
       "msrp": 9.99,
       "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
+      "hasDiscount": true,
+      "discountPercent": 40,
       "rating": 3.5,
       "ratingCount": 73,
       "ageRating": 12,
@@ -12467,8 +12467,8 @@
       "shortDescription": "Atrapados eternamente en un reino donde mora un mal aterrador y la muerte no existe como escapatoria, cuatro decididos supervivientes se enfrentan a un sanguinario asesino en un cruel juego que pondrá a prueba tu ingenio. Escoge un bando y entra en un mundo de tensión y espanto: descubre el mejor multijugador asimétrico de terror que existe.",
       "developer": "Behaviour Interactive Inc.",
       "publisher": "Behaviour Interactive Inc.",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.26358.64366672042187759.89bd4c1b-4d8f-40ca-8c54-de07041e776c.c15ee693-0ff6-4945-963b-ad2295ce7941",
-      "heroImage": "https://store-images.s-microsoft.com/image/apps.2648.64366672042187759.89bd4c1b-4d8f-40ca-8c54-de07041e776c.fccff4e6-31c9-448f-9738-77e1cb947fba",
+      "imageUrl": "https://store-images.s-microsoft.com/image/apps.46191.64366672042187759.099a5916-8b59-4db9-9ba3-146ee8e5afbb.96ba18fa-312c-4fc2-ba88-eb59eab37888",
+      "heroImage": "https://store-images.s-microsoft.com/image/apps.24051.64366672042187759.099a5916-8b59-4db9-9ba3-146ee8e5afbb.181a6855-dd3c-4433-93c3-ecc4db901cec",
       "screenshots": [
         "https://store-images.s-microsoft.com/image/apps.12604.64366672042187759.e80ba144-8092-4889-bf35-dc5c5d65e674.03116756-2cb6-485d-8c3d-0598945cffbc",
         "https://store-images.s-microsoft.com/image/apps.37035.64366672042187759.e80ba144-8092-4889-bf35-dc5c5d65e674.44e3aa18-9fb9-433d-8662-fe3346aea65b",
@@ -12534,8 +12534,8 @@
       "shortDescription": "Atrapados eternamente en un reino donde mora un mal aterrador y la muerte no existe como escapatoria, cuatro decididos supervivientes se enfrentan a un sanguinario asesino en un cruel juego que pondrá a prueba tu ingenio. Escoge un bando y entra en un mundo de tensión y espanto: descubre el mejor multijugador asimétrico de terror que existe.",
       "developer": "Behaviour Interactive Inc.",
       "publisher": "Behaviour Interactive Inc.",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.57024.13756572830160292.0d9ecfc6-24df-4a81-9122-c427d59c4c3b.f0ad617d-7e00-49e4-b0a7-f08dd26a6b32",
-      "heroImage": "https://store-images.s-microsoft.com/image/apps.60881.13756572830160292.0d9ecfc6-24df-4a81-9122-c427d59c4c3b.47f087a3-bb36-4575-a725-1a1982cc8565",
+      "imageUrl": "https://store-images.s-microsoft.com/image/apps.35959.13756572830160292.e0bc9919-a49f-4230-b3b0-ec9eb93969b8.9f5402c2-ab24-433f-b30b-ef9d6c2d66f7",
+      "heroImage": "https://store-images.s-microsoft.com/image/apps.2727.13756572830160292.e0bc9919-a49f-4230-b3b0-ec9eb93969b8.27a8e343-b9d5-40b3-878b-9b6fd8752297",
       "screenshots": [
         "https://store-images.s-microsoft.com/image/apps.12604.13756572830160292.7196dd08-c5aa-4079-b02f-3c9fbc412475.c2c3cf7d-1134-4e7d-bec9-0593fb29446c",
         "https://store-images.s-microsoft.com/image/apps.37035.13756572830160292.7196dd08-c5aa-4079-b02f-3c9fbc412475.1ce759aa-d5c9-4fa1-83e9-de77dc709292",
@@ -14234,7 +14234,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 216741236736,
+      "maxInstallSize": 216736194560,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/diablo-iv-standard-edition/9N8117TM8JL3"
     },
@@ -17385,11 +17385,11 @@
         "ultimate"
       ],
       "platform": "both",
-      "price": 12.99,
+      "price": 9.09,
       "msrp": 12.99,
       "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
+      "hasDiscount": true,
+      "discountPercent": 30,
       "rating": 3.9,
       "ratingCount": 19,
       "ageRating": 3,
@@ -21918,7 +21918,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 123065839616,
+      "maxInstallSize": 123959398400,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/for-honor-standard-edition/9N3DWR830CVN"
     },
@@ -21970,7 +21970,7 @@
         "Xbox One X mejorado"
       ],
       "systemRequirements": [],
-      "maxInstallSize": 123065839616,
+      "maxInstallSize": 123959398400,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/for-honor-marching-fire-edition/C4CBF3FHHCND"
     },
@@ -23350,6 +23350,131 @@
       "maxInstallSize": 143604682752,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/gears-of-war-4/9NBLGGH4PBBM"
+    },
+    {
+      "id": "9N4PT8HGCDHQ",
+      "title": "Gears of War: E-Day",
+      "description": "Comienza la Emergencia\n\nExperimenta el horror y la brutalidad del Día de la Emergencia. Únete a Marcus Fenix y Dominic Santiago catorce años antes del Gears of War original en una apasionante campaña basada en los orígenes de la horda Locust, que emerge desde las profundidades, iniciando una lucha desesperada por la supervivencia. Reúne a tu escuadrón y lucha en el modo multijugador con una reimaginación del icónico modo PvE de Gears, Horde Siege, o enfréntate cara a cara con un enfrentamiento JcJ refinado*, diseñado desde cero en Unreal Engine 5, Gears of War: E-Day ofrece el Gears más envolventes hasta la fecha.\n\nLa historia de E-Day  \n\nLucha en el caos del Día de la Emergencia en una apasionante campaña de historia original.  \n\nLucha solo, codo con codo en pantalla dividida para dos jugadores o reúne hasta cuatro jugadores en línea en el modo Campaña, Horde Siege y Versus.* \n\nEl modo JcE Horde Siege vuelve y es más grande que nunca \n\nSobrevive a una ciudad asediada en una versión evolucionada del icónico modo de supervivencia cooperativo por oleadas de Gears, creado para mapas más grandes, más jugadores y batallas más grandes. \n\nElige tu clase: asalto, francotirador, médico o asaltante y después únete a un escuadrón de 4 jugadores para luchar contra los Locust. \n\nForma equipo con varios escuadrones para conquistar objetivos compartidos y derrotar a los jefes del mundo. Sobrevive para ganar recompensas, desbloquear personalizaciones y mejorar tu equipamiento para la próxima partida.\n\nVuelve el modo Versus: JcJ refinado y centrado \n\nLucha en mapas totalmente nuevos y en los refinados modos 4 contra 4 favoritos de los fans.  \n\nElige tu nivel de competencia. Enfócate y sube de rango en las clasificatorias o entra en las listas de reproducción sociales para disfrutar de una partida más relajada.  \n\nLos controles y el movimiento modernizados hacen que el combate se sienta más fluido, al tiempo que conservan la característica sensación de la mecánica de cobertura de Gears. Salta, voltea, deslízate y flanquea de forma estratégica. \n\nUna amenaza aterradora desde las profundidades \n\nEl tono más oscuro y descarnado y el nuevo diseño de los enemigos devuelven el miedo y el pavor a la serie.  \n\nLa atmósfera y los detalles llegan más lejos que nunca. El mundo se siente más serio, creíble y peligroso.  \n\nLos enemigos conocidos son más amenazantes, a los que se unen criaturas y villanos totalmente nuevos que establecen una verdadera sensación de horror. \n\nSe siente como Gears. Se juega como algo nuevo.  \n\nVuelve el icónico combate basado en coberturas, mejorado con movimientos y recorridos modernizados que añaden libertad y verticalidad.  \n\nLas armas favoritas de los fans regresan con un nuevo diseño, junto con armas totalmente nuevas diseñadas para el brutal combate cuerpo a cuerpo.\n\nReconstruido en Unreal Engine 5 \n\nUn nuevo fundamento técnico para Gears. Diseñado para ofrecer un rendimiento moderno con resolución 4K y hasta 60 FPS en el modo campaña y multijugador*. \n\n*Información importante \n\nMultijugador en línea: la campaña cooperativa en línea, el modo Horde Siege, Versus, la beta abierta y otras características multijugador requieren una suscripción a Game Pass que incluye el modo multijugador en línea, que se vende por separado.  \n\nPantalla dividida para 2 jugadores: solo está disponible para consola.  \n\n4K y 60 FPS: requiere una pantalla compatible. \n\nEl juego requiere una descarga inicial. Puede requerir actualizaciones futuras (también puede requerir almacenamiento adicional). Todas las descargas y actualizaciones requieren una cantidad importante de almacenamiento y conexión a Internet de banda ancha (se aplican las tarifas del proveedor de servicios de Internet).  Debes aceptar el Contrato de servicios de Microsoft (microsoft.com/msa). Es posible que se requiera hardware y suscripciones adicionales. El contenido, las características, los servicios, el juego en línea (si corresponde) y el soporte técnico no están disponibles en todas las regiones (xbox.com/regions) y pueden variar, cambiar o retirarse. Se requiere una cuenta de Microsoft. \n\nADVERTENCIA: Algunas personas pueden experimentar ataques cuando se ven expuestas a luces o patrones parpadeantes en los videojuegos (xbox.com/healthandsafety). ",
+      "shortDescription": "Experimenta el horror y la brutalidad del Día de la Emergencia. Únete a Marcus Fenix y Dominic Santiago mientras la horda Locust emerge desde las profundidades, iniciando una lucha desesperada por la supervivencia. ",
+      "developer": "The Coalition",
+      "publisher": "Xbox Game Studios",
+      "imageUrl": "https://store-images.s-microsoft.com/image/apps.58579.13978914104035031.46ab30c4-87b3-48d6-9e4a-ed44b301b17a.0c0f53d8-d3af-4c48-a1a6-22b31c4ec463",
+      "heroImage": "https://store-images.s-microsoft.com/image/apps.20048.13978914104035031.46ab30c4-87b3-48d6-9e4a-ed44b301b17a.6e05624f-9f48-4169-ac52-04a7bbe5c7e8",
+      "screenshots": [
+        "https://store-images.s-microsoft.com/image/apps.28816.13978914104035031.46ab30c4-87b3-48d6-9e4a-ed44b301b17a.47acc384-ab09-4dc1-8742-180d915d8b32",
+        "https://store-images.s-microsoft.com/image/apps.19619.13978914104035031.46ab30c4-87b3-48d6-9e4a-ed44b301b17a.fd2f4506-3617-47bb-a0c1-4c51a69f9584",
+        "https://store-images.s-microsoft.com/image/apps.57520.13978914104035031.46ab30c4-87b3-48d6-9e4a-ed44b301b17a.024c7923-ec14-41aa-82ee-d10f33e4886b",
+        "https://store-images.s-microsoft.com/image/apps.3210.13978914104035031.46ab30c4-87b3-48d6-9e4a-ed44b301b17a.1f3f2a75-01d4-43e8-a4ab-debaa015e41d"
+      ],
+      "videoUrl": "https://cdn.trailers.xboxservices.com/trailers/00000000-0000-0000-0000-000000000000/xbox/prod/videos/mainprofile/13978914104035031/420f4991-ed3f-40e5-b7cd-96c754be5da6/manifest.m3u8",
+      "videoCaption": "Gears of War E-Day title set over Marcus and Dom standing in the middle of enclosing Locust Horde",
+      "releaseDate": "2026-10-06",
+      "categories": [
+        "Shooter",
+        "Acción y aventura"
+      ],
+      "tiers": [
+        "pc",
+        "ultimate"
+      ],
+      "platform": "both",
+      "price": 69.99,
+      "msrp": 69.99,
+      "currency": "EUR",
+      "hasDiscount": false,
+      "discountPercent": 0,
+      "rating": 4.3,
+      "ratingCount": 64,
+      "ageRating": 18,
+      "pegiRating": "PEGI 18",
+      "pegiDescription": "Apropiado a partir de 18 años",
+      "interactiveDescriptions": [
+        "Compras dentro del juego"
+      ],
+      "capabilities": [
+        "Cooperación local de Xbox (2-2)",
+        "Cooperativo en línea  (2-4)",
+        "Multijugador local de Xbox (2-2)",
+        "Multijugador en línea  (2-12)",
+        "Multijugador multiplataforma de Xbox",
+        "4K Ultra HD",
+        "HDR10",
+        "Un jugador",
+        "Pantalla dividida o compartida",
+        "Frecuencia de actualización variable",
+        "Cooperación multiplataforma de Xbox",
+        "Trazado de rayos",
+        "60 fps +",
+        "Sonido espacial",
+        "Dolby Atmos",
+        "DTS:X",
+        "Optimizado para Xbox Series X|S",
+        "Mouse y teclado de la consola",
+        "Logros de Xbox",
+        "Presencia de Xbox",
+        "Cosas guardadas en la nube de Xbox",
+        "Xbox Play Anywhere"
+      ],
+      "systemRequirements": [
+        {
+          "title": "SO",
+          "minimum": "Windows 10 version 18362.0 or higher",
+          "recommended": "Windows 10 version 18362.0 or higher"
+        },
+        {
+          "title": "Arquitectura",
+          "minimum": "x64",
+          "recommended": "x64"
+        },
+        {
+          "title": "Gráficos",
+          "minimum": "Hardware Ray Tracing capable GPU is required. NVIDIA GeForce RTX 5050 / NVIDIA GeForce RTX 2060 / AMD Radeon RX 6600 / Radeon RX 9060",
+          "recommended": "NVIDIA GeForce RTX 5060 / NVIDIA GeForce RTX 3060ti / AMD Radeon RX 6700 XT / Radeon RX 9060 XT"
+        },
+        {
+          "title": "Procesador",
+          "minimum": "AMD Ryzen 5 2600X / Intel i7‑6850K / i5‑10400",
+          "recommended": "AMD Ryzen 5 5600 / Intel i5-11600K"
+        },
+        {
+          "title": "DirectX",
+          "minimum": "API de DirectX 12, nivel de característica de hardware 12",
+          "recommended": "API de DirectX 12, nivel de característica de hardware 12"
+        },
+        {
+          "title": "Memoria",
+          "minimum": "12 GB",
+          "recommended": "16 GB"
+        },
+        {
+          "title": "Memoria de vídeo",
+          "minimum": "6 GB",
+          "recommended": "8 GB"
+        },
+        {
+          "title": "Teclado",
+          "minimum": "",
+          "recommended": "Teclado integrado"
+        },
+        {
+          "title": "Mouse",
+          "minimum": "",
+          "recommended": "Mouse integrado"
+        },
+        {
+          "title": "Controladora",
+          "minimum": "",
+          "recommended": "Controladora de Xbox"
+        },
+        {
+          "title": "Micrófono",
+          "minimum": "",
+          "recommended": "Micrófono integrado"
+        }
+      ],
+      "maxInstallSize": 133163163648,
+      "hasAddOns": true,
+      "storeUrl": "https://www.xbox.com/es-es/games/store/gears-of-war-e-day/9N4PT8HGCDHQ"
     },
     {
       "id": "BSHMMGRP84N4",
@@ -25717,7 +25842,7 @@
       "hasDiscount": true,
       "discountPercent": 20,
       "rating": 3.8,
-      "ratingCount": 188,
+      "ratingCount": 189,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -27596,11 +27721,11 @@
         "ultimate"
       ],
       "platform": "both",
-      "price": 24.99,
+      "price": 7.49,
       "msrp": 24.99,
       "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
+      "hasDiscount": true,
+      "discountPercent": 70,
       "rating": 3.8,
       "ratingCount": 128,
       "ageRating": 3,
@@ -32166,7 +32291,7 @@
           "recommended": "Controladora de Xbox"
         }
       ],
-      "maxInstallSize": 19842883584,
+      "maxInstallSize": 19842871296,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/medieval-dynasty/9PDDP6ML6XHF"
     },
@@ -32712,7 +32837,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.7,
-      "ratingCount": 51774,
+      "ratingCount": 51779,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -32966,7 +33091,7 @@
           "recommended": "Controladora de Xbox"
         }
       ],
-      "maxInstallSize": 9728999424,
+      "maxInstallSize": 9933160448,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/minecraft-dungeons-ii/9PM3J18QM4Q3"
     },
@@ -33175,7 +33300,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4,
-      "ratingCount": 15955,
+      "ratingCount": 15956,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -33370,7 +33495,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.5,
-      "ratingCount": 61638,
+      "ratingCount": 61639,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -33780,11 +33905,11 @@
         "ultimate"
       ],
       "platform": "both",
-      "price": 18.99,
+      "price": 15.19,
       "msrp": 18.99,
       "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
+      "hasDiscount": true,
+      "discountPercent": 20,
       "rating": 4.1,
       "ratingCount": 175,
       "ageRating": 16,
@@ -34372,11 +34497,11 @@
         "ultimate"
       ],
       "platform": "both",
-      "price": 29.99,
+      "price": 20.99,
       "msrp": 29.99,
       "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
+      "hasDiscount": true,
+      "discountPercent": 30,
       "rating": 4.2,
       "ratingCount": 26,
       "ageRating": 12,
@@ -34595,11 +34720,11 @@
         "ultimate"
       ],
       "platform": "both",
-      "price": 19.99,
+      "price": 15.99,
       "msrp": 19.99,
       "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
+      "hasDiscount": true,
+      "discountPercent": 20,
       "rating": 3.8,
       "ratingCount": 36,
       "ageRating": 12,
@@ -36179,7 +36304,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.9,
-      "ratingCount": 775,
+      "ratingCount": 776,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -37220,12 +37345,12 @@
     {
       "id": "C1C4DZJPBC2V",
       "title": "Overwatch®",
-      "description": "Overwatch es un shooter por equipos de héroes gratuito siempre activo y en constante evolución que está ambientado en un futuro optimista en el que todas las partidas ofrecen contiendas definitivas 5c5 o 6c6. ¡Disfruta de héroes y mapas nuevos, diferentes formas de jugar y cosméticos únicos! Ponte en la piel de uno de los más de 40 héroes de Overwatch y lidera la carga, embosca a los enemigos o ayuda a tus aliados. Únete a tus amigos y salta al campo de batalla en más de 25 mapas futuristas inspirados en ubicaciones del mundo real y domina modos de juego únicos.\n\nReinado de Talon: Temporada 4, Héroes de Busán\n\nSacad los héroes que lleváis dentro\n\nDamos la bienvenida al combate a D.Mon, la nueva heroína tanque que defenderá Busán en una temporada ideada para que cada héroe dé lo mejor de sí mismo en el campo de batalla.\n\nLos chatarreros y Talon arremeten contra Busán, así que la nueva heroína tanque, D.Mon, decide acompañar a D.Va y el resto del escuadrón MEKA para proteger sus hogares. Elije a tu piloto favorito en el evento Estrella fugaz: Mi locura MEKA, consigue estrellas y descubre la historia del escuadrón mientras tu apoyo les ayuda a subir a lo más alto de las clasificaciones mundiales. Déjate sorprender por un pase de batalla renovado con una progresión flexible y la opción de intercambiar una recompensa legendaria de tu elección. Además, podrás explorar las nuevas versiones de Busán, Paraíso y Eichenwalde antes de enfrentarte a Ofensivas por equipos, un modo en el que los equipos avanzan juntos y los comentarios en combate mejorados hacen que ver el impacto de cada jugador sea más fácil que nunca. Corona la jugada desbloqueando a un Genji mítico o el arma mítica de Sojourn, así como otros cosméticos, y completa tu colección.",
+      "description": "Overwatch es un shooter por equipos de héroes gratuito siempre activo y en constante evolución que está ambientado en un futuro optimista en el que todas las partidas ofrecen contiendas definitivas 5c5 o 6c6. ¡Disfruta de héroes y mapas nuevos, diferentes formas de jugar y cosméticos únicos! Ponte en la piel de uno de los más de 40 héroes de Overwatch y lidera la carga, embosca a los enemigos o ayuda a tus aliados. Únete a tus amigos y salta al campo de batalla en más de 25 mapas futuristas inspirados en ubicaciones del mundo real y domina modos de juego únicos.\n\nReinado de Talon - Temporada 5: Doctrine sombrío\n\nSacia tu hambre\n\nHinca el diente a la nueva y espeluznante temporada en la que Doctrine escapa de Grimsvotn, el caos sale de su tumba por Halloween y concluye el Reinado de Talon.\n\nAlgo maligno se aproxima... ¡La espera ha terminado! Doctrine emerge de los gélidos confines de Grimsvotn y pasa a formar parte de la plantilla de apoyo para aportar una nueva visión de la vida, la muerte y todo lo que merece la pena arrebatar entre ambas. Sigue su rastro de destrucción por la prisión volcánica donde Doomfist lo liberó en el primer mapa de escolta nuevo desde el lanzamiento de Overwatch 2. Durante su huida, el Reinado de Talon llegará a su emocionante desenlace, tras años de preparación.\nDespués, desata el infierno en la tierra por Halloween con Locura misteriosa: Juegos del cementerio, donde cada partida será un nuevo y caótico experimento. Y te aguardan más sorpresas en la oscuridad, como el regreso de Sombra con un montón de trucos nuevos como apoyo o una actualización para Roadhog. Resucita pases de batalla antiguos con los pases recuperados, explora el sobrenatural poder de un aspecto mítico para Wuyang y sube a tope el volumen con la primera arma mítica de Lúcio, que incluye sonidos y efectos exclusivos.\nAbre bien los ojos, no te vayas a perder el capítulo final.",
       "shortDescription": "Overwatch, ¡UN FUTURO POR EL QUE VALE LA PENA LUCHAR!\n\nOverwatch es un juego de acción por equipos, gratuito, siempre activo y en constante evolución que está ambientado en un futuro optimista en el que todas las partidas ofrecen contiendas definitivas 5c5 o 6c6. ",
       "developer": "Blizzard Entertainment",
       "publisher": "Blizzard Entertainment",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.47151.14548245473193065.9c82be1a-823e-414c-80e7-be1aa2cecce1.dcee3fc6-0b79-488d-a428-3acdf879e6e3",
-      "heroImage": "https://store-images.s-microsoft.com/image/apps.18677.14548245473193065.9c82be1a-823e-414c-80e7-be1aa2cecce1.89a56f88-2bbb-413a-b4e4-0104c28c76cc",
+      "imageUrl": "https://store-images.s-microsoft.com/image/apps.1998.14548245473193065.3d2dbc10-d879-4882-a2bb-cf42a6790f66.4d665574-275b-45ec-9674-3485cf253a8c",
+      "heroImage": "https://store-images.s-microsoft.com/image/apps.63715.14548245473193065.3d2dbc10-d879-4882-a2bb-cf42a6790f66.1fc5e5e9-e181-4c4d-88cf-24ec01d38722",
       "screenshots": [
         "https://store-images.s-microsoft.com/image/apps.20236.64800374430761253.40710270-b54a-4aa0-8da0-dba524848906.c365871e-8bc0-4eef-8e96-494e298bd514",
         "https://store-images.s-microsoft.com/image/apps.32150.64800374430761253.40710270-b54a-4aa0-8da0-dba524848906.6d31f8db-ae43-4be5-9dff-80a05dc3b3d7",
@@ -37286,12 +37411,12 @@
     {
       "id": "9P36DQX6W9CS",
       "title": "Overwatch® PC",
-      "description": "Overwatch es un shooter por equipos de héroes gratuito siempre activo y en constante evolución que está ambientado en un futuro optimista en el que todas las partidas ofrecen contiendas definitivas 5c5 o 6c6. ¡Disfruta de héroes y mapas nuevos, diferentes formas de jugar y cosméticos únicos! Ponte en la piel de uno de los más de 40 héroes de Overwatch y lidera la carga, embosca a los enemigos o ayuda a tus aliados. Únete a tus amigos y salta al campo de batalla en más de 25 mapas futuristas inspirados en ubicaciones del mundo real y domina modos de juego únicos.\n\nReinado de Talon: Temporada 4, Héroes de Busán\n\nSacad los héroes que lleváis dentro\n\nDamos la bienvenida al combate a D.Mon, la nueva heroína tanque que defenderá Busán en una temporada ideada para que cada héroe dé lo mejor de sí mismo en el campo de batalla.\n\nLos chatarreros y Talon arremeten contra Busán, así que la nueva heroína tanque, D.Mon, decide acompañar a D.Va y el resto del escuadrón MEKA para proteger sus hogares. Elije a tu piloto favorito en el evento Estrella fugaz: Mi locura MEKA, consigue estrellas y descubre la historia del escuadrón mientras tu apoyo les ayuda a subir a lo más alto de las clasificaciones mundiales. Déjate sorprender por un pase de batalla renovado con una progresión flexible y la opción de intercambiar una recompensa legendaria de tu elección. Además, podrás explorar las nuevas versiones de Busán, Paraíso y Eichenwalde antes de enfrentarte a Ofensivas por equipos, un modo en el que los equipos avanzan juntos y los comentarios en combate mejorados hacen que ver el impacto de cada jugador sea más fácil que nunca. Corona la jugada desbloqueando a un Genji mítico o el arma mítica de Sojourn, así como otros cosméticos, y completa tu colección.",
+      "description": "Overwatch es un shooter por equipos de héroes gratuito siempre activo y en constante evolución que está ambientado en un futuro optimista en el que todas las partidas ofrecen contiendas definitivas 5c5 o 6c6. ¡Disfruta de héroes y mapas nuevos, diferentes formas de jugar y cosméticos únicos! Ponte en la piel de uno de los más de 40 héroes de Overwatch y lidera la carga, embosca a los enemigos o ayuda a tus aliados. Únete a tus amigos y salta al campo de batalla en más de 25 mapas futuristas inspirados en ubicaciones del mundo real y domina modos de juego únicos.\n\nReinado de Talon - Temporada 5: Doctrine sombrío\n\nSacia tu hambre\n\nHinca el diente a la nueva y espeluznante temporada en la que Doctrine escapa de Grimsvotn, el caos sale de su tumba por Halloween y concluye el Reinado de Talon.\n\nAlgo maligno se aproxima... ¡La espera ha terminado! Doctrine emerge de los gélidos confines de Grimsvotn y pasa a formar parte de la plantilla de apoyo para aportar una nueva visión de la vida, la muerte y todo lo que merece la pena arrebatar entre ambas. Sigue su rastro de destrucción por la prisión volcánica donde Doomfist lo liberó en el primer mapa de escolta nuevo desde el lanzamiento de Overwatch 2. Durante su huida, el Reinado de Talon llegará a su emocionante desenlace, tras años de preparación.\nDespués, desata el infierno en la tierra por Halloween con Locura misteriosa: Juegos del cementerio, donde cada partida será un nuevo y caótico experimento. Y te aguardan más sorpresas en la oscuridad, como el regreso de Sombra con un montón de trucos nuevos como apoyo o una actualización para Roadhog. Resucita pases de batalla antiguos con los pases recuperados, explora el sobrenatural poder de un aspecto mítico para Wuyang y sube a tope el volumen con la primera arma mítica de Lúcio, que incluye sonidos y efectos exclusivos.\nAbre bien los ojos, no te vayas a perder el capítulo final.",
       "shortDescription": "Overwatch, ¡UN FUTURO POR EL QUE VALE LA PENA LUCHAR!\n\nOverwatch es un juego de acción por equipos, gratuito, siempre activo y en constante evolución que está ambientado en un futuro optimista en el que todas las partidas ofrecen contiendas definitivas 5c5 o 6c6. ",
       "developer": "Blizzard Entertainment",
       "publisher": "Blizzard Entertainment",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.47151.14548245473193065.9c82be1a-823e-414c-80e7-be1aa2cecce1.dcee3fc6-0b79-488d-a428-3acdf879e6e3",
-      "heroImage": "https://store-images.s-microsoft.com/image/apps.18677.14548245473193065.9c82be1a-823e-414c-80e7-be1aa2cecce1.89a56f88-2bbb-413a-b4e4-0104c28c76cc",
+      "imageUrl": "https://store-images.s-microsoft.com/image/apps.1998.14548245473193065.3d2dbc10-d879-4882-a2bb-cf42a6790f66.4d665574-275b-45ec-9674-3485cf253a8c",
+      "heroImage": "https://store-images.s-microsoft.com/image/apps.63715.14548245473193065.3d2dbc10-d879-4882-a2bb-cf42a6790f66.1fc5e5e9-e181-4c4d-88cf-24ec01d38722",
       "screenshots": [
         "https://store-images.s-microsoft.com/image/apps.20236.64800374430761253.40710270-b54a-4aa0-8da0-dba524848906.c365871e-8bc0-4eef-8e96-494e298bd514",
         "https://store-images.s-microsoft.com/image/apps.32150.64800374430761253.40710270-b54a-4aa0-8da0-dba524848906.6d31f8db-ae43-4be5-9dff-80a05dc3b3d7",
@@ -42934,7 +43059,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.4,
-      "ratingCount": 76,
+      "ratingCount": 77,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -44729,11 +44854,11 @@
         "ultimate"
       ],
       "platform": "both",
-      "price": 7.49,
+      "price": 5.99,
       "msrp": 7.49,
       "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
+      "hasDiscount": true,
+      "discountPercent": 20,
       "rating": 3,
       "ratingCount": 5,
       "ageRating": 3,
@@ -44835,7 +44960,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 30635147264,
+      "maxInstallSize": 30636068864,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/smite-2/9NV8W1KJSQLL"
     },
@@ -45013,11 +45138,11 @@
         "ultimate"
       ],
       "platform": "both",
-      "price": 22.99,
+      "price": 18.39,
       "msrp": 22.99,
       "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
+      "hasDiscount": true,
+      "discountPercent": 20,
       "rating": 3.4,
       "ratingCount": 18,
       "ageRating": 3,
@@ -45102,7 +45227,7 @@
       ],
       "videoUrl": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftassets/7cc2a5a0-abe5-49e5-9fad-158f988845f5-AVS.m3u8?packagedStreaming=true",
       "videoCaption": "Xbox Game Showcase 2023",
-      "releaseDate": "",
+      "releaseDate": "2025-04-08",
       "categories": [
         "Acción y aventura"
       ],
@@ -45112,8 +45237,8 @@
         "ultimate"
       ],
       "platform": "both",
-      "price": 0,
-      "msrp": 0,
+      "price": 34.99,
+      "msrp": 34.99,
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
@@ -46887,7 +47012,7 @@
           "recommended": "Controladora de Xbox"
         }
       ],
-      "maxInstallSize": 5094924288,
+      "maxInstallSize": 5166878720,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/starseeker-astroneer-expeditions-game-preview/9NTZH69PZSH0"
     },
@@ -49270,8 +49395,8 @@
         "https://store-images.s-microsoft.com/image/apps.51297.13574941064895040.be038e7d-0758-4324-bfa6-5dadf241ca14.1b89bf98-0575-4ae9-8827-bb61a4e40fbb",
         "https://store-images.s-microsoft.com/image/apps.17320.13574941064895040.be038e7d-0758-4324-bfa6-5dadf241ca14.86d3347a-79be-450c-b6cb-9ab18c2d16de"
       ],
-      "videoUrl": "https://cdn.trailers.xboxservices.com/trailers/00000000-0000-0000-0000-000000000000/xbox/prod/videos/mainprofile/13574941064895040/6307d665-dd19-43a7-97d8-165a3f468c2b/manifest.m3u8",
-      "videoCaption": "S10 Trailer",
+      "videoUrl": "https://cdn.trailers.xboxservices.com/trailers/00000000-0000-0000-0000-000000000000/xbox/prod/videos/mainprofile/13574941064895040/3028caba-d0bd-442f-95d6-f140b5f3982c/manifest.m3u8",
+      "videoCaption": "S11 Trailer",
       "releaseDate": "2026-07-21",
       "categories": [
         "Carreras y vuelo"
@@ -49281,8 +49406,8 @@
         "ultimate"
       ],
       "platform": "pc",
-      "price": 13.99,
-      "msrp": 69.99,
+      "price": 11.99,
+      "msrp": 59.99,
       "currency": "EUR",
       "hasDiscount": true,
       "discountPercent": 80,
@@ -49341,8 +49466,8 @@
         "https://store-images.s-microsoft.com/image/apps.49477.14129800763179072.8318e611-9b54-4d4b-8698-d8fc8efc52db.fd1a7f52-e99b-4f21-85a3-0b667df1483f",
         "https://store-images.s-microsoft.com/image/apps.52720.14129800763179072.8318e611-9b54-4d4b-8698-d8fc8efc52db.c0bfc34a-e5be-47d1-9505-03ffb1c52aec"
       ],
-      "videoUrl": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftassets/c9cb7bdc-b2e7-43ba-9d74-7b6eabd121f2-AVS.m3u8?packagedStreaming=true",
-      "videoCaption": "TEASER REVEAL",
+      "videoUrl": "https://cdn.trailers.xboxservices.com/trailers/00000000-0000-0000-0000-000000000000/xbox/prod/videos/mainprofile/14129800763179072/84989a73-b4e9-48dd-8f42-e70d17334d6c/manifest.m3u8",
+      "videoCaption": "S11 Trailer",
       "releaseDate": "9998-12-30",
       "categories": [
         "Carreras y vuelo"
@@ -51713,11 +51838,11 @@
         "ultimate"
       ],
       "platform": "both",
-      "price": 29.99,
+      "price": 5.99,
       "msrp": 29.99,
       "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
+      "hasDiscount": true,
+      "discountPercent": 80,
       "rating": 4.5,
       "ratingCount": 24,
       "ageRating": 12,
@@ -55226,7 +55351,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 2.8,
-      "ratingCount": 269,
+      "ratingCount": 270,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -55376,11 +55501,11 @@
         "ultimate"
       ],
       "platform": "both",
-      "price": 9.99,
+      "price": 7.99,
       "msrp": 9.99,
       "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
+      "hasDiscount": true,
+      "discountPercent": 20,
       "rating": 4.6,
       "ratingCount": 45,
       "ageRating": 7,
@@ -55441,11 +55566,11 @@
         "ultimate"
       ],
       "platform": "both",
-      "price": 3.99,
+      "price": 2.99,
       "msrp": 3.99,
       "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
+      "hasDiscount": true,
+      "discountPercent": 25,
       "rating": 4.8,
       "ratingCount": 503,
       "ageRating": 12,
@@ -56686,7 +56811,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.3,
-      "ratingCount": 254,
+      "ratingCount": 255,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -57822,13 +57947,13 @@
         "ultimate"
       ],
       "platform": "both",
-      "price": 16.99,
+      "price": 19.99,
       "msrp": 19.99,
       "currency": "EUR",
-      "hasDiscount": true,
-      "discountPercent": 15,
+      "hasDiscount": false,
+      "discountPercent": 0,
       "rating": 4.8,
-      "ratingCount": 51,
+      "ratingCount": 52,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
