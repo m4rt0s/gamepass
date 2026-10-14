@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-13T15:22:02.518Z",
+  "updatedAt": "2026-10-14T13:09:41.823Z",
   "market": "ES",
   "language": "es-ES",
-  "totalGames": 818,
+  "totalGames": 819,
   "counts": {
     "essential": 127,
     "premium": 573,
-    "pc": 475,
-    "ultimate": 724,
-    "total": 818
+    "pc": 476,
+    "ultimate": 725,
+    "total": 819
   },
   "categories": [
     "Acción y aventura",
@@ -442,7 +442,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.7,
-      "ratingCount": 593,
+      "ratingCount": 594,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -660,11 +660,11 @@
         "ultimate"
       ],
       "platform": "both",
-      "price": 27.19,
+      "price": 33.99,
       "msrp": 33.99,
       "currency": "EUR",
-      "hasDiscount": true,
-      "discountPercent": 20,
+      "hasDiscount": false,
+      "discountPercent": 0,
       "rating": 4.2,
       "ratingCount": 55,
       "ageRating": 16,
@@ -1992,7 +1992,7 @@
           "recommended": "Micrófono integrado"
         }
       ],
-      "maxInstallSize": 32012464128,
+      "maxInstallSize": 32014020608,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/aniimo/9PK8PHLCQDF6"
     },
@@ -2971,7 +2971,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.7,
-      "ratingCount": 21159,
+      "ratingCount": 21160,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -6015,13 +6015,13 @@
       "imageUrl": "https://store-images.s-microsoft.com/image/apps.65490.14559138935406168.e7f01a08-ebf9-41d8-88ba-39fb1a148711.c65ba007-7378-497e-b934-101230f24e82",
       "heroImage": "https://store-images.s-microsoft.com/image/apps.19705.14559138935406168.e7f01a08-ebf9-41d8-88ba-39fb1a148711.b82a3392-b045-405c-9153-6ce42c05865a",
       "screenshots": [
-        "https://store-images.s-microsoft.com/image/apps.5109.14559138935406168.40871830-a143-4187-beff-d90748b2cc2e.88efbe7e-5c30-4c19-9a85-16d94276a10a",
+        "https://store-images.s-microsoft.com/image/apps.52266.14559138935406168.28bbc47b-6ce4-45c1-abaf-5cd6481daa21.bbfbcff2-e3cb-48b1-9a60-6b0cddac4534",
         "https://store-images.s-microsoft.com/image/apps.1122.14559138935406168.40871830-a143-4187-beff-d90748b2cc2e.d6bce15f-6187-4a20-8e14-c28f357835cc",
         "https://store-images.s-microsoft.com/image/apps.60909.14559138935406168.40871830-a143-4187-beff-d90748b2cc2e.1b45992a-0500-47ce-bcc8-4f8681ebe1c5",
         "https://store-images.s-microsoft.com/image/apps.48513.14559138935406168.40871830-a143-4187-beff-d90748b2cc2e.cff7380e-23b5-418b-ae18-17ad88d7ae3e"
       ],
-      "videoUrl": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftassets/76c17fcb-552a-4fd8-bb2a-bdbefc4ec761-AVS.m3u8?packagedStreaming=true",
-      "videoCaption": "Battlefield 2026 Roadmap Video",
+      "videoUrl": "https://cdn.trailers.xboxservices.com/trailers/00000000-0000-0000-0000-000000000000/xbox/prod/videos/mainprofile/14559138935406168/9cf67a0b-676f-4095-af6d-79db32c04ec3/manifest.m3u8",
+      "videoCaption": "Battlefield 6 Season 5 Las Vegas | Official Gameplay Trailer",
       "releaseDate": "2025-10-10",
       "categories": [
         "Shooter"
@@ -6061,7 +6061,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 191228002304,
+      "maxInstallSize": 191224090624,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/battlefield-6/9P2FF14JZLL3"
     },
@@ -6958,11 +6958,11 @@
         "ultimate"
       ],
       "platform": "both",
-      "price": 22.74,
+      "price": 34.99,
       "msrp": 34.99,
       "currency": "EUR",
-      "hasDiscount": true,
-      "discountPercent": 35,
+      "hasDiscount": false,
+      "discountPercent": 0,
       "rating": 3.4,
       "ratingCount": 20,
       "ageRating": 12,
@@ -7747,7 +7747,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 2392776704,
+      "maxInstallSize": 2421547008,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/brawlhalla/C3B1V55CDL0C"
     },
@@ -8097,11 +8097,11 @@
         "ultimate"
       ],
       "platform": "both",
-      "price": 3.99,
+      "price": 4.99,
       "msrp": 4.99,
       "currency": "EUR",
-      "hasDiscount": true,
-      "discountPercent": 20,
+      "hasDiscount": false,
+      "discountPercent": 0,
       "rating": 4.4,
       "ratingCount": 117,
       "ageRating": 7,
@@ -10502,11 +10502,11 @@
         "ultimate"
       ],
       "platform": "both",
-      "price": 5.99,
+      "price": 9.99,
       "msrp": 9.99,
       "currency": "EUR",
-      "hasDiscount": true,
-      "discountPercent": 40,
+      "hasDiscount": false,
+      "discountPercent": 0,
       "rating": 3.5,
       "ratingCount": 73,
       "ageRating": 12,
@@ -12687,7 +12687,7 @@
           "recommended": "Controladora de Xbox"
         }
       ],
-      "maxInstallSize": 66692673536,
+      "maxInstallSize": 66715983872,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/dead-by-daylight-windows/9NMS4SFNBGBH"
     },
@@ -13522,8 +13522,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 0,
-      "ratingCount": 0,
+      "rating": 2,
+      "ratingCount": 4,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -17692,8 +17692,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 3,
-      "ratingCount": 4,
+      "rating": 2.8,
+      "ratingCount": 5,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -17744,7 +17744,7 @@
           "recommended": "4 GB"
         }
       ],
-      "maxInstallSize": 1420165120,
+      "maxInstallSize": 1502298112,
       "hasAddOns": false,
       "storeUrl": "https://www.xbox.com/es-es/games/store/echo-weaver/9N72DFC6GL91"
     },
@@ -22377,7 +22377,7 @@
       "hasDiscount": true,
       "discountPercent": 10,
       "rating": 4.6,
-      "ratingCount": 15,
+      "ratingCount": 16,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -22484,7 +22484,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.7,
-      "ratingCount": 4545,
+      "ratingCount": 4546,
       "ageRating": 12,
       "pegiRating": "Supervisión parental recomendada",
       "pegiDescription": "Supervisión parental recomendada",
@@ -23700,7 +23700,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.3,
-      "ratingCount": 246,
+      "ratingCount": 259,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -23788,7 +23788,7 @@
           "recommended": "Micrófono integrado"
         }
       ],
-      "maxInstallSize": 133163163648,
+      "maxInstallSize": 134018322432,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/gears-of-war-e-day/9N4PT8HGCDHQ"
     },
@@ -23885,7 +23885,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.1,
-      "ratingCount": 167,
+      "ratingCount": 168,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -28037,11 +28037,11 @@
         "ultimate"
       ],
       "platform": "both",
-      "price": 7.49,
+      "price": 24.99,
       "msrp": 24.99,
       "currency": "EUR",
-      "hasDiscount": true,
-      "discountPercent": 70,
+      "hasDiscount": false,
+      "discountPercent": 0,
       "rating": 3.8,
       "ratingCount": 128,
       "ageRating": 3,
@@ -29240,7 +29240,7 @@
           "recommended": "Controladora de Xbox"
         }
       ],
-      "maxInstallSize": 26633879552,
+      "maxInstallSize": 26639773696,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/jurassic-world-evolution-3/9NX7HCWL13Z9"
     },
@@ -29426,7 +29426,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.3,
-      "ratingCount": 166,
+      "ratingCount": 167,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -30301,11 +30301,11 @@
         "ultimate"
       ],
       "platform": "both",
-      "price": 19.99,
+      "price": 1.99,
       "msrp": 19.99,
       "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
+      "hasDiscount": true,
+      "discountPercent": 90,
       "rating": 4,
       "ratingCount": 91,
       "ageRating": 12,
@@ -30711,7 +30711,7 @@
       "hasDiscount": true,
       "discountPercent": 75,
       "rating": 4.9,
-      "ratingCount": 75,
+      "ratingCount": 76,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -31192,7 +31192,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 2.6,
-      "ratingCount": 137,
+      "ratingCount": 138,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -32957,7 +32957,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 2.1,
-      "ratingCount": 701,
+      "ratingCount": 702,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -33091,7 +33091,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.7,
-      "ratingCount": 11339,
+      "ratingCount": 11341,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -33153,7 +33153,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.7,
-      "ratingCount": 51814,
+      "ratingCount": 51824,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -33616,7 +33616,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4,
-      "ratingCount": 15973,
+      "ratingCount": 15974,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -33811,7 +33811,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.5,
-      "ratingCount": 61657,
+      "ratingCount": 61659,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -34813,11 +34813,11 @@
         "ultimate"
       ],
       "platform": "both",
-      "price": 20.99,
+      "price": 23.99,
       "msrp": 29.99,
       "currency": "EUR",
       "hasDiscount": true,
-      "discountPercent": 30,
+      "discountPercent": 20,
       "rating": 4.2,
       "ratingCount": 27,
       "ageRating": 12,
@@ -37100,7 +37100,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 2.2,
-      "ratingCount": 134,
+      "ratingCount": 135,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -37793,7 +37793,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.6,
-      "ratingCount": 926,
+      "ratingCount": 927,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -41813,7 +41813,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 2.7,
-      "ratingCount": 143,
+      "ratingCount": 144,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -43619,7 +43619,7 @@
           "recommended": "Controladora de Xbox"
         }
       ],
-      "maxInstallSize": 42263830528,
+      "maxInstallSize": 44080586752,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/runescape-dragonwilds/9P402RWR63H4"
     },
@@ -44862,7 +44862,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.8,
-      "ratingCount": 65,
+      "ratingCount": 66,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -45155,7 +45155,7 @@
           "recommended": ""
         }
       ],
-      "maxInstallSize": 74190761984,
+      "maxInstallSize": 74223243264,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/skull-and-bones/BXF9VWKCD6QW"
     },
@@ -45272,11 +45272,11 @@
         "ultimate"
       ],
       "platform": "both",
-      "price": 5.99,
+      "price": 7.49,
       "msrp": 7.49,
       "currency": "EUR",
-      "hasDiscount": true,
-      "discountPercent": 20,
+      "hasDiscount": false,
+      "discountPercent": 0,
       "rating": 3,
       "ratingCount": 5,
       "ageRating": 3,
@@ -47351,11 +47351,11 @@
         "ultimate"
       ],
       "platform": "both",
-      "price": 29.99,
+      "price": 19.49,
       "msrp": 29.99,
       "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
+      "hasDiscount": true,
+      "discountPercent": 35,
       "rating": 4,
       "ratingCount": 3,
       "ageRating": 7,
@@ -49272,7 +49272,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.6,
-      "ratingCount": 190,
+      "ratingCount": 191,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -52256,11 +52256,11 @@
         "ultimate"
       ],
       "platform": "both",
-      "price": 5.99,
+      "price": 29.99,
       "msrp": 29.99,
       "currency": "EUR",
-      "hasDiscount": true,
-      "discountPercent": 80,
+      "hasDiscount": false,
+      "discountPercent": 0,
       "rating": 4.5,
       "ratingCount": 24,
       "ageRating": 12,
@@ -53304,7 +53304,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 54534885376,
+      "maxInstallSize": 55491399680,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/tom-clancy-s-rainbow-six-siege-elite-edition/9PB3RHWXB9MR"
     },
@@ -55735,6 +55735,91 @@
       "storeUrl": "https://www.xbox.com/es-es/games/store/valiant-hearts-the-great-war/9N9GCWL14F1N"
     },
     {
+      "id": "9P861V1542BL",
+      "title": "Valor Mortis",
+      "description": "Serviste a Napoleón. Moriste por Napoleón. Has resucitado por Napoleón.\n\nEres William, un soldado de la Grande Armée que ha resucitado. Pero la Europa en la que has despertado no es la misma por la que te sacrificaste. Una plaga misteriosa ha arrasado el continente, y su poder corrupto corre por tus venas tras tu renacimiento.\n\nDOMINA EL PODER CORRUPTO\n\nCada muerte es una oportunidad para fortalecerte. Domina un sistema de combate con paradas, acelerones y remates viscerales con una gran variedad de armas. Canaliza el poder para potenciar los ataques y desbloquear habilidades sobrenaturales para atacar al enemigo.\n\nEL CAMPO DE BATALLA OCULTA MUCHOS SECRETOS\n\nAvanza por una versión alternativa del siglo XIX, donde una guerra sin fin ha causado estragos en el paisaje. Usa tu nueva movilidad para acabar con los engendros de la Guardia Eterna de Napoleón y descubre los secretos del entorno. Podrían servirte para tener más probabilidades de sobrevivir.\n\nDESARMA UNA CONSPIRACIÓN HORROROSA\n\nDisfruta de una historia absorbente, que combina personajes y acontecimientos históricos con elementos sobrenaturales y de terror. Aventúrate más allá de los rincones oscuros del mundo y descubre la verdad sobre la plaga y tu resurrección profana.",
+      "shortDescription": "Valor Mortis es un juego de acción para un jugador de estilo de Souls de los creadores de Ghostrunner. Sé un soldado napoleónico resucitado, usa poderes sobrenaturales, lucha con monstruos y desarma una conspiración que amenaza a la humanidad.",
+      "developer": "One More Level",
+      "publisher": "Lyrical Games",
+      "imageUrl": "https://store-images.s-microsoft.com/image/apps.6950.14098465670758705.ee77a872-5740-4661-bec6-399c86db9b2c.57a42d9a-98d4-4d4d-98fd-56200c024d29",
+      "heroImage": "https://store-images.s-microsoft.com/image/apps.20200.14098465670758705.ee77a872-5740-4661-bec6-399c86db9b2c.a526e91c-f9a3-4321-b0fa-f3e31eb573a2",
+      "screenshots": [
+        "https://store-images.s-microsoft.com/image/apps.9490.14098465670758705.4f920421-eaed-4723-8f2f-f478c6251a7f.aeca1783-227c-4823-817d-27027534eb64",
+        "https://store-images.s-microsoft.com/image/apps.24817.14098465670758705.4f920421-eaed-4723-8f2f-f478c6251a7f.d0cae16a-8d03-4ef2-8a40-54801de821bf",
+        "https://store-images.s-microsoft.com/image/apps.37728.14098465670758705.4f920421-eaed-4723-8f2f-f478c6251a7f.96192dc1-c996-4d8d-8b67-e03a6b62957e",
+        "https://store-images.s-microsoft.com/image/apps.7364.14098465670758705.4f920421-eaed-4723-8f2f-f478c6251a7f.272394a6-cfb9-4a6a-a224-59f28bac54b7"
+      ],
+      "videoUrl": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftassets/fe34ccd9-9db0-4493-a8a9-6ff0400f3781-AVS.m3u8?packagedStreaming=true",
+      "videoCaption": "Valor Mortis reveal trailer",
+      "releaseDate": "2026-10-13",
+      "categories": [
+        "Acción y aventura",
+        "Juegos de rol",
+        "Shooter"
+      ],
+      "tiers": [
+        "pc",
+        "ultimate"
+      ],
+      "platform": "both",
+      "price": 39.99,
+      "msrp": 39.99,
+      "currency": "EUR",
+      "hasDiscount": false,
+      "discountPercent": 0,
+      "rating": 4,
+      "ratingCount": 8,
+      "ageRating": 18,
+      "pegiRating": "PEGI 18",
+      "pegiDescription": "Apropiado a partir de 18 años",
+      "interactiveDescriptions": [],
+      "capabilities": [
+        "4K Ultra HD",
+        "HDR10",
+        "Un jugador",
+        "60 fps +",
+        "Optimizado para Xbox Series X|S",
+        "Logros de Xbox",
+        "Cosas guardadas en la nube de Xbox",
+        "Xbox Play Anywhere"
+      ],
+      "systemRequirements": [
+        {
+          "title": "SO",
+          "minimum": "Windows 10 version 18362.0 or higher",
+          "recommended": "Windows 10 version 18362.0 or higher"
+        },
+        {
+          "title": "Arquitectura",
+          "minimum": "x64",
+          "recommended": "x64"
+        },
+        {
+          "title": "Gráficos",
+          "minimum": "RX 5600 XT / GTX 1660Ti",
+          "recommended": "RX 6800 / RTX 3070"
+        },
+        {
+          "title": "Procesador",
+          "minimum": "Ryzen 5 3600 / Core i5-10600K",
+          "recommended": "Ryzen 7 5800X / Core i5-13400"
+        },
+        {
+          "title": "DirectX",
+          "minimum": "API de DirectX 12, nivel de característica de hardware 12",
+          "recommended": "API de DirectX 12, nivel de característica de hardware 12"
+        },
+        {
+          "title": "Memoria",
+          "minimum": "16 GB",
+          "recommended": "16 GB"
+        }
+      ],
+      "maxInstallSize": 44228513792,
+      "hasAddOns": true,
+      "storeUrl": "https://www.xbox.com/es-es/games/store/valor-mortis/9P861V1542BL"
+    },
+    {
       "id": "9N1NLJK9SKRN",
       "title": "VALORANT",
       "description": "VALORANT es un shooter táctico 5v5 internacional basado en personajes. Sed más listos que vuestros oponentes, superadlos con grandes jugadas y eclipsadlos con habilidades tácticas, armas precisas y trabajo en equipo flexible.\n\nDESAFIAD LOS LÍMITES\nDemostrad vuestro estilo y experiencia en un escenario competitivo internacional. Manejad las armas con precisión y usad habilidades tácticas para atacar, defender y ganar en hasta 13 rondas. Y, con una vida por ronda, tendréis que pensar más rápido que vuestros oponentes si queréis sobrevivir. Enfrentaos a vuestros enemigos en los modos competitivo y normal, además de en Combate a muerte y Fiebre de la Spike.\n\nLA CREATIVIDAD ES EL ARMA MÁS PODEROSA\nAparte de las armas y las balas, tendréis a un agente con habilidades letales, adaptables y ágiles que os brindarán oportunidades para demostrar vuestro dominio de las armas. No hay dos agentes iguales, del mismo modo que no hay momentos destacados idénticos.\n\nLUCHAD POR TODO EL MUNDO\nCada mapa es una zona de juego en la que demostrar vuestro pensamiento creativo. Están creados con el propósito de que se lleven a cabo estrategias de equipo, jugadas impresionantes y momentos decisivos. Cread jugadas que otros imitarán durante años.",
@@ -55919,11 +56004,11 @@
         "ultimate"
       ],
       "platform": "both",
-      "price": 7.99,
+      "price": 9.99,
       "msrp": 9.99,
       "currency": "EUR",
-      "hasDiscount": true,
-      "discountPercent": 20,
+      "hasDiscount": false,
+      "discountPercent": 0,
       "rating": 4.6,
       "ratingCount": 45,
       "ageRating": 7,
@@ -55984,11 +56069,11 @@
         "ultimate"
       ],
       "platform": "both",
-      "price": 2.99,
+      "price": 3.99,
       "msrp": 3.99,
       "currency": "EUR",
-      "hasDiscount": true,
-      "discountPercent": 25,
+      "hasDiscount": false,
+      "discountPercent": 0,
       "rating": 4.8,
       "ratingCount": 504,
       "ageRating": 12,
@@ -57973,7 +58058,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.2,
-      "ratingCount": 168,
+      "ratingCount": 169,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -60164,9 +60249,9 @@
       "discountPercent": 0,
       "rating": 4,
       "ratingCount": 242,
-      "ageRating": 12,
-      "pegiRating": "PEGI 12",
-      "pegiDescription": "Apropiado a partir de 12 años",
+      "ageRating": 16,
+      "pegiRating": "PEGI 16",
+      "pegiDescription": "Apropiado a partir de 16 años",
       "interactiveDescriptions": [
         "Compras dentro del juego (Incluye artículos aleatorios)"
       ],
