@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-15T12:55:33.567Z",
+  "updatedAt": "2026-10-16T12:50:04.506Z",
   "market": "ES",
   "language": "es-ES",
-  "totalGames": 818,
+  "totalGames": 808,
   "counts": {
-    "essential": 127,
-    "premium": 573,
-    "pc": 477,
-    "ultimate": 724,
-    "total": 818
+    "essential": 126,
+    "premium": 563,
+    "pc": 469,
+    "ultimate": 714,
+    "total": 808
   },
   "categories": [
     "Acción y aventura",
@@ -408,177 +408,6 @@
       "maxInstallSize": 752918528,
       "hasAddOns": false,
       "storeUrl": "https://www.xbox.com/es-es/games/store/a-game-about-digging-a-hole/9NGLST31DG26"
-    },
-    {
-      "id": "9ND0JVB184XL",
-      "title": "A Plague Tale: Requiem",
-      "description": "Más allá del mar, una isla llama…\r\nVive una aventura desgarradora por un mundo asombroso y despiadado, retorcido por las fuerzas sobrenaturales.\r\n\r\nTras huir de su hogar devastado, Amicia y Hugo viajan al sur, hacia nuevas regiones y bulliciosas ciudades, para comenzar de nuevo y controlar la maldición. \r\n\r\nPero cuando los poderes de Hugo resurgen, la muerte y la destrucción regresan con un aluvión de ratas devoradoras. Obligados a huir otra vez, los hermanos apuntan a una isla prometida que puede albergar la respuesta para salvar a Hugo. \r\n\r\nDescubre el precio de salvar a tus seres queridos en una lucha por la supervivencia. Ataca desde las sombras, vence a tus enemigos y supera desafíos con distintas armas, herramientas y poderes sobrenaturales.\r\n\r\n●\tLa secuela de la premiada aventura A Plague Tale: Innocence\r\n●\tUna historia increíble retorcida por las fuerzas sobrenaturales\r\n●\tUsa herramientas, escabúllete, lucha o desata un infierno de ratas\r\n●\tGráficos increíbles y una música cautivadora",
-      "shortDescription": "Vive una aventura desgarradora por un mundo asombroso y despiadado, y descubre el precio de salvar a tus seres queridos en una lucha por la supervivencia. Ataca desde las sombras o desata un infierno con armas, herramientas y poderes sobrenaturales.",
-      "developer": "Asobo Studio",
-      "publisher": "Focus Entertainment",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.4956.13537574391772742.e387dd56-e35c-40fb-bc0c-c0c1decef3a1.f27cfe2b-b8b2-47f3-a92e-0eebe096efa2",
-      "heroImage": "https://store-images.s-microsoft.com/image/apps.59830.13537574391772742.e387dd56-e35c-40fb-bc0c-c0c1decef3a1.389d1f4c-4085-48ae-b003-f34a93db083b",
-      "screenshots": [
-        "https://store-images.s-microsoft.com/image/apps.49289.13558336166432541.beb57fbe-cc4b-40c5-ba76-c8112867dea2.296b0a43-a624-4737-b2bd-986403bd4477",
-        "https://store-images.s-microsoft.com/image/apps.53022.13558336166432541.beb57fbe-cc4b-40c5-ba76-c8112867dea2.f86557ec-ec33-4272-8c5e-63a469dae43a",
-        "https://store-images.s-microsoft.com/image/apps.30871.13558336166432541.beb57fbe-cc4b-40c5-ba76-c8112867dea2.bafda49d-e197-4207-a472-cacf7551f234",
-        "https://store-images.s-microsoft.com/image/apps.12359.13558336166432541.beb57fbe-cc4b-40c5-ba76-c8112867dea2.6606e518-fa5a-47f6-be0d-ca8b874529c9"
-      ],
-      "videoUrl": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftassets/130e87b9-af1e-4f8d-bb28-ec36ee1a7f9f-AVS.m3u8?packagedStreaming=true",
-      "videoCaption": "A Plague Tale: Requiem - Gameplay Reveal Trailer",
-      "releaseDate": "2022-10-17",
-      "categories": [
-        "Acción y aventura",
-        "Juegos de rol"
-      ],
-      "tiers": [
-        "premium",
-        "ultimate"
-      ],
-      "platform": "console",
-      "price": 59.99,
-      "msrp": 59.99,
-      "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
-      "rating": 4.7,
-      "ratingCount": 594,
-      "ageRating": 18,
-      "pegiRating": "PEGI 18",
-      "pegiDescription": "Apropiado a partir de 18 años",
-      "interactiveDescriptions": [],
-      "capabilities": [
-        "4K Ultra HD",
-        "HDR10",
-        "Un jugador",
-        "Sonido espacial",
-        "Dolby Atmos",
-        "DTS:X",
-        "Optimizado para Xbox Series X|S",
-        "Logros de Xbox",
-        "Presencia de Xbox",
-        "Clubs de Xbox",
-        "Cosas guardadas en la nube de Xbox"
-      ],
-      "systemRequirements": [
-        {
-          "title": "Arquitectura",
-          "minimum": "x64",
-          "recommended": "x64"
-        }
-      ],
-      "maxInstallSize": 57502371840,
-      "hasAddOns": true,
-      "storeUrl": "https://www.xbox.com/es-es/games/store/a-plague-tale-requiem/9ND0JVB184XL"
-    },
-    {
-      "id": "9N97RC576957",
-      "title": "A Plague Tale: Requiem - Windows",
-      "description": "Más allá del mar, una isla llama…\r\nVive una aventura desgarradora por un mundo asombroso y despiadado, retorcido por las fuerzas sobrenaturales.\r\n\r\nTras huir de su hogar devastado, Amicia y Hugo viajan al sur, hacia nuevas regiones y bulliciosas ciudades, para comenzar de nuevo y controlar la maldición. \r\n\r\nPero cuando los poderes de Hugo resurgen, la muerte y la destrucción regresan con un aluvión de ratas devoradoras. Obligados a huir otra vez, los hermanos apuntan a una isla prometida que puede albergar la respuesta para salvar a Hugo. \r\n\r\nDescubre el precio de salvar a tus seres queridos en una lucha por la supervivencia. Ataca desde las sombras, vence a tus enemigos y supera desafíos con distintas armas, herramientas y poderes sobrenaturales.\r\n\r\n●\tLa secuela de la premiada aventura A Plague Tale: Innocence\r\n●\tUna historia increíble retorcida por las fuerzas sobrenaturales\r\n●\tUsa herramientas, escabúllete, lucha o desata un infierno de ratas\r\n●\tGráficos increíbles y una música cautivadora",
-      "shortDescription": "Vive una aventura desgarradora por un mundo asombroso y despiadado, y descubre el precio de salvar a tus seres queridos en una lucha por la supervivencia. Ataca desde las sombras o desata un infierno con armas, herramientas y poderes sobrenaturales.",
-      "developer": "Asobo Studio",
-      "publisher": "Focus Entertainment",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.4956.13537574391772742.e387dd56-e35c-40fb-bc0c-c0c1decef3a1.f27cfe2b-b8b2-47f3-a92e-0eebe096efa2",
-      "heroImage": "https://store-images.s-microsoft.com/image/apps.59830.13537574391772742.e387dd56-e35c-40fb-bc0c-c0c1decef3a1.389d1f4c-4085-48ae-b003-f34a93db083b",
-      "screenshots": [
-        "https://store-images.s-microsoft.com/image/apps.49289.13537574391772742.2dc19502-9b5b-46b4-a54e-07d89e908c3e.236ed55a-9315-4141-94bd-d36cee203507",
-        "https://store-images.s-microsoft.com/image/apps.53022.13537574391772742.2dc19502-9b5b-46b4-a54e-07d89e908c3e.a7873b45-b63a-4d9c-87c6-86e3c1524c58",
-        "https://store-images.s-microsoft.com/image/apps.30871.13537574391772742.2dc19502-9b5b-46b4-a54e-07d89e908c3e.46faa5aa-ed8d-44eb-88b4-99721cd19360",
-        "https://store-images.s-microsoft.com/image/apps.12359.13537574391772742.2dc19502-9b5b-46b4-a54e-07d89e908c3e.82a21987-f9db-49a0-be23-4a96ee543a18"
-      ],
-      "videoUrl": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftassets/c0d8a46b-75d6-4b0b-81ff-3cd404e257b3-AVS.m3u8?packagedStreaming=true",
-      "videoCaption": "A Plague Tale: Requiem - Gameplay Reveal Trailer",
-      "releaseDate": "2022-10-17",
-      "categories": [
-        "Acción y aventura",
-        "Juegos de rol"
-      ],
-      "tiers": [
-        "pc",
-        "premium",
-        "ultimate"
-      ],
-      "platform": "pc",
-      "price": 49.99,
-      "msrp": 49.99,
-      "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
-      "rating": 4.6,
-      "ratingCount": 386,
-      "ageRating": 18,
-      "pegiRating": "PEGI 18",
-      "pegiDescription": "Apropiado a partir de 18 años",
-      "interactiveDescriptions": [],
-      "capabilities": [
-        "4K Ultra HD",
-        "HDR10",
-        "Un jugador",
-        "Frecuencia de actualización variable",
-        "Sonido espacial",
-        "Dolby Atmos",
-        "DTS:X",
-        "Controlador para juegos para PC",
-        "Logros de Xbox",
-        "Presencia de Xbox",
-        "Clubs de Xbox",
-        "Cosas guardadas en la nube de Xbox"
-      ],
-      "systemRequirements": [
-        {
-          "title": "SO",
-          "minimum": "Windows 10 version 18362.0 or higher",
-          "recommended": "Windows 10 version 18362.0 or higher"
-        },
-        {
-          "title": "Arquitectura",
-          "minimum": "x64",
-          "recommended": "x64"
-        },
-        {
-          "title": "Gráficos",
-          "minimum": "4 GB, GeForce GTX 970/Radeon RX 590",
-          "recommended": " 8 GB, GeForce RTX 3070/Radeon RX 6800 XT"
-        },
-        {
-          "title": "Procesador",
-          "minimum": " Intel Core i5-4690K (3.5 GHz)/AMD FX-8300 (3.3 GHz)",
-          "recommended": " Intel Core i7-8700K (3.7 GHz) / AMD Ryzen 5 3600 (3.6 GHz)"
-        },
-        {
-          "title": "Teclado",
-          "minimum": "Teclado integrado",
-          "recommended": "Teclado integrado"
-        },
-        {
-          "title": "Mouse",
-          "minimum": "Mouse integrado",
-          "recommended": "Mouse integrado"
-        },
-        {
-          "title": "Controladora",
-          "minimum": "Controladora de Xbox",
-          "recommended": "Controladora de Xbox"
-        },
-        {
-          "title": "DirectX",
-          "minimum": "API de DirectX 12, nivel de característica de hardware 12",
-          "recommended": "API de DirectX 12, nivel de característica de hardware 12"
-        },
-        {
-          "title": "Memoria",
-          "minimum": "16 GB",
-          "recommended": "16 GB"
-        },
-        {
-          "title": "Memoria de vídeo",
-          "minimum": "4 GB",
-          "recommended": ""
-        }
-      ],
-      "maxInstallSize": 53425381376,
-      "hasAddOns": true,
-      "storeUrl": "https://www.xbox.com/es-es/games/store/a-plague-tale-requiem-windows/9N97RC576957"
     },
     {
       "id": "BWVBNCMF22ZK",
@@ -1992,7 +1821,7 @@
           "recommended": "Micrófono integrado"
         }
       ],
-      "maxInstallSize": 32014020608,
+      "maxInstallSize": 32070529024,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/aniimo/9PK8PHLCQDF6"
     },
@@ -2482,7 +2311,7 @@
           "recommended": "Controladora de Xbox"
         }
       ],
-      "maxInstallSize": 216416210944,
+      "maxInstallSize": 216358264832,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/ark-survival-ascended/9P33VJGVPHVP"
     },
@@ -3518,7 +3347,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.4,
-      "ratingCount": 309,
+      "ratingCount": 310,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -4057,7 +3886,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.9,
-      "ratingCount": 309,
+      "ratingCount": 310,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -4382,7 +4211,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.5,
-      "ratingCount": 141,
+      "ratingCount": 142,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -5976,7 +5805,7 @@
       "hasDiscount": true,
       "discountPercent": 60,
       "rating": 3.5,
-      "ratingCount": 241,
+      "ratingCount": 243,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -7496,7 +7325,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3,
-      "ratingCount": 1,
+      "ratingCount": 3,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -7794,7 +7623,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 2421547008,
+      "maxInstallSize": 2421837824,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/brawlhalla/C3B1V55CDL0C"
     },
@@ -9813,6 +9642,97 @@
       "storeUrl": "https://www.xbox.com/es-es/games/store/car-mechanic-simulator-2021/9NH019ZFFHTV"
     },
     {
+      "id": "9PKZRN4RJRC9",
+      "title": "Chained Beasts",
+      "description": "Entra al Coliseo encadenado a tus amigos. Chained Beasts es un juego de gladiadores roguelike cooperativo para 1-4 jugadores, combinando combate brutal con trabajo en equipo y momentos de payasadas. ¿Podrás reunir a tus amigos, aplastar a tus enemigos, conquistar a la multitud y conseguir tu libertad?\n\nCombate de Gladiadores\nMasacra a tus enemigos en este juego de gladiadores roguelike o usa el entorno contra ellos. Lanza una urna hacia tus enemigos o lanza a tus enemigos hacia una urna. Embístelos hacia una pared de clavos o un pozo de serpientes. Lanza tus armas para derribar enemigos a distancia pero asegúrate de tener otra a la mano o podrás encontrarte en problemas.\n\nEncadenado a Tus Amigos\nNo luches solo, reúne a cuatro feroces amigos y serán encadenados de formas crueles y creativas. Si no se coordinan, terminarán enredados en un pilar o algo peor, pero sincronicen sus esfuerzos y podrán derribar a sus enemigos y volver las tornas.\n\nLucha contra Jefes Brutales\nA medida que tu fama asciende te enfrentarás a jefes brutales, héroes de la arena, armados hasta los dientes con cada ventaja a su disposición. Las cartas estarán en tu contra pero la victoria te acercará un paso más a Roma y a la oportunidad de alcanzar la libertad o la venganza.\n\nSobrevive Heridas Espantosas\nCada día en la arena te deja con nuevas heridas que añaden a tu miseria. Lucha con una cojera dolorosa, intenta sobrevivir con un ojo izquierdo faltante o desespérate ante alucinaciones que solo tú puedes ver. Hay pociones para aliviar el dolor pero los efectos secundarios pueden dejarte con peores aflicciones; quizás la cirugía sea la solución...\n\nLuchar Forja Carácter\nNo pierdas la esperanza, la experiencia en la arena también puede forjarte en un luchador brutal. Aprende habilidades poderosas para superar a tus enemigos. Conquista al público y siempre te respaldarán. Ahorra dinero y compra equipamiento y armas que puedan cambiar el curso de la batalla. Desbloquea nuevos personajes con habilidades poderosas. Cada partida requerirá que tomes un camino diferente.",
+      "shortDescription": "Chained Beasts es un juego de gladiadores roguelike cooperativo de 1 a 4 jugadores. Lucha encadenado a tus amigos. Usa tus cadenas o la arena para vencer enemigos y complace a la sanguinaria multitud. Soporta dolencias físicas y mentales, derrota jefes temibles y sobrevive.",
+      "developer": "",
+      "publisher": "FEATHERWEIGHT GAMES PTY LIMITED",
+      "imageUrl": "https://store-images.s-microsoft.com/image/apps.60883.14257629622536824.7ae5f381-bcdf-4fa8-b97f-cc953530aeb5.cd3cfc9c-7767-44a0-a2a5-4d89e5f1b4bc",
+      "heroImage": "https://store-images.s-microsoft.com/image/apps.53186.14257629622536824.7ae5f381-bcdf-4fa8-b97f-cc953530aeb5.fddbe79e-e3ba-4160-9a6c-65322e478fdd",
+      "screenshots": [
+        "https://store-images.s-microsoft.com/image/apps.59342.14257629622536824.7ae5f381-bcdf-4fa8-b97f-cc953530aeb5.32a399ff-c15e-4639-8893-71f17b80306b",
+        "https://store-images.s-microsoft.com/image/apps.61295.14257629622536824.7ae5f381-bcdf-4fa8-b97f-cc953530aeb5.ddc9d2fa-a0d4-45f6-9ffa-85d2792b4767",
+        "https://store-images.s-microsoft.com/image/apps.53225.14257629622536824.7ae5f381-bcdf-4fa8-b97f-cc953530aeb5.be672d33-1f7c-40e4-9aa5-78ec594b0388",
+        "https://store-images.s-microsoft.com/image/apps.52002.14257629622536824.7ae5f381-bcdf-4fa8-b97f-cc953530aeb5.b16961a0-907e-4ec4-b914-dcb88fd8147c"
+      ],
+      "videoUrl": "https://cdn.trailers.xboxservices.com/trailers/00000000-0000-0000-0000-000000000000/xbox/prod/videos/mainprofile/14257629622536824/04071974-06cc-4e60-b257-b6f7b6175dab/manifest.m3u8",
+      "videoCaption": "Gameplay Trailer",
+      "releaseDate": "2026-10-15",
+      "categories": [
+        "Acción y aventura",
+        "Lucha"
+      ],
+      "tiers": [
+        "pc",
+        "ultimate"
+      ],
+      "platform": "both",
+      "price": 19.99,
+      "msrp": 19.99,
+      "currency": "EUR",
+      "hasDiscount": false,
+      "discountPercent": 0,
+      "rating": 1.5,
+      "ratingCount": 2,
+      "ageRating": 16,
+      "pegiRating": "PEGI 16",
+      "pegiDescription": "Apropiado a partir de 16 años",
+      "interactiveDescriptions": [],
+      "capabilities": [
+        "Cooperación local de Xbox (2-4)",
+        "Cooperativo en línea  (2-4)",
+        "Un jugador",
+        "Pantalla dividida o compartida",
+        "Cooperación multiplataforma de Xbox",
+        "60 fps +",
+        "Optimizado para Xbox Series X|S",
+        "Logros de Xbox",
+        "Cosas guardadas en la nube de Xbox",
+        "Xbox Play Anywhere"
+      ],
+      "systemRequirements": [
+        {
+          "title": "SO",
+          "minimum": "Windows 10 version 18362.0 or higher",
+          "recommended": "Windows 10 version 18362.0 or higher"
+        },
+        {
+          "title": "Arquitectura",
+          "minimum": "x64",
+          "recommended": "x64"
+        },
+        {
+          "title": "Gráficos",
+          "minimum": "GTX 1060",
+          "recommended": ""
+        },
+        {
+          "title": "Procesador",
+          "minimum": "Core i5-6500",
+          "recommended": ""
+        },
+        {
+          "title": "Memoria",
+          "minimum": "6 GB",
+          "recommended": "16 GB"
+        },
+        {
+          "title": "Memoria de vídeo",
+          "minimum": "4 GB",
+          "recommended": ""
+        },
+        {
+          "title": "Controladora",
+          "minimum": "",
+          "recommended": "Controladora de Xbox"
+        }
+      ],
+      "maxInstallSize": 3392544768,
+      "hasAddOns": false,
+      "storeUrl": "https://www.xbox.com/es-es/games/store/chained-beasts/9PKZRN4RJRC9"
+    },
+    {
       "id": "BQ9Q620NC614",
       "title": "Child of Light",
       "description": "Child of Light narra la historia de una niña, de nombre Aurora, que vivía en Austria en 1895, y que se despierta en el mágico continente de Lemuria. Para volver a su hogar, tendrá que luchar contra las criaturas oscuras de la Reina de la Oscuridad, la cual se robó el sol, la luna y las estrellas.\r\n- Combate de RPG clásico basado en turnos\r\n- Descubre el gran mundo de Lemuria\r\n- Juega con un amigo como Igniculus\r\n- Resuelve rompecabezas y desvela misterios",
@@ -10325,90 +10245,6 @@
       "maxInstallSize": 83228233728,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/cities-skylines-ii-pc-edition/9PGZ346PSLN0"
-    },
-    {
-      "id": "9PPT8K6GQHRZ",
-      "title": "Clair Obscur: Expedition 33",
-      "description": "«Los años pasan y Ella nos borra».\n\nUna vez al año, la Peintresse se despierta y pinta un número en el Monolito. Un número maldito. Todas las personas cuya edad es mayor que ese número se convierten de pronto en humo, esfumándose en el aire. Año tras año, el número baja y, con él, nuestras filas acaban borradas. Mañana, se despertará y pintará el 33. Y, mañana, nosotros partiremos en nuestra última misión: destruir a la Peintresse para que no vuelva a pintar la muerte nunca más.\n\nSomos la expedición 33.\n\nClair Obscur: Expedition 33 es un revolucionario juego de rol por turnos con mecánicas en tiempo real únicas que hacen las batallas más inmersivas y adictivas de lo que jamás hayas visto. Explora un mundo de fantasía inspirado por la Francia de la Belle Époque en el que te enfrentarás a enemigos devastadores.\n\nCombate por turnos con sistema de reacciones\nEn esta evolución de los JRPG, el combate por turnos cobra una nueva vida a través de las acciones en tiempo real. Crea configuraciones únicas para tus expedicionarios que se adapten a tu estilo de juego en función de su equipo, atributos, habilidades y sinergias entre personajes. Vive los combates de forma más activa: esquiva, bloquea y contraataca en tiempo real, encadena combos dominando los ritmos de ataque y ataca los puntos débiles de tus enemigos con un sistema de apuntado libre.\n\n«El mañana es inevitable»\nA Gustave, Maelle y el resto de expedicionarios solo les queda un año de vida; únete a ellos y embarcaos en una misión a la desesperada para detener el ciclo de muerte de la Peintresse. Sigue el rastro de las expediciones previas y descubre cuál fue su destino. Conoce a los miembros de la expedición 33 mientras ellos aprenden a cooperar con todo en su contra.\n\nUn mundo que te conmoverá con su belleza\nExplora un fascinante paraje habitado por adversarios inimaginables. Vaga por imponentes paisajes, desde la isla de Visages hasta el campo de batalla olvidado, descubriendo secretos y misiones ocultas durante la travesía. Encuentra valiosos aliados en criaturas de leyenda y recluta a compañeros especiales, accede a nuevas formas de viaje y descubre zonas secretas en el mapa del mundo.\n\nExperimenta el juego debut de Sandfall Interactive, desarrollado al completo en Unreal Engine 5 con gráficos despampanantes y una banda sonora conmovedora.",
-      "shortDescription": "Guía a la expedición 33 en su viaje para destruir a la Peintresse para que no pinte la muerte. Explora un mundo inspirado por la Francia de la Belle Époque y combate enemigos únicos en este juego de rol por turnos con mecánicas en tiempo real.",
-      "developer": "Sandfall Interactive",
-      "publisher": "Kepler Interactive",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.55260.14322280443288156.27788484-2760-47f7-be0d-dd693682e016.c7b2322a-d6b0-4051-a58b-d0b11aa37b20",
-      "heroImage": "https://store-images.s-microsoft.com/image/apps.34497.14322280443288156.36e7f1cd-07a6-4e2a-a35d-485380706ab1.e8f404c0-ee13-41c4-962d-b4d73f73f3cf",
-      "screenshots": [
-        "https://store-images.s-microsoft.com/image/apps.20955.14322280443288156.36e7f1cd-07a6-4e2a-a35d-485380706ab1.9069c813-937b-49e4-a0c4-994b2f184c6c",
-        "https://store-images.s-microsoft.com/image/apps.13360.14322280443288156.36e7f1cd-07a6-4e2a-a35d-485380706ab1.6103cfc0-0ee8-4135-8ca6-d183226adcf0",
-        "https://store-images.s-microsoft.com/image/apps.32698.14322280443288156.36e7f1cd-07a6-4e2a-a35d-485380706ab1.b8c029cd-4b4b-49e3-bff6-9cf63e3729eb",
-        "https://store-images.s-microsoft.com/image/apps.21736.14322280443288156.36e7f1cd-07a6-4e2a-a35d-485380706ab1.3404e0f9-e9ba-49ea-8d92-16a87828ea3b"
-      ],
-      "videoUrl": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftassets/982a9ec0-f65f-4494-8bf2-3339b28279ef-AVS.m3u8?packagedStreaming=true",
-      "videoCaption": "Reveal Trailer",
-      "releaseDate": "2025-04-24",
-      "categories": [
-        "Juegos de rol",
-        "Acción y aventura"
-      ],
-      "tiers": [
-        "pc",
-        "premium",
-        "ultimate"
-      ],
-      "platform": "both",
-      "price": 49.99,
-      "msrp": 49.99,
-      "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
-      "rating": 4.7,
-      "ratingCount": 1162,
-      "ageRating": 18,
-      "pegiRating": "PEGI 18",
-      "pegiDescription": "Apropiado a partir de 18 años",
-      "interactiveDescriptions": [],
-      "capabilities": [
-        "4K Ultra HD",
-        "Un jugador",
-        "60 fps +",
-        "Optimizado para Xbox Series X|S",
-        "Logros de Xbox",
-        "Cosas guardadas en la nube de Xbox",
-        "Xbox Play Anywhere"
-      ],
-      "systemRequirements": [
-        {
-          "title": "SO",
-          "minimum": "Windows 10 version 18362.0 or higher",
-          "recommended": "Windows 10 version 18362.0 or higher"
-        },
-        {
-          "title": "Arquitectura",
-          "minimum": "x64",
-          "recommended": "x64"
-        },
-        {
-          "title": "Gráficos",
-          "minimum": "NVIDIA GeForce GTX 1060 6 GB / AMD Radeon RX 5600 XT 6 GB / Intel Arc A380 6 GB",
-          "recommended": "NVIDIA GeForce RTX 3060 Ti 8 GB / AMD Radeon RX 6800 XT 16 GB"
-        },
-        {
-          "title": "Procesador",
-          "minimum": "Intel Core i7-8700K / AMD Ryzen 5 1600X",
-          "recommended": "Intel Core i7-12700K / AMD Ryzen 7 5800X"
-        },
-        {
-          "title": "Memoria",
-          "minimum": "8 GB",
-          "recommended": "16 GB"
-        },
-        {
-          "title": "Controladora",
-          "minimum": "",
-          "recommended": "Controladora de Xbox"
-        }
-      ],
-      "maxInstallSize": 49074888704,
-      "hasAddOns": true,
-      "storeUrl": "https://www.xbox.com/es-es/games/store/clair-obscur-expedition-33/9PPT8K6GQHRZ"
     },
     {
       "id": "9NKHKBQJSSC3",
@@ -11985,82 +11821,6 @@
       "storeUrl": "https://www.xbox.com/es-es/games/store/cricket-26-the-official-game-of-the-ashes/9N6JF50HZFW9"
     },
     {
-      "id": "9NGZ1M3N98P2",
-      "title": "Crime Scene Cleaner",
-      "description": "Cuando las compañías de seguros evitan la responsabilidad, entonces depende de ti salvar la vida de tu hija. Esto requerirá una clientela sucia y turbia, pero no tienes más opciones, ¿verdad? Cuando el jefe mayor llame de nuevo, trae un balde y una esponja porque realmente los necesitarás. ¿Estás listo para el reto?\n\nNecesitas nervios de acero para limpiar escenas de crimen dejadas por criminales grandes y pequeños. Puede que no tengas dinero para pagar por la estancia de tu hija en un hospital, pero lo que tienes es un juego particular de habilidades. Con la ayuda de un arsenal completo de equipos, limpiarás sangre, recogerás cadáveres y eliminarás cualquier olor. Todo esto bajo la presión de un reloj en marcha y una policía que sigue cuidadosamente tus pasos.\n\nCaracterísticas Clave:\n\nLimpieza Profunda: Agarra tu coleto y esponja de confianza, ellos serán de gran utilidad para la mayoría de las misiones. Cuando sea difícil lidiar con todo el problema, saca rápidamente la hidrolavadora y limpia espacios externos con profundidad. Además, cuando el olor sea demasiado fuerte, tendrás más que solo un eliminador de olores.\n\nDiversidad de Armas: Algunas veces el equipo que tienes no es lo suficientemente fuerte y necesita una fuerza adicional. Si tus lámparas y linternas no son lo suficientemente fuertes, ¡entonces adquiere unas nuevas! Si habrá mucha sangre en el exterior, adquiere entonces un juego diferente de boquillas de hidrolavadora. Así que antes de cada misión echa un vistazo a tu almacenamiento e inventario, puede que lo necesites para adquirir algo más grande y mejor.\n\nBolsillos Profundos: ¡Produce dinero en una forma en la que puedas! Los pandilleros tienen fama de ser generosos, pero algunas veces eso nos es suficiente. Además, ciertos objetos pueden resultar siendo muy tentadores. ¿Quién va a extrañar ese costoso reloj? El propietario ya está muerto.\n\nLa Familia es lo Importante: Con todas las cosas horripilantes que verás y harás en cada trabajo, no debes olvidar que lo haces por ella. La vida de un padre soltero tiene sus retos y tienes que superarlos todos.\n\n¿Eres el malo? Simplemente eres un hombre con cerebro y fuerza para tomarse el destino por su mano. Eres el hombre del momento, así que limpia, agacha la cabeza y consigue ese dinero.\n",
-      "shortDescription": "Ingresar en la mafia implica compromiso absoluto. Aunque te pagan bien por encargarte de sus trabajos sucios, no ignoras su naturaleza. Tu labor implica limpiar la escena del crimen, evadir a la policía y prepararte para futuras misiones.\n",
-      "developer": "President Studio S.A. ",
-      "publisher": "PlayWay S.A.",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.62899.13641013102004887.bf107aae-94c4-457f-a84e-5bd21f71f809.e0e97ecd-de05-428b-8a35-d2cc77d7e574",
-      "heroImage": "https://store-images.s-microsoft.com/image/apps.31187.13641013102004887.bf107aae-94c4-457f-a84e-5bd21f71f809.f2a26002-93da-45a5-8d45-901c738a5655",
-      "screenshots": [
-        "https://store-images.s-microsoft.com/image/apps.3321.13641013102004887.bf107aae-94c4-457f-a84e-5bd21f71f809.dd259f1e-f311-4865-be3b-9f30f9a97015",
-        "https://store-images.s-microsoft.com/image/apps.9751.13641013102004887.bf107aae-94c4-457f-a84e-5bd21f71f809.50e6fe19-ce64-4f2c-8d1e-355e63e212da",
-        "https://store-images.s-microsoft.com/image/apps.25550.13641013102004887.bf107aae-94c4-457f-a84e-5bd21f71f809.5cddeb3b-e806-41ec-beef-465254b7008a",
-        "https://store-images.s-microsoft.com/image/apps.7906.13641013102004887.bf107aae-94c4-457f-a84e-5bd21f71f809.f090e152-a8aa-44c8-ac1b-9661bb7d728e"
-      ],
-      "videoUrl": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftassets/22f132cb-9d8d-4db5-9c41-1930039e293a-AVS.m3u8?packagedStreaming=true",
-      "videoCaption": "Crime Scene Cleaner - Trailer",
-      "releaseDate": "2025-04-17",
-      "categories": [
-        "Simulación"
-      ],
-      "tiers": [
-        "pc",
-        "premium",
-        "ultimate"
-      ],
-      "platform": "both",
-      "price": 29.99,
-      "msrp": 29.99,
-      "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
-      "rating": 4.5,
-      "ratingCount": 94,
-      "ageRating": 16,
-      "pegiRating": "PEGI 16",
-      "pegiDescription": "Apropiado a partir de 16 años",
-      "interactiveDescriptions": [],
-      "capabilities": [
-        "Un jugador",
-        "Optimizado para Xbox Series X|S",
-        "Logros de Xbox",
-        "Cosas guardadas en la nube de Xbox",
-        "Xbox Play Anywhere"
-      ],
-      "systemRequirements": [
-        {
-          "title": "SO",
-          "minimum": "Windows 10 version 18362.0 or higher",
-          "recommended": "Windows 10 version 18362.0 or higher"
-        },
-        {
-          "title": "Arquitectura",
-          "minimum": "x64",
-          "recommended": "x64"
-        },
-        {
-          "title": "Gráficos",
-          "minimum": "GTX 1060",
-          "recommended": "RTX 2070 SUPER"
-        },
-        {
-          "title": "Procesador",
-          "minimum": "i5-7500",
-          "recommended": "i5-10600"
-        },
-        {
-          "title": "Memoria",
-          "minimum": "16 GB",
-          "recommended": "16 GB"
-        }
-      ],
-      "maxInstallSize": 51293573120,
-      "hasAddOns": false,
-      "storeUrl": "https://www.xbox.com/es-es/games/store/crime-scene-cleaner/9NGZ1M3N98P2"
-    },
-    {
       "id": "C4B8XR1LCXR5",
       "title": "Crimson Skies®: High Road to Revenge™",
       "description": "ALERTA ACERCA DEL JUEGO: Det här spelets onlinefunktioner för flera spelare, poängtavlor och röstkommunikation stöds inte längre. este juego ha sido probado totalmente para asegurar que se reproduce correctamente en tu consola Xbox 360. Sin embargo, en algunos casos, pueden aparecer algunas irregularidades menores en el audio/vídeo durante períodos cortos. Mas detalles en www.xbox.com/xboxoriginals. Crimson Skies: High Road to Revenge combina la emoción de los combates aéreos casi a ras del suelo con el estilo aventurero de una película de aventuras. Los jugadores dirigen un potente avión de fantasía en un juego que recuerda a un relato clásico de Hollywood mientras luchan contra los expertos pilotos del enemigo y realizan complicadas maniobras en los modos multijugador e individuales. En el papel del atractivo y osado pirata aéreo Nathan Zachary, los jugadores realizan acrobacias aéreas por la América de los años treinta a la caza de los asesinos del mejor amigo de Nathan. No hay reembolso para este artículo. Más información en www.xbox.com/live/accounts.",
@@ -12940,7 +12700,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.7,
-      "ratingCount": 253,
+      "ratingCount": 254,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -13569,8 +13329,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 2,
-      "ratingCount": 4,
+      "rating": 2.6,
+      "ratingCount": 5,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -14381,7 +14141,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.5,
-      "ratingCount": 280,
+      "ratingCount": 281,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -15568,95 +15328,6 @@
       "maxInstallSize": 1638887424,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/dome-keeper/9P8XKV2D5DZ5"
-    },
-    {
-      "id": "9N6V2181GHLM",
-      "title": "Donut County",
-      "description": "Donut County es un juego de enigmas con historia donde tú serás un agujero en suelo que va creciendo de tamaño. Conocerás a personajes encantadores, a los que tendrás que robarles la basura y tirarlos al agujero.\r\n\r\nLa basura es un tesoro\r\nLos mapaches han tomado Donut County con agujeros robabasuras controlados por control remoto. Tú encarnas a BK, un mapache que controla el agujero y se traga a sus amigos y sus casas para ganar premios absurdos. \r\n\r\nCuando BK cae en uno de sus propios agujeros, le plantan cara Mira, su mejor amiga, y los residentes de Donut County, ¡que están todos atascados a 999 pies bajo tierra... y exigen respuestas!\r\n\r\nEl agujero crece y crece\r\n- EXPLORA las casas de los personajes, cada una con un entorno único.\r\n- MUEVE el agujero para engullir sus cosas y hacer que cada vez sea más grande.\r\n- COMBINA objetos en el interior para lograr efectos de locura: prepara sopa, cría conejos, lanza fuegos artificiales y muchas cosas más.\r\n- CATAPULTA cosas de vuelta al agujero. Puedes usarla para resolver enigmas... o simplemente para destruir cosas.\r\n- DEVÓRALO todo. El agujero no parará hasta que toda la región haya desaparecido.\r\n\r\nDonut County fue creado por Ben Esposito, diseñador de What Remains of Edith Finch y The Unfinished Swan. Es el resultado de seis años de desarrollo en solitario, docenas de donuts (para el estudio de campo) y un fatídico encuentro con un mapache.\r\n\r\nLa versión para PC de este juego no es compatible con Xbox Live",
-      "shortDescription": "Donut County es un juego de enigmas con historia donde tú serás un agujero en suelo que va creciendo de tamaño. Conocerás a personajes encantadores, a los que tendrás que robarles la basura y tirarlos al agujero.\r\n\r\nLa versión para PC de este juego no es compatible con Xbox Live",
-      "developer": "Ben Esposito",
-      "publisher": "Annapurna Interactive",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.9487.14011542784181932.80ac6320-df7b-4be6-9355-e9083a5d2063.bb7adc22-496e-4006-a148-669d0ac3898f",
-      "heroImage": "https://store-images.s-microsoft.com/image/apps.29308.14011542784181932.80ac6320-df7b-4be6-9355-e9083a5d2063.7453474c-587b-4024-ad6d-a785d30d7fc4",
-      "screenshots": [
-        "https://store-images.s-microsoft.com/image/apps.25594.14011542784181932.80ac6320-df7b-4be6-9355-e9083a5d2063.f568b576-5d8a-4c2d-bb13-0dfe8eb64731",
-        "https://store-images.s-microsoft.com/image/apps.63368.14011542784181932.80ac6320-df7b-4be6-9355-e9083a5d2063.f058917d-5022-434f-9628-302658151635",
-        "https://store-images.s-microsoft.com/image/apps.58073.14011542784181932.80ac6320-df7b-4be6-9355-e9083a5d2063.2dc20a79-41ff-495b-8a92-064f4011787f",
-        "https://store-images.s-microsoft.com/image/apps.3155.14011542784181932.80ac6320-df7b-4be6-9355-e9083a5d2063.ab105389-9e57-42f6-8841-5b3447e20d07"
-      ],
-      "videoUrl": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftassets/ce107b62-6b0d-4dcd-be17-24e05ce8be89-AVS.m3u8?packagedStreaming=true",
-      "videoCaption": "Donut County - Xbox Trailer",
-      "releaseDate": "2018-12-18",
-      "categories": [
-        "Acción y aventura",
-        "Niños y familia",
-        "Puzles y curiosidades"
-      ],
-      "tiers": [
-        "pc",
-        "premium",
-        "ultimate"
-      ],
-      "platform": "both",
-      "price": 12.99,
-      "msrp": 12.99,
-      "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
-      "rating": 3.9,
-      "ratingCount": 177,
-      "ageRating": 3,
-      "pegiRating": "PEGI 3",
-      "pegiDescription": "Apropiado a partir de 3 años",
-      "interactiveDescriptions": [],
-      "capabilities": [
-        "4K Ultra HD",
-        "Un jugador",
-        "Controlador para juegos para PC",
-        "Logros de Xbox",
-        "Presencia de Xbox",
-        "Cosas guardadas en la nube de Xbox"
-      ],
-      "systemRequirements": [
-        {
-          "title": "SO",
-          "minimum": "Windows 10 version 18362.0 or higher",
-          "recommended": "Windows 10 version 18362.0 or higher"
-        },
-        {
-          "title": "Arquitectura",
-          "minimum": "x64",
-          "recommended": "x64"
-        },
-        {
-          "title": "Gráficos",
-          "minimum": "Radeon HD 3870",
-          "recommended": "Nvidia GeForce GT 640 or better"
-        },
-        {
-          "title": "Procesador",
-          "minimum": "Intel Core2 Duo E8400",
-          "recommended": "Intel Core i3-4170 or better"
-        },
-        {
-          "title": "DirectX",
-          "minimum": "Versión 9",
-          "recommended": "Versión 11"
-        },
-        {
-          "title": "Memoria",
-          "minimum": "2 GB",
-          "recommended": "4 GB"
-        },
-        {
-          "title": "Memoria de vídeo",
-          "minimum": "1 GB",
-          "recommended": "2 GB"
-        }
-      ],
-      "maxInstallSize": 588505088,
-      "hasAddOns": false,
-      "storeUrl": "https://www.xbox.com/es-es/games/store/donut-county/9N6V2181GHLM"
     },
     {
       "id": "C3QH42WRGM3R",
@@ -16873,7 +16544,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.2,
-      "ratingCount": 49,
+      "ratingCount": 50,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -18119,7 +17790,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.4,
-      "ratingCount": 655,
+      "ratingCount": 656,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -18514,149 +18185,6 @@
       "maxInstallSize": 20958244864,
       "hasAddOns": false,
       "storeUrl": "https://www.xbox.com/es-es/games/store/eternal-strands/9NNKJNRKFT0G"
-    },
-    {
-      "id": "9MW581HCJPM6",
-      "title": "Evil West",
-      "description": "El mal nunca duerme… pero sí sangra.\r\n\r\nUna oscura amenaza consume la frontera americana. Como uno de los últimos agentes de una institución ultrasecreta dedicada a cazar vampiros, eres la última línea de defensa de la humanidad contra un terror profundamente arraigado que emerge ahora de entre las sombras. Álzate y conviértete en un superhéroe del salvaje Oeste, erradica la amenaza de los vampiros y ¡salva a los Estados Unidos!\r\n\r\nCon un combate visceral y explosivo, desata el infierno con tus armas de fuego, artilugios y guantelete de rayos. Caza con estilo monstruosidades sedientas de sangre en solitario o en partidas cooperativas con un amigo. Explora y lucha en una campaña guiada por la narrativa al tiempo que vas mejorando tus armas y herramientas de caza. Desbloquea nuevas mejoras para desarrollar tu maestría matando monstruos y crea tu propio estilo de juego para derrotar a las hordas sobrenaturales.\r\n\r\n• Lucha solo o con un amigo en un elegante y cruento combate de acción\r\n• Mitos y leyendas contados dentro de un estilizado y extraño universo del salvaje oeste\r\n• Evoluciona con mejoras, herramientas y armas mejorables\r\n• Explora y lucha a través de una campaña con una intensa historia narrativa para salvar Norteamérica",
-      "shortDescription": "Una oscura amenaza consume el lejano Oeste. En modo solitario o cooperativo, libra un combate visceral y explosivo contra monstruosidades sedientas de sangre. Erradica las hordas vampíricas con tu guantelete de rayos y conviértete en un superhéroe del salvaje Oeste.",
-      "developer": "Flying Wild Hog",
-      "publisher": "Focus Entertainment",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.3216.14176554647910182.b03fa26e-38ab-4eae-a31e-457e38d3b885.98515c15-2cca-42ec-ad44-9b778e4722f4",
-      "heroImage": "https://store-images.s-microsoft.com/image/apps.31215.14176554647910182.b03fa26e-38ab-4eae-a31e-457e38d3b885.745b3998-17e0-41db-a6fa-224c92067784",
-      "screenshots": [
-        "https://store-images.s-microsoft.com/image/apps.12507.14176554647910182.b03fa26e-38ab-4eae-a31e-457e38d3b885.c8e0fed2-4a8a-4b25-94fc-039a99afb9d4",
-        "https://store-images.s-microsoft.com/image/apps.9123.14176554647910182.b03fa26e-38ab-4eae-a31e-457e38d3b885.61b11389-e054-49ad-8bb1-a592187de8a3",
-        "https://store-images.s-microsoft.com/image/apps.17079.14176554647910182.b03fa26e-38ab-4eae-a31e-457e38d3b885.f4144fe9-d63d-4aac-8d67-6a9b9edf2166",
-        "https://store-images.s-microsoft.com/image/apps.18204.14176554647910182.b03fa26e-38ab-4eae-a31e-457e38d3b885.df641937-5bd6-4622-a67a-b58fba17e9ec"
-      ],
-      "videoUrl": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftassets/cfc44a07-870b-491c-abe4-3ff8e650fa83-AVS.m3u8?packagedStreaming=true",
-      "videoCaption": "Evil West - Extended Gameplay Trailer",
-      "releaseDate": "2022-11-21",
-      "categories": [
-        "Acción y aventura",
-        "Shooter"
-      ],
-      "tiers": [
-        "premium",
-        "ultimate"
-      ],
-      "platform": "console",
-      "price": 59.99,
-      "msrp": 59.99,
-      "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
-      "rating": 4,
-      "ratingCount": 150,
-      "ageRating": 18,
-      "pegiRating": "PEGI 18",
-      "pegiDescription": "Apropiado a partir de 18 años",
-      "interactiveDescriptions": [],
-      "capabilities": [
-        "Cooperativo en línea  (2-2)",
-        "4K Ultra HD",
-        "Un jugador",
-        "60 fps +",
-        "Optimizado para Xbox Series X|S",
-        "Entrega inteligente",
-        "Logros de Xbox",
-        "Presencia de Xbox",
-        "Clubs de Xbox",
-        "Cosas guardadas en la nube de Xbox"
-      ],
-      "systemRequirements": [
-        {
-          "title": "Arquitectura",
-          "minimum": "x64",
-          "recommended": "x64"
-        }
-      ],
-      "maxInstallSize": 35933859840,
-      "hasAddOns": true,
-      "storeUrl": "https://www.xbox.com/es-es/games/store/evil-west/9MW581HCJPM6"
-    },
-    {
-      "id": "9PC49MD70881",
-      "title": "Evil West (Windows)",
-      "description": "El mal nunca duerme… pero sí sangra.\r\n\r\nUna oscura amenaza consume la frontera americana. Como uno de los últimos agentes de una institución ultrasecreta dedicada a cazar vampiros, eres la última línea de defensa de la humanidad contra un terror profundamente arraigado que emerge ahora de entre las sombras. Álzate y conviértete en un superhéroe del salvaje Oeste, erradica la amenaza de los vampiros y ¡salva a los Estados Unidos!\r\n\r\nCon un combate visceral y explosivo, desata el infierno con tus armas de fuego, artilugios y guantelete de rayos. Caza con estilo monstruosidades sedientas de sangre en solitario o en partidas cooperativas con un amigo. Explora y lucha en una campaña guiada por la narrativa al tiempo que vas mejorando tus armas y herramientas de caza. Desbloquea nuevas mejoras para desarrollar tu maestría matando monstruos y crea tu propio estilo de juego para derrotar a las hordas sobrenaturales.\r\n\r\n• Lucha solo o con un amigo en un elegante y cruento combate de acción\r\n• Mitos y leyendas contados dentro de un estilizado y extraño universo del salvaje oeste\r\n• Evoluciona con mejoras, herramientas y armas mejorables\r\n• Explora y lucha a través de una campaña con una intensa historia narrativa para salvar Norteamérica",
-      "shortDescription": "Una oscura amenaza consume el lejano Oeste. En modo solitario o cooperativo, libra un combate visceral y explosivo contra monstruosidades sedientas de sangre. Erradica las hordas vampíricas con tu guantelete de rayos y conviértete en un superhéroe del salvaje Oeste.",
-      "developer": "Flying Wild Hog",
-      "publisher": "Focus Entertainment",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.3216.14176554647910182.b03fa26e-38ab-4eae-a31e-457e38d3b885.98515c15-2cca-42ec-ad44-9b778e4722f4",
-      "heroImage": "https://store-images.s-microsoft.com/image/apps.31215.14176554647910182.b03fa26e-38ab-4eae-a31e-457e38d3b885.745b3998-17e0-41db-a6fa-224c92067784",
-      "screenshots": [
-        "https://store-images.s-microsoft.com/image/apps.12507.14176554647910182.b03fa26e-38ab-4eae-a31e-457e38d3b885.c8e0fed2-4a8a-4b25-94fc-039a99afb9d4",
-        "https://store-images.s-microsoft.com/image/apps.9123.14176554647910182.b03fa26e-38ab-4eae-a31e-457e38d3b885.61b11389-e054-49ad-8bb1-a592187de8a3",
-        "https://store-images.s-microsoft.com/image/apps.17079.14176554647910182.b03fa26e-38ab-4eae-a31e-457e38d3b885.f4144fe9-d63d-4aac-8d67-6a9b9edf2166",
-        "https://store-images.s-microsoft.com/image/apps.18204.14176554647910182.b03fa26e-38ab-4eae-a31e-457e38d3b885.df641937-5bd6-4622-a67a-b58fba17e9ec"
-      ],
-      "videoUrl": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftassets/5121eaad-61d4-4d09-ae9f-dd665d20ab1c-AVS.m3u8?packagedStreaming=true",
-      "videoCaption": "Evil West - Gameplay Overview Trailer",
-      "releaseDate": "2024-03-21",
-      "categories": [
-        "Shooter",
-        "Acción y aventura"
-      ],
-      "tiers": [
-        "pc",
-        "premium",
-        "ultimate"
-      ],
-      "platform": "pc",
-      "price": 49.99,
-      "msrp": 49.99,
-      "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
-      "rating": 2.8,
-      "ratingCount": 43,
-      "ageRating": 18,
-      "pegiRating": "PEGI 18",
-      "pegiDescription": "Apropiado a partir de 18 años",
-      "interactiveDescriptions": [],
-      "capabilities": [
-        "Cooperativo en línea  (2-2)",
-        "4K Ultra HD",
-        "Un jugador",
-        "Logros de Xbox",
-        "Cosas guardadas en la nube de Xbox"
-      ],
-      "systemRequirements": [
-        {
-          "title": "SO",
-          "minimum": "Windows 10 version 18362.0 or higher",
-          "recommended": "Windows 10 version 18362.0 or higher"
-        },
-        {
-          "title": "Arquitectura",
-          "minimum": "x64",
-          "recommended": "x64"
-        },
-        {
-          "title": "Gráficos",
-          "minimum": "4 GB VRAM, GeForce GTX 750 Ti / Radeon RX 460",
-          "recommended": "GeForce GTX 1060 / Radeon RX 590"
-        },
-        {
-          "title": "Procesador",
-          "minimum": "Intel Core i5-2500K (3.3 GHz) / AMD FX-6300 X6 (3.5 GHz)",
-          "recommended": " Intel Core i5-10505 (3.2 GHz) / AMD Ryzen 5 1600 (3.2 GHz)"
-        },
-        {
-          "title": "Memoria",
-          "minimum": "8 GB",
-          "recommended": "16 GB"
-        },
-        {
-          "title": "Controladora",
-          "minimum": "",
-          "recommended": "Controladora de Xbox"
-        }
-      ],
-      "maxInstallSize": 43425112064,
-      "hasAddOns": true,
-      "storeUrl": "https://www.xbox.com/es-es/games/store/evil-west-windows/9PC49MD70881"
     },
     {
       "id": "9PLVVTDHS1P0",
@@ -20661,6 +20189,11 @@
         "Interacción de usuarios"
       ],
       "capabilities": [
+        "Cooperativo en línea  (2-6)",
+        "Multijugador en línea  (2-6)",
+        "Multijugador multiplataforma de Xbox",
+        "Un jugador",
+        "Cooperación multiplataforma de Xbox",
         "Logros de Xbox",
         "Presencia de Xbox",
         "Cosas guardadas en la nube de Xbox"
@@ -20672,7 +20205,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 42503987200,
+      "maxInstallSize": 42862600192,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/farming-simulator-25/9NMCDQ6RCJKH"
     },
@@ -20761,7 +20294,7 @@
           "recommended": "8 GB"
         }
       ],
-      "maxInstallSize": 42568441856,
+      "maxInstallSize": 42914058240,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/farming-simulator-25-pc/9PM709J61828"
     },
@@ -22423,8 +21956,8 @@
       "currency": "EUR",
       "hasDiscount": true,
       "discountPercent": 10,
-      "rating": 4.9,
-      "ratingCount": 15,
+      "rating": 4.8,
+      "ratingCount": 16,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -23333,7 +22866,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.6,
-      "ratingCount": 11274,
+      "ratingCount": 11275,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -23517,8 +23050,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 2.9,
-      "ratingCount": 365,
+      "rating": 2.8,
+      "ratingCount": 366,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -23639,7 +23172,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.4,
-      "ratingCount": 4655,
+      "ratingCount": 4656,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -23747,7 +23280,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.3,
-      "ratingCount": 273,
+      "ratingCount": 278,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -26205,7 +25738,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.8,
-      "ratingCount": 191,
+      "ratingCount": 192,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -26716,7 +26249,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.4,
-      "ratingCount": 915,
+      "ratingCount": 916,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -27910,7 +27443,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.2,
-      "ratingCount": 477,
+      "ratingCount": 478,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -29989,7 +29522,7 @@
           "recommended": "Controladora de Xbox"
         }
       ],
-      "maxInstallSize": 8471937024,
+      "maxInstallSize": 8472064000,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/kiln/9MW53ZKZH168"
     },
@@ -33200,7 +32733,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.7,
-      "ratingCount": 51835,
+      "ratingCount": 51843,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -33278,7 +32811,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.7,
-      "ratingCount": 21128,
+      "ratingCount": 21129,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -33663,7 +33196,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4,
-      "ratingCount": 15975,
+      "ratingCount": 15981,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -33858,7 +33391,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.5,
-      "ratingCount": 61661,
+      "ratingCount": 61667,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -35415,7 +34948,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3,
-      "ratingCount": 115,
+      "ratingCount": 116,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -36844,85 +36377,6 @@
       "storeUrl": "https://www.xbox.com/es-es/games/store/no-man-s-sky/BQVQTL3PCH05"
     },
     {
-      "id": "9NBNFBQ546DT",
-      "title": "Nova Roma (Versión preliminar del juego)",
-      "description": "Este juego es un trabajo en curso. Es posible que, con el tiempo, cambie o no cambie, o que no se lance como producto final. Compra este producto únicamente si estás satisfecho con el estado actual del juego no terminado.\n\nLa gloria del Imperio romano es cosa del pasado y ahora reinan la decadencia y el declive. Lideras un pequeño grupo de ciudadanos en busca del lugar idóneo en el que construir Nova Roma: un bastión para todo lo que traía prosperidad al Imperio. Tus comienzos serán humildes, con apenas una aldea. Pero, a partir de ahí, tendrás que calmar a los dioses con grandes templos, satisfacer las numerosas necesidades de tus ciudadanos y crear una sociedad que sea la envidia del mundo durante milenios.\n\nLA TIERRA DE LAS OPORTUNIDADES\nPara planificar bien una ciudad, hay que aprovechar el mundo que la rodea. Controla el flujo del agua mediante presas gigantescas y acueductos para moldear el terreno con cuencas y embalses artificiales. Contempla cómo tus acciones afectan a la fertilidad de la tierra y cómo una simple estación de lluvias fuertes podría acabar inundando tu ciudad. Construye la infraestructura necesaria para encontrar depósitos de recursos lejanos y transportar los materiales en bruto a lo largo de vastas extensiones de tierra virgen. ¿Mantendrás el equilibrio entre el ritmo de la expansión urbana y sus riesgos, o te dejarás llevar por la soberbia y tentarás a los dioses y a la propia naturaleza?\n\nAMIGOS, ROMANOS, COMPATRIOTAS\nEnfréntate a una lista de necesidades y deseos que no dejará de crecer a medida que lleguen nuevos ciudadanos. Alfarería, vinos, panes, juegos, educación, fe: es responsabilidad tuya mantener al pueblo contento y a salvo. Convierte a tus ciudadanos en artesanos, actores y gladiadores, y guíalos mientras pasan los días trabajando y las noches disfrutando de los frutos de su esfuerzo.\n\nLAS LEYES DE LOS DIOSES Y LOS HOMBRES\nY al considerar temas de impuestos y avances tecnológicos, recuerda que hay fuerzas que actúan por encima de ti. Construye templos para evitar la ira de los dioses y conseguir que te bendigan con su favor, para así asegurar la prosperidad de Nova Roma.\n\nNova Roma se vale de simulaciones complejas del agua y el clima, así como de la constante amenaza de la intervención divina, para explorar los retos culturales y sociales de su era. ¡Ponte al mando de un pequeño pueblo romano y conviértelo en una metrópolis bulliciosa que perdure durante siglos!\n\nVisita https://discord.com/invite/kingdomsandcastles para obtener detalles completos sobre el estado más reciente del juego, así como para proporcionar comentarios y notificar problemas.",
-      "shortDescription": "Tienes la gloria de Roma al alcance de la mano con este juego de construcción de ciudades que te permitirá dictar leyes, aplacar a los dioses y desarrollar cadenas de suministro complejas para cubrir las necesidades de tus ciudadanos.",
-      "developer": "Lion Shield",
-      "publisher": "Hooded Horse",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.46825.13514288515095406.cc3ca34d-704c-41f1-84c0-f3bbe3ce82ac.4d90072e-ca22-455a-aa6d-5452d691c6da",
-      "heroImage": "https://store-images.s-microsoft.com/image/apps.33707.13514288515095406.cc3ca34d-704c-41f1-84c0-f3bbe3ce82ac.89e4dd8e-fb85-4ace-b482-6ad7311aa9cd",
-      "screenshots": [
-        "https://store-images.s-microsoft.com/image/apps.53344.13514288515095406.9155929a-e7ea-47e1-8cde-a612726b6b55.2c52aeed-d09d-4730-8c36-d50ebc565186",
-        "https://store-images.s-microsoft.com/image/apps.49195.13514288515095406.9155929a-e7ea-47e1-8cde-a612726b6b55.97540dc7-9f7c-4636-a93d-7dda00bb0ae3",
-        "https://store-images.s-microsoft.com/image/apps.32474.13514288515095406.9155929a-e7ea-47e1-8cde-a612726b6b55.08260fd0-932d-4993-b751-b2b660e2ce15",
-        "https://store-images.s-microsoft.com/image/apps.54229.13514288515095406.9155929a-e7ea-47e1-8cde-a612726b6b55.6fe2c20c-dadc-427c-9ba5-1636a6246835"
-      ],
-      "videoUrl": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftassets/1343da23-2345-4c73-8d45-57d72a544dd4-AVS.m3u8?packagedStreaming=true",
-      "videoCaption": "Launch Trailer",
-      "releaseDate": "2026-03-26",
-      "categories": [
-        "Estrategia",
-        "Simulación"
-      ],
-      "tiers": [
-        "pc",
-        "ultimate"
-      ],
-      "platform": "pc",
-      "price": 29.99,
-      "msrp": 29.99,
-      "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
-      "rating": 2.9,
-      "ratingCount": 8,
-      "ageRating": 7,
-      "pegiRating": "PEGI 7",
-      "pegiDescription": "Apropiado a partir de 7 años",
-      "interactiveDescriptions": [],
-      "capabilities": [
-        "Un jugador",
-        "Logros de Xbox",
-        "Cosas guardadas en la nube de Xbox"
-      ],
-      "systemRequirements": [
-        {
-          "title": "SO",
-          "minimum": "Windows 10 version 18362.0 or higher",
-          "recommended": "Windows 10 version 18362.0 or higher"
-        },
-        {
-          "title": "Arquitectura",
-          "minimum": "x64",
-          "recommended": "x64"
-        },
-        {
-          "title": "Gráficos",
-          "minimum": "NVIDIA® GeForce® GTX 1050 (2 GB) / AMD® Radeon™ R9 285 (2 GB)",
-          "recommended": "NVIDIA® GeForce® RTX 2070 (8 GB) / AMD® Radeon™ RX 7600 (8 GB)"
-        },
-        {
-          "title": "Procesador",
-          "minimum": "Intel® Core™ i5-6600K (quad-core) / AMD® Ryzen™ 3 2200G (quad-core)",
-          "recommended": "Intel® Core™ i7-12700K (octa-core) / AMD® Ryzen™ 7 2700X (octa-core)"
-        },
-        {
-          "title": "DirectX",
-          "minimum": "Versión 11",
-          "recommended": "API de DirectX 12, nivel de característica de hardware 12"
-        },
-        {
-          "title": "Memoria",
-          "minimum": "4 GB",
-          "recommended": "8 GB"
-        }
-      ],
-      "maxInstallSize": 967442432,
-      "hasAddOns": false,
-      "storeUrl": "https://www.xbox.com/es-es/games/store/nova-roma-versi-n-preliminar-del-juego/9NBNFBQ546DT"
-    },
-    {
       "id": "C5K89TFLSV19",
       "title": "Oblivion",
       "description": "El manual de este juego se puede descargar buscando el juego en http://marketplace.xbox.com y seleccionando \"Ver el manual del juego\". Adéntrate en el mundo virtual más detallado y vibrante jamás creado. Oblivion es el último capítulo de la saga épica Elder Scrolls. Con una potente combinación de jugabilidad no lineal y unos gráficos sin precedentes, podrás cumplir la misión principal a tu ritmo o explorar el amplio mundo para descubrir tus propios desafíos. No hay reembolsos para este artículo. Para obtener más información, visita www.xbox.com/live/accounts.",
@@ -37147,7 +36601,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 2.2,
-      "ratingCount": 135,
+      "ratingCount": 136,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -37923,106 +37377,6 @@
       "maxInstallSize": 0,
       "hasAddOns": false,
       "storeUrl": "https://www.xbox.com/es-es/games/store/overwatch-pc/9P36DQX6W9CS"
-    },
-    {
-      "id": "9PNKG0WBL61W",
-      "title": "Pacific Drive",
-      "description": "Pacific Drive es un juego de conducción y supervivencia en el que tu único acompañante es tu vehículo. Navega por una recreación surrealista del noreste de Estados Unidos y enfréntate a peligros sobrenaturales a medida que te adentras enala Zona de exclusión olímpica. Cada excursión por la naturaleza contiene desafíos únicos y extraños mientras reparas y mejoras tu vehículo en un garaje abandonado que dobla como tu cuartel general. Hazte con valiosos recursos e investiga qué hay más allá de la Zona. Descifra un misterio olvidado hace mucho tiempo mientras averiguas lo que se necesita para sobrevivir en este entorno hostil e impredecible.\n\nCONDUCE PARA SOBREVIVIR\nTu camioneta y tú contra un mundo implacable y despiadado. Necesitarás algo más que unos neumáticos nuevos para sobrevivir, tanto dentro como fuera de la carretera. Puedes mejorar tu vehículo de confianza y reforzarlo para que te proteja, pero le va a caer una buena. Llena el depósito de gasolina y mantén a salvo la carrocería para sobrevivir a la radiación de la Zona. Deberás superar tus límites: haz reparaciones sobre la marcha, consigue materiales allá donde puedas y adapta tu fortaleza con ruedas para acabar con los peligros letales que deambulan entre las sombras.\n\nINVESTIGA LA ZONA\nLos restos de los experimentos de la organización secreta ARDA están repartidos por toda la Zona, así que no te será nada fácil encontrar respuestas. Encontrarás anomalías allá donde mires, fuerzas irreales de una naturaleza retorcida que te complicarán la vida... o te la harán más interesante. Siluetas en la oscuridad, montones de chatarra y altísimos pilares de tierra... Cada partida estará repleta de amenazas de otro planeta. Por mucho miedo que todo esto pueda dar, no hay nada peor que el poder de una tormenta de la Zona. Pisa el acelerador y sal por patas mientras puedas. Estas tormentas arrasan con todo el paisaje y destruyen cualquier cosa que permanezca en un mismo sitio demasiado tiempo. Así que no te duermas en los laureles.\n\nDISFRUTA DE NUEVO\nÉchale un vistazo al mapa, prepárate para el viaje y ponte en marcha. Consigue recursos y recopila información conforme avanzas. Encontrarás todo tipo de cosas útiles dentro de los muros de la Zona. Vuelve a salvo y usa el contenido de tu maletero para mejorar el taller y tu vehículo. Cada vez que salgas ahí fuera, te esperarán nuevas pruebas: un clima implacable, un entorno despiadado y restos de experimentos. Solo hay una regla en la Zona: «quien no arriesga, no gana». Algunos materiales solo se encuentran en las zonas más peligrosas. Sé inteligente y no pierdas el tiempo... Te queda mucho por delante.\n",
-      "shortDescription": "¡Enfréntate a los peligros sobrenaturales de la Zona de exclusión olímpica con la única compañía de tu vehículo y sobrevive en esta aventura de conducción por partidas! Saquea recursos, carga tu camioneta y conduce a toda pastilla para salir con vida. ",
-      "developer": "Ironwood Studios ",
-      "publisher": "Kepler Interactive",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.9028.14342694787118182.96ac9113-88e6-4c27-822e-b852c773b5cc.479a98da-1b02-4315-86a1-a5df93ed489a",
-      "heroImage": "https://store-images.s-microsoft.com/image/apps.32152.14342694787118182.96ac9113-88e6-4c27-822e-b852c773b5cc.55f5e57e-9a6a-4f91-ac0a-e609202b02ea",
-      "screenshots": [
-        "https://store-images.s-microsoft.com/image/apps.24291.14342694787118182.96ac9113-88e6-4c27-822e-b852c773b5cc.7683ce17-ddc2-4176-8e8e-ff8e34b1f1eb",
-        "https://store-images.s-microsoft.com/image/apps.59966.14342694787118182.96ac9113-88e6-4c27-822e-b852c773b5cc.c0d22309-89a9-43da-8ade-504970d076bc",
-        "https://store-images.s-microsoft.com/image/apps.40032.14342694787118182.96ac9113-88e6-4c27-822e-b852c773b5cc.35cf4b50-6f5d-4d50-bcce-babef12bf59d",
-        "https://store-images.s-microsoft.com/image/apps.35201.14342694787118182.96ac9113-88e6-4c27-822e-b852c773b5cc.6241ede3-90b2-4b19-9aff-b67f469085f5"
-      ],
-      "videoUrl": "",
-      "videoCaption": "",
-      "releaseDate": "2025-10-23",
-      "categories": [
-        "Carreras y vuelo",
-        "Juegos de rol",
-        "Acción y aventura"
-      ],
-      "tiers": [
-        "pc",
-        "premium",
-        "ultimate"
-      ],
-      "platform": "both",
-      "price": 29.99,
-      "msrp": 29.99,
-      "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
-      "rating": 3.4,
-      "ratingCount": 34,
-      "ageRating": 12,
-      "pegiRating": "PEGI 12",
-      "pegiDescription": "Apropiado a partir de 12 años",
-      "interactiveDescriptions": [],
-      "capabilities": [
-        "Un jugador",
-        "Optimizado para Xbox Series X|S",
-        "Mouse y teclado de la consola",
-        "Logros de Xbox",
-        "Presencia de Xbox",
-        "Cosas guardadas en la nube de Xbox",
-        "Xbox Play Anywhere"
-      ],
-      "systemRequirements": [
-        {
-          "title": "SO",
-          "minimum": "Windows 10 version 18362.0 or higher",
-          "recommended": "Windows 10 version 18362.0 or higher"
-        },
-        {
-          "title": "Arquitectura",
-          "minimum": "x64",
-          "recommended": "x64"
-        },
-        {
-          "title": "Gráficos",
-          "minimum": "Nvidia GTX 1060",
-          "recommended": " Nvidia RTX 2080/3070"
-        },
-        {
-          "title": "Procesador",
-          "minimum": "Intel Core i5 8600",
-          "recommended": "Intel Core i5-10600k"
-        },
-        {
-          "title": "Teclado",
-          "minimum": "Teclado integrado",
-          "recommended": ""
-        },
-        {
-          "title": "Mouse",
-          "minimum": "Mouse integrado",
-          "recommended": ""
-        },
-        {
-          "title": "DirectX",
-          "minimum": "API de DirectX 12, nivel de característica de hardware 11",
-          "recommended": "API de DirectX 12, nivel de característica de hardware 11"
-        },
-        {
-          "title": "Memoria",
-          "minimum": "16 GB",
-          "recommended": "16 GB"
-        },
-        {
-          "title": "Memoria de vídeo",
-          "minimum": "6 GB",
-          "recommended": "6 GB"
-        }
-      ],
-      "maxInstallSize": 25869295616,
-      "hasAddOns": true,
-      "storeUrl": "https://www.xbox.com/es-es/games/store/pacific-drive/9PNKG0WBL61W"
     },
     {
       "id": "9NKV34XDW014",
@@ -40854,12 +40208,12 @@
     {
       "id": "9P9446P7D9TZ",
       "title": "Quarantine Zone: The Last Check",
-      "description": "En Quarantine Zone: The Last Check tomarás el mando de un puesto fronterizo durante un brote de zombis.\n\nCon un utensilio de cribado en una mano y tu instinto en la otra, te tocará decidir quién entra y quién se queda atrás. Una única mala elección podría desembocar en un brote interno.\n\nPero controlar la situación no es todo. También te tocará gestionar los pocos recursos que quedan, fortalecer las defensas y mantener el asentamiento a salvo mientras el caos se intensifica cada día más.\n\nCLASIFICA LOS SÍNTOMAS\nUsa utensilios avanzados para descubrir indicios de infección entre los supervivientes atemorizados. Identifica artículos de contrabando, mercancía prohibida y coleccionables únicos mientras te esfuerzas por mantener a salvo el puesto de control. Envía a las personas con síntomas a cuarentena, donde estudiarán cómo se desarrollan, y al laboratorio, donde las examinarán más a fondo; o salva a los supervivientes sanos y envíalos al edificio de viviendas. Quienes muestren síntomas de infección ya no tienen salvación...\n\nCONTROLA LA CATÁSTROFE\nA medida que la cantidad de habitantes aumente, confiarán en tu criterio para administrar la electricidad, la comida y los medicamentos. Cuando salten las alarmas, deberás pilotar drones armados para evitar que los infectados se cuelen en las instalaciones. Cuanto más te esfuerces en defender la base, más recursos, herramientas y mejoras de armas tendrás a tu alcance.\n\nAPRENDE, ADÁPTATE Y SOBREVIVE\n¡Si un superviviente en cuarentena se convierte en un muerto viviente, no es el fin del mundo! Puedes aislar a los recién transformados con el fin de sacar muestras e intercambiarlas por herramientas, EXP y mejoras permanentes. Los individuos con síntomas no identificados también pueden someterse a un examen, pero suele causarles la muerte. ¿Te decantarás por salvar vidas, o las ansias de conocimiento serán más fuertes?\n\nMANTÉN EL TIPO\nLa moral es esencial; las decisiones que tomes traerán consecuencias inminentes o con efecto retardado. Las reacciones dinámicas de los individuos y las conversaciones adaptativas harán de cada encuentro una experiencia única, y muchas veces te forzarán a tomar decisiones en el momento. La violencia —o los supervivientes— puede causar heridas, afectar a la moral o sembrar el pánico en la cola. ¿Conseguirás mantener la compostura mientras todo el mundo pierde la suya?",
+      "description": "--- ACTUALIZACIÓN DE CONTENIDO GRATUITA ---\n\nESTÁS EN MIAMI, DONDE EMPEZÓ TODO\nSiente el caos de los primeros días tras el brote en la zona cero, la ciudad de los huracanes y el sol, Miami (Florida). Descubre cómo se extendió la enfermedad de la mano de un nuevo elenco de personajes poco convencionales y deshazte de los contagiados de la mejor forma posible: ¡echándolos a los tiburones!\n\nINVESTIGA UN CONTAGIO EN CONSTANTE EVOLUCIÓN\nEl virus no para de evolucionar y cada vez lo conoces un poco mejor. Estudia todas las mutaciones y busca la raíz del contagio mientras la situación se pone cada vez más rara. Cuanto más escarbas, menos te convence la teoría de que el brote fue un accidente.\n\nRESTAURA TU VÍA DE ESCAPE\nMantén el puesto de control en funcionamiento mientras buscas una forma de salir de la ciudad, el mayor deseo de todos los habitantes de Miami. Recluta supervivientes que puedan ayudarte a restaurar un yate de lujo y conviértelo en tu mejor baza para huir. Los nuevos síntomas, herramientas y desafíos te mantendrán en vilo mientras Miami se sume en el caos absoluto...\n\n---\n\nEn Quarantine Zone: The Last Check tomarás el mando de un puesto fronterizo durante un brote de zombis.\n\nCon un utensilio de cribado en una mano y tu instinto en la otra, te tocará decidir quién entra y quién se queda atrás. Una única mala elección podría desembocar en un brote interno.\n\nPero controlar la situación no es todo. También te tocará gestionar los pocos recursos que quedan, fortalecer las defensas y mantener el asentamiento a salvo mientras el caos se intensifica cada día más.\n\nCLASIFICA LOS SÍNTOMAS\nUsa utensilios avanzados para descubrir indicios de infección entre los supervivientes atemorizados. Identifica artículos de contrabando, mercancía prohibida y coleccionables únicos mientras te esfuerzas por mantener a salvo el puesto de control. Envía a las personas con síntomas a cuarentena, donde estudiarán cómo se desarrollan, y al laboratorio, donde las examinarán más a fondo; o salva a los supervivientes sanos y envíalos al edificio de viviendas. Quienes muestren síntomas de infección ya no tienen salvación...\n\nCONTROLA LA CATÁSTROFE\nA medida que la cantidad de habitantes aumente, confiarán en tu criterio para administrar la electricidad, la comida y los medicamentos. Cuando salten las alarmas, deberás pilotar drones armados para evitar que los infectados se cuelen en las instalaciones. Cuanto más te esfuerces en defender la base, más recursos, herramientas y mejoras de armas tendrás a tu alcance.\n\nAPRENDE, ADÁPTATE Y SOBREVIVE\n¡Si un superviviente en cuarentena se convierte en un muerto viviente, no es el fin del mundo! Puedes aislar a los recién transformados con el fin de sacar muestras e intercambiarlas por herramientas, EXP y mejoras permanentes. Los individuos con síntomas no identificados también pueden someterse a un examen, pero suele causarles la muerte. ¿Te decantarás por salvar vidas, o las ansias de conocimiento serán más fuertes?\n\nMANTÉN EL TIPO\nLa moral es esencial; las decisiones que tomes traerán consecuencias inminentes o con efecto retardado. Las reacciones dinámicas de los individuos y las conversaciones adaptativas harán de cada encuentro una experiencia única, y muchas veces te forzarán a tomar decisiones en el momento. La violencia —o los supervivientes— puede causar heridas, afectar a la moral o sembrar el pánico en la cola. ¿Conseguirás mantener la compostura mientras todo el mundo pierde la suya?",
       "shortDescription": "Toma el mando del puesto de control de una ciudad en decadencia. Criba a los supervivientes, raciona recursos escasos y mantén a raya a los muertos vivientes. Cada elección cuenta, y un solo error podría condenar al mundo a una pandemia mortífera.",
       "developer": "Brigada Games",
       "publisher": "Devolver Digital",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.64417.14075645230645496.92f4d4d6-ef85-4ef3-b4c4-345d84f35480.01ae191a-7900-4093-98cd-22b8e1c407e1",
-      "heroImage": "https://store-images.s-microsoft.com/image/apps.39929.14075645230645496.92f4d4d6-ef85-4ef3-b4c4-345d84f35480.285096c7-5f86-44ad-9e07-15b621419e68",
+      "imageUrl": "https://store-images.s-microsoft.com/image/apps.46966.14075645230645496.c0a12691-ed46-4232-b7fd-f8ee8018a9d3.dfa3deb8-7116-48db-8b78-4605c3aa2094",
+      "heroImage": "https://store-images.s-microsoft.com/image/apps.33338.14075645230645496.c0a12691-ed46-4232-b7fd-f8ee8018a9d3.c6a373d5-5f20-4e68-bb09-f1d475af92da",
       "screenshots": [
         "https://store-images.s-microsoft.com/image/apps.14216.14075645230645496.92f4d4d6-ef85-4ef3-b4c4-345d84f35480.17e9f347-b258-410e-b58e-4cd9f9718660",
         "https://store-images.s-microsoft.com/image/apps.27070.14075645230645496.6ff613e9-8aa0-41d7-9ccb-17bb87be67ab.f251d388-1656-4e22-829d-1eb1439be358",
@@ -40928,7 +40282,7 @@
           "recommended": "16 GB"
         }
       ],
-      "maxInstallSize": 21692825600,
+      "maxInstallSize": 22722715648,
       "hasAddOns": false,
       "storeUrl": "https://www.xbox.com/es-es/games/store/quarantine-zone-the-last-check/9P9446P7D9TZ"
     },
@@ -41345,17 +40699,17 @@
     {
       "id": "C26K4DVGR45B",
       "title": "Rayman Legends",
-      "description": "¡El Claro de los Sueños vuelve a estar en peligro! Tras una siesta de 100 años, las pesadillas se multiplican por todas partes, ¡con nuevos monstruos más terroríficos que nunca! De estas criaturas nacen las leyendas... Dragones, sapos gigantes, monstruos marinos, incluso luchadores malotes. Con la ayuda de Murfy, Rayman y Globox despiertan y se preparan para luchar contra estas pesadillas y salvar a los diminutos.\n\nLa versión descargable de este juego es compatible con inglés, francés, italiano, alemán, español, danés, neerlandés, finlandés, noruego, portugués, ruso, sueco, japonés, chino.",
-      "shortDescription": "¡El Claro de los Sueños vuelve a estar en peligro! Tras una siesta de 100 años, las pesadillas se multiplican por todas partes, ¡con nuevos monstruos más terroríficos que nunca!",
-      "developer": "Ubisoft Montpellier",
+      "description": "¡Cuando Rayman, Globox y los Diminutos descubren una misteriosa carpa llena de cuadros cautivadores, se ven transportados de repente a una serie de reinos míticos!\n\nUNA LEGENDARIA AVENTURA DE PLATAFORMAS\nCorre por 5 mundos vibrantes, desde el altísimo tallo de judía hasta lo alto del monte Olimpo. Libera a los Diminutos secuestrados, descubre secretos ocultos y destapa los secretos de los cuadros legendarios.\n\nCOOPERATIVO LOCAL DE 4 JUGADORES\n¡Pueden acompañarte hasta 3 amigos! Unid fuerzas para rescatar a los Diminutos, haceros con los lums y golpear todo aquello que se interponga en vuestro camino. ¿Necesitáis un descanso? Ajustad cuentas en el campo con un partido de Kung Fútbol.\n\nENFRENTAMIENTOS ÉPICOS CONTRA JEFES\nPlanta cara a dragones colosales, gigantes enmascarados y otros enemigos imponentes en enfrentamientos trepidantes. Mantente alerta, esquiva sus ataques y ataca cuando menos se lo esperen.\n\nRAYMAN MUSICAL\nSalta al ritmo del tambor, lanza puñetazos siguiendo el bajo o deslízate al compás de los riffs de guitarra en una serie de mapas musicales inolvidables, plagados de himnos de rock, apasionantes ritmos de salsa y mucho más. ¡La sincronización y el ritmo son la clave!",
+      "shortDescription": "Corre, salta y golpea por los coloridos mundos del Claro de los Sueños en esta galardonada aventura de plataformas. Enfréntate a jefes épicos y forma equipo con hasta 4 jugadores en el modo cooperativo local.",
+      "developer": "",
       "publisher": "Ubisoft",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.25053.65843946604617087.4d3f1eaa-9f9b-4884-8da5-69d3fa77479f.c8e55bec-d1f6-4fe4-b3fa-13ac1e79814f",
-      "heroImage": "https://store-images.s-microsoft.com/image/apps.28264.65843946604617087.4d3f1eaa-9f9b-4884-8da5-69d3fa77479f.c9e7e6ca-2bfb-451b-a590-535c97dea939",
+      "imageUrl": "https://store-images.s-microsoft.com/image/apps.29344.65843946604617087.28c97e95-1438-4c02-aee4-66f02ec0e029.1f5224a7-58e0-4bee-86c3-b0772ac70ebb",
+      "heroImage": "https://store-images.s-microsoft.com/image/apps.52768.65843946604617087.28c97e95-1438-4c02-aee4-66f02ec0e029.b5a3177b-4e26-4046-a4e4-6a7aa1f12e0f",
       "screenshots": [
-        "https://store-images.s-microsoft.com/image/apps.46208.65843946604617087.4d3f1eaa-9f9b-4884-8da5-69d3fa77479f.f4e9d6a0-18c5-41f5-8860-2fb663c547b8",
-        "https://store-images.s-microsoft.com/image/apps.32953.65843946604617087.4d3f1eaa-9f9b-4884-8da5-69d3fa77479f.c038c9b6-f799-4f0e-89dd-30138bb7273b",
-        "https://store-images.s-microsoft.com/image/apps.38513.65843946604617087.4d3f1eaa-9f9b-4884-8da5-69d3fa77479f.ef74bad0-d3a5-4923-a1ea-b2486e13290b",
-        "https://store-images.s-microsoft.com/image/apps.35898.65843946604617087.4d3f1eaa-9f9b-4884-8da5-69d3fa77479f.116b3dff-2f93-443d-853c-595f4968e8f1"
+        "https://store-images.s-microsoft.com/image/apps.17416.65843946604617087.28c97e95-1438-4c02-aee4-66f02ec0e029.0574cf86-8d02-4902-8252-1a19f96430a5",
+        "https://store-images.s-microsoft.com/image/apps.22059.65843946604617087.28c97e95-1438-4c02-aee4-66f02ec0e029.5dc3748c-b610-4063-918a-771a2c81481e",
+        "https://store-images.s-microsoft.com/image/apps.34524.65843946604617087.28c97e95-1438-4c02-aee4-66f02ec0e029.30216d8a-7be8-4b1c-a541-4a48a3c0b260",
+        "https://store-images.s-microsoft.com/image/apps.32859.65843946604617087.28c97e95-1438-4c02-aee4-66f02ec0e029.d60525ec-7c69-4fd5-8463-6be4dd5e2339"
       ],
       "videoUrl": "",
       "videoCaption": "",
@@ -42552,7 +41906,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.5,
-      "ratingCount": 325,
+      "ratingCount": 326,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -47083,7 +46437,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.8,
-      "ratingCount": 1846,
+      "ratingCount": 1847,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -47368,7 +46722,7 @@
           "recommended": "Controladora de Xbox"
         }
       ],
-      "maxInstallSize": 10456924160,
+      "maxInstallSize": 10358779904,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/starsand-island/9P86LLDCL5CC"
     },
@@ -47477,7 +46831,7 @@
           "recommended": "Controladora de Xbox"
         }
       ],
-      "maxInstallSize": 5166878720,
+      "maxInstallSize": 5171486720,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/starseeker-astroneer-expeditions-game-preview/9NTZH69PZSH0"
     },
@@ -48307,113 +47661,6 @@
       "maxInstallSize": 23181139968,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/super-mega-baseball-4/9N93V5M3TG4N"
-    },
-    {
-      "id": "9N4M72L6KGC8",
-      "title": "Superball",
-      "description": "Superball es una reinterpretación futurista del fútbol, con partidos rápidos de 3 contra 3 llenos de acción. Entra al campo con un equipo de héroes: marca contra el equipo rival, defiende tu propia portería ¡y gana! Demuestra tu habilidad en partidas clásicas, lucha por los primeros puestos en las partidas clasificatorias y diviértete en los modos arcade.\n\nEncuentra a tu héroe\nMás de una docena de personajes para elegir, ¡y cada temporada se incorpora un nuevo héroe al plantel! Cada personaje tiene una apariencia, personalidad y conjunto de habilidades únicos, incluyendo un poderoso ultimate.\n\nDesata tus poderes\nCada héroe aporta habilidades propias al campo; pero es la forma en que las combinas lo que crea la verdadera magia. ¿Llevarás a cabo la jugada destacada o acabarás convirtiéndote en el complemento de la jugada de otro? Eso depende de ti, campeón.\n\nGana en equipo\nHasta el héroe más vistoso tiene debilidades. Ahí es donde brilla la sinergia de equipo. En un escuadrón de 3 jugadores, la coordinación es más fácil que nunca. Reúne a tus mejores amigos y preparaos para subir hasta la cima juntos.\n\nApariencia de estrella para héroes estrella\nMejora el equipo y los accesorios de tus héroes para crear un aspecto que sea verdaderamente tuyo. Escoge entre cientos de opciones de personalización.\n\nSuperball — aquí no gana la suerte; gana la habilidad. ¿Estás listo para saltar al campo?\n",
-      "shortDescription": "Superball es un juego deportivo multijugador con superpoderes que presenta combates 3v3 por equipos en estadios de estética cyberpunk.\n¡Elige a tu personaje, pasa, chuta y abre camino hacia la victoria!",
-      "developer": "Pathea Games",
-      "publisher": "Logoi Games",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.62003.13984747577958597.78ebdbe9-45c0-4d00-bbd6-0a52d99831d1.f956513a-d205-45ad-9925-64a87122cae3",
-      "heroImage": "https://store-images.s-microsoft.com/image/apps.33076.13984747577958597.92005490-208e-4e00-9984-1e54d4ab85c5.57c979d3-062f-4643-810f-cef2c1f7418b",
-      "screenshots": [
-        "https://store-images.s-microsoft.com/image/apps.27066.13984747577958597.4c5c03b9-9382-4061-8c81-f16ec11a813b.1899bc63-e66d-4947-8049-9761f1a8a735",
-        "https://store-images.s-microsoft.com/image/apps.48307.13984747577958597.92005490-208e-4e00-9984-1e54d4ab85c5.f2c6bc6a-aafd-4f77-8385-f1bf719fc9ac",
-        "https://store-images.s-microsoft.com/image/apps.44964.13984747577958597.92005490-208e-4e00-9984-1e54d4ab85c5.e49ce2bd-7582-45b9-bc1d-5cca20dbc03e",
-        "https://store-images.s-microsoft.com/image/apps.8802.13984747577958597.92005490-208e-4e00-9984-1e54d4ab85c5.74fa702e-7d7b-453d-b695-e86f9cd2d05e"
-      ],
-      "videoUrl": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftassets/f6f5d831-ec0f-494f-9d6b-dc7dad64fcd7-AVS.m3u8?packagedStreaming=true",
-      "videoCaption": "Thumbnail",
-      "releaseDate": "2025-10-28",
-      "categories": [
-        "Deportes",
-        "Acción y aventura",
-        "Campo de batalla en línea para varios jugadores"
-      ],
-      "tiers": [
-        "essential",
-        "pc",
-        "premium",
-        "ultimate"
-      ],
-      "platform": "both",
-      "price": 0,
-      "msrp": 0,
-      "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
-      "rating": 2.6,
-      "ratingCount": 30,
-      "ageRating": 16,
-      "pegiRating": "PEGI 16",
-      "pegiDescription": "Apropiado a partir de 16 años",
-      "interactiveDescriptions": [
-        "Compras dentro del juego (Incluye artículos aleatorios)"
-      ],
-      "capabilities": [
-        "Cooperativo en línea  (2-3)",
-        "Multijugador en línea  (2-10)",
-        "Multijugador multiplataforma de Xbox",
-        "4K Ultra HD",
-        "Cooperación multiplataforma de Xbox",
-        "Multijugador multgeneración de Xbox Live",
-        "60 fps +",
-        "Optimizado para Xbox Series X|S",
-        "Entrega inteligente",
-        "Logros de Xbox",
-        "Xbox Play Anywhere"
-      ],
-      "systemRequirements": [
-        {
-          "title": "SO",
-          "minimum": "Windows 10 version 18362.0 or higher",
-          "recommended": "Windows 10 version 18362.0 or higher"
-        },
-        {
-          "title": "Arquitectura",
-          "minimum": "x64",
-          "recommended": "x64"
-        },
-        {
-          "title": "Gráficos",
-          "minimum": "AMD Radeon HD 7950 | Nvidia GeForce GTX760",
-          "recommended": "AMD RX 590 | Nvidia GeForce GTX 1060"
-        },
-        {
-          "title": "Procesador",
-          "minimum": "AMD Ryzen 3 2200G | Intel Core i5-4590",
-          "recommended": "AMD Ryzen 3 2200G | Intel Core i5-4590"
-        },
-        {
-          "title": "Teclado",
-          "minimum": "Teclado integrado",
-          "recommended": ""
-        },
-        {
-          "title": "Mouse",
-          "minimum": "Mouse integrado",
-          "recommended": ""
-        },
-        {
-          "title": "DirectX",
-          "minimum": "Versión 11",
-          "recommended": "Versión 11"
-        },
-        {
-          "title": "Memoria",
-          "minimum": "8 GB",
-          "recommended": "8 GB"
-        },
-        {
-          "title": "Memoria de vídeo",
-          "minimum": "2 GB",
-          "recommended": "6 GB"
-        }
-      ],
-      "maxInstallSize": 13187428352,
-      "hasAddOns": true,
-      "storeUrl": "https://www.xbox.com/es-es/games/store/superball/9N4M72L6KGC8"
     },
     {
       "id": "9NRH78B682L8",
@@ -49696,105 +48943,6 @@
       "maxInstallSize": 1505005568,
       "hasAddOns": false,
       "storeUrl": "https://www.xbox.com/es-es/games/store/the-bard-s-tale-trilogy/9MVN4ND41DD3"
-    },
-    {
-      "id": "9PG0PMB5Q0GT",
-      "title": "The Casting of Frank Stone™",
-      "description": "Si compras la Edición estándar de The Casting of Frank Stone, desbloquearás recompensas exclusivas en Dead by Daylight desde tu cuenta de Behaviour*, lo que incluye lo siguiente: \n- Objeto cosmético: Camiseta de \"Asesinato en la acería\" para todos los supervivientes originales, disponible desde antes del 7 de mayo de 2025.A2 \n- Insignia e imagen de \"Asesinato en la acería\"\n- 2 millones de puntos de sangre\n\nEl talento narrativo de Supermassive Games se mezcla con el universo de Dead by Daylight en un espeluznante juego de terror que no dejará indiferente. \n\nLa sombra de Frank Stone se cierne sobre Cedar Hills, un pequeño pueblo atormentado por su violento pasado. Como un grupo de adolescentes está a punto de descubrir, el sangriento legado de Stone ha dejado cicatrices en familias, varias generaciones y el tejido mismo de la realidad.  \n\nUn misterio de proporciones cósmicas\nEn las entrañas de una acería de Oregón, los grotescos crímenes de un sádico asesino evocan horrores inimaginables. Hurga en el misterio de Cedar Hills de la mano de un plantel original de personajes y embárcate en una retorcida aventura donde nada es lo que parece.  \n \nElige tu destino\nTodas las decisiones que tomes encauzarán la historia y alterarán el destino de sus personajes. En una trama repleta de golpes emocionales y horrores indescriptibles, descubre cómo una simple decisión puede convertirse en un dilema descorazonador.\n \nUna pesadilla cautivadora\nPara quienes disfrutan con lo desconocido y lo grotesco, la narrativa cinemática de Supermassive Games les ofrece nuevos niveles de emoción, inmersión e intensidad en un universo complejo y misterioso. \n\nUn mundo más allá de la niebla\nExperimenta un nuevo enfoque al universo extendido de Dead by Daylight, el aclamado juego de terror multijugador de Behavior Interactive. Esta sombría historia original, repleta de giros escalofriantes, seguirá atormentándote aun después de haber llegado a su desenlace.\n\n*Se necesita una cuenta de Behaviour con privilegios vinculados tanto para The Casting of Frank Stone como para Dead by Daylight para poder reclamar las recompensas.",
-      "shortDescription": "La sombra de Frank Stone se cierne sobre Cedar Hills, un pequeño pueblo atormentado por su violento pasado. Como un grupo de adolescentes está a punto de descubrir, el sangriento legado de Stone ha dejado cicatrices en familias, varias generaciones y el tejido mismo de la realidad.  ",
-      "developer": "Supermassive Games",
-      "publisher": "Behaviour Interactive",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.57876.14194909325684282.4555d428-db78-49a6-b09e-ad174d55ec29.fef64c0a-42a2-41ec-94db-06a33a017716",
-      "heroImage": "https://store-images.s-microsoft.com/image/apps.15919.14194909325684282.4555d428-db78-49a6-b09e-ad174d55ec29.6f2d9ea1-7773-469a-9e49-4009e9c9d75c",
-      "screenshots": [
-        "https://store-images.s-microsoft.com/image/apps.62339.14194909325684282.4555d428-db78-49a6-b09e-ad174d55ec29.d7058821-4583-4d0e-b1fb-56a2067a2f60",
-        "https://store-images.s-microsoft.com/image/apps.19803.14194909325684282.4555d428-db78-49a6-b09e-ad174d55ec29.474a64c4-8c1c-4cb0-ac54-c0a89eeec504",
-        "https://store-images.s-microsoft.com/image/apps.12689.14194909325684282.4555d428-db78-49a6-b09e-ad174d55ec29.1788a041-00dd-47b6-8889-8ab7a955f466",
-        "https://store-images.s-microsoft.com/image/apps.1930.14194909325684282.4555d428-db78-49a6-b09e-ad174d55ec29.aa32c500-a17b-46f7-b77a-380d860e4022"
-      ],
-      "videoUrl": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftassets/d95c2306-5f2b-4ef5-a7ac-f2dd86988f30-AVS.m3u8?packagedStreaming=true",
-      "videoCaption": "The Casting of Frank Stone | Tráiler de lanzamiento",
-      "releaseDate": "2024-09-03",
-      "categories": [
-        "Acción y aventura"
-      ],
-      "tiers": [
-        "pc",
-        "premium",
-        "ultimate"
-      ],
-      "platform": "both",
-      "price": 28.49,
-      "msrp": 28.49,
-      "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
-      "rating": 3,
-      "ratingCount": 72,
-      "ageRating": 18,
-      "pegiRating": "PEGI 18",
-      "pegiDescription": "Apropiado a partir de 18 años",
-      "interactiveDescriptions": [],
-      "capabilities": [
-        "4K Ultra HD",
-        "HDR10",
-        "Un jugador",
-        "Trazado de rayos",
-        "Optimizado para Xbox Series X|S",
-        "Logros de Xbox",
-        "Cosas guardadas en la nube de Xbox",
-        "Xbox Play Anywhere"
-      ],
-      "systemRequirements": [
-        {
-          "title": "SO",
-          "minimum": "Windows 10 version 18362.0 or higher",
-          "recommended": "Windows 10 version 18362.0 or higher"
-        },
-        {
-          "title": "Arquitectura",
-          "minimum": "x64",
-          "recommended": "x64"
-        },
-        {
-          "title": "Gráficos",
-          "minimum": "Nvidia GTX 1080 / AMD RX 5700 XT or similar",
-          "recommended": "Nvidia RTX 3070 / AMD RX 6800 or similar"
-        },
-        {
-          "title": "Procesador",
-          "minimum": "Intel Core i5-8400 or AMD Ryzen 5 1600",
-          "recommended": "Intel Core i5-12400F or AMD Ryzen 5 5600"
-        },
-        {
-          "title": "DirectX",
-          "minimum": "API de DirectX 12, nivel de característica de hardware 11",
-          "recommended": "API de DirectX 12, nivel de característica de hardware 12"
-        },
-        {
-          "title": "Memoria",
-          "minimum": "12 GB",
-          "recommended": "16 GB"
-        },
-        {
-          "title": "Teclado",
-          "minimum": "",
-          "recommended": "Teclado integrado"
-        },
-        {
-          "title": "Mouse",
-          "minimum": "",
-          "recommended": "Mouse integrado"
-        },
-        {
-          "title": "Controladora",
-          "minimum": "",
-          "recommended": "Controladora de Xbox"
-        }
-      ],
-      "maxInstallSize": 60464611328,
-      "hasAddOns": false,
-      "storeUrl": "https://www.xbox.com/es-es/games/store/the-casting-of-frank-stone/9PG0PMB5Q0GT"
     },
     {
       "id": "BTBWBGKPKS97",
@@ -55236,7 +54384,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 2.3,
-      "ratingCount": 101,
+      "ratingCount": 102,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -55772,8 +54920,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 3.8,
-      "ratingCount": 19,
+      "rating": 3.7,
+      "ratingCount": 29,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -58461,7 +57609,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.8,
-      "ratingCount": 61,
+      "ratingCount": 63,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -58508,7 +57656,7 @@
           "recommended": "2 GB"
         }
       ],
-      "maxInstallSize": 1413062656,
+      "maxInstallSize": 1237258240,
       "hasAddOns": false,
       "storeUrl": "https://www.xbox.com/es-es/games/store/well-dweller/9PLH7R84GJWP"
     },
@@ -61007,7 +60155,7 @@
           "recommended": "Controladora de Xbox"
         }
       ],
-      "maxInstallSize": 114208858112,
+      "maxInstallSize": 117810536448,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/zenless-zone-zero/9N4X0WFZ2STM"
     },
@@ -61250,7 +60398,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.3,
-      "ratingCount": 682,
+      "ratingCount": 683,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
