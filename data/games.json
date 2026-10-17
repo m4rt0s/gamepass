@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-16T12:50:04.506Z",
+  "updatedAt": "2026-10-17T11:48:58.486Z",
   "market": "ES",
   "language": "es-ES",
-  "totalGames": 808,
+  "totalGames": 809,
   "counts": {
     "essential": 126,
     "premium": 563,
-    "pc": 469,
-    "ultimate": 714,
-    "total": 808
+    "pc": 470,
+    "ultimate": 715,
+    "total": 809
   },
   "categories": [
     "Acción y aventura",
@@ -605,7 +605,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.7,
-      "ratingCount": 47,
+      "ratingCount": 48,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -978,7 +978,7 @@
         "Un jugador"
       ],
       "systemRequirements": [],
-      "maxInstallSize": 53100023808,
+      "maxInstallSize": 53118525440,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/age-of-empires-iii-definitive-edition/9P91FNMH1GG0"
     },
@@ -1821,7 +1821,7 @@
           "recommended": "Micrófono integrado"
         }
       ],
-      "maxInstallSize": 32070529024,
+      "maxInstallSize": 32071421952,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/aniimo/9PK8PHLCQDF6"
     },
@@ -2800,7 +2800,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.7,
-      "ratingCount": 21161,
+      "ratingCount": 21162,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -6559,6 +6559,100 @@
       "storeUrl": "https://www.xbox.com/es-es/games/store/ben-10-power-trip/9NJWFF2KHL6H"
     },
     {
+      "id": "9N4ZMKC3GX4M",
+      "title": "Beyond These Stars",
+      "description": "Tu gente por fin puede tomarse un respiro después de tanta incertidumbre; ahora habitan en Kewa, una ballena cósmica que se pasea por la inmensidad del universo. Erigir una ciudad en el dorso de una criatura viva supone todo un desafío, pero a medida que vayas viajando por la galaxia tu relación con ella se irá fortaleciendo y las posibilidades de expansión y exploración irán en aumento. Conoce a miembros de otras especies, satisface las necesidades y deseos de tus lugareños, y ve en busca de la verdad acerca del origen de sus ancestros y de la ballena cósmica.\n\nUNA BALLENA Y UNA CIUDAD\nLa inmensidad del espacio está repleta de misterios sin descubrir, por lo que tus lugareños no tardarán mucho en entender la importancia de trabajar codo con codo una vez que se asienten en Kewa, la ballena cósmica y el nuevo hogar al que también tendrán que cuidar.\n• Un hogar entre las estrellas: erige una ciudad llena de vida sobre el dorso de una ballena cósmica que viaja por el espacio mientras los tuyos buscan destinos donde vivir y metas que cumplir. Construye en un paraje que te recibe de la forma más inhóspita posible, salvo por una mota verde que surge en torno a una charca. Planifica con cuidado tu asentamiento, pues la producción podrá verse afectada por el entorno natural. ¿Distribuirás tus construcciones respetando el entorno natural? ¿O acaso optarás por modificar el paisaje para poder sacar el mejor beneficio posible de las bonificaciones de adyacencia?\n• Expansión por doquier: modifica tu entorno para que se adapte a tus necesidades. Desarrolla todo un ecosistema cavando canales y agregando sustrato con el fin de promover las condiciones idóneas para el crecimiento de los cultivos. Querrás disponer de un influjo constante materiales, por lo que deberás plantar árboles para que los bosques incrementen el oxígeno en la atmósfera y expandir, así, los límites de tu asentamiento. \n• Un equilibrio que mantener: prepárate para requerir de más cantidad de recursos a causa de los progresos tecnológicos. Las necesidades de tus lugareños no harán más que aumentar, por lo que cada vez será más importante disponer de más avances en las infraestructuras de minado y en los sistemas logísticos. Sin embargo, habrás de tener cuidado de no romper el equilibrio que mantiene el ecosistema con vida. Las tierras de Kewa son frágiles, tú hábitat podría resentirse si no le das los cuidados que precisa. ¿Pondrás en riesgo la sostenibilidad y el ecosistema que te rodea? ¿O llegarás a buscar recursos en otros mundos que te ayuden a conservar el bienestar de la ballena?\n\nVIAJE POR LAS ESTRELLAS\nAprende la historia de toda una galaxia mientras viajas a lomos de Kewa: busca respuestas sobre tu procedencia, halla el origen de las ballenas cósmicas y descubre la naturaleza del complejo entramado que nos une.\n• Puestos remotos: Kewa te ofrece todo cuanto necesitas, pero esto no quiere decir que puedas explotar sus recursos sin límite alguno. Es probable que llegue un punto en el que empieces a carecer de ciertos recursos o que el espacio sea insuficiente, por lo que deberás crear puestos remotos en otros planetas donde buscar materiales. Eso sí, a menos que haya una comprensión mutua entre Kewa y tu pueblo, te costará predecir cuándo decidirá abandonar un sistema, y no podrás calcular cuánto tiempo te queda antes de partir.\n• Compañera de viajes: Kewa no es una mascota que vaya a amoldarse a tu estilo de vida. Es un ser independiente que añora una especie de conexión emocional. Tu hogar está vivo, tiene sus propios sueños y aspiraciones que irán surgiendo en el transcurso de la travesía espacial. Si consigues entenderla, podréis crear una relación simbiótica entre ambas especies. Podríais llegar a un punto en común y viajar hacia un mismo objetivo a lo largo y ancho del universo.\n• Amistades siderales: A lo largo de la travesía te toparás con alienígenas que te brindarán oportunidades únicas: misiones adicionales con sus debidas recompensas, tratos comerciales y nuevas tecnologías.\n\nMantén la balanza en perfecto equilibrio, sin olvidarte de que Kewa y los tuyos deberán coexistir en pos de la supervivencia y la prosperidad. Beyond These Stars te presenta un mundo que respira bajo tus pies y que decide acoger a tu civilización, que deberá ajustar su sistema logístico a tan especiales circunstancias.",
+      "shortDescription": "Crea una ciudad sobre una ballena cósmica con la que deberás aprender a coexistir en sus viajes estelares. Gestiona un sistema logístico complejo y atiende las necesidades de tu pueblo mientras creas puestos remotos, conoces alienígenas y descubres los secretos del universo.",
+      "developer": "Balancing Monkey Games",
+      "publisher": "Hooded Horse",
+      "imageUrl": "https://store-images.s-microsoft.com/image/apps.30358.13973446484510076.fbb744c0-e1b7-4091-8221-12cc3c2830c8.9dc01aed-c3b0-47eb-a3a8-1ef883a22a8b",
+      "heroImage": "https://store-images.s-microsoft.com/image/apps.28195.13973446484510076.fbb744c0-e1b7-4091-8221-12cc3c2830c8.c919500f-93b6-4991-9087-9ad794a51193",
+      "screenshots": [
+        "https://store-images.s-microsoft.com/image/apps.62429.13973446484510076.fbb744c0-e1b7-4091-8221-12cc3c2830c8.80f77224-785e-4540-8c0b-7a2ddd2ea6e2",
+        "https://store-images.s-microsoft.com/image/apps.54620.13973446484510076.fbb744c0-e1b7-4091-8221-12cc3c2830c8.37ab166d-0667-426b-92cc-854f30b7534d",
+        "https://store-images.s-microsoft.com/image/apps.9577.13973446484510076.fbb744c0-e1b7-4091-8221-12cc3c2830c8.fd657e2f-3fa0-4a41-9a76-fd3778813639",
+        "https://store-images.s-microsoft.com/image/apps.17938.13973446484510076.fbb744c0-e1b7-4091-8221-12cc3c2830c8.d7826729-80e9-4520-b321-b463ace9cc32"
+      ],
+      "videoUrl": "https://cdn.trailers.xboxservices.com/trailers/00000000-0000-0000-0000-000000000000/xbox/prod/videos/mainprofile/13973446484510076/64e70f48-e5ca-4086-b1e7-e8c44301c890/manifest.m3u8",
+      "videoCaption": "Release Date Announcement Trailer",
+      "releaseDate": "2026-10-16",
+      "categories": [
+        "Estrategia",
+        "Simulación"
+      ],
+      "tiers": [
+        "pc",
+        "ultimate"
+      ],
+      "platform": "pc",
+      "price": 29.99,
+      "msrp": 29.99,
+      "currency": "EUR",
+      "hasDiscount": false,
+      "discountPercent": 0,
+      "rating": 0,
+      "ratingCount": 0,
+      "ageRating": 3,
+      "pegiRating": "PEGI 3",
+      "pegiDescription": "Apropiado a partir de 3 años",
+      "interactiveDescriptions": [],
+      "capabilities": [
+        "Un jugador",
+        "Logros de Xbox",
+        "Cosas guardadas en la nube de Xbox"
+      ],
+      "systemRequirements": [
+        {
+          "title": "SO",
+          "minimum": "Windows 10 version 18362.0 or higher",
+          "recommended": "Windows 10 version 18362.0 or higher"
+        },
+        {
+          "title": "Arquitectura",
+          "minimum": "x64",
+          "recommended": "x64"
+        },
+        {
+          "title": "Gráficos",
+          "minimum": "NVIDIA® GeForce® GTX 960 (4 GB) / AMD® Radeon™ RX 570 (4 GB)",
+          "recommended": "NVIDIA® GeForce® RTX 2070 (8 GB) / AMD® Radeon™ RX 6600 XT (8 GB)"
+        },
+        {
+          "title": "Procesador",
+          "minimum": "Intel® Core™ i5-6600 (quad-core) / AMD® Ryzen™ 3 3200G (quad-core)",
+          "recommended": "Intel® Core™ i5-9600 (hexa-core) / AMD® Ryzen™ 5 2600X (hexa-core)"
+        },
+        {
+          "title": "DirectX",
+          "minimum": "Versión 11",
+          "recommended": "API de DirectX 12, nivel de característica de hardware 12"
+        },
+        {
+          "title": "Memoria",
+          "minimum": "8 GB",
+          "recommended": "16 GB"
+        },
+        {
+          "title": "Memoria de vídeo",
+          "minimum": "4 GB",
+          "recommended": "8 GB"
+        },
+        {
+          "title": "Teclado",
+          "minimum": "",
+          "recommended": "Teclado integrado"
+        },
+        {
+          "title": "Mouse",
+          "minimum": "",
+          "recommended": "Mouse integrado"
+        }
+      ],
+      "maxInstallSize": 6218973184,
+      "hasAddOns": false,
+      "storeUrl": "https://www.xbox.com/es-es/games/store/beyond-these-stars/9N4ZMKC3GX4M"
+    },
+    {
       "id": "9NTXGKBW2HSM",
       "title": "Black Jacket",
       "description": "El juego de cartas rogue-lite inspirado en el blackjack en el que te abres camino a través del infierno, potenciando tu mazo y jugando combinaciones imposibles. \n\nBLACKJACK EVOLUCIONADO\nJuega al blackjack contra las almas inquietas que vagan por el infierno. Juegas por sus monedas, y necesitarás muchas para sobornar al barquero y escapar. Pero ten cuidado con tus apuestas, porque este no es un juego de blackjack normal:\n-Llena tu mazo con cartas poderosas.\n-Controla la mesa, modifica las reglas y supera las probabilidades.\n-Desbloquea posibilidades casi infinitas de combinaciones de cartas y estrategias con cada partida.\n-Recoge artefactos, palos de cartas y maldiciones para obtener ventaja sobre tus oponentes.\n-Conoce a tus oponentes, sus historias y a ti mismo para romper el ciclo.\n\nCARTAS PODEROSAS\nLas cartas cambiarán las reglas del juego:\n-Obliga a tu oponente a comprometerse en exceso.\n-Aumenta y disminuye el valor de sus cartas.\n-Controla su mazo o echa un vistazo al tuyo.\n-Intercambia cartas con tu oponente.\n-Descubre combinaciones secretas dentro de tu mazo.\n\nLEE A TUS OPONENTES\nAprende a leer a tus oponentes y escucha cómo se desarrolla su historia con cada encuentro:\n-Los oponentes solo se muestran a través de sus manos.\n-Familiarízate con su estilo de juego y sus maldiciones.\n-Profundiza tu relación con ellos para romper el ciclo.\n",
@@ -7324,8 +7418,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 3,
-      "ratingCount": 3,
+      "rating": 2.5,
+      "ratingCount": 4,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -8385,8 +8479,8 @@
         "https://store-images.s-microsoft.com/image/apps.31112.14043357063026247.4adcf65d-b076-4f79-9314-a702c6de7dc5.4ae705a8-4371-4926-bca9-703400852cbc",
         "https://store-images.s-microsoft.com/image/apps.49019.14043357063026247.4adcf65d-b076-4f79-9314-a702c6de7dc5.6f9f93c5-8caf-4e8f-b2f1-c761b6a64631"
       ],
-      "videoUrl": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftassets/fef6ee55-c574-46a5-bd1f-bf2d06be96b8-AVS.m3u8?packagedStreaming=true",
-      "videoCaption": "Call of Duty: Black Ops 7 - Launch Trailer",
+      "videoUrl": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftassets/5f8489d4-1a50-4dae-b152-5ee7343103e2-AVS.m3u8?packagedStreaming=true",
+      "videoCaption": "Call of Duty: Black Ops 7 - Accolades Trailer",
       "releaseDate": "2025-11-21",
       "categories": [
         "Shooter"
@@ -9008,8 +9102,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 2.9,
-      "ratingCount": 33,
+      "rating": 3,
+      "ratingCount": 34,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -9137,7 +9231,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.1,
-      "ratingCount": 34,
+      "ratingCount": 35,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -9189,8 +9283,8 @@
       "screenshots": [
         "https://store-images.s-microsoft.com/image/apps.2371.13739535057760905.9640bbdc-dc7f-4305-8a6f-c5ea2ef2352e.e1b87fd5-272a-4a87-a78d-fa9ccfde88a1",
         "https://store-images.s-microsoft.com/image/apps.60930.13739535057760905.9640bbdc-dc7f-4305-8a6f-c5ea2ef2352e.3e1ee2d0-e468-4d6c-bc73-ab282f29d4d6",
-        "https://store-images.s-microsoft.com/image/apps.27655.13739535057760905.ee63b998-143e-4256-bd0e-3e78d667ab11.729d3801-ade1-4ba9-9383-66446f34bd65",
-        "https://store-images.s-microsoft.com/image/apps.37988.13739535057760905.ee63b998-143e-4256-bd0e-3e78d667ab11.1a0ab3f0-b48d-415b-af96-92faa1d6b883"
+        "https://store-images.s-microsoft.com/image/apps.9326.13739535057760905.c6b6579d-5531-4711-aa57-db1335bba25a.ad58a1fd-7d5a-41d3-be25-05b48ca3a134",
+        "https://store-images.s-microsoft.com/image/apps.48540.13739535057760905.d895be15-cf6f-420a-8c52-52a36064269f.cbc181d4-8ce1-4d95-a62c-aefe2241c3b8"
       ],
       "videoUrl": "",
       "videoCaption": "",
@@ -9673,8 +9767,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 1.5,
-      "ratingCount": 2,
+      "rating": 2.7,
+      "ratingCount": 3,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -12700,7 +12794,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.7,
-      "ratingCount": 254,
+      "ratingCount": 255,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -13160,7 +13254,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.2,
-      "ratingCount": 307,
+      "ratingCount": 308,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -15257,7 +15351,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.2,
-      "ratingCount": 20,
+      "ratingCount": 21,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -17462,7 +17556,7 @@
           "recommended": "4 GB"
         }
       ],
-      "maxInstallSize": 1502298112,
+      "maxInstallSize": 1502220288,
       "hasAddOns": false,
       "storeUrl": "https://www.xbox.com/es-es/games/store/echo-weaver/9N72DFC6GL91"
     },
@@ -18812,7 +18906,7 @@
       "hasDiscount": true,
       "discountPercent": 75,
       "rating": 4.4,
-      "ratingCount": 1573,
+      "ratingCount": 1576,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -18939,7 +19033,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 120328503296,
+      "maxInstallSize": 121694842880,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/fallout-76/BS6WJ2L56B10"
     },
@@ -19035,7 +19129,7 @@
           "recommended": "Controladora de Xbox"
         }
       ],
-      "maxInstallSize": 119741157376,
+      "maxInstallSize": 120449323008,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/fallout-76-pc/9NKGNMNK3K3Z"
     },
@@ -19828,7 +19922,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4,
-      "ratingCount": 208,
+      "ratingCount": 209,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -22064,7 +22158,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.7,
-      "ratingCount": 4546,
+      "ratingCount": 4547,
       "ageRating": 12,
       "pegiRating": "Supervisión parental recomendada",
       "pegiDescription": "Supervisión parental recomendada",
@@ -22225,7 +22319,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.1,
-      "ratingCount": 370,
+      "ratingCount": 371,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -22318,7 +22412,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.6,
-      "ratingCount": 1860,
+      "ratingCount": 1861,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -22866,7 +22960,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.6,
-      "ratingCount": 11275,
+      "ratingCount": 11276,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -23280,7 +23374,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.3,
-      "ratingCount": 278,
+      "ratingCount": 289,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -24938,7 +25032,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.9,
-      "ratingCount": 124,
+      "ratingCount": 125,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -25738,7 +25832,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.8,
-      "ratingCount": 192,
+      "ratingCount": 193,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -28105,7 +28199,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.7,
-      "ratingCount": 81,
+      "ratingCount": 82,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -29178,7 +29272,7 @@
           "recommended": "Controladora de Xbox"
         }
       ],
-      "maxInstallSize": 16702963712,
+      "maxInstallSize": 16782245888,
       "hasAddOns": false,
       "storeUrl": "https://www.xbox.com/es-es/games/store/kernel-hearts/9NXSNQR7CM1Q"
     },
@@ -30880,7 +30974,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.2,
-      "ratingCount": 62,
+      "ratingCount": 63,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -32671,7 +32765,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.7,
-      "ratingCount": 11342,
+      "ratingCount": 11344,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -32693,7 +32787,7 @@
           "recommended": "x64, x86"
         }
       ],
-      "maxInstallSize": 128634880,
+      "maxInstallSize": 128851968,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/microsoft-mahjong/9WZDNCRFHWCP"
     },
@@ -32733,7 +32827,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.7,
-      "ratingCount": 51843,
+      "ratingCount": 51852,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -32811,7 +32905,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.7,
-      "ratingCount": 21129,
+      "ratingCount": 21131,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -33196,7 +33290,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4,
-      "ratingCount": 15981,
+      "ratingCount": 15986,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -33391,7 +33485,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.5,
-      "ratingCount": 61667,
+      "ratingCount": 61670,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -33807,7 +33901,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.1,
-      "ratingCount": 175,
+      "ratingCount": 176,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -34181,7 +34275,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.4,
-      "ratingCount": 22,
+      "ratingCount": 23,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -36601,7 +36695,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 2.2,
-      "ratingCount": 136,
+      "ratingCount": 137,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -36660,7 +36754,7 @@
           "recommended": "Mouse integrado"
         }
       ],
-      "maxInstallSize": 117841281024,
+      "maxInstallSize": 117831106560,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/once-human/9N0QWXC09MPT"
     },
@@ -39001,7 +39095,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 2.6,
-      "ratingCount": 70,
+      "ratingCount": 71,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -40282,8 +40376,8 @@
           "recommended": "16 GB"
         }
       ],
-      "maxInstallSize": 22722715648,
-      "hasAddOns": false,
+      "maxInstallSize": 22722711552,
+      "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/quarantine-zone-the-last-check/9P9446P7D9TZ"
     },
     {
@@ -41906,7 +42000,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.5,
-      "ratingCount": 326,
+      "ratingCount": 329,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -47963,7 +48057,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.2,
-      "ratingCount": 39,
+      "ratingCount": 40,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -50362,7 +50456,7 @@
           "recommended": "Controladora de Xbox"
         }
       ],
-      "maxInstallSize": 87055736832,
+      "maxInstallSize": 86583730176,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/the-finals/9PGD71CMDS0Z"
     },
@@ -53198,11 +53292,11 @@
         "ultimate"
       ],
       "platform": "both",
-      "price": 24.99,
+      "price": 16.24,
       "msrp": 24.99,
       "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
+      "hasDiscount": true,
+      "discountPercent": 35,
       "rating": 2.2,
       "ratingCount": 112,
       "ageRating": 16,
@@ -54920,8 +55014,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 3.7,
-      "ratingCount": 29,
+      "rating": 3.6,
+      "ratingCount": 39,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -54968,7 +55062,7 @@
           "recommended": "16 GB"
         }
       ],
-      "maxInstallSize": 44228685824,
+      "maxInstallSize": 44228546560,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/valor-mortis/9P861V1542BL"
     },
@@ -57067,7 +57161,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 2.9,
-      "ratingCount": 109,
+      "ratingCount": 110,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -60190,7 +60284,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.7,
-      "ratingCount": 128,
+      "ratingCount": 129,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
