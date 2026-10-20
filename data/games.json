@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-19T15:05:15.137Z",
+  "updatedAt": "2026-10-20T13:06:02.220Z",
   "market": "ES",
   "language": "es-ES",
-  "totalGames": 809,
+  "totalGames": 811,
   "counts": {
     "essential": 126,
     "premium": 563,
     "pc": 470,
-    "ultimate": 715,
-    "total": 809
+    "ultimate": 717,
+    "total": 811
   },
   "categories": [
     "Acción y aventura",
@@ -315,7 +315,7 @@
           "recommended": "Mouse integrado"
         }
       ],
-      "maxInstallSize": 636256256,
+      "maxInstallSize": 634437632,
       "hasAddOns": false,
       "storeUrl": "https://www.xbox.com/es-es/games/store/9-kings-versi-n-preliminar-del-juego/9NNM7PKZN3JF"
     },
@@ -2800,7 +2800,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.7,
-      "ratingCount": 21161,
+      "ratingCount": 21163,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -3081,6 +3081,64 @@
       "maxInstallSize": 0,
       "hasAddOns": false,
       "storeUrl": "https://www.xbox.com/es-es/games/store/assassin-s-creed-chronicles-china/9PJPZK79N5VG"
+    },
+    {
+      "id": "9N0QFT016SGV",
+      "title": "Assassin’s Creed Chronicles: India",
+      "description": "Juega como Arbaaz en su misión de venganza en este colorista retrato de la India colonial en 2.5D y un estilo de juego basado en el sigilo. \n\n• Recorre una impresionante recreación de la India del siglo XIX y sus legendarios paisajes. \nDescubre un exquisito retrato de la India colonial gracias a una paleta de vibrantes colores. Usa la tirolina por las calles de Amritsar, ocúltate en las sombras de palacio, y descubre artefactos legendarios siguiendo los pasos de Alejandro el Grande.\n\n• Experimenta la emoción de ser un sigiloso Assassin.\nEres un Assassin inteligente y con atractivo, usa nuevos subterfugios para pasar desapercibido y saquear. Descubre las nuevas y letales habilidades y los accesorios de los Assassin, como el talwar (espada curva) o el chakram (arma circular arrojadiza), para infligir el máximo daño posible e interactuar con el escenario.\n\n• Demuestra tu talento para el combate con el nuevo movimiento de doble asesinato, el golpe hélice o el derribo silencioso. Sé más ágil que nunca en los nuevos niveles de plataformas, y escapa de escenarios que puedes destruir como plazas y bazares, dejando el caos a tu paso. \n\n• Descubre el nuevo modo de desafío\nDesbloquea varias salas de desafío: pon tu habilidad al límite en una compleja secuencia de carreras de obstáculos. Supera el marcador para recoger artefactos, cumple los contratos especiales y asesina, ¡todo ello en una nueva y emocionante experiencia jugable!\n",
+      "shortDescription": "Juega como Arbaaz en su misión de venganza en este colorista retrato de la India colonial en 2.5D.\n\n• Recorre la apasionante India del siglo XIX y sus legendarios paisajes. \n• Siéntete un sigiloso Assassin con armas y habilidades únicas, como los movimientos de doble asesinato y el chakram.\n• Descubre un modo totalmente nuevo con sigilo, velocidad y salas de asesinato.",
+      "developer": "Climax Studio",
+      "publisher": "Ubisoft",
+      "imageUrl": "https://store-images.s-microsoft.com/image/apps.33447.13916503054786009.154bb28b-8729-4712-8c24-34d746f0c6b9.3906fcfc-8f0b-410d-a789-3234764a1dc8",
+      "heroImage": "https://store-images.s-microsoft.com/image/apps.35814.13916503054786009.154bb28b-8729-4712-8c24-34d746f0c6b9.ba45b745-9a3a-47ed-bf31-452283f0ed10",
+      "screenshots": [
+        "https://store-images.s-microsoft.com/image/apps.51906.13916503054786009.154bb28b-8729-4712-8c24-34d746f0c6b9.f44e1ded-3475-497a-a10b-7ede2c08c193",
+        "https://store-images.s-microsoft.com/image/apps.18836.13916503054786009.154bb28b-8729-4712-8c24-34d746f0c6b9.d0343c1d-bba6-4794-a14d-f63a47554fb1",
+        "https://store-images.s-microsoft.com/image/apps.26303.13916503054786009.154bb28b-8729-4712-8c24-34d746f0c6b9.1b807af6-9cf2-46dc-a453-bbc04d15fe1e",
+        "https://store-images.s-microsoft.com/image/apps.7292.13916503054786009.154bb28b-8729-4712-8c24-34d746f0c6b9.06f8c7a6-58e3-4d50-a114-050ca8f525de"
+      ],
+      "videoUrl": "",
+      "videoCaption": "",
+      "releaseDate": "",
+      "categories": [
+        "Acción y aventura"
+      ],
+      "tiers": [
+        "ultimate"
+      ],
+      "platform": "pc",
+      "price": 0,
+      "msrp": 0,
+      "currency": "EUR",
+      "hasDiscount": false,
+      "discountPercent": 0,
+      "rating": 0,
+      "ratingCount": 0,
+      "ageRating": 16,
+      "pegiRating": "PEGI 16",
+      "pegiDescription": "Apropiado a partir de 16 años",
+      "interactiveDescriptions": [],
+      "capabilities": [],
+      "systemRequirements": [
+        {
+          "title": "Gráficos",
+          "minimum": "nVidia GeForce GTS450 or AMD Radeon HD5770 (1024MB VRAM with Shader Model 5.0)",
+          "recommended": "nVidia GeForce GTX 470 or AMD Radeon HD5870 or better (1024MB VRAM with Shader Model 5.0)"
+        },
+        {
+          "title": "Procesador",
+          "minimum": "Intel Core 2 Duo E8200 @ 2.6 GHz or AMD Athlon II X2 240 @ 2.8 GHz",
+          "recommended": "Intel Core i3 2105 @ 3.1 GHz or AMD Phenom II X4 955 @ 3.2 GHz"
+        },
+        {
+          "title": "Memoria",
+          "minimum": "2 GB",
+          "recommended": "4 GB"
+        }
+      ],
+      "maxInstallSize": 0,
+      "hasAddOns": false,
+      "storeUrl": "https://www.xbox.com/es-es/games/store/assassin-s-creed-chronicles-india/9N0QFT016SGV"
     },
     {
       "id": "9MZ1GSWX2G53",
@@ -6500,7 +6558,8 @@
         "Mouse y teclado de la consola",
         "Controlador para juegos para PC",
         "Logros de Xbox",
-        "Cosas guardadas en la nube de Xbox"
+        "Cosas guardadas en la nube de Xbox",
+        "Xbox Play Anywhere"
       ],
       "systemRequirements": [
         {
@@ -7418,8 +7477,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 2,
-      "ratingCount": 7,
+      "rating": 2.2,
+      "ratingCount": 8,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -9304,8 +9363,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 2.7,
-      "ratingCount": 625,
+      "rating": 2.6,
+      "ratingCount": 624,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -13483,11 +13542,11 @@
         "ultimate"
       ],
       "platform": "both",
-      "price": 29.99,
+      "price": 8.99,
       "msrp": 29.99,
       "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
+      "hasDiscount": true,
+      "discountPercent": 70,
       "rating": 4.3,
       "ratingCount": 164,
       "ageRating": 16,
@@ -14235,7 +14294,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.5,
-      "ratingCount": 282,
+      "ratingCount": 283,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -15620,7 +15679,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.6,
-      "ratingCount": 108,
+      "ratingCount": 107,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -15709,7 +15768,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.5,
-      "ratingCount": 40,
+      "ratingCount": 39,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -16639,8 +16698,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 3.1,
-      "ratingCount": 50,
+      "rating": 3.2,
+      "ratingCount": 51,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -16715,7 +16774,7 @@
           "recommended": "Micrófono integrado"
         }
       ],
-      "maxInstallSize": 42605027328,
+      "maxInstallSize": 42592874496,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/dune-awakening/9PJ6FV3130QZ"
     },
@@ -17068,8 +17127,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 2.7,
-      "ratingCount": 7,
+      "rating": 3,
+      "ratingCount": 8,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -18908,7 +18967,7 @@
       "hasDiscount": true,
       "discountPercent": 75,
       "rating": 4.4,
-      "ratingCount": 1577,
+      "ratingCount": 1578,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -19012,7 +19071,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.3,
-      "ratingCount": 272,
+      "ratingCount": 273,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -20271,11 +20330,11 @@
         "ultimate"
       ],
       "platform": "console",
-      "price": 29.99,
+      "price": 39.99,
       "msrp": 39.99,
       "currency": "EUR",
-      "hasDiscount": true,
-      "discountPercent": 25,
+      "hasDiscount": false,
+      "discountPercent": 0,
       "rating": 3.4,
       "ratingCount": 22,
       "ageRating": 3,
@@ -20332,11 +20391,11 @@
         "ultimate"
       ],
       "platform": "pc",
-      "price": 22.49,
+      "price": 29.99,
       "msrp": 29.99,
       "currency": "EUR",
-      "hasDiscount": true,
-      "discountPercent": 25,
+      "hasDiscount": false,
+      "discountPercent": 0,
       "rating": 3.9,
       "ratingCount": 24,
       "ageRating": 3,
@@ -22052,8 +22111,8 @@
       "currency": "EUR",
       "hasDiscount": true,
       "discountPercent": 10,
-      "rating": 4.8,
-      "ratingCount": 16,
+      "rating": 4.7,
+      "ratingCount": 18,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -22190,7 +22249,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 95438721024,
+      "maxInstallSize": 95456882688,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/fortnite/BT5P2X999VH2"
     },
@@ -23147,7 +23206,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 2.8,
-      "ratingCount": 367,
+      "ratingCount": 366,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -23268,7 +23327,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.4,
-      "ratingCount": 4658,
+      "ratingCount": 4659,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -23376,7 +23435,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.4,
-      "ratingCount": 325,
+      "ratingCount": 341,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -23500,7 +23559,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.2,
-      "ratingCount": 103,
+      "ratingCount": 104,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -24169,8 +24228,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 3.9,
-      "ratingCount": 166,
+      "rating": 4,
+      "ratingCount": 167,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -25460,7 +25519,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4,
-      "ratingCount": 1188,
+      "ratingCount": 1189,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -27338,7 +27397,7 @@
       "hasDiscount": true,
       "discountPercent": 85,
       "rating": 4.3,
-      "ratingCount": 243,
+      "ratingCount": 244,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -28102,7 +28161,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.2,
-      "ratingCount": 914,
+      "ratingCount": 915,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -28292,11 +28351,11 @@
         "ultimate"
       ],
       "platform": "both",
-      "price": 16.79,
+      "price": 20.99,
       "msrp": 20.99,
       "currency": "EUR",
-      "hasDiscount": true,
-      "discountPercent": 20,
+      "hasDiscount": false,
+      "discountPercent": 0,
       "rating": 4.5,
       "ratingCount": 21,
       "ageRating": 3,
@@ -28916,7 +28975,7 @@
           "recommended": "Controladora de Xbox"
         }
       ],
-      "maxInstallSize": 26639773696,
+      "maxInstallSize": 26702041088,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/jurassic-world-evolution-3/9NX7HCWL13Z9"
     },
@@ -29808,7 +29867,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.5,
-      "ratingCount": 288,
+      "ratingCount": 289,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -30885,7 +30944,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 32448712704,
+      "maxInstallSize": 32519680000,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/los-sims-4-edici-n-ea-play/9PLFD17M47K3"
     },
@@ -32627,11 +32686,11 @@
         "ultimate"
       ],
       "platform": "both",
-      "price": 79.89,
+      "price": 55.92,
       "msrp": 79.89,
       "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
+      "hasDiscount": true,
+      "discountPercent": 30,
       "rating": 2.1,
       "ratingCount": 704,
       "ageRating": 3,
@@ -32829,7 +32888,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.7,
-      "ratingCount": 51868,
+      "ratingCount": 51871,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -33292,7 +33351,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4,
-      "ratingCount": 15994,
+      "ratingCount": 15996,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -33389,7 +33448,7 @@
           "recommended": "8 GB"
         }
       ],
-      "maxInstallSize": 2157969408,
+      "maxInstallSize": 2232659968,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/minecraft-preview-for-windows/9P5X4QVLC2XR"
     },
@@ -33450,7 +33509,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 2372423680,
+      "maxInstallSize": 2402189312,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/minecraft-preview-for-xbox/9NQ19C36R0VD"
     },
@@ -34773,7 +34832,7 @@
           "recommended": "Controladora de Xbox"
         }
       ],
-      "maxInstallSize": 1577205760,
+      "maxInstallSize": 1577254912,
       "hasAddOns": false,
       "storeUrl": "https://www.xbox.com/es-es/games/store/motorslice/9P0073G9FW5Z"
     },
@@ -37390,7 +37449,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.6,
-      "ratingCount": 927,
+      "ratingCount": 928,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -42002,7 +42061,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.5,
-      "ratingCount": 331,
+      "ratingCount": 332,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -42709,7 +42768,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.2,
-      "ratingCount": 228,
+      "ratingCount": 229,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -42937,7 +42996,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 51255951360,
+      "maxInstallSize": 51594993664,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/rocket-league/C125W9BG2K0V"
     },
@@ -43116,7 +43175,7 @@
           "recommended": "Controladora de Xbox"
         }
       ],
-      "maxInstallSize": 44080586752,
+      "maxInstallSize": 44080865280,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/runescape-dragonwilds/9P402RWR63H4"
     },
@@ -43367,7 +43426,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.5,
-      "ratingCount": 1309,
+      "ratingCount": 1310,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -44875,7 +44934,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 30636634112,
+      "maxInstallSize": 30985572352,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/smite-2/9NV8W1KJSQLL"
     },
@@ -46533,7 +46592,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.8,
-      "ratingCount": 1848,
+      "ratingCount": 1849,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -48353,7 +48412,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.9,
-      "ratingCount": 306,
+      "ratingCount": 305,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -49931,7 +49990,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.5,
-      "ratingCount": 424,
+      "ratingCount": 425,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -54225,6 +54284,48 @@
       "storeUrl": "https://www.xbox.com/es-es/games/store/trials-of-the-blood-dragon/BPPR6D5C2GLF"
     },
     {
+      "id": "9PG0ZSTFBL1T",
+      "title": "TRIALS OF THE BLOOD DRAGON",
+      "description": "2019 - AHORA\nEn un mundo en el que los Dragones Sangrientos, bestias de origen desconocido, campan a sus anchas.\nEn un tiempo en el que el futuro ya no es el que solía ser, un hombre...\nNo, espera...\nUn chico... y una chica... Sí, un chico y una chica.\nSon Roxanne y Slayter, hijos del legendario Rex Power Colt. Son duros como su padre, listos como su madre y los mejores que ha habido jamás. 12 años después de la 2ª guerra de Vietnam, van a la 4ª para salvar el día, la libertad y el mundo.\n\nDescubre una experiencia épica para un jugador con la combinación única de la competitividad, precisión y física de Trials, y la no tan precisa acción repleta de armas y luces de neón de Blood Dragon.\nDisfruta de las vistas en la zona de guerra de Vietnam, haz un ajuste de cuentas en Miami, enfréntate a los héroes de la tele en Tokio y desvíate al espacio exterior. Joder, ¡si hasta irás y volverás del infierno! El futuro ha vuelto. ¿Te atreves?\n\nIncluye una copia digital de la banda sonora original.",
+      "shortDescription": "Estamos en el año 2019. Roxanne y Slayter, hijos del legendario Rex Power Colt, se dirigen hacia la 4ª guerra de Vietnam para devolver la libertad y salvar el mundo. Descubre una experiencia épica para un jugador con la combinación única de la competitividad, precisión y física de Trials, y la no tan precisa acción repleta de armas y luces de neón de Blood Dragon. El futuro ha vuelto. ¿Te atreves?",
+      "developer": "RedLynx",
+      "publisher": "Ubisoft",
+      "imageUrl": "https://store-images.s-microsoft.com/image/apps.24854.14190127076086840.f3bec8cd-e217-49cb-9e54-8581edf2a9ce.a29863d8-9eb2-4177-b8f0-0eda06d2d9b9",
+      "heroImage": "https://store-images.s-microsoft.com/image/apps.44102.14190127076086840.f3bec8cd-e217-49cb-9e54-8581edf2a9ce.eedf8a4b-d60d-4c8d-8642-7574134e0f83",
+      "screenshots": [
+        "https://store-images.s-microsoft.com/image/apps.10886.14190127076086840.f3bec8cd-e217-49cb-9e54-8581edf2a9ce.27b6e5cc-c5e8-42bc-8611-e7fa900481f1",
+        "https://store-images.s-microsoft.com/image/apps.64416.14190127076086840.f3bec8cd-e217-49cb-9e54-8581edf2a9ce.797cbf5a-7479-40ec-bda1-506e94a5db55",
+        "https://store-images.s-microsoft.com/image/apps.30734.14190127076086840.f3bec8cd-e217-49cb-9e54-8581edf2a9ce.c502dd47-67e9-4af3-ac7a-fdde7482930e",
+        "https://store-images.s-microsoft.com/image/apps.32774.14190127076086840.f3bec8cd-e217-49cb-9e54-8581edf2a9ce.cb3b861d-49ca-48fe-a196-4f064fbdfdc9"
+      ],
+      "videoUrl": "",
+      "videoCaption": "",
+      "releaseDate": "",
+      "categories": [
+        "Plataformas"
+      ],
+      "tiers": [
+        "ultimate"
+      ],
+      "platform": "pc",
+      "price": 0,
+      "msrp": 0,
+      "currency": "EUR",
+      "hasDiscount": false,
+      "discountPercent": 0,
+      "rating": 0,
+      "ratingCount": 0,
+      "ageRating": 16,
+      "pegiRating": "PEGI 16",
+      "pegiDescription": "Apropiado a partir de 16 años",
+      "interactiveDescriptions": [],
+      "capabilities": [],
+      "systemRequirements": [],
+      "maxInstallSize": 0,
+      "hasAddOns": false,
+      "storeUrl": "https://www.xbox.com/es-es/games/store/trials-of-the-blood-dragon/9PG0ZSTFBL1T"
+    },
+    {
       "id": "9N3F9256SF8K",
       "title": "Trials Rising",
       "description": "Vive la acción más desenfrenada y las carreras más alucinantes en la nueva entrega de la saga Trials. Supera desafíos repletos de novedades, competiciones y circuitos.\n\nConduce por los circuitos más desafiantes de todo el mundo: desde la Gran Muralla China y Nueva York, hasta la Torre Eiffel y muchos más.\n\nCon la nueva Moto Tándem, podrás controlar una moto con dos pilotos junto a un amigo. \n\nVence a rivales de todo el mundo en el modo online y alcanza la gloria.\n\nCrea y comparte niveles únicos en la Central de pistas gracias a los más de 10 000 objetos que tendrás a tu disposición. Disfruta de un sinfín de posibilidades y diversión infinita.\n",
@@ -55017,7 +55118,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.7,
-      "ratingCount": 42,
+      "ratingCount": 44,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -55129,7 +55230,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 50521845760,
+      "maxInstallSize": 50522767360,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/valorant/9N1NLJK9SKRN"
     },
@@ -56438,7 +56539,7 @@
           "recommended": "Controladora de Xbox"
         }
       ],
-      "maxInstallSize": 107674701824,
+      "maxInstallSize": 107976568832,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/warhammer-40-000-darktide/9NT3WC6RKBVQ"
     },
@@ -56563,7 +56664,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.3,
-      "ratingCount": 257,
+      "ratingCount": 258,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -56637,7 +56738,7 @@
           "recommended": "Controladora de Xbox"
         }
       ],
-      "maxInstallSize": 99626631168,
+      "maxInstallSize": 99627458560,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/warhammer-40-000-space-marine-2/9N9PCZWHVP2L"
     },
@@ -57705,7 +57806,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.8,
-      "ratingCount": 66,
+      "ratingCount": 69,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -59572,7 +59673,7 @@
           "recommended": "Controladora de Xbox"
         },
         {
-          "title": "Micr��fono",
+          "title": "Micrófono",
           "minimum": "",
           "recommended": "Micrófono integrado"
         }
