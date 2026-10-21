@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-20T13:06:02.220Z",
+  "updatedAt": "2026-10-21T13:18:01.764Z",
   "market": "ES",
   "language": "es-ES",
-  "totalGames": 811,
+  "totalGames": 809,
   "counts": {
     "essential": 126,
-    "premium": 563,
+    "premium": 564,
     "pc": 470,
-    "ultimate": 717,
-    "total": 811
+    "ultimate": 715,
+    "total": 809
   },
   "categories": [
     "Acción y aventura",
@@ -1168,7 +1168,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.1,
-      "ratingCount": 118,
+      "ratingCount": 119,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -2800,7 +2800,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.7,
-      "ratingCount": 21163,
+      "ratingCount": 21164,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -3081,64 +3081,6 @@
       "maxInstallSize": 0,
       "hasAddOns": false,
       "storeUrl": "https://www.xbox.com/es-es/games/store/assassin-s-creed-chronicles-china/9PJPZK79N5VG"
-    },
-    {
-      "id": "9N0QFT016SGV",
-      "title": "Assassin’s Creed Chronicles: India",
-      "description": "Juega como Arbaaz en su misión de venganza en este colorista retrato de la India colonial en 2.5D y un estilo de juego basado en el sigilo. \n\n• Recorre una impresionante recreación de la India del siglo XIX y sus legendarios paisajes. \nDescubre un exquisito retrato de la India colonial gracias a una paleta de vibrantes colores. Usa la tirolina por las calles de Amritsar, ocúltate en las sombras de palacio, y descubre artefactos legendarios siguiendo los pasos de Alejandro el Grande.\n\n• Experimenta la emoción de ser un sigiloso Assassin.\nEres un Assassin inteligente y con atractivo, usa nuevos subterfugios para pasar desapercibido y saquear. Descubre las nuevas y letales habilidades y los accesorios de los Assassin, como el talwar (espada curva) o el chakram (arma circular arrojadiza), para infligir el máximo daño posible e interactuar con el escenario.\n\n• Demuestra tu talento para el combate con el nuevo movimiento de doble asesinato, el golpe hélice o el derribo silencioso. Sé más ágil que nunca en los nuevos niveles de plataformas, y escapa de escenarios que puedes destruir como plazas y bazares, dejando el caos a tu paso. \n\n• Descubre el nuevo modo de desafío\nDesbloquea varias salas de desafío: pon tu habilidad al límite en una compleja secuencia de carreras de obstáculos. Supera el marcador para recoger artefactos, cumple los contratos especiales y asesina, ¡todo ello en una nueva y emocionante experiencia jugable!\n",
-      "shortDescription": "Juega como Arbaaz en su misión de venganza en este colorista retrato de la India colonial en 2.5D.\n\n• Recorre la apasionante India del siglo XIX y sus legendarios paisajes. \n• Siéntete un sigiloso Assassin con armas y habilidades únicas, como los movimientos de doble asesinato y el chakram.\n• Descubre un modo totalmente nuevo con sigilo, velocidad y salas de asesinato.",
-      "developer": "Climax Studio",
-      "publisher": "Ubisoft",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.33447.13916503054786009.154bb28b-8729-4712-8c24-34d746f0c6b9.3906fcfc-8f0b-410d-a789-3234764a1dc8",
-      "heroImage": "https://store-images.s-microsoft.com/image/apps.35814.13916503054786009.154bb28b-8729-4712-8c24-34d746f0c6b9.ba45b745-9a3a-47ed-bf31-452283f0ed10",
-      "screenshots": [
-        "https://store-images.s-microsoft.com/image/apps.51906.13916503054786009.154bb28b-8729-4712-8c24-34d746f0c6b9.f44e1ded-3475-497a-a10b-7ede2c08c193",
-        "https://store-images.s-microsoft.com/image/apps.18836.13916503054786009.154bb28b-8729-4712-8c24-34d746f0c6b9.d0343c1d-bba6-4794-a14d-f63a47554fb1",
-        "https://store-images.s-microsoft.com/image/apps.26303.13916503054786009.154bb28b-8729-4712-8c24-34d746f0c6b9.1b807af6-9cf2-46dc-a453-bbc04d15fe1e",
-        "https://store-images.s-microsoft.com/image/apps.7292.13916503054786009.154bb28b-8729-4712-8c24-34d746f0c6b9.06f8c7a6-58e3-4d50-a114-050ca8f525de"
-      ],
-      "videoUrl": "",
-      "videoCaption": "",
-      "releaseDate": "",
-      "categories": [
-        "Acción y aventura"
-      ],
-      "tiers": [
-        "ultimate"
-      ],
-      "platform": "pc",
-      "price": 0,
-      "msrp": 0,
-      "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
-      "rating": 0,
-      "ratingCount": 0,
-      "ageRating": 16,
-      "pegiRating": "PEGI 16",
-      "pegiDescription": "Apropiado a partir de 16 años",
-      "interactiveDescriptions": [],
-      "capabilities": [],
-      "systemRequirements": [
-        {
-          "title": "Gráficos",
-          "minimum": "nVidia GeForce GTS450 or AMD Radeon HD5770 (1024MB VRAM with Shader Model 5.0)",
-          "recommended": "nVidia GeForce GTX 470 or AMD Radeon HD5870 or better (1024MB VRAM with Shader Model 5.0)"
-        },
-        {
-          "title": "Procesador",
-          "minimum": "Intel Core 2 Duo E8200 @ 2.6 GHz or AMD Athlon II X2 240 @ 2.8 GHz",
-          "recommended": "Intel Core i3 2105 @ 3.1 GHz or AMD Phenom II X4 955 @ 3.2 GHz"
-        },
-        {
-          "title": "Memoria",
-          "minimum": "2 GB",
-          "recommended": "4 GB"
-        }
-      ],
-      "maxInstallSize": 0,
-      "hasAddOns": false,
-      "storeUrl": "https://www.xbox.com/es-es/games/store/assassin-s-creed-chronicles-india/9N0QFT016SGV"
     },
     {
       "id": "9MZ1GSWX2G53",
@@ -8416,8 +8358,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 2,
-      "ratingCount": 36,
+      "rating": 1.9,
+      "ratingCount": 37,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -8485,7 +8427,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 2,
-      "ratingCount": 40,
+      "ratingCount": 41,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -9826,8 +9768,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 2.5,
-      "ratingCount": 4,
+      "rating": 3.2,
+      "ratingCount": 6,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -12476,7 +12418,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 22332923904,
+      "maxInstallSize": 22533984256,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/dayz/BSR9NLHVF1KL"
     },
@@ -13510,7 +13452,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 1040478208,
+      "maxInstallSize": 1040650240,
       "hasAddOns": false,
       "storeUrl": "https://www.xbox.com/es-es/games/store/deep-dish-dungeon/9PPF72ZH6RP8"
     },
@@ -14318,7 +14260,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 216736194560,
+      "maxInstallSize": 216735825920,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/diablo-iv-standard-edition/9N8117TM8JL3"
     },
@@ -17000,7 +16942,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 2.2,
-      "ratingCount": 179,
+      "ratingCount": 180,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -19132,7 +19074,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 2.8,
-      "ratingCount": 852,
+      "ratingCount": 851,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -19817,7 +19759,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.4,
-      "ratingCount": 190,
+      "ratingCount": 191,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -19909,8 +19851,8 @@
         "https://store-images.s-microsoft.com/image/apps.56509.64350501736896385.3b605a70-8b49-4014-ad6e-ea58a0742bd5.1a6a2cd9-2205-4a5e-88e2-2a96b1c6ece8",
         "https://store-images.s-microsoft.com/image/apps.58309.64350501736896385.3b605a70-8b49-4014-ad6e-ea58a0742bd5.f7ec563a-cc67-4f0f-bb6a-73183e093882"
       ],
-      "videoUrl": "",
-      "videoCaption": "",
+      "videoUrl": "https://cdn.trailers.xboxservices.com/trailers/00000000-0000-0000-0000-000000000000/xbox/prod/videos/mainprofile/64350501736896385/2b28a891-397b-4894-aff5-fffdb24e7086/manifest.m3u8",
+      "videoCaption": "Story Trailer",
       "releaseDate": "2014-11-18",
       "categories": [
         "Acción y aventura",
@@ -21936,8 +21878,8 @@
         "https://store-images.s-microsoft.com/image/apps.29897.13664541971149542.2f5fbe40-bf98-4cd6-8d48-94e08f070c43.27d4be85-2f52-4ee0-aaa5-5e5725ca790c",
         "https://store-images.s-microsoft.com/image/apps.29808.13664541971149542.2f5fbe40-bf98-4cd6-8d48-94e08f070c43.65d10223-a2a3-48a8-b437-0c915e79d26e"
       ],
-      "videoUrl": "https://cdn.trailers.xboxservices.com/trailers/00000000-0000-0000-0000-000000000000/xbox/prod/videos/mainprofile/14096078959159496/8a6a5d86-dc3a-4caa-8a19-14b094504122/manifest.m3u8",
-      "videoCaption": "What is For Honor",
+      "videoUrl": "https://cdn.trailers.xboxservices.com/trailers/00000000-0000-0000-0000-000000000000/xbox/prod/videos/mainprofile/14096078959159496/2d2c6e58-0778-44cf-9848-a01d0cc48cc4/manifest.m3u8",
+      "videoCaption": "Y10S3 Gameplay Trailer",
       "releaseDate": "2026-07-21",
       "categories": [
         "Acción y aventura"
@@ -22112,7 +22054,7 @@
       "hasDiscount": true,
       "discountPercent": 10,
       "rating": 4.7,
-      "ratingCount": 18,
+      "ratingCount": 19,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -22219,7 +22161,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.7,
-      "ratingCount": 4553,
+      "ratingCount": 4555,
       "ageRating": 12,
       "pegiRating": "Supervisión parental recomendada",
       "pegiDescription": "Supervisión parental recomendada",
@@ -23206,7 +23148,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 2.8,
-      "ratingCount": 366,
+      "ratingCount": 367,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -23435,7 +23377,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.4,
-      "ratingCount": 341,
+      "ratingCount": 352,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -23620,7 +23562,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.1,
-      "ratingCount": 169,
+      "ratingCount": 170,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -24229,7 +24171,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4,
-      "ratingCount": 167,
+      "ratingCount": 168,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -25119,7 +25061,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 39374180352,
+      "maxInstallSize": 21056917504,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/grounded-2-game-preview/9P77PG7DK0W2"
     },
@@ -25464,7 +25406,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.5,
-      "ratingCount": 983,
+      "ratingCount": 984,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -25892,8 +25834,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 3.8,
-      "ratingCount": 195,
+      "rating": 3.7,
+      "ratingCount": 196,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -27314,7 +27256,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3,
-      "ratingCount": 105,
+      "ratingCount": 106,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -32531,7 +32473,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.4,
-      "ratingCount": 38,
+      "ratingCount": 39,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -32692,7 +32634,7 @@
       "hasDiscount": true,
       "discountPercent": 30,
       "rating": 2.1,
-      "ratingCount": 704,
+      "ratingCount": 705,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -32826,7 +32768,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.7,
-      "ratingCount": 11345,
+      "ratingCount": 11346,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -32888,7 +32830,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.7,
-      "ratingCount": 51871,
+      "ratingCount": 51875,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -33142,7 +33084,7 @@
           "recommended": "Controladora de Xbox"
         }
       ],
-      "maxInstallSize": 9933160448,
+      "maxInstallSize": 9734627328,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/minecraft-dungeons-ii/9PM3J18QM4Q3"
     },
@@ -33351,7 +33293,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4,
-      "ratingCount": 15996,
+      "ratingCount": 15997,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -33924,7 +33866,7 @@
           "recommended": "Micrófono integrado"
         }
       ],
-      "maxInstallSize": 38119874560,
+      "maxInstallSize": 38193836032,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/mistfall-hunter/9P8X6TVW9ZW8"
     },
@@ -33962,7 +33904,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.1,
-      "ratingCount": 176,
+      "ratingCount": 177,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -35022,7 +34964,7 @@
           "recommended": "Controladora de Xbox"
         }
       ],
-      "maxInstallSize": 108502667264,
+      "maxInstallSize": 109185417216,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/naraka-bladepoint/9P8SQQJ5T94B"
     },
@@ -35381,7 +35323,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.5,
-      "ratingCount": 11,
+      "ratingCount": 12,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -36756,7 +36698,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 2.2,
-      "ratingCount": 137,
+      "ratingCount": 138,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -36815,7 +36757,7 @@
           "recommended": "Mouse integrado"
         }
       ],
-      "maxInstallSize": 117831106560,
+      "maxInstallSize": 121135480832,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/once-human/9N0QWXC09MPT"
     },
@@ -36853,7 +36795,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.8,
-      "ratingCount": 393,
+      "ratingCount": 392,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -37450,9 +37392,9 @@
       "discountPercent": 0,
       "rating": 3.6,
       "ratingCount": 928,
-      "ageRating": 12,
-      "pegiRating": "PEGI 12",
-      "pegiDescription": "Apropiado a partir de 12 años",
+      "ageRating": 16,
+      "pegiRating": "PEGI 16",
+      "pegiDescription": "Apropiado a partir de 16 años",
       "interactiveDescriptions": [
         "Compras dentro del juego (Incluye artículos aleatorios)"
       ],
@@ -38783,7 +38725,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.7,
-      "ratingCount": 35,
+      "ratingCount": 36,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -40245,7 +40187,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.2,
-      "ratingCount": 1237,
+      "ratingCount": 1238,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -42061,7 +42003,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.5,
-      "ratingCount": 332,
+      "ratingCount": 335,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -43098,7 +43040,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.9,
-      "ratingCount": 30,
+      "ratingCount": 31,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -43538,6 +43480,7 @@
       ],
       "tiers": [
         "pc",
+        "premium",
         "ultimate"
       ],
       "platform": "pc",
@@ -45018,8 +44961,8 @@
         "https://store-images.s-microsoft.com/image/apps.10760.13728552621924096.0cd3efeb-b735-4387-8e4f-30192a8d5ffc.813d880b-358c-4b76-b147-eee4a198b6b6",
         "https://store-images.s-microsoft.com/image/apps.38482.13728552621924096.0cd3efeb-b735-4387-8e4f-30192a8d5ffc.2f87ed32-b1a4-4604-8279-126a44a27a82"
       ],
-      "videoUrl": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftassets/cc6fc80e-7cde-42f2-9b02-145ef9332093-AVS.m3u8?packagedStreaming=true",
-      "videoCaption": "SnowRunner - Conquer the Wilderness Trailer",
+      "videoUrl": "https://cdn.trailers.xboxservices.com/trailers/00000000-0000-0000-0000-000000000000/xbox/prod/videos/mainprofile/13728552621924096/b38603bf-48e7-47b4-8d88-c2c3ed3baba4/manifest.m3u8",
+      "videoCaption": "SnowRunner - Season 18: Patch & Power",
       "releaseDate": "2021-05-18",
       "categories": [
         "Simulación"
@@ -45892,7 +45835,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.3,
-      "ratingCount": 366,
+      "ratingCount": 365,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -45950,7 +45893,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.3,
-      "ratingCount": 236,
+      "ratingCount": 237,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -48460,8 +48403,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 2.9,
-      "ratingCount": 20,
+      "rating": 3,
+      "ratingCount": 21,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -50419,16 +50362,16 @@
       "shortDescription": "THE FINALS es el espectáculo de combate virtual definitivo en el que tu equipo y tú lucharéis por haceros con la fama, las riquezas y el favor de los generosos patrocinadores de temporada. Este shooter en primera persona por equipos y gratis enfrentará a concursantes en arenas virtuales inspiradas en ubicaciones reales que podrán alterar e incluso destruir.",
       "developer": "Embark Studios AB",
       "publisher": "Embark Studios AB",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.61064.14187080498030026.0dd8c398-3cd8-46a2-a68f-9c4f3d2d879b.4b09caf9-a9b4-4196-bb25-85ec20849310",
-      "heroImage": "https://store-images.s-microsoft.com/image/apps.24033.14187080498030026.0dd8c398-3cd8-46a2-a68f-9c4f3d2d879b.066f6fa1-9c76-48f9-aa9d-0e6c85be8a67",
+      "imageUrl": "https://store-images.s-microsoft.com/image/apps.64644.14187080498030026.59e4e911-b9e6-4100-966e-ab13c66cf874.713c07d0-8c65-4b9a-b897-7fa57beb0215",
+      "heroImage": "https://store-images.s-microsoft.com/image/apps.47858.14187080498030026.59e4e911-b9e6-4100-966e-ab13c66cf874.d1d5c61b-1f1f-4c42-9891-ad9e1c9a642b",
       "screenshots": [
-        "https://store-images.s-microsoft.com/image/apps.36193.14187080498030026.011bb85e-7d87-44d7-9c64-267898a423ea.2f6cbc14-56b4-4d3c-b894-6b6db5d0fc37",
-        "https://store-images.s-microsoft.com/image/apps.25122.14187080498030026.011bb85e-7d87-44d7-9c64-267898a423ea.ae3628f3-f14b-4829-988c-ba11237301a7",
-        "https://store-images.s-microsoft.com/image/apps.17657.14187080498030026.011bb85e-7d87-44d7-9c64-267898a423ea.a5ae4b87-26d3-4d36-bc92-84f402001eca",
-        "https://store-images.s-microsoft.com/image/apps.14238.14187080498030026.011bb85e-7d87-44d7-9c64-267898a423ea.672c15a0-1c95-4c53-afc9-439bfd55873f"
+        "https://store-images.s-microsoft.com/image/apps.18366.14187080498030026.59e4e911-b9e6-4100-966e-ab13c66cf874.a5797a86-3b4b-4f87-b20f-1a3b6d0e917b",
+        "https://store-images.s-microsoft.com/image/apps.27828.14187080498030026.59e4e911-b9e6-4100-966e-ab13c66cf874.feb8fd34-9dfc-4a9a-a885-3cc8c919c1bc",
+        "https://store-images.s-microsoft.com/image/apps.35377.14187080498030026.59e4e911-b9e6-4100-966e-ab13c66cf874.237c563f-9610-4e17-ac2d-359bf685fae3",
+        "https://store-images.s-microsoft.com/image/apps.20324.14187080498030026.59e4e911-b9e6-4100-966e-ab13c66cf874.1fa5e30e-f157-49b6-9869-9ba2bf4bbdad"
       ],
-      "videoUrl": "https://cdn.trailers.xboxservices.com/trailers/00000000-0000-0000-0000-000000000000/xbox/prod/videos/mainprofile/14187080498030026/8c32e21c-8caf-4307-93fc-7843102dc4d4/manifest.m3u8",
-      "videoCaption": "THE FINALS - Season 11 Launch Trailer",
+      "videoUrl": "https://cdn.trailers.xboxservices.com/trailers/00000000-0000-0000-0000-000000000000/xbox/prod/videos/mainprofile/14187080498030026/c3c2753d-d702-416a-a820-30522bbb4d7d/manifest.m3u8",
+      "videoCaption": "THE FINALS - Season 12 Trailer",
       "releaseDate": "2023-12-08",
       "categories": [
         "Shooter"
@@ -50978,7 +50921,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.2,
-      "ratingCount": 160,
+      "ratingCount": 161,
       "ageRating": 18,
       "pegiRating": "PEGI 18 PROVISIONAL",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -54284,48 +54227,6 @@
       "storeUrl": "https://www.xbox.com/es-es/games/store/trials-of-the-blood-dragon/BPPR6D5C2GLF"
     },
     {
-      "id": "9PG0ZSTFBL1T",
-      "title": "TRIALS OF THE BLOOD DRAGON",
-      "description": "2019 - AHORA\nEn un mundo en el que los Dragones Sangrientos, bestias de origen desconocido, campan a sus anchas.\nEn un tiempo en el que el futuro ya no es el que solía ser, un hombre...\nNo, espera...\nUn chico... y una chica... Sí, un chico y una chica.\nSon Roxanne y Slayter, hijos del legendario Rex Power Colt. Son duros como su padre, listos como su madre y los mejores que ha habido jamás. 12 años después de la 2ª guerra de Vietnam, van a la 4ª para salvar el día, la libertad y el mundo.\n\nDescubre una experiencia épica para un jugador con la combinación única de la competitividad, precisión y física de Trials, y la no tan precisa acción repleta de armas y luces de neón de Blood Dragon.\nDisfruta de las vistas en la zona de guerra de Vietnam, haz un ajuste de cuentas en Miami, enfréntate a los héroes de la tele en Tokio y desvíate al espacio exterior. Joder, ¡si hasta irás y volverás del infierno! El futuro ha vuelto. ¿Te atreves?\n\nIncluye una copia digital de la banda sonora original.",
-      "shortDescription": "Estamos en el año 2019. Roxanne y Slayter, hijos del legendario Rex Power Colt, se dirigen hacia la 4ª guerra de Vietnam para devolver la libertad y salvar el mundo. Descubre una experiencia épica para un jugador con la combinación única de la competitividad, precisión y física de Trials, y la no tan precisa acción repleta de armas y luces de neón de Blood Dragon. El futuro ha vuelto. ¿Te atreves?",
-      "developer": "RedLynx",
-      "publisher": "Ubisoft",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.24854.14190127076086840.f3bec8cd-e217-49cb-9e54-8581edf2a9ce.a29863d8-9eb2-4177-b8f0-0eda06d2d9b9",
-      "heroImage": "https://store-images.s-microsoft.com/image/apps.44102.14190127076086840.f3bec8cd-e217-49cb-9e54-8581edf2a9ce.eedf8a4b-d60d-4c8d-8642-7574134e0f83",
-      "screenshots": [
-        "https://store-images.s-microsoft.com/image/apps.10886.14190127076086840.f3bec8cd-e217-49cb-9e54-8581edf2a9ce.27b6e5cc-c5e8-42bc-8611-e7fa900481f1",
-        "https://store-images.s-microsoft.com/image/apps.64416.14190127076086840.f3bec8cd-e217-49cb-9e54-8581edf2a9ce.797cbf5a-7479-40ec-bda1-506e94a5db55",
-        "https://store-images.s-microsoft.com/image/apps.30734.14190127076086840.f3bec8cd-e217-49cb-9e54-8581edf2a9ce.c502dd47-67e9-4af3-ac7a-fdde7482930e",
-        "https://store-images.s-microsoft.com/image/apps.32774.14190127076086840.f3bec8cd-e217-49cb-9e54-8581edf2a9ce.cb3b861d-49ca-48fe-a196-4f064fbdfdc9"
-      ],
-      "videoUrl": "",
-      "videoCaption": "",
-      "releaseDate": "",
-      "categories": [
-        "Plataformas"
-      ],
-      "tiers": [
-        "ultimate"
-      ],
-      "platform": "pc",
-      "price": 0,
-      "msrp": 0,
-      "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
-      "rating": 0,
-      "ratingCount": 0,
-      "ageRating": 16,
-      "pegiRating": "PEGI 16",
-      "pegiDescription": "Apropiado a partir de 16 años",
-      "interactiveDescriptions": [],
-      "capabilities": [],
-      "systemRequirements": [],
-      "maxInstallSize": 0,
-      "hasAddOns": false,
-      "storeUrl": "https://www.xbox.com/es-es/games/store/trials-of-the-blood-dragon/9PG0ZSTFBL1T"
-    },
-    {
       "id": "9N3F9256SF8K",
       "title": "Trials Rising",
       "description": "Vive la acción más desenfrenada y las carreras más alucinantes en la nueva entrega de la saga Trials. Supera desafíos repletos de novedades, competiciones y circuitos.\n\nConduce por los circuitos más desafiantes de todo el mundo: desde la Gran Muralla China y Nueva York, hasta la Torre Eiffel y muchos más.\n\nCon la nueva Moto Tándem, podrás controlar una moto con dos pilotos junto a un amigo. \n\nVence a rivales de todo el mundo en el modo online y alcanza la gloria.\n\nCrea y comparte niveles únicos en la Central de pistas gracias a los más de 10 000 objetos que tendrás a tu disposición. Disfruta de un sinfín de posibilidades y diversión infinita.\n",
@@ -55117,8 +55018,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 3.7,
-      "ratingCount": 44,
+      "rating": 3.8,
+      "ratingCount": 46,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -55425,7 +55326,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.8,
-      "ratingCount": 504,
+      "ratingCount": 503,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -56216,7 +56117,7 @@
           "recommended": "Mouse integrado"
         }
       ],
-      "maxInstallSize": 78931435520,
+      "maxInstallSize": 78964707328,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/war-thunder/BX1DTCBD1HXJ"
     },
@@ -56664,7 +56565,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.3,
-      "ratingCount": 258,
+      "ratingCount": 259,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -57806,7 +57707,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.8,
-      "ratingCount": 69,
+      "ratingCount": 70,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -59351,8 +59252,8 @@
       "shortDescription": "World of Tanks: HEAT es un juego de disparos JcJ gratis con habilidades y combates explosivos en equipo. Maneja blindados personalizables, usa habilidades de agentes en batallas en línea que combinan táctica e intensidad al más puro estilo FPS.",
       "developer": "Wargaming.net",
       "publisher": "Wargaming.net",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.28387.13914660851585642.a21c2c87-a21a-4263-9436-669b54cfa894.7bd00d59-6fb9-4b0a-b3d2-eed534f2e0c1",
-      "heroImage": "https://store-images.s-microsoft.com/image/apps.50921.13914660851585642.f6f3ec18-2aff-4783-b6bb-20b76d4e2315.0dc07dab-5184-4350-a89e-6ff60a954201",
+      "imageUrl": "https://store-images.s-microsoft.com/image/apps.46446.13914660851585642.bf740845-6b4f-4219-8754-f267907650cd.86215b6f-798f-45e3-bcde-737ebc123907",
+      "heroImage": "https://store-images.s-microsoft.com/image/apps.37452.13914660851585642.bf740845-6b4f-4219-8754-f267907650cd.5c5e08d0-567c-44f0-bc41-12bd4405b109",
       "screenshots": [
         "https://store-images.s-microsoft.com/image/apps.48804.13914660851585642.fe38acd5-d659-41ed-9bbf-feab6fa3d9c7.1eab5927-aba9-4471-9b42-9c5b00a613e2",
         "https://store-images.s-microsoft.com/image/apps.8169.13914660851585642.fe38acd5-d659-41ed-9bbf-feab6fa3d9c7.094c5a9e-c0f8-44c5-9c94-0203d597e2e1",
@@ -59456,7 +59357,7 @@
           "recommended": "Micrófono integrado"
         }
       ],
-      "maxInstallSize": 28773519360,
+      "maxInstallSize": 29131890688,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/world-of-tanks-heat/9N11JM7F5CXK"
     },
@@ -60256,16 +60157,16 @@
       "shortDescription": "Emprende una aventura este universo postapocalíptico, explora las peligrosas Cavidades y descubre los secretos detrás del último bastión de la civilización.",
       "developer": "Shanghai JiaoZhai Technology Co.,Ltd.",
       "publisher": "COGNOSPHERE PTE. LTD.",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.22806.13974579424110118.c5a91c87-b857-4a17-add3-fc6ba76c3f74.681170dd-5c61-42ed-b68e-f25aa46d0e5c",
-      "heroImage": "https://store-images.s-microsoft.com/image/apps.49401.13974579424110118.c5a91c87-b857-4a17-add3-fc6ba76c3f74.3c112ef0-28b8-4395-8ec6-363c9fa24e3f",
+      "imageUrl": "https://store-images.s-microsoft.com/image/apps.62467.13974579424110118.f25d72f8-8c3b-4aa5-9d1f-ec335023c9b3.14b194b5-8632-4c40-bcf7-7082df3db95d",
+      "heroImage": "https://store-images.s-microsoft.com/image/apps.2092.13974579424110118.f25d72f8-8c3b-4aa5-9d1f-ec335023c9b3.78fe22d3-9d41-497f-b248-ae00b62ffbc2",
       "screenshots": [
-        "https://store-images.s-microsoft.com/image/apps.51778.13974579424110118.c5a91c87-b857-4a17-add3-fc6ba76c3f74.3f2b8cf6-326d-4e6d-b000-47aff00f3fe9",
-        "https://store-images.s-microsoft.com/image/apps.59889.13974579424110118.c5a91c87-b857-4a17-add3-fc6ba76c3f74.9e2cb668-07c5-461b-97b9-b8f4c4263a51",
-        "https://store-images.s-microsoft.com/image/apps.38775.13974579424110118.c5a91c87-b857-4a17-add3-fc6ba76c3f74.f26fbf9e-1b4d-4459-9275-313ba83f4d84",
-        "https://store-images.s-microsoft.com/image/apps.18572.13974579424110118.c5a91c87-b857-4a17-add3-fc6ba76c3f74.115aae94-484b-438c-ac83-5d2668b2b024"
+        "https://store-images.s-microsoft.com/image/apps.51963.13974579424110118.f25d72f8-8c3b-4aa5-9d1f-ec335023c9b3.efdcccd5-67b3-4566-b28d-8c7ec76614a1",
+        "https://store-images.s-microsoft.com/image/apps.1981.13974579424110118.f25d72f8-8c3b-4aa5-9d1f-ec335023c9b3.6551b96f-b710-47e3-b9a5-0806ac6fd124",
+        "https://store-images.s-microsoft.com/image/apps.21016.13974579424110118.f25d72f8-8c3b-4aa5-9d1f-ec335023c9b3.00813cc0-1078-4920-a49d-38da0ccb2352",
+        "https://store-images.s-microsoft.com/image/apps.27990.13974579424110118.f25d72f8-8c3b-4aa5-9d1f-ec335023c9b3.e423da30-bf90-4a57-a904-c29bd7fe42fb"
       ],
-      "videoUrl": "https://cdn.trailers.xboxservices.com/trailers/00000000-0000-0000-0000-000000000000/xbox/prod/videos/mainprofile/13974579424110118/d0b0d8fa-e983-46c8-8374-86d4518f2f5b/manifest.m3u8",
-      "videoCaption": "Sus secretos",
+      "videoUrl": "https://cdn.trailers.xboxservices.com/trailers/00000000-0000-0000-0000-000000000000/xbox/prod/videos/mainprofile/13974579424110118/d7f512cb-28e9-455f-b9fe-a428ae443628/manifest.m3u8",
+      "videoCaption": "Viaje de regreso a los cielos",
       "releaseDate": "2025-06-05",
       "categories": [
         "Acción y aventura"
