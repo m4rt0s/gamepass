@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-22T13:16:41.140Z",
+  "updatedAt": "2026-10-23T12:55:46.568Z",
   "market": "ES",
   "language": "es-ES",
   "totalGames": 810,
@@ -645,7 +645,7 @@
       "description": "Congrega a tus amigos y sumergíos en la acción frenética de disparos multijugador de Abyssus. Abríos paso luchando a través de impresionantes niveles creados a mano en una aventura roguelite que pondrá a prueba tus habilidades tácticas. Blande poderosas armas del mar y mejóralas con tecnología ancestral para ganar ventaja sobre tus oponentes. Obtén bendiciones divinas para mejorar tu potencia de fuego con efectos elementales y místicos.\nEn un mundo movido por la salmuera, una sustancia inusual y poderosa que solo se encuentra en las profundidades del mar, tu equipo de osados exploradores es reclutado para recuperar un gran depósito bajo las ruinas de una antigua civilización. Sin embargo, vuestra misión se convierte en una frenética batalla por la supervivencia cuando los habitantes corruptos de ese reino sumergido se alzan contra vosotros.\n¿Sobrevivirás para volver a ver la superficie o el abismo reclamará tu vida?\n\nSUMÉRGETE EN LA ACCIÓN CON HASTA 4 JUGADORES EN MODO COOPERATIVO\n\nEn Abyssus, cooperar es sobrevivir. Forma equipo con otros exploradores y escoge con cuidado cargas sinérgicas, habilidades, trajes y modificadores de armas. Trabajad juntos y enfrentaos a una despiadada tormenta al estilo roguelite, donde ninguna partida será igual a la anterior.\n\nUN OCÉANO DE OPCIONES DE PERSONALIZACIÓN DE ARMAS Y PERSONAJES\n\nEmpuña armamento con alto nivel de personalización con el poder de la salmuera e imbúyelas con el poder de los dioses primigenios Domina 9 armas y 45 modificadores de armas, mejorando tus habilidades y traje mientras te enfrentas a los guardianes mutantes del reino submarino.\n\nEL ABISMO TE DEVUELVE EL DISPARO\n\nPartida tras partida, podrás acceder a más y más mejoras y opciones tácticas, pero la potencia de fuego no bastará para salvarte de los habitantes de las profundidades. Dominar las armas viscerales y la acción frenética de Abyssus requiere coordinación táctica, capacidad de posicionamiento y trabajo en equipo.\n\nDESVELA LOS SECRETOS DE LAS PROFUNDIDADES\n\nEl mundo de Abyssus es rico en atmósfera y sumergido en misterio. ¿Qué secretos sin desvelar moran en el reino sumergido? ¿Qué le da a la salmuera sus inexplicables poderes? ¿Podemos usar un rape como arma? Las respuestas yacen en las profundidades…\n\nCARACTERÍSTICAS\n\n● Acción frenética y visceral de disparos en primera persona, con una excelente capacidad de reacción en el combate con armas.\n● Hasta 4 jugadores en modo cooperativo.\n● Metaprogresión al estilo roguelite con ascensos, recompensas y desbloqueos.\n● Más de 70 niveles creados a mano, con secuencias procedurales para hacer que cada recorrido sea una experiencia nueva.\n● 9 armas personalizables con 45 modificadores de armas.\n● Más de 140 modificadores de la forja ancestral para potenciar aún más las armas y habilidades.\n● Muchas opciones de personalización antes y durante la partida.\n● 36 enemigos diferentes y 12 jefes que pondrán a prueba tus habilidades.\n● Más de 250 amuletos y bendiciones para crear la combinación perfecta.\n",
       "shortDescription": "Elige tu arsenal, ábrete paso a través de habitantes corruptos de una antigua civilización sumergida y blande el poder de los dioses en Abyssus, un frenético juego de disparos en primera persona y una aventura roguelite de estilo brinepunk para 1-4 jugadores.",
       "developer": "DoubleMoose Games",
-      "publisher": "The Arcade Crew",
+      "publisher": "Dotemu",
       "imageUrl": "https://store-images.s-microsoft.com/image/apps.10742.14084222450778387.acfee501-4801-4255-b7de-e5a0ffccea4c.16443eb9-e5fd-40aa-afc5-8f8c418bbc5f",
       "heroImage": "https://store-images.s-microsoft.com/image/apps.21322.14084222450778387.acfee501-4801-4255-b7de-e5a0ffccea4c.64c8a01d-35d5-464c-ba64-b52ca709d2a8",
       "screenshots": [
@@ -931,7 +931,7 @@
         "Xbox Play Anywhere"
       ],
       "systemRequirements": [],
-      "maxInstallSize": 68235837440,
+      "maxInstallSize": 68235747328,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/age-of-empires-ii-definitive-edition/9N42SSSX2MTG"
     },
@@ -2800,7 +2800,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.7,
-      "ratingCount": 21164,
+      "ratingCount": 21165,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -6592,7 +6592,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 2,
-      "ratingCount": 1,
+      "ratingCount": 2,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -7419,8 +7419,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 2.2,
-      "ratingCount": 8,
+      "rating": 2.1,
+      "ratingCount": 9,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -9768,8 +9768,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 3.4,
-      "ratingCount": 7,
+      "rating": 3.6,
+      "ratingCount": 9,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -11458,7 +11458,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.9,
-      "ratingCount": 53,
+      "ratingCount": 54,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -12795,7 +12795,7 @@
       "hasDiscount": true,
       "discountPercent": 80,
       "rating": 4.7,
-      "ratingCount": 256,
+      "ratingCount": 257,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -13112,7 +13112,7 @@
           "recommended": "Controladora de Xbox"
         }
       ],
-      "maxInstallSize": 3647844352,
+      "maxInstallSize": 3690471424,
       "hasAddOns": false,
       "storeUrl": "https://www.xbox.com/es-es/games/store/dead-static-drive/9MXWL7VJ2SJW"
     },
@@ -13452,7 +13452,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 1040650240,
+      "maxInstallSize": 1040703488,
       "hasAddOns": false,
       "storeUrl": "https://www.xbox.com/es-es/games/store/deep-dish-dungeon/9PPF72ZH6RP8"
     },
@@ -15354,8 +15354,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 0,
-      "ratingCount": 0,
+      "rating": 3.2,
+      "ratingCount": 6,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -22155,11 +22155,11 @@
         "ultimate"
       ],
       "platform": "both",
-      "price": 17.09,
+      "price": 18.99,
       "msrp": 18.99,
       "currency": "EUR",
-      "hasDiscount": true,
-      "discountPercent": 10,
+      "hasDiscount": false,
+      "discountPercent": 0,
       "rating": 4.7,
       "ratingCount": 19,
       "ageRating": 12,
@@ -22268,7 +22268,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.7,
-      "ratingCount": 4555,
+      "ratingCount": 4557,
       "ageRating": 12,
       "pegiRating": "Supervisión parental recomendada",
       "pegiDescription": "Supervisión parental recomendada",
@@ -22595,16 +22595,16 @@
       "shortDescription": "",
       "developer": "Bad Guitar Studio",
       "publisher": "Bad Guitar Studio",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.4169.13848987134544813.d162bf9e-36cf-4556-97b2-4e3906f60e29.c00b62a2-662c-4456-80dd-e5dc2313c55b",
-      "heroImage": "https://store-images.s-microsoft.com/image/apps.15439.13848987134544813.d162bf9e-36cf-4556-97b2-4e3906f60e29.91d04bd1-97f6-4849-8cb3-abf671f9e05d",
+      "imageUrl": "https://store-images.s-microsoft.com/image/apps.16868.13848987134544813.7c1bc445-ee84-4289-ab2e-4ee6990764e8.3e3a1229-cf14-4c88-af69-ef4ea095b75a",
+      "heroImage": "https://store-images.s-microsoft.com/image/apps.1651.13848987134544813.7c1bc445-ee84-4289-ab2e-4ee6990764e8.d037cf1c-6630-485d-986b-70387d85fd7e",
       "screenshots": [
         "https://store-images.s-microsoft.com/image/apps.38783.13848987134544813.7b30c9e3-5909-4f77-afb6-d69bee0cdff7.a65cc14a-3167-4e4a-b425-c050e27383ed",
         "https://store-images.s-microsoft.com/image/apps.15644.13848987134544813.7b30c9e3-5909-4f77-afb6-d69bee0cdff7.efa316fe-b840-4c71-9738-46fd4599467a",
         "https://store-images.s-microsoft.com/image/apps.38597.13848987134544813.7b30c9e3-5909-4f77-afb6-d69bee0cdff7.6a4bceb4-6176-4086-b87b-d49d2a7634f0",
         "https://store-images.s-microsoft.com/image/apps.59546.13848987134544813.7b30c9e3-5909-4f77-afb6-d69bee0cdff7.83cf0f34-9bf7-479d-ae10-311bc200b816"
       ],
-      "videoUrl": "https://cdn.trailers.xboxservices.com/trailers/00000000-0000-0000-0000-000000000000/xbox/prod/videos/mainprofile/13848987134544813/57dcb8e3-7a2b-4c31-82e2-002c779b2eea/manifest.m3u8",
-      "videoCaption": "Season 6 Chapter 1 Preview Trailer",
+      "videoUrl": "https://cdn.trailers.xboxservices.com/trailers/00000000-0000-0000-0000-000000000000/xbox/prod/videos/mainprofile/13848987134544813/db32f144-ff77-4490-adac-b0d539392e3a/manifest.m3u8",
+      "videoCaption": "Season 6 Chapter 2 Preview Trailer",
       "releaseDate": "2025-04-29",
       "categories": [
         "Shooter"
@@ -23484,7 +23484,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.4,
-      "ratingCount": 359,
+      "ratingCount": 367,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -24301,7 +24301,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 185267318784,
+      "maxInstallSize": 190032621568,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/genshin-impact/9N7TFFRRZCC9"
     },
@@ -26350,7 +26350,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.5,
-      "ratingCount": 95,
+      "ratingCount": 94,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -28694,7 +28694,7 @@
       "hasDiscount": true,
       "discountPercent": 70,
       "rating": 4.8,
-      "ratingCount": 269,
+      "ratingCount": 270,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -29756,11 +29756,11 @@
         "ultimate"
       ],
       "platform": "console",
-      "price": 4.49,
+      "price": 29.99,
       "msrp": 29.99,
       "currency": "EUR",
-      "hasDiscount": true,
-      "discountPercent": 85,
+      "hasDiscount": false,
+      "discountPercent": 0,
       "rating": 4.1,
       "ratingCount": 265,
       "ageRating": 18,
@@ -31797,7 +31797,7 @@
       "hasDiscount": true,
       "discountPercent": 75,
       "rating": 4.8,
-      "ratingCount": 158,
+      "ratingCount": 159,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -32937,7 +32937,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.7,
-      "ratingCount": 51879,
+      "ratingCount": 51886,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -33015,7 +33015,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.7,
-      "ratingCount": 21132,
+      "ratingCount": 21133,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -33400,7 +33400,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4,
-      "ratingCount": 15998,
+      "ratingCount": 16000,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -33595,7 +33595,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.5,
-      "ratingCount": 61681,
+      "ratingCount": 61683,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -33737,7 +33737,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.9,
-      "ratingCount": 41,
+      "ratingCount": 42,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -35493,7 +35493,7 @@
           "recommended": "Controladora de Xbox"
         }
       ],
-      "maxInstallSize": 2271281152,
+      "maxInstallSize": 2280284160,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/neon-abyss-2/9P5QV5XX8S9H"
     },
@@ -36783,8 +36783,8 @@
         "https://store-images.s-microsoft.com/image/apps.62020.13916126641198036.d27e322f-c487-46ec-9a3c-e76ba4bdd576.cb4211cc-c200-4b42-baa5-b364ba25781c",
         "https://store-images.s-microsoft.com/image/apps.21652.13916126641198036.d27e322f-c487-46ec-9a3c-e76ba4bdd576.ba403201-83b6-4d12-85fe-86ecd6a41a85"
       ],
-      "videoUrl": "https://cdn.trailers.xboxservices.com/trailers/00000000-0000-0000-0000-000000000000/xbox/prod/videos/mainprofile/13916126641198036/348b0ce9-9724-401f-b4b3-0e1639ee30cb/manifest.m3u8",
-      "videoCaption": "https://partner.microsoft.com/en-us/dashboard/products/00013916126641198036/listings?listingSummaryId=b303ab8e-cad5-3ece-38bd-03fa082f884c&type=Trailer&typeId=3016764144865726662&migrated=False&parentId=b1fe181f-7fba-42d3-b58c-e062ae0ea490",
+      "videoUrl": "https://cdn.trailers.xboxservices.com/trailers/00000000-0000-0000-0000-000000000000/xbox/prod/videos/mainprofile/13916126641198036/eb1762c9-049e-4ebf-9256-d988a74ffd1e/manifest.m3u8",
+      "videoCaption": "Once Human: Isles of Abyss — Release Date Reveal Trailer",
       "releaseDate": "2026-08-25",
       "categories": [
         "Shooter",
@@ -36864,7 +36864,7 @@
           "recommended": "Mouse integrado"
         }
       ],
-      "maxInstallSize": 121135480832,
+      "maxInstallSize": 121135894528,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/once-human/9N0QWXC09MPT"
     },
@@ -37764,7 +37764,7 @@
           "recommended": "Micrófono integrado"
         }
       ],
-      "maxInstallSize": 25823760384,
+      "maxInstallSize": 25823772672,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/pax-dei/9PHGK0538TXM"
     },
@@ -40442,7 +40442,7 @@
       "hasDiscount": true,
       "discountPercent": 35,
       "rating": 2.2,
-      "ratingCount": 58,
+      "ratingCount": 59,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -41029,7 +41029,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.2,
-      "ratingCount": 563,
+      "ratingCount": 564,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -41452,7 +41452,7 @@
           "recommended": "Controladora de Xbox"
         }
       ],
-      "maxInstallSize": 12229517312,
+      "maxInstallSize": 12891045888,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/rematch/9N5K7HWXL4Q6"
     },
@@ -42110,7 +42110,7 @@
       "hasDiscount": true,
       "discountPercent": 20,
       "rating": 4.5,
-      "ratingCount": 335,
+      "ratingCount": 336,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -43224,7 +43224,7 @@
           "recommended": "Controladora de Xbox"
         }
       ],
-      "maxInstallSize": 44080865280,
+      "maxInstallSize": 44080648192,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/runescape-dragonwilds/9P402RWR63H4"
     },
@@ -43790,7 +43790,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.7,
-      "ratingCount": 2993,
+      "ratingCount": 2994,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -44984,7 +44984,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 30985572352,
+      "maxInstallSize": 30980894720,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/smite-2/9NV8W1KJSQLL"
     },
@@ -46109,7 +46109,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.9,
-      "ratingCount": 173,
+      "ratingCount": 174,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -47075,7 +47075,7 @@
       "hasDiscount": true,
       "discountPercent": 75,
       "rating": 3.7,
-      "ratingCount": 2540,
+      "ratingCount": 2541,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -49927,8 +49927,8 @@
         "https://store-images.s-microsoft.com/image/apps.53396.69742768075920623.e6c8e1ee-e782-4002-bca6-916e5cd2f37c.47850728-a8cb-46f8-ab31-7d3fca7333e0",
         "https://store-images.s-microsoft.com/image/apps.51554.69742768075920623.e6c8e1ee-e782-4002-bca6-916e5cd2f37c.5d3964d8-74c3-4b9d-8d9f-fea79608b5ce"
       ],
-      "videoUrl": "",
-      "videoCaption": "",
+      "videoUrl": "https://cdn.trailers.xboxservices.com/trailers/00000000-0000-0000-0000-000000000000/xbox/prod/videos/mainprofile/69742768075920623/810649a1-b22b-4f5c-b3e6-bf260e956000/manifest.m3u8",
+      "videoCaption": "Season Two Tomes",
       "releaseDate": "2017-06-06",
       "categories": [
         "Juegos de rol"
@@ -50342,7 +50342,7 @@
       "hasDiscount": true,
       "discountPercent": 80,
       "rating": 4.7,
-      "ratingCount": 192,
+      "ratingCount": 193,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -50645,7 +50645,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 80487202816,
+      "maxInstallSize": 80486875136,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/the-first-descendant/9P8FBXKMCLWC"
     },
@@ -55125,8 +55125,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 3.8,
-      "ratingCount": 50,
+      "rating": 3.9,
+      "ratingCount": 52,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
