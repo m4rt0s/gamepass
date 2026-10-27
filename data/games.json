@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-26T14:38:25.708Z",
+  "updatedAt": "2026-10-27T13:42:20.384Z",
   "market": "ES",
   "language": "es-ES",
-  "totalGames": 810,
+  "totalGames": 811,
   "counts": {
     "essential": 126,
     "premium": 565,
-    "pc": 471,
-    "ultimate": 716,
-    "total": 810
+    "pc": 472,
+    "ultimate": 717,
+    "total": 811
   },
   "categories": [
     "Acción y aventura",
@@ -567,7 +567,7 @@
           "recommended": "Micrófono integrado"
         }
       ],
-      "maxInstallSize": 5761155072,
+      "maxInstallSize": 5841444864,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/abiotic-factor/9P4NV23Q6QC2"
     },
@@ -818,7 +818,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.6,
-      "ratingCount": 141,
+      "ratingCount": 142,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -2800,7 +2800,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.7,
-      "ratingCount": 21168,
+      "ratingCount": 21169,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -4994,11 +4994,11 @@
         "ultimate"
       ],
       "platform": "both",
-      "price": 49.99,
+      "price": 17.49,
       "msrp": 49.99,
       "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
+      "hasDiscount": true,
+      "discountPercent": 65,
       "rating": 3.9,
       "ratingCount": 21,
       "ageRating": 16,
@@ -5114,7 +5114,7 @@
         }
       ],
       "maxInstallSize": 978731008,
-      "hasAddOns": false,
+      "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/ball-x-pit/9MWXF3SRD7QN"
     },
     {
@@ -5442,7 +5442,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.5,
-      "ratingCount": 439,
+      "ratingCount": 440,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -6562,7 +6562,7 @@
     {
       "id": "9N4ZMKC3GX4M",
       "title": "Beyond These Stars",
-      "description": "Tu gente por fin puede tomarse un respiro después de tanta incertidumbre; ahora habitan en Kewa, una ballena cósmica que se pasea por la inmensidad del universo. Erigir una ciudad en el dorso de una criatura viva supone todo un desafío, pero a medida que vayas viajando por la galaxia tu relación con ella se irá fortaleciendo y las posibilidades de expansión y exploración irán en aumento. Conoce a miembros de otras especies, satisface las necesidades y deseos de tus lugareños, y ve en busca de la verdad acerca del origen de sus ancestros y de la ballena cósmica.\n\nUNA BALLENA Y UNA CIUDAD\nLa inmensidad del espacio está repleta de misterios sin descubrir, por lo que tus lugareños no tardarán mucho en entender la importancia de trabajar codo con codo una vez que se asienten en Kewa, la ballena cósmica y el nuevo hogar al que también tendrán que cuidar.\n• Un hogar entre las estrellas: erige una ciudad llena de vida sobre el dorso de una ballena cósmica que viaja por el espacio mientras los tuyos buscan destinos donde vivir y metas que cumplir. Construye en un paraje que te recibe de la forma más inhóspita posible, salvo por una mota verde que surge en torno a una charca. Planifica con cuidado tu asentamiento, pues la producción podrá verse afectada por el entorno natural. ¿Distribuirás tus construcciones respetando el entorno natural? ¿O acaso optarás por modificar el paisaje para poder sacar el mejor beneficio posible de las bonificaciones de adyacencia?\n• Expansión por doquier: modifica tu entorno para que se adapte a tus necesidades. Desarrolla todo un ecosistema cavando canales y agregando sustrato con el fin de promover las condiciones idóneas para el crecimiento de los cultivos. Querrás disponer de un influjo constante materiales, por lo que deberás plantar árboles para que los bosques incrementen el oxígeno en la atmósfera y expandir, así, los límites de tu asentamiento. \n• Un equilibrio que mantener: prepárate para requerir de más cantidad de recursos a causa de los progresos tecnológicos. Las necesidades de tus lugareños no harán más que aumentar, por lo que cada vez será más importante disponer de más avances en las infraestructuras de minado y en los sistemas logísticos. Sin embargo, habrás de tener cuidado de no romper el equilibrio que mantiene el ecosistema con vida. Las tierras de Kewa son frágiles, tú hábitat podría resentirse si no le das los cuidados que precisa. ¿Pondrás en riesgo la sostenibilidad y el ecosistema que te rodea? ¿O llegarás a buscar recursos en otros mundos que te ayuden a conservar el bienestar de la ballena?\n\nVIAJE POR LAS ESTRELLAS\nAprende la historia de toda una galaxia mientras viajas a lomos de Kewa: busca respuestas sobre tu procedencia, halla el origen de las ballenas cósmicas y descubre la naturaleza del complejo entramado que nos une.\n• Puestos remotos: Kewa te ofrece todo cuanto necesitas, pero esto no quiere decir que puedas explotar sus recursos sin límite alguno. Es probable que llegue un punto en el que empieces a carecer de ciertos recursos o que el espacio sea insuficiente, por lo que deberás crear puestos remotos en otros planetas donde buscar materiales. Eso sí, a menos que haya una comprensión mutua entre Kewa y tu pueblo, te costará predecir cuándo decidirá abandonar un sistema, y no podrás calcular cuánto tiempo te queda antes de partir.\n• Compañera de viajes: Kewa no es una mascota que vaya a amoldarse a tu estilo de vida. Es un ser independiente que añora una especie de conexión emocional. Tu hogar está vivo, tiene sus propios sueños y aspiraciones que irán surgiendo en el transcurso de la travesía espacial. Si consigues entenderla, podréis crear una relación simbiótica entre ambas especies. Podríais llegar a un punto en común y viajar hacia un mismo objetivo a lo largo y ancho del universo.\n• Amistades siderales: A lo largo de la travesía te toparás con alienígenas que te brindarán oportunidades únicas: misiones adicionales con sus debidas recompensas, tratos comerciales y nuevas tecnologías.\n\nMantén la balanza en perfecto equilibrio, sin olvidarte de que Kewa y los tuyos deberán coexistir en pos de la supervivencia y la prosperidad. Beyond These Stars te presenta un mundo que respira bajo tus pies y que decide acoger a tu civilización, que deberá ajustar su sistema logístico a tan especiales circunstancias.",
+      "description": "Tu gente por fin puede tomarse un respiro después de tanta incertidumbre; ahora habitan en Kewa, una ballena cósmica que se pasea por la inmensidad del universo. Erigir una ciudad en el dorso de una criatura viva supone todo un desafío, pero a medida que vayas viajando por la galaxia tu relación con ella se irá fortaleciendo y las posibilidades de expansión y exploración irán en aumento. Conoce a miembros de otras especies, satisface las necesidades y deseos de tus humis, y ve en busca de la verdad acerca del origen de sus ancestros y de la ballena cósmica.\n\nUNA BALLENA Y UNA CIUDAD\nLa inmensidad del espacio está repleta de misterios sin descubrir, por lo que tus humis no tardarán mucho en entender la importancia de trabajar codo con codo una vez que se asienten en Kewa, la ballena cósmica y el nuevo hogar al que también tendrán que cuidar.\n• Un hogar entre las estrellas: erige una ciudad llena de vida sobre el dorso de una ballena cósmica que viaja por el espacio mientras los tuyos buscan destinos donde vivir y metas que cumplir. Construye en un paraje que te recibe de la forma más inhóspita posible, salvo por una mota verde que surge en torno a una charca. Planifica con cuidado tu asentamiento, pues la producción podrá verse afectada por el entorno natural. ¿Distribuirás tus construcciones respetando el entorno natural? ¿O acaso optarás por modificar el paisaje para poder sacar el mejor beneficio posible de las bonificaciones de adyacencia?\n• Expansión por doquier: modifica tu entorno para que se adapte a tus necesidades. Desarrolla todo un ecosistema cavando canales y agregando sustrato con el fin de promover las condiciones idóneas para el crecimiento de los cultivos. Querrás disponer de un influjo constante materiales, por lo que deberás plantar árboles para que los bosques incrementen el oxígeno en la atmósfera y expandir, así, los límites de tu asentamiento. \n• Un equilibrio que mantener: prepárate para requerir de más cantidad de recursos a causa de los progresos tecnológicos. Las necesidades de tus humis no harán más que aumentar, por lo que cada vez será más importante disponer de más avances en las infraestructuras de minado y en los sistemas logísticos. Sin embargo, habrás de tener cuidado de no romper el equilibrio entre la necesidad y los deseos. La producción sin límites puede tener consecuencias devastadoras, nada equiparables con las de la escasez, y las tierras de Kewa son frágiles, tu hábitat podría resentirse si no le das los cuidados que precisa. ¿Pondrás en riesgo la sostenibilidad y el ecosistema que te rodea? ¿O llegarás a buscar recursos en otros mundos que te ayuden a conservar el bienestar de la ballena?\n\nVIAJE POR LAS ESTRELLAS\nAprende la historia de toda una galaxia mientras viajas a lomos de Kewa: busca respuestas sobre tu procedencia, halla el origen de las ballenas cósmicas y descubre la naturaleza del complejo entramado que nos une.\n• Puestos remotos: Kewa te ofrece todo cuanto necesitas, pero esto no quiere decir que puedas explotar sus recursos sin límite alguno. Parte en busca de nuevos planetas y estaciones espaciales en los que descubrir más fuentes de materiales y recursos nuevos. Es probable que llegue un punto en el que empieces a carecer de ciertos recursos o que el espacio sea insuficiente, por lo que deberás crear puestos remotos en otros planetas donde buscar materiales. Eso sí, a menos que haya una comprensión mutua entre Kewa y tu pueblo, te costará predecir cuándo decidirá abandonar un sistema, y no podrás calcular cuánto tiempo te queda antes de partir.\n• Compañera de viajes: Kewa no es una mascota que vaya a amoldarse a tu estilo de vida. Es un ser independiente que añora una especie de conexión emocional. Tu hogar está vivo, tiene sus propios sueños y aspiraciones que irán surgiendo en el transcurso de la travesía espacial. Si consigues entenderla, podréis crear una relación simbiótica entre ambas especies. Podríais llegar a un punto en común y viajar hacia un mismo objetivo a lo largo y ancho del universo.\n• Amistades siderales: A lo largo de la travesía te toparás con alienígenas que te brindarán oportunidades únicas: misiones adicionales con sus debidas recompensas, tratos comerciales y nuevas tecnologías.\n\nMantén la balanza en perfecto equilibrio, sin olvidarte de que Kewa y los tuyos deberán coexistir en pos de la supervivencia y la prosperidad. Beyond These Stars te presenta un mundo que respira bajo tus pies y que decide acoger a tu civilización, que deberá ajustar su sistema logístico a tan especiales circunstancias.",
       "shortDescription": "Crea una ciudad sobre una ballena cósmica con la que deberás aprender a coexistir en sus viajes estelares. Gestiona un sistema logístico complejo y atiende las necesidades de tu pueblo mientras creas puestos remotos, conoces alienígenas y descubres los secretos del universo.",
       "developer": "Balancing Monkey Games",
       "publisher": "Hooded Horse",
@@ -9823,7 +9823,7 @@
           "recommended": "Controladora de Xbox"
         }
       ],
-      "maxInstallSize": 3392544768,
+      "maxInstallSize": 3381219328,
       "hasAddOns": false,
       "storeUrl": "https://www.xbox.com/es-es/games/store/chained-beasts/9PKZRN4RJRC9"
     },
@@ -10773,11 +10773,11 @@
         "ultimate"
       ],
       "platform": "console",
-      "price": 9.99,
+      "price": 2.49,
       "msrp": 9.99,
       "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
+      "hasDiscount": true,
+      "discountPercent": 75,
       "rating": 3.4,
       "ratingCount": 65,
       "ageRating": 12,
@@ -10830,7 +10830,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.9,
-      "ratingCount": 130,
+      "ratingCount": 131,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -14375,8 +14375,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 4.5,
-      "ratingCount": 6,
+      "rating": 4.6,
+      "ratingCount": 7,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -14547,7 +14547,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.1,
-      "ratingCount": 75,
+      "ratingCount": 76,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -15355,7 +15355,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.6,
-      "ratingCount": 9,
+      "ratingCount": 10,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -22229,7 +22229,7 @@
           "recommended": "Controladora de Xbox"
         }
       ],
-      "maxInstallSize": 10320519168,
+      "maxInstallSize": 10321010688,
       "hasAddOns": false,
       "storeUrl": "https://www.xbox.com/es-es/games/store/forever-ago/9NFB47H2SDRX"
     },
@@ -22485,7 +22485,7 @@
           "recommended": "Controladora de Xbox"
         }
       ],
-      "maxInstallSize": 171545784320,
+      "maxInstallSize": 171682643968,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/forza-horizon-6-standard-edition/9N431PX143P8"
     },
@@ -23070,7 +23070,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.6,
-      "ratingCount": 11277,
+      "ratingCount": 11278,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -23376,7 +23376,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.4,
-      "ratingCount": 4660,
+      "ratingCount": 4663,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -23484,7 +23484,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.4,
-      "ratingCount": 383,
+      "ratingCount": 389,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -28210,7 +28210,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.2,
-      "ratingCount": 915,
+      "ratingCount": 916,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -29693,8 +29693,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 3.8,
-      "ratingCount": 22,
+      "rating": 3.7,
+      "ratingCount": 23,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -30672,7 +30672,7 @@
       "hasDiscount": true,
       "discountPercent": 90,
       "rating": 4.3,
-      "ratingCount": 213,
+      "ratingCount": 214,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -31192,7 +31192,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.3,
-      "ratingCount": 81,
+      "ratingCount": 82,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -31797,7 +31797,7 @@
       "hasDiscount": true,
       "discountPercent": 75,
       "rating": 4.8,
-      "ratingCount": 160,
+      "ratingCount": 161,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -31989,7 +31989,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 16465248256,
+      "maxInstallSize": 16591212544,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/mavrix-by-matt-jones/9NZX67J81X6F"
     },
@@ -32233,7 +32233,7 @@
           "recommended": "16 GB"
         }
       ],
-      "maxInstallSize": 119830523904,
+      "maxInstallSize": 119797018624,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/mechwarrior-5-mercenaries/9PB86W3JK8Z5"
     },
@@ -32735,11 +32735,11 @@
         "ultimate"
       ],
       "platform": "both",
-      "price": 55.92,
+      "price": 79.89,
       "msrp": 79.89,
       "currency": "EUR",
-      "hasDiscount": true,
-      "discountPercent": 30,
+      "hasDiscount": false,
+      "discountPercent": 0,
       "rating": 2.1,
       "ratingCount": 705,
       "ageRating": 3,
@@ -32875,7 +32875,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.7,
-      "ratingCount": 11348,
+      "ratingCount": 11349,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -32937,7 +32937,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.7,
-      "ratingCount": 51905,
+      "ratingCount": 51908,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -33046,7 +33046,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 2276192256,
+      "maxInstallSize": 2308943872,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/minecraft/9MVXMVT8ZKWC"
     },
@@ -33400,7 +33400,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4,
-      "ratingCount": 16005,
+      "ratingCount": 16009,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -33497,7 +33497,7 @@
           "recommended": "8 GB"
         }
       ],
-      "maxInstallSize": 2232659968,
+      "maxInstallSize": 2244055040,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/minecraft-preview-for-windows/9P5X4QVLC2XR"
     },
@@ -33558,7 +33558,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 2402189312,
+      "maxInstallSize": 2419466240,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/minecraft-preview-for-xbox/9NQ19C36R0VD"
     },
@@ -33595,7 +33595,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.5,
-      "ratingCount": 61696,
+      "ratingCount": 61700,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -33609,7 +33609,7 @@
         "Un jugador"
       ],
       "systemRequirements": [],
-      "maxInstallSize": 2069975040,
+      "maxInstallSize": 2087206912,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/minecraft-java-bedrock-edition-for-pc/9NXP44L49SHJ"
     },
@@ -34011,7 +34011,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.1,
-      "ratingCount": 177,
+      "ratingCount": 178,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -36392,7 +36392,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.9,
-      "ratingCount": 99,
+      "ratingCount": 100,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -36500,11 +36500,11 @@
         "ultimate"
       ],
       "platform": "both",
-      "price": 49.99,
+      "price": 19.99,
       "msrp": 49.99,
       "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
+      "hasDiscount": true,
+      "discountPercent": 60,
       "rating": 3.9,
       "ratingCount": 777,
       "ageRating": 12,
@@ -36775,8 +36775,8 @@
       "shortDescription": "Once Human es un juego de supervivencia multijugadoren un mundo abierto postapocalíptico. Únete a tus amigos paraluchar por la supervivencia, construye tu santuario y conquista aterradorasaberraciones para desentrañar la verdad que hay detrásdel apocalipsis.",
       "developer": "NETEASE INTERACTIVE ENTERTAINMENT PTE.LTD",
       "publisher": "NETEASE INTERACTIVE ENTERTAINMENT PTE.LTD",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.26737.13916126641198036.93e1b525-8641-4737-a69b-7287498c268a.dc8a8b1c-9323-4ba2-8bcc-953be8a9c701",
-      "heroImage": "https://store-images.s-microsoft.com/image/apps.42166.13916126641198036.93e1b525-8641-4737-a69b-7287498c268a.175f7f1a-408c-4f9c-8d77-0fa1ed7a323d",
+      "imageUrl": "https://store-images.s-microsoft.com/image/apps.6246.13916126641198036.09cb027a-0db0-4ac0-8459-ee6b87dc11cc.41b67786-ad5b-43c9-acbb-7ea6151faf32",
+      "heroImage": "https://store-images.s-microsoft.com/image/apps.34360.13916126641198036.09cb027a-0db0-4ac0-8459-ee6b87dc11cc.e895c540-5b17-4918-b98e-fc33815dc308",
       "screenshots": [
         "https://store-images.s-microsoft.com/image/apps.63777.13916126641198036.d27e322f-c487-46ec-9a3c-e76ba4bdd576.a4756958-14a6-4b21-bc33-05b126be6c1c",
         "https://store-images.s-microsoft.com/image/apps.49397.13916126641198036.d27e322f-c487-46ec-9a3c-e76ba4bdd576.6f1e268a-d78f-41db-8e62-7de39ba833b1",
@@ -37527,7 +37527,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 136884391936,
+      "maxInstallSize": 140427194368,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/overwatch/C1C4DZJPBC2V"
     },
@@ -42110,7 +42110,7 @@
       "hasDiscount": true,
       "discountPercent": 20,
       "rating": 4.5,
-      "ratingCount": 338,
+      "ratingCount": 340,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -43475,7 +43475,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.5,
-      "ratingCount": 1309,
+      "ratingCount": 1310,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -43657,6 +43657,112 @@
       "maxInstallSize": 486293504,
       "hasAddOns": false,
       "storeUrl": "https://www.xbox.com/es-es/games/store/sandustry-versi-n-preliminar-del-juego/9PPH71DV44T7"
+    },
+    {
+      "id": "9NK039GWVTVC",
+      "title": "Scramble Knights Online",
+      "description": "Este juego es un trabajo en curso. Es posible que, con el tiempo, cambie o no cambie, o que no se lance como producto final. Compra este producto únicamente si estás satisfecho con el estado actual del juego no terminado.\n\n¡Bienvenido a Scramble Knights Online, una aventura MMO-lite! Embárcate con amigos en misiones cortas inspiradas en Zelda en el reino online compartido de Terracott. Atraviesa un archipiélago lleno de enemigos peligrosos, pueblos encantadores, mazmorras enigmáticas y desafíos pensados para un caballero en entrenamiento.\n\nLas misiones te enfrentarán a slimes eléctricos, cangrejos que lanzan rocas, jefes de mazmorra imponentes y otras criaturas peligrosas en combates estratégicos en vista cenital. Encuentra a otros jugadores en su propia aventura y únete contra enemigos poderosos, compite por tesoros valiosos o choca en invasiones PvP.\n\nDespués de una aventura, vuelve a la Plaza del Pueblo para pasar el rato, mejorar el equipo, presumir tu look, pescar con amigos y prepararte para la siguiente expedición. Conoce a otros caballeros online, forma un escuadrón y vuelve a la acción juntos. No hay nada como cacarear con los amigos.\nCompleta misiones para ganar gemas, materiales de crafteo y botín raro. Forja armas poderosas, crea armaduras resistentes, mejora tu equipo y prueba nuevas builds que encajen con tu estilo de combate. Cuanto más explores, más fuerte se vuelve tu caballero.\n\nCaracterísticas principales\n* Aventura cooperativa online: Juega en solitario o en cooperación con hasta 4 jugadores en un mundo online compartido.\n* Combate de acción: Domina una variedad de armas y habilidades únicas para vencer a los enemigos.\n* Exploración de mazmorras: Entra en mazmorras al estilo Zelda para resolver puzzles, encontrar secretos y desafiar jefes.\n* Plaza del Pueblo: Un lugar para socializar, mejorar el equipo, pescar y formar grupo antes de la siguiente misión.\n* PvP: Encuentra a otros equipos de caballeros en sus aventuras y disputa recursos.\n* Pantalla dividida online: Juega cooperación local en el sofá online con un amigo (no disponible en la prueba Beta).\n* Modo Pollo: Si mueres, observa a tu equipo como un pollo. Clo. Clo.\n\nVisita https://www.scrambleknights.com para obtener detalles completos sobre el estado más reciente del juego, así como para proporcionar comentarios y notificar problemas.",
+      "shortDescription": "Este juego es un trabajo en curso. Es posible que, con el tiempo, cambie o no cambie, o que no se lance como producto final. Compra este producto únicamente si estás satisfecho con el estado actual del juego no terminado.\n\n¡Bienvenido a Scramble Knights Online, una aventura MMO-lite! ",
+      "developer": "Funktronic Labs",
+      "publisher": "Funktronic Labs",
+      "imageUrl": "https://store-images.s-microsoft.com/image/apps.52852.13666925911831228.39a643d8-0904-4270-b0a3-7b063f9c1c1d.e71c4d5f-7934-4b41-b72d-84ec1a953a6a",
+      "heroImage": "https://store-images.s-microsoft.com/image/apps.7301.13666925911831228.97ae0e40-341c-47a6-9d06-9b1f0c292bac.86c581ae-e1e1-41aa-a2e4-7e05635db5d0",
+      "screenshots": [
+        "https://store-images.s-microsoft.com/image/apps.32840.13666925911831228.1955208f-a829-4058-acf5-7e070b7338a4.20a27f95-b228-4952-be5a-cf8d2b026806",
+        "https://store-images.s-microsoft.com/image/apps.55907.13666925911831228.1955208f-a829-4058-acf5-7e070b7338a4.c4b1a2ae-d90d-427b-be43-2df2c922b82c",
+        "https://store-images.s-microsoft.com/image/apps.57994.13666925911831228.1955208f-a829-4058-acf5-7e070b7338a4.68a55b2d-d67f-4e97-a22f-d39058f61bb3",
+        "https://store-images.s-microsoft.com/image/apps.5777.13666925911831228.1955208f-a829-4058-acf5-7e070b7338a4.a28ccf82-8b82-4c9e-8534-0e4d0793be4f"
+      ],
+      "videoUrl": "https://cdn.trailers.xboxservices.com/trailers/00000000-0000-0000-0000-000000000000/xbox/prod/videos/mainprofile/13666925911831228/fce03b30-f5a4-4874-bf8c-cddee0ae7091/manifest.m3u8",
+      "videoCaption": "SKO: Wishlist Now!",
+      "releaseDate": "2025-12-10",
+      "categories": [
+        "Acción y aventura",
+        "Juegos de rol",
+        "Campo de batalla en línea para varios jugadores",
+        "Otros"
+      ],
+      "tiers": [
+        "pc",
+        "ultimate"
+      ],
+      "platform": "both",
+      "price": 12.99,
+      "msrp": 12.99,
+      "currency": "EUR",
+      "hasDiscount": false,
+      "discountPercent": 0,
+      "rating": 3.7,
+      "ratingCount": 3,
+      "ageRating": 16,
+      "pegiRating": "PEGI 16",
+      "pegiDescription": "Apropiado a partir de 16 años",
+      "interactiveDescriptions": [
+        "Interacción de usuarios"
+      ],
+      "capabilities": [
+        "Cooperativo en línea  (2-4)",
+        "Multijugador en línea  (2-32)",
+        "Multijugador multiplataforma de Xbox",
+        "4K Ultra HD",
+        "Un jugador",
+        "Cooperación multiplataforma de Xbox",
+        "60 fps +",
+        "Optimizado para Xbox Series X|S",
+        "Logros de Xbox",
+        "Cosas guardadas en la nube de Xbox",
+        "Xbox Play Anywhere"
+      ],
+      "systemRequirements": [
+        {
+          "title": "SO",
+          "minimum": "Windows 10 version 18362.0 or higher",
+          "recommended": "Windows 10 version 18362.0 or higher"
+        },
+        {
+          "title": "Arquitectura",
+          "minimum": "x64",
+          "recommended": "x64"
+        },
+        {
+          "title": "DirectX",
+          "minimum": "Versión 11",
+          "recommended": "Versión 11"
+        },
+        {
+          "title": "Memoria",
+          "minimum": "8 GB",
+          "recommended": "16 GB"
+        },
+        {
+          "title": "Memoria de vídeo",
+          "minimum": "2 GB",
+          "recommended": "4 GB"
+        },
+        {
+          "title": "Teclado",
+          "minimum": "",
+          "recommended": "Teclado integrado"
+        },
+        {
+          "title": "Mouse",
+          "minimum": "",
+          "recommended": "Mouse integrado"
+        },
+        {
+          "title": "Controladora",
+          "minimum": "",
+          "recommended": "Controladora de Xbox"
+        },
+        {
+          "title": "Micrófono",
+          "minimum": "",
+          "recommended": "Micrófono integrado"
+        }
+      ],
+      "maxInstallSize": 21474836480,
+      "hasAddOns": false,
+      "storeUrl": "https://www.xbox.com/es-es/games/store/scramble-knights-online/9NK039GWVTVC"
     },
     {
       "id": "BQ4M1XWXFKHB",
@@ -44889,7 +44995,8 @@
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
       "interactiveDescriptions": [
-        "Interacción de usuarios"
+        "Interacción de usuarios",
+        "Compras dentro del juego"
       ],
       "capabilities": [
         "Cooperativo en línea  (2-20)",
@@ -45261,11 +45368,11 @@
         "ultimate"
       ],
       "platform": "both",
-      "price": 34.99,
+      "price": 26.24,
       "msrp": 34.99,
       "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
+      "hasDiscount": true,
+      "discountPercent": 25,
       "rating": 4.3,
       "ratingCount": 534,
       "ageRating": 18,
@@ -50567,7 +50674,7 @@
           "recommended": "Controladora de Xbox"
         }
       ],
-      "maxInstallSize": 86583730176,
+      "maxInstallSize": 86788222976,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/the-finals/9PGD71CMDS0Z"
     },
@@ -51270,7 +51377,7 @@
           "recommended": "8 GB"
         }
       ],
-      "maxInstallSize": 4621971456,
+      "maxInstallSize": 4622049280,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/the-planet-crafter/9N072VV7MFK7"
     },
@@ -55126,7 +55233,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.8,
-      "ratingCount": 61,
+      "ratingCount": 62,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -57656,11 +57763,11 @@
         "ultimate"
       ],
       "platform": "console",
-      "price": 69.99,
+      "price": 17.49,
       "msrp": 69.99,
       "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
+      "hasDiscount": true,
+      "discountPercent": 75,
       "rating": 3.9,
       "ratingCount": 142,
       "ageRating": 18,
@@ -59348,7 +59455,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 82530574336,
+      "maxInstallSize": 82148331520,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/world-of-tanks-modern-armor/C57L9GR0HHB7"
     },
