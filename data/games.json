@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-31T13:57:54.663Z",
+  "updatedAt": "2026-11-01T14:35:21.914Z",
   "market": "ES",
   "language": "es-ES",
-  "totalGames": 816,
+  "totalGames": 808,
   "counts": {
-    "essential": 126,
-    "premium": 568,
-    "pc": 476,
-    "ultimate": 721,
-    "total": 816
+    "essential": 124,
+    "premium": 560,
+    "pc": 468,
+    "ultimate": 713,
+    "total": 808
   },
   "categories": [
     "Acción y aventura",
@@ -17,6 +17,7 @@
     "Clásicos",
     "Deportes",
     "Estrategia",
+    "Herramientas",
     "Juegos de mesa",
     "Juegos de rol",
     "Lucha",
@@ -1741,7 +1742,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4,
-      "ratingCount": 45,
+      "ratingCount": 46,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -2050,7 +2051,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.2,
-      "ratingCount": 110,
+      "ratingCount": 111,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -8359,7 +8360,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 2,
-      "ratingCount": 40,
+      "ratingCount": 41,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -8427,7 +8428,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 2,
-      "ratingCount": 44,
+      "ratingCount": 45,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -9032,7 +9033,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 2.3,
-      "ratingCount": 125,
+      "ratingCount": 126,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -9305,8 +9306,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 2.6,
-      "ratingCount": 626,
+      "rating": 2.7,
+      "ratingCount": 627,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -12258,102 +12259,6 @@
       "storeUrl": "https://www.xbox.com/es-es/games/store/date-everything/9N0CCPMBLJQ8"
     },
     {
-      "id": "9NKK6CX54183",
-      "title": "Day of the Tentacle Remastered",
-      "description": "Publicado originalmente por LucasArts en 1993 como continuación al revolucionario título Maniac Mansion de Ron Gilbert, ¡Day of the Tentacle es un impresionante juego de aventuras de animación y viaje en el tiempo donde tres amigos dispares trabajan juntos para impedir que un tentáculo morado y mutado se haga con el control del mundo!\r\n\r\nDay of the Tentacle regresa, más de veinte años después, en una edición remasterizada, con un novedoso diseño artístico realizado a mano y con una alta resolución y un sonido, música y efectos remasterizados.\r\n\r\nLos jugadores pueden cambiar cuando quieran entre los modos clásico y remasterizado y combinar a su gusto el audio, los gráficos y la interfaz. ¡También hemos incluido un explorador de arte conceptual y hemos grabado una pista de comentarios de los creadores originales del juego!\r\n\r\nVoz solo disponible en inglés y alemán.",
-      "shortDescription": "¡Day of the Tentacle es un impresionante juego de aventuras de animación y viaje en el tiempo donde tres amigos dispares trabajan juntos para impedir que un tentáculo morado y mutado se haga con el control del mundo!",
-      "developer": "Double Fine Productions & Shiny Shoe",
-      "publisher": "Xbox Game Studios",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.45089.13659998887820416.ac97c487-e49c-4236-a48f-681c4095040e.9f593142-562b-48e6-9ab5-20ea48887200",
-      "heroImage": "https://store-images.s-microsoft.com/image/apps.23659.13659998887820416.ac97c487-e49c-4236-a48f-681c4095040e.cc34fbbd-fadd-4128-968e-569a763ee7e9",
-      "screenshots": [
-        "https://store-images.s-microsoft.com/image/apps.16116.13659998887820416.ac97c487-e49c-4236-a48f-681c4095040e.29812dee-d828-48b2-ad4b-195e7f3a907a",
-        "https://store-images.s-microsoft.com/image/apps.7277.13659998887820416.ac97c487-e49c-4236-a48f-681c4095040e.bad1227c-9422-468d-a72f-deac562db31a",
-        "https://store-images.s-microsoft.com/image/apps.55891.13659998887820416.ac97c487-e49c-4236-a48f-681c4095040e.b9eeb56e-328f-44e7-acb9-a5e2eedb8dcd",
-        "https://store-images.s-microsoft.com/image/apps.61226.13659998887820416.ac97c487-e49c-4236-a48f-681c4095040e.f50cb273-4cd9-4540-9fed-a5d51a52dcb0"
-      ],
-      "videoUrl": "",
-      "videoCaption": "",
-      "releaseDate": "2020-10-29",
-      "categories": [
-        "Acción y aventura"
-      ],
-      "tiers": [
-        "pc",
-        "premium",
-        "ultimate"
-      ],
-      "platform": "both",
-      "price": 14.99,
-      "msrp": 14.99,
-      "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
-      "rating": 4.6,
-      "ratingCount": 66,
-      "ageRating": 7,
-      "pegiRating": "PEGI 7",
-      "pegiDescription": "Apropiado a partir de 7 años",
-      "interactiveDescriptions": [],
-      "capabilities": [
-        "Un jugador",
-        "Controlador para juegos para PC",
-        "Logros de Xbox",
-        "Cosas guardadas en la nube de Xbox",
-        "Xbox Play Anywhere"
-      ],
-      "systemRequirements": [
-        {
-          "title": "SO",
-          "minimum": "Windows 10 version 18362.0 or higher",
-          "recommended": "Windows 10 version 18362.0 or higher"
-        },
-        {
-          "title": "Arquitectura",
-          "minimum": "x64",
-          "recommended": "x64"
-        },
-        {
-          "title": "Gráficos",
-          "minimum": "NVIDIA GeForce GTX 260, ATI Radeon 4870 HD, Intel HD 3000, or equivalent card with at least 512 MB VRAM",
-          "recommended": "NVIDIA GeForce GTX 460, AMD Radeon HD 6850"
-        },
-        {
-          "title": "Procesador",
-          "minimum": "1.7 GHz Dual Core",
-          "recommended": "Intel Core 2 Duo at 2.2 GHz, AMD Athlon 64 2.2Ghz"
-        },
-        {
-          "title": "Teclado",
-          "minimum": "Teclado integrado",
-          "recommended": "Teclado integrado"
-        },
-        {
-          "title": "Mouse",
-          "minimum": "Mouse integrado",
-          "recommended": "Mouse integrado"
-        },
-        {
-          "title": "Memoria",
-          "minimum": "2 GB",
-          "recommended": "4 GB"
-        },
-        {
-          "title": "Memoria de vídeo",
-          "minimum": "1 GB",
-          "recommended": "2 GB"
-        },
-        {
-          "title": "Controladora",
-          "minimum": "",
-          "recommended": "Controladora de Xbox"
-        }
-      ],
-      "maxInstallSize": 2868015104,
-      "hasAddOns": false,
-      "storeUrl": "https://www.xbox.com/es-es/games/store/day-of-the-tentacle-remastered/9NKK6CX54183"
-    },
-    {
       "id": "BSR9NLHVF1KL",
       "title": "DayZ",
       "description": "Esta es tu historia\n\nDayZ es un juego de supervivencia duro y realista en mundo abierto donde cada decisión cuenta y la muerte es permanente. Los recursos escasean, los infectados campan a sus anchas y los demás supervivientes pueden ser amigos o enemigos.\n\n\n\nCaracterísticas:\n\nNo hay segundas oportunidades: La muerte implica perderlo todo y empezar de nuevo.\nMecánicas de supervivencia: Caza, fabrica, construye y cuida la salud en un mundo hostil.\nInteracciones no preestablecidas entre jugadores: Colabora, comercia o lucha por el control; cada encuentro es distinto a los demás.\nUn mundo abierto enorme: Explora Chernarus (230 km²) y Livonia (163 km²), dos lugares llenos de peligros y oportunidades.\nUn entorno mortífero: Resiste a un clima extremo, una fauna agresiva y los infectados.\n\n\nDos mapas gigantescos y un objetivo: Sobrevivir\n\nChernarus: Un yermo postsoviético con pueblos abandonados, instalaciones militares y bosques espesos.\nLivonia: Un terreno denso y poblado de vegetación donde escasean los recursos y la supervivencia es aún más complicada.\n\n\nAdaptarse o morir\n\nCada estructura, sombra y desconocido puede ser tanto una amenaza como una ventaja. Tanto si vas rapiñando suministros como si quieres montar una fortaleza, la supervivencia nunca está garantizada. ¿Cómo te enfrentarás al mundo de DayZ?",
@@ -13012,111 +12917,6 @@
       "storeUrl": "https://www.xbox.com/es-es/games/store/dead-space-ignition/C4GQQJJSZSZJ"
     },
     {
-      "id": "9MXWL7VJ2SJW",
-      "title": "Dead Static Drive",
-      "description": "Dead Static Drive es un viaje de terror y supervivencia por una versión pesadillesca de la América de los años 80. Rebusca, lucha y muévete con sigilo entre pequeños pueblos y carreteras inquietantes mientras la realidad empieza a desmoronarse.\n\nEncarnas a Hearst, una persona errante que busca a sus padres desaparecidos —y respuestas— en un mundo que se derrumba bajo el peso de algo antiguo y maligno. La confianza es tu recurso más valioso; depender de los demás será vital para sobrevivir. Evita a la policía. Protege a quienes te rodean. Y ayuda a detener a un hombre violento y paranoico cuyas ilusiones ponen en peligro a todos, incluso a sus propios hijos.\n\nNo creciste aquí. No conoces las calles, las caras ni las cosas que la gente ve después del anochecer. Solo tienes una carta extraña, sin remitente, y una sensación creciente de que algo va muy mal.\n\nTus padres viven por esta zona. O vivían. Hace demasiado que no sabes de ellos. Ahora hay humo en el horizonte y noticias extrañas flotan en el aire.\n\nViniste a buscar a tu familia. Viniste a entender lo que está ocurriendo. Si no sigues adelante, no tendrás la oportunidad de hacerlo.\n\nAlgo se agita bajo el asfalto.\n\nEste producto estará disponible solo en inglés en el lanzamiento. Síguenos en redes sociales para actualizaciones de localización.",
-      "shortDescription": "Un viaje de terror cósmico por la América de los años 80.",
-      "developer": "Reuben Games",
-      "publisher": "Reuben Games",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.5403.13882054236358572.6bfd2436-1337-41ff-8bba-a695d6c3d9e9.dda501bf-b544-4d26-a7dd-abbe3ad6d733",
-      "heroImage": "https://store-images.s-microsoft.com/image/apps.35029.13882054236358572.6bfd2436-1337-41ff-8bba-a695d6c3d9e9.cc78c562-6562-450f-badf-2adfc6a599ef",
-      "screenshots": [
-        "https://store-images.s-microsoft.com/image/apps.40620.13882054236358572.6bfd2436-1337-41ff-8bba-a695d6c3d9e9.750a532c-a81e-426f-b91a-e66b1f347795",
-        "https://store-images.s-microsoft.com/image/apps.60308.13882054236358572.6bfd2436-1337-41ff-8bba-a695d6c3d9e9.a1305f58-d429-41fb-86df-8cceb10aa1cc",
-        "https://store-images.s-microsoft.com/image/apps.27767.13882054236358572.6bfd2436-1337-41ff-8bba-a695d6c3d9e9.28d12dea-0f9c-4bc8-b828-5ff2a4b83a23",
-        "https://store-images.s-microsoft.com/image/apps.8571.13882054236358572.6bfd2436-1337-41ff-8bba-a695d6c3d9e9.e18efb3d-539c-44fe-b9c7-c84fd0e5bf33"
-      ],
-      "videoUrl": "",
-      "videoCaption": "",
-      "releaseDate": "2025-11-05",
-      "categories": [
-        "Acción y aventura",
-        "Juegos de rol"
-      ],
-      "tiers": [
-        "pc",
-        "premium",
-        "ultimate"
-      ],
-      "platform": "both",
-      "price": 8.74,
-      "msrp": 26.49,
-      "currency": "EUR",
-      "hasDiscount": true,
-      "discountPercent": 67,
-      "rating": 1.6,
-      "ratingCount": 56,
-      "ageRating": 16,
-      "pegiRating": "PEGI 16",
-      "pegiDescription": "Apropiado a partir de 16 años",
-      "interactiveDescriptions": [],
-      "capabilities": [
-        "4K Ultra HD",
-        "Un jugador",
-        "Optimizado para Xbox Series X|S",
-        "Entrega inteligente",
-        "Logros de Xbox",
-        "Presencia de Xbox",
-        "Cosas guardadas en la nube de Xbox",
-        "Xbox Play Anywhere"
-      ],
-      "systemRequirements": [
-        {
-          "title": "SO",
-          "minimum": "Windows 10 version 18362.0 or higher",
-          "recommended": "Windows 10 version 18362.0 or higher"
-        },
-        {
-          "title": "Arquitectura",
-          "minimum": "x64",
-          "recommended": "x64"
-        },
-        {
-          "title": "Gráficos",
-          "minimum": "NVIDIA GeForce GTX 960 / 1050 Ti or AMD Radeon R9 270X / RX 460 (2–4 GB VRAM)",
-          "recommended": "NVIDIA GeForce GTX 1660 Super / RTX 2060 / RTX 3060 or AMD Radeon RX 6600 / 6700 XT (6–12 GB VRAM)"
-        },
-        {
-          "title": "Procesador",
-          "minimum": "Intel Core i5-4590 or AMD Ryzen 3 1200",
-          "recommended": "Intel Core i5-9600K or AMD Ryzen 5 3600"
-        },
-        {
-          "title": "Teclado",
-          "minimum": "Teclado integrado",
-          "recommended": ""
-        },
-        {
-          "title": "Mouse",
-          "minimum": "Mouse integrado",
-          "recommended": ""
-        },
-        {
-          "title": "DirectX",
-          "minimum": "Versión 11",
-          "recommended": "API de DirectX 12, nivel de característica de hardware 11"
-        },
-        {
-          "title": "Memoria",
-          "minimum": "8 GB",
-          "recommended": "16 GB"
-        },
-        {
-          "title": "Memoria de vídeo",
-          "minimum": "4 GB",
-          "recommended": "6 GB"
-        },
-        {
-          "title": "Controladora",
-          "minimum": "",
-          "recommended": "Controladora de Xbox"
-        }
-      ],
-      "maxInstallSize": 3690471424,
-      "hasAddOns": false,
-      "storeUrl": "https://www.xbox.com/es-es/games/store/dead-static-drive/9MXWL7VJ2SJW"
-    },
-    {
       "id": "9PD9SZGNCMDZ",
       "title": "Death Howl",
       "description": "Adéntrate en tierras envueltas en mitos, donde la cazadora Ro emprende un viaje para resucitar a su hijo de entre los muertos. Explora las profundidades del mundo de los espíritus, dividido en 4 reinos y marcado por 13 regiones diferentes. Lucha con más de 30 enemigos diferentes y domina el poder de más de 160 cartas, forjando arquetipos únicos y numerosas combinaciones. Te espera un viaje sombrío de más de 25 horas de juego con numerosas misiones secundarias y jefes espantosos.\n\nDomina tu habilidad para crear mazos\nFabrica más de 160 cartas y crea mazos con sinergias centradas en efectos como veneno, fuerza, sacrificio, contraataque, ataques por la espalda, bloqueo, movimiento y más. Descubre tótems de chamán con efectos únicos y refuerza tu mazo. Cada elemento te permite adaptar tus tácticas para el siguiente encuentro letal.\n\nLucha en combates en retículas\nEnfréntate a espíritus inquietos de todo tipo: canidóseos, estallidos chasqueantes, setas de mar pesarosas y más, en batallas de cuadrícula en las que cada acción importa. Pon a prueba tu ingenio contra enemigos únicos y poderosos jefes y minijefes, teniendo en cuenta los peligros y las ventajas del entorno. Aumenta tu poder, adapta tu mazo y elige tus batallas al explorar un mundo lleno de desafíos.\n\nUn viaje al reino espiritual\nEn tierras olvidadas, envueltas en mitos, Ro, una cazadora de una pequeña tribu, se ve atormentada por la pérdida de su querido hijo. Guiada por voces de otro mundo, entra en el reino de los espíritus para intentar traerlo de vuelta. Conoce a extraños espíritus y ayúdales con misiones y desafíos que afectan a tu mazo... aunque no todos ellos lo hacen por tu bien. Descubre un mundo misterioso lleno de saber olvidado, en el que la oscuridad susurra secretos y te invita a desenterrar recuerdos sepultados.\n",
@@ -13455,125 +13255,6 @@
       "maxInstallSize": 1041047552,
       "hasAddOns": false,
       "storeUrl": "https://www.xbox.com/es-es/games/store/deep-dish-dungeon/9PPF72ZH6RP8"
-    },
-    {
-      "id": "9NHFVWX1V7QJ",
-      "title": "Deep Rock Galactic",
-      "description": "Compatible con Xbox Play Anywhere: podrás jugar tanto en Xbox One como en un PC con Windows 11 sin coste adicional.\r\n\r\nDeep Rock Galactic es un shooter cooperativo de ciencia ficción en primera persona con enanos espaciales de armas tomar, entornos totalmente destruibles, cuevas generadas procedimentalmente y hordas interminables de monstruos alienígenas.\r\n\r\nHoxxes IV contiene la mayor concentración de minerales valiosos que se haya descubierto. Sin embargo, en el planeta todo es extremadamente hostil, desde las criaturas hasta la fauna. Menos mal que Deep Rock Galactic cuenta con los mejores mineros espaciales del universo: ¡los enanos! Hoxxes combina las dos cosas que más gustan a los enanos: la minería y matar monstruos. Es el encargo perfecto para cualquier enano viajero del espacio que se precie.\r\n\r\n*** Cooperativo para 4 jugadores ***\r\nTrabajad en equipo para excavar, explorar y abriros paso peleando a lo largo de un enorme sistema de cuevas repletas de enemigos mortíferos y valiosos recursos. ¡Necesitaréis la ayuda de vuestros compañeros si queréis sobrevivir a los sistemas de cuevas más mortíferos de la galaxia!\r\n\r\n*** 4 clases únicas ***\r\nEscoge la clase apropiada para cada tarea. Aniquila a los enemigos como Gunner, ve por delante y alumbra las cuevas como Scout, atraviesa la roca viva como Driller o da apoyo al equipo construyendo estructuras defensivas y torretas como Engineer.\r\n\r\n*** Entornos totalmente destruibles ***\r\nDestruye todo lo que te rodea para alcanzar tu objetivo. No hay un camino establecido, puedes completar la misión a tu manera. Taladra en línea recta hasta llegar a tu objetivo o crea una intrincada red de galerías para explorar tus alrededores: tú decides. Pero ve con cuidado, ¡no querrás toparte con un enjambre de alienígenas sin ir preparado!\r\n\r\n*** Red de cuevas generadas procedimentalmente ***\r\nExplora una red de sistemas de cuevas generadas procedimentalmente y llenas de enemigos con los que luchar y riquezas que recoger. Siempre hay algo nuevo que descubrir, y no hay dos recorridos iguales.\r\n\r\n*** Los enanos saben lo que necesitan para hacer un buen trabajo. Cuentan con las armas más potentes y las herramientas más avanzadas de la galaxia: lanzallamas, ametralladoras montadas, lanzadores de plataformas portátiles, y mucho, mucho más.\r\n\r\n*** Alumbra el camino ***\r\nLas cuevas subterráneas son oscuras y albergan terrores. Tendrás que llevar tus propias luces para poder iluminar estas cavernas oscuras como bocas de lobo.\r\n\r\nPuedes obtener información actualizada sobre el estado del juego y averiguar cómo enviar comentarios e informar sobre errores en https://www.deeprockgalactic.com/",
-      "shortDescription": "Deep Rock Galactic es un shooter cooperativo de ciencia ficción en primera persona con enanos espaciales de armas tomar, entornos totalmente destruibles, cuevas generadas procedimentalmente y hordas interminables de monstruos alienígenas.",
-      "developer": "Ghost Ship Games",
-      "publisher": "Coffee Stain Publishing",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.64496.13626568325427111.acf8bd0b-a403-422a-bfd4-5262a9b59ec2.a4caf3fb-c53b-4424-91a6-f6db3488a3c1",
-      "heroImage": "https://store-images.s-microsoft.com/image/apps.43518.13626568325427111.acf8bd0b-a403-422a-bfd4-5262a9b59ec2.cc737eb2-7f52-43c4-89e5-cd92558971e9",
-      "screenshots": [
-        "https://store-images.s-microsoft.com/image/apps.13256.13626568325427111.7cdd7bb6-671f-4ab1-a1b9-f25acd668c0c.39e1ee51-1496-4ae3-9059-06ff8095fbf4",
-        "https://store-images.s-microsoft.com/image/apps.13803.13626568325427111.7cdd7bb6-671f-4ab1-a1b9-f25acd668c0c.1c452d0c-31a1-42f3-b17d-50168e14f9b7",
-        "https://store-images.s-microsoft.com/image/apps.13731.13626568325427111.7cdd7bb6-671f-4ab1-a1b9-f25acd668c0c.873b1fd0-eeff-44ec-ae40-516daa9f8657",
-        "https://store-images.s-microsoft.com/image/apps.19700.13626568325427111.7cdd7bb6-671f-4ab1-a1b9-f25acd668c0c.510858e3-43d6-43c5-90c2-f9d75998cb10"
-      ],
-      "videoUrl": "",
-      "videoCaption": "",
-      "releaseDate": "2020-05-13",
-      "categories": [
-        "Shooter"
-      ],
-      "tiers": [
-        "essential",
-        "pc",
-        "premium",
-        "ultimate"
-      ],
-      "platform": "both",
-      "price": 29.99,
-      "msrp": 29.99,
-      "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
-      "rating": 4.3,
-      "ratingCount": 164,
-      "ageRating": 16,
-      "pegiRating": "PEGI 16",
-      "pegiDescription": "Apropiado a partir de 16 años",
-      "interactiveDescriptions": [
-        "Interacción de usuarios",
-        "Compras dentro del juego"
-      ],
-      "capabilities": [
-        "Cooperativo en línea  (2-4)",
-        "Multijugador en línea  (2-4)",
-        "Multijugador multiplataforma de Xbox",
-        "HDR10",
-        "Un jugador",
-        "Cooperación multiplataforma de Xbox",
-        "Optimizado para Xbox Series X|S",
-        "Entrega inteligente",
-        "Xbox One X mejorado",
-        "Logros de Xbox",
-        "Presencia de Xbox",
-        "Clubs de Xbox",
-        "Cosas guardadas en la nube de Xbox",
-        "Xbox Play Anywhere"
-      ],
-      "systemRequirements": [
-        {
-          "title": "SO",
-          "minimum": "Windows 10 version 18362.0 or higher",
-          "recommended": "Windows 10 version 18362.0 or higher"
-        },
-        {
-          "title": "Arquitectura",
-          "minimum": "x64",
-          "recommended": "x64"
-        },
-        {
-          "title": "Gráficos",
-          "minimum": "NVIDIA GeForce GTX 460 or AMD Radeon HD 5770",
-          "recommended": " NVIDIA 970 or AMD Radeon 290"
-        },
-        {
-          "title": "Procesador",
-          "minimum": "2.4 GHz Dual Core",
-          "recommended": "2.4 GHz Quad Core"
-        },
-        {
-          "title": "Teclado",
-          "minimum": "Teclado integrado",
-          "recommended": "Teclado integrado"
-        },
-        {
-          "title": "Mouse",
-          "minimum": "Mouse integrado",
-          "recommended": "Mouse integrado"
-        },
-        {
-          "title": "DirectX",
-          "minimum": "API de DirectX 12, nivel de característica de hardware 11",
-          "recommended": "API de DirectX 12, nivel de característica de hardware 11"
-        },
-        {
-          "title": "Memoria",
-          "minimum": "6 GB",
-          "recommended": "8 GB"
-        },
-        {
-          "title": "Memoria de vídeo",
-          "minimum": "1 GB",
-          "recommended": "1 GB"
-        },
-        {
-          "title": "Controladora",
-          "minimum": "",
-          "recommended": "Controladora de Xbox"
-        },
-        {
-          "title": "Micrófono",
-          "minimum": "",
-          "recommended": "Micrófono integrado"
-        }
-      ],
-      "maxInstallSize": 4469780480,
-      "hasAddOns": true,
-      "storeUrl": "https://www.xbox.com/es-es/games/store/deep-rock-galactic/9NHFVWX1V7QJ"
     },
     {
       "id": "9N18L56XHK8Z",
@@ -22342,23 +22023,25 @@
       "shortDescription": "Todo lo que más te gusta está en Fortnite. \n\nLánzate a la acción de siempre o descubre algo nuevo con tu escuadrón. Consigue ser el último jugador en pie en Battle Royale. Siente la nostalgia en Fortnite: Orígenes. Juega de forma táctica en Recarga. Conviértete en la estrella de Fortnite Festival. Explora los mundos de LEGO Fortnite. Siempre hay algo nuevo que hacer para ti y tus amigos.\n\nJuega a miles de juegos creados por desarrolladores, como deathruns, juegos de gestión, carreras, supervivencia zombi y mucho más. También puedes crear tus propios juegos con Unreal Editor para Fortnite (UEFN) o las herramientas del modo Creativo de Fortnite para que los juegue todo el mundo.  Cada juego tiene una clasificación por edades individual para que encuentres el más adecuado para ti.",
       "developer": "Epic Games Inc.",
       "publisher": "Epic Games Inc.",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.17283.70702278257994163.6d75301b-59c3-4a73-b70c-5901ae9cbb44.bd4108fb-c5af-4a9a-90c5-9a25a46d76a1",
-      "heroImage": "https://store-images.s-microsoft.com/image/apps.9161.70702278257994163.6d75301b-59c3-4a73-b70c-5901ae9cbb44.315efab2-af78-4d3e-b99d-e89298f83ad9",
+      "imageUrl": "https://store-images.s-microsoft.com/image/apps.52548.70702278257994163.f7265b8a-f10e-49c4-8115-73c4d800af63.a0e057ff-c216-4206-a6b9-65bfc7d54fb0",
+      "heroImage": "https://store-images.s-microsoft.com/image/apps.57395.70702278257994163.f7265b8a-f10e-49c4-8115-73c4d800af63.b6b3f8f6-1df4-45e8-9cb6-7e738d850a63",
       "screenshots": [
         "https://store-images.s-microsoft.com/image/apps.51181.70702278257994163.9020fde9-23f7-404c-9b79-758e4925f789.dd20bd39-8c32-408f-aae2-05d7d7924808",
         "https://store-images.s-microsoft.com/image/apps.60584.70702278257994163.c945029a-4946-44ef-b5c7-b072f07eb636.30903f94-131c-4a06-b912-93a3f847a74e",
         "https://store-images.s-microsoft.com/image/apps.45321.70702278257994163.82153f73-d018-4d23-bb4f-14433178e3a6.4199f993-ace7-4a87-8ca0-a18d07e6d9cc",
         "https://store-images.s-microsoft.com/image/apps.30681.70702278257994163.c945029a-4946-44ef-b5c7-b072f07eb636.6e6dc827-6c42-4e3b-af68-29f8892be5d7"
       ],
-      "videoUrl": "https://cdn.trailers.xboxservices.com/trailers/00000000-0000-0000-0000-000000000000/xbox/prod/videos/mainprofile/70702278257994163/d885ae96-fd22-4c18-b652-05578c4ddb93/manifest.m3u8",
-      "videoCaption": "Fortnitemares Trailer",
+      "videoUrl": "https://cdn.trailers.xboxservices.com/trailers/00000000-0000-0000-0000-000000000000/xbox/prod/videos/mainprofile/70702278257994163/09841644-8149-4ea1-8fec-8e36116a3690/manifest.m3u8",
+      "videoCaption": "Treasure Hunters Trailer",
       "releaseDate": "2017-07-25",
       "categories": [
         "Acción y aventura",
         "Otros",
         "Shooter",
         "Simulación",
-        "Estrategia"
+        "Estrategia",
+        "Música",
+        "Herramientas"
       ],
       "tiers": [
         "ultimate"
@@ -22437,7 +22120,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.6,
-      "ratingCount": 2593,
+      "ratingCount": 2594,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -22848,103 +22531,6 @@
       "maxInstallSize": 2675613696,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/frog-sqwad/9N16RZ0S50V2"
-    },
-    {
-      "id": "9P3ZRGNQVC7D",
-      "title": "Full Throttle Remastered",
-      "description": "Full Throttle es una aventura gráfica diseñada por el legendario Tim Schafer que fue publicada por LucasArts en 1995. Cuenta la historia de Ben Throttle, el rudo líder de una banda de moteros conocida como los Polecats, que se ve envuelto en una trama de motos y muerte.\r\n\r\nAhora, más de 20 años después, Full Throttle vuelve con una edición remasterizada en la que los jugadores disfrutarán de imágenes en 3D de alta resolución diseñadas a mano, así como de música y sonido mejorados.\r\n\r\nLos jugadores podrán alternar entre los modos clásico y remasterizado y podrán seleccionar las opciones de audio, gráficos e interfaz de usuario que prefieran. También incluye una galería de bocetos y una pista de audio con comentarios de los creadores del juego original.",
-      "shortDescription": "Cuenta la historia de Ben Throttle, el rudo líder de una banda de moteros conocida como los Polecats, que se ve envuelto en una trama de motos y muerte.",
-      "developer": "Double Fine Productions & Shiny Shoe",
-      "publisher": "Xbox Game Studios",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.39265.14598891268352765.09cb1dd7-f055-4038-983d-2721763eedbe.0e1db341-dc19-4da2-8a23-cc7a3476ee6b",
-      "heroImage": "https://store-images.s-microsoft.com/image/apps.56355.14598891268352765.09cb1dd7-f055-4038-983d-2721763eedbe.3226eb1d-8c48-478d-9a49-da266a4e7d82",
-      "screenshots": [
-        "https://store-images.s-microsoft.com/image/apps.35866.14598891268352765.09cb1dd7-f055-4038-983d-2721763eedbe.48fd99e5-da37-462c-9ddf-e14f596c6836",
-        "https://store-images.s-microsoft.com/image/apps.44002.14598891268352765.09cb1dd7-f055-4038-983d-2721763eedbe.3d606b0c-6502-4722-add0-83ff7e4d5002",
-        "https://store-images.s-microsoft.com/image/apps.60427.14598891268352765.09cb1dd7-f055-4038-983d-2721763eedbe.a5a58dc2-cdff-436e-b746-03f868bc496c",
-        "https://store-images.s-microsoft.com/image/apps.19206.14598891268352765.09cb1dd7-f055-4038-983d-2721763eedbe.dac4b1fd-4d7b-4fbb-bae0-08178fa38332"
-      ],
-      "videoUrl": "",
-      "videoCaption": "",
-      "releaseDate": "2020-10-29",
-      "categories": [
-        "Acción y aventura"
-      ],
-      "tiers": [
-        "essential",
-        "pc",
-        "premium",
-        "ultimate"
-      ],
-      "platform": "both",
-      "price": 14.99,
-      "msrp": 14.99,
-      "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
-      "rating": 4.6,
-      "ratingCount": 34,
-      "ageRating": 16,
-      "pegiRating": "PEGI 16",
-      "pegiDescription": "Apropiado a partir de 16 años",
-      "interactiveDescriptions": [],
-      "capabilities": [
-        "Un jugador",
-        "Controlador para juegos para PC",
-        "Logros de Xbox",
-        "Cosas guardadas en la nube de Xbox",
-        "Xbox Play Anywhere"
-      ],
-      "systemRequirements": [
-        {
-          "title": "SO",
-          "minimum": "Windows 10 version 18362.0 or higher",
-          "recommended": "Windows 10 version 18362.0 or higher"
-        },
-        {
-          "title": "Arquitectura",
-          "minimum": "x64",
-          "recommended": "x64"
-        },
-        {
-          "title": "Gráficos",
-          "minimum": "NVIDIA GeForce GTX 260, ATI Radeon 4870 HD / Intel HD 4000 Graphics, or equivalent",
-          "recommended": ""
-        },
-        {
-          "title": "Procesador",
-          "minimum": "Intel® Core™ 2 Duo 2.4 GHz, AMD Athlon™ X2 2.8 GHz, or higher",
-          "recommended": ""
-        },
-        {
-          "title": "Teclado",
-          "minimum": "Teclado integrado",
-          "recommended": "Teclado integrado"
-        },
-        {
-          "title": "Mouse",
-          "minimum": "Mouse integrado",
-          "recommended": "Mouse integrado"
-        },
-        {
-          "title": "Memoria",
-          "minimum": "4 GB",
-          "recommended": ""
-        },
-        {
-          "title": "Memoria de vídeo",
-          "minimum": "1 GB",
-          "recommended": ""
-        },
-        {
-          "title": "Controladora",
-          "minimum": "",
-          "recommended": "Controladora de Xbox"
-        }
-      ],
-      "maxInstallSize": 5631930368,
-      "hasAddOns": false,
-      "storeUrl": "https://www.xbox.com/es-es/games/store/full-throttle-remastered/9P3ZRGNQVC7D"
     },
     {
       "id": "C2P985H1H42H",
@@ -23586,7 +23172,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.4,
-      "ratingCount": 421,
+      "ratingCount": 422,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -23771,7 +23357,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.1,
-      "ratingCount": 170,
+      "ratingCount": 171,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -26452,7 +26038,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.5,
-      "ratingCount": 96,
+      "ratingCount": 97,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -29312,7 +28898,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.3,
-      "ratingCount": 170,
+      "ratingCount": 171,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -30161,67 +29747,6 @@
       "storeUrl": "https://www.xbox.com/es-es/games/store/kingdom-two-crowns/BWT2GPVWCH2F"
     },
     {
-      "id": "C3553MB4P5TT",
-      "title": "Lara Croft and the Temple of Osiris",
-      "description": "Lara Croft and the Temple of Osiris es la continuación del aclamado Lara Croft and the Guardian of Light y se trata de una nueva aventura que transcurre en el Templo de Osiris, en las profundidades del desierto de Egipto. Lara espera ser la primera en llegar al templo, pero Carter Bell, otro buscador de tesoros como ella, se le ha adelantado. Ambos van tras el Bastón de Osiris, pero pronto se toparán con mucho más. Nada más entrar en la tumba, Carter quita el legendario bastón de su sitio, desatando así una maldición sobre ambos y liberando al malvado dios Set. No obstante, el bastón también pone fin al letargo de Horus e Isis, el hijo y la mujer de Osiris, quienes, liberados de su ancestral cautiverio, unirán fuerzas con Lara y Carter para resucitar a Osiris, el único dios capaz de romper la maldición. Lara y sus compañeros tendrán que luchar contra toda clase de deidades legendarias y criaturas míticas mientras se abren paso a través de las arenas y de tumbas ancestrales. El destino del mundo está en juego y Lara deberá recuperar los fragmentos de Osiris para evitar que Set esclavice a toda la humanidad.\n\nObservera: Cross-save- och cross-play-funktionalitet är inte tillgängliga mellan Xbox-konsoler och Windows PC-produkter.",
-      "shortDescription": "Lara Croft and the Temple of Osiris es la continuación de Lara Croft and the Guardian of Light y el primer título cooperativo para cuatro jugadores de Lara Croft. Con unos gráficos impresionantes y una historia completamente nueva, los jugadores tendrán que explorar el templo juntos, derrotar a enemigos del inframundo egipcio, resolver intrincados rompecabezas y evitar trampas mortales, a la vez que compiten para obtener tesoros, poderosos artefactos y el derecho a fanfarronear como nunca.",
-      "developer": "Crystal Dynamics",
-      "publisher": "Crystal Dynamics",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.16416.66406861093311956.a8c8f515-daa8-479b-af0e-06d27ad9565d.0a9216e5-e802-4928-afdb-9ac03237966b",
-      "heroImage": "https://store-images.s-microsoft.com/image/apps.28853.66406861093311956.a8c8f515-daa8-479b-af0e-06d27ad9565d.8e2fb0f8-8ac8-4004-8ec8-15afe854860e",
-      "screenshots": [
-        "https://store-images.s-microsoft.com/image/apps.28853.66406861093311956.a8c8f515-daa8-479b-af0e-06d27ad9565d.8e2fb0f8-8ac8-4004-8ec8-15afe854860e",
-        "https://store-images.s-microsoft.com/image/apps.53404.66406861093311956.5a3a6cc5-ae0d-478d-aa71-eeec71b3768a.b62d249e-292b-4993-91dc-937f0d8be9bc",
-        "https://store-images.s-microsoft.com/image/apps.53817.66406861093311956.a8c8f515-daa8-479b-af0e-06d27ad9565d.402cd958-3bcc-4e28-b931-6d4d558de6ac",
-        "https://store-images.s-microsoft.com/image/apps.40887.66406861093311956.5a3a6cc5-ae0d-478d-aa71-eeec71b3768a.ae1d3725-9bb6-4303-b097-75e3579ee656"
-      ],
-      "videoUrl": "",
-      "videoCaption": "",
-      "releaseDate": "2014-12-09",
-      "categories": [
-        "Acción y aventura"
-      ],
-      "tiers": [
-        "pc",
-        "premium",
-        "ultimate"
-      ],
-      "platform": "both",
-      "price": 1.99,
-      "msrp": 19.99,
-      "currency": "EUR",
-      "hasDiscount": true,
-      "discountPercent": 90,
-      "rating": 4,
-      "ratingCount": 91,
-      "ageRating": 12,
-      "pegiRating": "PEGI 12",
-      "pegiDescription": "Apropiado a partir de 12 años",
-      "interactiveDescriptions": [],
-      "capabilities": [
-        "Cooperación local de Xbox (2-4)",
-        "Cooperativo en línea  (2-4)",
-        "Multijugador local de Xbox (2-4)",
-        "Multijugador en línea  (2-4)",
-        "Logros de Xbox"
-      ],
-      "systemRequirements": [
-        {
-          "title": "SO",
-          "minimum": "Windows 10 version 19045.3570 or higher",
-          "recommended": "Windows 10 version 19045.3570 or higher"
-        },
-        {
-          "title": "Arquitectura",
-          "minimum": "x64",
-          "recommended": "x64"
-        }
-      ],
-      "maxInstallSize": 3248459776,
-      "hasAddOns": true,
-      "storeUrl": "https://www.xbox.com/es-es/games/store/lara-croft-and-the-temple-of-osiris/C3553MB4P5TT"
-    },
-    {
       "id": "9PB301R051CQ",
       "title": "League of Legends",
       "description": "Demuestra tus habilidades en la arena de combate 5v5 definitiva que combina la estrategia por equipos con la maestría individual. Escoge tu rol, perfecciona tu composición y lucha por el mapa para destruir el nexo enemigo. ¡Juega gratis! Y que gane el mejor equipo.\r\n\r\nCon el Game Pass, los miembros podrán desbloquear: \r\n●        Más de 160 campeones\r\n●        Acceso desde el primer día a cada nuevo campeón que sea lanzado\r\n●        Aumento del 20% de XP",
@@ -30477,92 +30002,6 @@
       "maxInstallSize": 0,
       "hasAddOns": false,
       "storeUrl": "https://www.xbox.com/es-es/games/store/legends-of-runeterra/9P9XGNFNF11R"
-    },
-    {
-      "id": "BRMKDCZT0C4L",
-      "title": "LEGO® Star Wars™: La Saga Skywalker",
-      "description": "La galaxia es tuya con LEGO® Star Wars™: La Saga Skywalker. Vive los momentos inolvidables y llenos de acción de las nueve películas de la saga a través del humor característico que ofrece LEGO\r\n\r\nLa edición digital incluye el personaje jugable exclusivo Obi-Wan Kenobi clásico.\r\n\r\n● Explora las trilogías en cualquier orden: los jugadores pueden revivir la historia épica de las nueve películas de la saga Skywalker y todo comienza con la selección de la trilogía preferida para empezar el viaje. \r\n\r\n● Juega con héroes y villanos legendarios: disfruta de más de 300 personajes jugables de toda la galaxia.\r\n\r\n● Descubre lugares míticos: los jugadores pueden visitar los lugares más conocidos de sus películas favoritas de la saga Skywalker. Viaja con total libertad y desbloquea 23 planetas mientras progresas en la historia de la saga o exploras y descubres emocionantes misiones.\r\n\r\n● Pilota potentes vehículos: más de 100 vehículos procedentes de toda la galaxia están a tu disposición. Participa en batallas aéreas y derrota naves capitales tales como el superdestructor estelar, en el que además podrás subirte a bordo para explorar.\r\n\r\n● Experiencia de juego inmersiva: encadena diferentes ataques para formar combos y defenderte de los enemigos. Nuevos controles y mecánica del bláster renovada que te permiten apuntar con precisión o utilizar las habilidades de los Jedi blandiendo la espada láser y utilizando el poder de la Fuerza.\r\n\r\n● Mejora las habilidades de los personajes: explorar la galaxia te concede recompensas, puesto que descubrirás ladrillos de Kyber ocultos que desbloquean nuevas características y mejoran las habilidades de personajes de distintas clases, como Jedi, Héroe, Lado Oscuro, Villano, Chatarrero, Sinvergüenza, Cazarrecompensas, Droide astromecánico y Droide de protocolo.",
-      "shortDescription": "Revive las nueve películas de la saga como nunca lo habías hecho antes con este videojuego nuevo que incluye más de 300 personajes jugables, más de 100 vehículos y 23 planetas. ¡Llega la diversión a la galaxia muy, muy lejana!\r\n\r\n*La edición digital incluye el personaje jugable exclusivo Obi-Wan Kenobi clásico.",
-      "developer": "TT Games",
-      "publisher": "Warner Bros. Games",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.55407.69776162813131649.5a0614cf-d90a-4580-90d2-d09e65459d75.05a242bb-5157-4c74-ab9f-718ee024e76f",
-      "heroImage": "https://store-images.s-microsoft.com/image/apps.53760.69776162813131649.5a0614cf-d90a-4580-90d2-d09e65459d75.57397a6e-1dee-476f-8530-cfe56bc4e013",
-      "screenshots": [
-        "https://store-images.s-microsoft.com/image/apps.51966.69776162813131649.f1924d21-d275-413d-afd5-f89b8d182565.e8dffaee-08ef-47a0-90f0-632be85c0612",
-        "https://store-images.s-microsoft.com/image/apps.46719.69776162813131649.f1924d21-d275-413d-afd5-f89b8d182565.bd23b93d-2bb7-4f76-983b-d0d793332798",
-        "https://store-images.s-microsoft.com/image/apps.12736.69776162813131649.ed2decc6-903c-4035-a214-f2a365919361.ca7b6cd9-72be-45e4-ad37-9b58c525b787",
-        "https://store-images.s-microsoft.com/image/apps.40645.69776162813131649.ed2decc6-903c-4035-a214-f2a365919361.aab1ce87-1ed4-4788-a7da-2a5410f9a2f5"
-      ],
-      "videoUrl": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftassets/2e446b07-1e18-4f53-8a31-8a045083a33a-AVS.m3u8?packagedStreaming=true",
-      "videoCaption": "LEGO® Star Wars™: The Skywalker Saga - DLC Trailer",
-      "releaseDate": "",
-      "categories": [
-        "Acción y aventura"
-      ],
-      "tiers": [
-        "pc",
-        "premium",
-        "ultimate"
-      ],
-      "platform": "both",
-      "price": 0,
-      "msrp": 0,
-      "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
-      "rating": 4,
-      "ratingCount": 126,
-      "ageRating": 7,
-      "pegiRating": "PEGI 7",
-      "pegiDescription": "Apropiado a partir de 7 años",
-      "interactiveDescriptions": [
-        "Compras dentro del juego"
-      ],
-      "capabilities": [
-        "Cooperación local de Xbox (2-2)",
-        "4K Ultra HD",
-        "HDR10",
-        "Optimizado para Xbox Series X|S",
-        "Entrega inteligente",
-        "Logros de Xbox",
-        "Presencia de Xbox",
-        "Xbox Play Anywhere"
-      ],
-      "systemRequirements": [
-        {
-          "title": "SO",
-          "minimum": "Windows 10 version 18362.0 or higher",
-          "recommended": "Windows 10 version 18362.0 or higher"
-        },
-        {
-          "title": "Arquitectura",
-          "minimum": "x64",
-          "recommended": "x64"
-        },
-        {
-          "title": "Gráficos",
-          "minimum": "GeForce GTX 750 Ti or Radeon HD 7850",
-          "recommended": ""
-        },
-        {
-          "title": "Procesador",
-          "minimum": "Intel Core i5-2400 or AMD Ryzen 3 1200",
-          "recommended": ""
-        },
-        {
-          "title": "DirectX",
-          "minimum": "Versión 11",
-          "recommended": ""
-        },
-        {
-          "title": "Memoria",
-          "minimum": "8 GB",
-          "recommended": ""
-        }
-      ],
-      "maxInstallSize": 48564178944,
-      "hasAddOns": true,
-      "storeUrl": "https://www.xbox.com/es-es/games/store/lego-star-wars-la-saga-skywalker/BRMKDCZT0C4L"
     },
     {
       "id": "9P00SVGWDJCP",
@@ -33249,7 +32688,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.1,
-      "ratingCount": 29,
+      "ratingCount": 30,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -33502,7 +32941,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4,
-      "ratingCount": 16015,
+      "ratingCount": 16018,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -33697,7 +33136,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.5,
-      "ratingCount": 61714,
+      "ratingCount": 61717,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -35019,8 +34458,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 4.5,
-      "ratingCount": 10,
+      "rating": 4.6,
+      "ratingCount": 14,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -42330,7 +41769,7 @@
       "hasDiscount": true,
       "discountPercent": 20,
       "rating": 4.5,
-      "ratingCount": 340,
+      "ratingCount": 341,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -51934,7 +51373,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 1.3,
-      "ratingCount": 21,
+      "ratingCount": 22,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -53879,11 +53318,11 @@
         "ultimate"
       ],
       "platform": "both",
-      "price": 16.24,
+      "price": 24.99,
       "msrp": 24.99,
       "currency": "EUR",
-      "hasDiscount": true,
-      "discountPercent": 35,
+      "hasDiscount": false,
+      "discountPercent": 0,
       "rating": 2.2,
       "ratingCount": 112,
       "ageRating": 16,
@@ -57291,110 +56730,6 @@
       "storeUrl": "https://www.xbox.com/es-es/games/store/warhammer-vermintide-2/BXZWT67JBZJH"
     },
     {
-      "id": "9NWQ686JB33G",
-      "title": "Wartales",
-      "description": "Lucha, sobrevive y vive para contarlo.\r\n\r\nHa pasado un siglo desde la caída del Imperio de Edoran a manos de una peste sin precedentes que arrasó la nación. Ahora, la tierra está plagada de mercenarios, vandalismo y robo, y el honor se ha convertido en una virtud casi completamente olvidada.\r\n\r\nDebes prepararte para liderar un grupo de personajes sin escrúpulos en un mundo abierto masivo donde el combate, la muerte y la sed de riqueza dictarán tu vida. No eres el héroe de esta historia, destinada a marcar el inicio de una nueva era de paz. Tu objetivo es únicamente sobrevivir y prosperar en este mundo duro y hostil, sea como sea...\r\n\r\n¡Solo los más valientes y ambiciosos escribirán su historia en Wartales!\r\n\r\n\r\nCrea tu grupo de mercenarios.\r\n\r\nLidera un grupo de mercenarios en una peligrosa búsqueda de riquezas y reconocimiento en un mundo medieval devastado por la indigencia y la codicia, y recluta nuevos compañeros con numerosas especialidades, conjuntos de habilidades, preferencias de armas y personalidades únicas.\r\n\r\nPersonaliza las habilidades, el equipo y la apariencia de tu grupo con un intuitivo sistema de creación y progresión de juegos de rol, mientras desarrollas tu campamento con lujos, herramientas y equipamiento para ayudar a tu grupo a soportar y recuperarse de las dificultades de cada día.\r\n\r\n\r\nExplora un mundo vibrante y misterioso.\r\n\r\nViaja a través de un vasto mundo abierto en tu búsqueda de reputación, riqueza y reconocimiento, sumergiéndote en bulliciosos pueblos y restos de una época pasada. Explora minas, tumbas y campamentos abandonados mientras reconstruyes la historia de este duro mundo.\r\n\r\n\r\nProspera y escribe tu historia.\r\n\r\nRecoge recompensas y acepta contratos. Desde proteger a los inocentes de los rateros hasta derrotar a las figuras más notorias de la tierra, no existe una ganancia demasiado pequeña para tomarla.\r\n\r\nVence a tus enemigos con un sistema de combate táctico por turnos que premia la planificación cuidadosa y el pensamiento estratégico, seleccionando la mejor combinación de personajes, equipos y tácticas para tener éxito en cada batalla única.\r\n\r\n\r\nModo cooperativo para 4 jugadores.\r\n\r\nAtraviesa el vasto mundo abierto de Wartales con una banda de hasta 4 jugadores, planificando tácticas y trazando una estrategia antes de enfrentarte a algunos de los muchos habitantes hostiles que deambulan por estas tierras misteriosas y derrotarlos como un equipo.\r\n\r\nComparte dinero, botines, recursos y termina el día con una deliciosa comida alrededor de una buena fogata con tus leales compañeros, creando camaradería y forjando lazos inquebrantables que te ayudarán a superar cualquier obstáculo.",
-      "shortDescription": "Wartales es un juego de rol en mundo abierto en el que lideras a un grupo de mercenarios en su búsqueda de riquezas a través de un enorme universo medieval. ¡Explora el mundo, recluta compañeros, recoge recompensas y descubre los secretos de las tumbas de los antiguos!",
-      "developer": "Shiro Games",
-      "publisher": "Shiro Games",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.55567.14440655325358467.0a9794a6-3645-4db4-a85e-c611d041111a.85dd1ece-9871-428e-bdef-f545c2c8425e",
-      "heroImage": "https://store-images.s-microsoft.com/image/apps.8343.14440655325358467.0a9794a6-3645-4db4-a85e-c611d041111a.8efb2136-86ee-4f16-b635-7f64680e2062",
-      "screenshots": [
-        "https://store-images.s-microsoft.com/image/apps.64793.14440655325358467.0a9794a6-3645-4db4-a85e-c611d041111a.6582b502-cd29-4c1d-b55e-50115413f345",
-        "https://store-images.s-microsoft.com/image/apps.45110.14440655325358467.0a9794a6-3645-4db4-a85e-c611d041111a.8c6a74e8-cbd2-49ff-b0ec-fd859d1a4989",
-        "https://store-images.s-microsoft.com/image/apps.28220.14440655325358467.0a9794a6-3645-4db4-a85e-c611d041111a.ba4ccf5e-3015-4c10-91c6-10d33f163a44",
-        "https://store-images.s-microsoft.com/image/apps.39871.14440655325358467.0a9794a6-3645-4db4-a85e-c611d041111a.e57be62c-165b-4dc7-a1d0-bab170ecf348"
-      ],
-      "videoUrl": "https://cdn.trailers.xboxservices.com/trailers/00000000-0000-0000-0000-000000000000/xbox/prod/videos/mainprofile/14440655325358467/6b6b969f-5432-4ea3-a7c3-50f068c18fc0/manifest.m3u8",
-      "videoCaption": "Wartales",
-      "releaseDate": "2023-10-31",
-      "categories": [
-        "Juegos de rol",
-        "Estrategia"
-      ],
-      "tiers": [
-        "pc",
-        "premium",
-        "ultimate"
-      ],
-      "platform": "both",
-      "price": 39.99,
-      "msrp": 39.99,
-      "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
-      "rating": 3.5,
-      "ratingCount": 124,
-      "ageRating": 16,
-      "pegiRating": "PEGI 16",
-      "pegiDescription": "Apropiado a partir de 16 años",
-      "interactiveDescriptions": [
-        "Compras dentro del juego"
-      ],
-      "capabilities": [
-        "Cooperativo en línea  (2-4)",
-        "Multijugador en línea  (2-4)",
-        "Multijugador multiplataforma de Xbox",
-        "Un jugador",
-        "Cooperación multiplataforma de Xbox",
-        "Optimizado para Xbox Series X|S",
-        "Entrega inteligente",
-        "Logros de Xbox",
-        "Cosas guardadas en la nube de Xbox",
-        "Xbox Play Anywhere"
-      ],
-      "systemRequirements": [
-        {
-          "title": "SO",
-          "minimum": "Windows 10 version 18362.0 or higher",
-          "recommended": "Windows 10 version 18362.0 or higher"
-        },
-        {
-          "title": "Arquitectura",
-          "minimum": "x64",
-          "recommended": "x64"
-        },
-        {
-          "title": "Gráficos",
-          "minimum": "NVidia GTX 1050 / AMD RX550",
-          "recommended": "NVidia GTX 1080 / AMD RX 5600"
-        },
-        {
-          "title": "Procesador",
-          "minimum": "Intel Core i5 2.5 GHz / AMD Ryzen 5",
-          "recommended": "Intel Core i7 2.8 GHz / AMD Ryzen 7"
-        },
-        {
-          "title": "DirectX",
-          "minimum": "Versión 10",
-          "recommended": "Versión 10"
-        },
-        {
-          "title": "Memoria",
-          "minimum": "8 GB",
-          "recommended": "16 GB"
-        },
-        {
-          "title": "Teclado",
-          "minimum": "",
-          "recommended": "Teclado integrado"
-        },
-        {
-          "title": "Mouse",
-          "minimum": "",
-          "recommended": "Mouse integrado"
-        },
-        {
-          "title": "Controladora",
-          "minimum": "",
-          "recommended": "Controladora de Xbox"
-        }
-      ],
-      "maxInstallSize": 66600759296,
-      "hasAddOns": true,
-      "storeUrl": "https://www.xbox.com/es-es/games/store/wartales/9NWQ686JB33G"
-    },
-    {
       "id": "C521HDXRTS7F",
       "title": "Wasteland 2: Director's Cut",
       "description": "Del productor del Fallout original llega Wasteland 2, la secuela del primer juego de RPG postapocalítico para PC.\n\nEl paisaje infernal de Wasteland te espera para que dejes tu marca... o mueras en el intento. Con más de 80 horas de jugabilidad, armarás tu equipo de Llaneros del Desierto con las armas más letales de este lado de la zona de exclusión, pondrás a prueba tus habilidades estratégicas y llevarás justicia al páramo. \n\nCaracterísticas:\n- No hay una solución para todo: ¿No quieres encontrar la llave para abrir una puerta? ¡Toma el candado, golpéalo con tu bota o destrózalo para que se abra!\n- Toma de decisiones... con consecuencias: tus elecciones generan reacciones a corto y largo plazo, modifican los eventos del juego y alteran para siempre las vidas de los habitantes del páramo.\n- Enorme y personalizable: cientos de personajes. Miles de variaciones para la apariencia de tus llaneros. Más de 150 armas. La experiencia será diferente para todos los jugadores.\n\nCopyright 2015 inXile entertainment Inc., Wasteland, los logotipos de Wasteland e inXile entertainment y el logotipo de inXile entertainment son marcas comerciales o marcas registradas de inXile entertainment Inc. en los EE. UU. u otros países. Copyright 2002-2015, inXile entertainment, Inc. Todos los derechos reservados. Fallout es una marca registrada de Bethesda Softworks LLC.",
@@ -58543,110 +57878,6 @@
       "maxInstallSize": 380052197376,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/where-winds-meet/9N76QGDS5GJR"
-    },
-    {
-      "id": "9N6VS1BMZ3BW",
-      "title": "Wildgate",
-      "description": "Wildgate es un juego de disparos multijugador JcJcE con tres modalidades diferentes. En Batalla de artefactos, debes apoderarte del artefacto y atravesar el portal antes que nadie, o destruir las naves de cada tripulación rival para alzarte con la victoria. En Batalla de flotas se enfrentarán dos equipos de hasta 12 jugadores cada uno en un combate constante y lleno de acción. Para vivir una experiencia de saqueo más relajada, en Búsqueda del tesoro podrás recuperar un tesoro y huir con él antes de volar en mil pedazos. \n\nEn todas las modalidades, tu nave es un hogar y una fuente de sustento tanto para ti como para tu tripulación de prospectores. Cuida las reservas de hielo, combustible y munición para que nada ni nadie que provenga de la Desembocadura te tome por sorpresa.\n\nBATALLAS ÉPICAS ENTRE NAVES ESPACIALES\nVuela en pedazos a tus enemigos con cañones y aparatos de tecnología de punta, atráelos para que caigan en trampas mortales o desbarata su nave… antes de que saboteen la tuya. Cuando tu plan sale volando por la cámara hiperbárica, solo te queda una opción: ¡improvisar!\n\nUNA NUEVA AVENTURA EN CADA PARTIDA\nSiempre ve un paso adelante con tu tripulación al explorar la Desembocadura, un amplio mapa generado de forma procedural que cambia en cada partida.\n\nPROSPECTORES ÚNICOS\nElige entre una gran variedad de prospectores audaces, cada uno con habilidades y herramientas especiales. Tanto si te pones en los zapatos de un piloto valiente o de un embustero de primera, ¡no hay forma incorrecta de cometer delitos espaciales!\n\nEXPLORA LA DESEMBOCADURA\nLa Desembocadura es un territorio peligroso e impredecible, repleto de amenazas mortales y tesoros más allá de tu imaginación. Navega a través de tormentas cósmicas, combate alimañas espaciales y saquea alijos perdidos en ruinas alienígenas para obtener botín. Solo recuerda ser más rápido que los demás prospectores, ¡o volverás a casa con las manos vacías!",
-      "shortDescription": "Wildgate es un juego de disparos JcJ multijugador que combina combate táctico entre naves con una acción trepidante en primera persona. Evade riesgos en tu entorno, busca armas y mejoras de nave, y conviértete en la primera tripulación en escapar con el artefacto... o la última tripulación en vuelo.",
-      "developer": "Moonshot Games",
-      "publisher": "Dreamhaven, Inc.",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.38613.14011062654467580.dba38bbf-80c3-4aba-afd1-78d46abb6970.4d84c881-27c2-4b19-a64d-e13604baf39e",
-      "heroImage": "https://store-images.s-microsoft.com/image/apps.55623.14011062654467580.dba38bbf-80c3-4aba-afd1-78d46abb6970.0c705525-0d1f-4999-82cd-f8cf6c3f91f1",
-      "screenshots": [
-        "https://store-images.s-microsoft.com/image/apps.54276.14011062654467580.dba38bbf-80c3-4aba-afd1-78d46abb6970.86ab2b29-6725-46b9-8fb5-2592e1e8336e",
-        "https://store-images.s-microsoft.com/image/apps.30092.14011062654467580.dba38bbf-80c3-4aba-afd1-78d46abb6970.f32ac130-7914-45ac-8855-7c8973ea0f08",
-        "https://store-images.s-microsoft.com/image/apps.16246.14011062654467580.dba38bbf-80c3-4aba-afd1-78d46abb6970.a04910bf-1a07-4593-ad92-3ee96617bb23",
-        "https://store-images.s-microsoft.com/image/apps.43287.14011062654467580.dba38bbf-80c3-4aba-afd1-78d46abb6970.c2b53421-8018-4318-b3e7-c2405c562dc6"
-      ],
-      "videoUrl": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftassets/06179575-d778-4297-b598-a54fdd293fad-AVS.m3u8?packagedStreaming=true",
-      "videoCaption": "Wildgate - Reveal Trailer - ES",
-      "releaseDate": "2025-07-22",
-      "categories": [
-        "Shooter"
-      ],
-      "tiers": [
-        "pc",
-        "premium",
-        "ultimate"
-      ],
-      "platform": "both",
-      "price": 9.99,
-      "msrp": 9.99,
-      "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
-      "rating": 3.9,
-      "ratingCount": 7,
-      "ageRating": 12,
-      "pegiRating": "PEGI 12",
-      "pegiDescription": "Apropiado a partir de 12 años",
-      "interactiveDescriptions": [
-        "Interacción de usuarios",
-        "Compras dentro del juego"
-      ],
-      "capabilities": [
-        "Multijugador en línea  (2-24)",
-        "Multijugador multiplataforma de Xbox",
-        "Un jugador",
-        "Cooperación multiplataforma de Xbox",
-        "Multijugador multgeneración de Xbox Live",
-        "Optimizado para Xbox Series X|S",
-        "Logros de Xbox",
-        "Presencia de Xbox",
-        "Cosas guardadas en la nube de Xbox",
-        "Xbox Play Anywhere"
-      ],
-      "systemRequirements": [
-        {
-          "title": "SO",
-          "minimum": "Windows 10 version 18362.0 or higher",
-          "recommended": "Windows 10 version 18362.0 or higher"
-        },
-        {
-          "title": "Arquitectura",
-          "minimum": "x64",
-          "recommended": "x64"
-        },
-        {
-          "title": "Gráficos",
-          "minimum": "NVIDIA GeForce GTX 1050 Ti [4 GB] or Radeon RX 570 [4 GB]  or Intel Arc A380 [6 GB]",
-          "recommended": "Nvidia GeForce GTX 2070 [8 GB] or AMD Radeon RX 5700 XT [8 GB] or Intel Arc A580 [8 GB]"
-        },
-        {
-          "title": "Procesador",
-          "minimum": "Intel Core i5-4440 or AMD Ryzen 5 1600",
-          "recommended": "Intel Core i7-9700K or AMD Ryzen 7 3700X"
-        },
-        {
-          "title": "Memoria",
-          "minimum": "8 GB",
-          "recommended": "16 GB"
-        },
-        {
-          "title": "Memoria de vídeo",
-          "minimum": "4 GB",
-          "recommended": "8 GB"
-        },
-        {
-          "title": "Teclado",
-          "minimum": "",
-          "recommended": "Teclado integrado"
-        },
-        {
-          "title": "Mouse",
-          "minimum": "",
-          "recommended": "Mouse integrado"
-        },
-        {
-          "title": "Controladora",
-          "minimum": "",
-          "recommended": "Controladora de Xbox"
-        }
-      ],
-      "maxInstallSize": 14093557760,
-      "hasAddOns": true,
-      "storeUrl": "https://www.xbox.com/es-es/games/store/wildgate/9N6VS1BMZ3BW"
     },
     {
       "id": "9P1ZW5K4S44V",
