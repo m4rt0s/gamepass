@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-02T17:31:23.968Z",
+  "updatedAt": "2026-11-03T15:33:04.591Z",
   "market": "ES",
   "language": "es-ES",
-  "totalGames": 809,
+  "totalGames": 810,
   "counts": {
     "essential": 124,
-    "premium": 560,
-    "pc": 469,
-    "ultimate": 714,
-    "total": 809
+    "premium": 561,
+    "pc": 470,
+    "ultimate": 715,
+    "total": 810
   },
   "categories": [
     "Acción y aventura",
@@ -1256,7 +1256,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.3,
-      "ratingCount": 36,
+      "ratingCount": 37,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -4995,11 +4995,11 @@
         "ultimate"
       ],
       "platform": "both",
-      "price": 17.49,
+      "price": 49.99,
       "msrp": 49.99,
       "currency": "EUR",
-      "hasDiscount": true,
-      "discountPercent": 65,
+      "hasDiscount": false,
+      "discountPercent": 0,
       "rating": 4,
       "ratingCount": 22,
       "ageRating": 16,
@@ -5257,7 +5257,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.4,
-      "ratingCount": 40,
+      "ratingCount": 41,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -5806,7 +5806,7 @@
       "hasDiscount": true,
       "discountPercent": 60,
       "rating": 3.5,
-      "ratingCount": 246,
+      "ratingCount": 248,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -8498,7 +8498,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 1.8,
-      "ratingCount": 92,
+      "ratingCount": 94,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -12323,7 +12323,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 22533984256,
+      "maxInstallSize": 22534164480,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/dayz/BSR9NLHVF1KL"
     },
@@ -13754,7 +13754,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 42353582080,
+      "maxInstallSize": 42492600320,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/diablo-ii-resurrected/9NT0PNTL6B79"
     },
@@ -14056,8 +14056,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 4.6,
-      "ratingCount": 7,
+      "rating": 4.5,
+      "ratingCount": 8,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -16505,7 +16505,7 @@
           "recommended": "Micrófono integrado"
         }
       ],
-      "maxInstallSize": 42609635328,
+      "maxInstallSize": 42608631808,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/dune-awakening/9PJ6FV3130QZ"
     },
@@ -17296,8 +17296,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 2.9,
-      "ratingCount": 8,
+      "rating": 2.7,
+      "ratingCount": 9,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -17732,7 +17732,7 @@
           "recommended": "8 GB"
         }
       ],
-      "maxInstallSize": 62006153216,
+      "maxInstallSize": 62006149120,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/enlisted/9NHKL695M9F2"
     },
@@ -19714,7 +19714,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4,
-      "ratingCount": 209,
+      "ratingCount": 210,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -20091,7 +20091,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 42862600192,
+      "maxInstallSize": 42860326912,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/farming-simulator-25/9NMCDQ6RCJKH"
     },
@@ -20180,7 +20180,7 @@
           "recommended": "8 GB"
         }
       ],
-      "maxInstallSize": 42914058240,
+      "maxInstallSize": 42911776768,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/farming-simulator-25-pc/9PM709J61828"
     },
@@ -21099,7 +21099,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.5,
-      "ratingCount": 59,
+      "ratingCount": 61,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -21943,8 +21943,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 4.6,
-      "ratingCount": 25,
+      "rating": 4.7,
+      "ratingCount": 27,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -23172,7 +23172,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.4,
-      "ratingCount": 428,
+      "ratingCount": 435,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -24485,8 +24485,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 0,
-      "ratingCount": 0,
+      "rating": 3.2,
+      "ratingCount": 4,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -25746,7 +25746,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.8,
-      "ratingCount": 198,
+      "ratingCount": 199,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -26154,7 +26154,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.5,
-      "ratingCount": 98,
+      "ratingCount": 99,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -28350,7 +28350,7 @@
       "hasDiscount": true,
       "discountPercent": 90,
       "rating": 4.7,
-      "ratingCount": 382,
+      "ratingCount": 383,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -29014,7 +29014,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.3,
-      "ratingCount": 171,
+      "ratingCount": 172,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -32086,8 +32086,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 3.9,
-      "ratingCount": 18,
+      "rating": 4,
+      "ratingCount": 19,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -32474,8 +32474,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 4.7,
-      "ratingCount": 26,
+      "rating": 4.6,
+      "ratingCount": 27,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -32594,7 +32594,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.7,
-      "ratingCount": 51935,
+      "ratingCount": 51939,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -32672,7 +32672,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.7,
-      "ratingCount": 21136,
+      "ratingCount": 21137,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -32804,7 +32804,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.1,
-      "ratingCount": 30,
+      "ratingCount": 31,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -33057,7 +33057,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4,
-      "ratingCount": 16022,
+      "ratingCount": 16024,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -33154,7 +33154,7 @@
           "recommended": "8 GB"
         }
       ],
-      "maxInstallSize": 2244055040,
+      "maxInstallSize": 2171682816,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/minecraft-preview-for-windows/9P5X4QVLC2XR"
     },
@@ -33215,7 +33215,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 2419466240,
+      "maxInstallSize": 2411053056,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/minecraft-preview-for-xbox/9NQ19C36R0VD"
     },
@@ -33252,7 +33252,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.5,
-      "ratingCount": 61722,
+      "ratingCount": 61725,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -34575,7 +34575,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.3,
-      "ratingCount": 21,
+      "ratingCount": 23,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -38413,6 +38413,71 @@
       "storeUrl": "https://www.xbox.com/es-es/games/store/pillars-of-eternity-definitive-edition/9N1P6T7ZQ2KF"
     },
     {
+      "id": "9MW4MFG0192L",
+      "title": "PIT OF GOBLIN",
+      "description": "¿Alguna vez soñaste con ser la escoria de la escoria, viviendo una vida tan asquerosa y miserable que hasta las ratas te miran por encima del hombro? Bueno, en Pit of Goblin, ¡eso es el pan de cada día! Ponte tus botas más apestosas y adéntrate en criptas en ruinas, cavernas espeluznantes y restos infestados de fantasmas. ¡Cada paso está lleno de peligros y sorpresas! Tu misión es alimentar el estómago insaciable de la Reina Rey. Y lo mejor de todo: ¡puedes arrastrar a tus compañeros goblins contigo hacia la miseria!\n\nÚNETE O CAUSA EL CAOS\nForma equipo con hasta tres compañeros goblins. El trabajo en equipo es clave... a menos, claro, que seas de esos goblins que prefieren causar problemas. ¿Se mantendrán juntos o se escabullirán para hacer travesuras? De cualquier manera, ¡el caos goblin está garantizado!\nCada recorrido por el Pozo cuenta una historia goblin completamente nueva, ya sea esquivando trampas mortales o tropezando con tus propios pies gigantes. ¡No hay dos partidas que huelan igual!\nCuanto más desciendas, más difícil será el desafío. No olvides que tendrás que encontrar el camino de regreso... si quieres vivir para contarlo otro día.\n\n¿ERES CODICIOSO O ESTRATÉGICO?\nBusca comida y decide si quieres entregarle tus hallazgos a la Reina Rey. Cómetelos tú mismo para recuperar resistencia o vende algunos en la tienda para prepararte para tu próximo descenso. Pero cuidado: ¡un solo movimiento en falso podría significar el fin de tu miserable existencia!\nEstás advertido: el estómago de la Reina Rey es un pozo sin fondo. Siempre hay espacio para más comida... ¡o goblins!\n\nRISAS, SUSTOS Y DESASTRES GOBLIN\nAvanza a trompicones por mazmorras tan aterradoras que hasta se te enchinarán las uñas de los pies. Ya sean tumbas terroríficas, pasillos malditos o simples tonterías goblin, nada sale como debería en el Pozo. ¡Cada comida es una aventura!\n\n¡BOTÍN, CODICIA Y GLORIA GOBLIN!\n¿Guardarás todo tu botín para sobrevivir o irás por lo seguro y mantendrás feliz a la Reina Rey? La decisión es tuya. Cada incursión al Pozo te da la oportunidad de mejorar tu equipo, pero cuidado: ¡decepcionar a la Reina Rey podría ser tu perdición!\n\nCaracterísticas del juego\nJuego cooperativo en línea para 2 a 6 jugadores\nChat de voz por proximidad\nCastillos, criptas, minas y otros lugares espeluznantes\n¡Enemigos aterradores que quieren atraparte!\n¡Una Reina Rey hambrienta!\n¡Comida y botín!\nFuego y fuego amigo: ilumina tu camino... ¡o a tus amigos!\nTrampas: ¡mira por dónde pisas!\n¿Secretos...?\n\nJugabilidad y características\nPit of Goblin es un juego cooperativo de supervivencia y extracción. Puedes jugar en solitario, pero se recomienda jugar con amigos (o con compañeros aleatorios mediante el matchmaking). El objetivo es descender al Pozo y buscar comida y otros objetos de valor.\nA lo largo de las diferentes profundidades del Pozo encontrarás monstruos y criaturas desagradables que intentarán matarte a ti y a tus amigos goblins, o robarte la comida que hayas conseguido. Corre, escóndete, pero no olvides mirar por dónde pisas. De lo contrario, podrías caer víctima de trampas que pueden herirte o incluso matarte.\nLos goblins pueden correr, saltar y llenar sus bolsillos limitados con todo tipo de botín. ¡Aunque algunos objetos grandes necesitarán ambas manos! Comer ciertos objetos puede darte mejoras temporales, o puedes intentar usarlos como armas o distracciones lanzándolos.\nTu misión es alimentar a la Reina Rey y mantenerla satisfecha. Si consigues entregar suficiente comida, te enviará de vuelta al Pozo una vez más. Pero cada vez se volverá más codiciosa, aumentando la cantidad de comida necesaria para saciar su hambre. Cuanto más desciendas en el Pozo, mayores serán las recompensas... pero ¿valdrá la pena correr el riesgo?\nVende tu botín en la aldea goblin e intercambia tus valiosas monedas por antorchas, linternas mágicas, armaduras y otros objetos útiles. ¡El mercader goblin lo tiene todo! O pásate por la tienda de curiosidades y consigue piedras especiales de comunicación por el precio adecuado.\nAtrévete a explorar el Pozo: ¡la Reina Rey tiene hambre!",
+      "shortDescription": "",
+      "developer": "Friendly Foe",
+      "publisher": "Friendly Foe, Bright Gambit",
+      "imageUrl": "https://store-images.s-microsoft.com/image/apps.9831.13846192334895629.23a9d00d-834c-4fd7-abe1-41b8b885b3ee.6ec243d5-63f7-4a8a-bf58-7a0bd6fcd318",
+      "heroImage": "https://store-images.s-microsoft.com/image/apps.17754.13846192334895629.23a9d00d-834c-4fd7-abe1-41b8b885b3ee.2e1f9cbc-5362-4d7f-a418-3148206034cb",
+      "screenshots": [
+        "https://store-images.s-microsoft.com/image/apps.466.13846192334895629.23a9d00d-834c-4fd7-abe1-41b8b885b3ee.6e0a0495-746e-4639-935a-adb5ec3e93d6",
+        "https://store-images.s-microsoft.com/image/apps.17172.13846192334895629.23a9d00d-834c-4fd7-abe1-41b8b885b3ee.0bec2114-9e61-4789-baaf-94ea955497d5",
+        "https://store-images.s-microsoft.com/image/apps.39031.13846192334895629.23a9d00d-834c-4fd7-abe1-41b8b885b3ee.1ceec9db-8c3c-40f9-a657-d9f5dda354d4",
+        "https://store-images.s-microsoft.com/image/apps.1769.13846192334895629.23a9d00d-834c-4fd7-abe1-41b8b885b3ee.279d88a3-3b36-496a-8dc4-43098ab35511"
+      ],
+      "videoUrl": "https://cdn.trailers.xboxservices.com/trailers/00000000-0000-0000-0000-000000000000/xbox/prod/videos/mainprofile/13846192334895629/0f81e2d7-b7ff-4b67-b409-8c31e6dc49d9/manifest.m3u8",
+      "videoCaption": "Release Trailer",
+      "releaseDate": "2026-11-03",
+      "categories": [
+        "Acción y aventura"
+      ],
+      "tiers": [
+        "pc",
+        "premium",
+        "ultimate"
+      ],
+      "platform": "both",
+      "price": 7.99,
+      "msrp": 7.99,
+      "currency": "EUR",
+      "hasDiscount": false,
+      "discountPercent": 0,
+      "rating": 0,
+      "ratingCount": 0,
+      "ageRating": 7,
+      "pegiRating": "PEGI 7",
+      "pegiDescription": "Apropiado a partir de 7 años",
+      "interactiveDescriptions": [
+        "Interacción de usuarios"
+      ],
+      "capabilities": [
+        "Cooperativo en línea  (2-6)",
+        "Un jugador",
+        "Cooperación multiplataforma de Xbox",
+        "Optimizado para Xbox Series X|S",
+        "Logros de Xbox",
+        "Cosas guardadas en la nube de Xbox",
+        "Xbox Play Anywhere"
+      ],
+      "systemRequirements": [
+        {
+          "title": "SO",
+          "minimum": "Windows 10 version 18362.0 or higher",
+          "recommended": "Windows 10 version 18362.0 or higher"
+        },
+        {
+          "title": "Arquitectura",
+          "minimum": "x64",
+          "recommended": "x64"
+        }
+      ],
+      "maxInstallSize": 2612150272,
+      "hasAddOns": false,
+      "storeUrl": "https://www.xbox.com/es-es/games/store/pit-of-goblin/9MW4MFG0192L"
+    },
+    {
       "id": "9PK5WS0HXQKQ",
       "title": "Planet Coaster 2",
       "description": "Tírate a la piscina con Planet Coaster 2, ¡la secuela del mejor simulador de parques de atracciones del mundo!  \n\nAlcanza nuevas dimensiones de creatividad, gestión y participación conforme construyes los parques temáticos de tus sueños combinando atracciones acuáticas épicas y montañas rusas para deleitar y emocionar a los visitantes. \n\n¡Zambúllete ya! \n\nDA RIENDA SUELTA A TU CREATIVIDAD \n\nExpande tu imaginación: las herramientas de construcción y creación de caminos mejoradas permiten crear amplias plazas y parques temáticos espectaculares fieles a la realidad. Deja huella en el mundo modelando el terreno y poblando el parque con impresionantes piscinas y emocionantes atracciones. Nunca ha sido tan fácil dar vida al parque de tus sueños.  \n\nCrea el parque temático definitivo: Sumérgete en un mundo de creatividad con nueve temáticas distintas, desde las clásicas como la pirata o la del Oeste o nuevas incorporaciones como la vikinga y la mitológica.Gracias a los miles de elementos personalizables a tu disposición, tus creaciones serán totalmente únicas.\n\nPersonalización superior: embárcate en una experiencia inolvidable con el parque de atracciones que lleva al límite tu creatividad como nunca.  ¡Da rienda suelta a tu imaginación conforme montas las creaciones temáticas más impresionantes con herramientas de personalización sinigual! Por primera vez, añade decoración y objetos de tamaño variable intuitivamente a cada atracción para mejorar tu parque y ofrecerles a tus visitantes un día para el recuerdo. \n\nCombina atracciones acuáticas y montañas rusas épicas: crea la mejor experiencia para visitantes temerarios haciendo uso de la construcción pieza por pieza. Construye una trepidante variedad de montañas rusas y atracciones de vértigo. Diseña un parque paradisíaco perfectamente interconectado con relucientes piscinas y retorcidos toboganes acuáticos.   \n\nCrea experiencias inolvidables: deja boquiabiertos a tus visitantes con detalles impresionantes de atracciones del mundo real por medio de la nueva herramienta de secuenciador de eventos, y añade una iluminación general sofisticada para que la experiencia esté repleta de elementos visuales imponentes y que rebosen veracidad. \n\nPERFECCIONA TU GESTIÓN \n\nEncuentra la receta del éxito: ¡consigue el equilibrio entre la fascinación de tus visitantes y la gestión del presupuesto! Coloca montones de increíbles atracciones eficientes y las tiendas necesarias para mejorar tu clasificación y convertirte en una estrella de los parques temáticos. \n\nCuida a tus visitantes: ten presente la salud, el bienestar y la satisfacción de los visitantes para que tu parque prospere. Los nuevos parques acuáticos requieren zonas de sombra, crema solar, socorristas, vestuarios y muchas cosas más para que todo el mundo disfrute de un gran día dentro y fuera de las piscinas. \n\nSatisfacción garantizada: comprender las necesidades y exigencias de los visitantes nunca había sido tan fácil. La nueva función de mapas de calor permite comprender las necesidades generales del parque de un vistazo antes de profundizar en los detalles: solo tienes que seleccionar a un visitante para ver si este y su círculo están disfrutando del parque temático. \n\nATRACCIONES EN GRUPO \n\nCrea en compañía: desata tu creatividad colectiva a través del modo Creación. ¡Construye un parque por turnos con jugadores de todo el mundo por medio de una partida guardada multiplataforma! \n\nJuega en compañía: por primera vez, podrás colaborar con amigos en el modo Franquicia para crear el mejor imperio de parques de atracciones y competir contra los demás para llegar a lo más alto de la clasificación mundial. \n\nVisita conjunta: zambúllete en la diversión y siéntelo todo de cerca disfrutando de las creaciones de otros jugadores de primera mano; ¡explora sus mundos en primera persona como visitante! \n\nComparte creaciones: ¡compártelo todo! Sube montañas rusas, atracciones o incluso parques temáticos enteros para los demás jugadores, y descarga y disfruta de las creaciones de los demás. Accede fácilmente al sistema multiplataforma de Frontier Workshop en el juego y en la web. ",
@@ -41328,7 +41393,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.3,
-      "ratingCount": 139,
+      "ratingCount": 140,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -41885,7 +41950,7 @@
       "hasDiscount": true,
       "discountPercent": 20,
       "rating": 4.5,
-      "ratingCount": 341,
+      "ratingCount": 345,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -42553,7 +42618,7 @@
           "recommended": "Micrófono integrado"
         }
       ],
-      "maxInstallSize": 2443759616,
+      "maxInstallSize": 2501648384,
       "hasAddOns": false,
       "storeUrl": "https://www.xbox.com/es-es/games/store/roadside-research-versi-n-preliminar/9PFNXM9G4N83"
     },
@@ -43372,7 +43437,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.9,
-      "ratingCount": 7,
+      "ratingCount": 8,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -44866,7 +44931,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 30980755456,
+      "maxInstallSize": 31389331456,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/smite-2/9NV8W1KJSQLL"
     },
@@ -45990,8 +46055,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 3.9,
-      "ratingCount": 174,
+      "rating": 3.8,
+      "ratingCount": 176,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -48651,8 +48716,8 @@
       "currency": "EUR",
       "hasDiscount": true,
       "discountPercent": 20,
-      "rating": 1.6,
-      "ratingCount": 12,
+      "rating": 2.4,
+      "ratingCount": 18,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -49916,7 +49981,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 2.6,
-      "ratingCount": 583,
+      "ratingCount": 584,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -50010,7 +50075,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.5,
-      "ratingCount": 424,
+      "ratingCount": 425,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -53065,12 +53130,12 @@
       "heroImage": "https://store-images.s-microsoft.com/image/apps.8662.71050925055292780.d113598c-97ad-4805-8dbc-eb73bf447e25.c44374e8-bbb5-4411-a862-16a5b5a549e8",
       "screenshots": [
         "https://store-images.s-microsoft.com/image/apps.62367.71050925055292780.d113598c-97ad-4805-8dbc-eb73bf447e25.af5cbb6b-9399-4487-8a8b-709967d15792",
-        "https://store-images.s-microsoft.com/image/apps.27526.71050925055292780.d113598c-97ad-4805-8dbc-eb73bf447e25.ae096ec3-c8b8-403b-8209-b3161efd066b",
-        "https://store-images.s-microsoft.com/image/apps.23664.71050925055292780.d113598c-97ad-4805-8dbc-eb73bf447e25.4c1f5b16-7dfa-480f-9922-bb144f522fc2",
-        "https://store-images.s-microsoft.com/image/apps.18162.71050925055292780.d113598c-97ad-4805-8dbc-eb73bf447e25.3b4773b5-9f4a-4cf6-8410-2758583986f9"
+        "https://store-images.s-microsoft.com/image/apps.14270.71050925055292780.e4ffcb82-4a77-405c-955a-8b5f2464657e.55b86480-1a4b-45c8-9d78-092c93f111c4",
+        "https://store-images.s-microsoft.com/image/apps.64395.71050925055292780.e4ffcb82-4a77-405c-955a-8b5f2464657e.8e68ec1e-fbcc-4e2a-9f8e-ae635a48cc76",
+        "https://store-images.s-microsoft.com/image/apps.16565.71050925055292780.e4ffcb82-4a77-405c-955a-8b5f2464657e.36eefd2a-b139-43b2-9c07-d6a7b1f03d79"
       ],
-      "videoUrl": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftassets/f66e23d9-5f93-4743-b136-9c21ce7779d1-AVS.m3u8?packagedStreaming=true",
-      "videoCaption": "Gameplay Trailer",
+      "videoUrl": "https://cdn.trailers.xboxservices.com/trailers/00000000-0000-0000-0000-000000000000/xbox/prod/videos/mainprofile/71050925055292780/a5665033-e263-42b0-a31c-d1e173c06b10/manifest.m3u8",
+      "videoCaption": "Y8S3 Launch Trailer",
       "releaseDate": "2019-03-15",
       "categories": [
         "Juegos de rol",
@@ -53129,12 +53194,12 @@
       "heroImage": "https://store-images.s-microsoft.com/image/apps.8662.71050925055292780.d113598c-97ad-4805-8dbc-eb73bf447e25.c44374e8-bbb5-4411-a862-16a5b5a549e8",
       "screenshots": [
         "https://store-images.s-microsoft.com/image/apps.62367.71050925055292780.d113598c-97ad-4805-8dbc-eb73bf447e25.af5cbb6b-9399-4487-8a8b-709967d15792",
+        "https://store-images.s-microsoft.com/image/apps.62367.14230868529963515.f9a81032-c87f-4d3d-878f-46eb3b6321de.8f1faf0e-ea05-4035-ac35-6093d29e563f",
         "https://store-images.s-microsoft.com/image/apps.27526.71050925055292780.d113598c-97ad-4805-8dbc-eb73bf447e25.ae096ec3-c8b8-403b-8209-b3161efd066b",
-        "https://store-images.s-microsoft.com/image/apps.23664.71050925055292780.d113598c-97ad-4805-8dbc-eb73bf447e25.4c1f5b16-7dfa-480f-9922-bb144f522fc2",
-        "https://store-images.s-microsoft.com/image/apps.18162.71050925055292780.d113598c-97ad-4805-8dbc-eb73bf447e25.3b4773b5-9f4a-4cf6-8410-2758583986f9"
+        "https://store-images.s-microsoft.com/image/apps.14270.14230868529963515.f9a81032-c87f-4d3d-878f-46eb3b6321de.d0cc2966-83a9-40d6-933e-66a550766965"
       ],
-      "videoUrl": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftassets/354a3432-b254-4b87-b468-ae97e8616921-AVS.m3u8?packagedStreaming=true",
-      "videoCaption": "Gameplay Trailer",
+      "videoUrl": "https://cdn.trailers.xboxservices.com/trailers/00000000-0000-0000-0000-000000000000/xbox/prod/videos/mainprofile/14230868529963515/361c28db-0e80-4073-b519-33abb70fd3dc/manifest.m3u8",
+      "videoCaption": "EOCP Launch Trailer",
       "releaseDate": "2026-07-21",
       "categories": [
         "Shooter"
@@ -54902,7 +54967,7 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 2.3,
+      "rating": 2.4,
       "ratingCount": 61,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
@@ -55157,7 +55222,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.9,
-      "ratingCount": 68,
+      "ratingCount": 69,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -55889,7 +55954,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.6,
-      "ratingCount": 19,
+      "ratingCount": 20,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -56255,7 +56320,7 @@
           "recommended": "Mouse integrado"
         }
       ],
-      "maxInstallSize": 79016267776,
+      "maxInstallSize": 79019831296,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/war-thunder/BX1DTCBD1HXJ"
     },
@@ -56703,7 +56768,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.3,
-      "ratingCount": 259,
+      "ratingCount": 260,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -59298,8 +59363,8 @@
       "shortDescription": "",
       "developer": "Wargaming Group Limited",
       "publisher": "Wargaming Group Limited",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.5355.13660342589962425.6455870f-14f6-40c6-8297-921ec3889341.b8c1aaa2-488e-481e-a1da-be13117b9acf",
-      "heroImage": "https://store-images.s-microsoft.com/image/apps.13.13660342589962425.6455870f-14f6-40c6-8297-921ec3889341.428f103e-5168-46df-b5f6-212174b55f84",
+      "imageUrl": "https://store-images.s-microsoft.com/image/apps.24728.13660342589962425.83c35c19-74e3-4695-9f5e-d36d0fcd1705.d32f03d7-3c2e-4a7c-9399-971eb467f09f",
+      "heroImage": "https://store-images.s-microsoft.com/image/apps.60668.13660342589962425.83c35c19-74e3-4695-9f5e-d36d0fcd1705.4af43d3b-ab05-4fce-88e9-c1e3a4774885",
       "screenshots": [
         "https://store-images.s-microsoft.com/image/apps.26265.13660342589962425.48781718-86cb-430e-93ad-8f104aed3fe9.ac21ea90-6435-452f-a6d7-271d494b5d7f",
         "https://store-images.s-microsoft.com/image/apps.3527.13660342589962425.16748a40-bd17-4436-9d80-541d3ed6a776.edd10f1f-ef71-4d16-aa20-f47c49de0a7c",
@@ -59388,7 +59453,7 @@
           "recommended": "4 GB"
         }
       ],
-      "maxInstallSize": 91382517760,
+      "maxInstallSize": 93077651456,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/world-of-warships/9NK9K07FDPJV"
     },
@@ -59504,7 +59569,7 @@
           "recommended": "Controladora de Xbox"
         },
         {
-          "title": "Micr��fono",
+          "title": "Micrófono",
           "minimum": "",
           "recommended": "Micrófono integrado"
         }
