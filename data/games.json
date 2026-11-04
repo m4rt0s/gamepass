@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-03T15:33:04.591Z",
+  "updatedAt": "2026-11-04T15:50:05.739Z",
   "market": "ES",
   "language": "es-ES",
   "totalGames": 810,
   "counts": {
-    "essential": 124,
-    "premium": 561,
+    "essential": 133,
+    "premium": 564,
     "pc": 470,
     "ultimate": 715,
     "total": 810
@@ -568,7 +568,7 @@
           "recommended": "Micrófono integrado"
         }
       ],
-      "maxInstallSize": 5841448960,
+      "maxInstallSize": 5841498112,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/abiotic-factor/9P4NV23Q6QC2"
     },
@@ -600,11 +600,11 @@
         "ultimate"
       ],
       "platform": "both",
-      "price": 24.99,
+      "price": 14.99,
       "msrp": 24.99,
       "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
+      "hasDiscount": true,
+      "discountPercent": 40,
       "rating": 4.7,
       "ratingCount": 50,
       "ageRating": 12,
@@ -667,11 +667,11 @@
         "ultimate"
       ],
       "platform": "both",
-      "price": 24.99,
+      "price": 12.49,
       "msrp": 24.99,
       "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
+      "hasDiscount": true,
+      "discountPercent": 50,
       "rating": 3.5,
       "ratingCount": 17,
       "ageRating": 12,
@@ -1034,7 +1034,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 104899911680,
+      "maxInstallSize": 104899899392,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/age-of-empires-iv-edici-n-aniversario/9PHH1ZWRSZ41"
     },
@@ -1132,7 +1132,7 @@
           "recommended": "4 GB"
         }
       ],
-      "maxInstallSize": 103533793280,
+      "maxInstallSize": 103533871104,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/age-of-empires-iv-edici-n-aniversario/9N94NCGM1Q2N"
     },
@@ -1555,7 +1555,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.8,
-      "ratingCount": 390,
+      "ratingCount": 391,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -1822,7 +1822,7 @@
           "recommended": "Micrófono integrado"
         }
       ],
-      "maxInstallSize": 38030458880,
+      "maxInstallSize": 38033903616,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/aniimo/9PK8PHLCQDF6"
     },
@@ -2042,6 +2042,7 @@
       ],
       "tiers": [
         "pc",
+        "premium",
         "ultimate"
       ],
       "platform": "both",
@@ -2801,7 +2802,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.7,
-      "ratingCount": 21170,
+      "ratingCount": 21171,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -3913,7 +3914,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 129042010112,
+      "maxInstallSize": 135693062144,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/assassin-s-creed-valhalla/9P4NJFH17MRT"
     },
@@ -4875,6 +4876,7 @@
         "Carreras y vuelo"
       ],
       "tiers": [
+        "essential",
         "premium",
         "ultimate"
       ],
@@ -5153,7 +5155,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.3,
-      "ratingCount": 139,
+      "ratingCount": 140,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -5247,6 +5249,7 @@
         "Plataformas"
       ],
       "tiers": [
+        "essential",
         "premium",
         "ultimate"
       ],
@@ -5300,6 +5303,7 @@
         "Clásicos"
       ],
       "tiers": [
+        "essential",
         "premium",
         "ultimate"
       ],
@@ -6650,7 +6654,7 @@
           "recommended": "Mouse integrado"
         }
       ],
-      "maxInstallSize": 6218928128,
+      "maxInstallSize": 6220095488,
       "hasAddOns": false,
       "storeUrl": "https://www.xbox.com/es-es/games/store/beyond-these-stars/9N4ZMKC3GX4M"
     },
@@ -7003,7 +7007,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.2,
-      "ratingCount": 20,
+      "ratingCount": 21,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -7391,7 +7395,7 @@
     {
       "id": "9NQVHHW88XW9",
       "title": "Bluey's Happy Snaps",
-      "description": "Explora el mundo de Bluey como nunca antes.\nJuega, explora y captura momentos con Bluey y Bingo en esta aventura fotográfica por lugares emblemáticos de la serie. Haz fotos en solitario o al lado de un segundo jugador, descubre animales de Australia y convierte los recuerdos del juego en momentos divertidos de la vida real.\n\n¡Pa-ta-ta!\nBluey y Bingo han encontrado la antigua cámara de su padre (de cuando era guay y eso). Recorre Brisbane, la ciudad de Bluey, con ella y saca fotos de los juegos, persigue a los ibis y descubre sorpresas. Cada instantánea se guarda en tu álbum de recuerdos, donde podrás ver tus momentos favoritos.\n\nDiversión para todo el mundo\nUn segundo jugador se podrá unir a ti para explorar y posar, aunque el jugador principal liderará tras la cámara. Pasa tiempo con Muffin, Chloe, Winton y otros amigos de Bluey allá donde vayas, jugando con montones de juguetes y participando en juegos de la serie, como Tierra a la sombra o Caldero mágico.\n\nJuega en la vida real\n¡Lleno de consejos que transforman el tiempo en el juego en momentos para jugar en la vida real! Descubre cómo jugar con objetos de tu entorno y crea tu nueva aventura con cajas de cartón y fuertes de cojines. Los niños pueden explorar, jugar y descubrir cosas nuevas para luego divertirse sin pantallas.\n\nHaz fotos, captura y colecciona\nCompleta tu álbum de recuerdos foto a foto. Cada instantánea desbloquea pegatinas inspiradas en los amigos, la fauna y los juegos con los que te encuentras. Ordena las pegatinas, colorea los álbumes como quieras y viste a Bluey y a Bingo con los disfraces que podrás desbloquear por el camino.\n\nBluey's Happy Snaps no incluye compras integradas ni la posibilidad de jugar en línea.",
+      "description": "Explora el mundo de Bluey como nunca antes.\nJuega, explora y captura momentos con Bluey y Bingo en esta aventura fotográfica por lugares emblemáticos de la serie. Haz fotos en solitario o al lado de un segundo jugador, descubre animales de Australia y convierte los recuerdos del juego en momentos divertidos de la vida real.\n\n¡Pa-ta-ta!\nBluey y Bingo han encontrado la antigua cámara de su padre (de cuando era guay y eso). Recorre Brisbane, la ciudad de Bluey, con ella y saca fotos de los juegos, persigue a los ibis y descubre sorpresas. Cada instantánea se guarda en tu álbum de recuerdos, donde podrás ver tus momentos favoritos.\n\nDiversión para todo el mundo\nUn segundo jugador se podrá unir a ti para explorar y posar, aunque el jugador principal liderará tras la cámara. Pasa tiempo con Muffin, Chloe, Winton y otros amigos de Bluey allá donde vayas, jugando con montones de juguetes y participando en juegos de la serie, como Tierra a la sombra o Caldero mágico.\n\nJuega en la vida real\n¡Lleno de consejos que transforman el tiempo en el juego en momentos para jugar en la vida real! Descubre cómo jugar con objetos de tu entorno y crea tu nueva aventura con cajas de cartón y fuertes de cojines. Los niños pueden explorar, jugar y descubrir cosas nuevas para luego divertirse sin pantallas.\n\nHaz fotos, captura y colecciona\nCompleta tu álbum de recuerdos foto a foto. Cada instantánea desbloquea pegatinas inspiradas en los amigos, la fauna y los juegos con los que te encuentras. Ordena las pegatinas, colorea los álbumes como quieras y viste a Bluey y a Bingo con los disfraces que podrás desbloquear por el camino.\n\nBluey's Happy Snaps no incluye compras integradas ni la posibilidad de jugar en línea.\n\nVoces totalmente localizadas en los siguientes idiomas: español (España), español (Latinoamérica), francés, italiano, alemán, japonés, portugués (Brasil) y mandarín.",
       "shortDescription": "Explora el mundo de Bluey como nunca antes!\n\n",
       "developer": "Gameloft",
       "publisher": "Gameloft",
@@ -7403,8 +7407,8 @@
         "https://store-images.s-microsoft.com/image/apps.37624.13762188493241252.cd93a720-804b-481e-9084-9d95c70ce2c6.4e8c4b84-d4d0-4e65-94ef-ac5980d1173c",
         "https://store-images.s-microsoft.com/image/apps.37689.13762188493241252.cd93a720-804b-481e-9084-9d95c70ce2c6.4050bdb7-4ead-48da-87c9-29f2221e3495"
       ],
-      "videoUrl": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftassets/e6b95434-068e-4521-a64b-f623e4ebd303-AVS.m3u8?packagedStreaming=true",
-      "videoCaption": "Bluey's Happy Snaps",
+      "videoUrl": "https://cdn.trailers.xboxservices.com/trailers/00000000-0000-0000-0000-000000000000/xbox/prod/videos/mainprofile/13762188493241252/880323ea-c33b-4fdb-bd39-d126261174e5/manifest.m3u8",
+      "videoCaption": "Bluey's Happy Snaps Launch Trailer Thumbnail",
       "releaseDate": "2026-10-14",
       "categories": [
         "Acción y aventura",
@@ -10971,7 +10975,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4,
-      "ratingCount": 94,
+      "ratingCount": 95,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -11351,7 +11355,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.8,
-      "ratingCount": 95,
+      "ratingCount": 96,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -13224,8 +13228,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 2.5,
-      "ratingCount": 8,
+      "rating": 2.8,
+      "ratingCount": 9,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -16359,11 +16363,11 @@
         "ultimate"
       ],
       "platform": "both",
-      "price": 22.99,
+      "price": 9.19,
       "msrp": 22.99,
       "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
+      "hasDiscount": true,
+      "discountPercent": 60,
       "rating": 4.2,
       "ratingCount": 19,
       "ageRating": 3,
@@ -17297,7 +17301,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 2.7,
-      "ratingCount": 9,
+      "ratingCount": 10,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -18023,7 +18027,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 1.5,
-      "ratingCount": 512,
+      "ratingCount": 513,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -19324,60 +19328,6 @@
       "storeUrl": "https://www.xbox.com/es-es/games/store/far-cry-3-blood-dragon-classic-edition/9NVJ4L71DF5Q"
     },
     {
-      "id": "BV2ZVP7PJZWL",
-      "title": "Far Cry 3 Classic Edition",
-      "description": "Ya disponible a 60 FPS en Xbox Series X|S.\n\nDisfruta (de nuevo) de Far Cry 3 Classic Edition. Crea tu propia aventura para un jugador en una isla de mundo abierto, repleta de peligros y descubrimientos, mientras exploras el lado oscuro de la humanidad.\n\nAl emprender una misión para rescatar a tus amigos, descubres que la única forma de escapar de esta oscuridad... es aceptarla. ¡Redescubre el shooter mejor valorado de 2012, actualizado en 2018 para la generación más reciente de consolas! Disfruta de este shooter en primera persona de mundo abierto que redefinió Far Cry en un juego que no se parece a nada que hayas visto.\n\nCrea tu propia aventura en esta peligrosa isla por tierra, mar y aire, recorriendo montañas, praderas pantanosas y playas de arena blanca. Lucha contra un grupo demencial de enemigos liderados por Vaas, interpretado de forma magistral por Michael Mando (Better Call Saul). También disponible como parte del Season Pass de Far Cry 5 y Far Cry 5 Gold Edition.",
-      "shortDescription": "Disfruta (de nuevo) de Far Cry 3 Classic Edition, ya disponible a 60 FPS en Xbox Series X|S. Crea tu propia aventura para un jugador en una isla de mundo abierto, repleta de peligros y descubrimientos, mientras exploras el lado oscuro de la humanidad.",
-      "developer": "",
-      "publisher": "Ubisoft",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.33719.71220804959101191.bad88979-60b4-40b4-af6d-182d4534c987.ecf3220f-0497-4cf1-9cee-d46d9d86ecc3",
-      "heroImage": "https://store-images.s-microsoft.com/image/apps.38505.71220804959101191.bad88979-60b4-40b4-af6d-182d4534c987.f4e71fb2-e446-46e4-8291-e474508a0c71",
-      "screenshots": [
-        "https://store-images.s-microsoft.com/image/apps.46703.71220804959101191.bad88979-60b4-40b4-af6d-182d4534c987.6032d73d-e556-4468-bdea-d751b107fa68",
-        "https://store-images.s-microsoft.com/image/apps.33203.71220804959101191.bad88979-60b4-40b4-af6d-182d4534c987.4321198b-3fa1-4cd3-9f07-4482b93de46a",
-        "https://store-images.s-microsoft.com/image/apps.28502.71220804959101191.bad88979-60b4-40b4-af6d-182d4534c987.2bcdb92c-68b7-4d1e-9a2a-de7795379c17",
-        "https://store-images.s-microsoft.com/image/apps.10476.71220804959101191.bad88979-60b4-40b4-af6d-182d4534c987.7614aa32-4166-4daf-a97e-136c028fde43"
-      ],
-      "videoUrl": "",
-      "videoCaption": "",
-      "releaseDate": "2018-06-26",
-      "categories": [
-        "Acción y aventura",
-        "Shooter"
-      ],
-      "tiers": [
-        "ultimate"
-      ],
-      "platform": "console",
-      "price": 29.99,
-      "msrp": 29.99,
-      "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
-      "rating": 3.8,
-      "ratingCount": 80,
-      "ageRating": 18,
-      "pegiRating": "PEGI 18",
-      "pegiDescription": "Apropiado a partir de 18 años",
-      "interactiveDescriptions": [],
-      "capabilities": [
-        "Un jugador",
-        "Optimizado para Xbox Series X|S",
-        "Xbox One X mejorado",
-        "Logros de Xbox"
-      ],
-      "systemRequirements": [
-        {
-          "title": "Arquitectura",
-          "minimum": "x64",
-          "recommended": "x64"
-        }
-      ],
-      "maxInstallSize": 17313845248,
-      "hasAddOns": false,
-      "storeUrl": "https://www.xbox.com/es-es/games/store/far-cry-3-classic-edition/BV2ZVP7PJZWL"
-    },
-    {
       "id": "9MVV32Z0JPCL",
       "title": "FAR CRY 4",
       "description": "Escondido en la imponente sierra del Himalaya se encuentra Kyrat, un país lleno de tradición y violencia. Tú eres a Ajay Ghale. En tu viaje a Kyrat para cumplir el último deseo de tu madre, te encontrarás atrapado en una guerra civil para derrocar al régimen opresor del dictador Pagan Min. Explora y navega este vasto mundo abierto donde el peligro y la imprevisibilidad acechan en cada esquina. Aquí, cada decisión cuenta y cada segundo es una historia. BIENVENIDO A KYRAT.\n\nCARACTERÍSTICAS DEL JUEGO:\n\n• MODO COOP DE MUNDO ABIERTO REVOLUCIONARIO: Far Cry 2 permite que el segundo jugador pueda entra y salir del juego en cualquier momento, reimaginando la experiencia cooperativa para próxima generación bajo el verdadero espíritu de Far Cry. Ahora podrás descubrir y explorar el mundo abierto de Kyrat a la vez.\n\n• Mundo abierto masivo: Descubre el mundo más diverso de Far Cry jamás creado. Con un terreno que abarca desde frondosos bosques a Himalayas nevados, el mundo entero está vivo ... y es mortal.\n\n• ABUNDANTE NUEVA VIDA SALVAJE: Desde leopardos, rinocerontes, águilas negras, y tejones de miel vicioso, mientras te embarcas en tu búsqueda de recursos, sabes que algo puede estar intentándote cazar a ti también...\n\n• NUEVAS FORMAS DE MOVERSE: Explora el territorio enemigo desde arriba en el totalmente nuevo girocóptero y vuelve a la tierra en tu traje con alas. Sube a la parte trasera de un elefante de 6 toneladas y da rienda suelta a sus fuerza bruta sobre tus enemigos.\n\n• NUEVAS ARMAS DE GRAN ALCANCE: Elige el arma adecuada para el trabajo, sin importar cuán loco o impredecible pueda ser el trabajo. Con un arsenal muy variado, estarás preparado para cualquier cosa.",
@@ -19960,6 +19910,60 @@
       "maxInstallSize": 24479002624,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/far-cry-new-dawn/C1DDW4PRF6K5"
+    },
+    {
+      "id": "BV2ZVP7PJZWL",
+      "title": "FARCRY 3 Classic Edition",
+      "description": "EXPERIENCIA MEJORADA\nJuega a 60 FPS en Xbox Series X|S sin coste adicional. FARCRY 3 Classic Edition trae la campaña legendaria para un jugador a la generación actual de consolas, con un nivel de detalle más nítido y una dinámica de combate más fluida.\n\nSOBREVIVE A LA ISLA DE LA LOCURA\nEres Jason Brody y estás atrapado en un archipiélago tropical sin ley. Enfréntate al infame Vaas Montenegro, toma decisiones brutales e intenta escapar de un descenso a la locura que cambiará a Jason para siempre.\n\nELIJE CÓMO LUCHAR\nAtaca los puestos avanzados con rifles y explosivos, dispara desde las colinas o recurre a los derribos silenciosos y las herramientas de sigilo. Fabrica jeringuillas y equipo, mejora tus habilidades y utiliza el entorno para cambiar las tornas.\n\nDESCUBRE UN PARAÍSO LETAL\nExplora cumbres montañosas, pantanos y playas de arena blanca en un paraíso tropical lleno de peligros y secretos. Caza animales salvajes, busca reliquias y botines, participa en actividades secundarias y viaja por tierra, mar o aire mientras luchas en pueblos, templos y puertos fluviales.",
+      "shortDescription": "Eres Jason Brody y estás atrapado en las islas Rook. Utiliza tu poderoso arsenal para abrirte por un mundo abierto tropical sin ley, salvar a tus amigos y escapar de la locura en este aclamado y trepidante shooter en primera persona. ¡Ahora a 60 FPS en Xbox Series X|S!",
+      "developer": "",
+      "publisher": "Ubisoft",
+      "imageUrl": "https://store-images.s-microsoft.com/image/apps.33719.71220804959101191.bad88979-60b4-40b4-af6d-182d4534c987.ecf3220f-0497-4cf1-9cee-d46d9d86ecc3",
+      "heroImage": "https://store-images.s-microsoft.com/image/apps.38505.71220804959101191.bad88979-60b4-40b4-af6d-182d4534c987.f4e71fb2-e446-46e4-8291-e474508a0c71",
+      "screenshots": [
+        "https://store-images.s-microsoft.com/image/apps.47724.71220804959101191.23aae5df-c374-4304-8068-6c7765bc9c5b.54ba4d9f-5893-4c43-a573-b8abbcc862f0",
+        "https://store-images.s-microsoft.com/image/apps.19021.71220804959101191.23aae5df-c374-4304-8068-6c7765bc9c5b.ce2a9ac2-dfb4-4b62-a25d-43ce529c58f4",
+        "https://store-images.s-microsoft.com/image/apps.63633.71220804959101191.23aae5df-c374-4304-8068-6c7765bc9c5b.84af688d-cf97-49ac-b432-f1a1ffc6a341",
+        "https://store-images.s-microsoft.com/image/apps.64541.71220804959101191.23aae5df-c374-4304-8068-6c7765bc9c5b.f31082a6-28b6-4c17-a5d3-5388ed44fa05"
+      ],
+      "videoUrl": "https://cdn.trailers.xboxservices.com/trailers/00000000-0000-0000-0000-000000000000/xbox/prod/videos/mainprofile/71220804959101191/fefbc272-25c7-4de4-989c-9cb5e5200343/manifest.m3u8",
+      "videoCaption": "01-Gameplay Trailer",
+      "releaseDate": "2018-06-26",
+      "categories": [
+        "Acción y aventura",
+        "Shooter"
+      ],
+      "tiers": [
+        "ultimate"
+      ],
+      "platform": "console",
+      "price": 29.99,
+      "msrp": 29.99,
+      "currency": "EUR",
+      "hasDiscount": false,
+      "discountPercent": 0,
+      "rating": 3.8,
+      "ratingCount": 80,
+      "ageRating": 18,
+      "pegiRating": "PEGI 18",
+      "pegiDescription": "Apropiado a partir de 18 años",
+      "interactiveDescriptions": [],
+      "capabilities": [
+        "Un jugador",
+        "Optimizado para Xbox Series X|S",
+        "Xbox One X mejorado",
+        "Logros de Xbox"
+      ],
+      "systemRequirements": [
+        {
+          "title": "Arquitectura",
+          "minimum": "x64",
+          "recommended": "x64"
+        }
+      ],
+      "maxInstallSize": 17313845248,
+      "hasAddOns": false,
+      "storeUrl": "https://www.xbox.com/es-es/games/store/farcry-3-classic-edition/BV2ZVP7PJZWL"
     },
     {
       "id": "9PBNGCVBGML0",
@@ -21098,8 +21102,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 4.5,
-      "ratingCount": 61,
+      "rating": 4.4,
+      "ratingCount": 63,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -21643,6 +21647,88 @@
       "storeUrl": "https://www.xbox.com/es-es/games/store/football-manager-26-console/9NMNZ4CK59DM"
     },
     {
+      "id": "9N4NKMXDZCX6",
+      "title": "Football Manager 27",
+      "description": "FM27 sale el 10 de noviembre. Resérvalo ahora con un descuento del 10 % y accede a una versión previa del juego a partir del 3 de noviembre. \n\nCada fan del fútbol ve las cosas de una manera. En FM27 esa visión no es una opinión, sino una realidad. \n\nSumérgete en un universo que vive y respira fútbol y en el que todas las decisiones dependen de ti. \n\nElige tu equipo, define tu estilo y fíjate en lo que a otros mánager se les puede haber escapado; quizá encuentres a una joven promesa de la cantera o puedas vender a una estrella que no se adapte a tu filosofía. \n\nEntrena a tu equipo en bloque, desarrolla una visión táctica genuina y haz que tu equipo levante pasiones en las gradas desde el banquillo. \n\nEl día del partido, reacciona a todo lo que proponga el rival, supera su presión, llega al área y dalo todo por el gol. \n\nLa historia del fútbol no se escribe sola. \n\nCualquier decisión puede ser la que lo cambie todo, así que busca ese futuro que solo tú puedes ver. \nPase lo que pase, te acordarás de las decisiones que te han llevado hasta donde estás. \n\nFootball Manager 27: tú decides. \n\n \n\nNovedades de FM27. \n\nDisfruta de la renovación de la formación de la plantilla con la nueva efectividad táctica que mide los recursos con los que cuentan tus jugadores para plasmar tu visión futbolística, y las mejoras del entrenamiento te permiten centrarte aún más en el desarrollo tanto individual como del equipo. \n\nAprovecha los huecos que deje la defensa rival con los retoques tácticos para ejercer más peso desde la banda. \n\nVive cada encuentro como si fuera una obra de teatro futbolístico más profunda gracias a las mejoras del público, los estadios y el ambiente, que le dan más emoción al juego. \n\nSienta a los defensas gracias a una mayor precisión y personalidad ofensiva, ya que el talento y la calidad individual tienen más protagonismo para que sea más gratificante ver cómo cobra vida en el campo tu planteamiento táctico. \n\nExplora el universo futbolístico que hay más allá de tu club con la vuelta de los sorteos de copas y el último día de fichajes, que imitan el ritmo y la emoción del calendario real. \n\nPasa de la rutina a la gloria gracias a una interfaz intuitiva que da prioridad a las decisiones clave. Eso sí, eres tú quien ejecuta tu visión, y puedes adaptar mejor la configuración a tu estilo de gestión con las opciones de personalización. \n\nY hay mucho más, como las nuevas ligas con licencia completa, las mejoras de la vista 2D del partido, más datos para tomar mejores decisiones y más de 1500 actualizaciones de torneos. \n\n \n* Esta versión contiene información que aún está en proceso de aprobación por parte de los titulares de los derechos y puede incluir datos que, en este momento, no reflejen fielmente los del mundo real. Es posible que falten algunos clubes y jugadores en esta versión.",
+      "shortDescription": "Elige tu club, fija tus tácticas, despliega tu plantilla. Busca ese futuro que solo tú puedes ver. \r\nFM27 da vida a tu visión futbolística. Tú decides.",
+      "developer": "Sports Interactive",
+      "publisher": "SEGA",
+      "imageUrl": "https://store-images.s-microsoft.com/image/apps.47586.13984136076613493.b5146129-a992-4e04-8b43-ffa40460c569.40797f8e-48ea-47e2-aab8-9ea6e13f5a79",
+      "heroImage": "https://store-images.s-microsoft.com/image/apps.62007.13984136076613493.b5146129-a992-4e04-8b43-ffa40460c569.147ab425-6569-40f3-92a8-f8431b082837",
+      "screenshots": [
+        "https://store-images.s-microsoft.com/image/apps.22264.13984136076613493.81911a4c-fa1c-4613-9601-5c1bec9ebb96.25a7e5a8-38f5-4d3e-a296-563d1606efc5",
+        "https://store-images.s-microsoft.com/image/apps.52727.13984136076613493.81911a4c-fa1c-4613-9601-5c1bec9ebb96.06526c8a-10a5-49e3-943c-f1274c337005",
+        "https://store-images.s-microsoft.com/image/apps.7017.13984136076613493.81911a4c-fa1c-4613-9601-5c1bec9ebb96.0b13609b-73a9-4b6b-ba1e-7ba26233af86",
+        "https://store-images.s-microsoft.com/image/apps.43483.13984136076613493.81911a4c-fa1c-4613-9601-5c1bec9ebb96.f4ed07bb-849e-4558-9296-cab732a93634"
+      ],
+      "videoUrl": "https://cdn.trailers.xboxservices.com/trailers/00000000-0000-0000-0000-000000000000/xbox/prod/videos/mainprofile/13984136076613493/de34dc42-9ef4-44e0-8d23-013f0ff4352c/manifest.m3u8",
+      "videoCaption": "Training and Tactical Effectiveness",
+      "releaseDate": "",
+      "categories": [
+        "Simulación",
+        "Deportes"
+      ],
+      "tiers": [
+        "pc",
+        "ultimate"
+      ],
+      "platform": "pc",
+      "price": 0,
+      "msrp": 0,
+      "currency": "EUR",
+      "hasDiscount": false,
+      "discountPercent": 0,
+      "rating": 0,
+      "ratingCount": 0,
+      "ageRating": 3,
+      "pegiRating": "PEGI 3",
+      "pegiDescription": "Apropiado a partir de 3 años",
+      "interactiveDescriptions": [
+        "Compras dentro del juego"
+      ],
+      "capabilities": [
+        "Un jugador",
+        "Multijugador multgeneración de Xbox Live",
+        "Logros de Xbox",
+        "Cosas guardadas en la nube de Xbox"
+      ],
+      "systemRequirements": [
+        {
+          "title": "SO",
+          "minimum": "Windows 10 version 18362.0 or higher",
+          "recommended": "Windows 10 version 18362.0 or higher"
+        },
+        {
+          "title": "Arquitectura",
+          "minimum": "x64",
+          "recommended": "x64"
+        },
+        {
+          "title": "Gráficos",
+          "minimum": "NVIDIA GeForce GTX 960 or AMD Radeon R9 380 or Intel HD 530",
+          "recommended": ""
+        },
+        {
+          "title": "Procesador",
+          "minimum": "Intel Core i3-530 or AMD FX-4100 ",
+          "recommended": ""
+        },
+        {
+          "title": "DirectX",
+          "minimum": "Versión 10",
+          "recommended": ""
+        },
+        {
+          "title": "Memoria",
+          "minimum": "4 GB",
+          "recommended": ""
+        }
+      ],
+      "maxInstallSize": 8763551744,
+      "hasAddOns": true,
+      "storeUrl": "https://www.xbox.com/es-es/games/store/football-manager-27/9N4NKMXDZCX6"
+    },
+    {
       "id": "9N3DWR830CVN",
       "title": "FOR HONOR - Standard Edition",
       "description": "COMBATE CUERPO A CUERPO REVOLUCIONARIO\nConvierte tu arma en una extensión de tu cuerpo con el exclusivo sistema de combate tridireccional de For Honor: The Art of Battle. Ejecuta ataques, paradas y bloqueos desde 3 direcciones en combates cuerpo a cuerpo inmersivos. Elige entre una gran variedad de armas y estilos de combate inspirados en guerreros legendarios.\n\nMODOS JCJ EN LÍNEA POR EQUIPOS\nEnfréntate a otros jugadores en el brutal modo Dominio 4c4 por equipos. Mantén los objetivos para hacer retroceder al equipo enemigo o disfruta de una experiencia más personal en 2c2 y 1c1. Y cuando sientas que puedes con todo, demuestra tu valía en nuestros modos de juego igualados.\n\nGUERREROS LEGENDARIOS\nElige entre una amplia selección de héroes excepcionales, cada uno con sus armas y estilos de combate propios. Selecciona a un caballero, samurái, vikingo, Wu Lin o forastero y personaliza a tu héroe con una amplia variedad de armas, armaduras, colores y materiales para destacar en el campo de batalla.\n\n10 AÑOS DE CONTENIDO EN CONSTANTE EVOLUCIÓN\n¡For Honor cumple 10 años! Te espera una década de contenido, y seguiremos añadiendo nuevos héroes, eventos y mapas de forma periódica para renovar tu experiencia. ¡Siempre hay algo nuevo de lo que disfrutar en For Honor!",
@@ -22053,7 +22139,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.7,
-      "ratingCount": 4563,
+      "ratingCount": 4564,
       "ageRating": 12,
       "pegiRating": "Supervisión parental recomendada",
       "pegiDescription": "Supervisión parental recomendada",
@@ -22214,7 +22300,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.1,
-      "ratingCount": 375,
+      "ratingCount": 376,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -22307,7 +22393,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.6,
-      "ratingCount": 1865,
+      "ratingCount": 1863,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -23172,7 +23258,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.4,
-      "ratingCount": 435,
+      "ratingCount": 437,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -23286,6 +23372,7 @@
         "Shooter"
       ],
       "tiers": [
+        "essential",
         "premium",
         "ultimate"
       ],
@@ -23942,13 +24029,13 @@
       "imageUrl": "https://store-images.s-microsoft.com/image/apps.58853.14057893183113088.c7459eb1-fd61-4f8d-9636-e286ca6b3f52.1fca4e5c-8445-4fda-a44d-cf68d967866d",
       "heroImage": "https://store-images.s-microsoft.com/image/apps.64361.14057893183113088.c7459eb1-fd61-4f8d-9636-e286ca6b3f52.e666f667-28dd-4155-b1b2-f4403b8b92dc",
       "screenshots": [
-        "https://store-images.s-microsoft.com/image/apps.56802.14057893183113088.225c959c-4e96-4c0d-b572-af64d573ae06.6e456167-7f94-4e68-89fd-f02abca0dea4",
-        "https://store-images.s-microsoft.com/image/apps.56485.14057893183113088.225c959c-4e96-4c0d-b572-af64d573ae06.b4c249b6-c7eb-48ca-8af5-126fcb981439",
-        "https://store-images.s-microsoft.com/image/apps.1527.14057893183113088.225c959c-4e96-4c0d-b572-af64d573ae06.ee578e01-10fa-44be-8c1f-3cc242769039",
-        "https://store-images.s-microsoft.com/image/apps.19470.14057893183113088.225c959c-4e96-4c0d-b572-af64d573ae06.823f0cc3-426a-43ae-967c-9d9313ddc668"
+        "https://store-images.s-microsoft.com/image/apps.53534.14057893183113088.6184a715-916f-4092-977e-599a3645f0a0.cbf51135-ceab-4870-9822-64d697a39bdc",
+        "https://store-images.s-microsoft.com/image/apps.642.14057893183113088.6184a715-916f-4092-977e-599a3645f0a0.4054cf19-ac67-4b31-af54-ca4980067934",
+        "https://store-images.s-microsoft.com/image/apps.44329.14057893183113088.6184a715-916f-4092-977e-599a3645f0a0.9d416947-1334-4053-a213-68cab04f817b",
+        "https://store-images.s-microsoft.com/image/apps.23953.14057893183113088.6184a715-916f-4092-977e-599a3645f0a0.6968e9d1-0f3d-4055-af57-cbb75a871fbe"
       ],
-      "videoUrl": "https://cdn.trailers.xboxservices.com/trailers/00000000-0000-0000-0000-000000000000/xbox/prod/videos/mainprofile/14057893183113088/9fb84f5d-19b1-41d6-b5bb-4473d9ae81fd/manifest.m3u8",
-      "videoCaption": "Un réquiem para el inframundo",
+      "videoUrl": "https://cdn.trailers.xboxservices.com/trailers/00000000-0000-0000-0000-000000000000/xbox/prod/videos/mainprofile/14057893183113088/aa2bd311-ece4-4b03-9672-5956fbaabce3/manifest.m3u8",
+      "videoCaption": "La hora de la destrucción",
       "releaseDate": "2024-11-20",
       "categories": [
         "Acción y aventura",
@@ -24419,7 +24506,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.7,
-      "ratingCount": 127,
+      "ratingCount": 128,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -24485,8 +24572,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 3.2,
-      "ratingCount": 4,
+      "rating": 3.6,
+      "ratingCount": 5,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -24564,7 +24651,7 @@
           "recommended": "Micrófono integrado"
         }
       ],
-      "maxInstallSize": 6931189760,
+      "maxInstallSize": 6931140608,
       "hasAddOns": false,
       "storeUrl": "https://www.xbox.com/es-es/games/store/gravhounds-versi-n-preliminar-del-juego/9PBG4MTM3JJC"
     },
@@ -24972,7 +25059,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 21056790528,
+      "maxInstallSize": 21056745472,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/grounded-2-game-preview/9P77PG7DK0W2"
     },
@@ -25940,6 +26027,7 @@
         "Campo de batalla en línea para varios jugadores"
       ],
       "tiers": [
+        "essential",
         "premium",
         "ultimate"
       ],
@@ -25993,6 +26081,7 @@
         "Acción y aventura"
       ],
       "tiers": [
+        "essential",
         "pc",
         "premium",
         "ultimate"
@@ -27451,7 +27540,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.2,
-      "ratingCount": 482,
+      "ratingCount": 483,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -31220,11 +31309,11 @@
         "ultimate"
       ],
       "platform": "both",
-      "price": 29.99,
+      "price": 22.49,
       "msrp": 29.99,
       "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
+      "hasDiscount": true,
+      "discountPercent": 25,
       "rating": 3,
       "ratingCount": 91,
       "ageRating": 12,
@@ -32237,7 +32326,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.4,
-      "ratingCount": 42,
+      "ratingCount": 43,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -32594,7 +32683,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.7,
-      "ratingCount": 51939,
+      "ratingCount": 51942,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -33057,7 +33146,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4,
-      "ratingCount": 16024,
+      "ratingCount": 16022,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -33252,7 +33341,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.5,
-      "ratingCount": 61725,
+      "ratingCount": 61723,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -33630,7 +33719,7 @@
           "recommended": "Micrófono integrado"
         }
       ],
-      "maxInstallSize": 38193836032,
+      "maxInstallSize": 38193770496,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/mistfall-hunter/9P8X6TVW9ZW8"
     },
@@ -34365,7 +34454,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.6,
-      "ratingCount": 101,
+      "ratingCount": 100,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -34575,7 +34664,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.3,
-      "ratingCount": 23,
+      "ratingCount": 24,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -34791,7 +34880,7 @@
           "recommended": "Controladora de Xbox"
         }
       ],
-      "maxInstallSize": 109185376256,
+      "maxInstallSize": 110678917120,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/naraka-bladepoint/9P8SQQJ5T94B"
     },
@@ -34986,9 +35075,9 @@
       "discountPercent": 0,
       "rating": 3.5,
       "ratingCount": 69,
-      "ageRating": 12,
-      "pegiRating": "PEGI 12",
-      "pegiDescription": "Apropiado a partir de 12 años",
+      "ageRating": 16,
+      "pegiRating": "PEGI 16",
+      "pegiDescription": "Apropiado a partir de 16 años",
       "interactiveDescriptions": [
         "Compras dentro del juego (Incluye artículos aleatorios)"
       ],
@@ -36154,11 +36243,11 @@
         "ultimate"
       ],
       "platform": "both",
-      "price": 24.99,
+      "price": 12.49,
       "msrp": 24.99,
       "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
+      "hasDiscount": true,
+      "discountPercent": 50,
       "rating": 4.5,
       "ratingCount": 51,
       "ageRating": 16,
@@ -36226,7 +36315,7 @@
       "hasDiscount": true,
       "discountPercent": 60,
       "rating": 3.9,
-      "ratingCount": 777,
+      "ratingCount": 778,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -36296,7 +36385,7 @@
           "recommended": "Micrófono integrado"
         }
       ],
-      "maxInstallSize": 33902465024,
+      "maxInstallSize": 33902968832,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/no-man-s-sky/BQVQTL3PCH05"
     },
@@ -36584,7 +36673,7 @@
           "recommended": "Mouse integrado"
         }
       ],
-      "maxInstallSize": 121135706112,
+      "maxInstallSize": 121918033920,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/once-human/9N0QWXC09MPT"
     },
@@ -37763,6 +37852,7 @@
         "Shooter"
       ],
       "tiers": [
+        "essential",
         "premium",
         "ultimate"
       ],
@@ -38444,8 +38534,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 0,
-      "ratingCount": 0,
+      "rating": 1.9,
+      "ratingCount": 8,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -38473,7 +38563,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 2612150272,
+      "maxInstallSize": 2636959744,
       "hasAddOns": false,
       "storeUrl": "https://www.xbox.com/es-es/games/store/pit-of-goblin/9MW4MFG0192L"
     },
@@ -38780,9 +38870,9 @@
       "discountPercent": 70,
       "rating": 4.4,
       "ratingCount": 336,
-      "ageRating": 7,
-      "pegiRating": "PEGI 7",
-      "pegiDescription": "Apropiado a partir de 7 años",
+      "ageRating": 16,
+      "pegiRating": "PEGI 16",
+      "pegiDescription": "Apropiado a partir de 16 años",
       "interactiveDescriptions": [
         "Compras dentro del juego (Incluye artículos aleatorios)"
       ],
@@ -41456,7 +41546,7 @@
       "hasDiscount": true,
       "discountPercent": 80,
       "rating": 4.7,
-      "ratingCount": 490,
+      "ratingCount": 491,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -42855,7 +42945,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.1,
-      "ratingCount": 1443,
+      "ratingCount": 1444,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -48372,7 +48462,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 3963744256,
+      "maxInstallSize": 3955765248,
       "hasAddOns": false,
       "storeUrl": "https://www.xbox.com/es-es/games/store/tears-of-metal-versi-n-preliminar-del-juego/9PN8M16GG8M4"
     },
@@ -48716,8 +48806,8 @@
       "currency": "EUR",
       "hasDiscount": true,
       "discountPercent": 20,
-      "rating": 2.4,
-      "ratingCount": 18,
+      "rating": 2.5,
+      "ratingCount": 21,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -49981,7 +50071,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 2.6,
-      "ratingCount": 584,
+      "ratingCount": 583,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -51399,49 +51489,6 @@
       "storeUrl": "https://www.xbox.com/es-es/games/store/the-rogue-prince-of-persia/9P7M1VCXKQVD"
     },
     {
-      "id": "9P1WJCK9B8S6",
-      "title": "The Rogue Prince of Persia™",
-      "description": "Sumérgete en una aventura emocionante y épica, en la que cada acción vibra al ritmo envolvente de la intensa banda sonora. Domina un combate acrobático, fluido y adaptable, junto con complicados movimientos de parkour. Tendrás que dar forma a tu estilo muerte a muerte. Puede que mediante la exploración y los encuentros puedas dar con un modo de enmendar tus errores y salvar el reino persa salido de la imaginación de Evil Empire.\n\nREESCRIBE EL DESTINO. SALVA PERSIA. MUERE EN EL INTENTO.\nDa forma a la leyenda de un príncipe que escapó de la muerte, pero cuyo error fatal fue la perdición de su pueblo. Haz todo lo posible por enmendar tus errores: cada fallo es una nueva posibilidad de explorar distintos caminos, descubrir secretos, conocer a personajes y usar el conocimiento obtenido de anteriores intentonas para cambiar el destino de tu pueblo y ganarte el título de príncipe de Persia.\n\nDOMINA UN ESTILO RÁPIDO Y ACROBÁTICO\nEres el príncipe de Persia, y la agilidad es tu mejor arma. Esquiva trampas, corre por las paredes, encadena combos acrobáticos y golpea con precisión. Cada movimiento es una oportunidad, y cada batalla premiará tu habilidad y estilo.\n\nLUCHA A TU MANERA\nDescubre, desbloquea y domina más de 100 armas y medallones únicos. Adapta, mejora y personaliza la configuración de tu personaje en cada partida. Crea combinaciones letales que se adapten a tu estilo de juego.\n\nUNA PARTIDA DIFERENTE CADA VEZ\nNinguna partida es igual. Vuelve a sumergirte en esta aventura en constante evolución, en la que la narración, el metaprogreso, los modificadores de dificultad, los eventos aleatorios y los niveles generados procedimentalmente te dejarán siempre con ganas de echar otra partida.",
-      "shortDescription": "En este frenético y endiablado roguelite, cada muerte es una oportunidad única de reescribir el destino y salvar Persia... o morir en el intento. Domina un combate acrobático y fluido, y desplázate con movimientos de parkour mientras exploras tu reino para enmendar tus errores.",
-      "developer": "",
-      "publisher": "Ubisoft",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.44243.14503626044492977.7208f0d9-85c4-4e8b-ae05-bd4b875bf1b3.2f032f23-1ee7-4b0c-9709-c9a11ca6de6f",
-      "heroImage": "https://store-images.s-microsoft.com/image/apps.13628.14503626044492977.7208f0d9-85c4-4e8b-ae05-bd4b875bf1b3.79b2278b-5809-409f-9162-697262b18a60",
-      "screenshots": [
-        "https://store-images.s-microsoft.com/image/apps.14728.14503626044492977.7208f0d9-85c4-4e8b-ae05-bd4b875bf1b3.cdd31441-bdb4-4569-b7b9-ab5decaaf13e",
-        "https://store-images.s-microsoft.com/image/apps.34790.14503626044492977.7208f0d9-85c4-4e8b-ae05-bd4b875bf1b3.ddb75100-04ef-4d88-9e2a-48fef4559ebf",
-        "https://store-images.s-microsoft.com/image/apps.47133.14503626044492977.7208f0d9-85c4-4e8b-ae05-bd4b875bf1b3.8ec577b2-cb62-48da-b907-3e400347ac7e",
-        "https://store-images.s-microsoft.com/image/apps.5565.14503626044492977.7208f0d9-85c4-4e8b-ae05-bd4b875bf1b3.59e44e95-69c0-4fdf-a9ee-0a2abb8fb317"
-      ],
-      "videoUrl": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftassets/c6915186-c804-4ffe-93f7-f0cd5cbb2579-AVS.m3u8?packagedStreaming=true",
-      "videoCaption": "Release Trailer",
-      "releaseDate": "",
-      "categories": [
-        "Acción y aventura"
-      ],
-      "tiers": [
-        "pc",
-        "ultimate"
-      ],
-      "platform": "pc",
-      "price": 0,
-      "msrp": 0,
-      "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
-      "rating": 0,
-      "ratingCount": 0,
-      "ageRating": 12,
-      "pegiRating": "PEGI 12",
-      "pegiDescription": "Apropiado a partir de 12 años",
-      "interactiveDescriptions": [],
-      "capabilities": [],
-      "systemRequirements": [],
-      "maxInstallSize": 0,
-      "hasAddOns": false,
-      "storeUrl": "https://www.xbox.com/es-es/games/store/the-rogue-prince-of-persia/9P1WJCK9B8S6"
-    },
-    {
       "id": "9N034X5G08B7",
       "title": "The Royal Writ",
       "description": "En The Royal Writ, no solo juegas cartas, sino que las diriges en el campo de batalla. Coloca a tus leales súbditos de forma estratégica para que avancen hacia el enemigo y le inflinjan daño. Pero cuidado: cualquier carta que llegue a la base enemiga antes de la victoria se destruye permanentemente y se elimina de tu mazo para el resto de la partida.\n\nEl sacrificio no es solo un riesgo: es una estrategia esencial que crea subhistorias memorables con cada partida. ¿Honrarás a los súbditos que lo dieron todo por tu causa? Cada carta caída cuenta una historia, y su gloria perdura en el legado que construyes.\n\nPonte al mando de un ejército de diversos guerreros con interesantes habilidades que conforman tu estrategia. Dirige a un ejército de animales que, aunque adorables, están curtidos en la batalla. Tus filas pueden estar compuestas por un flamenco frágil y herido, un pollo arquero miope o incluso un lagarto astuto que, ¡solo pierde la cola para engañar a la muerte! Desde las hormigas rojas renegadas hasta la vaca catadora, cada carta de tu mazo tiene una personalidad y un propósito.\n\nMientras marchan hacia la gloria o la muerte, sus historias individuales pasan a formar parte del legado de tu reino, y sus sacrificios nunca se olvidarán. Puede que incluso te encuentres con algunas criaturas peculiares en tu viaje, como el dentista mantis enloquecido, la cabra estratega o el tendero jabalí impaciente. Tan solo no les preguntes de dónde sacaron sus credenciales.\n\nConquista el reino a través de dos aventuras distintas:\n\nLa primera campaña te enfrenta a una creciente rebelión mientras intentas mantener el buen y justo (objetivamente) gobierno del rey. Ábrete paso a través de un desafiante entorno lleno de fosas profundas y pantanos envenenados mientras intentas sofocar a los rebeldes. A medida que avances, puede que empieces a preguntarte si hay más de lo que parece con los problemas del reino.\n\nLa segunda campaña introduce una nueva amenaza: la pólvora. Como ahora entran en el campo de batalla nuevas armas experimentales, tu estrategia debe cambiar. Ya no te limitarás a evitar los peligros del entorno: deberás esquivar las andanadas de balas para asegurarte de que ni tú ni tus tropas resultáis heridos de muerte durante el avance.\n\nCada campaña cuenta con sus propios desafíos estratégicos, cartas exclusivas y jefes. ¡El campo de batalla aguarda tus órdenes!\n\nCARACTERÍSTICAS DIGNAS DE LA REALEZA\n\nJugabilidad intuitiva, aunque profunda: fácil de aprender sin renunciar al desafío.\nProgresión Roguelike: cada partida es diferente.\nMuerte permanente de cartas: ¡Las cartas que pierdas no se recuperan!\nEncantador estilo artístico: gráficos propios de un libro de ilustraciones se mezclan con el absurdo medieval y el humor negro.\nEncuentros con PNJ memorables: ¿Son amigos o enemigos?\nMecánicas especiales para jefes: desafíos únicos que te pondrán a prueba\nDificultad gradual: asciende por dificultades cada vez más elevadas a medida que progresas.\nModos Desafío: pon a prueba tus habilidades en modos especiales con reglas únicas.\nReliquias: consigue reliquias con diversos efectos que cambian tu forma de jugar.\n\nDe un antiguo decreto real:\n\n\"El arte de la guerra es simple. Envía a tus súbditos a morir gloriosamente en tu nombre. Su sacrificio garantiza tu legado... y si resulta que ganan, ¡pues mejor!\"\n\n¿Escribirás tu nombre en los anales de la historia o te convertirás en otro monarca olvidado? El equilibrio entre la pérdida y el triunfo está en tus manos.\n\n¡Salve! ¡Que tus caídos sean recordados y tus victorias dulces!\n",
@@ -51554,7 +51601,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 1.3,
-      "ratingCount": 24,
+      "ratingCount": 25,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -55222,7 +55269,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.9,
-      "ratingCount": 69,
+      "ratingCount": 71,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -55455,6 +55502,7 @@
       ],
       "tiers": [
         "pc",
+        "premium",
         "ultimate"
       ],
       "platform": "both",
@@ -55944,6 +55992,7 @@
         "Niños y familia"
       ],
       "tiers": [
+        "essential",
         "premium",
         "ultimate"
       ],
@@ -55996,6 +56045,7 @@
         "Niños y familia"
       ],
       "tiers": [
+        "essential",
         "premium",
         "ultimate"
       ],
@@ -56050,14 +56100,15 @@
       ],
       "tiers": [
         "pc",
+        "premium",
         "ultimate"
       ],
       "platform": "pc",
-      "price": 26.99,
+      "price": 16.19,
       "msrp": 26.99,
       "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
+      "hasDiscount": true,
+      "discountPercent": 40,
       "rating": 0,
       "ratingCount": 0,
       "ageRating": 12,
@@ -59247,8 +59298,8 @@
       "shortDescription": "World of Tanks: HEAT es un juego de disparos JcJ gratis con habilidades y combates explosivos en equipo. Maneja blindados personalizables, usa habilidades de agentes en batallas en línea que combinan táctica e intensidad al más puro estilo FPS.",
       "developer": "Wargaming.net",
       "publisher": "Wargaming.net",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.46446.13914660851585642.bf740845-6b4f-4219-8754-f267907650cd.86215b6f-798f-45e3-bcde-737ebc123907",
-      "heroImage": "https://store-images.s-microsoft.com/image/apps.37452.13914660851585642.bf740845-6b4f-4219-8754-f267907650cd.5c5e08d0-567c-44f0-bc41-12bd4405b109",
+      "imageUrl": "https://store-images.s-microsoft.com/image/apps.28387.13914660851585642.a21c2c87-a21a-4263-9436-669b54cfa894.7bd00d59-6fb9-4b0a-b3d2-eed534f2e0c1",
+      "heroImage": "https://store-images.s-microsoft.com/image/apps.15966.13914660851585642.410fbb84-b7a6-486d-bf6f-12ec7c6616cd.47365447-ef67-40f6-af23-87c39ff9031b",
       "screenshots": [
         "https://store-images.s-microsoft.com/image/apps.48804.13914660851585642.fe38acd5-d659-41ed-9bbf-feab6fa3d9c7.1eab5927-aba9-4471-9b42-9c5b00a613e2",
         "https://store-images.s-microsoft.com/image/apps.8169.13914660851585642.fe38acd5-d659-41ed-9bbf-feab6fa3d9c7.094c5a9e-c0f8-44c5-9c94-0203d597e2e1",
@@ -59569,7 +59620,7 @@
           "recommended": "Controladora de Xbox"
         },
         {
-          "title": "Micrófono",
+          "title": "Micr��fono",
           "minimum": "",
           "recommended": "Micrófono integrado"
         }
