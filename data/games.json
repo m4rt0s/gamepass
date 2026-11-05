@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-04T15:50:05.739Z",
+  "updatedAt": "2026-11-05T15:54:01.070Z",
   "market": "ES",
   "language": "es-ES",
-  "totalGames": 810,
+  "totalGames": 811,
   "counts": {
     "essential": 133,
-    "premium": 564,
-    "pc": 470,
-    "ultimate": 715,
-    "total": 810
+    "premium": 565,
+    "pc": 471,
+    "ultimate": 716,
+    "total": 811
   },
   "categories": [
     "Acción y aventura",
@@ -433,11 +433,11 @@
       ],
       "tiers": [],
       "platform": "console",
-      "price": 8.99,
+      "price": 29.99,
       "msrp": 29.99,
       "currency": "EUR",
-      "hasDiscount": true,
-      "discountPercent": 70,
+      "hasDiscount": false,
+      "discountPercent": 0,
       "rating": 4.4,
       "ratingCount": 266,
       "ageRating": 18,
@@ -606,7 +606,7 @@
       "hasDiscount": true,
       "discountPercent": 40,
       "rating": 4.7,
-      "ratingCount": 50,
+      "ratingCount": 51,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -667,11 +667,11 @@
         "ultimate"
       ],
       "platform": "both",
-      "price": 12.49,
+      "price": 14.99,
       "msrp": 24.99,
       "currency": "EUR",
       "hasDiscount": true,
-      "discountPercent": 50,
+      "discountPercent": 40,
       "rating": 3.5,
       "ratingCount": 17,
       "ageRating": 12,
@@ -5084,11 +5084,11 @@
         "ultimate"
       ],
       "platform": "both",
-      "price": 14.99,
+      "price": 7.49,
       "msrp": 14.99,
       "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
+      "hasDiscount": true,
+      "discountPercent": 50,
       "rating": 4.5,
       "ratingCount": 92,
       "ageRating": 7,
@@ -5594,8 +5594,7 @@
         "Compras dentro del juego (Incluye artículos aleatorios)"
       ],
       "capabilities": [
-        "Multijugador en línea  (4-64)",
-        "FPS Boost Series X | S"
+        "Multijugador en línea  (4-64)"
       ],
       "systemRequirements": [
         {
@@ -5804,13 +5803,13 @@
       ],
       "tiers": [],
       "platform": "console",
-      "price": 31.99,
+      "price": 79.99,
       "msrp": 79.99,
       "currency": "EUR",
-      "hasDiscount": true,
-      "discountPercent": 60,
+      "hasDiscount": false,
+      "discountPercent": 0,
       "rating": 3.5,
-      "ratingCount": 248,
+      "ratingCount": 249,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -9594,11 +9593,11 @@
         "ultimate"
       ],
       "platform": "both",
-      "price": 29.99,
+      "price": 7.49,
       "msrp": 29.99,
       "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
+      "hasDiscount": true,
+      "discountPercent": 75,
       "rating": 2.9,
       "ratingCount": 26,
       "ageRating": 7,
@@ -9976,11 +9975,11 @@
         "ultimate"
       ],
       "platform": "both",
-      "price": 39.99,
+      "price": 7.99,
       "msrp": 39.99,
       "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
+      "hasDiscount": true,
+      "discountPercent": 80,
       "rating": 3.8,
       "ratingCount": 146,
       "ageRating": 18,
@@ -10707,11 +10706,11 @@
         "ultimate"
       ],
       "platform": "both",
-      "price": 29.99,
+      "price": 8.99,
       "msrp": 29.99,
       "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
+      "hasDiscount": true,
+      "discountPercent": 70,
       "rating": 2.8,
       "ratingCount": 28,
       "ageRating": 3,
@@ -10778,11 +10777,11 @@
         "ultimate"
       ],
       "platform": "console",
-      "price": 2.49,
+      "price": 9.99,
       "msrp": 9.99,
       "currency": "EUR",
-      "hasDiscount": true,
-      "discountPercent": 75,
+      "hasDiscount": false,
+      "discountPercent": 0,
       "rating": 3.4,
       "ratingCount": 65,
       "ageRating": 12,
@@ -12358,11 +12357,11 @@
         "ultimate"
       ],
       "platform": "console",
-      "price": 11.99,
+      "price": 29.99,
       "msrp": 29.99,
       "currency": "EUR",
-      "hasDiscount": true,
-      "discountPercent": 60,
+      "hasDiscount": false,
+      "discountPercent": 0,
       "rating": 3.3,
       "ratingCount": 252,
       "ageRating": 18,
@@ -12426,11 +12425,11 @@
         "ultimate"
       ],
       "platform": "pc",
-      "price": 7.99,
+      "price": 19.99,
       "msrp": 19.99,
       "currency": "EUR",
-      "hasDiscount": true,
-      "discountPercent": 60,
+      "hasDiscount": false,
+      "discountPercent": 0,
       "rating": 3.5,
       "ratingCount": 174,
       "ageRating": 18,
@@ -12529,11 +12528,11 @@
         "ultimate"
       ],
       "platform": "console",
-      "price": 7.49,
+      "price": 49.99,
       "msrp": 49.99,
       "currency": "EUR",
-      "hasDiscount": true,
-      "discountPercent": 85,
+      "hasDiscount": false,
+      "discountPercent": 0,
       "rating": 4.3,
       "ratingCount": 251,
       "ageRating": 18,
@@ -12698,11 +12697,11 @@
       ],
       "tiers": [],
       "platform": "console",
-      "price": 15.99,
+      "price": 79.99,
       "msrp": 79.99,
       "currency": "EUR",
-      "hasDiscount": true,
-      "discountPercent": 80,
+      "hasDiscount": false,
+      "discountPercent": 0,
       "rating": 4.7,
       "ratingCount": 261,
       "ageRating": 18,
@@ -13384,11 +13383,11 @@
         "ultimate"
       ],
       "platform": "both",
-      "price": 24.99,
+      "price": 6.24,
       "msrp": 24.99,
       "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
+      "hasDiscount": true,
+      "discountPercent": 75,
       "rating": 3.2,
       "ratingCount": 159,
       "ageRating": 3,
@@ -14544,8 +14543,7 @@
       "capabilities": [
         "Un jugador",
         "Logros de Xbox",
-        "Cosas guardadas en la nube de Xbox",
-        "FPS Boost Series X | S"
+        "Cosas guardadas en la nube de Xbox"
       ],
       "systemRequirements": [
         {
@@ -15039,8 +15037,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 3.8,
-      "ratingCount": 12,
+      "rating": 3.7,
+      "ratingCount": 13,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -15242,11 +15240,11 @@
         "ultimate"
       ],
       "platform": "console",
-      "price": 3.99,
+      "price": 19.99,
       "msrp": 19.99,
       "currency": "EUR",
-      "hasDiscount": true,
-      "discountPercent": 80,
+      "hasDiscount": false,
+      "discountPercent": 0,
       "rating": 4.7,
       "ratingCount": 365,
       "ageRating": 18,
@@ -15297,11 +15295,11 @@
         "ultimate"
       ],
       "platform": "both",
-      "price": 3.99,
+      "price": 9.99,
       "msrp": 9.99,
       "currency": "EUR",
-      "hasDiscount": true,
-      "discountPercent": 60,
+      "hasDiscount": false,
+      "discountPercent": 0,
       "rating": 4.7,
       "ratingCount": 58,
       "ageRating": 16,
@@ -15407,11 +15405,11 @@
         "ultimate"
       ],
       "platform": "both",
-      "price": 3.99,
+      "price": 9.99,
       "msrp": 9.99,
       "currency": "EUR",
-      "hasDiscount": true,
-      "discountPercent": 60,
+      "hasDiscount": false,
+      "discountPercent": 0,
       "rating": 3.6,
       "ratingCount": 108,
       "ageRating": 18,
@@ -15496,11 +15494,11 @@
         "ultimate"
       ],
       "platform": "both",
-      "price": 1.99,
+      "price": 4.99,
       "msrp": 4.99,
       "currency": "EUR",
-      "hasDiscount": true,
-      "discountPercent": 60,
+      "hasDiscount": false,
+      "discountPercent": 0,
       "rating": 4.5,
       "ratingCount": 39,
       "ageRating": 16,
@@ -15581,11 +15579,11 @@
         "ultimate"
       ],
       "platform": "console",
-      "price": 9.89,
+      "price": 29.99,
       "msrp": 29.99,
       "currency": "EUR",
-      "hasDiscount": true,
-      "discountPercent": 67,
+      "hasDiscount": false,
+      "discountPercent": 0,
       "rating": 4.5,
       "ratingCount": 208,
       "ageRating": 18,
@@ -15645,11 +15643,11 @@
         "ultimate"
       ],
       "platform": "pc",
-      "price": 9.89,
+      "price": 29.99,
       "msrp": 29.99,
       "currency": "EUR",
-      "hasDiscount": true,
-      "discountPercent": 67,
+      "hasDiscount": false,
+      "discountPercent": 0,
       "rating": 3.9,
       "ratingCount": 489,
       "ageRating": 18,
@@ -15851,9 +15849,7 @@
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
       "interactiveDescriptions": [],
-      "capabilities": [
-        "FPS Boost Series X | S"
-      ],
+      "capabilities": [],
       "systemRequirements": [
         {
           "title": "Arquitectura",
@@ -16363,11 +16359,11 @@
         "ultimate"
       ],
       "platform": "both",
-      "price": 9.19,
+      "price": 16.09,
       "msrp": 22.99,
       "currency": "EUR",
       "hasDiscount": true,
-      "discountPercent": 60,
+      "discountPercent": 30,
       "rating": 4.2,
       "ratingCount": 19,
       "ageRating": 3,
@@ -17352,7 +17348,7 @@
           "recommended": "4 GB"
         }
       ],
-      "maxInstallSize": 1515372544,
+      "maxInstallSize": 1508634624,
       "hasAddOns": false,
       "storeUrl": "https://www.xbox.com/es-es/games/store/echo-weaver/9N72DFC6GL91"
     },
@@ -18567,8 +18563,7 @@
       "pegiDescription": "Apropiado a partir de 18 años",
       "interactiveDescriptions": [],
       "capabilities": [
-        "Xbox One X mejorado",
-        "FPS Boost Series X | S"
+        "Xbox One X mejorado"
       ],
       "systemRequirements": [
         {
@@ -19144,8 +19139,8 @@
     {
       "id": "9NXWKGRHT31F",
       "title": "FAR CRY 3",
-      "description": "Far Cry 3 es un juego de disparos en primera persona de mundo abierto ambientado en una isla sin parangón. Cuando te embarcas en una búsqueda desesperada para rescatar a tus amigos, te das cuenta de que la única forma de escapar de esta oscuridad es... abrazarla.\n\nUN JUEGO DE DISPAROS EN PRIMERA PERSONA DE MUNDO ABIERTO\nCrea tu propia aventura de disparos en primera persona. Personaliza tus armas, tus habilidades y tu estrategia en cada misión, tanto si prefieres una acción más intensa disparando a la carrera como si lo tuyo es acercarte con sigilo para derribar a los enemigos o disparar a larga distancia.\n\nUNA ISLA DE PELIGROS Y DESCUBRIMIENTOS\nExplora las diversas zonas de la isla, desde cordilleras y pastos pantanosos hasta playas de arena blanca. Descubre reliquias, caza animales exóticos, juega a minijuegos y viaja rápidamente por tierra, mar o aire. ¡Ábrete camino a través de las ciudades, templos, puertos fluviales y otros lugares de la isla!\n\nDESCUBRE UNA HISTORIA MEMORABLE Y UN ELENCO DEMENCIAL DE PERSONAJES\nEncuentra un perturbado y atractivo elenco de personajes mientras emprendes un árido viaje al lado más oscuro de la humanidad. Escrito por un ganador del premio Writers Guild Award.",
-      "shortDescription": "Far Cry 3 es un juego de disparos en primera persona de mundo abierto ambientado en una isla sin parangón. Cuando te embarcas en una búsqueda desesperada para rescatar a tus amigos, te das cuenta de que la única forma de escapar de esta oscuridad es... abrazarla.",
+      "description": "SOBREVIVE A LA ISLA DE LA LOCURA\nEres Jason Brody y estás atrapado en un archipiélago tropical sin ley. Enfréntate al infame Vaas Montenegro, toma decisiones brutales e intenta escapar de un descenso a la locura que cambiará a Jason para siempre.\n\nELIJE CÓMO LUCHAR\nAtaca los puestos avanzados con rifles y explosivos, dispara desde las colinas o recurre a los derribos silenciosos y las herramientas de sigilo. Fabrica jeringuillas y equipo, mejora tus habilidades y utiliza el entorno para cambiar las tornas.\n\nDESCUBRE UN PARAÍSO LETAL\nExplora cumbres montañosas, pantanos y playas de arena blanca en un paraíso tropical lleno de peligros y secretos. Caza animales salvajes, busca reliquias y botines, participa en actividades secundarias y viaja por tierra, mar o aire mientras luchas en pueblos, templos y puertos fluviales.",
+      "shortDescription": "Eres Jason Brody y estás atrapado en las islas Rook. Utiliza tu poderoso arsenal para abrirte paso por un mundo abierto tropical sin ley, salvar a tus amigos y escapar de la locura en este aclamado y trepidante shooter en primera persona.",
       "developer": "Ubisoft Montreal, MASSIVE Entertainment & Ubisoft Shanghaï",
       "publisher": "Ubisoft",
       "imageUrl": "https://store-images.s-microsoft.com/image/apps.33719.71220804959101191.bad88979-60b4-40b4-af6d-182d4534c987.ecf3220f-0497-4cf1-9cee-d46d9d86ecc3",
@@ -21199,11 +21194,11 @@
         "ultimate"
       ],
       "platform": "both",
-      "price": 29.99,
+      "price": 8.99,
       "msrp": 29.99,
       "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
+      "hasDiscount": true,
+      "discountPercent": 70,
       "rating": 2.6,
       "ratingCount": 22,
       "ageRating": 7,
@@ -21277,6 +21272,108 @@
       "maxInstallSize": 6738661376,
       "hasAddOns": false,
       "storeUrl": "https://www.xbox.com/es-es/games/store/firefighting-simulator-the-squad/9NBZ7Z3JRXQ8"
+    },
+    {
+      "id": "9N8RKWJT32L4",
+      "title": "Firefighting Simulator: Ignite",
+      "description": "UNIDOS CONTRA EL FUEGO. Afronta peligros impredecibles de frente, apaga incendios con tu equipo y salva vidas en Firefighting Simulator: Ignite. Ponte en la piel de un bombero de EE. UU. en una ciudad en expansión del Medio Oeste del continente, donde cada misión llevará tus habilidades al límite. Vive la adrenalina de la extinción de incendios con una calidad visual asombrosa en un intuitivo modo multijugador cooperativo con 3 amigos o con el equipo de PNJ controlados por IA. La lucha contra las llamas, el calor y el humo, simulados en tiempo real con los avanzados sistemas gráficos y de físicas de Unreal Engine 5, te permitirán sumergirte en la extinción de incendios como nunca antes lo habías hecho.\n\nA lo largo de tu carrera, deberás hacer frente a varias situaciones complicadas, como civiles atrapados, incendios eléctricos, líquidos inflamables, incendios provocados por aceite, deflagraciones, combustiones súbitas y explosiones. Equípate con herramientas auténticas para la tarea, como mangueras, sierras, barras Halligan, hachas o extintores, y aprovecha los vehículos de bomberos y los camiones con escaleras fielmente recreados. Usa la lógica y emplea métodos precisos para apagar las llamas. En cada misión se deberán aplicar estrategias reales de extinción de incendios, como ventilar para reducir la propagación del fuego, enfriar objetos sobrecalentados, usar la sierra con los obstáculos, reducir las corrientes de aire y seleccionar el agente extintor adecuado. Mantente siempre alerta a las señales que indican un peligro inminente, como el humo impenetrable que se abre paso a través de puertas cerradas, lo que puede resultar en una auténtica catástrofe.\n\nPero no te preocupes, aprenderás cómo extinguir llamas y cómo usar adecuadamente las herramientas en el parque de bomberos, una especie de cuartel general durante tus operaciones de emergencia. Relájate entre misiones, observa bien la enorme flota de vehículos, entre los que se incluyen camiones Rosenbauer fielmente recreados, y escoge tu próximo encargo.\n\nCuando salte la alarma, coge la ruta más rápida y llega cuanto antes a la escena para luchar contra las llamas y salvar vidas juntos.     \n\n\nHÉROE COTIDIANO: ponte en la piel de un bombero de EE. UU.\nQUE ARDA TU PASIÓN: afronta peligrosos incendios en el modo multijugador y en solitario\nEN EQUIPO: modo cooperativo con hasta 4 personas\nUNIDOS CONTRA EL FUEGO: trabaja junto al equipo de PNJ en el modo Un jugador\nAUTENTICIDAD: equipos de las principales marcas de EE. UU. para la extinción de incendios como HAIX®, Fire-Dex y STIHL \nRESPUESTA RÁPIDA: conduce camiones de bomberos Rosenbauer America con licencia, reproducidos con detalle, como el TP3® Pumper, Viper®, 68' Roadrunner y más\nTU CARRERA: elige entre 8 personajes y diferentes atuendos\nPARQUE DE BOMBEROS: el lugar donde aprender técnicas y escoger la próxima misión de emergencia\nSIMULACIÓN: simulaciones de fuego, calor, agua y humo realistas gracias a las físicas de Unreal Engine 5\nMODS PARA CONSOLA: descarga y juega contenido nuevo en Mod.io",
+      "shortDescription": "Afronta peligros impredecibles, apaga incendios con tu equipo y salva vidas en Firefighting Simulator: Ignite. Ponte en la piel de un bombero de EE. UU. y juega con hasta 3 amigos o con el equipo de PNJ controlados por IA. ",
+      "developer": "weltenbauer. Software Entwicklung GmbH",
+      "publisher": "astragon Entertainment GmbH",
+      "imageUrl": "https://store-images.s-microsoft.com/image/apps.32408.14039390486448903.600abc2c-9f2a-489a-8d46-0eefc0946576.cabef57c-c072-408a-a400-ef040fd8bca9",
+      "heroImage": "https://store-images.s-microsoft.com/image/apps.29582.14039390486448903.000490c6-3107-4ed0-a4e3-ca1022d7ef6b.2bf3f887-23fd-429f-875b-4a0927caa834",
+      "screenshots": [
+        "https://store-images.s-microsoft.com/image/apps.49338.14039390486448903.ada72ba2-8178-465b-baeb-b2583c1d0b05.f3471207-c6eb-41ea-8f24-ba94f0a02e39",
+        "https://store-images.s-microsoft.com/image/apps.53007.14039390486448903.ada72ba2-8178-465b-baeb-b2583c1d0b05.da3c0e1b-0729-476a-8df2-de575390c033",
+        "https://store-images.s-microsoft.com/image/apps.63277.14039390486448903.ada72ba2-8178-465b-baeb-b2583c1d0b05.51fa2c20-e79a-4b06-ab9f-8c38216cb650",
+        "https://store-images.s-microsoft.com/image/apps.40747.14039390486448903.ada72ba2-8178-465b-baeb-b2583c1d0b05.ac4f3ddb-af15-4d53-88cc-70ac7860e3b2"
+      ],
+      "videoUrl": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftassets/3c43a4a3-6be3-4c71-9208-06a5255fa873-AVS.m3u8?packagedStreaming=true",
+      "videoCaption": "Firefighting Simulator Ignite Launch Trailer",
+      "releaseDate": "2025-09-09",
+      "categories": [
+        "Simulación"
+      ],
+      "tiers": [
+        "pc",
+        "premium",
+        "ultimate"
+      ],
+      "platform": "both",
+      "price": 34.99,
+      "msrp": 34.99,
+      "currency": "EUR",
+      "hasDiscount": false,
+      "discountPercent": 0,
+      "rating": 3.7,
+      "ratingCount": 6,
+      "ageRating": 7,
+      "pegiRating": "PEGI 7",
+      "pegiDescription": "Apropiado a partir de 7 años",
+      "interactiveDescriptions": [
+        "Compras dentro del juego"
+      ],
+      "capabilities": [
+        "Cooperativo en línea  (2-4)",
+        "Multijugador en línea  (2-4)",
+        "Un jugador",
+        "Multijugador multgeneración de Xbox Live",
+        "Optimizado para Xbox Series X|S",
+        "Logros de Xbox",
+        "Presencia de Xbox",
+        "Cosas guardadas en la nube de Xbox",
+        "Xbox Play Anywhere"
+      ],
+      "systemRequirements": [
+        {
+          "title": "SO",
+          "minimum": "Windows 10 version 18362.0 or higher",
+          "recommended": "Windows 10 version 18362.0 or higher"
+        },
+        {
+          "title": "Arquitectura",
+          "minimum": "x64",
+          "recommended": "x64"
+        },
+        {
+          "title": "Gráficos",
+          "minimum": "8GB VRAM: NVIDIA -RTX 2060 Super / AMD - RX 5700-XT",
+          "recommended": "RTX 3070 12GB (8GB) / RX 6800 8GB"
+        },
+        {
+          "title": "Procesador",
+          "minimum": "AMD - Ryzen 5 3700 / Intel - Core i7 - 9700",
+          "recommended": "Ryzen 7 5700X / Core i7 12700k"
+        },
+        {
+          "title": "Teclado",
+          "minimum": "Teclado integrado",
+          "recommended": ""
+        },
+        {
+          "title": "Mouse",
+          "minimum": "Mouse integrado",
+          "recommended": ""
+        },
+        {
+          "title": "DirectX",
+          "minimum": "API de DirectX 12, nivel de característica de hardware 12",
+          "recommended": "API de DirectX 12, nivel de característica de hardware 12"
+        },
+        {
+          "title": "Memoria",
+          "minimum": "8 GB",
+          "recommended": "16 GB"
+        },
+        {
+          "title": "Controladora",
+          "minimum": "",
+          "recommended": "Controladora de Xbox"
+        }
+      ],
+      "maxInstallSize": 32656621568,
+      "hasAddOns": true,
+      "storeUrl": "https://www.xbox.com/es-es/games/store/firefighting-simulator-ignite/9N8RKWJT32L4"
     },
     {
       "id": "9N7MVHP2R7VP",
@@ -22139,7 +22236,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.7,
-      "ratingCount": 4564,
+      "ratingCount": 4568,
       "ageRating": 12,
       "pegiRating": "Supervisión parental recomendada",
       "pegiDescription": "Supervisión parental recomendada",
@@ -22462,17 +22559,17 @@
     {
       "id": "9MW715J1P29D",
       "title": "FragPunk",
-      "description": "FragPunk es un emocionante juego de disparos de héroes 5 contra 5, en el que las tarjetas de fragmento te permiten romper las reglas del combate y hacer que nunca haya dos rondas iguales. ¡Prepárate para dar rienda suelta a tus habilidades!\n\nRompe las reglas con las tarjetas de fragmento\n¡Sumérgete en la acción de FragPunk y rompe las reglas con tarjetas de fragmentos! También pueden combinarse y contrarrestarse entre sí, añadiendo un emocionante nivel táctico a la clásica experiencia de desactivar bombas. Además, todas las tarjetas de fragmentos son gratis para todos los jugadores, ¡sin muros de pago! ¡Adéntrate y desata un sinfín de posibilidades en FragPunk!\n\nSé el Lancero que quieras ser. Los lanceros diversos, cada uno con habilidades únicas, personalidades y diálogos estrafalarios a tu gusto. Haz volar por los aires a tus enemigos con un lanzacohetes, tiende trampas, apuñala por la espalda mientras eres invisible, pilota un tanque teledirigido y ¡mucho más!\n\n¡El único duelo!\nEn FragPunk, puedes ser tu propio Lancero y ser un jugador de equipo al mismo tiempo. La acción alcanza su punto álgido cuando, tras un empate, se muestra la emocionante frase: ¡Duelo! En este intenso enfrentamiento 1 contra 1, todo depende de tu maestría, ya que los jugadores se enfrentan en una auténtica prueba de habilidades. ¡Adéntrate y lucha! El duelo también puede jugarse como modo individual en Arcade.\n\nVariedad que alimenta la repetibilidad\nEncuentra tus armas favoritas, muchas de ellas tienen habilidades especiales. ¿Eres fan de la espada, el francotirador o la pistola? ¡Explora y desarrolla tu estilo personal de combate! Todos los juegos te permiten pegar pegatinas en las armas. Pero, ¿y en tu tarjeta de identificación, o incluso en la cabeza de tu Lancero? Pon pegatinas en todos los rincones para darle un toque extra antes de entrar en el campo de batalla y demostrar tu estilo.\n\nExplora varios modos\nCon más de 15 modos de juego diferentes, el Arcade ofrece rotaciones semanales para mantener la acción actualizada y emocionante cada vez que juegues. Defiende a la humanidad o convierte en zombis a tantos humanos como puedas en el modo \"Brote\". O pon a prueba tus habilidades con las armas en una gran variedad de modos de un solo arma, desde combates cuerpo a cuerpo a duelos de francotiradores, pasando por enfrentamientos con pistolas y escaramuzas con cohetes.",
+      "description": "N​uevas experiencias de juego llegan el 5 de noviembre\nAcepta pedidos de entrega en Farlands, explora mundos en constante evolución y encuentra criaturas, facciones y otros jugadores por el camino. Completa entregas para llevar recursos a casa o lánzate a las frenéticas partidas de 5 contra 5 de Duelo de Fragmento, donde las cartas redefinen las reglas del combate.\n\nUNA FORMA TOTALMENTE NUEVA DE JUGAR A FRAGPUNK\nFarlands te ofrece una forma totalmente nueva de vivir FragPunk: una aventura multijugador de alto riesgo centrada en las entregas y ambientada en mundos que cambian constantemente.\nAcepta pedidos, prepárate para el camino y decide hasta dónde estás dispuesto a llegar. Encuentra criaturas, facciones y otros jugadores, completa entregas y lleva recursos a casa para mejorar tu equipo, tus vehículos y tu base.\n\nSOBREVIVE EN MUNDOS FRAGMENTADOS EN EVOLUCIÓN\nEl mundo cambia sin cesar.\nEl clima, las criaturas, los recursos y la actividad de las facciones cambian con el tiempo. Una ruta que ayer era segura puede ser peligrosa hoy. Explora entornos amplios y llenos de vida donde cada viaje exige un nuevo plan.\n\nCRIATURAS, RIVALES Y DECISIONES DIFÍCILES\nEl peligro no viene solo del camino.\nEnfréntate a criaturas hostiles, facciones de PNJ con sus propios intereses y encuentros impredecibles con otros jugadores. Decide cuándo evitar una amenaza, aprovechar una oportunidad, establecer contacto o luchar.\n\nPREPÁRATE PARA EL PRÓXIMO VIAJE\nCada expedición exitosa te prepara para la siguiente.\nMejora tus armas y tu armadura, desbloquea nuevos módulos para la base y consigue vehículos adecuados para distintos terrenos y estilos de juego. Personaliza tu configuración y prepárate para viajes cada vez más exigentes.\n\nLANCERS CONOCIDOS. UNA CARA NUEVA.\nLos Lancers que ya conoces regresan en Farlands con nuevas habilidades diseñadas para un nuevo tipo de viaje.\nConoce a Repartidor, un Lancer completamente nuevo con habilidades únicas y una nueva historia por descubrir en el Shardverse.\n\nFRENÉTICOS COMBATES CON CARTAS DE 5 CONTRA 5\nAdemás de Farlands, Duelo de Fragmento ofrece una experiencia de disparos tácticos de 5 contra 5 a toda velocidad, donde las cartas rompen las reglas del combate.\nDiseña tu estrategia en torno a efectos de cartas capaces de dar un vuelco a la partida, adáptate a cada ronda y supera al equipo rival.\n",
       "shortDescription": "",
       "developer": "Bad Guitar Studio",
       "publisher": "Bad Guitar Studio",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.16868.13848987134544813.7c1bc445-ee84-4289-ab2e-4ee6990764e8.3e3a1229-cf14-4c88-af69-ef4ea095b75a",
-      "heroImage": "https://store-images.s-microsoft.com/image/apps.1651.13848987134544813.7c1bc445-ee84-4289-ab2e-4ee6990764e8.d037cf1c-6630-485d-986b-70387d85fd7e",
+      "imageUrl": "https://store-images.s-microsoft.com/image/apps.25465.13848987134544813.b9397189-e630-434e-b4ea-da4764f01b90.c8470771-5d33-4194-9c26-0745775b3361",
+      "heroImage": "https://store-images.s-microsoft.com/image/apps.12548.13848987134544813.b9397189-e630-434e-b4ea-da4764f01b90.04f45a9e-dfba-4dd7-8a8c-8e32695a69e4",
       "screenshots": [
-        "https://store-images.s-microsoft.com/image/apps.38783.13848987134544813.7b30c9e3-5909-4f77-afb6-d69bee0cdff7.a65cc14a-3167-4e4a-b425-c050e27383ed",
-        "https://store-images.s-microsoft.com/image/apps.15644.13848987134544813.7b30c9e3-5909-4f77-afb6-d69bee0cdff7.efa316fe-b840-4c71-9738-46fd4599467a",
-        "https://store-images.s-microsoft.com/image/apps.38597.13848987134544813.7b30c9e3-5909-4f77-afb6-d69bee0cdff7.6a4bceb4-6176-4086-b87b-d49d2a7634f0",
-        "https://store-images.s-microsoft.com/image/apps.59546.13848987134544813.7b30c9e3-5909-4f77-afb6-d69bee0cdff7.83cf0f34-9bf7-479d-ae10-311bc200b816"
+        "https://store-images.s-microsoft.com/image/apps.6687.13848987134544813.b9397189-e630-434e-b4ea-da4764f01b90.9477f150-2232-42df-8f4f-d34422f11b16",
+        "https://store-images.s-microsoft.com/image/apps.50360.13848987134544813.b9397189-e630-434e-b4ea-da4764f01b90.7107494c-7b0a-4c8b-9adf-db5d055d0c3e",
+        "https://store-images.s-microsoft.com/image/apps.31099.13848987134544813.b9397189-e630-434e-b4ea-da4764f01b90.cc8ce136-ee08-4753-98db-4b0eb84dfde7",
+        "https://store-images.s-microsoft.com/image/apps.26534.13848987134544813.b9397189-e630-434e-b4ea-da4764f01b90.1824705f-ba15-4ac2-993a-782a3755ef2b"
       ],
       "videoUrl": "https://cdn.trailers.xboxservices.com/trailers/00000000-0000-0000-0000-000000000000/xbox/prod/videos/mainprofile/13848987134544813/db32f144-ff77-4490-adac-b0d539392e3a/manifest.m3u8",
       "videoCaption": "Season 6 Chapter 2 Preview Trailer",
@@ -22547,7 +22644,7 @@
           "recommended": "6 GB"
         }
       ],
-      "maxInstallSize": 87878893568,
+      "maxInstallSize": 87494615040,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/fragpunk/9MW715J1P29D"
     },
@@ -23043,8 +23140,7 @@
         "Un jugador",
         "Pantalla dividida o compartida",
         "Cooperación multiplataforma de Xbox",
-        "Xbox One X mejorado",
-        "FPS Boost Series X | S"
+        "Xbox One X mejorado"
       ],
       "systemRequirements": [
         {
@@ -23577,8 +23673,7 @@
         "Cooperativo en línea  (2-2)",
         "Multijugador local de Xbox (2-2)",
         "Multijugador en línea  (2-8)",
-        "Pantalla dividida o compartida",
-        "FPS Boost Series X | S"
+        "Pantalla dividida o compartida"
       ],
       "systemRequirements": [
         {
@@ -23696,7 +23791,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.7,
-      "ratingCount": 2906,
+      "ratingCount": 2907,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -23796,11 +23891,11 @@
         "ultimate"
       ],
       "platform": "both",
-      "price": 5.99,
+      "price": 29.99,
       "msrp": 29.99,
       "currency": "EUR",
-      "hasDiscount": true,
-      "discountPercent": 80,
+      "hasDiscount": false,
+      "discountPercent": 0,
       "rating": 3.3,
       "ratingCount": 139,
       "ageRating": 12,
@@ -24276,7 +24371,7 @@
           "recommended": "Controladora de Xbox"
         }
       ],
-      "maxInstallSize": 4102283264,
+      "maxInstallSize": 4105781248,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/goals/9PF2ZS4XB4JH"
     },
@@ -24572,8 +24667,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 3.6,
-      "ratingCount": 5,
+      "rating": 3.3,
+      "ratingCount": 6,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -25833,7 +25928,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.8,
-      "ratingCount": 199,
+      "ratingCount": 200,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -26243,7 +26338,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.5,
-      "ratingCount": 99,
+      "ratingCount": 100,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -26340,11 +26435,11 @@
         "ultimate"
       ],
       "platform": "both",
-      "price": 12.49,
+      "price": 49.99,
       "msrp": 49.99,
       "currency": "EUR",
-      "hasDiscount": true,
-      "discountPercent": 75,
+      "hasDiscount": false,
+      "discountPercent": 0,
       "rating": 4.4,
       "ratingCount": 916,
       "ageRating": 18,
@@ -26435,11 +26530,11 @@
         "ultimate"
       ],
       "platform": "console",
-      "price": 7.49,
+      "price": 29.99,
       "msrp": 29.99,
       "currency": "EUR",
-      "hasDiscount": true,
-      "discountPercent": 75,
+      "hasDiscount": false,
+      "discountPercent": 0,
       "rating": 4.4,
       "ratingCount": 571,
       "ageRating": 18,
@@ -27447,7 +27542,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.8,
-      "ratingCount": 630,
+      "ratingCount": 631,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -28433,11 +28528,11 @@
         "ultimate"
       ],
       "platform": "both",
-      "price": 2.29,
+      "price": 22.99,
       "msrp": 22.99,
       "currency": "EUR",
-      "hasDiscount": true,
-      "discountPercent": 90,
+      "hasDiscount": false,
+      "discountPercent": 0,
       "rating": 4.7,
       "ratingCount": 383,
       "ageRating": 18,
@@ -28819,7 +28914,7 @@
       "id": "9NX7HCWL13Z9",
       "title": "Jurassic World Evolution 3",
       "description": "La nueva entrega de la premiada saga de videojuegos: Jurassic World Evolution 3 te pone al mando de la construcción y gestión de tu propio mundo jurásico. \n\nAyuda a la vida a abrirse camino sintetizando, criando y cuidando especies prehistóricas. Gestiona cada especie y ayúdalas a prosperar mientras tus dinosaurios forman familias que heredarán sus genes. \n\nCrea increíbles refugios para que tus dinosaurios puedan crecer felices. Construye emocionantes atracciones para asombrar a los visitantes y no pierdas el control cuando surjan los inevitables desastres. \n\nCría y cuida generaciones de dinosaurios \nTe encontrarás más de 85 asombrosas especies prehistóricas; con 75 de ellas podrás gestionar, criar y cuidar familias enteras durante generaciones. ¡Mira cómo crecen de crías juguetonas a imponentes adultos! Cada especie cuenta con distintas variantes de hembras, machos y crías. \n\nLos visitantes del parque se maravillarán al ver a estas majestuosas criaturas socializar e interactuar con el dinámico mundo que las rodea. \n\nGestiona sus necesidades sociales particulares y observa sus nuevos comportamientos, como los dinosaurios semiacuáticos adentrándose en las aguas profundas y los pterosaurios desplazándose por tierra firme. \n\nLa evolución de la creatividad \n¡Crea parques alucinantes con herramientas creativas completamente nuevas en la saga de Jurassic World Evolution! Desde una innovadora edición del terreno hasta la personalización modular del paisaje y decoración: construye y ajusta cada aspecto de tu parque desde sus cimientos o crea mapas personalizados únicos con el generador de islas. ¡Lo que hagas está en tus manos!\n\nConstruye recintos naturales en las ubicaciones utilizando cuestas empinadas y detalles del paisaje. Incluye nuevas atracciones como el recorrido en globo, una atracción que permitirá a tus visitantes observar de cerca e interactuar con las prehistóricas criaturas con el encuentro con dinosaurios, o el icónico Crucero Cretácico, en el que los visitantes podrán ver a los dinosaurios desde una perspectiva la mar de innovadora.   \n\nCrea, sube y comparte creaciones con la comunidad de juego cruzado con Frontier Workshop. Encuentra las mejores creaciones de la comunidad y descárgalas a tu juego o crea tus propios parques, edificios y recintos personalizados para compartirlos con otros jugadores. \n\nUna épica campaña global \nUne fuerzas con rostros familiares de la franquicia Jurassic, entre los que se encuentran el Dr. Ian Malcolm y embárcate en una campaña abierta por todo el mundo. Visita ubicaciones emblemáticas como las Badlands de Montana y otras totalmente nuevas como Japón. Cada lugar presentará emocionantes desafíos únicos. Cada decisión pondrá a prueba tus habilidades de gestión de parques, y tendrás que poner en una balanza los intereses de los humanos frente a la delicada integración de los dinosaurios en el mundo contemporáneo. \n\nTendrás que equilibrar también tu reputación con los tres sectores de la industria y las peticiones únicas de los distintos clientes con propiedades en las que trabajar. Pero, cuidado, no todo el mundo cree que el destino de los dinosaurios sea prosperar. \n\nHazte con el control del caos \nAsegura que los lugares funcionen de la forma más eficiente posible con las potentes y accesibles herramientas de gestión de parque para controlar las operaciones que se llevan a cabo. \n\nPero la única certeza es el caos. Prepárate para los inminentes desastres con las nuevas cámaras de seguridad, que ayudarán a automatizar la respuesta a las fugas de dinosaurios, y envía a tu equipo de mantenimiento para contener las amenazas, reparando los puntos cruciales de las instalaciones. ",
-      "shortDescription": "Crea tu propio Jurassic World como nunca se ha hecho antes. Cuida de generaciones de impresionantes dinosaurios con la inclusión de las crías en esta nueva entrega. Crea y gestiona extensos parques prehistóricos por todo el mundo y desata el poder de tu imaginación con las nuevas y potentes opciones creativas. ",
+      "shortDescription": "Crea tu propio Jurassic World como nunca se ha hecho antes. Cuida de generaciones de impresionantes dinosaurios con la inclusión de las crías en esta nueva entrega. Crea y gestiona extensos parques prehistóricos por todo el mundo y desata el poder de tu imaginaci��n con las nuevas y potentes opciones creativas. ",
       "developer": "Frontier Developments",
       "publisher": "Frontier Developments",
       "imageUrl": "https://store-images.s-microsoft.com/image/apps.7940.14430340622751764.c415a8ac-16b1-42ce-b087-a6256b8d0b36.7c6cf8f9-394d-4e60-bd65-97a1e080d6d0",
@@ -29803,11 +29898,11 @@
         "ultimate"
       ],
       "platform": "both",
-      "price": 69.99,
+      "price": 24.49,
       "msrp": 69.99,
       "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
+      "hasDiscount": true,
+      "discountPercent": 65,
       "rating": 4.5,
       "ratingCount": 291,
       "ageRating": 18,
@@ -30412,11 +30507,11 @@
         "ultimate"
       ],
       "platform": "console",
-      "price": 1.14,
+      "price": 11.49,
       "msrp": 11.49,
       "currency": "EUR",
-      "hasDiscount": true,
-      "discountPercent": 90,
+      "hasDiscount": false,
+      "discountPercent": 0,
       "rating": 4.3,
       "ratingCount": 214,
       "ageRating": 16,
@@ -30464,11 +30559,11 @@
         "ultimate"
       ],
       "platform": "pc",
-      "price": 1.15,
+      "price": 11.59,
       "msrp": 11.59,
       "currency": "EUR",
-      "hasDiscount": true,
-      "discountPercent": 90,
+      "hasDiscount": false,
+      "discountPercent": 0,
       "rating": 4.1,
       "ratingCount": 43,
       "ageRating": 16,
@@ -30830,7 +30925,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.2,
-      "ratingCount": 63,
+      "ratingCount": 64,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -31537,11 +31632,11 @@
       ],
       "tiers": [],
       "platform": "console",
-      "price": 17.49,
+      "price": 69.99,
       "msrp": 69.99,
       "currency": "EUR",
-      "hasDiscount": true,
-      "discountPercent": 75,
+      "hasDiscount": false,
+      "discountPercent": 0,
       "rating": 4.8,
       "ratingCount": 163,
       "ageRating": 18,
@@ -32621,7 +32716,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.7,
-      "ratingCount": 11352,
+      "ratingCount": 11353,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -32683,7 +32778,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.7,
-      "ratingCount": 51942,
+      "ratingCount": 51949,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -33146,7 +33241,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4,
-      "ratingCount": 16022,
+      "ratingCount": 16023,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -33341,7 +33436,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.5,
-      "ratingCount": 61723,
+      "ratingCount": 61727,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -33355,7 +33450,7 @@
         "Un jugador"
       ],
       "systemRequirements": [],
-      "maxInstallSize": 2087206912,
+      "maxInstallSize": 2087247872,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/minecraft-java-bedrock-edition-for-pc/9NXP44L49SHJ"
     },
@@ -33546,8 +33641,7 @@
       "pegiDescription": "Apropiado a partir de 16 años",
       "interactiveDescriptions": [],
       "capabilities": [
-        "Xbox One X mejorado",
-        "FPS Boost Series X | S"
+        "Xbox One X mejorado"
       ],
       "systemRequirements": [
         {
@@ -33594,9 +33688,7 @@
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
       "interactiveDescriptions": [],
-      "capabilities": [
-        "FPS Boost Series X"
-      ],
+      "capabilities": [],
       "systemRequirements": [
         {
           "title": "Arquitectura",
@@ -33963,11 +34055,11 @@
         "ultimate"
       ],
       "platform": "console",
-      "price": 4.99,
+      "price": 19.99,
       "msrp": 19.99,
       "currency": "EUR",
-      "hasDiscount": true,
-      "discountPercent": 75,
+      "hasDiscount": false,
+      "discountPercent": 0,
       "rating": 4.4,
       "ratingCount": 31,
       "ageRating": 7,
@@ -34024,11 +34116,11 @@
         "ultimate"
       ],
       "platform": "pc",
-      "price": 4.99,
+      "price": 19.99,
       "msrp": 19.99,
       "currency": "EUR",
-      "hasDiscount": true,
-      "discountPercent": 75,
+      "hasDiscount": false,
+      "discountPercent": 0,
       "rating": 4.5,
       "ratingCount": 36,
       "ageRating": 7,
@@ -34663,8 +34755,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 4.3,
-      "ratingCount": 24,
+      "rating": 4.2,
+      "ratingCount": 26,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -35450,8 +35542,7 @@
         "Xbox One X mejorado",
         "Logros de Xbox",
         "Cosas guardadas en la nube de Xbox",
-        "Xbox Play Anywhere",
-        "FPS Boost Series X | S"
+        "Xbox Play Anywhere"
       ],
       "systemRequirements": [
         {
@@ -38534,8 +38625,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 1.9,
-      "ratingCount": 8,
+      "rating": 1.8,
+      "ratingCount": 9,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -38669,7 +38760,7 @@
           "recommended": "Controladora de Xbox"
         }
       ],
-      "maxInstallSize": 39937585152,
+      "maxInstallSize": 39938166784,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/planet-coaster-2/9PK5WS0HXQKQ"
     },
@@ -38809,11 +38900,11 @@
       ],
       "tiers": [],
       "platform": "console",
-      "price": 5.99,
+      "price": 19.99,
       "msrp": 19.99,
       "currency": "EUR",
-      "hasDiscount": true,
-      "discountPercent": 70,
+      "hasDiscount": false,
+      "discountPercent": 0,
       "rating": 4.4,
       "ratingCount": 413,
       "ageRating": 7,
@@ -38826,8 +38917,7 @@
         "Cooperación local de Xbox (2-4)",
         "Cooperativo en línea  (2-4)",
         "Multijugador local de Xbox (2-2)",
-        "Multijugador en línea  (2-26)",
-        "FPS Boost Series X | S"
+        "Multijugador en línea  (2-26)"
       ],
       "systemRequirements": [
         {
@@ -38863,11 +38953,11 @@
       ],
       "tiers": [],
       "platform": "console",
-      "price": 11.99,
+      "price": 39.99,
       "msrp": 39.99,
       "currency": "EUR",
-      "hasDiscount": true,
-      "discountPercent": 70,
+      "hasDiscount": false,
+      "discountPercent": 0,
       "rating": 4.4,
       "ratingCount": 336,
       "ageRating": 16,
@@ -38916,11 +39006,11 @@
       ],
       "tiers": [],
       "platform": "console",
-      "price": 7.99,
+      "price": 19.99,
       "msrp": 19.99,
       "currency": "EUR",
-      "hasDiscount": true,
-      "discountPercent": 60,
+      "hasDiscount": false,
+      "discountPercent": 0,
       "rating": 3.4,
       "ratingCount": 51,
       "ageRating": 7,
@@ -38974,13 +39064,13 @@
       ],
       "tiers": [],
       "platform": "console",
-      "price": 11.99,
+      "price": 19.99,
       "msrp": 19.99,
       "currency": "EUR",
-      "hasDiscount": true,
-      "discountPercent": 40,
-      "rating": 2.9,
-      "ratingCount": 7,
+      "hasDiscount": false,
+      "discountPercent": 0,
+      "rating": 3.1,
+      "ratingCount": 8,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -39129,11 +39219,11 @@
         "ultimate"
       ],
       "platform": "both",
-      "price": 29.99,
+      "price": 8.99,
       "msrp": 29.99,
       "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
+      "hasDiscount": true,
+      "discountPercent": 70,
       "rating": 2.6,
       "ratingCount": 71,
       "ageRating": 12,
@@ -41540,11 +41630,11 @@
         "ultimate"
       ],
       "platform": "both",
-      "price": 7.99,
+      "price": 39.98,
       "msrp": 39.98,
       "currency": "EUR",
-      "hasDiscount": true,
-      "discountPercent": 80,
+      "hasDiscount": false,
+      "discountPercent": 0,
       "rating": 4.7,
       "ratingCount": 491,
       "ageRating": 18,
@@ -41650,11 +41740,11 @@
         "ultimate"
       ],
       "platform": "pc",
-      "price": 7.49,
+      "price": 29.99,
       "msrp": 29.99,
       "currency": "EUR",
-      "hasDiscount": true,
-      "discountPercent": 75,
+      "hasDiscount": false,
+      "discountPercent": 0,
       "rating": 4.4,
       "ratingCount": 42,
       "ageRating": 18,
@@ -41818,11 +41908,11 @@
         "ultimate"
       ],
       "platform": "console",
-      "price": 7.99,
+      "price": 19.98,
       "msrp": 19.98,
       "currency": "EUR",
-      "hasDiscount": true,
-      "discountPercent": 60,
+      "hasDiscount": false,
+      "discountPercent": 0,
       "rating": 4.5,
       "ratingCount": 331,
       "ageRating": 18,
@@ -41974,11 +42064,11 @@
         "ultimate"
       ],
       "platform": "both",
-      "price": 9.99,
+      "price": 39.99,
       "msrp": 39.99,
       "currency": "EUR",
-      "hasDiscount": true,
-      "discountPercent": 75,
+      "hasDiscount": false,
+      "discountPercent": 0,
       "rating": 4.7,
       "ratingCount": 234,
       "ageRating": 18,
@@ -42034,11 +42124,11 @@
         "ultimate"
       ],
       "platform": "both",
-      "price": 47.99,
+      "price": 59.99,
       "msrp": 59.99,
       "currency": "EUR",
-      "hasDiscount": true,
-      "discountPercent": 20,
+      "hasDiscount": false,
+      "discountPercent": 0,
       "rating": 4.5,
       "ratingCount": 345,
       "ageRating": 16,
@@ -43006,11 +43096,11 @@
         "ultimate"
       ],
       "platform": "both",
-      "price": 16.24,
+      "price": 24.99,
       "msrp": 24.99,
       "currency": "EUR",
-      "hasDiscount": true,
-      "discountPercent": 35,
+      "hasDiscount": false,
+      "discountPercent": 0,
       "rating": 4.4,
       "ratingCount": 77,
       "ageRating": 16,
@@ -44992,7 +45082,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 1.9,
-      "ratingCount": 56,
+      "ratingCount": 57,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -45021,7 +45111,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 31389331456,
+      "maxInstallSize": 31387021312,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/smite-2/9NV8W1KJSQLL"
     },
@@ -45298,11 +45388,11 @@
         "ultimate"
       ],
       "platform": "both",
-      "price": 26.24,
+      "price": 34.99,
       "msrp": 34.99,
       "currency": "EUR",
-      "hasDiscount": true,
-      "discountPercent": 25,
+      "hasDiscount": false,
+      "discountPercent": 0,
       "rating": 4.3,
       "ratingCount": 534,
       "ageRating": 18,
@@ -45896,11 +45986,11 @@
         "ultimate"
       ],
       "platform": "both",
-      "price": 24.99,
+      "price": 8.74,
       "msrp": 24.99,
       "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
+      "hasDiscount": true,
+      "discountPercent": 65,
       "rating": 3.5,
       "ratingCount": 53,
       "ageRating": 12,
@@ -47106,11 +47196,11 @@
         "ultimate"
       ],
       "platform": "both",
-      "price": 7.49,
+      "price": 29.99,
       "msrp": 29.99,
       "currency": "EUR",
-      "hasDiscount": true,
-      "discountPercent": 75,
+      "hasDiscount": false,
+      "discountPercent": 0,
       "rating": 3.7,
       "ratingCount": 2542,
       "ageRating": 18,
@@ -47277,8 +47367,7 @@
         "Cooperativo en línea  (2-4)",
         "Multijugador en línea  (2-4)",
         "HDR10",
-        "Xbox One X mejorado",
-        "FPS Boost Series S"
+        "Xbox One X mejorado"
       ],
       "systemRequirements": [
         {
@@ -47644,8 +47733,7 @@
         "Presencia de Xbox",
         "Clubs de Xbox",
         "Cosas guardadas en la nube de Xbox",
-        "Xbox Play Anywhere",
-        "FPS Boost Series X | S"
+        "Xbox Play Anywhere"
       ],
       "systemRequirements": [
         {
@@ -47725,11 +47813,11 @@
         "ultimate"
       ],
       "platform": "both",
-      "price": 24.99,
+      "price": 17.49,
       "msrp": 24.99,
       "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
+      "hasDiscount": true,
+      "discountPercent": 30,
       "rating": 3.9,
       "ratingCount": 31,
       "ageRating": 16,
@@ -48139,11 +48227,11 @@
         "ultimate"
       ],
       "platform": "both",
-      "price": 19.99,
+      "price": 7.99,
       "msrp": 19.99,
       "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
+      "hasDiscount": true,
+      "discountPercent": 60,
       "rating": 3,
       "ratingCount": 31,
       "ageRating": 3,
@@ -48462,7 +48550,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 3955765248,
+      "maxInstallSize": 3955982336,
       "hasAddOns": false,
       "storeUrl": "https://www.xbox.com/es-es/games/store/tears-of-metal-versi-n-preliminar-del-juego/9PN8M16GG8M4"
     },
@@ -48801,13 +48889,13 @@
         "ultimate"
       ],
       "platform": "both",
-      "price": 19.99,
+      "price": 24.99,
       "msrp": 24.99,
       "currency": "EUR",
-      "hasDiscount": true,
-      "discountPercent": 20,
+      "hasDiscount": false,
+      "discountPercent": 0,
       "rating": 2.5,
-      "ratingCount": 21,
+      "ratingCount": 23,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -48859,7 +48947,7 @@
           "recommended": "8 GB"
         }
       ],
-      "maxInstallSize": 21812416512,
+      "maxInstallSize": 21832425472,
       "hasAddOns": false,
       "storeUrl": "https://www.xbox.com/es-es/games/store/terrible-lizards/9PKFL1XJT73S"
     },
@@ -50312,11 +50400,11 @@
         "ultimate"
       ],
       "platform": "console",
-      "price": 4.99,
+      "price": 19.99,
       "msrp": 19.99,
       "currency": "EUR",
-      "hasDiscount": true,
-      "discountPercent": 75,
+      "hasDiscount": false,
+      "discountPercent": 0,
       "rating": 4.4,
       "ratingCount": 272,
       "ageRating": 18,
@@ -50368,11 +50456,11 @@
         "ultimate"
       ],
       "platform": "pc",
-      "price": 6.24,
+      "price": 24.99,
       "msrp": 24.99,
       "currency": "EUR",
-      "hasDiscount": true,
-      "discountPercent": 75,
+      "hasDiscount": false,
+      "discountPercent": 0,
       "rating": 2.7,
       "ratingCount": 46,
       "ageRating": 18,
@@ -50461,11 +50549,11 @@
         "ultimate"
       ],
       "platform": "console",
-      "price": 7.99,
+      "price": 39.99,
       "msrp": 39.99,
       "currency": "EUR",
-      "hasDiscount": true,
-      "discountPercent": 80,
+      "hasDiscount": false,
+      "discountPercent": 0,
       "rating": 4.7,
       "ratingCount": 193,
       "ageRating": 18,
@@ -50520,11 +50608,11 @@
         "ultimate"
       ],
       "platform": "pc",
-      "price": 7.99,
+      "price": 39.99,
       "msrp": 39.99,
       "currency": "EUR",
-      "hasDiscount": true,
-      "discountPercent": 80,
+      "hasDiscount": false,
+      "discountPercent": 0,
       "rating": 4.1,
       "ratingCount": 37,
       "ageRating": 18,
@@ -50770,7 +50858,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 80491360256,
+      "maxInstallSize": 80746790912,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/the-first-descendant/9P8FBXKMCLWC"
     },
@@ -51600,8 +51688,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 1.3,
-      "ratingCount": 25,
+      "rating": 1.4,
+      "ratingCount": 27,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -51881,11 +51969,11 @@
         "ultimate"
       ],
       "platform": "both",
-      "price": 34.99,
+      "price": 10.49,
       "msrp": 34.99,
       "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
+      "hasDiscount": true,
+      "discountPercent": 70,
       "rating": 4.2,
       "ratingCount": 30,
       "ageRating": 16,
@@ -51941,11 +52029,11 @@
         "ultimate"
       ],
       "platform": "console",
-      "price": 3.74,
+      "price": 14.99,
       "msrp": 14.99,
       "currency": "EUR",
-      "hasDiscount": true,
-      "discountPercent": 75,
+      "hasDiscount": false,
+      "discountPercent": 0,
       "rating": 4.4,
       "ratingCount": 72,
       "ageRating": 18,
@@ -51990,11 +52078,11 @@
         "ultimate"
       ],
       "platform": "console",
-      "price": 5.99,
+      "price": 23.99,
       "msrp": 23.99,
       "currency": "EUR",
-      "hasDiscount": true,
-      "discountPercent": 75,
+      "hasDiscount": false,
+      "discountPercent": 0,
       "rating": 4.6,
       "ratingCount": 72,
       "ageRating": 18,
@@ -52043,11 +52131,11 @@
         "ultimate"
       ],
       "platform": "console",
-      "price": 3.24,
+      "price": 12.99,
       "msrp": 12.99,
       "currency": "EUR",
-      "hasDiscount": true,
-      "discountPercent": 75,
+      "hasDiscount": false,
+      "discountPercent": 0,
       "rating": 4.6,
       "ratingCount": 64,
       "ageRating": 18,
@@ -52092,11 +52180,11 @@
         "ultimate"
       ],
       "platform": "console",
-      "price": 3.74,
+      "price": 14.99,
       "msrp": 14.99,
       "currency": "EUR",
-      "hasDiscount": true,
-      "discountPercent": 75,
+      "hasDiscount": false,
+      "discountPercent": 0,
       "rating": 4.5,
       "ratingCount": 128,
       "ageRating": 18,
@@ -52141,11 +52229,11 @@
         "ultimate"
       ],
       "platform": "console",
-      "price": 3.74,
+      "price": 14.99,
       "msrp": 14.99,
       "currency": "EUR",
-      "hasDiscount": true,
-      "discountPercent": 75,
+      "hasDiscount": false,
+      "discountPercent": 0,
       "rating": 4.5,
       "ratingCount": 259,
       "ageRating": 18,
@@ -52195,11 +52283,11 @@
         "ultimate"
       ],
       "platform": "console",
-      "price": 29.99,
+      "price": 5.99,
       "msrp": 29.99,
       "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
+      "hasDiscount": true,
+      "discountPercent": 80,
       "rating": 3.7,
       "ratingCount": 115,
       "ageRating": 16,
@@ -52254,11 +52342,11 @@
         "ultimate"
       ],
       "platform": "pc",
-      "price": 29.99,
+      "price": 5.99,
       "msrp": 29.99,
       "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
+      "hasDiscount": true,
+      "discountPercent": 80,
       "rating": 3.1,
       "ratingCount": 32,
       "ageRating": 16,
@@ -52435,8 +52523,7 @@
       "interactiveDescriptions": [],
       "capabilities": [
         "Multijugador en línea  (2-16)",
-        "Xbox One X mejorado",
-        "FPS Boost Series X | S"
+        "Xbox One X mejorado"
       ],
       "systemRequirements": [
         {
@@ -53094,8 +53181,7 @@
         "4K Ultra HD",
         "Un jugador",
         "Xbox One X mejorado",
-        "Logros de Xbox",
-        "FPS Boost Series X | S"
+        "Logros de Xbox"
       ],
       "systemRequirements": [
         {
@@ -54202,7 +54288,7 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 4,
+      "rating": 3.9,
       "ratingCount": 49,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
@@ -54690,8 +54776,7 @@
         "Logros de Xbox",
         "Presencia de Xbox",
         "Clubs de Xbox",
-        "Cosas guardadas en la nube de Xbox",
-        "FPS Boost Series X | S"
+        "Cosas guardadas en la nube de Xbox"
       ],
       "systemRequirements": [
         {
@@ -54849,7 +54934,7 @@
           "recommended": ""
         }
       ],
-      "maxInstallSize": 2981294080,
+      "maxInstallSize": 3549782016,
       "hasAddOns": false,
       "storeUrl": "https://www.xbox.com/es-es/games/store/ultimate-sheep-raccoon/9P1H8K2V0NNP"
     },
@@ -55127,8 +55212,7 @@
         "Multijugador local de Xbox (2-2)",
         "4K Ultra HD",
         "Pantalla dividida o compartida",
-        "Xbox One X mejorado",
-        "FPS Boost Series X | S"
+        "Xbox One X mejorado"
       ],
       "systemRequirements": [
         {
@@ -55269,7 +55353,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.9,
-      "ratingCount": 71,
+      "ratingCount": 72,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -56078,21 +56162,21 @@
     },
     {
       "id": "9N9K5QP9G3GL",
-      "title": "VOID/BREAKER (Versión preliminar del juego)",
-      "description": "Este juego es un trabajo en curso. Es posible que, con el tiempo, cambie o no cambie, o que no se lance como producto final. Compra este producto únicamente si estás satisfecho con el estado actual del juego no terminado.\n\nUna IA hostil omnisciente te ha atrapado en una secuencia infinita.\nTe ha encerrado, y te obliga a luchar hasta morir una y otra vez.\nLas máquinas creen que nunca escaparás. El sistema está diseñado para que no lo consigas.\n\n\nPERO ESCAPAR ES POSIBLE\n\nTiroteos frenéticos y movimientos precisos\n\nNo se trata solo de disparar: la velocidad lo es todo.\nÁbrete paso por tiroteos incesantes con movimientos fluidos, que darán lugar a una acción frenética.\nGana en movilidad a tus enemigos y domina los tiroteos con agilidad y rapidez.\n\nArmas infinitas. Posibilidades infinitas.\n\nDescubre un sinfín de combinaciones de armamento usando el sistema de modificación de armas definitivo.\nCombina modificaciones de forma estratégica para crear configuraciones de equipo devastadoras.\nDesbloquea sinergias increíbles que te convertirán en una fuerza imparable.\n\nLa destrucción es tu ventaja.\n\n¿Para qué vas a conformarte con disparar al enemigo, cuando puedes arrasar el mundo que lo rodea?\nLa destrucción del entorno no está solo para ambientar: es una mecánica esencial del juego.\nRevienta y atraviesa paredes, derrumba estructuras e impide la movilidad de los enemigos para sobrevivir.\n\nNueva partida. Nueva opciones. Nuevos caminos.\nCada partida conlleva una serie de decisiones. ¿Qué batallas lidiarás?\n¿Qué caminos te harán superar tus límites?\n¿Preferirás arriesgarte para obtener mejores recompensas, o ir a lo seguro?\nTú eliges.\n\nUn proyecto lleno de pasión hecho por un único desarrollador\nVOID/BREAKER es un proyecto individual del desarrollador Daniel Stubbington, conocido como Stubby Games.\nTras su aclamado juego de rompecabezas inspirado en Portal, The Entropy Centre (2022), \nDaniel se ha centrado en su pasión por los juegos dinámicos de disparos en primera persona y en los roguelites.\n",
+      "title": "VOID/BREAKER",
+      "description": "Una IA hostil omnisciente te ha atrapado en una secuencia infinita.\nTe ha encerrado, y te obliga a luchar hasta morir una y otra vez.\nLas máquinas creen que nunca escaparás. El sistema está diseñado para que no lo consigas.\n\n\nPERO ESCAPAR ES POSIBLE\n\nTiroteos frenéticos y movimientos precisos\n\nNo se trata solo de disparar: la velocidad lo es todo.\nÁbrete paso por tiroteos incesantes con movimientos fluidos, que darán lugar a una acción frenética.\nGana en movilidad a tus enemigos y domina los tiroteos con agilidad y rapidez.\n\nArmas infinitas. Posibilidades infinitas.\n\nDescubre un sinfín de combinaciones de armamento usando el sistema de modificación de armas definitivo.\nCombina modificaciones de forma estratégica para crear configuraciones de equipo devastadoras.\nDesbloquea sinergias increíbles que te convertirán en una fuerza imparable.\n\nLa destrucción es tu ventaja.\n\n¿Para qué vas a conformarte con disparar al enemigo, cuando puedes arrasar el mundo que lo rodea?\nLa destrucción del entorno no está solo para ambientar: es una mecánica esencial del juego.\nRevienta y atraviesa paredes, derrumba estructuras e impide la movilidad de los enemigos para sobrevivir.\n\nNueva partida. Nueva opciones. Nuevos caminos.\nCada partida conlleva una serie de decisiones. ¿Qué batallas lidiarás?\n¿Qué caminos te harán superar tus límites?\n¿Preferirás arriesgarte para obtener mejores recompensas, o ir a lo seguro?\nTú eliges.\n\nUn proyecto lleno de pasión hecho por un único desarrollador\nVOID/BREAKER es un proyecto individual del desarrollador Daniel Stubbington, conocido como Stubby Games.\nTras su aclamado juego de rompecabezas inspirado en Portal, The Entropy Centre (2022), \nDaniel se ha centrado en su pasión por los juegos dinámicos de disparos en primera persona y en los roguelites.\n",
       "shortDescription": "Roguelite frenético de disparos en 1.ª persona",
       "developer": "Stubby Games",
       "publisher": "Playstack",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.28376.13536036111571877.589d3b26-235b-491c-b54b-52bb688c551a.fde4f1b9-ce6d-4948-b766-947672614697",
+      "imageUrl": "https://store-images.s-microsoft.com/image/apps.8077.13536036111571877.6e9314d2-c36f-4ec9-ad65-425453b390bd.43f1c606-e026-4cd5-8eab-759d0b1b550e",
       "heroImage": "https://store-images.s-microsoft.com/image/apps.21689.13536036111571877.589d3b26-235b-491c-b54b-52bb688c551a.e2cecc1b-98f3-43e7-98f5-db81ae2bca54",
       "screenshots": [
-        "https://store-images.s-microsoft.com/image/apps.43626.13536036111571877.f5833e89-1504-46a5-8ffc-8d717245bfbb.63e7c2de-2223-450c-aec8-3df6b11da112",
         "https://store-images.s-microsoft.com/image/apps.49283.13536036111571877.c638ba31-85af-420c-94d6-9a8fe7d0a082.ba25fd40-8d4f-40c6-be89-9672fae2467e",
         "https://store-images.s-microsoft.com/image/apps.42720.13536036111571877.c638ba31-85af-420c-94d6-9a8fe7d0a082.d909d0ce-4139-4876-802a-796d5166d3c5",
-        "https://store-images.s-microsoft.com/image/apps.146.13536036111571877.c638ba31-85af-420c-94d6-9a8fe7d0a082.d8628962-6a25-4304-b336-a9ea583ee091"
+        "https://store-images.s-microsoft.com/image/apps.146.13536036111571877.c638ba31-85af-420c-94d6-9a8fe7d0a082.d8628962-6a25-4304-b336-a9ea583ee091",
+        "https://store-images.s-microsoft.com/image/apps.30643.13536036111571877.c638ba31-85af-420c-94d6-9a8fe7d0a082.403ef5ce-af07-440a-8af1-42c8e0bd60ca"
       ],
-      "videoUrl": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftassets/03544588-cc86-4c6f-a2ef-db5b930cec3f-AVS.m3u8?packagedStreaming=true",
-      "videoCaption": "VOID/BREAKER Game Preview Launch Trailer",
+      "videoUrl": "https://cdn.trailers.xboxservices.com/trailers/00000000-0000-0000-0000-000000000000/xbox/prod/videos/mainprofile/13536036111571877/5a80e2af-e33f-4033-a31e-e0648c2652d5/manifest.m3u8",
+      "videoCaption": "1.0 Release Date Trailer",
       "releaseDate": "2026-11-04",
       "categories": [
         "Shooter",
@@ -56103,21 +56187,24 @@
         "premium",
         "ultimate"
       ],
-      "platform": "pc",
+      "platform": "both",
       "price": 16.19,
       "msrp": 26.99,
       "currency": "EUR",
       "hasDiscount": true,
       "discountPercent": 40,
-      "rating": 0,
-      "ratingCount": 0,
+      "rating": 1,
+      "ratingCount": 1,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
       "interactiveDescriptions": [],
       "capabilities": [
         "Un jugador",
-        "Cosas guardadas en la nube de Xbox"
+        "Optimizado para Xbox Series X|S",
+        "Logros de Xbox",
+        "Cosas guardadas en la nube de Xbox",
+        "Xbox Play Anywhere"
       ],
       "systemRequirements": [
         {
@@ -56166,9 +56253,9 @@
           "recommended": "6 GB"
         }
       ],
-      "maxInstallSize": 12651421696,
+      "maxInstallSize": 13803831296,
       "hasAddOns": true,
-      "storeUrl": "https://www.xbox.com/es-es/games/store/void-breaker-versi-n-preliminar-del-juego/9N9K5QP9G3GL"
+      "storeUrl": "https://www.xbox.com/es-es/games/store/void-breaker/9N9K5QP9G3GL"
     },
     {
       "id": "9NQMVR9WL9FW",
@@ -57699,11 +57786,11 @@
         "ultimate"
       ],
       "platform": "console",
-      "price": 17.49,
+      "price": 69.99,
       "msrp": 69.99,
       "currency": "EUR",
-      "hasDiscount": true,
-      "discountPercent": 75,
+      "hasDiscount": false,
+      "discountPercent": 0,
       "rating": 3.9,
       "ratingCount": 142,
       "ageRating": 18,
@@ -59109,7 +59196,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 2.4,
-      "ratingCount": 148,
+      "ratingCount": 149,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -59620,7 +59707,7 @@
           "recommended": "Controladora de Xbox"
         },
         {
-          "title": "Micr��fono",
+          "title": "Micrófono",
           "minimum": "",
           "recommended": "Micrófono integrado"
         }
@@ -59657,11 +59744,11 @@
         "ultimate"
       ],
       "platform": "both",
-      "price": 13.99,
+      "price": 39.99,
       "msrp": 39.99,
       "currency": "EUR",
-      "hasDiscount": true,
-      "discountPercent": 65,
+      "hasDiscount": false,
+      "discountPercent": 0,
       "rating": 4.1,
       "ratingCount": 126,
       "ageRating": 18,
