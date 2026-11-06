@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-05T15:54:01.070Z",
+  "updatedAt": "2026-11-06T15:28:16.727Z",
   "market": "ES",
   "language": "es-ES",
-  "totalGames": 811,
+  "totalGames": 814,
   "counts": {
     "essential": 133,
     "premium": 565,
-    "pc": 471,
-    "ultimate": 716,
-    "total": 811
+    "pc": 472,
+    "ultimate": 717,
+    "total": 814
   },
   "categories": [
     "Acción y aventura",
@@ -2802,7 +2802,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.7,
-      "ratingCount": 21171,
+      "ratingCount": 21173,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -5580,11 +5580,11 @@
       ],
       "tiers": [],
       "platform": "console",
-      "price": 1.99,
+      "price": 19.99,
       "msrp": 19.99,
       "currency": "EUR",
-      "hasDiscount": true,
-      "discountPercent": 90,
+      "hasDiscount": false,
+      "discountPercent": 0,
       "rating": 4.2,
       "ratingCount": 932,
       "ageRating": 18,
@@ -5594,7 +5594,8 @@
         "Compras dentro del juego (Incluye artículos aleatorios)"
       ],
       "capabilities": [
-        "Multijugador en línea  (4-64)"
+        "Multijugador en línea  (4-64)",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -5630,11 +5631,11 @@
       ],
       "tiers": [],
       "platform": "console",
-      "price": 3.99,
+      "price": 39.99,
       "msrp": 39.99,
       "currency": "EUR",
-      "hasDiscount": true,
-      "discountPercent": 90,
+      "hasDiscount": false,
+      "discountPercent": 0,
       "rating": 4.3,
       "ratingCount": 486,
       "ageRating": 18,
@@ -5682,11 +5683,11 @@
       ],
       "tiers": [],
       "platform": "console",
-      "price": 6.99,
+      "price": 69.99,
       "msrp": 69.99,
       "currency": "EUR",
-      "hasDiscount": true,
-      "discountPercent": 90,
+      "hasDiscount": false,
+      "discountPercent": 0,
       "rating": 2.2,
       "ratingCount": 112,
       "ageRating": 16,
@@ -8695,7 +8696,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 2.3,
-      "ratingCount": 451,
+      "ratingCount": 452,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -9279,20 +9280,20 @@
     {
       "id": "9NNFG8BQRCXL",
       "title": "Call of Duty®: Warzone™",
-      "description": "Call of Duty®: Warzone™ dejará de ser jugable en Xbox One al final de la Temporada 6 de Black Ops 7.\n\nTe damos la bienvenida a Call of Duty®: Warzone™, la zona de combate masivo gratuita. Disfruta de modos emocionantes y nuevas características con la nueva y espeluznante versión de Haven's Hollow, Battle Royale, Black Ops Royale y Resurgimiento.\n\nSobrevive a lo desconocido en Call of Duty®: Warzone™.\n\nÁbrete paso por la oscuridad que ha consumido Haven's Hollow. Descubre nuevos y retorcidos secretos, rutas ocultas y encuentros aterradores antes de sobrevivir al modo por tiempo limitado exclusivo del nuevo mapa Gigante infectado.\n\n¿Quieres subir el nivel de verdad? Ve al modo de partidas igualadas de Resurgimiento y arrasa a la competencia.\n\n\nEs posible que se requiera un número de teléfono móvil vinculado a tu cuenta de Activision para jugar a Call of Duty®: Warzone™.\n\nNo se necesita una suscripción a Game Pass Core para jugar a Call of Duty®: Warzone™. Para los demás modos en línea se requiere Game Pass Core.\n\nPara obtener más información, visita www.callofduty.com.\n\n©/TM/® 2026 Activision Publishing, Inc. Este producto contiene tecnología de software con licencia de Id Software ('Id Technology'). Id Technology © 1999-2026 Id Software, Inc.",
-      "shortDescription": "Te damos la bienvenida a Call of Duty®: Warzone™, la zona de combate masivo gratuita. Disfruta de modos emocionantes y nuevas características con la nueva y espeluznante versión de Haven's Hollow, Battle Royale, Black Ops Royale y Resurgimiento.",
+      "description": "Te damos la bienvenida a Call of Duty®: Warzone™, una gigantesca arena de combate gratuita. Entra en acción con modos como Battle Royale y Resurgimiento y descubre nuevas formas de jugar.\n\nLa batalla llega a Hajin en Call of Duty®: Warzone™.\n\nEs el momento perfecto para reunir de nuevo al escuadrón. La Temporada 1 estrena dos mapas en Call of Duty®: Warzone™ que renuevan la acción en todos sus modos. Recorre las estaciones y corredores de mercancías de Zodiac o adéntrate en la peligrosa zona de exclusión de Hajin. Descubre nuevos lugares donde aterrizar, prepara nuevas estrategias y encuentra nuevas rutas para dominar el campo de batalla.\n\n\nEs posible que se requiera un número de teléfono móvil vinculado a tu cuenta de Activision para jugar a Call of Duty®: Warzone™.\n\nNo se necesita una suscripción a Game Pass Core para jugar a Call of Duty®: Warzone™. Para los demás modos en línea se requiere Game Pass Core.\n\nPara obtener más información, visita www.callofduty.com.\n\n©/TM/® 2026 Activision Publishing, Inc. Este producto contiene tecnología de software con licencia de Id Software ('Id Technology'). Id Technology © 1999-2026 Id Software, Inc.",
+      "shortDescription": "Te damos la bienvenida a Call of Duty®: Warzone™, una gigantesca arena de combate gratuita. Entra en acción con modos como Battle Royale y Resurgimiento y descubre nuevas formas de jugar.",
       "developer": "",
       "publisher": "Activision Publishing Inc.",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.61500.13739535057760905.ee63b998-143e-4256-bd0e-3e78d667ab11.31188761-50b5-4ec9-91f4-ec4f1a8b5503",
-      "heroImage": "https://store-images.s-microsoft.com/image/apps.20908.13739535057760905.ee63b998-143e-4256-bd0e-3e78d667ab11.7315f232-c36d-4d7d-8581-edc82aebe238",
+      "imageUrl": "https://store-images.s-microsoft.com/image/apps.56274.13739535057760905.64d1d264-ebf5-48f6-a5d3-2ac9c96b636b.787de075-0bde-451b-a3f1-3123e78bc327",
+      "heroImage": "https://store-images.s-microsoft.com/image/apps.49813.13739535057760905.64d1d264-ebf5-48f6-a5d3-2ac9c96b636b.22659708-0547-4e5b-a8b1-f53da3ea0454",
       "screenshots": [
-        "https://store-images.s-microsoft.com/image/apps.2371.13739535057760905.9640bbdc-dc7f-4305-8a6f-c5ea2ef2352e.e1b87fd5-272a-4a87-a78d-fa9ccfde88a1",
-        "https://store-images.s-microsoft.com/image/apps.60930.13739535057760905.9640bbdc-dc7f-4305-8a6f-c5ea2ef2352e.3e1ee2d0-e468-4d6c-bc73-ab282f29d4d6",
-        "https://store-images.s-microsoft.com/image/apps.9326.13739535057760905.c6b6579d-5531-4711-aa57-db1335bba25a.ad58a1fd-7d5a-41d3-be25-05b48ca3a134",
-        "https://store-images.s-microsoft.com/image/apps.48540.13739535057760905.d895be15-cf6f-420a-8c52-52a36064269f.cbc181d4-8ce1-4d95-a62c-aefe2241c3b8"
+        "https://store-images.s-microsoft.com/image/apps.24747.13739535057760905.64d1d264-ebf5-48f6-a5d3-2ac9c96b636b.5d276fdf-db66-4599-85ae-90cc5319627f",
+        "https://store-images.s-microsoft.com/image/apps.45090.13739535057760905.64d1d264-ebf5-48f6-a5d3-2ac9c96b636b.956a573e-a243-4786-af40-242e66f50833",
+        "https://store-images.s-microsoft.com/image/apps.25609.13739535057760905.64d1d264-ebf5-48f6-a5d3-2ac9c96b636b.058954d6-e776-49ec-ac45-e8635179fd36",
+        "https://store-images.s-microsoft.com/image/apps.34750.13739535057760905.64d1d264-ebf5-48f6-a5d3-2ac9c96b636b.857caa7b-4e66-4ee9-b8c4-183e8dc68437"
       ],
-      "videoUrl": "",
-      "videoCaption": "",
+      "videoUrl": "https://cdn.trailers.xboxservices.com/trailers/00000000-0000-0000-0000-000000000000/xbox/prod/videos/mainprofile/13739535057760905/c6ccd00e-da93-4b49-8f90-7776095ada18/manifest.m3u8",
+      "videoCaption": "Call of Duty: Warzone - Season 1 Trailer",
       "releaseDate": "2022-11-14",
       "categories": [
         "Shooter"
@@ -10451,7 +10452,7 @@
           "recommended": "2 GB"
         }
       ],
-      "maxInstallSize": 2213335040,
+      "maxInstallSize": 2512740352,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/clone-drone-in-the-danger-zone/9NKHKBQJSSC3"
     },
@@ -14543,7 +14544,8 @@
       "capabilities": [
         "Un jugador",
         "Logros de Xbox",
-        "Cosas guardadas en la nube de Xbox"
+        "Cosas guardadas en la nube de Xbox",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -15849,7 +15851,9 @@
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
       "interactiveDescriptions": [],
-      "capabilities": [],
+      "capabilities": [
+        "FPS Boost Series X | S"
+      ],
       "systemRequirements": [
         {
           "title": "Arquitectura",
@@ -17804,6 +17808,104 @@
       "storeUrl": "https://www.xbox.com/es-es/games/store/enlisted-xbox-one/9PF432CVQBXT"
     },
     {
+      "id": "9P743P6195Q5",
+      "title": "Escape Academy 2: Back 2 School",
+      "description": "¡Vuelve al cole con Escape Academy 2: Back 2 School! Explora un campus nuevo, escapa de salas con puzles peliagudos y desgrana una conspiración que se remonta a la fundación de la academia... antes de que suene la campana. Juega en solitario o con un amigo en cooperativo local o en línea.\n\nACERCA DE ESTE JUEGO \n\n¡Escape Academy 2: Back 2 School es la secuela del aclamado Escape Academy que han disfrutado más de 4 millones de jugadores!\n\nTe damos la bienvenida a Escape Academy, la institución de enseñanza clandestina más importante del mundo del escapismo. Hayas estudiado con anterioridad en nuestra academia o no, ten la seguridad de que has acudido al lugar indicado. Escape Academy 2: Back 2 School coge el formato de las salas de escape del primer juego y las convierte en un GÉNERO completamente nuevo. Estás ante el primer juego de salas de escapes de mundo abierto... y lo tienes a tu disposición desde la comodidad de tu propia casa.\n\nSALAS DE ESCAPE DIGITALES POR EXPERTOS EN LA MATERIA\n\nEscape Academy 2: Back 2 School incluye una campaña nueva con salas de escape selectas y hechas al milímetro por nuestro avezado equipo de diseñadores de puzles. Sin embargo, a diferencia de las salas de escape del mundo real, los puzles de Escape Academy no tienen por qué cumplir todo ese muermo de las normas de seguridad. ¿Techos con pinchos? Sí. ¿Caídas de 30 metros? Sí. Y lo peor de todo... ¿exámenes finales? Sí, sí y sí.\n\nEl plan de estudios de la academia es, al mismo tiempo, una amenaza mortal y un auténtico disparate, porque ¿acaso hay mejor método de aprendizaje que debatirse entre la vida o la muerte?\n\nEXPLORA UN CAMPUS VIVO \n\nEl campus de Escape Academy 2 es, en sí mismo, una enorme sala de puzles. Entre clase y clase, podrás explorar un amplio recinto central lleno de secretos, pasadizos misteriosos, túneles ocultos y trampas peligrosas. O pasar el rato con tus amigos y empaparte del buen rollo que ofrece la vida estudiantil.\n\nElijas lo que elijas, la academia te hará sentir como en casa... pero guardando las distancias.\n\nESCAPA CON UN COMPAÑERO EN COOPERATIVO LOCAL O EN LÍNEA\n\nEscapar con un amigo nunca había sido tan divertido. Escape Academy 2 incorpora un modo cooperativo tanto en línea como local con pantalla dividida. Además, gracias al nuevo modo opcional Sin temporizador, los estudiantes, vengan de donde vengan, podrán ir resolviendo puzles a su propio ritmo. \n\nADÉNTRATE EN UNA NUEVA NARRATIVA\n\n¡La nueva historia de Escape Academy 2 hará las delicias de los jugadores veteranos y novatos! Descubrirás un oscuro misterio sobre la fundación de la academia que te llevará a nuevas revelaciones acerca de su propia naturaleza. Profundiza en tu relación con nuevos profesores y caras conocidas del primer juego gracias a un plan de estudios expandido, ¡con arcos narrativos centrados en los personajes y misiones secundarias repletas de puzles!\n\n¡VUELTA AL COLE!\n\n\nLe hemos dado un lavado de cara a Escape Academy para su secuela, con entornos nuevos, un montón de detalles e incluso modelitos nuevos para nuestros profesores y alumnos. \n\nPor si fuera poco, DJ Doseone, el genio malvado, ha vuelto con una tanda alucinante de pistas nuevecitas con las que relajarte y estudiar. La nueva banda sonora incluye la mejor música de fondo para resolver puzles. \n\nBueno, ¿a qué esperas? Ya va siendo hora... ¡de la vuelta al cole!",
+      "shortDescription": "¡Vuelve al cole con Escape Academy 2: Back 2 School! Explora un campus nuevo, escapa de salas con puzles peliagudos y desgrana una conspiración que se remonta a la fundación de la academia... antes de que suene la campana. Juega en solitario o con un amigo en cooperativo local o en línea.",
+      "developer": "Coin Crew Games",
+      "publisher": "iam8bit Presents",
+      "imageUrl": "https://store-images.s-microsoft.com/image/apps.32075.14607328992338706.a7a9f492-6e2c-4b94-ab21-d3b4889e76fe.303a41a4-14bb-4486-a564-6e3cc7dbf83a",
+      "heroImage": "https://store-images.s-microsoft.com/image/apps.43876.14607328992338706.a7a9f492-6e2c-4b94-ab21-d3b4889e76fe.11a68c38-d89e-4e66-b1ed-00cbf47bf7cc",
+      "screenshots": [
+        "https://store-images.s-microsoft.com/image/apps.60029.14607328992338706.a7a9f492-6e2c-4b94-ab21-d3b4889e76fe.67b78c19-e8b7-4b68-967e-ff97a7e30cff",
+        "https://store-images.s-microsoft.com/image/apps.12698.14607328992338706.a7a9f492-6e2c-4b94-ab21-d3b4889e76fe.f426913d-28a2-4229-a090-c259b5eb8abb",
+        "https://store-images.s-microsoft.com/image/apps.26738.14607328992338706.a7a9f492-6e2c-4b94-ab21-d3b4889e76fe.6bdb91c6-f9c0-4611-a958-ac85334313bf",
+        "https://store-images.s-microsoft.com/image/apps.65506.14607328992338706.a7a9f492-6e2c-4b94-ab21-d3b4889e76fe.e9e168b4-283e-44dd-9b18-69eff0a4c31e"
+      ],
+      "videoUrl": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftassets/bb8ad791-aedb-4819-91e9-7f122a3fecb9-AVS.m3u8?packagedStreaming=true",
+      "videoCaption": "Key art for Escape Academy 2: Back 2 School",
+      "releaseDate": "9998-12-30",
+      "categories": [
+        "Puzles y curiosidades",
+        "Acción y aventura"
+      ],
+      "tiers": [
+        "pc",
+        "ultimate"
+      ],
+      "platform": "both",
+      "price": 19.99,
+      "msrp": 19.99,
+      "currency": "EUR",
+      "hasDiscount": false,
+      "discountPercent": 0,
+      "rating": 0,
+      "ratingCount": 0,
+      "ageRating": 7,
+      "pegiRating": "PEGI 7",
+      "pegiDescription": "Apropiado a partir de 7 años",
+      "interactiveDescriptions": [
+        "Interacción de usuarios",
+        "Compras dentro del juego"
+      ],
+      "capabilities": [
+        "Cooperación local de Xbox (2-2)",
+        "Cooperativo en línea  (2-2)",
+        "4K Ultra HD",
+        "Un jugador",
+        "Pantalla dividida o compartida",
+        "Cooperación multiplataforma de Xbox",
+        "Optimizado para Xbox Series X|S",
+        "Logros de Xbox",
+        "Cosas guardadas en la nube de Xbox"
+      ],
+      "systemRequirements": [
+        {
+          "title": "SO",
+          "minimum": "Windows 10 version 18362.0 or higher",
+          "recommended": "Windows 10 version 18362.0 or higher"
+        },
+        {
+          "title": "Arquitectura",
+          "minimum": "x64",
+          "recommended": "x64"
+        },
+        {
+          "title": "Gráficos",
+          "minimum": "NVIDIA GeForce GTX 1050Ti",
+          "recommended": "NVIDIA GeForce RTX 3060"
+        },
+        {
+          "title": "Procesador",
+          "minimum": "Intel(R) Core(TM) i5-8400 CPU @ 2.80GHz",
+          "recommended": "AMD Ryzen 7 2700 Eight- Core Processor"
+        },
+        {
+          "title": "DirectX",
+          "minimum": "Versión 11",
+          "recommended": "API de DirectX 12, nivel de característica de hardware 12"
+        },
+        {
+          "title": "Memoria",
+          "minimum": "16 GB",
+          "recommended": "16 GB"
+        },
+        {
+          "title": "Memoria de vídeo",
+          "minimum": "4 GB",
+          "recommended": "16 GB"
+        },
+        {
+          "title": "Controladora",
+          "minimum": "",
+          "recommended": "Controladora de Xbox"
+        }
+      ],
+      "maxInstallSize": 5368709120,
+      "hasAddOns": true,
+      "storeUrl": "https://www.xbox.com/es-es/games/store/escape-academy-2-back-2-school/9P743P6195Q5"
+    },
+    {
       "id": "9NKBDN695GTT",
       "title": "Escape Simulator",
       "description": "\n\nEscape Simulator es un juego de enigmas en primera persona al que puedes jugar en solitario o cooperando en línea. Descubre un conjunto de salas de escape totalmente interactivas. ¡Traslada muebles, recoge y examínalo todo, rompe vasijas y destruye candados! Este juego es compatible con salas creadas por la comunidad mediante el modo de edición.\n\nRompecabezas interactivos: rebusca en 15 salas llenas de puzles diseñados por creadores de salas de escape reales. Si hay algo suelto en la pared, puede que lo necesites.\n\nCooperación en línea: todas las salas pueden jugarse de manera colaborativa. Configura tu personaje y únete a un amigo para resolver juntos los rompecabezas. ¡Dos cabezas piensan más que una!\n\nExamínalo todo: hojea los libros, examina artefactos antiguos y descubre pistas para los acertijos. ¿Tienes que hacer una referencia cruzada para una pista? No pasa nada, déjala fija en la pantalla.\n\nSalas creadas por la comunidad: el juego incluye un editor de salas, donde puedes diseñar tu propia sala de escape y tus rompecabezas. Mediante el taller que incluye, podrás jugar en salas increíbles de creación comunitaria.\n\nHay disponibles veinticinco salas organizadas por paquetes:\n\nEl laberinto egipcio\n«Tu mentor y tú habéis descubierto un antiguo laberinto en Egipto. Sin querer, tu mentor ha activado una\ntrampa y os habéis separado. No parece haber ninguna salida a la vista».\n\nA la deriva en el espacio\n«Una explosión te ha despertado. Los restos han dañado tu nave espacial y te diriges directamente al Sol».\n\nLa mansión de Edgewood\n«Te han invitado a asistir a una cena especial en la mansión del Dr. Edgewood. En lugar de cenar, resolverás un misterio victoriano».\n\nCorporación Omega\n«Tu amigo ha desaparecido mientras investigaba a la misteriosa Corporación Omega. Sigue sus pistas y descubre la verdad».",
@@ -18563,7 +18665,8 @@
       "pegiDescription": "Apropiado a partir de 18 años",
       "interactiveDescriptions": [],
       "capabilities": [
-        "Xbox One X mejorado"
+        "Xbox One X mejorado",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -21305,8 +21408,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 3.7,
-      "ratingCount": 6,
+      "rating": 3.6,
+      "ratingCount": 7,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -22397,7 +22500,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.1,
-      "ratingCount": 376,
+      "ratingCount": 378,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -22453,7 +22556,7 @@
           "recommended": "Controladora de Xbox"
         }
       ],
-      "maxInstallSize": 171682717696,
+      "maxInstallSize": 171683065856,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/forza-horizon-6-standard-edition/9N431PX143P8"
     },
@@ -22490,7 +22593,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.6,
-      "ratingCount": 1863,
+      "ratingCount": 1864,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -22571,8 +22674,8 @@
         "https://store-images.s-microsoft.com/image/apps.31099.13848987134544813.b9397189-e630-434e-b4ea-da4764f01b90.cc8ce136-ee08-4753-98db-4b0eb84dfde7",
         "https://store-images.s-microsoft.com/image/apps.26534.13848987134544813.b9397189-e630-434e-b4ea-da4764f01b90.1824705f-ba15-4ac2-993a-782a3755ef2b"
       ],
-      "videoUrl": "https://cdn.trailers.xboxservices.com/trailers/00000000-0000-0000-0000-000000000000/xbox/prod/videos/mainprofile/13848987134544813/db32f144-ff77-4490-adac-b0d539392e3a/manifest.m3u8",
-      "videoCaption": "Season 6 Chapter 2 Preview Trailer",
+      "videoUrl": "https://cdn.trailers.xboxservices.com/trailers/00000000-0000-0000-0000-000000000000/xbox/prod/videos/mainprofile/13848987134544813/06d93084-a6f3-4367-90dc-6f7cabca89c9/manifest.m3u8",
+      "videoCaption": "FragPunk | Farlands Early Access Gameplay Trailer",
       "releaseDate": "2025-04-29",
       "categories": [
         "Shooter"
@@ -23140,7 +23243,8 @@
         "Un jugador",
         "Pantalla dividida o compartida",
         "Cooperación multiplataforma de Xbox",
-        "Xbox One X mejorado"
+        "Xbox One X mejorado",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -23354,7 +23458,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.4,
-      "ratingCount": 437,
+      "ratingCount": 440,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -23442,7 +23546,7 @@
           "recommended": "Micrófono integrado"
         }
       ],
-      "maxInstallSize": 134337957888,
+      "maxInstallSize": 134699274240,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/gears-of-war-e-day/9N4PT8HGCDHQ"
     },
@@ -23673,7 +23777,8 @@
         "Cooperativo en línea  (2-2)",
         "Multijugador local de Xbox (2-2)",
         "Multijugador en línea  (2-8)",
-        "Pantalla dividida o compartida"
+        "Pantalla dividida o compartida",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -24667,8 +24772,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 3.3,
-      "ratingCount": 6,
+      "rating": 3.4,
+      "ratingCount": 7,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -25397,8 +25502,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 3.3,
-      "ratingCount": 43,
+      "rating": 3.4,
+      "ratingCount": 44,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -26536,7 +26641,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.4,
-      "ratingCount": 571,
+      "ratingCount": 572,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -28534,7 +28639,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.7,
-      "ratingCount": 383,
+      "ratingCount": 384,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -28676,11 +28781,11 @@
       ],
       "tiers": [],
       "platform": "console",
-      "price": 11.99,
+      "price": 39.99,
       "msrp": 39.99,
       "currency": "EUR",
-      "hasDiscount": true,
-      "discountPercent": 70,
+      "hasDiscount": false,
+      "discountPercent": 0,
       "rating": 4.8,
       "ratingCount": 270,
       "ageRating": 12,
@@ -28914,7 +29019,7 @@
       "id": "9NX7HCWL13Z9",
       "title": "Jurassic World Evolution 3",
       "description": "La nueva entrega de la premiada saga de videojuegos: Jurassic World Evolution 3 te pone al mando de la construcción y gestión de tu propio mundo jurásico. \n\nAyuda a la vida a abrirse camino sintetizando, criando y cuidando especies prehistóricas. Gestiona cada especie y ayúdalas a prosperar mientras tus dinosaurios forman familias que heredarán sus genes. \n\nCrea increíbles refugios para que tus dinosaurios puedan crecer felices. Construye emocionantes atracciones para asombrar a los visitantes y no pierdas el control cuando surjan los inevitables desastres. \n\nCría y cuida generaciones de dinosaurios \nTe encontrarás más de 85 asombrosas especies prehistóricas; con 75 de ellas podrás gestionar, criar y cuidar familias enteras durante generaciones. ¡Mira cómo crecen de crías juguetonas a imponentes adultos! Cada especie cuenta con distintas variantes de hembras, machos y crías. \n\nLos visitantes del parque se maravillarán al ver a estas majestuosas criaturas socializar e interactuar con el dinámico mundo que las rodea. \n\nGestiona sus necesidades sociales particulares y observa sus nuevos comportamientos, como los dinosaurios semiacuáticos adentrándose en las aguas profundas y los pterosaurios desplazándose por tierra firme. \n\nLa evolución de la creatividad \n¡Crea parques alucinantes con herramientas creativas completamente nuevas en la saga de Jurassic World Evolution! Desde una innovadora edición del terreno hasta la personalización modular del paisaje y decoración: construye y ajusta cada aspecto de tu parque desde sus cimientos o crea mapas personalizados únicos con el generador de islas. ¡Lo que hagas está en tus manos!\n\nConstruye recintos naturales en las ubicaciones utilizando cuestas empinadas y detalles del paisaje. Incluye nuevas atracciones como el recorrido en globo, una atracción que permitirá a tus visitantes observar de cerca e interactuar con las prehistóricas criaturas con el encuentro con dinosaurios, o el icónico Crucero Cretácico, en el que los visitantes podrán ver a los dinosaurios desde una perspectiva la mar de innovadora.   \n\nCrea, sube y comparte creaciones con la comunidad de juego cruzado con Frontier Workshop. Encuentra las mejores creaciones de la comunidad y descárgalas a tu juego o crea tus propios parques, edificios y recintos personalizados para compartirlos con otros jugadores. \n\nUna épica campaña global \nUne fuerzas con rostros familiares de la franquicia Jurassic, entre los que se encuentran el Dr. Ian Malcolm y embárcate en una campaña abierta por todo el mundo. Visita ubicaciones emblemáticas como las Badlands de Montana y otras totalmente nuevas como Japón. Cada lugar presentará emocionantes desafíos únicos. Cada decisión pondrá a prueba tus habilidades de gestión de parques, y tendrás que poner en una balanza los intereses de los humanos frente a la delicada integración de los dinosaurios en el mundo contemporáneo. \n\nTendrás que equilibrar también tu reputación con los tres sectores de la industria y las peticiones únicas de los distintos clientes con propiedades en las que trabajar. Pero, cuidado, no todo el mundo cree que el destino de los dinosaurios sea prosperar. \n\nHazte con el control del caos \nAsegura que los lugares funcionen de la forma más eficiente posible con las potentes y accesibles herramientas de gestión de parque para controlar las operaciones que se llevan a cabo. \n\nPero la única certeza es el caos. Prepárate para los inminentes desastres con las nuevas cámaras de seguridad, que ayudarán a automatizar la respuesta a las fugas de dinosaurios, y envía a tu equipo de mantenimiento para contener las amenazas, reparando los puntos cruciales de las instalaciones. ",
-      "shortDescription": "Crea tu propio Jurassic World como nunca se ha hecho antes. Cuida de generaciones de impresionantes dinosaurios con la inclusión de las crías en esta nueva entrega. Crea y gestiona extensos parques prehistóricos por todo el mundo y desata el poder de tu imaginaci��n con las nuevas y potentes opciones creativas. ",
+      "shortDescription": "Crea tu propio Jurassic World como nunca se ha hecho antes. Cuida de generaciones de impresionantes dinosaurios con la inclusión de las crías en esta nueva entrega. Crea y gestiona extensos parques prehistóricos por todo el mundo y desata el poder de tu imaginación con las nuevas y potentes opciones creativas. ",
       "developer": "Frontier Developments",
       "publisher": "Frontier Developments",
       "imageUrl": "https://store-images.s-microsoft.com/image/apps.7940.14430340622751764.c415a8ac-16b1-42ce-b087-a6256b8d0b36.7c6cf8f9-394d-4e60-bd65-97a1e080d6d0",
@@ -29904,7 +30009,7 @@
       "hasDiscount": true,
       "discountPercent": 65,
       "rating": 4.5,
-      "ratingCount": 291,
+      "ratingCount": 292,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -32778,7 +32883,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.7,
-      "ratingCount": 51949,
+      "ratingCount": 51955,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -33241,7 +33346,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4,
-      "ratingCount": 16023,
+      "ratingCount": 16024,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -33436,7 +33541,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.5,
-      "ratingCount": 61727,
+      "ratingCount": 61729,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -33641,7 +33746,8 @@
       "pegiDescription": "Apropiado a partir de 16 años",
       "interactiveDescriptions": [],
       "capabilities": [
-        "Xbox One X mejorado"
+        "Xbox One X mejorado",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -33688,7 +33794,9 @@
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
       "interactiveDescriptions": [],
-      "capabilities": [],
+      "capabilities": [
+        "FPS Boost Series X"
+      ],
       "systemRequirements": [
         {
           "title": "Arquitectura",
@@ -34247,7 +34355,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 2422333440,
+      "maxInstallSize": 2434949120,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/monster-train-2/9NJC29JG70LM"
     },
@@ -34898,6 +35006,119 @@
       "storeUrl": "https://www.xbox.com/es-es/games/store/moving-out-2/9P88K6NQW12H"
     },
     {
+      "id": "9N74KFV7253H",
+      "title": "MySims™",
+      "description": "Descubre un nuevo mundo con MySims™. ¡Transforma tu mundo a tu gusto en este relanzamiento retro con gráficos mejorados! Múdate a una ciudad que no ha estado en su mejor momento últimamente. Con un poco de creatividad y la ayuda de la población local, puedes hacer que este lugar prospere. Mejora la ciudad para atraer a personajes de la talla del chef Gino Delicioso, la DJ Candela \"Supermarchosa\", el dueño de los recreativos, Vic Vector y la pirata de la ciudad, la capitana Gini. Descubre qué quiere y necesita la población para disfrutar de la vida en la nueva ciudad de tu Sim. Diseña una bañera de hidromasaje o una gramola desde cero y construye casas y negocios desde el tejado hasta la puerta principal. Descubre diseños y decoraciones especiales mientras exploras la ciudad en expansión. Cada una de tus creaciones es única, desde los muebles y los objetos hasta los edificios o la ciudad en su conjunto. En MySims™, lo que haces... ¡marca la diferencia!\n\nConstruye y personaliza una ciudad al completo: Tu ciudad es tu creación única, desde el diseño de la floristería hasta la distribución del laboratorio del científico loco, y mucho más.\n\nDa forma a la comunidad: ¡Tú decides quién se queda y quién se va! ¿Con quién harás buenas migas? ¿A quién ignorarás?\n\nUn mundo que explorar: Socializa con la población local y descubre todo tipo de tesoros útiles y sorprendentes escondidos por la ciudad.\n\nCrea a tu Sim: Personaliza su aspecto de los pies a la cabeza. Desbloquea prendas chulas a medida que trabas amistad con la gente del barrio.\n\nDiseña tus creaciones: Decora con tus muebles y accesorios y personaliza tus creaciones con cosas que podrás cultivar, cosechar o descubrir en la ciudad.\n\nPara jugar es necesario aceptar el Acuerdo de usuario de EA (terms.ea.com/es). Se aplica la Política de privacidad y directiva de cookies de EA (privacy.ea.com/es). Aceptas que los datos personales que se recopilen mediante tu uso de los servicios de EA se transfieran a Estados Unidos, tal como se explica en la Política de privacidad y directiva de cookies. Es posible que necesites una Cuenta EA y una cuenta de la plataforma correspondiente para las funciones online (se requiere Internet). La edad puede variar, consulta o.ea.com/ea/child-access-es y la cuenta de la plataforma correspondiente para obtener más información.",
+      "shortDescription": "Descubre un nuevo mundo con MySims™. ¡Transforma tu mundo a tu gusto en este relanzamiento retro con gráficos mejorados! Múdate a una ciudad adorable. ¡Con un poco de creatividad y la ayuda de la población local, puedes hacer que este lugar prospere!",
+      "developer": "Maxis",
+      "publisher": "Electronic Arts",
+      "imageUrl": "https://store-images.s-microsoft.com/image/apps.60612.14005579857467322.9c4802f5-cf2d-4d79-93bf-b33cd7d45331.e9ab6f16-67a2-4818-a235-000490801ab1",
+      "heroImage": "https://store-images.s-microsoft.com/image/apps.55278.14005579857467322.9c4802f5-cf2d-4d79-93bf-b33cd7d45331.9a5a2122-88a6-4491-a662-a6eae25c0145",
+      "screenshots": [
+        "https://store-images.s-microsoft.com/image/apps.26991.14005579857467322.7c767eaf-705c-4925-8299-15abc70458d9.1831a2f7-7f15-4280-a6be-15aa17a9ada3",
+        "https://store-images.s-microsoft.com/image/apps.10300.14005579857467322.7c767eaf-705c-4925-8299-15abc70458d9.f7e8ec00-a5c1-4118-9309-bb237457fb57",
+        "https://store-images.s-microsoft.com/image/apps.62906.14005579857467322.7c767eaf-705c-4925-8299-15abc70458d9.5cb693f2-c823-456b-aa92-4bd2e0a759fa",
+        "https://store-images.s-microsoft.com/image/apps.17145.14005579857467322.7c767eaf-705c-4925-8299-15abc70458d9.08c15114-ecab-4aec-af9b-fc9de5a6fdde"
+      ],
+      "videoUrl": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftassets/dfd6bf5f-fc68-408e-94eb-61f8c68a9764-AVS.m3u8?packagedStreaming=true",
+      "videoCaption": "MySims™: Cozy Bundle",
+      "releaseDate": "",
+      "categories": [
+        "Simulación",
+        "Acción y aventura",
+        "Niños y familia",
+        "Otros",
+        "Clásicos"
+      ],
+      "tiers": [],
+      "platform": "console",
+      "price": 0,
+      "msrp": 0,
+      "currency": "EUR",
+      "hasDiscount": false,
+      "discountPercent": 0,
+      "rating": 5,
+      "ratingCount": 2,
+      "ageRating": 3,
+      "pegiRating": "PEGI 3",
+      "pegiDescription": "Apropiado a partir de 3 años",
+      "interactiveDescriptions": [],
+      "capabilities": [
+        "4K Ultra HD",
+        "60 fps +",
+        "Sonido espacial",
+        "Dolby Atmos",
+        "Optimizado para Xbox Series X|S"
+      ],
+      "systemRequirements": [
+        {
+          "title": "Arquitectura",
+          "minimum": "x64",
+          "recommended": "x64"
+        }
+      ],
+      "maxInstallSize": 3907219456,
+      "hasAddOns": false,
+      "storeUrl": "https://www.xbox.com/es-es/games/store/mysims/9N74KFV7253H"
+    },
+    {
+      "id": "9N8RS7CW8CGL",
+      "title": "MySims™ Kingdom",
+      "description": "¡Embárcate en una aventura de descubrimiento para explorar y personalizar MySims™ Kingdom en este relanzamiento retro con gráficos mejorados! MySims™ Kingdom te embarcará en una aventura para ayudar al Rey Raimundo y sus súbditos a revitalizar el reino. En esta misión épica, formarás equipo con amistades, descubrirás tierras fascinantes, te enfrentarás a desafíos y construirás artilugios fantásticos. Y como no podía ser de otro modo en MySims™, casi todo se puede personalizar, lo que permite que todas las creaciones de tu mundo tengan un aspecto exclusivo. MySims™ Kingdom... ¡Embárcate en tu propia aventura de descubrimiento y exploración!\n\nTrama épica: ¡El Rey Raimundo necesita tu ayuda para revitalizar su reino! ¡Únete a más Sims para recuperar su antigua gloria!\n\nAmistades conocidas: Conoce a Sims como el Rey Raimundo. Luego saluda a viejas amistades como, Gini y Compi, en sus nuevos papeles.\n\nRecorre las tierras: ¡Descubre toda las cosas únicas que puedes hacer mientras ayudas a la ciudadanía de las vastas y variadas tierras del reino!\n\nOpciones de construcción: ¡Ahora puedes crear muchos más artilugios para completar tu épica misión para el Rey!\n\nPara jugar es necesario aceptar el Acuerdo de usuario de EA (terms.ea.com/es). Se aplica la Política de privacidad y directiva de cookies de EA (privacy.ea.com/es). Aceptas que los datos personales que se recopilen mediante tu uso de los servicios de EA se transfieran a Estados Unidos, tal como se explica en la Política de privacidad y directiva de cookies. Es posible que necesites una Cuenta EA y una cuenta de la plataforma correspondiente para las funciones online (se requiere Internet). La edad puede variar, consulta o.ea.com/ea/child-access-es y la cuenta de la plataforma correspondiente para obtener más información.",
+      "shortDescription": "¡Explora tierras nuevas y haz amistades en este relanzamiento retro con gráficos mejorados! Todo lo que te gustaba del primer MySims™, pero con más desafíos, puzles y cosas que descubrir. ¿Podrás revitalizar el reino?",
+      "developer": "Maxis",
+      "publisher": "Electronic Arts",
+      "imageUrl": "https://store-images.s-microsoft.com/image/apps.39038.14039526998713941.72b547b4-f64a-4bb8-95bd-1caa549f1df5.d479a5d0-2b40-4cc5-9ed3-acfb4d37de04",
+      "heroImage": "https://store-images.s-microsoft.com/image/apps.23420.14039526998713941.72b547b4-f64a-4bb8-95bd-1caa549f1df5.ba5c925e-5c61-4ad6-99b7-bbe113580665",
+      "screenshots": [
+        "https://store-images.s-microsoft.com/image/apps.63030.14039526998713941.f0434e85-24fe-483d-a8de-93375ddd123d.2520f943-ee81-4f31-bc83-7dfa7c233c91",
+        "https://store-images.s-microsoft.com/image/apps.9117.14039526998713941.f0434e85-24fe-483d-a8de-93375ddd123d.ae00f0e0-0af9-41c0-a094-498a883d0fe5"
+      ],
+      "videoUrl": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftassets/cba5cdeb-83f8-4029-b096-369d9f4e4a9b-AVS.m3u8?packagedStreaming=true",
+      "videoCaption": "MySims™: Cozy Bundle",
+      "releaseDate": "",
+      "categories": [
+        "Simulación",
+        "Acción y aventura",
+        "Niños y familia",
+        "Otros",
+        "Clásicos"
+      ],
+      "tiers": [],
+      "platform": "console",
+      "price": 0,
+      "msrp": 0,
+      "currency": "EUR",
+      "hasDiscount": false,
+      "discountPercent": 0,
+      "rating": 0,
+      "ratingCount": 0,
+      "ageRating": 3,
+      "pegiRating": "PEGI 3",
+      "pegiDescription": "Apropiado a partir de 3 años",
+      "interactiveDescriptions": [],
+      "capabilities": [
+        "4K Ultra HD",
+        "Un jugador",
+        "60 fps +",
+        "Sonido espacial",
+        "Dolby Atmos",
+        "Optimizado para Xbox Series X|S",
+        "Logros de Xbox",
+        "Cosas guardadas en la nube de Xbox"
+      ],
+      "systemRequirements": [
+        {
+          "title": "Arquitectura",
+          "minimum": "x64",
+          "recommended": "x64"
+        }
+      ],
+      "maxInstallSize": 3723485184,
+      "hasAddOns": false,
+      "storeUrl": "https://www.xbox.com/es-es/games/store/mysims-kingdom/9N8RS7CW8CGL"
+    },
+    {
       "id": "9P8SQQJ5T94B",
       "title": "NARAKA: BLADEPOINT",
       "description": "Sumérgete en las leyendas del Lejano Oriente en NARAKA: BLADEPOINT; únete a tus amigos en trepidantes combates cuerpo a cuerpo para vivir una experiencia única de Battle Royale.\n\nHéroes de todo el mundo se han reunido en la isla de Morus, donde dos antiguos dioses chocaron hace eones, creando la Máscara de la Inmortalidad: un artefacto de poder legendario. Tú eres uno de estos héroes, dispuesto a enfrentarte a muchos otros en tu camino para conseguirla.\n\nExperimenta una jugabilidad única de lucha, que combina movimientos rápidos en un vasto entorno y un intenso y profundo sistema de combate cuerpo a cuerpo basado en combos y contraataques.\n\nConstruye tu propio estilo de juego a partir de nuestra enorme lista de personajes originales, cada uno con habilidades únicas. Todos ellos utilizan una amplia variedad de armas, desde katanas hasta mosquetes.\n\nAdemás de varios modos competitivos en los que podrás formar equipo con tus amigos, NARAKA: BLADEPOINT también ofrece el modo campaña, nuevos contenidos de temporada y un profundo sistema de personalización facial, pocas veces visto en Battle Royale.\n\nMás de 20 millones de jugadores ya han entrado en la batalla, ¡ahora es tu turno!\n\nCentrado en el combate cuerpo a cuerpo\nDinámico, trepidante y siempre cambiante, lucha contra tus enemigos con combos, bloqueos y golpes feroces, o sé más astuto que ellos con contraataques letales en un juego intenso.\n\nMovimiento sin límites\nAtraviesa paredes, déjate caer desde grandes alturas y atraviesa montañas y edificios con facilidad mientras das caza a enemigos desprevenidos utilizando tu gancho y tus habilidades de parkour.\n\nTu creación. Tu estilo de juego\nCombina una gran variedad de armas cuerpo a cuerpo y a distancia con nuestros poderosos héroes, cada uno de los cuales cuenta con habilidades normales y definitivas únicas.\n\nLeyendas de Oriente\nViaja a la magnífica y peligrosa tierra de Morus y Holoroth, donde grandes batallas han dado forma a un hermoso paisaje inspirado en las leyendas del Lejano Oriente.",
@@ -35542,7 +35763,8 @@
         "Xbox One X mejorado",
         "Logros de Xbox",
         "Cosas guardadas en la nube de Xbox",
-        "Xbox Play Anywhere"
+        "Xbox Play Anywhere",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -38258,7 +38480,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 1.8,
-      "ratingCount": 27,
+      "ratingCount": 28,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -38625,8 +38847,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 1.8,
-      "ratingCount": 9,
+      "rating": 1.7,
+      "ratingCount": 10,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -38917,7 +39139,8 @@
         "Cooperación local de Xbox (2-4)",
         "Cooperativo en línea  (2-4)",
         "Multijugador local de Xbox (2-2)",
-        "Multijugador en línea  (2-26)"
+        "Multijugador en línea  (2-26)",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -43065,7 +43288,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 51594993664,
+      "maxInstallSize": 51600994304,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/rocket-league/C125W9BG2K0V"
     },
@@ -46063,11 +46286,11 @@
       ],
       "tiers": [],
       "platform": "console",
-      "price": 9.99,
+      "price": 49.99,
       "msrp": 49.99,
       "currency": "EUR",
-      "hasDiscount": true,
-      "discountPercent": 80,
+      "hasDiscount": false,
+      "discountPercent": 0,
       "rating": 4.3,
       "ratingCount": 364,
       "ageRating": 16,
@@ -46121,11 +46344,11 @@
       ],
       "tiers": [],
       "platform": "console",
-      "price": 15.99,
+      "price": 79.99,
       "msrp": 79.99,
       "currency": "EUR",
-      "hasDiscount": true,
-      "discountPercent": 80,
+      "hasDiscount": false,
+      "discountPercent": 0,
       "rating": 4.3,
       "ratingCount": 237,
       "ageRating": 12,
@@ -46174,11 +46397,11 @@
       ],
       "tiers": [],
       "platform": "console",
-      "price": 12.49,
+      "price": 49.99,
       "msrp": 49.99,
       "currency": "EUR",
-      "hasDiscount": true,
-      "discountPercent": 75,
+      "hasDiscount": false,
+      "discountPercent": 0,
       "rating": 3.2,
       "ratingCount": 21,
       "ageRating": 12,
@@ -46410,11 +46633,11 @@
       ],
       "tiers": [],
       "platform": "console",
-      "price": 4.99,
+      "price": 19.99,
       "msrp": 19.99,
       "currency": "EUR",
-      "hasDiscount": true,
-      "discountPercent": 75,
+      "hasDiscount": false,
+      "discountPercent": 0,
       "rating": 3.8,
       "ratingCount": 261,
       "ageRating": 16,
@@ -47367,7 +47590,8 @@
         "Cooperativo en línea  (2-4)",
         "Multijugador en línea  (2-4)",
         "HDR10",
-        "Xbox One X mejorado"
+        "Xbox One X mejorado",
+        "FPS Boost Series S"
       ],
       "systemRequirements": [
         {
@@ -47733,7 +47957,8 @@
         "Presencia de Xbox",
         "Clubs de Xbox",
         "Cosas guardadas en la nube de Xbox",
-        "Xbox Play Anywhere"
+        "Xbox Play Anywhere",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -48895,7 +49120,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 2.5,
-      "ratingCount": 23,
+      "ratingCount": 25,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -48947,7 +49172,7 @@
           "recommended": "8 GB"
         }
       ],
-      "maxInstallSize": 21832425472,
+      "maxInstallSize": 21832441856,
       "hasAddOns": false,
       "storeUrl": "https://www.xbox.com/es-es/games/store/terrible-lizards/9PKFL1XJT73S"
     },
@@ -52510,11 +52735,11 @@
       ],
       "tiers": [],
       "platform": "console",
-      "price": 4.99,
+      "price": 19.99,
       "msrp": 19.99,
       "currency": "EUR",
-      "hasDiscount": true,
-      "discountPercent": 75,
+      "hasDiscount": false,
+      "discountPercent": 0,
       "rating": 4.6,
       "ratingCount": 366,
       "ageRating": 16,
@@ -52523,7 +52748,8 @@
       "interactiveDescriptions": [],
       "capabilities": [
         "Multijugador en línea  (2-16)",
-        "Xbox One X mejorado"
+        "Xbox One X mejorado",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -53181,7 +53407,8 @@
         "4K Ultra HD",
         "Un jugador",
         "Xbox One X mejorado",
-        "Logros de Xbox"
+        "Logros de Xbox",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -53286,7 +53513,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.9,
-      "ratingCount": 204,
+      "ratingCount": 205,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -54776,7 +55003,8 @@
         "Logros de Xbox",
         "Presencia de Xbox",
         "Clubs de Xbox",
-        "Cosas guardadas en la nube de Xbox"
+        "Cosas guardadas en la nube de Xbox",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -55212,7 +55440,8 @@
         "Multijugador local de Xbox (2-2)",
         "4K Ultra HD",
         "Pantalla dividida o compartida",
-        "Xbox One X mejorado"
+        "Xbox One X mejorado",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -55439,7 +55668,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 2.8,
-      "ratingCount": 271,
+      "ratingCount": 272,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -55596,7 +55825,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.6,
-      "ratingCount": 45,
+      "ratingCount": 46,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -55661,7 +55890,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.8,
-      "ratingCount": 503,
+      "ratingCount": 504,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -56193,8 +56422,8 @@
       "currency": "EUR",
       "hasDiscount": true,
       "discountPercent": 40,
-      "rating": 1,
-      "ratingCount": 1,
+      "rating": 5,
+      "ratingCount": 2,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
