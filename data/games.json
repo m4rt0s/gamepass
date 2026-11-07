@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-06T15:28:16.727Z",
+  "updatedAt": "2026-11-07T14:27:36.296Z",
   "market": "ES",
   "language": "es-ES",
-  "totalGames": 814,
+  "totalGames": 815,
   "counts": {
     "essential": 133,
     "premium": 565,
-    "pc": 472,
-    "ultimate": 717,
-    "total": 814
+    "pc": 473,
+    "ultimate": 718,
+    "total": 815
   },
   "categories": [
     "Acción y aventura",
@@ -244,7 +244,8 @@
       "releaseDate": "2025-08-14",
       "categories": [
         "Estrategia",
-        "Juegos de rol"
+        "Juegos de rol",
+        "Juegos de mesa"
       ],
       "tiers": [
         "pc",
@@ -969,7 +970,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.4,
-      "ratingCount": 903,
+      "ratingCount": 904,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -1071,7 +1072,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.9,
-      "ratingCount": 353,
+      "ratingCount": 354,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -2313,7 +2314,7 @@
           "recommended": "Controladora de Xbox"
         }
       ],
-      "maxInstallSize": 216893296640,
+      "maxInstallSize": 214393319424,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/ark-survival-ascended/9P33VJGVPHVP"
     },
@@ -2802,7 +2803,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.7,
-      "ratingCount": 21173,
+      "ratingCount": 21176,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -3012,8 +3013,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 2.8,
-      "ratingCount": 108,
+      "rating": 4.4,
+      "ratingCount": 9,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -5116,7 +5117,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 978731008,
+      "maxInstallSize": 1119703040,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/ball-x-pit/9MWXF3SRD7QN"
     },
@@ -5837,7 +5838,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 191228907520,
+      "maxInstallSize": 197290733568,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/battlefield-6/9P2FF14JZLL3"
     },
@@ -8696,7 +8697,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 2.3,
-      "ratingCount": 452,
+      "ratingCount": 453,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -9310,8 +9311,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 2.7,
-      "ratingCount": 627,
+      "rating": 2.6,
+      "ratingCount": 629,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -10518,7 +10519,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 834895872,
+      "maxInstallSize": 835424256,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/cloverpit/9P8V7HR160B4"
     },
@@ -15748,7 +15749,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.3,
-      "ratingCount": 424,
+      "ratingCount": 425,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -15993,8 +15994,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 3.1,
-      "ratingCount": 219,
+      "rating": 3,
+      "ratingCount": 221,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -16509,7 +16510,7 @@
           "recommended": "Micrófono integrado"
         }
       ],
-      "maxInstallSize": 42608631808,
+      "maxInstallSize": 42857451520,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/dune-awakening/9PJ6FV3130QZ"
     },
@@ -16580,7 +16581,7 @@
     {
       "id": "9NNPSTWT06VM",
       "title": "EA SPORTS FC™ 25 para Xbox Series X|S",
-      "description": "EA SPORTS FC™ 25 te ofrece más formas de ganar por el club.\n\nForma equipo en el modo 5 contra 5 de Rush, una nueva forma de jugar con colegas en los modos Football Ultimate Team™, Clubes y Partido rápido en un terreno de juego reducido. En Football Ultimate Team Rush, crea tu plantilla de ensueño de cinco futbolistas con un máximo de tres colegas, quienes controlarán a su artículo de futbolista favorito.\n\nLogra que tu equipo se convierta en el mejor del mundo con FC IQ. La renovación de los fundamentos tácticos dentro del juego ofrece un mayor control estratégico y movimientos colectivos más realistas con cada equipo. Además, nuestro nuevo modelo de IA entrenado con datos del mundo real influye en las tácticas de cada futbolista a través de los nuevos puestos de futbolista.\n\nLas novedades de Carrera de futbolista y Carrera de mánager te permitirán vivir los mayores momentos de la historia del fútbol real con Puntos de inicio en vivo. Reescribe la historia de ICONOS del pasado con los equipos de hoy en Carrera de futbolista y, por primera vez, disfruta de una experiencia auténtica en Carrera femenina, en la que tomarás el control de un club o jugadora de las cinco mejores ligas femeninas.\n\nEA SPORTS FC™ 25 tiene a los y las mejores futbolistas de los clubes y competiciones más importantes de todo el mundo. Los datos de partidos de las mejores ligas del mundo determinan como se mueven, como juegan y como ganan en cada partido más de 19 000 futbolistas.\n\nJuega para ganar en EA SPORTS FC™ 25. Hazlo por el club.\n\nEste juego incluye la compra opcional en el juego de divisa virtual que se puede utilizar para adquirir artículos virtuales del juego, incluida una selección aleatoria de artículos virtuales del juego.\n\nSujeto a condiciones y limitaciones. Consulta www.ea.com/es-es/legal para obtener más información.\n\nSujeto a condiciones y limitaciones. Consulta https://www.ea.com/games/ea-sports-fc/fc-25/disclaimers para obtener más información.\n\n*Se lanzará al mercado con una actualización posterior al lanzamiento. Para obtener más información y consultar disponibilidad, visita https://www.ea.com/games/ea-sports-fc/fc-25/disclaimers.\n\nLos FC Points no están disponibles para su compra en Bélgica.\n\nEs necesaria una descarga independiente para los comentarios de audio de idiomas distintos al inglés y el idioma de los ajustes de la consola.\n\n© 2024 Electronic Arts Inc. Electronic Arts, EA, EA SPORTS, el logotipo de EA SPORTS, EA SPORTS FC, el logotipo de EA SPORTS FC, Frostbite, el logotipo de Frostbite, Football Ultimate Team y Ultimate Team son marcas comerciales de Electronic Arts Inc.",
+      "description": "EA SPORTS FC™ 25 incluye las versiones del juego para Xbox One y Xbox Series X|S†.\r\n\r\nEA SPORTS FC™ 25 te ofrece más formas de ganar por el club.\r\n\r\nForma equipo en el modo 5 contra 5 de Rush, una nueva forma de jugar con colegas en los modos Football Ultimate Team™, Clubes y Partido rápido en un terreno de juego reducido. En Football Ultimate Team Rush, crea tu plantilla de ensueño de cinco futbolistas con un máximo de tres colegas, quienes controlarán a su artículo de futbolista favorito.\r\n\r\nLogra que tu equipo se convierta en el mejor del mundo con FC IQ. La renovación de los fundamentos tácticos dentro del juego ofrece un mayor control estratégico y movimientos colectivos más realistas con cada equipo. Además, nuestro nuevo modelo de IA entrenado con datos del mundo real influye en las tácticas de cada futbolista a través de los nuevos puestos de futbolista.\r\n\r\nLas novedades de Carrera de futbolista y Carrera de mánager te permitirán vivir los mayores momentos de la historia del fútbol real con Puntos de inicio en vivo*. Reescribe la historia de ICONOS del pasado con los equipos de hoy en Carrera de futbolista y, por primera vez, disfruta de una experiencia auténtica en Carrera femenina, en la que tomarás el control de un club o jugadora de las cinco mejores ligas femeninas.\r\n\r\nEA SPORTS FC™ 25 tiene a los y las mejores futbolistas de los clubes y competiciones más importantes de todo el mundo. Los datos de partidos de las mejores ligas del mundo determinan como se mueven, como juegan y como ganan en cada partido más de 19 000 futbolistas.\r\n\r\nJuega para ganar en EA SPORTS FC™ 25. Hazlo por el club.\r\n\r\nEste juego incluye la compra opcional en el juego de divisa virtual que se puede utilizar para adquirir artículos virtuales del juego, incluida una selección aleatoria de artículos virtuales del juego.\r\n\r\nSujeto a condiciones y limitaciones. Consulta www.ea.com/es-es/legal para obtener más información.\r\n\r\n†Sujeto a condiciones y limitaciones. Consulta https://www.ea.com/games/ea-sports-fc/fc-25/dual-entitlement para obtener más información.\r\n\r\nSujeto a condiciones y limitaciones. Consulta https://www.ea.com/games/ea-sports-fc/fc-25/disclaimers para obtener más información.\r\n\r\n*Se lanzará al mercado con una actualización posterior al lanzamiento. Para obtener más información y consultar disponibilidad, visita https://www.ea.com/games/ea-sports-fc/fc-25/disclaimers.\r\n\r\nLos FC Points no están disponibles para su compra en Bélgica y Corea del Sur.\r\n\r\nEs necesaria una descarga independiente para los comentarios de audio de idiomas distintos al inglés y el idioma de los ajustes de la consola.\r\n\r\n© 2024 Electronic Arts Inc. Electronic Arts, EA, EA SPORTS, el logotipo de EA SPORTS, EA SPORTS FC, el logotipo de EA SPORTS FC, Frostbite, el logotipo de Frostbite, Football Ultimate Team y Ultimate Team son marcas comerciales de Electronic Arts Inc.",
       "shortDescription": "EA SPORTS FC™ 25 te ofrece más formas de ganar por el club. Forma equipo con tus colegas en tus modos favoritos con el nuevo Rush de 5 contra 5 y lleva a tu club a la victoria gracias a un control táctico más realista que nunca con FC IQ.",
       "developer": "EA Canada",
       "publisher": "Electronic Arts",
@@ -17839,8 +17840,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 0,
-      "ratingCount": 0,
+      "rating": 5,
+      "ratingCount": 1,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -18711,8 +18712,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 2.6,
-      "ratingCount": 79,
+      "rating": 2.7,
+      "ratingCount": 80,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -21201,7 +21202,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.4,
-      "ratingCount": 63,
+      "ratingCount": 64,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -22339,7 +22340,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.7,
-      "ratingCount": 4568,
+      "ratingCount": 4573,
       "ageRating": 12,
       "pegiRating": "Supervisión parental recomendada",
       "pegiDescription": "Supervisión parental recomendada",
@@ -23458,7 +23459,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.4,
-      "ratingCount": 440,
+      "ratingCount": 445,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -24476,7 +24477,7 @@
           "recommended": "Controladora de Xbox"
         }
       ],
-      "maxInstallSize": 4105781248,
+      "maxInstallSize": 4105760768,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/goals/9PF2ZS4XB4JH"
     },
@@ -24581,7 +24582,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.5,
-      "ratingCount": 43,
+      "ratingCount": 44,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -24851,7 +24852,7 @@
           "recommended": "Micrófono integrado"
         }
       ],
-      "maxInstallSize": 6931140608,
+      "maxInstallSize": 6931136512,
       "hasAddOns": false,
       "storeUrl": "https://www.xbox.com/es-es/games/store/gravhounds-versi-n-preliminar-del-juego/9PBG4MTM3JJC"
     },
@@ -31514,7 +31515,7 @@
       "currency": "EUR",
       "hasDiscount": true,
       "discountPercent": 25,
-      "rating": 3,
+      "rating": 3.1,
       "ratingCount": 91,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
@@ -32821,7 +32822,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.7,
-      "ratingCount": 11353,
+      "ratingCount": 11355,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -32883,7 +32884,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.7,
-      "ratingCount": 51955,
+      "ratingCount": 51960,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -33346,7 +33347,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4,
-      "ratingCount": 16024,
+      "ratingCount": 16027,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -33541,7 +33542,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.5,
-      "ratingCount": 61729,
+      "ratingCount": 61732,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -36628,7 +36629,7 @@
       "hasDiscount": true,
       "discountPercent": 60,
       "rating": 3.9,
-      "ratingCount": 778,
+      "ratingCount": 779,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -38876,7 +38877,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 2636959744,
+      "maxInstallSize": 2637025280,
       "hasAddOns": false,
       "storeUrl": "https://www.xbox.com/es-es/games/store/pit-of-goblin/9MW4MFG0192L"
     },
@@ -39698,7 +39699,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.5,
-      "ratingCount": 86,
+      "ratingCount": 87,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -40588,8 +40589,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 2.8,
-      "ratingCount": 186,
+      "rating": 2.9,
+      "ratingCount": 187,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -41024,7 +41025,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 2.3,
-      "ratingCount": 193,
+      "ratingCount": 194,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -43258,7 +43259,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.1,
-      "ratingCount": 1444,
+      "ratingCount": 1445,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -49119,8 +49120,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 2.5,
-      "ratingCount": 25,
+      "rating": 2.6,
+      "ratingCount": 26,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -51045,7 +51046,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.8,
-      "ratingCount": 258,
+      "ratingCount": 259,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -51466,7 +51467,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.2,
-      "ratingCount": 161,
+      "ratingCount": 162,
       "ageRating": 18,
       "pegiRating": "PEGI 18 PROVISIONAL",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -51802,6 +51803,60 @@
       "storeUrl": "https://www.xbox.com/es-es/games/store/the-rogue-prince-of-persia/9P7M1VCXKQVD"
     },
     {
+      "id": "9NCQ70MVCK24",
+      "title": "The Rogue Prince of Persia™",
+      "description": "Sumérgete en una aventura emocionante y épica, en la que cada acción vibra al ritmo envolvente de la intensa banda sonora. Domina un combate acrobático, fluido y adaptable, junto con complicados movimientos de parkour. Tendrás que dar forma a tu estilo muerte a muerte. Puede que mediante la exploración y los encuentros puedas dar con un modo de enmendar tus errores y salvar el reino persa salido de la imaginación de Evil Empire.\n\nREESCRIBE EL DESTINO. SALVA PERSIA. O MUERE EN EL INTENTO.\nDa forma a la leyenda de un príncipe que escapó de la muerte, pero cuyo error fatal fue la perdición de su pueblo. Haz todo lo posible por enmendar tus errores: cada fallo es una nueva posibilidad de explorar distintos caminos, descubrir secretos, conocer a personajes y usar el conocimiento obtenido de anteriores intentonas para cambiar el destino de tu pueblo y ganarte el título de príncipe de Persia.\n\nDOMINA UN ESTILO RÁPIDO Y ACROBÁTICO\nEres el príncipe de Persia, y la agilidad es tu mejor arma. Esquiva trampas, corre por las paredes, encadena combos acrobáticos y golpea con precisión. Cada movimiento es una oportunidad, y cada batalla premiará tu habilidad y estilo.\n\nLUCHA A TU MANERA\nDescubre, desbloquea y domina más de 100 armas y medallones únicos. Adapta, mejora y personaliza la configuración de tu personaje en cada partida. Crea combinaciones letales que se adapten a tu estilo de juego.\n\nUNA PARTIDA DIFERENTE CADA VEZ\nNinguna partida es igual. Vuelve a sumergirte en esta aventura en constante evolución, en la que la narración, el metaprogreso, los modificadores de dificultad, los eventos aleatorios y los niveles generados procedimentalmente te dejarán siempre con ganas de echar otra partida.",
+      "shortDescription": "En este frenético y endiablado roguelite, cada muerte es una oportunidad única de reescribir el destino y salvar Persia, o morir en el intento. Domina un combate acrobático y fluido, y desplázate con movimientos de parkour mientras exploras tu reino para enmendar tus errores.",
+      "developer": "",
+      "publisher": "Ubisoft",
+      "imageUrl": "https://store-images.s-microsoft.com/image/apps.44243.14620929402526007.656881f4-d1bd-48f8-9226-dedf1c328133.13ec49a5-44ec-478b-84a0-f6590987e1d1",
+      "heroImage": "https://store-images.s-microsoft.com/image/apps.13628.14620929402526007.656881f4-d1bd-48f8-9226-dedf1c328133.e13cb667-ba8a-4f65-8f7b-a23d69471676",
+      "screenshots": [
+        "https://store-images.s-microsoft.com/image/apps.14728.14620929402526007.656881f4-d1bd-48f8-9226-dedf1c328133.ae763038-c1ff-414c-9876-f2ea8e0ce7d5",
+        "https://store-images.s-microsoft.com/image/apps.34790.14620929402526007.656881f4-d1bd-48f8-9226-dedf1c328133.0f9c554e-db40-4ee7-b8c5-28a898dafa1c",
+        "https://store-images.s-microsoft.com/image/apps.47133.14620929402526007.656881f4-d1bd-48f8-9226-dedf1c328133.02c097ac-0a4b-4a03-8f27-8293b4016580",
+        "https://store-images.s-microsoft.com/image/apps.5565.14620929402526007.656881f4-d1bd-48f8-9226-dedf1c328133.27a9c5ad-8550-49dc-9d0a-d7de9c1b54b5"
+      ],
+      "videoUrl": "",
+      "videoCaption": "",
+      "releaseDate": "2026-07-21",
+      "categories": [
+        "Plataformas"
+      ],
+      "tiers": [
+        "pc",
+        "ultimate"
+      ],
+      "platform": "pc",
+      "price": 29.99,
+      "msrp": 29.99,
+      "currency": "EUR",
+      "hasDiscount": false,
+      "discountPercent": 0,
+      "rating": 0,
+      "ratingCount": 0,
+      "ageRating": 12,
+      "pegiRating": "PEGI 12",
+      "pegiDescription": "Apropiado a partir de 12 años",
+      "interactiveDescriptions": [],
+      "capabilities": [],
+      "systemRequirements": [
+        {
+          "title": "SO",
+          "minimum": "Windows 10 version 18362.0 or higher",
+          "recommended": "Windows 10 version 18362.0 or higher"
+        },
+        {
+          "title": "Arquitectura",
+          "minimum": "x64",
+          "recommended": "x64"
+        }
+      ],
+      "maxInstallSize": 10612736,
+      "hasAddOns": false,
+      "storeUrl": "https://www.xbox.com/es-es/games/store/the-rogue-prince-of-persia/9NCQ70MVCK24"
+    },
+    {
       "id": "9N034X5G08B7",
       "title": "The Royal Writ",
       "description": "En The Royal Writ, no solo juegas cartas, sino que las diriges en el campo de batalla. Coloca a tus leales súbditos de forma estratégica para que avancen hacia el enemigo y le inflinjan daño. Pero cuidado: cualquier carta que llegue a la base enemiga antes de la victoria se destruye permanentemente y se elimina de tu mazo para el resto de la partida.\n\nEl sacrificio no es solo un riesgo: es una estrategia esencial que crea subhistorias memorables con cada partida. ¿Honrarás a los súbditos que lo dieron todo por tu causa? Cada carta caída cuenta una historia, y su gloria perdura en el legado que construyes.\n\nPonte al mando de un ejército de diversos guerreros con interesantes habilidades que conforman tu estrategia. Dirige a un ejército de animales que, aunque adorables, están curtidos en la batalla. Tus filas pueden estar compuestas por un flamenco frágil y herido, un pollo arquero miope o incluso un lagarto astuto que, ¡solo pierde la cola para engañar a la muerte! Desde las hormigas rojas renegadas hasta la vaca catadora, cada carta de tu mazo tiene una personalidad y un propósito.\n\nMientras marchan hacia la gloria o la muerte, sus historias individuales pasan a formar parte del legado de tu reino, y sus sacrificios nunca se olvidarán. Puede que incluso te encuentres con algunas criaturas peculiares en tu viaje, como el dentista mantis enloquecido, la cabra estratega o el tendero jabalí impaciente. Tan solo no les preguntes de dónde sacaron sus credenciales.\n\nConquista el reino a través de dos aventuras distintas:\n\nLa primera campaña te enfrenta a una creciente rebelión mientras intentas mantener el buen y justo (objetivamente) gobierno del rey. Ábrete paso a través de un desafiante entorno lleno de fosas profundas y pantanos envenenados mientras intentas sofocar a los rebeldes. A medida que avances, puede que empieces a preguntarte si hay más de lo que parece con los problemas del reino.\n\nLa segunda campaña introduce una nueva amenaza: la pólvora. Como ahora entran en el campo de batalla nuevas armas experimentales, tu estrategia debe cambiar. Ya no te limitarás a evitar los peligros del entorno: deberás esquivar las andanadas de balas para asegurarte de que ni tú ni tus tropas resultáis heridos de muerte durante el avance.\n\nCada campaña cuenta con sus propios desafíos estratégicos, cartas exclusivas y jefes. ¡El campo de batalla aguarda tus órdenes!\n\nCARACTERÍSTICAS DIGNAS DE LA REALEZA\n\nJugabilidad intuitiva, aunque profunda: fácil de aprender sin renunciar al desafío.\nProgresión Roguelike: cada partida es diferente.\nMuerte permanente de cartas: ¡Las cartas que pierdas no se recuperan!\nEncantador estilo artístico: gráficos propios de un libro de ilustraciones se mezclan con el absurdo medieval y el humor negro.\nEncuentros con PNJ memorables: ¿Son amigos o enemigos?\nMecánicas especiales para jefes: desafíos únicos que te pondrán a prueba\nDificultad gradual: asciende por dificultades cada vez más elevadas a medida que progresas.\nModos Desafío: pon a prueba tus habilidades en modos especiales con reglas únicas.\nReliquias: consigue reliquias con diversos efectos que cambian tu forma de jugar.\n\nDe un antiguo decreto real:\n\n\"El arte de la guerra es simple. Envía a tus súbditos a morir gloriosamente en tu nombre. Su sacrificio garantiza tu legado... y si resulta que ganan, ¡pues mejor!\"\n\n¿Escribirás tu nombre en los anales de la historia o te convertirás en otro monarca olvidado? El equilibrio entre la pérdida y el triunfo está en tus manos.\n\n¡Salve! ¡Que tus caídos sean recordados y tus victorias dulces!\n",
@@ -51913,8 +51968,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 1.4,
-      "ratingCount": 27,
+      "rating": 1.7,
+      "ratingCount": 29,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -52854,7 +52909,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.1,
-      "ratingCount": 207,
+      "ratingCount": 208,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -55825,7 +55880,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.6,
-      "ratingCount": 46,
+      "ratingCount": 47,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -56423,7 +56478,7 @@
       "hasDiscount": true,
       "discountPercent": 40,
       "rating": 5,
-      "ratingCount": 2,
+      "ratingCount": 4,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -57135,7 +57190,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.3,
-      "ratingCount": 260,
+      "ratingCount": 261,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -58561,7 +58616,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.2,
-      "ratingCount": 42,
+      "ratingCount": 43,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -60115,7 +60170,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3,
-      "ratingCount": 88,
+      "ratingCount": 89,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -60508,7 +60563,7 @@
           "recommended": "Controladora de Xbox"
         }
       ],
-      "maxInstallSize": 2743820288,
+      "maxInstallSize": 2743939072,
       "hasAddOns": false,
       "storeUrl": "https://www.xbox.com/es-es/games/store/young-suns/9N3KQH8183GD"
     },
