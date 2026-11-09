@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T14:39:00.351Z",
+  "updatedAt": "2026-11-09T17:53:00.458Z",
   "market": "ES",
   "language": "es-ES",
   "totalGames": 815,
@@ -2236,7 +2236,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 2.2,
-      "ratingCount": 413,
+      "ratingCount": 414,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -4416,7 +4416,8 @@
         "4K Ultra HD",
         "Un jugador",
         "Xbox One X mejorado",
-        "Logros de Xbox"
+        "Logros de Xbox",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -8831,7 +8832,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 2.6,
-      "ratingCount": 108,
+      "ratingCount": 109,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -8899,7 +8900,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 2.7,
-      "ratingCount": 111,
+      "ratingCount": 112,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -9311,7 +9312,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 2.6,
-      "ratingCount": 628,
+      "ratingCount": 629,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -10342,7 +10343,7 @@
           "recommended": "16 GB"
         }
       ],
-      "maxInstallSize": 83228233728,
+      "maxInstallSize": 83484229632,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/cities-skylines-ii-pc-edition/9PGZ346PSLN0"
     },
@@ -18358,7 +18359,8 @@
       "interactiveDescriptions": [],
       "capabilities": [
         "4K Ultra HD",
-        "Xbox One X mejorado"
+        "Xbox One X mejorado",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -18711,7 +18713,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 2.7,
-      "ratingCount": 80,
+      "ratingCount": 81,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -20390,7 +20392,7 @@
           "recommended": "Controladora de Xbox"
         }
       ],
-      "maxInstallSize": 26426331136,
+      "maxInstallSize": 26445795328,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/fbc-firebreak/9PDCN8Z4HKRN"
     },
@@ -21200,7 +21202,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.4,
-      "ratingCount": 65,
+      "ratingCount": 66,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -22338,7 +22340,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.7,
-      "ratingCount": 4577,
+      "ratingCount": 4581,
       "ageRating": 12,
       "pegiRating": "Supervisión parental recomendada",
       "pegiDescription": "Supervisión parental recomendada",
@@ -23302,7 +23304,8 @@
         "Un jugador",
         "Pantalla dividida o compartida",
         "Cooperación multiplataforma de Xbox",
-        "Xbox One X mejorado"
+        "Xbox One X mejorado",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -23456,7 +23459,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.4,
-      "ratingCount": 450,
+      "ratingCount": 452,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -26031,7 +26034,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.8,
-      "ratingCount": 200,
+      "ratingCount": 201,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -26243,7 +26246,8 @@
       "interactiveDescriptions": [],
       "capabilities": [
         "Cooperativo en línea  (2-2)",
-        "Multijugador en línea  (2-2)"
+        "Multijugador en línea  (2-2)",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -27141,7 +27145,7 @@
           "recommended": "Mouse integrado"
         }
       ],
-      "maxInstallSize": 7450640384,
+      "maxInstallSize": 7450611712,
       "hasAddOns": false,
       "storeUrl": "https://www.xbox.com/es-es/games/store/heroes-of-might-and-magic-olden-era-versi-n-preliminar-del-juego/9P2TFCCRKMRD"
     },
@@ -29114,7 +29118,7 @@
           "recommended": "Controladora de Xbox"
         }
       ],
-      "maxInstallSize": 26702041088,
+      "maxInstallSize": 26864553984,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/jurassic-world-evolution-3/9NX7HCWL13Z9"
     },
@@ -30919,7 +30923,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 2.6,
-      "ratingCount": 139,
+      "ratingCount": 140,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -32123,8 +32127,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 2.1,
-      "ratingCount": 124,
+      "rating": 2.2,
+      "ratingCount": 125,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -32684,7 +32688,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 2.1,
-      "ratingCount": 705,
+      "ratingCount": 706,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -32761,7 +32765,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.6,
-      "ratingCount": 27,
+      "ratingCount": 28,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -32880,7 +32884,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.7,
-      "ratingCount": 51962,
+      "ratingCount": 51964,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -33343,7 +33347,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4,
-      "ratingCount": 16031,
+      "ratingCount": 16035,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -33538,7 +33542,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.5,
-      "ratingCount": 61737,
+      "ratingCount": 61741,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -33791,7 +33795,9 @@
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
       "interactiveDescriptions": [],
-      "capabilities": [],
+      "capabilities": [
+        "FPS Boost Series X"
+      ],
       "systemRequirements": [
         {
           "title": "Arquitectura",
@@ -35547,7 +35553,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.5,
-      "ratingCount": 12,
+      "ratingCount": 13,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -35610,7 +35616,7 @@
           "recommended": "Controladora de Xbox"
         }
       ],
-      "maxInstallSize": 2280284160,
+      "maxInstallSize": 2280771584,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/neon-abyss-2/9P5QV5XX8S9H"
     },
@@ -35758,7 +35764,8 @@
         "Xbox One X mejorado",
         "Logros de Xbox",
         "Cosas guardadas en la nube de Xbox",
-        "Xbox Play Anywhere"
+        "Xbox Play Anywhere",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -36692,7 +36699,7 @@
           "recommended": "Micrófono integrado"
         }
       ],
-      "maxInstallSize": 33902968832,
+      "maxInstallSize": 33903267840,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/no-man-s-sky/BQVQTL3PCH05"
     },
@@ -37880,7 +37887,7 @@
           "recommended": "Micrófono integrado"
         }
       ],
-      "maxInstallSize": 25825042432,
+      "maxInstallSize": 25825050624,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/pax-dei/9PHGK0538TXM"
     },
@@ -39133,7 +39140,8 @@
         "Cooperación local de Xbox (2-4)",
         "Cooperativo en línea  (2-4)",
         "Multijugador local de Xbox (2-2)",
-        "Multijugador en línea  (2-26)"
+        "Multijugador en línea  (2-26)",
+        "FPS Boost Series X | S"
       ],
       "systemRequirements": [
         {
@@ -42346,7 +42354,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.5,
-      "ratingCount": 345,
+      "ratingCount": 347,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -43318,7 +43326,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.4,
-      "ratingCount": 77,
+      "ratingCount": 78,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -44768,7 +44776,7 @@
           "recommended": "Controladora de Xbox"
         }
       ],
-      "maxInstallSize": 9600638976,
+      "maxInstallSize": 9144635392,
       "hasAddOns": false,
       "storeUrl": "https://www.xbox.com/es-es/games/store/shape-of-dreams/9PK0DZ68LGC0"
     },
@@ -45327,7 +45335,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 31387021312,
+      "maxInstallSize": 31387029504,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/smite-2/9NV8W1KJSQLL"
     },
@@ -47270,7 +47278,7 @@
           "recommended": "Controladora de Xbox"
         }
       ],
-      "maxInstallSize": 10358382592,
+      "maxInstallSize": 10447290368,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/starsand-island/9P86LLDCL5CC"
     },
@@ -47583,7 +47591,8 @@
         "Cooperativo en línea  (2-4)",
         "Multijugador en línea  (2-4)",
         "HDR10",
-        "Xbox One X mejorado"
+        "Xbox One X mejorado",
+        "FPS Boost Series S"
       ],
       "systemRequirements": [
         {
@@ -47702,7 +47711,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.5,
-      "ratingCount": 61,
+      "ratingCount": 62,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -50067,6 +50076,11 @@
       ],
       "systemRequirements": [
         {
+          "title": "SO",
+          "minimum": "Windows 11 version 26200.8117 or higher",
+          "recommended": "Windows 11 version 26200.8117 or higher"
+        },
+        {
           "title": "Arquitectura",
           "minimum": "x64",
           "recommended": "x64"
@@ -51457,8 +51471,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 3.2,
-      "ratingCount": 162,
+      "rating": 3.3,
+      "ratingCount": 161,
       "ageRating": 18,
       "pegiRating": "PEGI 18 PROVISIONAL",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -51959,8 +51973,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 1.8,
-      "ratingCount": 31,
+      "rating": 1.9,
+      "ratingCount": 32,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -52560,7 +52574,7 @@
       "hasDiscount": true,
       "discountPercent": 80,
       "rating": 3.7,
-      "ratingCount": 115,
+      "ratingCount": 116,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -55936,7 +55950,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.8,
-      "ratingCount": 504,
+      "ratingCount": 505,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -56961,8 +56975,8 @@
         "https://store-images.s-microsoft.com/image/apps.53987.14421726920549205.4ed1a8ed-1549-4013-8769-b57c45ca99b5.0dba5b6c-58e0-4afc-99d0-cd7b5eb211d0",
         "https://store-images.s-microsoft.com/image/apps.9431.14421726920549205.4ed1a8ed-1549-4013-8769-b57c45ca99b5.cf46b1f6-d188-42f6-b1b9-f6973f97bd49"
       ],
-      "videoUrl": "",
-      "videoCaption": "",
+      "videoUrl": "https://cdn.trailers.xboxservices.com/trailers/00000000-0000-0000-0000-000000000000/xbox/prod/videos/mainprofile/14421726920549205/e627fd36-9b92-49a4-be18-3ae30663940a/manifest.m3u8",
+      "videoCaption": "Warhammer 40,000: Darktide - World Intro",
       "releaseDate": "2023-10-04",
       "categories": [
         "Acción y aventura",
