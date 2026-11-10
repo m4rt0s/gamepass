@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-09T17:53:00.458Z",
+  "updatedAt": "2026-11-10T15:53:11.748Z",
   "market": "ES",
   "language": "es-ES",
-  "totalGames": 815,
+  "totalGames": 817,
   "counts": {
     "essential": 133,
     "premium": 565,
-    "pc": 473,
-    "ultimate": 718,
-    "total": 815
+    "pc": 474,
+    "ultimate": 720,
+    "total": 817
   },
   "categories": [
     "Acción y aventura",
@@ -223,103 +223,6 @@
       "maxInstallSize": 7407136768,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/33-immortals/9P8LR42PTRGJ"
-    },
-    {
-      "id": "9NNM7PKZN3JF",
-      "title": "9 Kings (Versión preliminar del juego)",
-      "description": "Este juego es un trabajo en curso. Es posible que, con el tiempo, cambie o no cambie, o que no se lance como producto final. Compra este producto únicamente si estás satisfecho con el estado actual del juego no terminado. \n\nConvierte tu ciudad en el reino más poderoso gracias a un sinfín de combinaciones de construcciones, unidades, hechizos y al modo en que posicionas todo. Podrás crear combos con los que sembrar el caos y aprovechar ventajas poderosas para explotar las mecánicas y volverte invencible. Haz crecer a tu reino de forma estratégica, prepárate para enfrentarte a decenas de eventos únicos y muestra al mundo que tu reino puede arrasar con el resto tanto en solitario como en multijugador asíncrono.\n\nCONSTRUYE TU CAPITAL\nSea todavía una aldea en ciernes o una ciudadela imponente, la capital de tu reino es la sede de tus unidades y su fuente de poder. Expande tu reino poco a poco y con sabiduría para que sobreviva a décadas de guerras y conflictos.\n\nPROTEGE TUS DOMINIOS\nA tu disposición tendrás caballeros toscos, hechiceros y bombarderos diestros, diablillos malvados y fúngidos, entre otras unidades que liderar y enviar a la batalla. Amasa una gran cantidad de oro con el que contratar a miles de mercenarios para tu causa, utiliza magia oscura para resucitar a los muertos y domina la naturaleza para abatir a tus enemigos.\n\nAFINA TU BARAJA\nCada reino tiene una baraja inicial con construcciones, tropas y hechizos. Aun así, siempre puedes saquear los reinos rivales que atacan tus tierras para conseguir cartas únicas de sus mazos. Quizá prefieras hacer las paces con ciertos reinos cuyas unidades no se ajusten a tu estilo de juego o, por el contrario, te inclines a declarar la guerra contra los reyes que cuenten con poderes y unidades que ansíes. Sírvete de lo que obtengas de tu enemigo y desbloquea combinaciones únicas apilando bonificaciones y modificadores con los que construir un ejército invencible.\n\nTU REINO, TUS DECISIONES\nEn el modo multijugador asíncrono te enfrentarás a ocho reyes rivales para ver qué reino logra sobrevivir más tiempo. Sube en la clasificación, demuestra que eres el rey entre los reyes y disfruta de la personalización visual gracias a las recompensas que desbloquees en los desafíos diarios y las medallas que obtengas.\n\nEl modo Aventura incluye retos únicos que desafían las mecánicas del juego mientras recorres el mundo conocido y te enfrentas a sus reyes para hacerte con sus coronas.\n\nEn el modo Infinito, elegirás un rey y harás frente a ataques constantes de reyes enemigos y de sus guerreros más poderosos. ¿Cuánto tiempo serás capaz de resistir la embestida?\n\nCombina tus cartas de mil maneras, prueba configuraciones increíbles y observa cómo un grandioso ejército defiende tu corona. Sobrevive todo lo que puedas contra enemigos cada vez más poderosos o explota las mecánicas y haz que tus rivales se postren ante ti.\n\nVisita https://discord.gg/EXEBmsnEAv para obtener detalles completos sobre el estado más reciente del juego, así como para proporcionar comentarios y notificar problemas.",
-      "shortDescription": "Levanta tu imperio en este trepidante constructor de reinos roguelike. Libra cruentas batallas contra tus homónimos rivales. Explota las mecánicas con cientos de construcciones increíbles para convertirte en el rey de reyes.",
-      "developer": "Sad Socket",
-      "publisher": "Hooded Horse",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.58551.13735777332261166.046c4476-2fdb-4636-af17-eba2edfec19a.465b0cc8-e9b8-412d-a0b4-8c443a476a9e",
-      "heroImage": "https://store-images.s-microsoft.com/image/apps.47011.13735777332261166.046c4476-2fdb-4636-af17-eba2edfec19a.50b0e73b-c5c2-4cdc-81bb-18db3c0dbe49",
-      "screenshots": [
-        "https://store-images.s-microsoft.com/image/apps.46499.13735777332261166.5394db02-c668-41cb-a4ca-b8088edda9f3.5f9003da-3d2d-4fb8-99fb-34d3ab3cd581",
-        "https://store-images.s-microsoft.com/image/apps.57804.13735777332261166.5394db02-c668-41cb-a4ca-b8088edda9f3.00a5b184-45fa-41ea-85fa-e770641e469b",
-        "https://store-images.s-microsoft.com/image/apps.36263.13735777332261166.7837b516-85da-4b9f-adc2-28b4958b4d04.a176c208-906a-4f87-8bc7-641a5982daf3",
-        "https://store-images.s-microsoft.com/image/apps.21636.13735777332261166.5394db02-c668-41cb-a4ca-b8088edda9f3.bb68010f-7f54-45a4-84eb-58567e8e0307"
-      ],
-      "videoUrl": "https://cdn.trailers.xboxservices.com/trailers/00000000-0000-0000-0000-000000000000/xbox/prod/videos/mainprofile/13735777332261166/8e6aadff-25a8-4896-ab0e-244fbbf1bdd9/manifest.m3u8",
-      "videoCaption": "Multiplayer Update Trailer",
-      "releaseDate": "2025-08-14",
-      "categories": [
-        "Estrategia",
-        "Juegos de rol",
-        "Juegos de mesa"
-      ],
-      "tiers": [
-        "pc",
-        "premium",
-        "ultimate"
-      ],
-      "platform": "pc",
-      "price": 19.99,
-      "msrp": 19.99,
-      "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
-      "rating": 4.5,
-      "ratingCount": 23,
-      "ageRating": 12,
-      "pegiRating": "PEGI 12",
-      "pegiDescription": "Apropiado a partir de 12 años",
-      "interactiveDescriptions": [],
-      "capabilities": [
-        "Multijugador en línea  (9-9)",
-        "Un jugador",
-        "Logros de Xbox",
-        "Cosas guardadas en la nube de Xbox"
-      ],
-      "systemRequirements": [
-        {
-          "title": "SO",
-          "minimum": "Windows 10 version 18362.0 or higher",
-          "recommended": "Windows 10 version 18362.0 or higher"
-        },
-        {
-          "title": "Arquitectura",
-          "minimum": "x64",
-          "recommended": "x64"
-        },
-        {
-          "title": "Gráficos",
-          "minimum": "NVIDIA® GeForce® GT 630 (2 GB) / AMD® Radeon™ HD 6670 (2 GB)",
-          "recommended": "NVIDIA® GeForce® GTX 650 (2 GB) / AMD® Radeon™ HD 7750 (2 GB)"
-        },
-        {
-          "title": "Procesador",
-          "minimum": "Intel® Core™ i5-750 (quad-core) / AMD® Phenom™ II X4 965 (quad-core)",
-          "recommended": "Intel® Core™ i5-3570 (quad-core) / AMD® FX-Series™ FX-8300 (quad-core)"
-        },
-        {
-          "title": "DirectX",
-          "minimum": "Versión 11",
-          "recommended": "API de DirectX 12, nivel de característica de hardware 12"
-        },
-        {
-          "title": "Memoria",
-          "minimum": "4 GB",
-          "recommended": "8 GB"
-        },
-        {
-          "title": "Memoria de vídeo",
-          "minimum": "2 GB",
-          "recommended": "2 GB"
-        },
-        {
-          "title": "Teclado",
-          "minimum": "",
-          "recommended": "Teclado integrado"
-        },
-        {
-          "title": "Mouse",
-          "minimum": "",
-          "recommended": "Mouse integrado"
-        }
-      ],
-      "maxInstallSize": 634437632,
-      "hasAddOns": false,
-      "storeUrl": "https://www.xbox.com/es-es/games/store/9-kings-versi-n-preliminar-del-juego/9NNM7PKZN3JF"
     },
     {
       "id": "9NGLST31DG26",
@@ -2002,7 +1905,10 @@
       "interactiveDescriptions": [
         "Compras dentro del juego"
       ],
-      "capabilities": [],
+      "capabilities": [
+        "Cooperativo en línea  (2-16)",
+        "Multijugador en línea  (2-16)"
+      ],
       "systemRequirements": [
         {
           "title": "SO",
@@ -2803,7 +2709,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.7,
-      "ratingCount": 21176,
+      "ratingCount": 21177,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -2883,7 +2789,7 @@
       "releaseDate": "",
       "categories": [
         "Acción y aventura",
-        "Juegos de rol"
+        "Clásicos"
       ],
       "tiers": [
         "ultimate"
@@ -3277,7 +3183,7 @@
       "releaseDate": "",
       "categories": [
         "Acción y aventura",
-        "Juegos de rol"
+        "Clásicos"
       ],
       "tiers": [
         "ultimate"
@@ -3337,7 +3243,8 @@
       "videoCaption": "",
       "releaseDate": "2018-10-05",
       "categories": [
-        "Acción y aventura"
+        "Acción y aventura",
+        "Juegos de rol"
       ],
       "tiers": [
         "premium",
@@ -3349,8 +3256,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 4.4,
-      "ratingCount": 311,
+      "rating": 4.5,
+      "ratingCount": 310,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -3533,8 +3440,7 @@
       "releaseDate": "",
       "categories": [
         "Acción y aventura",
-        "Clásicos",
-        "Juegos de rol"
+        "Clásicos"
       ],
       "tiers": [
         "ultimate"
@@ -4449,7 +4355,8 @@
       "videoCaption": "",
       "releaseDate": "2016-11-17",
       "categories": [
-        "Acción y aventura"
+        "Acción y aventura",
+        "Clásicos"
       ],
       "tiers": [
         "ultimate"
@@ -4467,6 +4374,7 @@
       "pegiDescription": "Apropiado a partir de 18 años",
       "interactiveDescriptions": [],
       "capabilities": [
+        "Logros de Xbox",
         "FPS Boost Series X | S"
       ],
       "systemRequirements": [
@@ -5085,11 +4993,11 @@
         "ultimate"
       ],
       "platform": "both",
-      "price": 7.49,
+      "price": 14.99,
       "msrp": 14.99,
       "currency": "EUR",
-      "hasDiscount": true,
-      "discountPercent": 50,
+      "hasDiscount": false,
+      "discountPercent": 0,
       "rating": 4.5,
       "ratingCount": 92,
       "ageRating": 7,
@@ -5811,7 +5719,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.5,
-      "ratingCount": 249,
+      "ratingCount": 250,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -6173,7 +6081,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.1,
-      "ratingCount": 144,
+      "ratingCount": 145,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -12229,11 +12137,11 @@
         "ultimate"
       ],
       "platform": "both",
-      "price": 29.99,
+      "price": 11.99,
       "msrp": 29.99,
       "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
+      "hasDiscount": true,
+      "discountPercent": 60,
       "rating": 1.3,
       "ratingCount": 48,
       "ageRating": 16,
@@ -14085,7 +13993,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 602910720,
+      "maxInstallSize": 602963968,
       "hasAddOns": false,
       "storeUrl": "https://www.xbox.com/es-es/games/store/dice-a-million/9N3NTDPJCD9Z"
     },
@@ -14292,7 +14200,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.4,
-      "ratingCount": 52,
+      "ratingCount": 53,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -16434,7 +16342,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.2,
-      "ratingCount": 54,
+      "ratingCount": 55,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -16510,7 +16418,7 @@
           "recommended": "Micrófono integrado"
         }
       ],
-      "maxInstallSize": 42857451520,
+      "maxInstallSize": 42851852288,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/dune-awakening/9PJ6FV3130QZ"
     },
@@ -16608,7 +16516,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 2.2,
-      "ratingCount": 322,
+      "ratingCount": 323,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -17737,7 +17645,7 @@
           "recommended": "8 GB"
         }
       ],
-      "maxInstallSize": 62006149120,
+      "maxInstallSize": 62086414336,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/enlisted/9NHKL695M9F2"
     },
@@ -17804,7 +17712,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 62007197696,
+      "maxInstallSize": 62087462912,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/enlisted-xbox-one/9PF432CVQBXT"
     },
@@ -21850,17 +21758,17 @@
     {
       "id": "9N4NKMXDZCX6",
       "title": "Football Manager 27",
-      "description": "FM27 sale el 10 de noviembre. Resérvalo ahora con un descuento del 10 % y accede a una versión previa del juego a partir del 3 de noviembre. \n\nCada fan del fútbol ve las cosas de una manera. En FM27 esa visión no es una opinión, sino una realidad. \n\nSumérgete en un universo que vive y respira fútbol y en el que todas las decisiones dependen de ti. \n\nElige tu equipo, define tu estilo y fíjate en lo que a otros mánager se les puede haber escapado; quizá encuentres a una joven promesa de la cantera o puedas vender a una estrella que no se adapte a tu filosofía. \n\nEntrena a tu equipo en bloque, desarrolla una visión táctica genuina y haz que tu equipo levante pasiones en las gradas desde el banquillo. \n\nEl día del partido, reacciona a todo lo que proponga el rival, supera su presión, llega al área y dalo todo por el gol. \n\nLa historia del fútbol no se escribe sola. \n\nCualquier decisión puede ser la que lo cambie todo, así que busca ese futuro que solo tú puedes ver. \nPase lo que pase, te acordarás de las decisiones que te han llevado hasta donde estás. \n\nFootball Manager 27: tú decides. \n\n \n\nNovedades de FM27. \n\nDisfruta de la renovación de la formación de la plantilla con la nueva efectividad táctica que mide los recursos con los que cuentan tus jugadores para plasmar tu visión futbolística, y las mejoras del entrenamiento te permiten centrarte aún más en el desarrollo tanto individual como del equipo. \n\nAprovecha los huecos que deje la defensa rival con los retoques tácticos para ejercer más peso desde la banda. \n\nVive cada encuentro como si fuera una obra de teatro futbolístico más profunda gracias a las mejoras del público, los estadios y el ambiente, que le dan más emoción al juego. \n\nSienta a los defensas gracias a una mayor precisión y personalidad ofensiva, ya que el talento y la calidad individual tienen más protagonismo para que sea más gratificante ver cómo cobra vida en el campo tu planteamiento táctico. \n\nExplora el universo futbolístico que hay más allá de tu club con la vuelta de los sorteos de copas y el último día de fichajes, que imitan el ritmo y la emoción del calendario real. \n\nPasa de la rutina a la gloria gracias a una interfaz intuitiva que da prioridad a las decisiones clave. Eso sí, eres tú quien ejecuta tu visión, y puedes adaptar mejor la configuración a tu estilo de gestión con las opciones de personalización. \n\nY hay mucho más, como las nuevas ligas con licencia completa, las mejoras de la vista 2D del partido, más datos para tomar mejores decisiones y más de 1500 actualizaciones de torneos. \n\n \n* Esta versión contiene información que aún está en proceso de aprobación por parte de los titulares de los derechos y puede incluir datos que, en este momento, no reflejen fielmente los del mundo real. Es posible que falten algunos clubes y jugadores en esta versión.",
+      "description": "Cada fan del fútbol ve las cosas de una manera. En FM27 esa visión no es una opinión, sino una realidad. \n\nSumérgete en un universo que vive y respira fútbol y en el que todas las decisiones dependen de ti. \n\nElige tu equipo, define tu estilo y fíjate en lo que a otros mánager se les puede haber escapado; quizá encuentres a una joven promesa de la cantera o puedas vender a una estrella que no se adapte a tu filosofía. \n\nEntrena a tu equipo en bloque, desarrolla una visión táctica genuina y haz que tu equipo levante pasiones en las gradas desde el banquillo. \n\nEl día del partido, reacciona a todo lo que proponga el rival, supera su presión, llega al área y dalo todo por el gol. \n\nLa historia del fútbol no se escribe sola. \n\nCualquier decisión puede ser la que lo cambie todo, así que busca ese futuro que solo tú puedes ver. \nPase lo que pase, te acordarás de las decisiones que te han llevado hasta donde estás. \n\nFootball Manager 27: tú decides. \n\n \n\nNovedades de FM27. \n\nDisfruta de la renovación de la formación de la plantilla con la nueva efectividad táctica que mide los recursos con los que cuentan tus jugadores para plasmar tu visión futbolística, y las mejoras del entrenamiento te permiten centrarte aún más en el desarrollo tanto individual como del equipo. \n\nAprovecha los huecos que deje la defensa rival con los retoques tácticos para ejercer más peso desde la banda. \n\nVive cada encuentro como si fuera una obra de teatro futbolístico más profunda gracias a las mejoras del público, los estadios y el ambiente, que le dan más emoción al juego. \n\nSienta a los defensas gracias a una mayor precisión y personalidad ofensiva, ya que el talento y la calidad individual tienen más protagonismo para que sea más gratificante ver cómo cobra vida en el campo tu planteamiento táctico. \n\nExplora el universo futbolístico que hay más allá de tu club con la vuelta de los sorteos de copas y el último día de fichajes, que imitan el ritmo y la emoción del calendario real. \n\nPasa de la rutina a la gloria gracias a una interfaz intuitiva que da prioridad a las decisiones clave. Eso sí, eres tú quien ejecuta tu visión, y puedes adaptar mejor la configuración a tu estilo de gestión con las opciones de personalización. \n\nY hay mucho más, como las nuevas ligas con licencia completa, las mejoras de la vista 2D del partido, más datos para tomar mejores decisiones y más de 1500 actualizaciones de torneos.",
       "shortDescription": "Elige tu club, fija tus tácticas, despliega tu plantilla. Busca ese futuro que solo tú puedes ver. \r\nFM27 da vida a tu visión futbolística. Tú decides.",
       "developer": "Sports Interactive",
       "publisher": "SEGA",
       "imageUrl": "https://store-images.s-microsoft.com/image/apps.47586.13984136076613493.b5146129-a992-4e04-8b43-ffa40460c569.40797f8e-48ea-47e2-aab8-9ea6e13f5a79",
       "heroImage": "https://store-images.s-microsoft.com/image/apps.62007.13984136076613493.b5146129-a992-4e04-8b43-ffa40460c569.147ab425-6569-40f3-92a8-f8431b082837",
       "screenshots": [
-        "https://store-images.s-microsoft.com/image/apps.22264.13984136076613493.81911a4c-fa1c-4613-9601-5c1bec9ebb96.25a7e5a8-38f5-4d3e-a296-563d1606efc5",
-        "https://store-images.s-microsoft.com/image/apps.52727.13984136076613493.81911a4c-fa1c-4613-9601-5c1bec9ebb96.06526c8a-10a5-49e3-943c-f1274c337005",
-        "https://store-images.s-microsoft.com/image/apps.7017.13984136076613493.81911a4c-fa1c-4613-9601-5c1bec9ebb96.0b13609b-73a9-4b6b-ba1e-7ba26233af86",
-        "https://store-images.s-microsoft.com/image/apps.43483.13984136076613493.81911a4c-fa1c-4613-9601-5c1bec9ebb96.f4ed07bb-849e-4558-9296-cab732a93634"
+        "https://store-images.s-microsoft.com/image/apps.46561.13984136076613493.4ef188e9-e117-4bec-bd49-d4de2c277628.b2395236-d8e0-435a-9ecd-5c398a0a7277",
+        "https://store-images.s-microsoft.com/image/apps.54877.13984136076613493.4ef188e9-e117-4bec-bd49-d4de2c277628.f4c8799a-49ee-4e0f-bfaf-e72b36dbfbc0",
+        "https://store-images.s-microsoft.com/image/apps.61063.13984136076613493.4ef188e9-e117-4bec-bd49-d4de2c277628.c2c968d9-9802-49da-87da-a77a3a935505",
+        "https://store-images.s-microsoft.com/image/apps.24805.13984136076613493.4ef188e9-e117-4bec-bd49-d4de2c277628.e5fd5fd7-feef-4daf-a571-92759c1e48a5"
       ],
       "videoUrl": "https://cdn.trailers.xboxservices.com/trailers/00000000-0000-0000-0000-000000000000/xbox/prod/videos/mainprofile/13984136076613493/de34dc42-9ef4-44e0-8d23-013f0ff4352c/manifest.m3u8",
       "videoCaption": "Training and Tactical Effectiveness",
@@ -21925,7 +21833,7 @@
           "recommended": ""
         }
       ],
-      "maxInstallSize": 8763551744,
+      "maxInstallSize": 8765173760,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/football-manager-27/9N4NKMXDZCX6"
     },
@@ -22195,7 +22103,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 10508177408,
+      "maxInstallSize": 11077107712,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/for-the-king-ii/9NVC9KWJVLT0"
     },
@@ -22340,7 +22248,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.7,
-      "ratingCount": 4581,
+      "ratingCount": 4582,
       "ageRating": 12,
       "pegiRating": "Supervisión parental recomendada",
       "pegiDescription": "Supervisión parental recomendada",
@@ -22501,7 +22409,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.1,
-      "ratingCount": 378,
+      "ratingCount": 380,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -23459,7 +23367,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.4,
-      "ratingCount": 452,
+      "ratingCount": 460,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -23547,7 +23455,7 @@
           "recommended": "Micrófono integrado"
         }
       ],
-      "maxInstallSize": 134699274240,
+      "maxInstallSize": 134699458560,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/gears-of-war-e-day/9N4PT8HGCDHQ"
     },
@@ -24773,8 +24681,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 3.4,
-      "ratingCount": 8,
+      "rating": 3.6,
+      "ratingCount": 9,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -24852,7 +24760,7 @@
           "recommended": "Micrófono integrado"
         }
       ],
-      "maxInstallSize": 6931136512,
+      "maxInstallSize": 6931378176,
       "hasAddOns": false,
       "storeUrl": "https://www.xbox.com/es-es/games/store/gravhounds-versi-n-preliminar-del-juego/9PBG4MTM3JJC"
     },
@@ -25660,7 +25568,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4,
-      "ratingCount": 1191,
+      "ratingCount": 1190,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -26642,7 +26550,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.4,
-      "ratingCount": 572,
+      "ratingCount": 573,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -27364,7 +27272,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.7,
-      "ratingCount": 708,
+      "ratingCount": 707,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -27648,7 +27556,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.8,
-      "ratingCount": 631,
+      "ratingCount": 632,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -31902,11 +31810,11 @@
         "ultimate"
       ],
       "platform": "both",
-      "price": 34.99,
+      "price": 26.24,
       "msrp": 34.99,
       "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
+      "hasDiscount": true,
+      "discountPercent": 25,
       "rating": 2.9,
       "ratingCount": 11,
       "ageRating": 3,
@@ -32338,7 +32246,7 @@
           "recommended": "Controladora de Xbox"
         }
       ],
-      "maxInstallSize": 19842871296,
+      "maxInstallSize": 19842875392,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/medieval-dynasty/9PDDP6ML6XHF"
     },
@@ -32527,7 +32435,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.4,
-      "ratingCount": 43,
+      "ratingCount": 44,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -32884,7 +32792,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.7,
-      "ratingCount": 51964,
+      "ratingCount": 51969,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -33347,7 +33255,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4,
-      "ratingCount": 16035,
+      "ratingCount": 16037,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -33444,7 +33352,7 @@
           "recommended": "8 GB"
         }
       ],
-      "maxInstallSize": 2171682816,
+      "maxInstallSize": 2164760576,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/minecraft-preview-for-windows/9P5X4QVLC2XR"
     },
@@ -33505,7 +33413,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 2411053056,
+      "maxInstallSize": 2399928320,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/minecraft-preview-for-xbox/9NQ19C36R0VD"
     },
@@ -33542,7 +33450,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.5,
-      "ratingCount": 61741,
+      "ratingCount": 61744,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -33816,13 +33724,13 @@
       "shortDescription": "Mistfall Hunter es un juego de acción y rol de extracción en tercera persona ambientado en un mundo de fantasía oscura.\n¡Vive trepidantes combates! Combina las habilidades, talentos y equipamiento de cada clase. Ya juegues en solitario o en equipo, tendrás que luchar para llevártelo todo. ¡Suerte!",
       "developer": "Bellring Games",
       "publisher": "Skystone Games",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.46876.14079456565345641.e3e3713f-53d2-4829-9bd5-395a291216ac.cc590df2-b04c-4c5a-9ac2-7446c5c83b6f",
-      "heroImage": "https://store-images.s-microsoft.com/image/apps.30683.14079456565345641.e3e3713f-53d2-4829-9bd5-395a291216ac.55d47f53-510e-4d6c-8546-3423537ffd0c",
+      "imageUrl": "https://store-images.s-microsoft.com/image/apps.1812.14079456565345641.6e8f7d58-d469-40c4-827b-64e8dcbdeb18.c5036d3e-caf8-4aff-b693-3e1f93ea2ec8",
+      "heroImage": "https://store-images.s-microsoft.com/image/apps.33162.14079456565345641.6e8f7d58-d469-40c4-827b-64e8dcbdeb18.b381719e-ad36-4501-9fec-aaabe91bbf0d",
       "screenshots": [
-        "https://store-images.s-microsoft.com/image/apps.22760.14079456565345641.e3e3713f-53d2-4829-9bd5-395a291216ac.634f8ab4-4788-4acb-9798-03f0b5156cc2",
-        "https://store-images.s-microsoft.com/image/apps.48048.14079456565345641.e3e3713f-53d2-4829-9bd5-395a291216ac.320478e0-da7f-49c2-ad02-335d72ad091b",
-        "https://store-images.s-microsoft.com/image/apps.3411.14079456565345641.e3e3713f-53d2-4829-9bd5-395a291216ac.eb9dd5fe-de4c-41f2-8935-3abd3744e949",
-        "https://store-images.s-microsoft.com/image/apps.569.14079456565345641.e3e3713f-53d2-4829-9bd5-395a291216ac.e75dbccb-0a13-4564-aa97-17ef6e71313a"
+        "https://store-images.s-microsoft.com/image/apps.62677.14079456565345641.6e8f7d58-d469-40c4-827b-64e8dcbdeb18.b7c64a7c-1f34-45cf-af6d-5e7e625ae919",
+        "https://store-images.s-microsoft.com/image/apps.460.14079456565345641.6e8f7d58-d469-40c4-827b-64e8dcbdeb18.6a126018-af7e-4438-a17c-6f201e3c7bdd",
+        "https://store-images.s-microsoft.com/image/apps.60538.14079456565345641.6e8f7d58-d469-40c4-827b-64e8dcbdeb18.9810a021-2521-4c0b-ad95-318329ba4ad4",
+        "https://store-images.s-microsoft.com/image/apps.22317.14079456565345641.6e8f7d58-d469-40c4-827b-64e8dcbdeb18.eebd4372-771e-45c2-8a37-7df2832eab59"
       ],
       "videoUrl": "https://cdn.trailers.xboxservices.com/trailers/00000000-0000-0000-0000-000000000000/xbox/prod/videos/mainprofile/14079456565345641/0efa0e36-9d50-4847-88a2-5cacf1bf1eab/manifest.m3u8",
       "videoCaption": "Game PV",
@@ -37887,7 +37795,7 @@
           "recommended": "Micrófono integrado"
         }
       ],
-      "maxInstallSize": 25825050624,
+      "maxInstallSize": 25825079296,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/pax-dei/9PHGK0538TXM"
     },
@@ -38284,7 +38192,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.7,
-      "ratingCount": 419,
+      "ratingCount": 418,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -39539,7 +39447,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.9,
-      "ratingCount": 27,
+      "ratingCount": 28,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -41362,7 +41270,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 2.8,
-      "ratingCount": 695,
+      "ratingCount": 694,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -42354,7 +42262,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.5,
-      "ratingCount": 347,
+      "ratingCount": 348,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -43468,7 +43376,7 @@
           "recommended": "Controladora de Xbox"
         }
       ],
-      "maxInstallSize": 44080549888,
+      "maxInstallSize": 43956486144,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/runescape-dragonwilds/9P402RWR63H4"
     },
@@ -44140,7 +44048,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.7,
-      "ratingCount": 2994,
+      "ratingCount": 2995,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -46351,7 +46259,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.3,
-      "ratingCount": 237,
+      "ratingCount": 238,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -48606,6 +48514,95 @@
       "storeUrl": "https://www.xbox.com/es-es/games/store/tamashika/9P43RGDPJ62T"
     },
     {
+      "id": "9NRBW3FJSJWT",
+      "title": "TANUKI: Pon's Summer",
+      "description": "En un verano sofocante...\n\nEntrega paquetes\nSúbete a tu BMX para repartir cartas y paquetes a los peculiares pueblerinos de las cuatro pueblos que hay en TANUKI: Pon’s Summer. Como los paquetes varían de tamaño, peso y forma, deberás discurrir cómo abordar cada reparto.\n\nActividades\nA medida que aumente tu amistad y lealtad con los pueblerinos, te invitarán a multitud de deportes y actividades. Participa para desbloquear elementos y recompensas que te ayudarán a la hora de rehabilitar el santuario.\n\nRecupera el antiguo esplendor del santuario.\nConstruye, mejora y decora el santuario con el dinero y los elementos que consigas tras realizar entregas y actividades. ¡Acondiciónalo para el festival de finales de verano!\n\nCuatro grandes pueblos\nExplora los cuatro grandes pueblos, inspirados con mucho cariño en Kioto, Aomori, Sapporo y Beppu. Cada uno de ellos cuenta con distintas misiones y objetivos.\nEl Festival Tanuki está a la vuelta de la esquina y Pon ha de recuperar el antiguo esplendor del santuario. Ayúdalo a conseguir dinero, a entablar amistad con la gente del lugar y a preparar el santuario para un festival inolvidable.\n¡Entrégate en cuerpo y alma a todos los pueblerinos como un tanuki cartero sobre tu BMX! Deberás ahorrar en un mes lo suficiente para rehabilitar el santuario y así poder celebrar el gran Festival Tanuki. ¡Reparto de paquetes, competiciones deportivas, preparación de sushi y mucho más en TANUKI: Pon’s Summer!",
+      "shortDescription": "Falta un mes para el Festival Tanuki y el santuario está en mal estado. Sigue a Pon, el tanuki bonachón y perezoso que trabaja a media jornada como cartero y ayúdalo a rehabilitarlo antes de que acabe el verano. ¡Entrega paquetes, haz amistades y acondiciona el santuario para el gran festival!\n",
+      "developer": "Denkiworks",
+      "publisher": "CRITICAL REFLEX",
+      "imageUrl": "https://store-images.s-microsoft.com/image/apps.55068.14390224744653316.b8cfc87d-5763-4e3b-9506-f6dc3b4f7735.9e7b7cab-1918-46f7-a5a7-258279566820",
+      "heroImage": "https://store-images.s-microsoft.com/image/apps.35381.14390224744653316.b8cfc87d-5763-4e3b-9506-f6dc3b4f7735.172a1329-71ee-4015-a9ec-c950f9e31931",
+      "screenshots": [
+        "https://store-images.s-microsoft.com/image/apps.57079.14390224744653316.75c3ce51-edb2-4321-95e6-d1994d1b196f.eb761cd9-d55a-420e-91ec-24db56f25c29",
+        "https://store-images.s-microsoft.com/image/apps.38003.14390224744653316.75c3ce51-edb2-4321-95e6-d1994d1b196f.257023e9-b71b-45a9-8f42-9ee1623745b1",
+        "https://store-images.s-microsoft.com/image/apps.63579.14390224744653316.75c3ce51-edb2-4321-95e6-d1994d1b196f.468df7e7-0c30-479c-aea4-6d309b2d6ba8",
+        "https://store-images.s-microsoft.com/image/apps.25781.14390224744653316.75c3ce51-edb2-4321-95e6-d1994d1b196f.8925abe4-13da-4e82-bd83-27e98f1fbf68"
+      ],
+      "videoUrl": "https://cdn.trailers.xboxservices.com/trailers/00000000-0000-0000-0000-000000000000/xbox/prod/videos/mainprofile/14390224744653316/48f474d6-3f38-4fe2-960b-3d0a0ac22a1d/manifest.m3u8",
+      "videoCaption": "TANUKI: Pon's Summer - Release Date Trailer",
+      "releaseDate": "9998-12-30",
+      "categories": [
+        "Acción y aventura",
+        "Niños y familia",
+        "Plataformas"
+      ],
+      "tiers": [
+        "pc",
+        "ultimate"
+      ],
+      "platform": "both",
+      "price": 19.99,
+      "msrp": 19.99,
+      "currency": "EUR",
+      "hasDiscount": false,
+      "discountPercent": 0,
+      "rating": 0,
+      "ratingCount": 0,
+      "ageRating": 3,
+      "pegiRating": "PEGI 3",
+      "pegiDescription": "Apropiado a partir de 3 años",
+      "interactiveDescriptions": [],
+      "capabilities": [
+        "Un jugador",
+        "Optimizado para Xbox Series X|S",
+        "Entrega inteligente",
+        "Logros de Xbox",
+        "Clubs de Xbox",
+        "Cosas guardadas en la nube de Xbox",
+        "Xbox Play Anywhere"
+      ],
+      "systemRequirements": [
+        {
+          "title": "SO",
+          "minimum": "Windows 10 version 18362.0 or higher",
+          "recommended": "Windows 10 version 18362.0 or higher"
+        },
+        {
+          "title": "Arquitectura",
+          "minimum": "x64",
+          "recommended": "x64"
+        },
+        {
+          "title": "Gráficos",
+          "minimum": "Nvidia GeForce GTX760 | AMD Radeon 7950",
+          "recommended": " Nvidia GeForce GTX1060 | AMD Radeon RX 580"
+        },
+        {
+          "title": "Procesador",
+          "minimum": "Intel Core i3-2100 | AMD FX-6300",
+          "recommended": "Intel Core i7-9700K | AMD Ryzen 7"
+        },
+        {
+          "title": "DirectX",
+          "minimum": "Versión 11",
+          "recommended": "Versión 11"
+        },
+        {
+          "title": "Memoria",
+          "minimum": "8 GB",
+          "recommended": "16 GB"
+        },
+        {
+          "title": "Memoria de vídeo",
+          "minimum": "2 GB",
+          "recommended": "4 GB"
+        }
+      ],
+      "maxInstallSize": 1467265024,
+      "hasAddOns": false,
+      "storeUrl": "https://www.xbox.com/es-es/games/store/tanuki-pon-s-summer/9NRBW3FJSJWT"
+    },
+    {
       "id": "9P9GX5D8H9DW",
       "title": "TCG Card Shop Simulator",
       "description": "TCG Card Shop Simulator es un simulador de tienda de cartas coleccionables donde vendes sobres de cartas para ganar dinero y desarrollar tu negocio.\n\nAdministra tu tienda:\nDiseña tu propia tienda de JCC. Organiza los estantes y los sobres de cartas para que la experiencia de compra del cliente sea fluida y sencilla.\n\nColección de cartas:\nAbre los sobres y colecciona las cartas. Encuentra cartas raras y véndelas para hacerte rico o consérvalas para completar tu colección.\n\nOrganiza el juego:\nEstablece el formato y la tarifa de tu juego de cartas e invita a los jugadores a jugar en tu tienda. ¡Asegúrate de mantener tu tienda limpia e higiénica para los jugadores o podrían irse!\n\nCompra productos:\nAbastécete de diferentes sobres de cartas y productos de juegos de cartas. Mantente al tanto de las tendencias y ajusta tu inventario para satisfacer las cambiantes demandas de tus clientes.\n\nAmplía tu negocio:\nObtén ganancias para reinvertir en tu tienda. Amplía tu espacio, desbloquea nuevos juegos de cartas y mejora tus instalaciones para atraer aún más clientes y aumentar los ingresos.\n\nVisita https://discord.gg/2YaaUZzrRY para obtener detalles completos sobre el estado más reciente del juego, así como para proporcionar comentarios y notificar problemas.",
@@ -50033,6 +50030,62 @@
       "maxInstallSize": 1235628032,
       "hasAddOns": false,
       "storeUrl": "https://www.xbox.com/es-es/games/store/the-elder-scrolls-adventures-redguard/9PFXKRLVWJ0B"
+    },
+    {
+      "id": "BXVCFBJBNS17",
+      "title": "The Elder Scrolls III: Morrowind",
+      "description": "The Elder Scrolls III: Morrowind is an epic, open-ended single-player game where you create and play any kind of character you can imagine. Your actions define your character, and your gameplay changes and evolves in response to your actions.  Confront the assassins' guild, and they take out a contract on you; impress them, and they try to recruit you instead. No two sagas are the same in the world of Morrowind. The end result is the most open-ended RPG possible—one with an infinite number of possible paths through the game.  Includes Morrowind plus all of the content from the Bloodmoon and Tribunal expansions.",
+      "shortDescription": "The Elder Scrolls III: Morrowind is an epic, open-ended single-player game where you create and play any kind of character you can imagine. Your actions define your character, and your gameplay changes and evolves in response to your actions.",
+      "developer": "Bethesda Game Studios",
+      "publisher": "Bethesda Softworks",
+      "imageUrl": "https://store-images.s-microsoft.com/image/apps.42981.63316511565903586.d62160f8-6032-426e-af13-d87fe2d204a7.f3794cc2-595b-4388-8533-73979efc2e4a",
+      "heroImage": "https://store-images.s-microsoft.com/image/apps.44690.63316511565903586.d62160f8-6032-426e-af13-d87fe2d204a7.eea1eec7-7361-48c9-bbce-ac54d9d26b50",
+      "screenshots": [
+        "https://store-images.s-microsoft.com/image/apps.38823.63316511565903586.d62160f8-6032-426e-af13-d87fe2d204a7.7b246921-b72a-4f1e-836c-d0ba273b55bd",
+        "https://store-images.s-microsoft.com/image/apps.35601.63316511565903586.d62160f8-6032-426e-af13-d87fe2d204a7.fd3fa23e-1599-43a2-a583-6b69a6d69659",
+        "https://store-images.s-microsoft.com/image/apps.25649.63316511565903586.d62160f8-6032-426e-af13-d87fe2d204a7.215e4478-5207-46de-9292-8d273f1c08a1",
+        "https://store-images.s-microsoft.com/image/apps.42834.63316511565903586.d62160f8-6032-426e-af13-d87fe2d204a7.2690ab71-5405-42c5-b187-b9c88c4e5e8d"
+      ],
+      "videoUrl": "",
+      "videoCaption": "",
+      "releaseDate": "2018-04-17",
+      "categories": [
+        "Juegos de rol"
+      ],
+      "tiers": [
+        "premium",
+        "ultimate"
+      ],
+      "platform": "console",
+      "price": 9.99,
+      "msrp": 9.99,
+      "currency": "EUR",
+      "hasDiscount": false,
+      "discountPercent": 0,
+      "rating": 5,
+      "ratingCount": 2,
+      "ageRating": 12,
+      "pegiRating": "PEGI 12",
+      "pegiDescription": "Apropiado a partir de 12 años",
+      "interactiveDescriptions": [],
+      "capabilities": [
+        "Xbox One X mejorado"
+      ],
+      "systemRequirements": [
+        {
+          "title": "SO",
+          "minimum": "Windows 11 version 26200.8117 or higher",
+          "recommended": "Windows 11 version 26200.8117 or higher"
+        },
+        {
+          "title": "Arquitectura",
+          "minimum": "x64",
+          "recommended": "x64"
+        }
+      ],
+      "maxInstallSize": 1633636352,
+      "hasAddOns": false,
+      "storeUrl": "https://www.xbox.com/es-es/games/store/the-elder-scrolls-iii-morrowind/BXVCFBJBNS17"
     },
     {
       "id": "BZ4WD43D8DTS",
@@ -51973,8 +52026,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 1.9,
-      "ratingCount": 32,
+      "rating": 2,
+      "ratingCount": 33,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -54570,11 +54623,11 @@
         "ultimate"
       ],
       "platform": "both",
-      "price": 29.99,
+      "price": 7.49,
       "msrp": 29.99,
       "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
+      "hasDiscount": true,
+      "discountPercent": 75,
       "rating": 3.9,
       "ratingCount": 49,
       "ageRating": 18,
@@ -55642,7 +55695,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.9,
-      "ratingCount": 73,
+      "ratingCount": 74,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -57195,7 +57248,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.3,
-      "ratingCount": 261,
+      "ratingCount": 262,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -57272,6 +57325,81 @@
       "maxInstallSize": 99627458560,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/warhammer-40-000-space-marine-2/9N9PCZWHVP2L"
+    },
+    {
+      "id": "9MZZWGTF7V65",
+      "title": "Warhammer Survivors",
+      "description": "Warhammer Survivors es un roguelite de supervivencia frenético en el que se una serie de personajes icónicos de Warhammer se enfrentan a hordas interminables de enemigos de múltiples facciones.\n\nDesarrollado por Auroch Digital (Warhammer 40,000: Boltgun) en colaboración con Warhammer y poncle (Vampire Survivors), descubre los universos de Warhammer 40,000 y Warhammer: Age of Sigmar en todo su esplendor, con gráficos estilo píxel y supervivencia a raudales.",
+      "shortDescription": "Conviértete en la viva imagen de un bullet hell en Warhammer Survivors, un roguelite de supervivencia frenético. Juega como personajes de Warhammer 40,000 y Warhammer: Age of Sigmar, reúne y evoluciona armas icónicas, y destruye oleadas interminables de enemigos.",
+      "developer": "Auroch Digital",
+      "publisher": "Auroch Digital",
+      "imageUrl": "https://store-images.s-microsoft.com/image/apps.63012.13865289401901694.ec4fd4fe-95aa-4110-a6b3-96d9a78df1a3.0a17bc32-56e3-46a1-8aae-d4edfc5689e8",
+      "heroImage": "https://store-images.s-microsoft.com/image/apps.51381.13865289401901694.ec4fd4fe-95aa-4110-a6b3-96d9a78df1a3.8a18a5bc-1739-497e-97b4-0dca3b1b01a7",
+      "screenshots": [
+        "https://store-images.s-microsoft.com/image/apps.4085.13865289401901694.b830ee82-3c43-4403-a7fe-4c503ac89562.2b5e09c3-5b1b-46ea-b654-9990a203bb08",
+        "https://store-images.s-microsoft.com/image/apps.28649.13865289401901694.b830ee82-3c43-4403-a7fe-4c503ac89562.89e64461-a647-44f5-b77e-a6aff1f68b40",
+        "https://store-images.s-microsoft.com/image/apps.45083.13865289401901694.b830ee82-3c43-4403-a7fe-4c503ac89562.1b4a64b6-7921-438b-be46-bc2c1d034882",
+        "https://store-images.s-microsoft.com/image/apps.47903.13865289401901694.b830ee82-3c43-4403-a7fe-4c503ac89562.09426087-c0e8-4e1f-ba07-40b6f6adc528"
+      ],
+      "videoUrl": "https://cdn.trailers.xboxservices.com/trailers/00000000-0000-0000-0000-000000000000/xbox/prod/videos/mainprofile/13865289401901694/e5a9d9ad-5308-40db-b3e4-8b3d510a4c1e/manifest.m3u8",
+      "videoCaption": "Warhammer Survivors - Skulls Trailer",
+      "releaseDate": "9998-12-30",
+      "categories": [
+        "Acción y aventura"
+      ],
+      "tiers": [
+        "pc",
+        "ultimate"
+      ],
+      "platform": "both",
+      "price": 6.74,
+      "msrp": 7.49,
+      "currency": "EUR",
+      "hasDiscount": true,
+      "discountPercent": 10,
+      "rating": 0,
+      "ratingCount": 0,
+      "ageRating": 7,
+      "pegiRating": "PEGI 7",
+      "pegiDescription": "Apropiado a partir de 7 años",
+      "interactiveDescriptions": [],
+      "capabilities": [
+        "Un jugador",
+        "Optimizado para Xbox Series X|S",
+        "Logros de Xbox",
+        "Cosas guardadas en la nube de Xbox",
+        "Xbox Play Anywhere"
+      ],
+      "systemRequirements": [
+        {
+          "title": "SO",
+          "minimum": "Windows 10 version 18362.0 or higher",
+          "recommended": "Windows 10 version 18362.0 or higher"
+        },
+        {
+          "title": "Arquitectura",
+          "minimum": "x64",
+          "recommended": "x64"
+        },
+        {
+          "title": "Gráficos",
+          "minimum": "GTX 750 or equivalent graphics card",
+          "recommended": ""
+        },
+        {
+          "title": "Procesador",
+          "minimum": "Dual Core 2.4 Ghz x86-64",
+          "recommended": ""
+        },
+        {
+          "title": "Memoria",
+          "minimum": "6 GB",
+          "recommended": ""
+        }
+      ],
+      "maxInstallSize": 1672593408,
+      "hasAddOns": false,
+      "storeUrl": "https://www.xbox.com/es-es/games/store/warhammer-survivors/9MZZWGTF7V65"
     },
     {
       "id": "BXZWT67JBZJH",
@@ -59602,17 +59730,17 @@
     {
       "id": "C57L9GR0HHB7",
       "title": "World of Tanks Modern Armor",
-      "description": "TEMPORAL: ASILO DE ACERO\nAdéntrate en la nueva temporada de World of Tanks Modern Armor, Asilo de acero, y enfréntate a la locura del campo de batalla. Descubre nuevos carros premium aterradores, un comandante 3D temible, desafíos especiales de Halloween, ofertas de Black Friday y una serie de eventos temporales que pondrán a prueba tu valor.\n\nEL CAMPO DE BATALLA TE RECLAMA \nWorld of Tanks Modern Armor te pone al mando de más de 1000 carros modernos y legendarios. Desafíate a ti mismo en estratégicas batallas por equipos de 15 contra 15. Selecciona las batallas de la Guerra Fría si buscas acción trepidante y moderna o elige las batallas de la Segunda Guerra Mundial si prefieres combates tácticos y pausados. Explora mapas detallados inspirados en escenarios de guerra auténticos.  \n\nCONOCE LAS MÁQUINAS MÁS TEMIBLES DE LA HISTORIA \nRevive la historia al mando de carros emblemáticos de la Segunda Guerra Mundial como el Sherman y bestias modernas como el M1 Abrams. Colecciona y mejora tus carros blindados, personalízalos con camuflajes y desbloquea vehículos más poderosos. Elige entre un amplio abanico de comandantes 3D que te guíen en el campo de batalla. \n\nENFRÉNTATE A JUGADORES DE TODO EL MUNDO \nJuega gratis y disfruta de actualizaciones de contenido semanales repletas de desafíos, recompensas, colaboraciones especiales y temporadas nuevas. Elige tu modo preferido: JcJ o JcE. Forma equipo con tus amigos, y uníos a World of Tanks Modern Armor para poner a prueba vuestras habilidades. \n\nTus carros te están esperando. ¡Nos vemos en el campo de batalla! \n\n¿Quieres más información? Pásate por WoTModernArmor.com.",
+      "description": "DUNE: PARTE TRES \nSigue el camino que marca la profecía y prepárate para el gran desenlace de la trilogía de Dune. Descubre lotes especiales con los vehículos Titán de guerra y Manta Deslizante, los comandantes legendarios Paul Atreides, Stilgar y Alia Atreides, y elementos de personalización inspirados en Dune. ¡Adéntrate en el universo de Dune y controla el desierto! \n\nEL CAMPO DE BATALLA TE RECLAMA \nWorld of Tanks Modern Armor te pone al mando de más de 1000 carros modernos y legendarios. Desafíate a ti mismo en estratégicas batallas por equipos de 15 contra 15. Selecciona las batallas de la Guerra Fría si buscas acción trepidante y moderna o elige las batallas de la Segunda Guerra Mundial si prefieres combates tácticos y pausados. Explora mapas detallados inspirados en escenarios de guerra auténticos.  \n\nCONOCE LAS MÁQUINAS MÁS TEMIBLES DE LA HISTORIA \nRevive la historia al mando de carros emblemáticos de la Segunda Guerra Mundial como el Sherman y bestias modernas como el M1 Abrams. Colecciona y mejora tus carros blindados, personalízalos con camuflajes y desbloquea vehículos más poderosos. Elige entre un amplio abanico de comandantes 3D que te guíen en el campo de batalla. \n\nENFRÉNTATE A JUGADORES DE TODO EL MUNDO \nJuega gratis y disfruta de actualizaciones de contenido semanales repletas de desafíos, recompensas, colaboraciones especiales y temporadas nuevas. Elige tu modo preferido: JcJ o JcE. Forma equipo con tus amigos, y uníos a World of Tanks Modern Armor para poner a prueba vuestras habilidades. \n\nTus carros te están esperando. ¡Nos vemos en el campo de batalla! \n\n¿Quieres más información? Pásate por WoTModernArmor.com.",
       "shortDescription": "World of Tanks Modern Armor te pone al mando de más de 1000 carros modernos y legendarios. Desafíate a ti mismo en estratégicas batallas por equipos de 15 contra 15. Selecciona las batallas de la Guerra Fría si buscas acción trepidante y moderna o elige las batallas de la Segunda Guerra Mundial si prefieres combates tácticos y pausados.  ",
       "developer": "Wargaming.net",
       "publisher": "Wargaming.net",
       "imageUrl": "https://store-images.s-microsoft.com/image/apps.56441.67082279703731056.6e3bd00c-6996-4fb3-aaff-b5a1ec4229ca.e30bf06c-1657-4b9c-8c20-f83420c09d4e",
       "heroImage": "https://store-images.s-microsoft.com/image/apps.8100.67082279703731056.6e3bd00c-6996-4fb3-aaff-b5a1ec4229ca.ae7b70f6-96c5-4f6d-9047-dda63a791596",
       "screenshots": [
-        "https://store-images.s-microsoft.com/image/apps.40172.67082279703731056.6e3bd00c-6996-4fb3-aaff-b5a1ec4229ca.c0fdc045-1041-4839-8499-441b11e911b1",
-        "https://store-images.s-microsoft.com/image/apps.52906.67082279703731056.6e3bd00c-6996-4fb3-aaff-b5a1ec4229ca.55b55bdd-0b4f-4b73-b3df-0ecc9cb7e740",
-        "https://store-images.s-microsoft.com/image/apps.48226.67082279703731056.6e3bd00c-6996-4fb3-aaff-b5a1ec4229ca.50dccf4f-3cd9-41ce-b555-8a220d5cf0c8",
-        "https://store-images.s-microsoft.com/image/apps.54609.67082279703731056.6e3bd00c-6996-4fb3-aaff-b5a1ec4229ca.481ec115-0a10-4c57-923f-5114eb85aaae"
+        "https://store-images.s-microsoft.com/image/apps.2397.67082279703731056.9ddcf855-aa96-40b6-9f49-d828e4d95570.70a08fa8-b75e-4b4c-a1c9-7c72b19d7ec5",
+        "https://store-images.s-microsoft.com/image/apps.48012.67082279703731056.9ddcf855-aa96-40b6-9f49-d828e4d95570.e897c555-d2b3-4e15-a0c8-e5885a359ba2",
+        "https://store-images.s-microsoft.com/image/apps.57276.67082279703731056.9ddcf855-aa96-40b6-9f49-d828e4d95570.0b6d4bf3-ca5e-48e1-94ac-c1866f6db494",
+        "https://store-images.s-microsoft.com/image/apps.54274.67082279703731056.9ddcf855-aa96-40b6-9f49-d828e4d95570.b28d8fd9-8560-4a71-b3ab-7d7d8a00c9c8"
       ],
       "videoUrl": "https://cdn.trailers.xboxservices.com/trailers/00000000-0000-0000-0000-000000000000/xbox/prod/videos/mainprofile/67082279703731056/32805793-5251-4c87-9ebd-539b7e2fe043/manifest.m3u8",
       "videoCaption": "Steel Asylum",
@@ -60083,7 +60211,7 @@
           "recommended": "16 GB"
         }
       ],
-      "maxInstallSize": 78934683648,
+      "maxInstallSize": 84920864768,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/world-war-z-aftermath/9PLCL2VB2SC0"
     },
