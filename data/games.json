@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-10T15:53:11.748Z",
+  "updatedAt": "2026-11-11T15:41:44.786Z",
   "market": "ES",
   "language": "es-ES",
-  "totalGames": 817,
+  "totalGames": 819,
   "counts": {
-    "essential": 133,
-    "premium": 565,
-    "pc": 474,
-    "ultimate": 720,
-    "total": 817
+    "essential": 134,
+    "premium": 566,
+    "pc": 476,
+    "ultimate": 722,
+    "total": 819
   },
   "categories": [
     "Acción y aventura",
@@ -63,7 +63,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 2.3,
-      "ratingCount": 49,
+      "ratingCount": 50,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -223,6 +223,103 @@
       "maxInstallSize": 7407136768,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/33-immortals/9P8LR42PTRGJ"
+    },
+    {
+      "id": "9NNM7PKZN3JF",
+      "title": "9 Kings (Versión preliminar del juego)",
+      "description": "Este juego es un trabajo en curso. Es posible que, con el tiempo, cambie o no cambie, o que no se lance como producto final. Compra este producto únicamente si estás satisfecho con el estado actual del juego no terminado. \n\nConvierte tu ciudad en el reino más poderoso gracias a un sinfín de combinaciones de construcciones, unidades, hechizos y al modo en que posicionas todo. Podrás crear combos con los que sembrar el caos y aprovechar ventajas poderosas para explotar las mecánicas y volverte invencible. Haz crecer a tu reino de forma estratégica, prepárate para enfrentarte a decenas de eventos únicos y muestra al mundo que tu reino puede arrasar con el resto tanto en solitario como en multijugador asíncrono.\n\nCONSTRUYE TU CAPITAL\nSea todavía una aldea en ciernes o una ciudadela imponente, la capital de tu reino es la sede de tus unidades y su fuente de poder. Expande tu reino poco a poco y con sabiduría para que sobreviva a décadas de guerras y conflictos.\n\nPROTEGE TUS DOMINIOS\nA tu disposición tendrás caballeros toscos, hechiceros y bombarderos diestros, diablillos malvados y fúngidos, entre otras unidades que liderar y enviar a la batalla. Amasa una gran cantidad de oro con el que contratar a miles de mercenarios para tu causa, utiliza magia oscura para resucitar a los muertos y domina la naturaleza para abatir a tus enemigos.\n\nAFINA TU BARAJA\nCada reino tiene una baraja inicial con construcciones, tropas y hechizos. Aun así, siempre puedes saquear los reinos rivales que atacan tus tierras para conseguir cartas únicas de sus mazos. Quizá prefieras hacer las paces con ciertos reinos cuyas unidades no se ajusten a tu estilo de juego o, por el contrario, te inclines a declarar la guerra contra los reyes que cuenten con poderes y unidades que ansíes. Sírvete de lo que obtengas de tu enemigo y desbloquea combinaciones únicas apilando bonificaciones y modificadores con los que construir un ejército invencible.\n\nTU REINO, TUS DECISIONES\nEn el modo multijugador asíncrono te enfrentarás a ocho reyes rivales para ver qué reino logra sobrevivir más tiempo. Sube en la clasificación, demuestra que eres el rey entre los reyes y disfruta de la personalización visual gracias a las recompensas que desbloquees en los desafíos diarios y las medallas que obtengas.\n\nEl modo Aventura incluye retos únicos que desafían las mecánicas del juego mientras recorres el mundo conocido y te enfrentas a sus reyes para hacerte con sus coronas.\n\nEn el modo Infinito, elegirás un rey y harás frente a ataques constantes de reyes enemigos y de sus guerreros más poderosos. ¿Cuánto tiempo serás capaz de resistir la embestida?\n\nCombina tus cartas de mil maneras, prueba configuraciones increíbles y observa cómo un grandioso ejército defiende tu corona. Sobrevive todo lo que puedas contra enemigos cada vez más poderosos o explota las mecánicas y haz que tus rivales se postren ante ti.\n\nVisita https://discord.gg/EXEBmsnEAv para obtener detalles completos sobre el estado más reciente del juego, así como para proporcionar comentarios y notificar problemas.",
+      "shortDescription": "Levanta tu imperio en este trepidante constructor de reinos roguelike. Libra cruentas batallas contra tus homónimos rivales. Explota las mecánicas con cientos de construcciones increíbles para convertirte en el rey de reyes.",
+      "developer": "Sad Socket",
+      "publisher": "Hooded Horse",
+      "imageUrl": "https://store-images.s-microsoft.com/image/apps.58551.13735777332261166.046c4476-2fdb-4636-af17-eba2edfec19a.465b0cc8-e9b8-412d-a0b4-8c443a476a9e",
+      "heroImage": "https://store-images.s-microsoft.com/image/apps.47011.13735777332261166.046c4476-2fdb-4636-af17-eba2edfec19a.50b0e73b-c5c2-4cdc-81bb-18db3c0dbe49",
+      "screenshots": [
+        "https://store-images.s-microsoft.com/image/apps.46499.13735777332261166.5394db02-c668-41cb-a4ca-b8088edda9f3.5f9003da-3d2d-4fb8-99fb-34d3ab3cd581",
+        "https://store-images.s-microsoft.com/image/apps.57804.13735777332261166.5394db02-c668-41cb-a4ca-b8088edda9f3.00a5b184-45fa-41ea-85fa-e770641e469b",
+        "https://store-images.s-microsoft.com/image/apps.36263.13735777332261166.7837b516-85da-4b9f-adc2-28b4958b4d04.a176c208-906a-4f87-8bc7-641a5982daf3",
+        "https://store-images.s-microsoft.com/image/apps.21636.13735777332261166.5394db02-c668-41cb-a4ca-b8088edda9f3.bb68010f-7f54-45a4-84eb-58567e8e0307"
+      ],
+      "videoUrl": "https://cdn.trailers.xboxservices.com/trailers/00000000-0000-0000-0000-000000000000/xbox/prod/videos/mainprofile/13735777332261166/8e6aadff-25a8-4896-ab0e-244fbbf1bdd9/manifest.m3u8",
+      "videoCaption": "Multiplayer Update Trailer",
+      "releaseDate": "2025-08-14",
+      "categories": [
+        "Estrategia",
+        "Juegos de rol",
+        "Juegos de mesa"
+      ],
+      "tiers": [
+        "pc",
+        "premium",
+        "ultimate"
+      ],
+      "platform": "pc",
+      "price": 19.99,
+      "msrp": 19.99,
+      "currency": "EUR",
+      "hasDiscount": false,
+      "discountPercent": 0,
+      "rating": 4.5,
+      "ratingCount": 23,
+      "ageRating": 12,
+      "pegiRating": "PEGI 12",
+      "pegiDescription": "Apropiado a partir de 12 años",
+      "interactiveDescriptions": [],
+      "capabilities": [
+        "Multijugador en línea  (9-9)",
+        "Un jugador",
+        "Logros de Xbox",
+        "Cosas guardadas en la nube de Xbox"
+      ],
+      "systemRequirements": [
+        {
+          "title": "SO",
+          "minimum": "Windows 10 version 18362.0 or higher",
+          "recommended": "Windows 10 version 18362.0 or higher"
+        },
+        {
+          "title": "Arquitectura",
+          "minimum": "x64",
+          "recommended": "x64"
+        },
+        {
+          "title": "Gráficos",
+          "minimum": "NVIDIA® GeForce® GT 630 (2 GB) / AMD® Radeon™ HD 6670 (2 GB)",
+          "recommended": "NVIDIA® GeForce® GTX 650 (2 GB) / AMD® Radeon™ HD 7750 (2 GB)"
+        },
+        {
+          "title": "Procesador",
+          "minimum": "Intel® Core™ i5-750 (quad-core) / AMD® Phenom™ II X4 965 (quad-core)",
+          "recommended": "Intel® Core™ i5-3570 (quad-core) / AMD® FX-Series™ FX-8300 (quad-core)"
+        },
+        {
+          "title": "DirectX",
+          "minimum": "Versión 11",
+          "recommended": "API de DirectX 12, nivel de característica de hardware 12"
+        },
+        {
+          "title": "Memoria",
+          "minimum": "4 GB",
+          "recommended": "8 GB"
+        },
+        {
+          "title": "Memoria de vídeo",
+          "minimum": "2 GB",
+          "recommended": "2 GB"
+        },
+        {
+          "title": "Teclado",
+          "minimum": "",
+          "recommended": "Teclado integrado"
+        },
+        {
+          "title": "Mouse",
+          "minimum": "",
+          "recommended": "Mouse integrado"
+        }
+      ],
+      "maxInstallSize": 634437632,
+      "hasAddOns": false,
+      "storeUrl": "https://www.xbox.com/es-es/games/store/9-kings-versi-n-preliminar-del-juego/9NNM7PKZN3JF"
     },
     {
       "id": "9NGLST31DG26",
@@ -883,7 +980,7 @@
         "Un jugador"
       ],
       "systemRequirements": [],
-      "maxInstallSize": 53118525440,
+      "maxInstallSize": 53126463488,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/age-of-empires-iii-definitive-edition/9P91FNMH1GG0"
     },
@@ -2220,7 +2317,7 @@
           "recommended": "Controladora de Xbox"
         }
       ],
-      "maxInstallSize": 214397767680,
+      "maxInstallSize": 214405423104,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/ark-survival-ascended/9P33VJGVPHVP"
     },
@@ -2256,7 +2353,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.3,
-      "ratingCount": 1280,
+      "ratingCount": 1281,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -5693,7 +5790,7 @@
     {
       "id": "9P2FF14JZLL3",
       "title": "Battlefield™ 6",
-      "description": "La experiencia definitiva de guerra total. Lucha en intensos combates de infantería, atraviesa los cielos en combate aéreo, destruye tu entorno y consigue una ventaja estratégica, y toma el control de todas tus decisiones y movimientos con el sistema de combate cenestésico. En una guerra de tanques, cazas y gigantescos arsenales de combate, el arma más mortífera es tu patrulla. Esto es Battlefield 6.\n\nMULTIJUGADOR\nLa victoria, tal y como tú la imagines. Battlefield 6 te brinda más opciones de victoria que nunca. Consigue la gloria en mapas masivos emblemáticos o sumérgete en un combate a corta distancia trepidante. Cambia las reglas del conflicto con el renovado y perfeccionado Battlefield Portal. Combate en escenarios icónicos de todo el globo, como El Cairo, Brooklyn, Gibraltar, Japón y otros. Más formas de disfrutar. Más rutas hacia la victoria.\n\nCAMPAÑA A ESCALA GLOBAL\nConduce tanques por el Sáhara. Tomad las playas de Gibraltar. Defiende Nueva York de una invasión. Únete a una patrulla de élite de raiders de la Marina que lucha sin descanso para salvar un mundo al borde del colapso.\n\nPORTAL\nRedefine las líneas de batalla. Battlefield Portal es una inmensa caja de herramientas que permite a creadores y fans llevar Battlefield al límite. Disfruta de un control sin precedentes de tu entorno moviendo, escalando y duplicando objetos. Crea un modo de juego completamente único mediante scripts de NPC y una interfaz personalizable. Hay muchas experiencias legendarias en Battlefield esperando a ser creadas. Demuestra lo que vales.\n\nEL NUEVO ESTÁNDAR DE COMBATE DE SHOOTERS\nEl nuevo sistema de combate cenestésico de Battlefield te hará sentir una mayor conexión con tu soldado y con el entorno. Gracias a las mejoras de la jugabilidad con armas y el movimiento táctico, como el esprint agachado o el arrastrar y reanimar, cada disparo y movimiento es más intuitivo y preciso.\n\nGUERRA TOTAL ICÓNICA\nDomina la tierra, el aire y el mar en una guerra total con combates de infantería y vehículos, juego en patrulla por clases y una inmersión audiovisual de vanguardia. Un lugar donde la guerra naval, los cazas de combate, los tanques, los RPG en caída libre, la artillería pesada y el combate de infantería de alta intensidad se vuelven uno. Esto es la guerra que solo se vive en Battlefield.\n\nDESTRUCCIÓN TÁCTICA\nLa destrucción es tu arma. Utiliza un vehículo como bola de demolición. Sepulta a una patrulla bajo un edificio. Destruye el entorno para obtener ventaja estratégica. Las señales audiovisuales, más reactivas y precisas que nunca, te permitirán saber exactamente cuánto queda para destruir un objeto. Domina el entorno, ayuda a tu patrulla a ganar.\n\nEste juego incluye la compra opcional en el juego de divisa virtual que se puede utilizar para adquirir artículos virtuales del juego.\n\nSujeto a condiciones y limitaciones. Consulta https://www.ea.com/games/battlefield/battlefield-6/game-disclaimers para obtener más información.\n©2026 Electronic Arts Inc. Battlefield es una marca comercial de Electronic Arts Inc.\nNingún fabricante de armas, equipamiento o vehículos militares está afiliado a este juego, ni le ha otorgado su patrocinio o respaldo.",
+      "description": "La experiencia definitiva de guerra total. Lucha en intensos combates de infantería, atraviesa los cielos en combate aéreo, destruye tu entorno y consigue una ventaja estratégica, y toma el control de todas tus decisiones y movimientos con el sistema de combate cenestésico. En una guerra de tanques, cazas y gigantescos arsenales de combate, el arma más mortífera es tu patrulla. Esto es Battlefield 6.\n\nMULTIJUGADOR\nLa victoria, tal y como tú la imagines. Battlefield 6 te brinda más opciones de victoria que nunca. Consigue la gloria en mapas masivos emblemáticos o sumérgete en un combate a corta distancia trepidante. Cambia las reglas del conflicto con el renovado y perfeccionado Battlefield Portal. Combate en escenarios icónicos de todo el globo, como El Cairo, Brooklyn, Gibraltar, Japón y otros. Más formas de disfrutar. Más rutas hacia la victoria.\n\nCAMPAÑA A ESCALA GLOBAL\nConduce tanques por el Sáhara. Tomad las playas de Gibraltar. Defiende Nueva York de una invasión. Únete a una patrulla de élite de raiders de la Marina que lucha sin descanso para salvar un mundo al borde del colapso.\n\nPORTAL\nRedefine las líneas de batalla. Battlefield Portal es una inmensa caja de herramientas que permite a creadores y fans llevar Battlefield al límite. Disfruta de un control sin precedentes de tu entorno moviendo, escalando y duplicando objetos. Crea un modo de juego completamente único mediante scripts de NPC y una interfaz personalizable. Hay muchas experiencias legendarias en Battlefield esperando a ser creadas. Demuestra lo que vales.\n\nEL NUEVO ESTÁNDAR DE COMBATE DE SHOOTERS\nEl nuevo sistema de combate cenestésico de Battlefield te hará sentir una mayor conexión con tu soldado y con el entorno. Gracias a las mejoras de la jugabilidad con armas y el movimiento táctico, como el esprint agachado o el arrastrar y reanimar, cada disparo y movimiento es más intuitivo y preciso.\n\nGUERRA TOTAL ICÓNICA\nDomina la tierra, el aire y el mar en una guerra total con combates de infantería y vehículos, juego en patrulla por clases y una inmersión audiovisual de vanguardia. Un lugar donde la guerra naval, los cazas de combate, los tanques, los RPG en caída libre, la artillería pesada y el combate de infantería de alta intensidad se vuelven uno. Esto es la guerra que solo se vive en Battlefield.\n\nDESTRUCCIÓN TÁCTICA\nLa destrucción es tu arma. Utiliza un vehículo como bola de demolición. Sepulta a una patrulla bajo un edificio. Destruye el entorno para obtener ventaja estratégica. Las señales audiovisuales, más reactivas y precisas que nunca, te permitirán saber exactamente cuánto queda para destruir un objeto. Domina el entorno, ayuda a tu patrulla a ganar.\n\nEste juego incluye la compra opcional en el juego de divisa virtual que se puede utilizar para adquirir artículos virtuales del juego.\n\nRequiere Battlefield REDSEC y todas las actualizaciones del juego. Incluye compras opcionales en el juego. Oferta por tiempo limitado. Sujeto a condiciones y limitaciones. Visita battlefield.com/disclaimers para obtener más información.\nSujeto a condiciones y limitaciones. Consulta https://www.ea.com/games/battlefield/battlefield-6/game-disclaimers para obtener más información.\n©2026 Electronic Arts Inc. Battlefield es una marca comercial de Electronic Arts Inc.\nNingún fabricante de armas, equipamiento o vehículos militares está afiliado a este juego, ni le ha otorgado su patrocinio o respaldo.",
       "shortDescription": "El shooter más vendido de 2025",
       "developer": "Battlefield Studios",
       "publisher": "Electronic Arts",
@@ -5702,8 +5799,8 @@
       "screenshots": [
         "https://store-images.s-microsoft.com/image/apps.52266.14559138935406168.28bbc47b-6ce4-45c1-abaf-5cd6481daa21.bbfbcff2-e3cb-48b1-9a60-6b0cddac4534",
         "https://store-images.s-microsoft.com/image/apps.1122.14559138935406168.40871830-a143-4187-beff-d90748b2cc2e.d6bce15f-6187-4a20-8e14-c28f357835cc",
-        "https://store-images.s-microsoft.com/image/apps.60909.14559138935406168.40871830-a143-4187-beff-d90748b2cc2e.1b45992a-0500-47ce-bcc8-4f8681ebe1c5",
-        "https://store-images.s-microsoft.com/image/apps.48513.14559138935406168.40871830-a143-4187-beff-d90748b2cc2e.cff7380e-23b5-418b-ae18-17ad88d7ae3e"
+        "https://store-images.s-microsoft.com/image/apps.65331.14559138935406168.a552728d-ea9c-4436-9368-acd4e635f067.5fe93851-3519-4f59-a3fe-628b6936d886",
+        "https://store-images.s-microsoft.com/image/apps.49602.14559138935406168.a552728d-ea9c-4436-9368-acd4e635f067.9ae7f9cb-04dd-4811-a81f-59cd3172ddbc"
       ],
       "videoUrl": "https://cdn.trailers.xboxservices.com/trailers/00000000-0000-0000-0000-000000000000/xbox/prod/videos/mainprofile/14559138935406168/9cf67a0b-676f-4095-af6d-79db32c04ec3/manifest.m3u8",
       "videoCaption": "Battlefield 6 Season 5 Las Vegas | Official Gameplay Trailer",
@@ -9201,7 +9298,7 @@
         "https://store-images.s-microsoft.com/image/apps.25609.13739535057760905.64d1d264-ebf5-48f6-a5d3-2ac9c96b636b.058954d6-e776-49ec-ac45-e8635179fd36",
         "https://store-images.s-microsoft.com/image/apps.34750.13739535057760905.64d1d264-ebf5-48f6-a5d3-2ac9c96b636b.857caa7b-4e66-4ee9-b8c4-183e8dc68437"
       ],
-      "videoUrl": "https://cdn.trailers.xboxservices.com/trailers/00000000-0000-0000-0000-000000000000/xbox/prod/videos/mainprofile/13739535057760905/c6ccd00e-da93-4b49-8f90-7776095ada18/manifest.m3u8",
+      "videoUrl": "https://cdn.trailers.xboxservices.com/trailers/00000000-0000-0000-0000-000000000000/xbox/prod/videos/mainprofile/13739535057760905/bb8dd111-77aa-4d6d-bf66-3575ebc1a537/manifest.m3u8",
       "videoCaption": "Call of Duty: Warzone - Season 1 Trailer",
       "releaseDate": "2022-11-14",
       "categories": [
@@ -16644,7 +16741,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 2.2,
-      "ratingCount": 181,
+      "ratingCount": 182,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -17261,7 +17358,7 @@
           "recommended": "4 GB"
         }
       ],
-      "maxInstallSize": 1508634624,
+      "maxInstallSize": 1509273600,
       "hasAddOns": false,
       "storeUrl": "https://www.xbox.com/es-es/games/store/echo-weaver/9N72DFC6GL91"
     },
@@ -17848,8 +17945,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 3.1,
-      "ratingCount": 7,
+      "rating": 3.4,
+      "ratingCount": 8,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -21583,179 +21680,6 @@
       "storeUrl": "https://www.xbox.com/es-es/games/store/fogpiercer/9P2PP895LSBJ"
     },
     {
-      "id": "9PD0Z90216RJ",
-      "title": "Football Manager 26",
-      "description": "YA DISPONIBLE – JUEGA HOY MISMO\nTenemos unos nuevos cimientos que sientan las bases para que definas tu destino futbolístico. Hecho con el motor Unity, FM26 es nuestra esencia de siempre, ahora redefinida y con historias que evolucionan. \nUna interfaz renovada y una experiencia de día de partido más inmersiva que te acercan más a la acción y se combinan para mejorar cada momento determinante del partido. \nTransforma tu equipo con herramientas de traspaso avanzadas y desarrolla una filosofía futbolística como nunca antes mediante nuevas innovaciones que ofrecen un realismo táctico inigualable que cambiará el juego.  \n\nCONQUISTA LA COPA MUNDIAL DE LA FIFA 2026™\nEl mayor título internacional del fútbol está a tu alcance. Explora nuevas herramientas para gestionar selecciones nacionales en la Copa Mundial de la FIFA 2026™, que ya cuenta con licencia oficial e incluye los grafismos de las retransmisiones, la imagen de marca, los balones y las equipaciones reales.\n\nLA MEJOR EXPERIENCIA DEL DÍA DEL PARTIDO \nDisfruta de la experiencia del día del partido más completa en la historia de la saga para aumentar el nivel de profundidad y tensión de cada partido con movimientos de los jugadores mejorados y más detalles en el campo.  \nSiente la adrenalina de una carrera sorteando adversarios, un milimétrico pase al hueco y un gol inolvidable para conseguir el título en el último suspiro con más personalidad gracias a la nueva captura de movimiento y las animaciones volumétricas.\n\nLA PREMIER LEAGUE SALTA A LA ACCIÓN  \nCompite en la cima del fútbol inglés ahora que la Premier League debuta con escudos de clubes, equipaciones y fotos oficiales de jugadores con licencia completa. \nLa autenticidad llega a nuevas cotas mientras tratas de alcanzar el trofeo más importante a nivel de ligas con una experiencia de transmisión completa desde el mejor asiento disponible.  \n\nINNOVACIÓN TÁCTICA AVANZADA\nEjerce un control nunca antes visto en todo el césped con la introducción de formaciones varias con y sin posesión.\nLos roles de los jugadores redefinidos y un visualizador dinámico que muestra cómo se desenvuelve tu equipo en distintas situaciones te ayudan a mejorar cada vez más tu preparación de los partidos.\n\nFÚTBOL TOTAL, CONTROL TOTAL  \nUna revolucionaria renovación de la interfaz de usuario al servicio del mánager moderno aporta claridad y fluidez a cada interacción, con el nuevo portal como vía de acceso al resto del mundo del fútbol. \nAdapta el juego a tus prioridades con los nuevos enlaces rápidos favoritos y conoce mejor el deporte rey con la herramienta de búsqueda renovada y el nuevo glosario de la FMPedia. \n\nPRESENTAMOS EL FÚTBOL FEMENINO   \nExplora un nuevo mundo de posibilidades: el fútbol femenino debuta perfectamente integrado en FM con un solo mundo futbolístico. \nCon 14 ligas disponibles de 11 países, incluidas la Women's Super League y la National Women's Soccer League, hay nuevos desafíos y talentos que descubrir en cada carrera.\n\nHERRAMIENTAS DE TRASPASO TRANSFORMADORAS\nAprovecha el potencial de TransferRoom™ para confeccionar mejor tus plantillas ganadoras una temporada tras otra.\nComunica tus prioridades de contratación mediante los requisitos y obtén información de primera mano sobre las necesidades de tus rivales con las oportunidades de propuestas, que te brindan un control más específico sobre cada fichaje y venta.\n\nTU MÁNAGER A TU MANERA\nExpresa mejor tu personalidad y estilo en cada carrera con una experiencia de creación de mánager renovada. \nPlasma tu aspecto con un creador de personaje mejorado antes de desarrollar una historia de fondo para tu carrera que sea única para ti y que tenga una influencia única a lo largo de tu vida en los banquillos.\n\nEn FM26, el fútbol es tuyo y lo ves a tu manera. Es tu momento de cambiar el juego. \n\nMicrosoft ya no es compatible con Windows 10 o versiones anteriores\n\n* Dado que la aprobación de las licencias sigue en trámite, no todas las equipaciones de los equipos de la Copa Mundial de la FIFA 2026™ estarán disponibles con el lanzamiento de la función y algunas podrían llegar en fechas posteriores.\n",
-      "shortDescription": "Toma las riendas del banquillo y vive el futuro de la gestión futbolística.",
-      "developer": "Sports Interactive",
-      "publisher": "SEGA",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.16795.14159410862978133.08a7ac44-5c17-4c0d-a8d6-c3e247e74fcb.a9467371-4bb3-44ec-b989-4ed9a79314e9",
-      "heroImage": "https://store-images.s-microsoft.com/image/apps.8539.14159410862978133.1c4f3bd5-0a15-470c-8be1-1c69266a4dc3.3d41f085-0cf7-419a-8b62-4b021e6c7527",
-      "screenshots": [
-        "https://store-images.s-microsoft.com/image/apps.11666.14159410862978133.59e5ae94-e081-4e9e-ba32-528c4218bab1.dbe653ae-d8f9-4824-a800-a302ee106598",
-        "https://store-images.s-microsoft.com/image/apps.28712.14159410862978133.59e5ae94-e081-4e9e-ba32-528c4218bab1.f04762ac-7dee-4c5c-9374-f81c78bf6b5c",
-        "https://store-images.s-microsoft.com/image/apps.41865.14159410862978133.e5129505-76e7-4ee9-b539-e34dcd1dce18.e14281bc-e032-4d2b-a366-eaabc4f5a205",
-        "https://store-images.s-microsoft.com/image/apps.44194.14159410862978133.e5129505-76e7-4ee9-b539-e34dcd1dce18.ae745fb3-9fee-4e4e-85eb-434c2e80d99f"
-      ],
-      "videoUrl": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftassets/014ae7bb-5216-46eb-8f8f-ad4a8efb89f8-AVS.m3u8?packagedStreaming=true",
-      "videoCaption": "Sizzle",
-      "releaseDate": "2025-11-04",
-      "categories": [
-        "Simulación",
-        "Deportes"
-      ],
-      "tiers": [
-        "pc",
-        "premium",
-        "ultimate"
-      ],
-      "platform": "pc",
-      "price": 59.99,
-      "msrp": 59.99,
-      "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
-      "rating": 2,
-      "ratingCount": 29,
-      "ageRating": 3,
-      "pegiRating": "PEGI 3",
-      "pegiDescription": "Apropiado a partir de 3 años",
-      "interactiveDescriptions": [
-        "Compras dentro del juego"
-      ],
-      "capabilities": [
-        "Un jugador",
-        "Multijugador multgeneración de Xbox Live",
-        "Logros de Xbox",
-        "Cosas guardadas en la nube de Xbox"
-      ],
-      "systemRequirements": [
-        {
-          "title": "SO",
-          "minimum": "Windows 10 version 18362.0 or higher",
-          "recommended": "Windows 10 version 18362.0 or higher"
-        },
-        {
-          "title": "Arquitectura",
-          "minimum": "x64",
-          "recommended": "x64"
-        },
-        {
-          "title": "Gráficos",
-          "minimum": "NVIDIA GeForce GTX 960 or AMD Radeon R9 380 or Intel HD 530",
-          "recommended": ""
-        },
-        {
-          "title": "Procesador",
-          "minimum": "Intel Core i3-530 or AMD FX-4100 ",
-          "recommended": ""
-        },
-        {
-          "title": "DirectX",
-          "minimum": "Versión 10",
-          "recommended": ""
-        },
-        {
-          "title": "Memoria",
-          "minimum": "4 GB",
-          "recommended": ""
-        }
-      ],
-      "maxInstallSize": 8149217280,
-      "hasAddOns": true,
-      "storeUrl": "https://www.xbox.com/es-es/games/store/football-manager-26/9PD0Z90216RJ"
-    },
-    {
-      "id": "9NMNZ4CK59DM",
-      "title": "Football Manager 26 Console",
-      "description": "CAMBIA EL JUEGO - JUEGA YA\nTenemos unos nuevos cimientos que sientan las bases para que le des forma a tu destino futbolístico.\nLa IU rediseñada, que ofrece un control intuitivo, se combina con la experiencia del día de partido más inmersiva de la saga para acercarte a cada momento determinante del encuentro.  \n\nCONQUISTA LA COPA MUNDIAL DE LA FIFA 2026™\nEl mayor título internacional del fútbol está a tu alcance. Explora nuevas herramientas para gestionar selecciones nacionales en la Copa Mundial de la FIFA 2026™ con licencia oficial de los grafismos de las retransmisiones, la imagen de marca, los balones y las equipaciones reales.\n\nHECHO CON UNITY\nDisfruta de la experiencia del día del partido más completa de la historia de la saga con mejores gráficos y más detalles en el campo, desde la iluminación hasta las cinemáticas y los estadios, que aumentan el nivel de profundidad y tensión.\nCada ataque tiene más personalidad gracias a la nueva captura de movimiento y las animaciones volumétricas, y los nuevos atajos del mando entre los mejores momentos te permiten retocar más detalles desde la banda. \n\nTE DAMOS LA BIENVENIDA A LA PREMIER LEAGUE \nSumérgete en la liga de fútbol más vista con la licencia completa de la Premier League por primera vez.\nLa autenticidad llega a nuevas cotas mientras tratas de alcanzar el trofeo más importante a nivel de ligas con una experiencia de transmisión completa desde el mejor asiento disponible.  \n\nINNOVACIÓN TÁCTICA AVANZADA\nExplora tácticas futbolísticas de vanguardia con la introducción de formaciones con y sin posesión. \nLos roles de los jugadores redefinidos y las nuevas herramientas que muestran cómo se adapta tu equipo en cada fase del juego te ayudan a mejorar tu preparación de los partidos.\n\nMÁS CERCA DE LA ACCIÓN  \nNuestra interfaz rediseñada ofrece una navegación más fluida e intuitiva. Planifica los partidos a tu ritmo gracias al nuevo portal, que es lo que te conecta con el mundo futbolístico y te proporciona información donde y cuando la necesites.  \n\nPRESENTAMOS EL FÚTBOL FEMENINO   \nRompe barreras con el debut del fútbol femenino, que se integra perfectamente en FM26 como un solo mundo futbolístico.\nExplora nuevos horizontes con 14 ligas disponibles de 11 países, incluidas algunas de las más importantes como la WSL y la NWSL, y descubre nuevas estrellas con la mayor base de datos de fútbol femenino del mundo de los videojuegos. \n\nHERRAMIENTAS DE TRASPASO TRANSFORMADORAS\nAprovecha el potencial de TransferRoom™, un mercado de fichajes en línea del fútbol profesional, para crear tus plantillas ganadoras con más perspectiva aún.\nFicha y vende a jugadores con más facilidad gracias a la implementación de los requisitos y las oportunidades, que te brindan un control más específico en cada mercado.\n\nTU MÁNAGER A TU MANERA\nExpresa mejor tu personalidad y estilo en cada carrera con un creador de mánager renovado. \nPlasma tu aspecto con opciones de personaje mejoradas antes de desarrollar una historia de fondo para tu carrera que sea única para ti y tu vida en el banquillo.\n\nEn FM26 Console, el fútbol es tuyo y lo ves a tu manera. Es el momento de cambiar el juego.\n\n* Dado que la aprobación de las licencias sigue en trámite, no todas las equipaciones de los equipos de la Copa Mundial de la FIFA 2026™ estarán disponibles con el lanzamiento de la función y algunas podrían llegar en fechas posteriores.\n",
-      "shortDescription": "Toma las riendas del banquillo y vive el futuro de la gestión futbolística.",
-      "developer": "Sports Interactive",
-      "publisher": "SEGA",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.63033.13754609462095808.6e939a74-099e-490d-b009-02e7105155bd.6e09f097-e938-4a50-85b4-6e14b4800029",
-      "heroImage": "https://store-images.s-microsoft.com/image/apps.18485.13754609462095808.6e939a74-099e-490d-b009-02e7105155bd.57af7efd-c236-4f6c-ad75-9181b7718799",
-      "screenshots": [
-        "https://store-images.s-microsoft.com/image/apps.64734.13754609462095808.39c57bee-fcbb-4811-982c-c79eb7825846.fd74ae2b-4761-47f3-a2bb-78029bfeb6dc",
-        "https://store-images.s-microsoft.com/image/apps.37643.13754609462095808.39c57bee-fcbb-4811-982c-c79eb7825846.78240c2f-6fd4-47ef-bb6a-d854b7b3ce29",
-        "https://store-images.s-microsoft.com/image/apps.37246.13754609462095808.39c57bee-fcbb-4811-982c-c79eb7825846.8378ad77-67fd-4767-b3a8-49e71348b4f1",
-        "https://store-images.s-microsoft.com/image/apps.6859.13754609462095808.39c57bee-fcbb-4811-982c-c79eb7825846.37938d1f-2863-489c-83f5-b4453a3f2df8"
-      ],
-      "videoUrl": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftassets/0f663512-8400-496a-8309-538d2b1747b4-AVS.m3u8?packagedStreaming=true",
-      "videoCaption": "Trailer",
-      "releaseDate": "2025-11-04",
-      "categories": [
-        "Simulación",
-        "Deportes"
-      ],
-      "tiers": [
-        "pc",
-        "premium",
-        "ultimate"
-      ],
-      "platform": "both",
-      "price": 59.99,
-      "msrp": 59.99,
-      "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
-      "rating": 1.6,
-      "ratingCount": 39,
-      "ageRating": 3,
-      "pegiRating": "PEGI 3",
-      "pegiDescription": "Apropiado a partir de 3 años",
-      "interactiveDescriptions": [
-        "Compras dentro del juego"
-      ],
-      "capabilities": [
-        "Multijugador en línea  (2-32)",
-        "Multijugador multiplataforma de Xbox",
-        "4K Ultra HD",
-        "Un jugador",
-        "Multijugador multgeneración de Xbox Live",
-        "60 fps +",
-        "Optimizado para Xbox Series X|S",
-        "Entrega inteligente",
-        "Logros de Xbox",
-        "Cosas guardadas en la nube de Xbox",
-        "Xbox Play Anywhere"
-      ],
-      "systemRequirements": [
-        {
-          "title": "SO",
-          "minimum": "Windows 10 version 18362.0 or higher",
-          "recommended": "Windows 10 version 18362.0 or higher"
-        },
-        {
-          "title": "Arquitectura",
-          "minimum": "x64",
-          "recommended": "x64"
-        },
-        {
-          "title": "Gráficos",
-          "minimum": "NVIDIA GeForce GTX 960 or AMD Radeon R9 380 or Intel HD 530",
-          "recommended": ""
-        },
-        {
-          "title": "Procesador",
-          "minimum": "Intel Core i3-530 or AMD FX-4100 ",
-          "recommended": ""
-        },
-        {
-          "title": "DirectX",
-          "minimum": "Versión 10",
-          "recommended": ""
-        },
-        {
-          "title": "Memoria",
-          "minimum": "4 GB",
-          "recommended": ""
-        }
-      ],
-      "maxInstallSize": 6801141760,
-      "hasAddOns": true,
-      "storeUrl": "https://www.xbox.com/es-es/games/store/football-manager-26-console/9NMNZ4CK59DM"
-    },
-    {
       "id": "9N4NKMXDZCX6",
       "title": "Football Manager 27",
       "description": "Cada fan del fútbol ve las cosas de una manera. En FM27 esa visión no es una opinión, sino una realidad. \n\nSumérgete en un universo que vive y respira fútbol y en el que todas las decisiones dependen de ti. \n\nElige tu equipo, define tu estilo y fíjate en lo que a otros mánager se les puede haber escapado; quizá encuentres a una joven promesa de la cantera o puedas vender a una estrella que no se adapte a tu filosofía. \n\nEntrena a tu equipo en bloque, desarrolla una visión táctica genuina y haz que tu equipo levante pasiones en las gradas desde el banquillo. \n\nEl día del partido, reacciona a todo lo que proponga el rival, supera su presión, llega al área y dalo todo por el gol. \n\nLa historia del fútbol no se escribe sola. \n\nCualquier decisión puede ser la que lo cambie todo, así que busca ese futuro que solo tú puedes ver. \nPase lo que pase, te acordarás de las decisiones que te han llevado hasta donde estás. \n\nFootball Manager 27: tú decides. \n\n \n\nNovedades de FM27. \n\nDisfruta de la renovación de la formación de la plantilla con la nueva efectividad táctica que mide los recursos con los que cuentan tus jugadores para plasmar tu visión futbolística, y las mejoras del entrenamiento te permiten centrarte aún más en el desarrollo tanto individual como del equipo. \n\nAprovecha los huecos que deje la defensa rival con los retoques tácticos para ejercer más peso desde la banda. \n\nVive cada encuentro como si fuera una obra de teatro futbolístico más profunda gracias a las mejoras del público, los estadios y el ambiente, que le dan más emoción al juego. \n\nSienta a los defensas gracias a una mayor precisión y personalidad ofensiva, ya que el talento y la calidad individual tienen más protagonismo para que sea más gratificante ver cómo cobra vida en el campo tu planteamiento táctico. \n\nExplora el universo futbolístico que hay más allá de tu club con la vuelta de los sorteos de copas y el último día de fichajes, que imitan el ritmo y la emoción del calendario real. \n\nPasa de la rutina a la gloria gracias a una interfaz intuitiva que da prioridad a las decisiones clave. Eso sí, eres tú quien ejecuta tu visión, y puedes adaptar mejor la configuración a tu estilo de gestión con las opciones de personalización. \n\nY hay mucho más, como las nuevas ligas con licencia completa, las mejoras de la vista 2D del partido, más datos para tomar mejores decisiones y más de 1500 actualizaciones de torneos.",
@@ -21772,7 +21696,7 @@
       ],
       "videoUrl": "https://cdn.trailers.xboxservices.com/trailers/00000000-0000-0000-0000-000000000000/xbox/prod/videos/mainprofile/13984136076613493/de34dc42-9ef4-44e0-8d23-013f0ff4352c/manifest.m3u8",
       "videoCaption": "Training and Tactical Effectiveness",
-      "releaseDate": "",
+      "releaseDate": "2026-11-10",
       "categories": [
         "Simulación",
         "Deportes"
@@ -21782,13 +21706,13 @@
         "ultimate"
       ],
       "platform": "pc",
-      "price": 0,
-      "msrp": 0,
+      "price": 59.99,
+      "msrp": 59.99,
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 0,
-      "ratingCount": 0,
+      "rating": 5,
+      "ratingCount": 1,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -21836,6 +21760,94 @@
       "maxInstallSize": 8765173760,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/football-manager-27/9N4NKMXDZCX6"
+    },
+    {
+      "id": "9N5DDTDLTWCL",
+      "title": "Football Manager 27 Console",
+      "description": "Cada fan del fútbol ve las cosas de una manera. En FM27 esa visión no es una opinión, sino una realidad.\n\nElige tu equipo, define tu estilo y fíjate en lo que a otros mánager se les puede haber escapado; quizá necesites a un defensa que saque la bola jugada o se te lesione el delantero estrella.\n\nHazte con el talento que necesitas para optar al título y entrena a tu equipo en bloque.\n\nTrabaja en la creación de juego, pule el bloque defensivo y céntrate en el próximo objetivo.\n\nDía del partido\n\nReacciona a todo lo que proponga el rival, supera la presión, llega al área y dalo todo por el gol; cualquier decisión puede ser la que lo cambie todo.\n\nAsí que busca ese futuro que solo tú puedes ver: pase lo que pase, te acordarás de las decisiones que te han llevado adonde estás.\n\nFM27 Console: tú decides\n\nNovedades de FM27 Console:\n- Sumérgete en tu viaje como mánager con unos diseños renovados que aprovechan el espacio al máximo y dan prioridad a las grandes decisiones.\n- La personalización de los mandos te da más control para que puedas adaptarlo todo a tu planteamiento.\n- Encuentra a ese mediapunta que te hace falta con un sistema de fichajes más inteligente y atiende a las reacciones en directo, que te dan información más útil para cerrar acuerdos durante las negociaciones.\n- La nueva preparación del partido mejora la forma de preparar los entrenamientos de cara a encuentros importantes. Ya puedes fijar tus prioridades directamente desde el buzón, ya sea una clase magistral sin posesión o trabajar la definición en el último tercio de cara a un partido decisivo.\n- Haz frente a todo lo que te depare el día de partido con los nuevos retoques tácticos que otorgan más peso desde la banda.\n- Vive cada encuentro como si fuera una obra de teatro futbolístico más profunda gracias a las mejoras del público, los estadios y el ambiente del día de partido, que le dan más emoción al juego.\n\n\n* Esta versión contiene información que aún está en proceso de aprobación por parte de los titulares de los derechos y puede incluir datos que, en este momento, no reflejen fielmente los del mundo real. Para contextualizar, es posible que falten algunos clubes y jugadores en esta versión.",
+      "shortDescription": "Elige tu club, fija las tácticas, despliega tu plantilla. Tú decides.",
+      "developer": "Sports Interactive",
+      "publisher": "SEGA",
+      "imageUrl": "https://store-images.s-microsoft.com/image/apps.33382.14035709193149319.c0b48782-5397-43ae-95b7-be2ecd468b49.f531ab0a-2ff2-42b3-9b12-e108b709763d",
+      "heroImage": "https://store-images.s-microsoft.com/image/apps.40834.14035709193149319.c0b48782-5397-43ae-95b7-be2ecd468b49.f730b60c-825f-463d-a8cf-4d27f2813928",
+      "screenshots": [
+        "https://store-images.s-microsoft.com/image/apps.42027.14035709193149319.c0b48782-5397-43ae-95b7-be2ecd468b49.59b3a127-d0c1-4c29-8b2c-b370c676a774",
+        "https://store-images.s-microsoft.com/image/apps.28544.14035709193149319.c0b48782-5397-43ae-95b7-be2ecd468b49.3257de75-ad62-43f7-b33d-8758104adbb3",
+        "https://store-images.s-microsoft.com/image/apps.28719.14035709193149319.c0b48782-5397-43ae-95b7-be2ecd468b49.d8093f7c-0611-419b-9ef8-74beb6d24466",
+        "https://store-images.s-microsoft.com/image/apps.17490.14035709193149319.c0b48782-5397-43ae-95b7-be2ecd468b49.3d8c7d57-5bfe-490f-ad3d-78d00b916d4c"
+      ],
+      "videoUrl": "https://cdn.trailers.xboxservices.com/trailers/00000000-0000-0000-0000-000000000000/xbox/prod/videos/mainprofile/14035709193149319/6ee412e6-f833-41d0-90a8-30cd7e89270c/manifest.m3u8",
+      "videoCaption": "Trailer",
+      "releaseDate": "2026-11-10",
+      "categories": [
+        "Simulación",
+        "Deportes"
+      ],
+      "tiers": [
+        "pc",
+        "ultimate"
+      ],
+      "platform": "both",
+      "price": 59.99,
+      "msrp": 59.99,
+      "currency": "EUR",
+      "hasDiscount": false,
+      "discountPercent": 0,
+      "rating": 4,
+      "ratingCount": 1,
+      "ageRating": 3,
+      "pegiRating": "PEGI 3",
+      "pegiDescription": "Apropiado a partir de 3 años",
+      "interactiveDescriptions": [
+        "Compras dentro del juego"
+      ],
+      "capabilities": [
+        "Multijugador en línea  (2-32)",
+        "Multijugador multiplataforma de Xbox",
+        "4K Ultra HD",
+        "Un jugador",
+        "Multijugador multgeneración de Xbox Live",
+        "60 fps +",
+        "Optimizado para Xbox Series X|S",
+        "Logros de Xbox",
+        "Cosas guardadas en la nube de Xbox",
+        "Xbox Play Anywhere"
+      ],
+      "systemRequirements": [
+        {
+          "title": "SO",
+          "minimum": "Windows 10 version 18362.0 or higher",
+          "recommended": "Windows 10 version 18362.0 or higher"
+        },
+        {
+          "title": "Arquitectura",
+          "minimum": "x64",
+          "recommended": "x64"
+        },
+        {
+          "title": "Gráficos",
+          "minimum": "NVIDIA GeForce GTX 960 or AMD Radeon R9 380 or Intel HD 530",
+          "recommended": ""
+        },
+        {
+          "title": "Procesador",
+          "minimum": "Intel Core i3-530 or AMD FX-4100 ",
+          "recommended": ""
+        },
+        {
+          "title": "DirectX",
+          "minimum": "Versión 10",
+          "recommended": ""
+        },
+        {
+          "title": "Memoria",
+          "minimum": "4 GB",
+          "recommended": ""
+        }
+      ],
+      "maxInstallSize": 7680499712,
+      "hasAddOns": true,
+      "storeUrl": "https://www.xbox.com/es-es/games/store/football-manager-27-console/9N5DDTDLTWCL"
     },
     {
       "id": "9N3DWR830CVN",
@@ -22247,8 +22259,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 3.7,
-      "ratingCount": 4582,
+      "rating": 3.8,
+      "ratingCount": 4588,
       "ageRating": 12,
       "pegiRating": "Supervisión parental recomendada",
       "pegiDescription": "Supervisión parental recomendada",
@@ -23367,7 +23379,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.4,
-      "ratingCount": 460,
+      "ratingCount": 465,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -24681,8 +24693,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 3.6,
-      "ratingCount": 9,
+      "rating": 3.7,
+      "ratingCount": 10,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -24760,7 +24772,7 @@
           "recommended": "Micrófono integrado"
         }
       ],
-      "maxInstallSize": 6931378176,
+      "maxInstallSize": 6931623936,
       "hasAddOns": false,
       "storeUrl": "https://www.xbox.com/es-es/games/store/gravhounds-versi-n-preliminar-del-juego/9PBG4MTM3JJC"
     },
@@ -31473,7 +31485,7 @@
           "recommended": "4 GB"
         }
       ],
-      "maxInstallSize": 964702208,
+      "maxInstallSize": 1091854336,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/marvel-cosmic-invasion/9N79TQTZTQQ4"
     },
@@ -31652,7 +31664,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.8,
-      "ratingCount": 163,
+      "ratingCount": 164,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -32730,7 +32742,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.7,
-      "ratingCount": 11356,
+      "ratingCount": 11357,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -32792,7 +32804,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.7,
-      "ratingCount": 51969,
+      "ratingCount": 51977,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -32836,6 +32848,62 @@
       "maxInstallSize": 82104320,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/microsoft-solitaire-collection/9WZDNCRFHWD2"
+    },
+    {
+      "id": "9WZDNCRFHV60",
+      "title": "Microsoft Sudoku",
+      "description": "¡Microsoft Sudoku le da una perspectiva totalmente nueva el juego clásico que tanto te gusta! El juego de rompecabezas número uno es todavía mejor gracias a sus colores nuevos, funciones nuevas increíbles, niveles de dificultad nuevos, desafíos diarios, logros y MÁS. ¡Mantén la mente en forma con cientos de puzles perfectos para que jugadores de todas las edades ejerciten el cerebro!\r\n\r\nFormas nuevas de jugar\r\nResuelve rompecabezas clásicos y ajusta lo desafiantes que son eligiendo entre seis (6) niveles de dificultad. Juega a tu ritmo y disfruta de rompecabezas siempre nuevos que te ofrecen un sinfín de partidas de Sudoku.\r\n\r\nPara más diversión, elige entre cuatro (4) temas diferentes, entre los que se incluye la posibilidad de jugar con símbolos en vez de con números. ¡Puede que no vuelvas a jugar de la manera clásica! \r\n\r\nNuevas funciones de las que disfrutar\r\n¿Buscas un cambio? ¡Prueba el modo irregular! Las reglas son las mismas, pero cada bloque de números se presenta con formas divertidas y coloridas. \r\n\r\nY, por si todo esto no fuera suficiente, puedes poner a prueba tu habilidad con los desafíos diarios nuevos. Enfréntate cada día a tres (3) rompecabezas únicos para conseguir monedas y ganar emblemas en los modos clásico, irregular y rompehielos, un modo donde desatarás una onda expansiva por todo el tablero con la que romperás el hielo cada vez que coloques los números o símbolos correctos.\r\n",
+      "shortDescription": "¡Microsoft Sudoku es todavía más brillante! Puede que no vuelvas a jugar a la manera clásica gracias a los niveles de dificultad NUEVOS, los CUATRO (4) temas que tienes para elegir, los desafíos DIARIOS y los modos de juego irregular y rompehielos, ¡ambos TOTALMENTE NUEVOS! Mantén la mente en forma con cientos de puzles de colores vivos y DIVERTIDOS. ¡Son perfectos para ejercitar el cerebro! ¡Juega a tu ritmo o intenta convertirte en GRAN MAESTRO hoy mismo!",
+      "developer": "",
+      "publisher": "Xbox Game Studios",
+      "imageUrl": "https://store-images.s-microsoft.com/image/apps.33703.9007199266248115.9cbeff43-bb4e-48be-abec-06ddec39f69e.c5690b38-509d-45a5-b5a3-0bdf1d0e74ec",
+      "heroImage": "https://store-images.s-microsoft.com/image/apps.13501.9007199266248115.9cbeff43-bb4e-48be-abec-06ddec39f69e.c39d5670-2879-4097-a569-bddff46d2389",
+      "screenshots": [
+        "https://store-images.s-microsoft.com/image/apps.19446.9007199266248115.9cbeff43-bb4e-48be-abec-06ddec39f69e.6b6aa569-4a9f-4bbf-9ae7-f9bb0a7b28b0",
+        "https://store-images.s-microsoft.com/image/apps.5760.9007199266248115.9cbeff43-bb4e-48be-abec-06ddec39f69e.bf31b141-262f-4b2c-8944-969743eca4ab",
+        "https://store-images.s-microsoft.com/image/apps.20346.9007199266248115.9cbeff43-bb4e-48be-abec-06ddec39f69e.28aae37b-655f-435f-9900-239d12cc10a4",
+        "https://store-images.s-microsoft.com/image/apps.62386.9007199266248115.9cbeff43-bb4e-48be-abec-06ddec39f69e.2bd19678-6fd5-4475-bb6f-28ec0b8f9516"
+      ],
+      "videoUrl": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftassets/d48a3ff0-f07d-415e-a366-631010ea0d6e-AVS.m3u8?packagedStreaming=true",
+      "videoCaption": "Microsoft Sudoku",
+      "releaseDate": "2014-03-06",
+      "categories": [
+        "Puzles y curiosidades"
+      ],
+      "tiers": [
+        "essential",
+        "pc",
+        "premium",
+        "ultimate"
+      ],
+      "platform": "pc",
+      "price": 0,
+      "msrp": 0,
+      "currency": "EUR",
+      "hasDiscount": false,
+      "discountPercent": 0,
+      "rating": 4.5,
+      "ratingCount": 5339,
+      "ageRating": 3,
+      "pegiRating": "PEGI 3",
+      "pegiDescription": "Apropiado a partir de 3 años",
+      "interactiveDescriptions": [],
+      "capabilities": [],
+      "systemRequirements": [
+        {
+          "title": "SO",
+          "minimum": "Windows 10 version 19041.0 or higher",
+          "recommended": "Windows 10 version 19041.0 or higher"
+        },
+        {
+          "title": "Arquitectura",
+          "minimum": "x64, x86",
+          "recommended": "x64, x86"
+        }
+      ],
+      "maxInstallSize": 219029504,
+      "hasAddOns": true,
+      "storeUrl": "https://www.xbox.com/es-es/games/store/microsoft-sudoku/9WZDNCRFHV60"
     },
     {
       "id": "9MVXMVT8ZKWC",
@@ -32901,7 +32969,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 2308943872,
+      "maxInstallSize": 2308988928,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/minecraft/9MVXMVT8ZKWC"
     },
@@ -33002,7 +33070,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.1,
-      "ratingCount": 31,
+      "ratingCount": 32,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -33255,7 +33323,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4,
-      "ratingCount": 16037,
+      "ratingCount": 16038,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -33450,7 +33518,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.5,
-      "ratingCount": 61744,
+      "ratingCount": 61745,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -33746,11 +33814,11 @@
         "ultimate"
       ],
       "platform": "both",
-      "price": 24.99,
+      "price": 19.99,
       "msrp": 24.99,
       "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
+      "hasDiscount": true,
+      "discountPercent": 20,
       "rating": 2.8,
       "ratingCount": 71,
       "ageRating": 16,
@@ -33828,7 +33896,7 @@
           "recommended": "Micrófono integrado"
         }
       ],
-      "maxInstallSize": 38193770496,
+      "maxInstallSize": 44871008256,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/mistfall-hunter/9P8X6TVW9ZW8"
     },
@@ -36531,13 +36599,13 @@
         "ultimate"
       ],
       "platform": "both",
-      "price": 19.99,
+      "price": 49.99,
       "msrp": 49.99,
       "currency": "EUR",
-      "hasDiscount": true,
-      "discountPercent": 60,
+      "hasDiscount": false,
+      "discountPercent": 0,
       "rating": 3.9,
-      "ratingCount": 780,
+      "ratingCount": 779,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -36933,7 +37001,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.8,
-      "ratingCount": 391,
+      "ratingCount": 392,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -42262,7 +42330,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.5,
-      "ratingCount": 348,
+      "ratingCount": 349,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -43591,7 +43659,7 @@
           "recommended": "Micrófono integrado"
         }
       ],
-      "maxInstallSize": 3390074880,
+      "maxInstallSize": 3390054400,
       "hasAddOns": false,
       "storeUrl": "https://www.xbox.com/es-es/games/store/rv-there-yet/9MW79BJVF3QX"
     },
@@ -45526,7 +45594,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.3,
-      "ratingCount": 534,
+      "ratingCount": 535,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -48598,7 +48666,7 @@
           "recommended": "4 GB"
         }
       ],
-      "maxInstallSize": 1467265024,
+      "maxInstallSize": 1465982976,
       "hasAddOns": false,
       "storeUrl": "https://www.xbox.com/es-es/games/store/tanuki-pon-s-summer/9NRBW3FJSJWT"
     },
@@ -49117,8 +49185,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 2.6,
-      "ratingCount": 26,
+      "rating": 2.7,
+      "ratingCount": 27,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -50063,7 +50131,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 5,
-      "ratingCount": 2,
+      "ratingCount": 3,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -50531,11 +50599,11 @@
         "ultimate"
       ],
       "platform": "console",
-      "price": 39.99,
+      "price": 7.99,
       "msrp": 39.99,
       "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
+      "hasDiscount": true,
+      "discountPercent": 80,
       "rating": 4.5,
       "ratingCount": 425,
       "ageRating": 18,
@@ -50592,11 +50660,11 @@
         "ultimate"
       ],
       "platform": "pc",
-      "price": 39.99,
+      "price": 7.99,
       "msrp": 39.99,
       "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
+      "hasDiscount": true,
+      "discountPercent": 80,
       "rating": 2.4,
       "ratingCount": 287,
       "ageRating": 18,
@@ -50746,7 +50814,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 2.7,
-      "ratingCount": 46,
+      "ratingCount": 47,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -51064,7 +51132,7 @@
           "recommended": "Controladora de Xbox"
         }
       ],
-      "maxInstallSize": 86788222976,
+      "maxInstallSize": 89184899072,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/the-finals/9PGD71CMDS0Z"
     },
@@ -52027,7 +52095,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 2,
-      "ratingCount": 33,
+      "ratingCount": 35,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -52737,6 +52805,68 @@
       "storeUrl": "https://www.xbox.com/es-es/games/store/thehunter-call-of-the-wild/9NQV7C0G1040"
     },
     {
+      "id": "9NWWL1CBWFCG",
+      "title": "Thronefall",
+      "description": "Thronefall es un juego de estrategia minimalista en el que construyes un humilde reino de día y lo defiendes de noche. Equilibra economía y defensa fortificando murallas, reclutando tropas y cargando en persona a la batalla para proteger tu bastión ante incesantes oleadas de atacantes.\n\nPerfecto para sesiones rápidas o maratones de fortificación, sumérgete en un nuevo giro del género «tower defense» simplificado y de una rejugabilidad infinita.\n\nESTRATEGIA MINIMALISTA\n• 10 mapas. Desde las montañas de Nordfels hasta el vibrante Wildbach, progresa por una serie de mapas con distintos terrenos, meteorología, enemigos, edificios y desafíos.\n• 9 armas desbloqueables. En tu rol de rey guerrero, toma un arma para llevar al combate, desde el hacha de batalla hasta la varita de sangre.\n• Más de 50 ventajas desbloqueables. Elige hasta 5 ventajas que ofrecen ciertos beneficios, y modificadores opcionales para aumentar la dificultad.\n\nCONSTRUYE DE DÍA\n• Protege tu reino con murallas, barricadas, santuarios y torres.\n• Expande tu economía con casas, puentes, minas de oro, puertos, molinos y campos. Estos edificios te proporcionan oro cada mañana... si sobreviven.\n• Investiga mejoras con el centro del castillo, el herrero y la forja real.\n• Desarrolla tu ejército con cuarteles, campos de tiro con arco y cuarteles de héroes. Tus tropas incluyen caballeros, berserkers, ballesteros, arqueros de fuego y héroes especiales como gólems y magos.\n\nDEFIÉNDETE DE NOCHE\n• Cuando cae la noche, una sucesión de enemigos cada vez más poderosos amenaza con arrasar tu reino. El sol solo saldrá cuando hayan muerto.\n• Desde caballeros de barril de madera y magos voladores hasta ogros, babazas, avispas y catapultas, estas tierras están repletas de peligros.\n• Si el centro de tu castillo es destruido, pierdes.\n• Como rey que eres, lidera la vanguardia y defiende tu pequeño reino hasta que veas salir el sol.",
+      "shortDescription": "Un juego minimalista sobre construir y defender tu pequeño reino.",
+      "developer": "Mythwright",
+      "publisher": "Mythwright",
+      "imageUrl": "https://store-images.s-microsoft.com/image/apps.6680.14441309410256211.99377474-23f3-49c1-b8b5-99ac2efbc206.679c84e1-8453-4a86-a0d9-73938d5be9ad",
+      "heroImage": "https://store-images.s-microsoft.com/image/apps.47116.14441309410256211.99377474-23f3-49c1-b8b5-99ac2efbc206.b2125385-2f7f-49e9-b0df-052f8af509ec",
+      "screenshots": [
+        "https://store-images.s-microsoft.com/image/apps.51347.14441309410256211.99377474-23f3-49c1-b8b5-99ac2efbc206.e5be3f0a-bb34-4f51-978b-e5f2620d0bcd",
+        "https://store-images.s-microsoft.com/image/apps.18930.14441309410256211.99377474-23f3-49c1-b8b5-99ac2efbc206.d7b467aa-ec81-4b03-ba0b-f3a24857ef1e",
+        "https://store-images.s-microsoft.com/image/apps.29870.14441309410256211.99377474-23f3-49c1-b8b5-99ac2efbc206.dfe02f54-5118-4495-903b-27d1547819d2",
+        "https://store-images.s-microsoft.com/image/apps.28870.14441309410256211.99377474-23f3-49c1-b8b5-99ac2efbc206.a481b3cd-13fc-4a5d-a18d-d54f745bd0ca"
+      ],
+      "videoUrl": "https://cdn.trailers.xboxservices.com/trailers/00000000-0000-0000-0000-000000000000/xbox/prod/videos/mainprofile/14441309410256211/8ce88b3a-017a-4d2c-8b0a-b1e125d91d37/manifest.m3u8",
+      "videoCaption": "Thronefall - Launch trailer",
+      "releaseDate": "2026-11-11",
+      "categories": [
+        "Estrategia"
+      ],
+      "tiers": [
+        "pc",
+        "premium",
+        "ultimate"
+      ],
+      "platform": "both",
+      "price": 10.39,
+      "msrp": 12.99,
+      "currency": "EUR",
+      "hasDiscount": true,
+      "discountPercent": 20,
+      "rating": 0,
+      "ratingCount": 0,
+      "ageRating": 7,
+      "pegiRating": "PEGI 7",
+      "pegiDescription": "Apropiado a partir de 7 años",
+      "interactiveDescriptions": [],
+      "capabilities": [
+        "4K Ultra HD",
+        "Un jugador",
+        "Optimizado para Xbox Series X|S",
+        "Logros de Xbox",
+        "Cosas guardadas en la nube de Xbox",
+        "Xbox Play Anywhere"
+      ],
+      "systemRequirements": [
+        {
+          "title": "SO",
+          "minimum": "Windows 10 version 18362.0 or higher",
+          "recommended": "Windows 10 version 18362.0 or higher"
+        },
+        {
+          "title": "Arquitectura",
+          "minimum": "x64",
+          "recommended": "x64"
+        }
+      ],
+      "maxInstallSize": 1865400320,
+      "hasAddOns": true,
+      "storeUrl": "https://www.xbox.com/es-es/games/store/thronefall/9NWWL1CBWFCG"
+    },
+    {
       "id": "9ND19JDMBS3R",
       "title": "Tiny Bookshop",
       "description": "Deja todo atrás y abre una pequeña librería junto al mar en este relajante juego de gestión con historia.\n\nLlena tu minilibrería con diferentes libros de segunda mano y artículos, instálate en lugares pintorescos y gestiona tu acogedor puesto mientras conoces a tus vecinos.\n\nDecora tu minilibrería con los objetos que consigas. ¡Puedes cubrirla enteramente de plantas, o iluminarla con velas para darle un toque terrorífico! Además, los objetos tienen efectos en tus clientes y pueden introducir mecánicas nuevas.\n\nRecomienda el libro correcto a la persona indicada, ¡o haz que expanda sus horizontes literarios! A veces lo único que necesitan es que les eches una mano para encontrar el libro que les enamore.\n\nForja amistades con el peculiar elenco de personajes de Literia y ¡ayudaos mutuamente! Son encantadores, ya verás. :)\n\nLlena las estanterías con libros de diferentes géneros para que se ajusten al gusto literario de la gente del pueblo y observa como tu librería se llena de vida. Cada zona del pueblo atrae a un público diferente, así que haz lo que sea por conocer a la gente y ¡vende libros como nadie!\n\n\n\n\n\n\n\n\n\n\n\nExplora las características ubicaciones del precioso pueblo de Literia del Mar y desentraña sus misterios. Descubre su extensa historia, como qué ocurrió con la villa de Literia y quién era San Literato.\n\n\n\n\n\n\n\nDescubre secretos, consigue objetos y amplia tu colección de sellos mientras exploras todos los recovecos de Literia. ¡Te sorprendería lo que te puedes encontrar!",
@@ -52966,7 +53096,7 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 3.1,
+      "rating": 3.2,
       "ratingCount": 208,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
@@ -53273,7 +53403,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 55499874304,
+      "maxInstallSize": 55486103552,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/tom-clancy-s-rainbow-six-siege-elite-edition/9PB3RHWXB9MR"
     },
@@ -55695,7 +55825,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.9,
-      "ratingCount": 74,
+      "ratingCount": 75,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -55807,7 +55937,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 50822008832,
+      "maxInstallSize": 50892525568,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/valorant/9N1NLJK9SKRN"
     },
@@ -56700,8 +56830,8 @@
       "shortDescription": "War Thunder es el juego MMO militar gratis más amplio en plataforma cruzada, dedicado a la aviación, los vehículos acorazados, y las flotas desde la segunda guerra mundial hasta la Guera Fría. Aviones, fuerzas de tierra y buques de guerra luchan juntos en una batalla, exactamente como en la realidad.",
       "developer": "Gaijin Distribution Kft",
       "publisher": "Gaijin Distribution Kft",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.30829.63381296256995371.9e10cdbd-1881-4099-9f20-0b0885c216a7.cea534d7-08cd-4f3f-9bed-765c2c2534cc",
-      "heroImage": "https://store-images.s-microsoft.com/image/apps.807.63381296256995371.9e10cdbd-1881-4099-9f20-0b0885c216a7.7d58f477-d384-4f9a-b610-cabcee88978e",
+      "imageUrl": "https://store-images.s-microsoft.com/image/apps.31569.63381296256995371.63fd92c7-ca2f-4730-a89d-ce2b9c6e5a2b.74335df6-275b-4eab-9f85-3553275f2c77",
+      "heroImage": "https://store-images.s-microsoft.com/image/apps.15726.63381296256995371.63fd92c7-ca2f-4730-a89d-ce2b9c6e5a2b.e6af7dbb-a869-47ed-b468-99ca8f2b748f",
       "screenshots": [
         "https://store-images.s-microsoft.com/image/apps.21158.63381296256995371.ed1652c7-0f47-42ce-88ea-dbc046356ae3.a29030e1-52e2-4d84-bc9a-967207693cb2",
         "https://store-images.s-microsoft.com/image/apps.15815.63381296256995371.ed1652c7-0f47-42ce-88ea-dbc046356ae3.f5482674-5635-43f9-8177-e9c5b2503acf",
@@ -56800,7 +56930,7 @@
           "recommended": "Mouse integrado"
         }
       ],
-      "maxInstallSize": 79019831296,
+      "maxInstallSize": 81256169472,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/war-thunder/BX1DTCBD1HXJ"
     },
@@ -57357,8 +57487,8 @@
       "currency": "EUR",
       "hasDiscount": true,
       "discountPercent": 10,
-      "rating": 0,
-      "ratingCount": 0,
+      "rating": 3.4,
+      "ratingCount": 7,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -58209,7 +58339,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.9,
-      "ratingCount": 142,
+      "ratingCount": 143,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -60248,8 +60378,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 4.5,
-      "ratingCount": 95,
+      "rating": 4.4,
+      "ratingCount": 96,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -60591,7 +60721,7 @@
           "recommended": "Controladora de Xbox"
         }
       ],
-      "maxInstallSize": 131788410880,
+      "maxInstallSize": 136296185856,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/wuthering-waves/9P41GS5W1C6L"
     },
@@ -60734,7 +60864,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4,
-      "ratingCount": 86,
+      "ratingCount": 87,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
