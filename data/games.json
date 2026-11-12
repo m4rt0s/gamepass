@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T15:41:44.786Z",
+  "updatedAt": "2026-11-12T16:26:10.785Z",
   "market": "ES",
   "language": "es-ES",
   "totalGames": 819,
@@ -62,8 +62,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 2.3,
-      "ratingCount": 50,
+      "rating": 2.4,
+      "ratingCount": 51,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -253,11 +253,11 @@
         "ultimate"
       ],
       "platform": "pc",
-      "price": 19.99,
+      "price": 9.99,
       "msrp": 19.99,
       "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
+      "hasDiscount": true,
+      "discountPercent": 50,
       "rating": 4.5,
       "ratingCount": 23,
       "ageRating": 12,
@@ -917,7 +917,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.4,
-      "ratingCount": 2937,
+      "ratingCount": 2936,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -1035,7 +1035,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 104899899392,
+      "maxInstallSize": 104899915776,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/age-of-empires-iv-edici-n-aniversario/9PHH1ZWRSZ41"
     },
@@ -1133,7 +1133,7 @@
           "recommended": "4 GB"
         }
       ],
-      "maxInstallSize": 103533871104,
+      "maxInstallSize": 103533932544,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/age-of-empires-iv-edici-n-aniversario/9N94NCGM1Q2N"
     },
@@ -1823,7 +1823,7 @@
           "recommended": "Micrófono integrado"
         }
       ],
-      "maxInstallSize": 38033903616,
+      "maxInstallSize": 38542966784,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/aniimo/9PK8PHLCQDF6"
     },
@@ -3411,7 +3411,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.5,
-      "ratingCount": 376,
+      "ratingCount": 377,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -3892,7 +3892,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.9,
-      "ratingCount": 311,
+      "ratingCount": 314,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -4767,7 +4767,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.7,
-      "ratingCount": 86,
+      "ratingCount": 87,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -5816,7 +5816,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.5,
-      "ratingCount": 250,
+      "ratingCount": 251,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -6177,7 +6177,7 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 4.1,
+      "rating": 4,
       "ratingCount": 145,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
@@ -8370,7 +8370,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 2,
-      "ratingCount": 41,
+      "ratingCount": 42,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -8437,8 +8437,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 2,
-      "ratingCount": 45,
+      "rating": 2.1,
+      "ratingCount": 46,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -9316,8 +9316,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 2.6,
-      "ratingCount": 629,
+      "rating": 2.7,
+      "ratingCount": 630,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -9600,11 +9600,11 @@
         "ultimate"
       ],
       "platform": "both",
-      "price": 7.49,
+      "price": 29.99,
       "msrp": 29.99,
       "currency": "EUR",
-      "hasDiscount": true,
-      "discountPercent": 75,
+      "hasDiscount": false,
+      "discountPercent": 0,
       "rating": 2.9,
       "ratingCount": 26,
       "ageRating": 7,
@@ -9982,11 +9982,11 @@
         "ultimate"
       ],
       "platform": "both",
-      "price": 7.99,
+      "price": 39.99,
       "msrp": 39.99,
       "currency": "EUR",
-      "hasDiscount": true,
-      "discountPercent": 80,
+      "hasDiscount": false,
+      "discountPercent": 0,
       "rating": 3.8,
       "ratingCount": 146,
       "ageRating": 18,
@@ -10682,7 +10682,7 @@
           "recommended": "8 GB"
         }
       ],
-      "maxInstallSize": 5548130304,
+      "maxInstallSize": 5569257472,
       "hasAddOns": false,
       "storeUrl": "https://www.xbox.com/es-es/games/store/conker-live-and-reloaded/BVFB8CBS75R6"
     },
@@ -10713,11 +10713,11 @@
         "ultimate"
       ],
       "platform": "both",
-      "price": 8.99,
+      "price": 29.99,
       "msrp": 29.99,
       "currency": "EUR",
-      "hasDiscount": true,
-      "discountPercent": 70,
+      "hasDiscount": false,
+      "discountPercent": 0,
       "rating": 2.8,
       "ratingCount": 28,
       "ageRating": 3,
@@ -11922,7 +11922,7 @@
           "recommended": "Micrófono integrado"
         }
       ],
-      "maxInstallSize": 106452221952,
+      "maxInstallSize": 106513444864,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/cricket-26-the-official-game-of-the-ashes/9N6JF50HZFW9"
     },
@@ -12710,7 +12710,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.7,
-      "ratingCount": 261,
+      "ratingCount": 262,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -13065,7 +13065,7 @@
       "hasDiscount": true,
       "discountPercent": 65,
       "rating": 4.2,
-      "ratingCount": 308,
+      "ratingCount": 309,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -13390,11 +13390,11 @@
         "ultimate"
       ],
       "platform": "both",
-      "price": 6.24,
+      "price": 24.99,
       "msrp": 24.99,
       "currency": "EUR",
-      "hasDiscount": true,
-      "discountPercent": 75,
+      "hasDiscount": false,
+      "discountPercent": 0,
       "rating": 3.2,
       "ratingCount": 159,
       "ageRating": 3,
@@ -13736,7 +13736,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.4,
-      "ratingCount": 91,
+      "ratingCount": 92,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -14297,7 +14297,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.4,
-      "ratingCount": 53,
+      "ratingCount": 54,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -16515,7 +16515,7 @@
           "recommended": "Micrófono integrado"
         }
       ],
-      "maxInstallSize": 42851852288,
+      "maxInstallSize": 42852216832,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/dune-awakening/9PJ6FV3130QZ"
     },
@@ -18320,7 +18320,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 96355373056,
+      "maxInstallSize": 96391925760,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/f1-25/9NWPW7F19FS5"
     },
@@ -18665,7 +18665,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.7,
-      "ratingCount": 294,
+      "ratingCount": 295,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -20786,103 +20786,6 @@
       "storeUrl": "https://www.xbox.com/es-es/games/store/final-fantasy-ii/9P8S1MN4066K"
     },
     {
-      "id": "9NWDPFPPK30V",
-      "title": "FINAL FANTASY III",
-      "description": "*Este producto forma además parte de un lote. Presta atención para no comprar varias copias de este producto.*\n\n¡Una versión remodelada en 2D del tercer título de la célebre serie FINAL FANTASY! Disfruta de una historia clásica narrada a través de unos gráficos retro fascinantes. Toda la magia del original con una jugabilidad mejorada. \n\nCon el poder de la Luz a punto de ser eclipsado por el de la Oscuridad, solo los cuatro aventureros elegidos por los Cristales pueden salvar el mundo.\n\nDescubre el sistema para cambiar los trabajos que se introdujo por primera vez en FFIII. Cámbialos a placer y usa las diferentes habilidades según avanzas en el juego. Cambia entre trabajos muy distintos, como Guerrero, Monje, Mago blanco, Mago negro, Draconarius, Conjurador o incluso Invocador, que te permitirá dar órdenes a los monstruos. \n\n¡Disfruta de la tercera entrega de la serie FINAL FANTASY!\n\n---------------------------------------------\n\n■ ¡Vuelve a cobrar vida con nuevos gráficos y sonidos!\n・Una actualización general de los gráficos pixelados en 2D, incluyendo los inconfundibles personajes diseñados con píxeles por Kazuko Shibuya, la artista original y colaboradora actual.\n・Una banda sonora renovada con un estilo fiel a FINAL FANTASY, bajo la supervisión del compositor original Nobuo Uematsu.\n\n■ ¡Jugabilidad mejorada!\n・Incluye una IU modernizada, opciones de combate automático y más.\n・Cambia la banda sonora de la nueva versión, creada para la remasterización pixelada, a la versión original, que captura el sonido de la época.\n・Ahora es posible alternar entre diferentes fuentes, incluida la fuente predeterminada y una fuente pixelada basada en el ambiente del juego original. \n・Nuevas funciones adicionales para expandir las opciones del juego: esto incluye desactivar los encuentros aleatorios y ajustar los multiplicadores de experiencia obtenida entre 0 y 4.\n・Ahonda en el mundo del juego con los contenidos extras del Bestiario, la Galería y el Reproductor musical.\n\n*Esta remasterización está basada en el título original FINAL FANTASY III, publicado en 1990. Es posible que las características y/o el contenido de juego varíen con respecto a otras versiones lanzadas previamente.",
-      "shortDescription": "¡El FINAL FANTASY III original cobra vida con nuevos gráficos y audio en una remasterización pixelada en 2D!",
-      "developer": "",
-      "publisher": "SQUARE ENIX",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.10723.14451317888346729.aa788569-1cd5-4640-bca3-a53d5278fc18.a82da078-1946-4c5d-9539-5428858c14fb",
-      "heroImage": "https://store-images.s-microsoft.com/image/apps.3478.14451317888346729.aa788569-1cd5-4640-bca3-a53d5278fc18.607412be-08b6-4fa5-bf2b-2ccdcb2dca08",
-      "screenshots": [
-        "https://store-images.s-microsoft.com/image/apps.62378.14451317888346729.aa788569-1cd5-4640-bca3-a53d5278fc18.b6fdc58f-aee7-4a59-b0e9-78db91c00c86",
-        "https://store-images.s-microsoft.com/image/apps.10408.14451317888346729.aa788569-1cd5-4640-bca3-a53d5278fc18.83a52fa0-4839-48ba-a514-7b72c56d23c8",
-        "https://store-images.s-microsoft.com/image/apps.65148.14451317888346729.aa788569-1cd5-4640-bca3-a53d5278fc18.7bfbd25a-3b9f-4f53-bb35-cac1dd017e0c",
-        "https://store-images.s-microsoft.com/image/apps.34896.14451317888346729.aa788569-1cd5-4640-bca3-a53d5278fc18.4d7d5287-92f7-4604-a83e-820d4fc6a305"
-      ],
-      "videoUrl": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftassets/8e964531-5529-49d7-a89f-210feb3eeb4c-AVS.m3u8?packagedStreaming=true",
-      "videoCaption": "FINAL FANTASY III",
-      "releaseDate": "2024-09-26",
-      "categories": [
-        "Juegos de rol"
-      ],
-      "tiers": [
-        "pc",
-        "premium",
-        "ultimate"
-      ],
-      "platform": "both",
-      "price": 17.99,
-      "msrp": 17.99,
-      "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
-      "rating": 4.5,
-      "ratingCount": 6,
-      "ageRating": 7,
-      "pegiRating": "PEGI 7",
-      "pegiDescription": "Apropiado a partir de 7 años",
-      "interactiveDescriptions": [],
-      "capabilities": [
-        "Un jugador",
-        "60 fps +",
-        "Optimizado para Xbox Series X|S",
-        "Logros de Xbox",
-        "Cosas guardadas en la nube de Xbox",
-        "Xbox Play Anywhere"
-      ],
-      "systemRequirements": [
-        {
-          "title": "SO",
-          "minimum": "Windows 10 version 18362.0 or higher",
-          "recommended": "Windows 10 version 18362.0 or higher"
-        },
-        {
-          "title": "Arquitectura",
-          "minimum": "x64",
-          "recommended": "x64"
-        },
-        {
-          "title": "Gráficos",
-          "minimum": "AMD Radeon™ R7 Graphics / Intel® HD Graphics 4000",
-          "recommended": "AMD Radeon™ R7 Graphics / Intel® HD Graphics 4000"
-        },
-        {
-          "title": "Procesador",
-          "minimum": "AMD A8-7600 / Intel® Core™ i3-6100",
-          "recommended": "AMD A8-7600 / Intel® Core™ i3-6100"
-        },
-        {
-          "title": "Teclado",
-          "minimum": "Teclado integrado",
-          "recommended": "Teclado integrado"
-        },
-        {
-          "title": "DirectX",
-          "minimum": "Versión 11",
-          "recommended": "Versión 11"
-        },
-        {
-          "title": "Memoria",
-          "minimum": "4 GB",
-          "recommended": "4 GB"
-        },
-        {
-          "title": "Mouse",
-          "minimum": "",
-          "recommended": "Mouse integrado"
-        },
-        {
-          "title": "Controladora",
-          "minimum": "",
-          "recommended": "Controladora de Xbox"
-        }
-      ],
-      "maxInstallSize": 865062912,
-      "hasAddOns": false,
-      "storeUrl": "https://www.xbox.com/es-es/games/store/final-fantasy-iii/9NWDPFPPK30V"
-    },
-    {
       "id": "9N8C07SS8C9D",
       "title": "FINAL FANTASY IV",
       "description": "*Este producto forma además parte de un lote. Presta atención para no comprar varias copias de este producto.*\n\n¡Una versión remodelada en 2D del cuarto título de la célebre serie FINAL FANTASY! Disfruta de una historia clásica narrada a través de unos gráficos retro fascinantes. Toda la magia del original con una jugabilidad mejorada. \n\nEl rey de Baronia ha enviado sus mejores barcos voladores, las Alas Rojas, a atacar a los países vecinos. Turbado por su misión, Cecil, caballero oscuro y capitán de las Alas Rojas, decide enfrentarse a la tiranía de Baronia en compañía de su amigo de confianza y de su amante. En su búsqueda de los Cristales, Cecil debe recorrer el mundo entero y el inframundo, llegando hasta la Tierra de Invocación e incluso hasta la Luna. Une fuerzas con el draconarius Kain, la maga blanca Rosa, la invocadora Rydia y muchos otros aliados valiosos.\n\nFFIV es el primer título que introdujo el sistema de batalla en tiempo continuo, donde el tiempo pasa durante el combate y se transmite una sensación de premura. Gracias al éxito del juego, este revolucionario sistema se implementó en muchos de los títulos sucesivos de la serie.\n\n¡Contempla la dramática historia y los dinámicos combates de la cuarta entrega de FINAL FANTASY!\n\n---------------------------------------------\n\n■ ¡Vuelve a cobrar vida con nuevos gráficos y sonidos!\n・Una actualización general de los gráficos pixelados en 2D, incluyendo los inconfundibles personajes diseñados con píxeles por Kazuko Shibuya, la artista original y colaboradora actual.\n・Una banda sonora renovada con un estilo fiel a FINAL FANTASY, bajo la supervisión del compositor original Nobuo Uematsu.\n\n■ ¡Jugabilidad mejorada!\n・Incluye una IU modernizada, opciones de combate automático y más.\n・Cambia la banda sonora de la nueva versión, creada para la remasterización pixelada, a la versión original, que captura el sonido de la época.\n・Ahora es posible alternar entre diferentes fuentes, incluida la fuente predeterminada y una fuente pixelada basada en el ambiente del juego original. \n・Nuevas funciones adicionales para expandir las opciones del juego: esto incluye desactivar los encuentros aleatorios y ajustar los multiplicadores de experiencia obtenida entre 0 y 4.\n・Ahonda en el mundo del juego con los contenidos extras del Bestiario, la Galería y el Reproductor musical.\n\n*Esta remasterización está basada en el título original FINAL FANTASY IV, publicado en 1991. Es posible que las características y/o el contenido de juego varíen con respecto a otras versiones lanzadas previamente.",
@@ -20914,8 +20817,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 4.3,
-      "ratingCount": 6,
+      "rating": 4.4,
+      "ratingCount": 7,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -21207,7 +21110,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.4,
-      "ratingCount": 66,
+      "ratingCount": 67,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -21303,11 +21206,11 @@
         "ultimate"
       ],
       "platform": "both",
-      "price": 8.99,
+      "price": 29.99,
       "msrp": 29.99,
       "currency": "EUR",
-      "hasDiscount": true,
-      "discountPercent": 70,
+      "hasDiscount": false,
+      "discountPercent": 0,
       "rating": 2.6,
       "ratingCount": 22,
       "ageRating": 7,
@@ -21600,86 +21503,6 @@
       "storeUrl": "https://www.xbox.com/es-es/games/store/fixforce/9N7MVHP2R7VP"
     },
     {
-      "id": "9P2PP895LSBJ",
-      "title": "Fogpiercer",
-      "description": "Una niebla mortal se está propagando por el mundo, ¡y el futuro de la humanidad está en tus manos! Monta tu tren para crear tu mazo inicial, traza tu ruta a través de un mundo donde los bandidos campan a sus anchas y prepárate para librar emocionantes batallas por turnos en las que las tácticas, las sinergias poderosas, un posicionamiento inteligente y las reacciones en cadena planificadas determinarán quién gana.\n\nDISEÑA TU MAZO\nElige entre distintas locomotoras, vagones y maquinistas para liderar tu expedición. Con cada decisión que tomes, recibirás un conjunto diferente de cartas para tu mazo inicial, modificando las opciones y habilidades que podrás utilizar durante la partida. Consigue recursos con los que mejorar o comprar vagones adicionales que aporten más herramientas tácticas a tu mazo mientras te abres paso entre la bruma y te enfrentas a un creciente abanico de enemigos con armas, rasgos, fortalezas y debilidades diferentes. ¿Aprovecharás la dispersión y la potencia de fuego de la ametralladora para acabar rápidamente con tus enemigos? ¿Confiarás en la artillería para desviar a los vehículos que van tras de ti? ¿U optarás por protegerte tras escudos y embestir a tus enemigos?\n\nDesde hackers con la capacidad de desplegar señuelos y asumir el control de vehículos enemigos hasta grúas que los empujan por el campo de batalla, tienes a tu disposición varias formas diferentes de acabar con la amenaza que representan los bandidos y sus líderes. Consigue mejoras de cartas únicas y prueba combinaciones insólitas para descubrir sinergias poderosas, asumiendo los riesgos y oportunidades que conlleve cada una de ellas.\n\nCOMBATES A UNA VELOCIDAD DE VÉRTIGO\nTendrás una cantidad limitada de puntos de acción por turno, por lo que una planificación meticulosa y una ejecución cuidadosa serán los factores que igualen las cosas al enfrentarte a un enemigo que no parará de rodearte y te superará en número. Fuerza a tus enemigos a tropezar con los peligros del entorno, empújalos acantilado abajo y provoca choques entre ellos, o también puedes engañarlos para que se ataquen entre ellos mientras te anticipas a sus movimientos y elaboras tu propia estrategia. Hacer un uso inteligente del carbón y disparar tu artillería con destreza podría obligar a un enemigo a subirse a las vías delante de ti para acabar aplastado bajo tus ruedas segundos después. O podrías usar ese mismo disparo para destruir a uno de los vehículos que vaya en cabeza y hacerlo rodar hacia atrás para dañar (y con suerte destruir) a todos los que vayan tras él, usando previamente cartas de hackeo con las que puedes colocar más vehículos a la cola. El orden de las acciones será decisivo para devastar los convoyes enemigos.\n\nTendrás a tu disposición más de 170 cartas con diferentes efectos de estado, habilidades de apoyo, daño y mucho más, así que construye un tren que se adapte a tu estilo de juego y desbloquea grandes oportunidades. Los daños colaterales, las reacciones en cadena y la manipulación del campo de batalla serán factores críticos parar hacerte con la victoria.\n\n¡PASAJEROS AL TREN!\nViaja de una región a otra en busca del fin de la niebla, decidiendo qué camino tomar en función de los modificadores específicos de cada región y las recompensas especiales que esta ofrezca. Las rutas ramificadas dentro de una región te permitirán ajustar el rumbo hacia la última parada según los riesgos y las recompensas, desde campos de batalla hasta estaciones de paso tranquilas en las que mejorar y reparar el tren.\n\nCada campo de batalla es completamente diferente: en algunos, un aliado acudirá en tu ayuda; en otros, tendrás menos espacio en el que moverte y esquivar al enemigo; mientras que otros pueden desarrollarse al borde de un acantilado, lo que supone un peligro ambiental constante que puedes usar a tu favor. Muchos campos de batalla incluirán una combinación de factores que pueden facilitarte o dificultarte el avance, recompensándote con cartas adicionales, modificadores y chatarra que usar en tu periplo. Puedes reparar los vagones y la locomotora en los desguaces y depósitos, lo que te dará la oportunidad de mejorarlos y desbloquear cartas adicionales, o comprar y vender vagones para modificar tu mazo. Además, los encuentros aleatorios pueden suponer grandes oportunidades en paisajes que, de otro modo, serían implacables. Las batallas contra jefes al final de cada región te enfrentarán a personajes especiales, cada uno con su propia historia y habilidades únicas.\n\nLa metaprogresión te permitirá desbloquear vagones, maquinistas y locomotoras adicionales para buscar nuevas combinaciones y oportunidades para futuras partidas, o centrarte en mejorar tus preferidos y desbloquear aún más cartas que usar en combate. Los bandidos son implacables y despiadados, y aunque las decisiones que tomes durante una partida tendrán un impacto significativo, las que tomes entre partida y partida pueden desbloquear opciones completamente nuevas.\n\nFogpiercer te pone a la cabeza de un tren desenfrenado que avanza en busca de la seguridad y el futuro de la humanidad: lánzate a las intensas batallas tácticas por turnos en las que te superarán en número y armamento constantemente, pero planifica tu estrategia con astucia y encuentra una manera de mantener las cosas encarriladas.",
-      "shortDescription": "Lucha a través de la niebla en este juego de construcción de mazos roguelike de ciencia ficción en el que posicionarte con astucia, las reacciones en cadena explosivas y el propio entorno pueden marcar la diferencia entre la vida y la muerte.",
-      "developer": "Mad Cookies Studio",
-      "publisher": "Hooded Horse",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.30769.14553435086111963.df80ae9a-2226-4cc1-99bb-24cdb3f4b8a2.d7d9d753-bb3c-402e-be3d-d3ebca41ed95",
-      "heroImage": "https://store-images.s-microsoft.com/image/apps.25959.14553435086111963.df80ae9a-2226-4cc1-99bb-24cdb3f4b8a2.243400c9-a25e-4b28-a77d-380956e23ce3",
-      "screenshots": [
-        "https://store-images.s-microsoft.com/image/apps.52129.14553435086111963.df80ae9a-2226-4cc1-99bb-24cdb3f4b8a2.f3f1c266-51ab-479c-9134-e3a9150a7e8b",
-        "https://store-images.s-microsoft.com/image/apps.33204.14553435086111963.4d735c2b-bcde-4113-9e7d-622944c99891.5db4f867-b670-45e9-8fd1-0e0ce8f7f56a",
-        "https://store-images.s-microsoft.com/image/apps.1976.14553435086111963.df80ae9a-2226-4cc1-99bb-24cdb3f4b8a2.8d073b42-0645-4229-909b-0f459388176c",
-        "https://store-images.s-microsoft.com/image/apps.2365.14553435086111963.df80ae9a-2226-4cc1-99bb-24cdb3f4b8a2.fcc5a20d-cd8f-49e0-a4f5-9b7ef7c64796"
-      ],
-      "videoUrl": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftassets/a9126c00-affd-4362-80b9-347a253f2a61-AVS.m3u8?packagedStreaming=true",
-      "videoCaption": "Release Date Announcement Trailer",
-      "releaseDate": "2026-07-17",
-      "categories": [
-        "Estrategia",
-        "Juegos de rol",
-        "Juegos de mesa"
-      ],
-      "tiers": [
-        "pc",
-        "ultimate"
-      ],
-      "platform": "pc",
-      "price": 19.99,
-      "msrp": 19.99,
-      "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
-      "rating": 2.7,
-      "ratingCount": 9,
-      "ageRating": 7,
-      "pegiRating": "PEGI 7",
-      "pegiDescription": "Apropiado a partir de 7 años",
-      "interactiveDescriptions": [],
-      "capabilities": [
-        "Un jugador",
-        "Logros de Xbox",
-        "Cosas guardadas en la nube de Xbox"
-      ],
-      "systemRequirements": [
-        {
-          "title": "SO",
-          "minimum": "Windows 10 version 18362.0 or higher",
-          "recommended": "Windows 10 version 18362.0 or higher"
-        },
-        {
-          "title": "Arquitectura",
-          "minimum": "x64",
-          "recommended": "x64"
-        },
-        {
-          "title": "Gráficos",
-          "minimum": "NVIDIA® GeForce® GTX 960 (4 GB) / AMD® Radeon™ RX 570 (4 GB)",
-          "recommended": "NVIDIA® GeForce® GTX 1060 (6 GB) / AMD® Radeon™ RX 5500 XT (8 GB)"
-        },
-        {
-          "title": "Procesador",
-          "minimum": "Intel® Core™ i5-4670 (quad-core)  / AMD® FX-Series™ FX-8300 (quad-core)",
-          "recommended": "Intel® Core™ i5-7700K (quad-core) / AMD® Ryzen™ 5 1500X (quad-core)"
-        },
-        {
-          "title": "DirectX",
-          "minimum": "API de DirectX 12, nivel de característica de hardware 12",
-          "recommended": "API de DirectX 12, nivel de característica de hardware 12"
-        },
-        {
-          "title": "Memoria",
-          "minimum": "4 GB",
-          "recommended": "8 GB"
-        }
-      ],
-      "maxInstallSize": 1500626944,
-      "hasAddOns": false,
-      "storeUrl": "https://www.xbox.com/es-es/games/store/fogpiercer/9P2PP895LSBJ"
-    },
-    {
       "id": "9N4NKMXDZCX6",
       "title": "Football Manager 27",
       "description": "Cada fan del fútbol ve las cosas de una manera. En FM27 esa visión no es una opinión, sino una realidad. \n\nSumérgete en un universo que vive y respira fútbol y en el que todas las decisiones dependen de ti. \n\nElige tu equipo, define tu estilo y fíjate en lo que a otros mánager se les puede haber escapado; quizá encuentres a una joven promesa de la cantera o puedas vender a una estrella que no se adapte a tu filosofía. \n\nEntrena a tu equipo en bloque, desarrolla una visión táctica genuina y haz que tu equipo levante pasiones en las gradas desde el banquillo. \n\nEl día del partido, reacciona a todo lo que proponga el rival, supera su presión, llega al área y dalo todo por el gol. \n\nLa historia del fútbol no se escribe sola. \n\nCualquier decisión puede ser la que lo cambie todo, así que busca ese futuro que solo tú puedes ver. \nPase lo que pase, te acordarás de las decisiones que te han llevado hasta donde estás. \n\nFootball Manager 27: tú decides. \n\n \n\nNovedades de FM27. \n\nDisfruta de la renovación de la formación de la plantilla con la nueva efectividad táctica que mide los recursos con los que cuentan tus jugadores para plasmar tu visión futbolística, y las mejoras del entrenamiento te permiten centrarte aún más en el desarrollo tanto individual como del equipo. \n\nAprovecha los huecos que deje la defensa rival con los retoques tácticos para ejercer más peso desde la banda. \n\nVive cada encuentro como si fuera una obra de teatro futbolístico más profunda gracias a las mejoras del público, los estadios y el ambiente, que le dan más emoción al juego. \n\nSienta a los defensas gracias a una mayor precisión y personalidad ofensiva, ya que el talento y la calidad individual tienen más protagonismo para que sea más gratificante ver cómo cobra vida en el campo tu planteamiento táctico. \n\nExplora el universo futbolístico que hay más allá de tu club con la vuelta de los sorteos de copas y el último día de fichajes, que imitan el ritmo y la emoción del calendario real. \n\nPasa de la rutina a la gloria gracias a una interfaz intuitiva que da prioridad a las decisiones clave. Eso sí, eres tú quien ejecuta tu visión, y puedes adaptar mejor la configuración a tu estilo de gestión con las opciones de personalización. \n\nY hay mucho más, como las nuevas ligas con licencia completa, las mejoras de la vista 2D del partido, más datos para tomar mejores decisiones y más de 1500 actualizaciones de torneos.",
@@ -21712,7 +21535,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 5,
-      "ratingCount": 1,
+      "ratingCount": 2,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -22233,10 +22056,10 @@
       "imageUrl": "https://store-images.s-microsoft.com/image/apps.52548.70702278257994163.f7265b8a-f10e-49c4-8115-73c4d800af63.a0e057ff-c216-4206-a6b9-65bfc7d54fb0",
       "heroImage": "https://store-images.s-microsoft.com/image/apps.57395.70702278257994163.f7265b8a-f10e-49c4-8115-73c4d800af63.b6b3f8f6-1df4-45e8-9cb6-7e738d850a63",
       "screenshots": [
+        "https://store-images.s-microsoft.com/image/apps.24362.70702278257994163.4640adbe-55df-4e2b-914c-51869198d796.598faa6f-7816-4efd-8e13-9d7c3b227054",
         "https://store-images.s-microsoft.com/image/apps.51181.70702278257994163.9020fde9-23f7-404c-9b79-758e4925f789.dd20bd39-8c32-408f-aae2-05d7d7924808",
         "https://store-images.s-microsoft.com/image/apps.60584.70702278257994163.c945029a-4946-44ef-b5c7-b072f07eb636.30903f94-131c-4a06-b912-93a3f847a74e",
-        "https://store-images.s-microsoft.com/image/apps.45321.70702278257994163.82153f73-d018-4d23-bb4f-14433178e3a6.4199f993-ace7-4a87-8ca0-a18d07e6d9cc",
-        "https://store-images.s-microsoft.com/image/apps.30681.70702278257994163.c945029a-4946-44ef-b5c7-b072f07eb636.6e6dc827-6c42-4e3b-af68-29f8892be5d7"
+        "https://store-images.s-microsoft.com/image/apps.45321.70702278257994163.82153f73-d018-4d23-bb4f-14433178e3a6.4199f993-ace7-4a87-8ca0-a18d07e6d9cc"
       ],
       "videoUrl": "https://cdn.trailers.xboxservices.com/trailers/00000000-0000-0000-0000-000000000000/xbox/prod/videos/mainprofile/70702278257994163/09841644-8149-4ea1-8fec-8e36116a3690/manifest.m3u8",
       "videoCaption": "Treasure Hunters Trailer",
@@ -22260,7 +22083,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.8,
-      "ratingCount": 4588,
+      "ratingCount": 4591,
       "ageRating": 12,
       "pegiRating": "Supervisión parental recomendada",
       "pegiDescription": "Supervisión parental recomendada",
@@ -22290,7 +22113,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 94950633472,
+      "maxInstallSize": 91066122240,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/fortnite/BT5P2X999VH2"
     },
@@ -22668,7 +22491,7 @@
           "recommended": "6 GB"
         }
       ],
-      "maxInstallSize": 87494615040,
+      "maxInstallSize": 88147017728,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/fragpunk/9MW715J1P29D"
     },
@@ -23379,7 +23202,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.4,
-      "ratingCount": 465,
+      "ratingCount": 467,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -24397,7 +24220,7 @@
           "recommended": "Controladora de Xbox"
         }
       ],
-      "maxInstallSize": 4105760768,
+      "maxInstallSize": 4105674752,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/goals/9PF2ZS4XB4JH"
     },
@@ -25049,7 +24872,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.2,
-      "ratingCount": 804,
+      "ratingCount": 803,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -27718,6 +27541,107 @@
       "storeUrl": "https://www.xbox.com/es-es/games/store/hollow-knight-silksong/9N116V0599HB"
     },
     {
+      "id": "9P1S707BPW6W",
+      "title": "Hope in the City",
+      "description": "Tus bocetos pueden ser las únicas pistas que tengas. Ponte en la piel de Hope Song, de 17 años, en este misterio narrativo ambientado en Shenyang, China. Mientras todos a su alrededor se desmoronan bajo la presión de los exámenes, Hope se refugia en sus dibujos, hasta que sus padres desaparecen. Investiga lo que ha pasado, conecta las pistas y descubre la verdad oculta bajo la calma de la ciudad.\n\nSIN NOTA. SIN ADVERTENCIA\n\nVuelves a casa del instituto como cualquier otro día. Pero la casa está en silencio. Tus padres han desaparecido, el piso está patas arriba. Sin nota, sin advertencia, sin respuestas.\n\nEL OJO DE UNA ARTISTA\n\nHope no es una detective. Y todos a quienes acude parecen empeñados en evitar problemas. Pero con su ojo de artista, se fija en detalles que otros pasan por alto, y eso es lo que la hace peligrosa para quienquiera que esté ocultando la verdad. Dibujar ya no es una vía de escape: es su mejor oportunidad de resolver el misterio de sus padres.\n\nDondequiera que vaya Hope y con quienquiera que hable, encuentra elementos que no encajan. Investiga cada uno y captura tus observaciones en forma de bocetos en la libreta de Hope. Cada detalle importa.\n\nDE LA OBSERVACIÓN A LA VERDAD\n\nCombina los bocetos de Hope en razonamientos y sigue añadiendo nuevas ideas hasta que se conviertan en hallazgos. Pieza a pieza, boceto a boceto, observa cómo la imagen de lo que les ha ocurrido a tus padres va tomando forma y se vuelve más oscura de lo que jamás imaginaste.\n\nUNA CIUDAD LLENA DE SECRETOS\n\nShenyang no es solo un escenario, es un personaje por derecho propio. Con un estilo artístico atrevido, estilizado y con carácter, cada calle, cada escaparate y cada callejón en sombras suplica ser explorado. Merodea entre letreros de neón y rincones tranquilos, y deja que el llamativo aspecto visual de la ciudad te arrastre hacia sus secretos más profundos.\n\n¿EN QUIÉN PUEDES CONFIAR?\n\nEn la superficie, no es más que su hogar: calles familiares, vecinos reservados, una vida ordinaria. Pero bajo la calma, algo permanece oculto. Hope no sabe en quién puede confiar. Y no puede permitirse esperar a que alguien la ayude a encontrar la verdad.\n\nHope in the City es obra del equipo detrás de Sky of Tides, ganador del premio Best in Play de la GDC 2026, y de Eternal Spring, nominado a los premios Peabody 2024.",
+      "shortDescription": "Hope Song, de 17 años, pensó que los exámenes nacionales eran su mayor preocupación… hasta que llegó a casa —a un departamento saqueado y dos padres desaparecidos—. Investiga a través de los ojos de una artista, convierte bocetos en evidencia, y observa el misterio de su familia volverse más extraño y oscuro con cada respuesta.",
+      "developer": "Lofty Sky Games",
+      "publisher": "Lofty Sky Games and NAGA Games",
+      "imageUrl": "https://store-images.s-microsoft.com/image/apps.14788.14501332661010356.fec4e2c9-2862-4f89-bbd1-eb4e6d97a093.eee2f11f-5530-4331-a82c-4b45c3027142",
+      "heroImage": "https://store-images.s-microsoft.com/image/apps.38978.14501332661010356.1878bbae-b86e-4579-a4ee-b6e5b6f9498a.8e558370-e4f8-4ee3-ae5b-4ef51b3c323e",
+      "screenshots": [
+        "https://store-images.s-microsoft.com/image/apps.63195.14501332661010356.1878bbae-b86e-4579-a4ee-b6e5b6f9498a.35c6843d-7a9d-424e-8b66-761aa3e501c6",
+        "https://store-images.s-microsoft.com/image/apps.21122.14501332661010356.6374980d-29e6-43e7-b214-32b1db9afcc8.195c29a8-2706-4847-88a0-68617ff1a5bf",
+        "https://store-images.s-microsoft.com/image/apps.10507.14501332661010356.6374980d-29e6-43e7-b214-32b1db9afcc8.87a65adc-c7d5-4916-9381-1f9833ac3048",
+        "https://store-images.s-microsoft.com/image/apps.25190.14501332661010356.1878bbae-b86e-4579-a4ee-b6e5b6f9498a.8aebf19c-bf84-41ae-a544-586adc80c05e"
+      ],
+      "videoUrl": "https://cdn.trailers.xboxservices.com/trailers/00000000-0000-0000-0000-000000000000/xbox/prod/videos/mainprofile/14501332661010356/2b92c3f8-4244-4d4c-a273-3c4b056af9e9/manifest.m3u8",
+      "videoCaption": "Hope in the City - Nuevo tráiler cinemático",
+      "releaseDate": "2026-11-11",
+      "categories": [
+        "Acción y aventura",
+        "Puzles y curiosidades"
+      ],
+      "tiers": [
+        "pc",
+        "ultimate"
+      ],
+      "platform": "both",
+      "price": 17.99,
+      "msrp": 17.99,
+      "currency": "EUR",
+      "hasDiscount": false,
+      "discountPercent": 0,
+      "rating": 3.2,
+      "ratingCount": 4,
+      "ageRating": 7,
+      "pegiRating": "PEGI 7",
+      "pegiDescription": "Apropiado a partir de 7 años",
+      "interactiveDescriptions": [],
+      "capabilities": [
+        "Un jugador",
+        "Optimizado para Xbox Series X|S",
+        "Logros de Xbox",
+        "Cosas guardadas en la nube de Xbox",
+        "Xbox Play Anywhere"
+      ],
+      "systemRequirements": [
+        {
+          "title": "SO",
+          "minimum": "Windows 10 version 18362.0 or higher",
+          "recommended": "Windows 10 version 18362.0 or higher"
+        },
+        {
+          "title": "Arquitectura",
+          "minimum": "x64",
+          "recommended": "x64"
+        },
+        {
+          "title": "Gráficos",
+          "minimum": "GeForce GTX 560",
+          "recommended": "GeForce GTX 1060"
+        },
+        {
+          "title": "Procesador",
+          "minimum": "i7 2600k",
+          "recommended": "i5 10400F"
+        },
+        {
+          "title": "DirectX",
+          "minimum": "Versión 9",
+          "recommended": "API de DirectX 12, nivel de característica de hardware 11"
+        },
+        {
+          "title": "Memoria",
+          "minimum": "4 GB",
+          "recommended": "8 GB"
+        },
+        {
+          "title": "Memoria de vídeo",
+          "minimum": "2 GB",
+          "recommended": "4 GB"
+        },
+        {
+          "title": "Teclado",
+          "minimum": "",
+          "recommended": "Teclado integrado"
+        },
+        {
+          "title": "Mouse",
+          "minimum": "",
+          "recommended": "Mouse integrado"
+        },
+        {
+          "title": "Controladora",
+          "minimum": "",
+          "recommended": "Controladora de Xbox"
+        }
+      ],
+      "maxInstallSize": 15446147072,
+      "hasAddOns": false,
+      "storeUrl": "https://www.xbox.com/es-es/games/store/hope-in-the-city/9P1S707BPW6W"
+    },
+    {
       "id": "9NBFGKQLMV33",
       "title": "House Flipper",
       "description": "Manitas - ¡manos a la obra!\nAntes de poder adquirir tu primera propiedad, debes ganártela. No te preocupes, ¡por suerte hay mucho que hacer! Acepta ofertas de trabajo de los residentes: limpia sus casas, pinta las paredes, instala calefacción, duchas y aire acondicionado, e incluso amuebla propiedades enteras. Si los clientes quedan satisfechos recompensarán bien tu trabajo y cada vez estarás más cerca de comprar tu propia casa.\n\n\nJuega a tu manera\n¡Martillo en mano! Es hora de ensuciarse un poco y tirar algunas paredes. Deshazte de los trozos de vidrio, la basura, los restos de muebles y prepara el espacio para una metamorfosis completa. De ti depende si quieres cumplir todos los requisitos de los compradores o prefieres organizar una oficina acogedora, perfecta para administrar tu propio negocio.\n\n\nNo trabajes duro, trabaja con inteligencia\nPor suerte, no estás solo. Un rodillo de pintura, un limpiacristales, una espátula, una fregona, un martillo y una tableta... Con ayuda de tus compañeros más fieles, las herramientas, ningún pedido será terrible. Con ellas podrás ganar experiencia y desarrollar habilidades, lo que hará que tu trabajo sea aún más agradable.\n\n\nSiéntate y relájate\nNo importa si planeas crear la casa de tus sueños, ayudar a los residentes con sus reformas o romper algo, House Flipper te ayudará a relajarte. ¡Siéntate, olvídeate de las preocupaciones diarias y sumérjete en el mundo de House Flipper!",
@@ -28780,6 +28704,104 @@
       "maxInstallSize": 516952064,
       "hasAddOns": false,
       "storeUrl": "https://www.xbox.com/es-es/games/store/jetpac-refuelled/BRRVN5198461"
+    },
+    {
+      "id": "9MTGCZ84M503",
+      "title": "John Carpenter's Toxic Commando",
+      "description": "En un futuro no muy lejano, un experimento fallido que perseguía explotar la energía del núcleo terrestre desata terribles consecuencias: la liberación de una deidad insalubre y tóxica.  Esta sobrenatural abominación comienza a transformar el entorno, tornando la tierra en inmundicia y a los vivos en engendros no muertos. No obstante, la brillante mente a cargo del experimento cuenta con un plan para deshacer el entuerto. Todo cuanto necesitará es un equipo de duchos y curtidos mercenarios para la misión, pero no le llega el presupuesto para tanto... Así pues, no le queda más remedio que contratar a... \n\n¡los Comandos Tóxicos!\n\nPonte al mando de uno de los comandos, une fuerzas con tus amigos y devolved a la inmunda deidad y su horda de horrorosos acólitos al abismo del que nunca debieron haber salido. Elegid la clase que más se adapte a vuestro estilo de juego, subíos a vuestro vehículo de confianza y desatad un infierno de balas, granadas, habilidades especiales y tajos de katana para salvar el planeta.\n\nSi tu rollo es:\n\n- Películas que hacen gala del humor, la acción y el terror desmedidos de los clásicos cinematográficos de los 80 con un dúo de amigotes como protagonistas e inspiradas en el legendario John Carpenter.\n- Jugar en equipo con tus amigos y masacrar hordas de bichejos obcecados en destriparos.\n- Una mezcla explosiva de acción visceral de disparos en primera persona y escenarios posapocalípticos.\n- Mejorar habilidades y poner a prueba tus poderes en desafíos cada vez más chungos.\n- Salvar el planeta de una más que probable hecatombe.\n\nEn ese caso, ¡disponte a armarte hasta los dientes y darlo todo con tu comando!\n\nHace falta conexión a internet permanente para jugar.",
+      "shortDescription": "Elige un personaje y forma equipo con 3 amigos: os toca salvar el mundo. ¡Aplasta hordas de monstruos en este intenso juego de disparos en 1.ª persona! Tal vez no seáis la flor y nata del mundo mercenario, pero recordad: ¡sois los Comandos Tóxicos! ",
+      "developer": "Saber Interactive",
+      "publisher": "Focus Entertainment",
+      "imageUrl": "https://store-images.s-microsoft.com/image/apps.29766.13813225504277272.60187aa7-cee5-4670-9406-da8555a77e6d.c837b95c-ea53-45ca-8a1d-e10bea8f2ff1",
+      "heroImage": "https://store-images.s-microsoft.com/image/apps.18789.13813225504277272.60187aa7-cee5-4670-9406-da8555a77e6d.1dfc778b-2a38-470b-9168-0b3acda80a6f",
+      "screenshots": [
+        "https://store-images.s-microsoft.com/image/apps.64597.13813225504277272.60187aa7-cee5-4670-9406-da8555a77e6d.714bce0f-3414-40e1-9aa4-65f3e22bf07a",
+        "https://store-images.s-microsoft.com/image/apps.56200.13813225504277272.60187aa7-cee5-4670-9406-da8555a77e6d.e066dc5a-63b2-45be-a43e-18af9126bdcc",
+        "https://store-images.s-microsoft.com/image/apps.32873.13813225504277272.60187aa7-cee5-4670-9406-da8555a77e6d.9c63a7b7-9a60-4656-84ac-001e8ea6cb17",
+        "https://store-images.s-microsoft.com/image/apps.52958.13813225504277272.60187aa7-cee5-4670-9406-da8555a77e6d.b0bb4414-46d9-4fe1-ad53-fa22aa936d52"
+      ],
+      "videoUrl": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftassets/65de081d-18b0-4318-b7a0-8739e6ef128b-AVS.m3u8?packagedStreaming=true",
+      "videoCaption": "John Carpenter's Toxic Commando - Launch Trailer",
+      "releaseDate": "2026-03-12",
+      "categories": [
+        "Acción y aventura",
+        "Shooter"
+      ],
+      "tiers": [
+        "pc",
+        "premium",
+        "ultimate"
+      ],
+      "platform": "both",
+      "price": 39.99,
+      "msrp": 39.99,
+      "currency": "EUR",
+      "hasDiscount": false,
+      "discountPercent": 0,
+      "rating": 4.2,
+      "ratingCount": 13,
+      "ageRating": 18,
+      "pegiRating": "PEGI 18",
+      "pegiDescription": "Apropiado a partir de 18 años",
+      "interactiveDescriptions": [
+        "Interacción de usuarios"
+      ],
+      "capabilities": [
+        "Cooperativo en línea  (2-4)",
+        "4K Ultra HD",
+        "Un jugador",
+        "Cooperación multiplataforma de Xbox",
+        "Optimizado para Xbox Series X|S",
+        "Logros de Xbox",
+        "Presencia de Xbox",
+        "Cosas guardadas en la nube de Xbox",
+        "Xbox Play Anywhere"
+      ],
+      "systemRequirements": [
+        {
+          "title": "SO",
+          "minimum": "Windows 10 version 18362.0 or higher",
+          "recommended": "Windows 10 version 18362.0 or higher"
+        },
+        {
+          "title": "Arquitectura",
+          "minimum": "x64",
+          "recommended": "x64"
+        },
+        {
+          "title": "Gráficos",
+          "minimum": "AMD Radeon RX 580 / Nvidia GeForce GTX 1070",
+          "recommended": "AMD Radeon RX 6800 XT / Nvidia GeForce RTX 3060 Ti"
+        },
+        {
+          "title": "Procesador",
+          "minimum": "AMD Ryzen 5 1500X / Intel Core i5-8400",
+          "recommended": "AMD Ryzen 5 5600X / Intel Core i5-11600K"
+        },
+        {
+          "title": "Teclado",
+          "minimum": "Teclado integrado",
+          "recommended": ""
+        },
+        {
+          "title": "Mouse",
+          "minimum": "Mouse integrado",
+          "recommended": ""
+        },
+        {
+          "title": "Memoria",
+          "minimum": "16 GB",
+          "recommended": "16 GB"
+        },
+        {
+          "title": "Controladora",
+          "minimum": "",
+          "recommended": "Controladora de Xbox"
+        }
+      ],
+      "maxInstallSize": 66271113216,
+      "hasAddOns": true,
+      "storeUrl": "https://www.xbox.com/es-es/games/store/john-carpenter-s-toxic-commando/9MTGCZ84M503"
     },
     {
       "id": "C1ZWH2BZ9TSF",
@@ -32804,7 +32826,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.7,
-      "ratingCount": 51977,
+      "ratingCount": 51980,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -33323,7 +33345,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4,
-      "ratingCount": 16038,
+      "ratingCount": 16037,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -33518,7 +33540,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.5,
-      "ratingCount": 61745,
+      "ratingCount": 61744,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -33896,7 +33918,7 @@
           "recommended": "Micrófono integrado"
         }
       ],
-      "maxInstallSize": 44871008256,
+      "maxInstallSize": 44870893568,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/mistfall-hunter/9P8X6TVW9ZW8"
     },
@@ -34396,7 +34418,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 2153877504,
+      "maxInstallSize": 2164842496,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/monsters-are-coming/9PJBKF27C16M"
     },
@@ -36539,7 +36561,7 @@
       "hasDiscount": true,
       "discountPercent": 50,
       "rating": 4.5,
-      "ratingCount": 51,
+      "ratingCount": 52,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -39106,9 +39128,9 @@
       "discountPercent": 0,
       "rating": 4.4,
       "ratingCount": 413,
-      "ageRating": 7,
-      "pegiRating": "PEGI 7",
-      "pegiDescription": "Apropiado a partir de 7 años",
+      "ageRating": 16,
+      "pegiRating": "PEGI 16",
+      "pegiDescription": "Apropiado a partir de 16 años",
       "interactiveDescriptions": [
         "Compras dentro del juego (Incluye artículos aleatorios)"
       ],
@@ -39419,11 +39441,11 @@
         "ultimate"
       ],
       "platform": "both",
-      "price": 8.99,
+      "price": 29.99,
       "msrp": 29.99,
       "currency": "EUR",
-      "hasDiscount": true,
-      "discountPercent": 70,
+      "hasDiscount": false,
+      "discountPercent": 0,
       "rating": 2.6,
       "ratingCount": 72,
       "ageRating": 12,
@@ -39617,7 +39639,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.5,
-      "ratingCount": 184,
+      "ratingCount": 185,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -42330,7 +42352,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.5,
-      "ratingCount": 349,
+      "ratingCount": 351,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -42428,8 +42450,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 2.2,
-      "ratingCount": 55,
+      "rating": 2.3,
+      "ratingCount": 56,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -42900,7 +42922,7 @@
           "recommended": "Controladora de Xbox"
         }
       ],
-      "maxInstallSize": 41469186048,
+      "maxInstallSize": 41413562368,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/roadcraft/9N4J937WLFPZ"
     },
@@ -43444,7 +43466,7 @@
           "recommended": "Controladora de Xbox"
         }
       ],
-      "maxInstallSize": 43956486144,
+      "maxInstallSize": 43955826688,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/runescape-dragonwilds/9P402RWR63H4"
     },
@@ -44794,7 +44816,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.8,
-      "ratingCount": 69,
+      "ratingCount": 70,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -46186,11 +46208,11 @@
         "ultimate"
       ],
       "platform": "both",
-      "price": 8.74,
+      "price": 24.99,
       "msrp": 24.99,
       "currency": "EUR",
-      "hasDiscount": true,
-      "discountPercent": 65,
+      "hasDiscount": false,
+      "discountPercent": 0,
       "rating": 3.5,
       "ratingCount": 53,
       "ageRating": 12,
@@ -48015,11 +48037,11 @@
         "ultimate"
       ],
       "platform": "both",
-      "price": 17.49,
+      "price": 24.99,
       "msrp": 24.99,
       "currency": "EUR",
-      "hasDiscount": true,
-      "discountPercent": 30,
+      "hasDiscount": false,
+      "discountPercent": 0,
       "rating": 3.9,
       "ratingCount": 31,
       "ageRating": 16,
@@ -48429,11 +48451,11 @@
         "ultimate"
       ],
       "platform": "both",
-      "price": 7.99,
+      "price": 19.99,
       "msrp": 19.99,
       "currency": "EUR",
-      "hasDiscount": true,
-      "discountPercent": 60,
+      "hasDiscount": false,
+      "discountPercent": 0,
       "rating": 3,
       "ratingCount": 31,
       "ageRating": 3,
@@ -48703,7 +48725,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.6,
-      "ratingCount": 29,
+      "ratingCount": 30,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -49238,7 +49260,7 @@
           "recommended": "8 GB"
         }
       ],
-      "maxInstallSize": 21832441856,
+      "maxInstallSize": 21831110656,
       "hasAddOns": false,
       "storeUrl": "https://www.xbox.com/es-es/games/store/terrible-lizards/9PKFL1XJT73S"
     },
@@ -50187,7 +50209,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.8,
-      "ratingCount": 38,
+      "ratingCount": 39,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -51132,7 +51154,7 @@
           "recommended": "Controladora de Xbox"
         }
       ],
-      "maxInstallSize": 89184899072,
+      "maxInstallSize": 89167405056,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/the-finals/9PGD71CMDS0Z"
     },
@@ -51780,7 +51802,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.8,
-      "ratingCount": 30,
+      "ratingCount": 31,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -52375,11 +52397,11 @@
         "ultimate"
       ],
       "platform": "both",
-      "price": 10.49,
+      "price": 34.99,
       "msrp": 34.99,
       "currency": "EUR",
-      "hasDiscount": true,
-      "discountPercent": 70,
+      "hasDiscount": false,
+      "discountPercent": 0,
       "rating": 4.2,
       "ratingCount": 30,
       "ageRating": 16,
@@ -52689,11 +52711,11 @@
         "ultimate"
       ],
       "platform": "console",
-      "price": 5.99,
+      "price": 29.99,
       "msrp": 29.99,
       "currency": "EUR",
-      "hasDiscount": true,
-      "discountPercent": 80,
+      "hasDiscount": false,
+      "discountPercent": 0,
       "rating": 3.7,
       "ratingCount": 116,
       "ageRating": 16,
@@ -52748,11 +52770,11 @@
         "ultimate"
       ],
       "platform": "pc",
-      "price": 5.99,
+      "price": 29.99,
       "msrp": 29.99,
       "currency": "EUR",
-      "hasDiscount": true,
-      "discountPercent": 80,
+      "hasDiscount": false,
+      "discountPercent": 0,
       "rating": 3.1,
       "ratingCount": 32,
       "ageRating": 16,
@@ -52836,8 +52858,8 @@
       "currency": "EUR",
       "hasDiscount": true,
       "discountPercent": 20,
-      "rating": 0,
-      "ratingCount": 0,
+      "rating": 4.8,
+      "ratingCount": 6,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -55347,11 +55369,11 @@
         "ultimate"
       ],
       "platform": "both",
-      "price": 17.99,
+      "price": 13.49,
       "msrp": 17.99,
       "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
+      "hasDiscount": true,
+      "discountPercent": 25,
       "rating": 2.8,
       "ratingCount": 10,
       "ageRating": 3,
@@ -55825,7 +55847,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.9,
-      "ratingCount": 75,
+      "ratingCount": 76,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -56930,7 +56952,7 @@
           "recommended": "Mouse integrado"
         }
       ],
-      "maxInstallSize": 81256169472,
+      "maxInstallSize": 81256173568,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/war-thunder/BX1DTCBD1HXJ"
     },
@@ -57487,8 +57509,8 @@
       "currency": "EUR",
       "hasDiscount": true,
       "discountPercent": 10,
-      "rating": 3.4,
-      "ratingCount": 7,
+      "rating": 3.8,
+      "ratingCount": 13,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -58621,8 +58643,8 @@
         "https://store-images.s-microsoft.com/image/apps.15528.14070230506579552.1befef56-e212-46c6-b915-24051a841bb6.e041d054-9644-40a6-ad9d-0b78993974c0",
         "https://store-images.s-microsoft.com/image/apps.5512.14070230506579552.1befef56-e212-46c6-b915-24051a841bb6.e2bfd576-7e73-436a-b405-d8beb227a3ff"
       ],
-      "videoUrl": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftassets/98e62dda-9fcd-44f4-9d9c-331d573d9573-AVS.m3u8?packagedStreaming=true",
-      "videoCaption": "Where Winds Meet Out Now on XBOX! The Hidden Mountain Expansion Is Coming",
+      "videoUrl": "https://cdn.trailers.xboxservices.com/trailers/00000000-0000-0000-0000-000000000000/xbox/prod/videos/mainprofile/14070230506579552/25d1337d-ffdd-423d-b058-36094da90c59/manifest.m3u8",
+      "videoCaption": "Hutuo Announcement Trailer - 1st Anniversary | Where Winds Meet",
       "releaseDate": "2026-06-07",
       "categories": [
         "Juegos de rol",
@@ -60259,19 +60281,19 @@
           "recommended": "Micrófono integrado"
         }
       ],
-      "maxInstallSize": 59064635392,
+      "maxInstallSize": 59064631296,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/world-of-warships-legends/C1ZT6N30L1WH"
     },
     {
       "id": "9PLCL2VB2SC0",
-      "title": "World War Z: Aftermath",
-      "description": "World War Z: Aftermath es el shooter cooperativo de zombis definitivo, basado en la taquillera película de Paramount Pictures; además de ser el siguiente paso de World War Z, el éxito que ha cautivado a más de 20 millones de jugadores. Cambia el curso del apocalipsis zombi en consolas y en PC con cross-play completo. Únete con hasta tres amigos o juega en solitario con compañeros de IA contra hordas de zombis insaciables en una historia intensa por episodios que se desarrolla en nuevas ubicaciones arrasadas de todo el mundo: Roma, el Vaticano y la península rusa de Kamchatka. \r\n\r\nWorld War Z: Aftermath también incluye todo el contenido de la Game of the Year Edition de World War Z. Los jugadores que ya tengan World War Z o World War Z: GOTY Edition tendrán un descuento a la hora de comprar World War Z: Aftermath en la misma plataforma en que tengan dicha edición.\r\n\r\nNuevas historias de un mundo en guerra\r\n\r\nEpisodios de historia completamente nuevos en Roma, el Vaticano y la zona más oriental de Rusia: Kamchatka. Juega tanto con personajes nuevos como con otros conocidos para enfrentarte a los muertos vivientes con un nuevo sistema brutal de combate cuerpo a cuerpo, decimar a los zekes con movimientos únicos, ventajas y armas duales como la hoz y el cuchillo. Rechaza a nuevas monstruosidades muertas vivientes, incluyendo manadas de ratas hambrientas que desatarán el caos en tu equipo. \r\n \r\nLa nueva generación de la horda zombi\r\n\r\nJuega en la gloriosa calidad de 4K|60 FPS en Xbox Series X|S. Resiste el asalto de oleadas infinitas de zombis cada vez más fuertes en el nuevo modo de juego Modo Horda XL para Xbox Series X|S, con cientos de zombis más en pantalla de lo que era posible anteriormente. \r\n\r\nProgreso detallado y una nueva perspectiva\r\n\r\nVive una nueva perspectiva con el inmersivo modo de primera persona de Aftermath. Sube de nivel ocho clases únicas: pistolero, destructor, rebanador, médico, manitas, exterminador, maestro de drones y una nueva: vanguardista, cada una de ellas con sus propias ventajas y estilos de juego. Personaliza tus armas para sobrevivir a cualquier desafío y conquista nuevas misiones diarias con modificadores especiales para conseguir recompensas adicionales.",
-      "shortDescription": "World War Z: Aftermath es el shooter cooperativo de zombis definitivo y el siguiente paso de World War Z, el éxito que ha cautivado a más de 20 millones de jugadores. Rechaza hordas de zombis en una historia por episodios situada en nuevas ubicaciones de todo el mundo.",
+      "title": "World War Z: Year 1 Edition",
+      "description": "World War Z: Year 1 Edition te permitirá vivir el primer año de la historia del exitoso juego de zombis cooperativo que ha cautivado a más de 25 millones de jugadores.\n\nLa edición Year 1 incluye:\n\n\nWorld War Z\nEl fascinante juego de zombis cooperativo para hasta cuatro jugadores en el que luchas contra hordas de zombis. Desde Nueva York hasta Moscú, y desde Japón hasta Jerusalén: el apocalipsis de los no muertos sigue esparciéndose. El fin se acerca, pero los más aguerridos se han unido para derrotar a la horda y sobrevivir a los muertos. \n\n3 episodios adicionales:\n\nMarsella\nUna megahorda sin precedentes está barriendo la Costa Azul. Ni los grupos de supervivientes que se refugian en fortalezas medievales costeras están a salvo, ya que caen y son devorados uno a uno. Un grupo de supervivientes estacionado en Fort Saint-Nicolas, Marsella, es la última y mejor esperanza de sobrevivir al asalto. \n\nRoma\nEnfréntate a los zetas en combates cuerpo a cuerpo por las calles en batallas épicas por catacumbas, el Coliseo y muchas más localizaciones. Rescata a un grupo de ingenieros desaparecidos que corren el riesgo de que la horda de zombis vaya a por ellos y encuentra el plan para recuperar el Vaticano. \n\nKamchatka\nÚnete a los refugiados japoneses y a los supervivientes de la zona contra los enemigos comunes, los zetas, y el mortal e implacable clima frío. Atraviesa un crucero abandonado y enfréntate a la ventisca para encontrar a un comandante que ayude a pactar entre los asentamientos japoneses y rusos y dar con una solución juntos.",
+      "shortDescription": "World War Z: Year 1 Edition te permitirá vivir el primer año de la historia del exitoso juego de zombis cooperativo que ha cautivado a más de 25 millones de jugadores.",
       "developer": "Saber Interactive Inc.",
       "publisher": "Saber Interactive Inc.",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.52097.14315814591543581.e259272c-6394-43a0-9fcb-744c0a35683f.74727990-a7ec-4dbd-8bc9-29b0b83eebee",
-      "heroImage": "https://store-images.s-microsoft.com/image/apps.6226.14045535769728047.85d0711f-7ce8-4a86-bd72-ebb541ae51d5.d217f364-9faa-49c2-9d66-271db2341be3",
+      "imageUrl": "https://store-images.s-microsoft.com/image/apps.11303.14315814591543581.7abfbd86-71c6-4582-a8ef-26d2cba60921.fd262ff0-3854-4d0d-b014-2d434eb6a2ca",
+      "heroImage": "https://store-images.s-microsoft.com/image/apps.31616.14315814591543581.7abfbd86-71c6-4582-a8ef-26d2cba60921.c3679bc6-67ae-4f48-a119-c80e2b04885d",
       "screenshots": [
         "https://store-images.s-microsoft.com/image/apps.37135.13997916822783361.bc537227-7402-4b38-adfe-665815bd8806.2cb25d0c-f439-46b7-a043-dd2773649cd7",
         "https://store-images.s-microsoft.com/image/apps.58811.13997916822783361.bc537227-7402-4b38-adfe-665815bd8806.22dfe43a-c750-4835-a6ba-93ff095ab248",
@@ -60343,7 +60365,7 @@
       ],
       "maxInstallSize": 84920864768,
       "hasAddOns": true,
-      "storeUrl": "https://www.xbox.com/es-es/games/store/world-war-z-aftermath/9PLCL2VB2SC0"
+      "storeUrl": "https://www.xbox.com/es-es/games/store/world-war-z-year-1-edition/9PLCL2VB2SC0"
     },
     {
       "id": "BRJNRZ9N734V",
@@ -60624,16 +60646,16 @@
       "shortDescription": "Wuthering Waves es un juego de rol de mundo abierto lleno de historias y que permite un alto grado de libertad de juego. Despiertas como Errante, acompañado de un elenco vibrante de Resonadores, en un viaje para recuperar tus recuerdos perdidos, explorar y transformar el mundo.",
       "developer": "KURO GAMES",
       "publisher": "KURO GAMES",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.41355.14597666972638877.5bceb6f8-6cdc-4d7b-bf47-6857fe6c0434.7ed514f5-984b-48f8-9420-0aff88f34e7f",
-      "heroImage": "https://store-images.s-microsoft.com/image/apps.53938.14597666972638877.5bceb6f8-6cdc-4d7b-bf47-6857fe6c0434.62c89a6e-8525-4e0f-a416-1bb7f9f8d66b",
+      "imageUrl": "https://store-images.s-microsoft.com/image/apps.892.14597666972638877.997ecdaf-86da-490b-9c6a-bb00a16ac10c.22e253a7-e520-4052-80f1-986412b0a6c1",
+      "heroImage": "https://store-images.s-microsoft.com/image/apps.55886.14597666972638877.997ecdaf-86da-490b-9c6a-bb00a16ac10c.3a33bacc-a7a7-4322-9802-8beb55449b5a",
       "screenshots": [
-        "https://store-images.s-microsoft.com/image/apps.15679.14597666972638877.5bceb6f8-6cdc-4d7b-bf47-6857fe6c0434.79de16a6-ab96-45db-89a9-5ad01b98475b",
-        "https://store-images.s-microsoft.com/image/apps.36014.14597666972638877.5bceb6f8-6cdc-4d7b-bf47-6857fe6c0434.ada3f635-18fd-4d76-b938-c5987ddfac9e",
-        "https://store-images.s-microsoft.com/image/apps.25586.14597666972638877.5bceb6f8-6cdc-4d7b-bf47-6857fe6c0434.c4dcc398-4024-4d47-84cb-952265c40daa",
-        "https://store-images.s-microsoft.com/image/apps.35400.14597666972638877.5bceb6f8-6cdc-4d7b-bf47-6857fe6c0434.ac90d688-8c8f-42c1-b9ae-745e718457c2"
+        "https://store-images.s-microsoft.com/image/apps.61034.14597666972638877.997ecdaf-86da-490b-9c6a-bb00a16ac10c.e1394843-4470-4bd1-9d56-684fdf855090",
+        "https://store-images.s-microsoft.com/image/apps.39378.14597666972638877.997ecdaf-86da-490b-9c6a-bb00a16ac10c.66c80875-ed1b-4b5e-9341-fdf74abbaabb",
+        "https://store-images.s-microsoft.com/image/apps.42503.14597666972638877.997ecdaf-86da-490b-9c6a-bb00a16ac10c.a57b75e7-0847-49ab-a748-2a8936d47de9",
+        "https://store-images.s-microsoft.com/image/apps.44520.14597666972638877.997ecdaf-86da-490b-9c6a-bb00a16ac10c.cf1c028f-16e7-4a0b-bd04-8f2b47a0c51e"
       ],
-      "videoUrl": "https://cdn.trailers.xboxservices.com/trailers/00000000-0000-0000-0000-000000000000/xbox/prod/videos/mainprofile/14597666972638877/774d4e53-ece7-4816-8115-47dc7a73435e/manifest.m3u8",
-      "videoCaption": "WuWa v3.7",
+      "videoUrl": "https://cdn.trailers.xboxservices.com/trailers/00000000-0000-0000-0000-000000000000/xbox/prod/videos/mainprofile/14597666972638877/f3394025-328c-4cae-b3d2-2e0828e8cc0d/manifest.m3u8",
+      "videoCaption": "v3.8",
       "releaseDate": "2026-07-09",
       "categories": [
         "Acción y aventura",
@@ -60863,8 +60885,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 4,
-      "ratingCount": 87,
+      "rating": 4.1,
+      "ratingCount": 88,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
