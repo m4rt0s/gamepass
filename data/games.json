@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-15T15:04:02.698Z",
+  "updatedAt": "2026-11-16T17:34:39.590Z",
   "market": "ES",
   "language": "es-ES",
-  "totalGames": 822,
+  "totalGames": 809,
   "counts": {
-    "essential": 134,
-    "premium": 568,
-    "pc": 481,
-    "ultimate": 725,
-    "total": 822
+    "essential": 132,
+    "premium": 555,
+    "pc": 469,
+    "ultimate": 712,
+    "total": 809
   },
   "categories": [
     "Acción y aventura",
@@ -30,104 +30,6 @@
     "Simulación"
   ],
   "games": [
-    {
-      "id": "9NPDN9R45JX4",
-      "title": "1000xRESIST",
-      "description": "1000xRESIST es una emocionante aventura de ciencia ficción con tres nominaciones a los premios IGF. En una época futura, dentro de 1000 años, una enfermedad extraterrestre asola la humanidad y obliga a las supervivientes a vivir bajo tierra. Allí, eres Analista y te dedicas a servir a la Holomadre con la mejor predisposición. Sin embargo, todo cambia cuando descubres un antiguo secreto que pone en entredicho toda tu existencia.\n\nEL FIN DE LA HUMANIDAD\nEn un futuro cercano, la humanidad descubre que no está sola en el universo cuando sufre la invasión de unos gigantescos y misteriosos seres a los que llama «ocupantes».\nNo son hostiles, pero eso no importa; su llegada supone una sentencia de muerte. La humanidad se extingue al cabo de pocos meses debido a una enfermedad que les ocupantes han traído a nuestro planeta.\nPero hay una superviviente: una adolescente llamada Iris que, por motivos desconocidos, resulta ser inmune a esa afección.\n\nUNA SOCIEDAD RENACIDA A SU IMAGEN Y SEMEJANZA\nMil años después, Iris ha dado a luz a toda una sociedad formada exclusivamente por clones suyos, y queda patente que no solo es inmune, sino también inmortal.\nLlama a las clones «hermanas», y ellas la llaman «Holomadre».\nA diferencia de la Holomadre, las hermanas sí son vulnerables. Llevan puesta una máscara en todo momento para no contagiarse incluso dentro del Vergel, el búnker subterráneo en el que se refugian. Y ni siquiera allí viven en paz, ya que temen que les ocupantes ataquen en cualquier momento.\nMientras ellas viven en el búnker, la Holomadre reside en unas instalaciones independientes junto al frente de batalla. El sueño compartido de todas las hermanas es, algún día, coger el tren y unirse a ella en la lucha contra les ocupantes.\n\nREVIVE SUS RECUERDOS\nA cada hermana se le asigna una función dentro del Vergel, pero hay seis de ellas que desempeñan un papel especial.\nDirectora: Jefa de administración y supervisora del Vergel\nPium Pium Fuego: Jefa del ejército\nDocta: Jefa de preservación del conocimiento\nMecánica: Jefa de ingeniería\nSanitaria: Jefa de medicina y clonación\nY tú, la nueva Analista.\nTu puesto es único, ya que tienes el inmenso privilegio de revivir e interpretar los recuerdos de la Holomadre. Para hacerlo, debes entrar en la «comunión», un proceso facilitado por el secretario, tu IA acompañante.\nAl principio del juego, estás ilusionada y deseando embarcarte en tu primera comunión.\n\nSOBREPONTE A UNA MENTIRA CENTENARIA\nPero hay algo que no marcha bien.\nTu hermana más querida, Mecánica, te revela una información muy delicada. Al parecer, os han mentido. La Holomadre no es quien dice ser.\nLas palabras de Mecánica te cambian la vida. Sacuden los cimientos de tu existencia y te hacen dudar de todo lo que sabías y pensabas hasta ese momento.\nPor eso, cuando ejecutan a Mecánica por traición, sabes que tienes el deber de averiguar la verdad.\n\nDESCUBRE LA VERDAD\nRebusca entre los recuerdos de la Holomadre.\nExplora los momentos más relevantes de su vida, desde el instituto hasta la llegada de les ocupantes, pasando por la creación del Vergel y el nacimiento de las primeras hermanas.\nSalta de momento en momento, avanza y retrocede en el tiempo, intenta resolver los rompecabezas y accede a secretos y zonas prohibidas.\nCuando no estás en comunión, puedes explorar el Vergel. Este inmenso centro subterráneo no solo alberga tu hogar y el de tus hermanas, sino que es el lugar perfecto para hablar con otros personajes y descubrir cosas nuevas.\nAverigua la verdad y recupera tu legado.\n\nUNA HISTORIA COMO NINGUNA\nExperimenta cambios de perspectiva literales y metafóricos en un juego que combina la aventura en tercera persona, la novela visual y los paseos en primera persona mientras te sorprende con giros y revelaciones para que te cuestiones todo lo que creías saber.\nEl juego bebe de varias fuentes de inspiración, entre ellas los juegos de Yoko Taro (NieR:Automata), los anime de Satoshi Kon (Perfect Blue) y Naoko Yamada (A Silent Voice), e incluso la dramaturgia de Robert Wilson (Einstein en la playa). 1000xRESIST cuenta su historia como solo un videojuego puede hacerlo, pero, al mismo tiempo, consigue algo innovador: incorporar a la narración interactiva ideas propias del teatro, el cine, la danza y el arte interpretativo.\n\nDIÁLOGOS CON DOBLAJE\nEl juego cuenta con 15 000 líneas de diálogo dobladas a lo largo de sus 10 horas de juego. Disfruta del talento del elenco de actores asiático-canadienses y de la increíble banda sonora creada por dos compositores.\n\nSOBRE EL ESTUDIO DE DESARROLLO\n1000xRESIST es obra de sunset visitor 斜陽過客, un estudio independiente de Vancouver (Canadá) especializado en contar historias diversas desde la ficción especulativa. Somos un grupo formado en su mayoría por creadores y creadoras asiático-canadienses con una década de experiencia en danza, música, cine, artes visuales y nuevos medios. Aplicamos nuestros conocimientos y experiencia en las artes experimentales a los medios interactivos.",
-      "shortDescription": "1000xRESIST es una emocionante aventura de ciencia ficción. En una época futura, una enfermedad alienígena te obliga a vivir bajo tierra. Eres Analista y te dedicas a servir a la Holomadre hasta que, un día, descubres un impactante secreto que lo cambia todo. ",
-      "developer": "sunset visitor 斜陽過客",
-      "publisher": "Fellow Traveller",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.42712.13724740810259939.b66dd818-9d75-4097-b510-7e4f8f43131a.ac32cda4-2fd9-4049-a090-966d3ace3e22",
-      "heroImage": "https://store-images.s-microsoft.com/image/apps.38663.13724740810259939.b66dd818-9d75-4097-b510-7e4f8f43131a.17207052-a7ae-4ad3-afaa-030774844c4d",
-      "screenshots": [
-        "https://store-images.s-microsoft.com/image/apps.65229.13724740810259939.b66dd818-9d75-4097-b510-7e4f8f43131a.110cc837-4226-4730-8d4c-e36a920cda42",
-        "https://store-images.s-microsoft.com/image/apps.10765.13724740810259939.b66dd818-9d75-4097-b510-7e4f8f43131a.e996b78c-ced3-43d6-bef8-bd23af4ca86a",
-        "https://store-images.s-microsoft.com/image/apps.43290.13724740810259939.b66dd818-9d75-4097-b510-7e4f8f43131a.829052de-11d7-4fec-99a7-badcfe1024c8",
-        "https://store-images.s-microsoft.com/image/apps.62424.13724740810259939.b66dd818-9d75-4097-b510-7e4f8f43131a.1d3fe248-fdcf-4179-9047-30f52d40cb91"
-      ],
-      "videoUrl": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftassets/5409607a-9799-47a3-9150-2319d25c8403-AVS.m3u8?packagedStreaming=true",
-      "videoCaption": "1000xRESIST Trailer",
-      "releaseDate": "2025-11-04",
-      "categories": [
-        "Acción y aventura"
-      ],
-      "tiers": [
-        "pc",
-        "premium",
-        "ultimate"
-      ],
-      "platform": "both",
-      "price": 19.99,
-      "msrp": 19.99,
-      "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
-      "rating": 2.4,
-      "ratingCount": 52,
-      "ageRating": 16,
-      "pegiRating": "PEGI 16",
-      "pegiDescription": "Apropiado a partir de 16 años",
-      "interactiveDescriptions": [],
-      "capabilities": [
-        "4K Ultra HD",
-        "Un jugador",
-        "Optimizado para Xbox Series X|S",
-        "Mouse y teclado de la consola",
-        "Logros de Xbox",
-        "Cosas guardadas en la nube de Xbox",
-        "Xbox Play Anywhere"
-      ],
-      "systemRequirements": [
-        {
-          "title": "SO",
-          "minimum": "Windows 10 version 18362.0 or higher",
-          "recommended": "Windows 10 version 18362.0 or higher"
-        },
-        {
-          "title": "Arquitectura",
-          "minimum": "x64",
-          "recommended": "x64"
-        },
-        {
-          "title": "Gráficos",
-          "minimum": "GTX 1650 3GB VRAM",
-          "recommended": "GTX 1060 6GB VRAM"
-        },
-        {
-          "title": "Procesador",
-          "minimum": "Intel Core i5",
-          "recommended": "Intel Core i7"
-        },
-        {
-          "title": "Memoria",
-          "minimum": "8 GB",
-          "recommended": "16 GB"
-        },
-        {
-          "title": "Memoria de vídeo",
-          "minimum": "4 GB",
-          "recommended": "6 GB"
-        },
-        {
-          "title": "Teclado",
-          "minimum": "",
-          "recommended": "Teclado integrado"
-        },
-        {
-          "title": "Mouse",
-          "minimum": "",
-          "recommended": "Mouse integrado"
-        },
-        {
-          "title": "Controladora",
-          "minimum": "",
-          "recommended": "Controladora de Xbox"
-        }
-      ],
-      "maxInstallSize": 8615550976,
-      "hasAddOns": false,
-      "storeUrl": "https://www.xbox.com/es-es/games/store/1000xresist/9NPDN9R45JX4"
-    },
     {
       "id": "9P8LR42PTRGJ",
       "title": "33 Immortals",
@@ -601,11 +503,11 @@
         "ultimate"
       ],
       "platform": "both",
-      "price": 14.99,
+      "price": 24.99,
       "msrp": 24.99,
       "currency": "EUR",
-      "hasDiscount": true,
-      "discountPercent": 40,
+      "hasDiscount": false,
+      "discountPercent": 0,
       "rating": 4.7,
       "ratingCount": 53,
       "ageRating": 12,
@@ -668,11 +570,11 @@
         "ultimate"
       ],
       "platform": "both",
-      "price": 14.99,
+      "price": 24.99,
       "msrp": 24.99,
       "currency": "EUR",
-      "hasDiscount": true,
-      "discountPercent": 40,
+      "hasDiscount": false,
+      "discountPercent": 0,
       "rating": 3.5,
       "ratingCount": 17,
       "ageRating": 12,
@@ -2806,7 +2708,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.7,
-      "ratingCount": 21181,
+      "ratingCount": 21182,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -5161,7 +5063,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.3,
-      "ratingCount": 142,
+      "ratingCount": 143,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -5339,85 +5241,6 @@
       "maxInstallSize": 672792576,
       "hasAddOns": false,
       "storeUrl": "https://www.xbox.com/es-es/games/store/banjo-tooie/BX27S00SKW1V"
-    },
-    {
-      "id": "9N21ZCV0JW6V",
-      "title": "Barbie™ Rutas a caballo",
-      "description": "¡Arre! Juega como Barbie™ y Barbie en una nueva aventura de mundo abierto por todo el parque de Canterbury Trails a lomos de tu querida yegua Lucky.\n\nConviértete en guarda forestal y ayuda con la revitalización del parque para que todos puedan disfrutarlo. Galopa por prados de flores silvestres y otros paisajes. Diviértete con amigos en las misiones secundarias, haz fotos increíbles, desentierra cerámicas y busca el caballo misterioso. Encuentra cofres llenos de objetos coleccionables y haz que Barbie y Lucky luzcan conjuntos espectaculares.\n\nDesde las cabañas acogedoras a los campamentos animados, hay mucho por explorar y descubrir. \n\n¡Ven y cabalga hacia esta salvaje aventura! ",
-      "shortDescription": "Hay muchísimo por explorar y descubrir en el parque de Canterbury Trails. Juega como Barbie™ y Barbie, y cabalga con tu yegua Lucky.",
-      "developer": "PHL Collective",
-      "publisher": "Outright Games Ltd.",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.50779.13960600887743581.ba328299-e217-4554-95d0-597345e02b27.f85003ac-7ed2-4be1-b92a-7b0de0182df0",
-      "heroImage": "https://store-images.s-microsoft.com/image/apps.884.13960600887743581.ba328299-e217-4554-95d0-597345e02b27.16288063-9e98-411c-b8b9-e1a1f87696ee",
-      "screenshots": [
-        "https://store-images.s-microsoft.com/image/apps.51131.13960600887743581.ba328299-e217-4554-95d0-597345e02b27.5adb4c62-86b2-45bd-93d9-8ce3ffd6dccd",
-        "https://store-images.s-microsoft.com/image/apps.54748.13960600887743581.f969af22-849c-4e8d-aaf7-174131188f1f.fe2238bb-c60d-4230-a2d2-bea646fb084f",
-        "https://store-images.s-microsoft.com/image/apps.26844.13960600887743581.ba328299-e217-4554-95d0-597345e02b27.93843939-a235-4946-a0ab-e005dd02f827",
-        "https://store-images.s-microsoft.com/image/apps.33267.13960600887743581.f969af22-849c-4e8d-aaf7-174131188f1f.244ad75e-42a9-4bc2-a9a1-c777be9e3c69"
-      ],
-      "videoUrl": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftassets/7847c8eb-8abf-4946-8b78-014f9743bfd4-AVS.m3u8?packagedStreaming=true",
-      "videoCaption": "Tráiler de presentación",
-      "releaseDate": "2025-10-09",
-      "categories": [
-        "Niños y familia",
-        "Acción y aventura"
-      ],
-      "tiers": [
-        "pc",
-        "premium",
-        "ultimate"
-      ],
-      "platform": "both",
-      "price": 39.99,
-      "msrp": 39.99,
-      "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
-      "rating": 4.3,
-      "ratingCount": 6,
-      "ageRating": 3,
-      "pegiRating": "PEGI 3",
-      "pegiDescription": "Apropiado a partir de 3 años",
-      "interactiveDescriptions": [],
-      "capabilities": [
-        "4K Ultra HD",
-        "Un jugador",
-        "Optimizado para Xbox Series X|S",
-        "Entrega inteligente",
-        "Logros de Xbox",
-        "Cosas guardadas en la nube de Xbox",
-        "Xbox Play Anywhere"
-      ],
-      "systemRequirements": [
-        {
-          "title": "SO",
-          "minimum": "Windows 10 version 18362.0 or higher",
-          "recommended": "Windows 10 version 18362.0 or higher"
-        },
-        {
-          "title": "Arquitectura",
-          "minimum": "x64",
-          "recommended": "x64"
-        },
-        {
-          "title": "Controladora",
-          "minimum": "Controladora de Xbox",
-          "recommended": ""
-        },
-        {
-          "title": "Teclado",
-          "minimum": "",
-          "recommended": "Teclado integrado"
-        },
-        {
-          "title": "Mouse",
-          "minimum": "",
-          "recommended": "Mouse integrado"
-        }
-      ],
-      "maxInstallSize": 8315228160,
-      "hasAddOns": false,
-      "storeUrl": "https://www.xbox.com/es-es/games/store/barbie-rutas-a-caballo/9N21ZCV0JW6V"
     },
     {
       "id": "BSLX1RNXR6H7",
@@ -5790,7 +5613,7 @@
     {
       "id": "9P2FF14JZLL3",
       "title": "Battlefield™ 6",
-      "description": "La experiencia definitiva de guerra total. Lucha en intensos combates de infantería, atraviesa los cielos en combate aéreo, destruye tu entorno y consigue una ventaja estratégica, y toma el control de todas tus decisiones y movimientos con el sistema de combate cenestésico. En una guerra de tanques, cazas y gigantescos arsenales de combate, el arma más mortífera es tu patrulla. Esto es Battlefield 6.\n\nMULTIJUGADOR\nLa victoria, tal y como tú la imagines. Battlefield 6 te brinda más opciones de victoria que nunca. Consigue la gloria en mapas masivos emblemáticos o sumérgete en un combate a corta distancia trepidante. Cambia las reglas del conflicto con el renovado y perfeccionado Battlefield Portal. Combate en escenarios icónicos de todo el globo, como El Cairo, Brooklyn, Gibraltar, Japón y otros. Más formas de disfrutar. Más rutas hacia la victoria.\n\nCAMPAÑA A ESCALA GLOBAL\nConduce tanques por el Sáhara. Tomad las playas de Gibraltar. Defiende Nueva York de una invasión. Únete a una patrulla de élite de raiders de la Marina que lucha sin descanso para salvar un mundo al borde del colapso.\n\nPORTAL\nRedefine las líneas de batalla. Battlefield Portal es una inmensa caja de herramientas que permite a creadores y fans llevar Battlefield al límite. Disfruta de un control sin precedentes de tu entorno moviendo, escalando y duplicando objetos. Crea un modo de juego completamente único mediante scripts de NPC y una interfaz personalizable. Hay muchas experiencias legendarias en Battlefield esperando a ser creadas. Demuestra lo que vales.\n\nEL NUEVO ESTÁNDAR DE COMBATE DE SHOOTERS\nEl nuevo sistema de combate cenestésico de Battlefield te hará sentir una mayor conexión con tu soldado y con el entorno. Gracias a las mejoras de la jugabilidad con armas y el movimiento táctico, como el esprint agachado o el arrastrar y reanimar, cada disparo y movimiento es más intuitivo y preciso.\n\nGUERRA TOTAL ICÓNICA\nDomina la tierra, el aire y el mar en una guerra total con combates de infantería y vehículos, juego en patrulla por clases y una inmersión audiovisual de vanguardia. Un lugar donde la guerra naval, los cazas de combate, los tanques, los RPG en caída libre, la artillería pesada y el combate de infantería de alta intensidad se vuelven uno. Esto es la guerra que solo se vive en Battlefield.\n\nDESTRUCCIÓN TÁCTICA\nLa destrucción es tu arma. Utiliza un vehículo como bola de demolición. Sepulta a una patrulla bajo un edificio. Destruye el entorno para obtener ventaja estratégica. Las señales audiovisuales, más reactivas y precisas que nunca, te permitirán saber exactamente cuánto queda para destruir un objeto. Domina el entorno, ayuda a tu patrulla a ganar.\n\nEste juego incluye la compra opcional en el juego de divisa virtual que se puede utilizar para adquirir artículos virtuales del juego.\n\nRequiere Battlefield REDSEC y todas las actualizaciones del juego. Incluye compras opcionales en el juego. Oferta por tiempo limitado. Sujeto a condiciones y limitaciones. Visita battlefield.com/disclaimers para obtener más información.\nSujeto a condiciones y limitaciones. Consulta https://www.ea.com/games/battlefield/battlefield-6/game-disclaimers para obtener más información.\n©2026 Electronic Arts Inc. Battlefield es una marca comercial de Electronic Arts Inc.\nNingún fabricante de armas, equipamiento o vehículos militares está afiliado a este juego, ni le ha otorgado su patrocinio o respaldo.",
+      "description": "La experiencia definitiva de guerra total. Lucha en intensos combates de infantería, atraviesa los cielos en combate aéreo, destruye tu entorno y consigue una ventaja estratégica, y toma el control de todas tus decisiones y movimientos con el sistema de combate cenestésico. En una guerra de tanques, cazas y gigantescos arsenales de combate, el arma más mortífera es tu patrulla. Esto es Battlefield 6.\n\nMULTIJUGADOR\nLa victoria, tal y como tú la imagines. Battlefield 6 te brinda más opciones de victoria que nunca. Consigue la gloria en mapas masivos emblemáticos o sumérgete en un combate a corta distancia trepidante. Cambia las reglas del conflicto con el renovado y perfeccionado Battlefield Portal. Combate en escenarios icónicos de todo el globo, como El Cairo, Brooklyn, Gibraltar, Japón y otros. Más formas de disfrutar. Más rutas hacia la victoria.\n\nCAMPAÑA A ESCALA GLOBAL\nConduce tanques por el Sáhara. Tomad las playas de Gibraltar. Defiende Nueva York de una invasión. Únete a una patrulla de élite de raiders de la Marina que lucha sin descanso para salvar un mundo al borde del colapso.\n\nPORTAL\nRedefine las líneas de batalla. Battlefield Portal es una inmensa caja de herramientas que permite a creadores y fans llevar Battlefield al límite. Disfruta de un control sin precedentes de tu entorno moviendo, escalando y duplicando objetos. Crea un modo de juego completamente único mediante scripts de NPC y una interfaz personalizable. Hay muchas experiencias legendarias en Battlefield esperando a ser creadas. Demuestra lo que vales.\n\nEL NUEVO ESTÁNDAR DE COMBATE DE SHOOTERS\nEl nuevo sistema de combate cenestésico de Battlefield te hará sentir una mayor conexión con tu soldado y con el entorno. Gracias a las mejoras de la jugabilidad con armas y el movimiento táctico, como el esprint agachado o el arrastrar y reanimar, cada disparo y movimiento es más intuitivo y preciso.\n\nGUERRA TOTAL ICÓNICA\nDomina la tierra, el aire y el mar en una guerra total con combates de infantería y vehículos, juego en patrulla por clases y una inmersión audiovisual de vanguardia. Un lugar donde la guerra naval, los cazas de combate, los tanques, los RPG en caída libre, la artillería pesada y el combate de infantería de alta intensidad se vuelven uno. Esto es la guerra que solo se vive en Battlefield.\n\nDESTRUCCIÓN TÁCTICA\nLa destrucción es tu arma. Utiliza un vehículo como bola de demolición. Sepulta a una patrulla bajo un edificio. Destruye el entorno para obtener ventaja estratégica. Las señales audiovisuales, más reactivas y precisas que nunca, te permitirán saber exactamente cuánto queda para destruir un objeto. Domina el entorno, ayuda a tu patrulla a ganar.\n\nEste juego incluye la compra opcional en el juego de divisa virtual que se puede utilizar para adquirir artículos virtuales del juego.\n\nSujeto a condiciones y limitaciones. Consulta https://www.ea.com/games/battlefield/battlefield-6/game-disclaimers para obtener más información.\n©2026 Electronic Arts Inc. Battlefield es una marca comercial de Electronic Arts Inc.\nNingún fabricante de armas, equipamiento o vehículos militares está afiliado a este juego, ni le ha otorgado su patrocinio o respaldo.",
       "shortDescription": "El shooter más vendido de 2025",
       "developer": "Battlefield Studios",
       "publisher": "Electronic Arts",
@@ -5876,7 +5699,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.8,
-      "ratingCount": 295,
+      "ratingCount": 296,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -8365,11 +8188,11 @@
         "ultimate"
       ],
       "platform": "pc",
-      "price": 79.99,
+      "price": 31.99,
       "msrp": 79.99,
       "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
+      "hasDiscount": true,
+      "discountPercent": 60,
       "rating": 2,
       "ratingCount": 42,
       "ageRating": 18,
@@ -8433,11 +8256,11 @@
         "ultimate"
       ],
       "platform": "console",
-      "price": 79.99,
+      "price": 31.99,
       "msrp": 79.99,
       "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
+      "hasDiscount": true,
+      "discountPercent": 60,
       "rating": 2.1,
       "ratingCount": 46,
       "ageRating": 18,
@@ -9386,7 +9209,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3,
-      "ratingCount": 180,
+      "ratingCount": 179,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -9835,7 +9658,7 @@
           "recommended": "Controladora de Xbox"
         }
       ],
-      "maxInstallSize": 3392831488,
+      "maxInstallSize": 3393323008,
       "hasAddOns": false,
       "storeUrl": "https://www.xbox.com/es-es/games/store/chained-beasts/9PKZRN4RJRC9"
     },
@@ -16030,122 +15853,6 @@
       "storeUrl": "https://www.xbox.com/es-es/games/store/dragon-age-the-veilguard/BSDX4FNNC0DK"
     },
     {
-      "id": "BX03760D0QGN",
-      "title": "DRAGON BALL XENOVERSE 2",
-      "description": "TU HISTORIA, TU AVATAR Y TU MUNDO DE DRAGON BALL\r\n\r\nDragon Ball Xenoverse 2 es la experiencia de juego definitiva de Dragon Ball, llena de acción trepidante, batallas épicas y un sinfín de opciones de personalización. ¡Crea tu propio personaje, explora Conton City y entrena con personajes emblemáticos de la saga como maestros para poder enfrentarte a enemigos formidables y rescatar el flujo de la historia!\r\n\r\nA medida que avances en el juego, podrás personalizar el aspecto, las habilidades y el conjunto de movimientos de tu personaje para crear un guerrero realmente único y poderoso.\r\n\r\n¡Pero la diversión no termina aquí! Dragon Ball Xenoverse 2 también dispone de modos multijugador online, en los que podrás medirte con jugadores de todo el mundo en enfrentamientos épicos o participar en combates de ataque contra enemigos fabulosos junto a otros jugadores.\r\n\r\n¡Los siete años de paquetes de contenido descargable aseguran que siempre habrá algo nuevo que descubrir y experimentar en Conton City!\r\n\r\nEL GUERRERO QUE SIEMPRE HAS QUERIDO SER.\r\nLa gran variedad de opciones de personalización te permitirá crear un personaje que se adapte realmente a tu estilo y personalidad. Tienes el control absoluto de tu guerrero. ¡Elige desde su raza y aspecto, hasta sus habilidades y su conjunto de movimientos!\r\n\r\nUNA EXPERIENCIA ONLINE INFINITA.\r\n¡Los múltiples eventos del juego y los modos multijugador online hacen que los combates nunca se detengan! Lucha contra jugadores de todo el mundo en enfrentamientos épicos o forma equipo con ellos para combatir amenazas fabulosas en los combates de ataque.\r\n\r\n¡DEJA QUE TU ESPÍRITU DE LUCHA ARDA!\r\nSumérgete en las batallas intensas y llenas de acción que caracterizan a Dragon Ball. ¡Siente la emoción de la lucha en enfrentamientos uno contra uno o en combates masivos contra múltiples enemigos!\r\n\r\nEl UNIVERSO DE DRAGON BALL TE ESPERA.\r\n¡Salta a diferentes ubicaciones y líneas temporales de Dragon Ball! Combate en lugares emblemáticos del universo Dragon Ball e interactúa con personajes famosos para proteger la historia.\r\n\r\nTODO DRAGON BALL, AQUÍ.\r\nDragon Ball Xenoverse 2 incluye un montón de guiños para los seguidores, ¡con personajes, lugares y momentos emblemáticos de la saga que a los fans les encantará ver y experimentar en el juego!\r\n\r\n¡SIETE AÑOS DE EXPANSIONES!\r\n¡Dragon Ball Xenoverse 2 es más grande que nunca! Tras siete años de nuevos contenidos descargables periódicos, descubre más de 40 personajes, tramas y mucho más de Dragon Ball Z, Dragon Ball Super y las películas de Dragon Ball. ¡Y no te pierdas las actualizaciones gratuitas!\r\n\r\n*Aviso legal: Las imágenes animadas que se muestran en esta página son una combinación de contenidos, algunos de los cuales forman parte de DLC (contenidos descargables) que se venden por separado del juego principal.",
-      "shortDescription": "DRAGON BALL XENOVERSE 2 sucede al popular DRAGON BALL XENOVERSE y viene con gráficos mejorados que sumergirán al jugador en el mayor y más detallado mundo de Dragon Ball jamás desarrollado.",
-      "developer": "Dimps",
-      "publisher": "Bandai Namco Entertainment Inc.",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.32513.63336639312113079.ceb7d6d9-5c03-4721-ab3f-09019902f961.e4eb532e-0d8b-41c0-ac6a-dbeb6ff4e9dd",
-      "heroImage": "https://store-images.s-microsoft.com/image/apps.29991.63336639312113079.ceb7d6d9-5c03-4721-ab3f-09019902f961.6cc5d6bd-1b2b-4351-af8d-59a6b4014655",
-      "screenshots": [
-        "https://store-images.s-microsoft.com/image/apps.52410.63336639312113079.657749df-579b-470a-b3e2-92d0ba95f1ef.25612ff3-0e84-46cb-b1a4-4dd0c726d244",
-        "https://store-images.s-microsoft.com/image/apps.33710.63336639312113079.657749df-579b-470a-b3e2-92d0ba95f1ef.d241e576-3f62-4f9c-b4d8-215d65327d1d",
-        "https://store-images.s-microsoft.com/image/apps.57464.63336639312113079.657749df-579b-470a-b3e2-92d0ba95f1ef.75dcab58-6003-4444-95d3-1ed17f1aee68",
-        "https://store-images.s-microsoft.com/image/apps.33572.63336639312113079.657749df-579b-470a-b3e2-92d0ba95f1ef.b505d961-34c1-49ec-b045-054ef5f121bf"
-      ],
-      "videoUrl": "",
-      "videoCaption": "",
-      "releaseDate": "2016-10-28",
-      "categories": [
-        "Acción y aventura"
-      ],
-      "tiers": [
-        "pc",
-        "premium",
-        "ultimate"
-      ],
-      "platform": "both",
-      "price": 19.99,
-      "msrp": 19.99,
-      "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
-      "rating": 3.8,
-      "ratingCount": 196,
-      "ageRating": 12,
-      "pegiRating": "PEGI 12",
-      "pegiDescription": "Apropiado a partir de 12 años",
-      "interactiveDescriptions": [
-        "Compras dentro del juego"
-      ],
-      "capabilities": [
-        "Cooperativo en línea  (2-6)",
-        "Multijugador local de Xbox (2-2)",
-        "Multijugador en línea  (2-6)",
-        "4K Ultra HD",
-        "Un jugador",
-        "Multijugador multgeneración de Xbox Live",
-        "60 fps +",
-        "Optimizado para Xbox Series X|S",
-        "Entrega inteligente",
-        "Logros de Xbox",
-        "Presencia de Xbox",
-        "Cosas guardadas en la nube de Xbox",
-        "Xbox Play Anywhere"
-      ],
-      "systemRequirements": [
-        {
-          "title": "SO",
-          "minimum": "Windows 10 version 18362.0 or higher",
-          "recommended": "Windows 10 version 18362.0 or higher"
-        },
-        {
-          "title": "Arquitectura",
-          "minimum": "x64",
-          "recommended": "x64"
-        },
-        {
-          "title": "Gráficos",
-          "minimum": "AMD Radeon HD 7770 / Nvidia GeForce GT 1030",
-          "recommended": "AMD Radeon R9 280 / Nvidia GeForce GTX 660 Ti"
-        },
-        {
-          "title": "Procesador",
-          "minimum": "Intel Core i3-8100 / AMD Ryzen 3 3100",
-          "recommended": "Intel Core i3-8100 / AMD Ryzen 3 3100"
-        },
-        {
-          "title": "DirectX",
-          "minimum": "Versión 11",
-          "recommended": "Versión 11"
-        },
-        {
-          "title": "Memoria",
-          "minimum": "4 GB",
-          "recommended": "8 GB"
-        },
-        {
-          "title": "Memoria de vídeo",
-          "minimum": "1 GB",
-          "recommended": "2 GB"
-        },
-        {
-          "title": "Teclado",
-          "minimum": "",
-          "recommended": "Teclado integrado"
-        },
-        {
-          "title": "Mouse",
-          "minimum": "",
-          "recommended": "Mouse integrado"
-        },
-        {
-          "title": "Controladora",
-          "minimum": "",
-          "recommended": "Controladora de Xbox"
-        },
-        {
-          "title": "Micrófono",
-          "minimum": "",
-          "recommended": "Micrófono integrado"
-        }
-      ],
-      "maxInstallSize": 29205741568,
-      "hasAddOns": true,
-      "storeUrl": "https://www.xbox.com/es-es/games/store/dragon-ball-xenoverse-2/BX03760D0QGN"
-    },
-    {
       "id": "9NFQ1XMXDLN6",
       "title": "DreamWorks La casa de muñecas de Gabby: Listos para la fiesta",
       "description": "En esta aventura montarás un fiestón con Gabby y Pandy Patitas. \n\nEmpieza en el mundo de las manualidades con Mamá y Bebé Box y luego ve con Hadigata al jardín de los cuentos. Despega hacia Gaturno y bailotea con DJ Capucha. Prepárate algo rico con Muffin en la Montaña dulce, busca tesoros en Sirenilandia con Siregata y corre por la sala de juegos con Carlita.  \n\nHaz retos y minijuegos en solitario o con amigos en el cooperativo local y encuentra objetos para la fiesta y conjuntos para personalizar a Gabby.  \n\nAprende, juega y crea. ¡Todos están invitados!  ",
@@ -16271,7 +15978,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.8,
-      "ratingCount": 70,
+      "ratingCount": 71,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -16371,11 +16078,11 @@
         "ultimate"
       ],
       "platform": "both",
-      "price": 16.09,
+      "price": 22.99,
       "msrp": 22.99,
       "currency": "EUR",
-      "hasDiscount": true,
-      "discountPercent": 30,
+      "hasDiscount": false,
+      "discountPercent": 0,
       "rating": 4.2,
       "ratingCount": 19,
       "ageRating": 3,
@@ -19146,7 +18853,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.7,
-      "ratingCount": 204,
+      "ratingCount": 205,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -21277,114 +20984,6 @@
       "storeUrl": "https://www.xbox.com/es-es/games/store/final-fantasy-vii-remake-intergrade/9NRQVQ7ZRM7Z"
     },
     {
-      "id": "9NBZ7Z3JRXQ8",
-      "title": "Firefighting Simulator - The Squad",
-      "description": "¡Alerta de incendio! Con Firefighting Simulator: The Squad, podrás formar parte del equipo de bomberos de una gran ciudad estadounidense y experimentar lo que se siente al luchar contra el fuego.\r\n\r\nEnciende la sirena de tu camión de bomberos, coge la manguera y lucha contra incendios realistas para salvar vidas. Descubre más de 30 ubicaciones de despliegue repartidas por la ciudad inspiradas en la costa oeste norteamericana. Pertréchate con equipo de bombero auténtico, como cascos, botas de bombero y un modelo de aparato de respiración de conocidos fabricantes de equipos de bomberos norteamericanos.\r\n\r\nYa sea en la zona industrial, en los suburbios o en el centro: ¡tu ciudad te necesita!\r\n\r\nCaracterísticas:\r\nMultijugador cooperativo: juega con hasta 3 amigos y elige el rol que más te gustaría desempeñar. Asigna tareas al equipo o lánzate a la acción. Tu brigada y tú podéis ser los héroes que la ciudad necesita y salvar la vida de vuestros vecinos.\r\n\r\nUn jugador: lidera a un equipo de bomberos experimentados. Guía a tu brigada hacia el éxito y extinguid tantos fuegos como os sea posible.\r\n\r\nSimulación realista de los incendios que incluye agua, humo, calor, deflagraciones, combustiones súbitas, incendios por aceite y otras causas diversas como aparatos electrónicos, productos químicos o explosiones.\r\n\r\nCinco camiones de bomberos de Rosenbauer America como el TP3® Pumper o el T-Rex® con plataforma hidráulica.\r\n\r\nEquipo contraincendios auténtico de marcas reconocidas de EE. UU. como Cairns®, ERA G1® de MSA y HAIX®.\r\n\r\nUna detallada ciudad de EE. UU. de más de 60 mil metros cuadrados con varios distritos, una zona industrial, suburbios y el centro.",
-      "shortDescription": "¡Alerta de incendio! Con Firefighting Simulator: The Squad, podrás formar parte del equipo de bomberos de una gran ciudad estadounidense y experimentar lo que se siente al luchar contra el fuego.",
-      "developer": "Chronos Unterhaltungssoftware UG",
-      "publisher": "astragon Entertainment",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.37983.13574093128038227.7f017f9d-a7e7-46d3-ac09-ad5cece1a687.d4771ae5-9b57-4a43-8021-142acfe2e595",
-      "heroImage": "https://store-images.s-microsoft.com/image/apps.21696.13574093128038227.7f017f9d-a7e7-46d3-ac09-ad5cece1a687.8c44ae06-7246-4ef6-856e-b9b3e480ec98",
-      "screenshots": [
-        "https://store-images.s-microsoft.com/image/apps.56524.13574093128038227.7f017f9d-a7e7-46d3-ac09-ad5cece1a687.eb742fa9-d24c-4d32-877b-15125ea1374e",
-        "https://store-images.s-microsoft.com/image/apps.32279.13574093128038227.7f017f9d-a7e7-46d3-ac09-ad5cece1a687.e69b37da-baba-4a29-8179-95755601f75c",
-        "https://store-images.s-microsoft.com/image/apps.39246.13574093128038227.7f017f9d-a7e7-46d3-ac09-ad5cece1a687.8538e328-fe74-477d-a7a4-37433fe4c075",
-        "https://store-images.s-microsoft.com/image/apps.55158.13574093128038227.7f017f9d-a7e7-46d3-ac09-ad5cece1a687.69aab521-b99b-4703-83b5-6557659b3c22"
-      ],
-      "videoUrl": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftassets/fc4c459b-fcd6-4148-a99f-5f5cda097f21-AVS.m3u8?packagedStreaming=true",
-      "videoCaption": "Firefighting Simulator-The Squad. Release Trailer",
-      "releaseDate": "2022-12-06",
-      "categories": [
-        "Acción y aventura",
-        "Simulación",
-        "Estrategia"
-      ],
-      "tiers": [
-        "pc",
-        "premium",
-        "ultimate"
-      ],
-      "platform": "both",
-      "price": 8.99,
-      "msrp": 29.99,
-      "currency": "EUR",
-      "hasDiscount": true,
-      "discountPercent": 70,
-      "rating": 2.6,
-      "ratingCount": 22,
-      "ageRating": 7,
-      "pegiRating": "PEGI 7",
-      "pegiDescription": "Apropiado a partir de 7 años",
-      "interactiveDescriptions": [],
-      "capabilities": [
-        "Cooperativo en línea  (2-4)",
-        "Multijugador en línea  (2-4)",
-        "4K Ultra HD",
-        "Un jugador",
-        "Multijugador multgeneración de Xbox Live",
-        "Optimizado para Xbox Series X|S",
-        "Entrega inteligente",
-        "Logros de Xbox",
-        "Cosas guardadas en la nube de Xbox",
-        "Xbox Play Anywhere"
-      ],
-      "systemRequirements": [
-        {
-          "title": "SO",
-          "minimum": "Windows 10 version 18362.0 or higher",
-          "recommended": "Windows 10 version 18362.0 or higher"
-        },
-        {
-          "title": "Arquitectura",
-          "minimum": "x64",
-          "recommended": "x64"
-        },
-        {
-          "title": "Gráficos",
-          "minimum": "GeForce GTX 750 Ti (2 GB VRAM) or AMD Radeon RX 460 (2 GB VRAM) or higher",
-          "recommended": "GeForce GTX 1070 (8 GB VRAM) or  AMD Radeon RX 5600 XT (8 GB VRAM) or higher"
-        },
-        {
-          "title": "Procesador",
-          "minimum": "Intel Core i5-4440 with 3,1 GHz or  AMD FX-8150 with 3,6 GHz or higher",
-          "recommended": "Intel Core i7-3820 with 3,6 GHz or  AMD FX-8350 with 4,0 GHz or higher"
-        },
-        {
-          "title": "Teclado",
-          "minimum": "Teclado integrado",
-          "recommended": ""
-        },
-        {
-          "title": "Mouse",
-          "minimum": "Mouse integrado",
-          "recommended": ""
-        },
-        {
-          "title": "DirectX",
-          "minimum": "Versión 11",
-          "recommended": "Versión 11"
-        },
-        {
-          "title": "Memoria",
-          "minimum": "8 GB",
-          "recommended": "16 GB"
-        },
-        {
-          "title": "Memoria de vídeo",
-          "minimum": "2 GB",
-          "recommended": "6 GB"
-        },
-        {
-          "title": "Controladora",
-          "minimum": "",
-          "recommended": "Controladora de Xbox"
-        }
-      ],
-      "maxInstallSize": 6738661376,
-      "hasAddOns": false,
-      "storeUrl": "https://www.xbox.com/es-es/games/store/firefighting-simulator-the-squad/9NBZ7Z3JRXQ8"
-    },
-    {
       "id": "9N8RKWJT32L4",
       "title": "Firefighting Simulator: Ignite",
       "description": "UNIDOS CONTRA EL FUEGO. Afronta peligros impredecibles de frente, apaga incendios con tu equipo y salva vidas en Firefighting Simulator: Ignite. Ponte en la piel de un bombero de EE. UU. en una ciudad en expansión del Medio Oeste del continente, donde cada misión llevará tus habilidades al límite. Vive la adrenalina de la extinción de incendios con una calidad visual asombrosa en un intuitivo modo multijugador cooperativo con 3 amigos o con el equipo de PNJ controlados por IA. La lucha contra las llamas, el calor y el humo, simulados en tiempo real con los avanzados sistemas gráficos y de físicas de Unreal Engine 5, te permitirán sumergirte en la extinción de incendios como nunca antes lo habías hecho.\n\nA lo largo de tu carrera, deberás hacer frente a varias situaciones complicadas, como civiles atrapados, incendios eléctricos, líquidos inflamables, incendios provocados por aceite, deflagraciones, combustiones súbitas y explosiones. Equípate con herramientas auténticas para la tarea, como mangueras, sierras, barras Halligan, hachas o extintores, y aprovecha los vehículos de bomberos y los camiones con escaleras fielmente recreados. Usa la lógica y emplea métodos precisos para apagar las llamas. En cada misión se deberán aplicar estrategias reales de extinción de incendios, como ventilar para reducir la propagación del fuego, enfriar objetos sobrecalentados, usar la sierra con los obstáculos, reducir las corrientes de aire y seleccionar el agente extintor adecuado. Mantente siempre alerta a las señales que indican un peligro inminente, como el humo impenetrable que se abre paso a través de puertas cerradas, lo que puede resultar en una auténtica catástrofe.\n\nPero no te preocupes, aprenderás cómo extinguir llamas y cómo usar adecuadamente las herramientas en el parque de bomberos, una especie de cuartel general durante tus operaciones de emergencia. Relájate entre misiones, observa bien la enorme flota de vehículos, entre los que se incluyen camiones Rosenbauer fielmente recreados, y escoge tu próximo encargo.\n\nCuando salte la alarma, coge la ruta más rápida y llega cuanto antes a la escena para luchar contra las llamas y salvar vidas juntos.     \n\n\nHÉROE COTIDIANO: ponte en la piel de un bombero de EE. UU.\nQUE ARDA TU PASIÓN: afronta peligrosos incendios en el modo multijugador y en solitario\nEN EQUIPO: modo cooperativo con hasta 4 personas\nUNIDOS CONTRA EL FUEGO: trabaja junto al equipo de PNJ en el modo Un jugador\nAUTENTICIDAD: equipos de las principales marcas de EE. UU. para la extinción de incendios como HAIX®, Fire-Dex y STIHL \nRESPUESTA RÁPIDA: conduce camiones de bomberos Rosenbauer America con licencia, reproducidos con detalle, como el TP3® Pumper, Viper®, 68' Roadrunner y más\nTU CARRERA: elige entre 8 personajes y diferentes atuendos\nPARQUE DE BOMBEROS: el lugar donde aprender técnicas y escoger la próxima misión de emergencia\nSIMULACIÓN: simulaciones de fuego, calor, agua y humo realistas gracias a las físicas de Unreal Engine 5\nMODS PARA CONSOLA: descarga y juega contenido nuevo en Mod.io",
@@ -21714,7 +21313,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 5,
-      "ratingCount": 3,
+      "ratingCount": 4,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -22221,7 +21820,7 @@
           "recommended": "Controladora de Xbox"
         }
       ],
-      "maxInstallSize": 10321010688,
+      "maxInstallSize": 10327474176,
       "hasAddOns": false,
       "storeUrl": "https://www.xbox.com/es-es/games/store/forever-ago/9NFB47H2SDRX"
     },
@@ -22262,7 +21861,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.8,
-      "ratingCount": 4597,
+      "ratingCount": 4604,
       "ageRating": 12,
       "pegiRating": "Supervisión parental recomendada",
       "pegiDescription": "Supervisión parental recomendada",
@@ -22423,7 +22022,7 @@
       "hasDiscount": true,
       "discountPercent": 25,
       "rating": 4.1,
-      "ratingCount": 381,
+      "ratingCount": 384,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -22516,7 +22115,7 @@
       "hasDiscount": true,
       "discountPercent": 60,
       "rating": 3.6,
-      "ratingCount": 1864,
+      "ratingCount": 1865,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -22670,7 +22269,7 @@
           "recommended": "6 GB"
         }
       ],
-      "maxInstallSize": 88147017728,
+      "maxInstallSize": 88623611904,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/fragpunk/9MW715J1P29D"
     },
@@ -23381,7 +22980,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.4,
-      "ratingCount": 479,
+      "ratingCount": 487,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -24868,84 +24467,6 @@
       "maxInstallSize": 6931623936,
       "hasAddOns": false,
       "storeUrl": "https://www.xbox.com/es-es/games/store/gravhounds-versi-n-preliminar-del-juego/9PBG4MTM3JJC"
-    },
-    {
-      "id": "9N36BLQF3FX6",
-      "title": "Great God Grove",
-      "description": "¡EL MUNDO SE VA A ACABAR Y LOS DIOSES NO DEJAN DE PELEARSE! Coge aire y lanza burbujas de diálogo en un mundo disparatado repleto de puzles, marionetas y dioses extravagantes... ¡SI NO QUIERES QUE LA GRIETA NOS CONSUMA A TODOS!\n\nUna vez por generación, los dioses se reúnen para aplazar el apocalipsis, pero, esta vez, el dios de la comunicación ha provocado varias peleas celestiales y ahora nadie sabe dónde se ha metido.\n\nEl cielo se está partiendo en dos y los dioses armando jaleo ¡¿quién ayudará a los Bizzyboys a SALVAR EL MUNDO DEL APOCALIPSIS?!\n\n• COGE AIRE Y LANZA DIÁLOGOS: Como heraldo de los dioses, puedes absorber burbujas de diálogo y lanzárselas a quien quieras para comunicarte! ¡Resuelve puzles! ¡Coquetea! ¡OFENDE A LOS DIOSES! Ay, la que te espera...\n• LOS DIOSES MÁS EXTRAÑOS: El dios del trabajo en equipo, el dios de las CANCIONES DE AMOR... ¡¿Qué es esto?! ¡¿Quién manda aquí?!\n• ¡Espantapájaros parlantes! ¡Marionetas cocineras! ¡EL FIN DEL MUNDO TAL COMO LO CONOCEMOS!",
-      "shortDescription": "¡EL MUNDO SE VA A ACABAR Y LOS DIOSES NO DEJAN DE PELEARSE! Coge aire y lánzate a dialogar en un mundo de puzles, marionetas y dioses extravagantes... ¡SI NO QUIERES QUE LA GRIETA NOS CONSUMA A TODOS!",
-      "developer": "LimboLane",
-      "publisher": "Fellow Traveller",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.49217.13938047926882205.478db89a-539b-4b20-956d-db969f740012.51327afc-1102-47d8-8243-0a7e592ceb44",
-      "heroImage": "https://store-images.s-microsoft.com/image/apps.30443.13938047926882205.478db89a-539b-4b20-956d-db969f740012.394ba679-fdf1-4c98-9b74-8acdc0958526",
-      "screenshots": [
-        "https://store-images.s-microsoft.com/image/apps.57010.13938047926882205.478db89a-539b-4b20-956d-db969f740012.fe76037d-fc7d-4227-8e81-0e948288ebed",
-        "https://store-images.s-microsoft.com/image/apps.50657.13938047926882205.478db89a-539b-4b20-956d-db969f740012.8502ded5-b156-48f2-8920-459bf2b333d3",
-        "https://store-images.s-microsoft.com/image/apps.2631.13938047926882205.478db89a-539b-4b20-956d-db969f740012.ef78b0b3-41ee-40ef-8917-d768e8f2a88c",
-        "https://store-images.s-microsoft.com/image/apps.3396.13938047926882205.478db89a-539b-4b20-956d-db969f740012.bdb4c958-240f-4f03-87f4-c121513c8e08"
-      ],
-      "videoUrl": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftassets/7aca1ebf-1596-48d9-84cd-1b710bd472c7-AVS.m3u8?packagedStreaming=true",
-      "videoCaption": "Great God Grove Out Now Trailer",
-      "releaseDate": "2024-11-15",
-      "categories": [
-        "Acción y aventura",
-        "Puzles y curiosidades"
-      ],
-      "tiers": [
-        "pc",
-        "premium",
-        "ultimate"
-      ],
-      "platform": "both",
-      "price": 19.99,
-      "msrp": 19.99,
-      "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
-      "rating": 1.5,
-      "ratingCount": 21,
-      "ageRating": 7,
-      "pegiRating": "PEGI 7",
-      "pegiDescription": "Apropiado a partir de 7 años",
-      "interactiveDescriptions": [],
-      "capabilities": [
-        "Un jugador",
-        "Optimizado para Xbox Series X|S",
-        "Logros de Xbox",
-        "Presencia de Xbox",
-        "Cosas guardadas en la nube de Xbox",
-        "Xbox Play Anywhere"
-      ],
-      "systemRequirements": [
-        {
-          "title": "SO",
-          "minimum": "Windows 10 version 18362.0 or higher",
-          "recommended": "Windows 10 version 18362.0 or higher"
-        },
-        {
-          "title": "Arquitectura",
-          "minimum": "x64",
-          "recommended": "x64"
-        },
-        {
-          "title": "Gráficos",
-          "minimum": "DirectX 10 Compatible GPU",
-          "recommended": ""
-        },
-        {
-          "title": "Procesador",
-          "minimum": " x64 architecture",
-          "recommended": ""
-        },
-        {
-          "title": "Memoria",
-          "minimum": "4 GB",
-          "recommended": ""
-        }
-      ],
-      "maxInstallSize": 1923964928,
-      "hasAddOns": false,
-      "storeUrl": "https://www.xbox.com/es-es/games/store/great-god-grove/9N36BLQF3FX6"
     },
     {
       "id": "9NCT9L7NFHX7",
@@ -27553,7 +27074,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.3,
-      "ratingCount": 246,
+      "ratingCount": 247,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -27842,8 +27363,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 2.8,
-      "ratingCount": 10,
+      "rating": 2.6,
+      "ratingCount": 11,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -28920,7 +28441,7 @@
         "Entrega inteligente"
       ],
       "systemRequirements": [],
-      "maxInstallSize": 52231503872,
+      "maxInstallSize": 52417232896,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/it-takes-two-versi-n-digital/9NXVC0482QS5"
     },
@@ -30251,7 +29772,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.5,
-      "ratingCount": 292,
+      "ratingCount": 293,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -31751,11 +31272,11 @@
         "ultimate"
       ],
       "platform": "both",
-      "price": 22.49,
+      "price": 29.99,
       "msrp": 29.99,
       "currency": "EUR",
-      "hasDiscount": true,
-      "discountPercent": 25,
+      "hasDiscount": false,
+      "discountPercent": 0,
       "rating": 3.1,
       "ratingCount": 91,
       "ageRating": 12,
@@ -32825,7 +32346,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3,
-      "ratingCount": 1479,
+      "ratingCount": 1478,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -33063,7 +32584,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.7,
-      "ratingCount": 11357,
+      "ratingCount": 11358,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -33125,7 +32646,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.7,
-      "ratingCount": 52002,
+      "ratingCount": 52011,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -33204,7 +32725,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.5,
-      "ratingCount": 5343,
+      "ratingCount": 5345,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -33644,7 +33165,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4,
-      "ratingCount": 16046,
+      "ratingCount": 16047,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -33839,7 +33360,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.5,
-      "ratingCount": 61755,
+      "ratingCount": 61756,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -34722,98 +34243,6 @@
       "storeUrl": "https://www.xbox.com/es-es/games/store/monsters-are-coming/9PJBKF27C16M"
     },
     {
-      "id": "9P8XJRLCLH2P",
-      "title": "Moonlighter",
-      "description": "Cada aventura ha de ser compensada\r\nHace mucho, durante una excavación arqueológica se descubrió un conjunto de portales. La gente no tardó en darse cuenta de que esos pasadizos ancestrales conectaban con distintas dimensiones y reinos. Cerca del lugar de la excavación se fundó una pequeña aldea de comerciantes llamada Rynoka, desde la que se llevaban a cabo todo tipo de temerarias aventuras en busca de abundantes tesoros.\r\n\r\nMoonlighter es un juego de acción RPG con elementos rogue-lite. Descubre la rutina diaria de Will, un comerciante aventurero que guarda el tímido sueño de convertirse en un héroe. \r\n\r\nLa vida del comerciante\r\nAl dirigir tu negocio en Rynoka, puedes vender objetos, establecer su precio, gestionar las reservas de oro, contratar ayudantes y mejorar tu tienda. ¡Pero cuidado, algunos individuos sospechosos pueden intentar robarte tus preciadas mercancías!\r\n\r\nLucha con estilo\r\nA medida que derrotas distintos enemigos y jefes, disfruta de las desafiantes y complejas mecánicas de combate. La profundidad de tu sistema de lucha depende de la combinación entre armas, habilidades, enemigos y efectos secundarios de objetos. Encuentra el estilo de combate que mejor se adapte a ti.\r\n\r\nRestaura la aldea\r\nConoce a los otros residentes de la aldea mientras restauras la prosperidad de este pequeño enclave comercial. Ayuda a los demás a establecer nuevos negocios y obsérvalos crecer en la idílica Rynoka.\r\n\r\nFabrica y hechiza\r\nEl sistema de fabricación y hechizos es fundamental en tu progreso. Tendrás que interactuar con otros aldeanos para fabricar nuevas armas y armaduras, y hechizar el equipo disponible. Esto te otorga una gran flexibilidad y te aporta muchas posibilidades a la hora de combinar tu equipo.\r\n\r\nLlévate el botín\r\nAccede a mundos extraños a través de los portales y recoge valiosos objetos de civilizaciones exóticas: recursos, armas, armaduras y artefactos peculiares. ¡Pero no podrás cargar con todo! Gestiona tu botín con cuidado a través de habilidades de inventario únicas.\r\n\r\nAbre los portales\r\nLos portales llevan a mundos distintos. Cada aventura es única, y pone a prueba tu inteligencia a la hora de tomar decisiones. Nunca sabrás lo que te espera a continuación, por eso tendrás que estar preparado para cualquier cosa.\r\n\r\n",
-      "shortDescription": "Moonlighter es un juego de acción RPG con elementos rogue-lite. Descubre la rutina diaria de Will, un comerciante aventurero que guarda el tímido sueño de convertirse en un héroe. ",
-      "developer": "Digital Sun",
-      "publisher": "11 bit studios",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.27309.14078999020725962.f9f4d516-290a-4fec-820e-f71d575013d8.781a4a00-3d6d-477f-987a-a7b734ab1fd1",
-      "heroImage": "https://store-images.s-microsoft.com/image/apps.36643.14078999020725962.ddb83977-3b2d-4498-aa21-0a1bdeb1cddc.7cf5715a-f99d-4a58-a93d-44bed95c01dd",
-      "screenshots": [
-        "https://store-images.s-microsoft.com/image/apps.52499.14078999020725962.ddb83977-3b2d-4498-aa21-0a1bdeb1cddc.119489a8-666d-46c8-8f6b-4b83994f2b84",
-        "https://store-images.s-microsoft.com/image/apps.62785.14078999020725962.ddb83977-3b2d-4498-aa21-0a1bdeb1cddc.47676719-4835-4477-85dd-2d5989ddd742",
-        "https://store-images.s-microsoft.com/image/apps.9988.14078999020725962.ddb83977-3b2d-4498-aa21-0a1bdeb1cddc.21879ada-b0a6-43d9-bf5f-79b503d4ec44",
-        "https://store-images.s-microsoft.com/image/apps.49992.14078999020725962.ddb83977-3b2d-4498-aa21-0a1bdeb1cddc.e1998457-8546-449c-b57f-f772154ca62a"
-      ],
-      "videoUrl": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftassets/b9a8e320-a630-4c52-9834-caeb5d7fd131-AVS.m3u8?packagedStreaming=true",
-      "videoCaption": "Moonlighter Trailer",
-      "releaseDate": "2018-05-29",
-      "categories": [
-        "Acción y aventura"
-      ],
-      "tiers": [
-        "pc",
-        "premium",
-        "ultimate"
-      ],
-      "platform": "both",
-      "price": 19.99,
-      "msrp": 19.99,
-      "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
-      "rating": 3.9,
-      "ratingCount": 110,
-      "ageRating": 7,
-      "pegiRating": "PEGI 7",
-      "pegiDescription": "Apropiado a partir de 7 años",
-      "interactiveDescriptions": [],
-      "capabilities": [
-        "Un jugador",
-        "Logros de Xbox",
-        "Presencia de Xbox",
-        "Clubs de Xbox",
-        "Cosas guardadas en la nube de Xbox",
-        "Xbox Play Anywhere"
-      ],
-      "systemRequirements": [
-        {
-          "title": "SO",
-          "minimum": "Windows 10 version 15063.0 or higher",
-          "recommended": "Windows 10 version 17134.0 or higher"
-        },
-        {
-          "title": "Arquitectura",
-          "minimum": "x86, x64",
-          "recommended": "x86, x64"
-        },
-        {
-          "title": "Gráficos",
-          "minimum": "Geforce 9600 GS, Shader Model 3.0, 512 MB",
-          "recommended": "Geforce 660"
-        },
-        {
-          "title": "Procesador",
-          "minimum": "ntel(R) Core(TM) 2 Duo 2.0 GHz",
-          "recommended": "Intel(R) Core(TM)2 Quad 2.5 GHz"
-        },
-        {
-          "title": "DirectX",
-          "minimum": "Versión 9",
-          "recommended": "Versión 9"
-        },
-        {
-          "title": "Memoria",
-          "minimum": "4 GB",
-          "recommended": "4 GB"
-        },
-        {
-          "title": "Memoria de vídeo",
-          "minimum": "1 GB",
-          "recommended": "1 GB"
-        },
-        {
-          "title": "Controladora",
-          "minimum": "",
-          "recommended": "Controladora de Xbox"
-        }
-      ],
-      "maxInstallSize": 1236979712,
-      "hasAddOns": true,
-      "storeUrl": "https://www.xbox.com/es-es/games/store/moonlighter/9P8XJRLCLH2P"
-    },
-    {
       "id": "9NDJX252Q5BW",
       "title": "Moonlighter 2: The Endless Vault",
       "description": "WILL VUELVE A LA CARGA \n¡Experimenta la doble vida de un mercader ingenioso y un aventurero intrépido en esta secuela al RPG de acción roguelite de éxito! Atrapado sin un duro en la aldea de Tresna, Will tiene que volver al negocio al tiempo que se embarca en una aventura interdimensional. Explora mazmorras peligrosas, hazte con reliquias ancestrales, véndelas y reinvierte en la prosperidad del pueblo. El ciclo mágico y adictivo ha vuelto: más grande, más atrevido y cargado de botín.\nLA FORTUNA ES PARA LOS VALIENTES \nTe esperan peligros rentables en tu exploración dimensional. Ponte la mochila y domina el combate dinámico con distintas clases de armas, conjuntos de armaduras y potentes ventajas. Traza un camino por mundos impredecibles, derrota a enemigos implacables y a jefes formidables y organiza bien tu botín para activar combinaciones únicas de objetos. Gestionar la mochila es vital para para maximizar tus beneficios y obtener el éxito financiero. Cuanto más te adentres, mayores serán las recompensas... y los peligros.\nEL DINERO NUNCA DUERME \nDespués de cada aventura, es hora de abrir la tienda. Personaliza tu tienda, decide los precios y analiza a tus clientes para conseguir el negocio perfecto. Desbloquea ventajas de ventas, aprovecha los eventos especiales y optimiza tus estantes para conseguir la rentabilidad máxima. El valor de cada objeto depende de ti, sea chatarra o una reliquia única.\nTHE ENDLESS VAULT \nAfronta el desafío de The Endless Vault, un misterioso artefacto ancestral que pone a prueba tus habilidades. Supera sus desafíos cada vez más duros para mejorar tu pueblo y obtener recompensas de gran valor. ¿Será suficiente para recuperar tu patria del malvado Moloch, el coleccionista interdimensional que se ha apoderado de tu querido hogar?\nUNA NUEVA DIMENSIÓN DE AVENTURAS\nSumérgete en el impresionante salto visual de Moonlighter al 3D. Explora escenarios vibrantes, disfruta de un combate más fluido y dinámico y vive el ciclo de comercio de día y caza de tesoros de noche como nunca antes.",
@@ -35162,7 +34591,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.2,
-      "ratingCount": 27,
+      "ratingCount": 29,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -36854,11 +36283,11 @@
         "ultimate"
       ],
       "platform": "both",
-      "price": 12.49,
+      "price": 24.99,
       "msrp": 24.99,
       "currency": "EUR",
-      "hasDiscount": true,
-      "discountPercent": 50,
+      "hasDiscount": false,
+      "discountPercent": 0,
       "rating": 4.5,
       "ratingCount": 53,
       "ageRating": 16,
@@ -38184,7 +37613,7 @@
           "recommended": "Micrófono integrado"
         }
       ],
-      "maxInstallSize": 25825079296,
+      "maxInstallSize": 25825091584,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/pax-dei/9PHGK0538TXM"
     },
@@ -38744,123 +38173,6 @@
       "storeUrl": "https://www.xbox.com/es-es/games/store/phoenix-point/9P1P5Q3BNM7J"
     },
     {
-      "id": "9NRHQLZX3900",
-      "title": "Pigeon Simulator",
-      "description": "Are pigeons real? Are they part of a government conspiracy? Are they spying on us?\n\nYes. To all 3. \n\nAs a small, but esteemed member of the top secret Paranormal Examination & Kontainment unit, it’s your job to locate, identify, neutralise and extract dangerous anomalies that have begun to terrorise New Squawk City.\n\nThe chaos within the city is growing constantly and naturally, as a Pigeon, it’s your job to maintain the status quo. Gear up with specialised, government issue tools, take to the streets, locate anomalies, neutralise them and deliver them for analysis. Use your daily earnings to improve your abilities, buy better tools, rest up and then head back out for another day of anomaly hunting!\n\nYou and up to 3 other feathered agents are now responsible for keeping this city safe, the cryptids contained, your role within the government secret and most importantly, meeting your quotas.\n\nP.E.K. doesn’t tolerate slackers, so hit your targets or it’s back to a life of eating trash and being chased by children. \n\nIn Pigeon Simulator you will see:\n\nNumerous different anomalies to defeat, capture and extract for research.\nSophisticated pooping, cooing and flying systems.\nPeak, specialized, government issued anti-anomaly equipment.\nDeep upgrade system to take your pigeon from a street rat to a sky king.",
-      "shortDescription": "Born to protect, forced to pigeon.",
-      "developer": "tinyBuild Riga",
-      "publisher": "tinyBuild",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.63629.14382953481681867.8b1ccf01-d587-4b7f-afbc-ee46cb87b3d4.69ed27fb-c1a2-4c19-a803-a9f289039e26",
-      "heroImage": "https://store-images.s-microsoft.com/image/apps.58441.14382953481681867.8b1ccf01-d587-4b7f-afbc-ee46cb87b3d4.ac8c2d5f-a388-46de-a115-c4eae4c0e480",
-      "screenshots": [
-        "https://store-images.s-microsoft.com/image/apps.4761.14382953481681867.8b1ccf01-d587-4b7f-afbc-ee46cb87b3d4.08c56760-f727-49fa-9d2b-6fd7fd598a99",
-        "https://store-images.s-microsoft.com/image/apps.41875.14382953481681867.8b1ccf01-d587-4b7f-afbc-ee46cb87b3d4.0be4065b-3238-44a3-8bb6-d1e1b0436769",
-        "https://store-images.s-microsoft.com/image/apps.4706.14382953481681867.8b1ccf01-d587-4b7f-afbc-ee46cb87b3d4.f6569f77-df86-46f7-a3ee-adac1d9f3a96",
-        "https://store-images.s-microsoft.com/image/apps.4432.14382953481681867.8b1ccf01-d587-4b7f-afbc-ee46cb87b3d4.474ac8aa-1285-433a-9ada-4d2dbe45c99d"
-      ],
-      "videoUrl": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftassets/d95fa42c-90f9-4b31-bb68-8f85c1271b68-AVS.m3u8?packagedStreaming=true",
-      "videoCaption": "Announcement Trailer",
-      "releaseDate": "2025-11-11",
-      "categories": [
-        "Acción y aventura",
-        "Simulación",
-        "Niños y familia"
-      ],
-      "tiers": [
-        "pc",
-        "premium",
-        "ultimate"
-      ],
-      "platform": "both",
-      "price": 14.99,
-      "msrp": 14.99,
-      "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
-      "rating": 1.8,
-      "ratingCount": 28,
-      "ageRating": 7,
-      "pegiRating": "PEGI 7",
-      "pegiDescription": "Apropiado a partir de 7 años",
-      "interactiveDescriptions": [
-        "Interacción de usuarios"
-      ],
-      "capabilities": [
-        "Cooperativo en línea  (2-4)",
-        "Multijugador multiplataforma de Xbox",
-        "4K Ultra HD",
-        "HDR10",
-        "Un jugador",
-        "Cooperación multiplataforma de Xbox",
-        "60 fps +",
-        "Optimizado para Xbox Series X|S",
-        "Logros de Xbox",
-        "Presencia de Xbox",
-        "Cosas guardadas en la nube de Xbox",
-        "Xbox Play Anywhere"
-      ],
-      "systemRequirements": [
-        {
-          "title": "SO",
-          "minimum": "Windows 10 version 18362.0 or higher",
-          "recommended": "Windows 10 version 18362.0 or higher"
-        },
-        {
-          "title": "Arquitectura",
-          "minimum": "x64",
-          "recommended": "x64"
-        },
-        {
-          "title": "Gráficos",
-          "minimum": "GTX-960",
-          "recommended": "RTX-2060"
-        },
-        {
-          "title": "Procesador",
-          "minimum": "Intel Core i5- 4570 3.2 GHz",
-          "recommended": "Intel Core  i7-8700K 3.7 GHz"
-        },
-        {
-          "title": "DirectX",
-          "minimum": "API de DirectX 12, nivel de característica de hardware 11",
-          "recommended": "API de DirectX 12, nivel de característica de hardware 12"
-        },
-        {
-          "title": "Memoria",
-          "minimum": "16 GB",
-          "recommended": "20 GB"
-        },
-        {
-          "title": "Memoria de vídeo",
-          "minimum": "2 GB",
-          "recommended": "6 GB"
-        },
-        {
-          "title": "Teclado",
-          "minimum": "",
-          "recommended": "Teclado integrado"
-        },
-        {
-          "title": "Mouse",
-          "minimum": "",
-          "recommended": "Mouse integrado"
-        },
-        {
-          "title": "Controladora",
-          "minimum": "",
-          "recommended": "Controladora de Xbox"
-        },
-        {
-          "title": "Micrófono",
-          "minimum": "",
-          "recommended": "Micrófono integrado"
-        }
-      ],
-      "maxInstallSize": 2554318848,
-      "hasAddOns": false,
-      "storeUrl": "https://www.xbox.com/es-es/games/store/pigeon-simulator/9NRHQLZX3900"
-    },
-    {
       "id": "9N8N7NZSVTG3",
       "title": "Pillars of Eternity 2: Deadfire - Ultimate Edition (PC)",
       "description": "El dios Eothas se ha despertado, emergiendo de debajo de tu castillo, ha aniquilado a los tuyos y te ha robado un pedazo de tu alma. Ahora solo tú y tus aliados podéis destapar los planes del malvado dios mientras pisotea el archipiélago de Deadfire.\r\n\r\nPor fin llega el premiado RPG de los maestros de Obsidian Entertainment con todas las principales actualizaciones y expansiones.\r\n\r\nHaz que el mundo se someta a tu voluntad mientras exploras a fondo infinidad de posibilidades, incluidas la personalización detallada de los personajes, la total libertad de exploración y demás decisiones significativas a cada paso.\r\n \r\nCon un mundo abierto inmenso, un gran elenco de personajes y una historia que puedes desarrollar a tu manera, Pillars of Eternity II: Deadfire Última edición redefine la experiencia de juego de los juegos de rol para una nueva generación.\r\n\r\n• Juega en el modo por turnos o en el clásico tiempo real con pausa: Sumérgete en una experiencia de juego de RPG de un solo jugador más profunda. Ahora, con los combates en el clásico tiempo real con pausa y los nuevos combates por turnos, Deadfire se basa en las mecánicas de los juegos de mesa clásicos más que nunca.\r\n• Una gran aventura: más de 100 horas de juego por partida.\r\n• Juega como quieras: creador detallado de personajes y más de 1000 combinaciones de clases te dan la libertad de ser quien quieras ser.\r\n• Reúne un equipo: forma tu equipo y personaliza a tus aliados para que se unan a ti en la misión. Asigna múltiples clases y habilidades más profundas para cada una. Sé testigo de cómo se desarrollan sus relaciones personales, las reacciones a las elecciones del jugador y las interacciones entre los personajes.\r\n• Beast of Winter DLC: escucha la llamada de Vatnir, un sacerdote del dios de la muerte, a detener la marea de destrucción que invade a los vivos.\r\n• The Forgotten Sanctum DLC: ábrete paso a través de las entrañas de un vengativo dios durmiente. \r\n• Seeker, Slayer, Survivor DLC: triunfa o muere en la Prueba de Kazuwari, donde solo reinan los poderosos.",
@@ -38952,7 +38264,7 @@
           "recommended": "4 GB"
         }
       ],
-      "maxInstallSize": 49455644672,
+      "maxInstallSize": 50920968192,
       "hasAddOns": false,
       "storeUrl": "https://www.xbox.com/es-es/games/store/pillars-of-eternity-2-deadfire-ultimate-edition-pc/9N8N7NZSVTG3"
     },
@@ -39109,7 +38421,7 @@
       "interactiveDescriptions": [],
       "capabilities": [],
       "systemRequirements": [],
-      "maxInstallSize": 32630452224,
+      "maxInstallSize": 32673570816,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/pillars-of-eternity-definitive-edition/9N1P6T7ZQ2KF"
     },
@@ -39174,7 +38486,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 1448538112,
+      "maxInstallSize": 1424023552,
       "hasAddOns": false,
       "storeUrl": "https://www.xbox.com/es-es/games/store/pit-of-goblin/9MW4MFG0192L"
     },
@@ -39280,7 +38592,7 @@
           "recommended": "Controladora de Xbox"
         }
       ],
-      "maxInstallSize": 39938166784,
+      "maxInstallSize": 40106688512,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/planet-coaster-2/9PK5WS0HXQKQ"
     },
@@ -39712,96 +39024,6 @@
       "maxInstallSize": 1704185856,
       "hasAddOns": false,
       "storeUrl": "https://www.xbox.com/es-es/games/store/plateup/9P2HHT3VS7MP"
-    },
-    {
-      "id": "9P0NPLQ9P1DB",
-      "title": "Police Simulator: Patrol Officers",
-      "description": "¡Brighton te da la bienvenida! Únete al cuerpo de policía de esta ciudad estadounidense ficticia y vive el día a día de un agente. Empieza poniendo multas de aparcamiento y ve asumiendo cada vez más responsabilidades. Forma parte de la comunidad de Brighton, conoce tu vecindario y ocúpate de las tareas diarias de un agente para luchar contra el crimen durante tu turno. Sé firme, pero imparcial: respeta la ley y gana más experiencia para desbloquear nuevos vecindarios, distritos y responsabilidades.\r\n\r\nPOLICE SIMULATOR: PATROL OFFICERS cuenta con un sistema de tráfico dinámico que recrea con naturalidad el flujo y los accidentes de tráfico, así como situaciones de emergencia que aparecerán de manera aleatoria durante tu turno. ¡Prepárate para responder inmediatamente! Adéntrate en el mundo abierto de Brighton, donde podrás escoger por qué vecindarios patrullar para garantizar su seguridad. Patrulla por tres distritos distintos compuestos por varios vecindarios. Cada uno de ellos tiene un carácter distinto: desde los altos edificios de Downtown hasta las edificaciones históricas de Brickston. El sistema de intuición te permite captar pistas importantes durante los interrogatorios a los testigos y puede ayudarte a resolver una situación de inmediato, así que presta mucha atención a lo que dicen y hacen. ¡Tus tareas son responsabilidad tuya!\r\n\r\nSegún progreses y desbloquees más distritos, también tendrás nuevas responsabilidades. Empieza poniendo multas, ¡pero prepárate para encargarte de los accidentes que ocurran ante ti! En esta ciudad animada y vibrante, hay un montón de diferentes tareas por descubrir. Impide el tráfico de drogas que tiene lugar en el parque, persigue a los grafiteros que marcan ilegalmente las paredes, haz parar con la sirena a los vehículos que exceden la velocidad permitida o pon barreras y conos alrededor de los accidentes de tráfico. Prepárate para cualquier cosa: desde un incidente menor, como un coche que bloquea una parada de autobús, hasta tener que capturar a un sospechoso y llevarlo al calabozo. ¡Tus tareas son responsabilidad tuya!\r\n\r\nPOLICE SIMULATOR: PATROL OFFICERS ofrece un modo Simulación para los jugadores veteranos que quieran una experiencia más auténtica, y un modo Casual para aquellos que prefieran patrullas más relajadas por las calles de Brighton. ",
-      "shortDescription": "POLICE SIMULATOR: PATROL OFFICERS ofrece un modo Simulación para los jugadores veteranos que quieran una experiencia más auténtica, y un modo Casual para aquellos que prefieran patrullas más relajadas por las calles de Brighton. ",
-      "developer": "Aesir Interactive",
-      "publisher": "astragon Entertainment GmbH",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.26366.14523320294659833.0e9cb134-00a8-4d23-9793-93834d8d61ef.9b9e6bbe-69b3-4cd9-8509-3de264dfc1a2",
-      "heroImage": "https://store-images.s-microsoft.com/image/apps.26344.14523320294659833.0e9cb134-00a8-4d23-9793-93834d8d61ef.749a3894-1367-4657-9f81-cd40abad6530",
-      "screenshots": [
-        "https://store-images.s-microsoft.com/image/apps.12193.14523320294659833.3c5db1b9-aaa8-4dbf-9257-32c40c6a6188.517675aa-396b-4b31-8530-3293ebdb7e32",
-        "https://store-images.s-microsoft.com/image/apps.15602.14523320294659833.0e9cb134-00a8-4d23-9793-93834d8d61ef.0d414ac4-f0fa-49aa-baa1-854b3f4c91eb",
-        "https://store-images.s-microsoft.com/image/apps.41354.14523320294659833.0e9cb134-00a8-4d23-9793-93834d8d61ef.e174d126-68da-4670-b58b-49f4daed1a02",
-        "https://store-images.s-microsoft.com/image/apps.59892.14523320294659833.0e9cb134-00a8-4d23-9793-93834d8d61ef.aa5a4717-a413-4ec0-aeec-c59223fe63fd"
-      ],
-      "videoUrl": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftassets/01793748-2703-4112-8a63-3aadc1b70019-AVS.m3u8?packagedStreaming=true",
-      "videoCaption": "Police Simulator: Patrol Officers – Introduction Trailer",
-      "releaseDate": "2022-11-10",
-      "categories": [
-        "Simulación"
-      ],
-      "tiers": [
-        "pc",
-        "premium",
-        "ultimate"
-      ],
-      "platform": "both",
-      "price": 8.99,
-      "msrp": 29.99,
-      "currency": "EUR",
-      "hasDiscount": true,
-      "discountPercent": 70,
-      "rating": 2.6,
-      "ratingCount": 72,
-      "ageRating": 12,
-      "pegiRating": "PEGI 12",
-      "pegiDescription": "Apropiado a partir de 12 años",
-      "interactiveDescriptions": [
-        "Compras dentro del juego"
-      ],
-      "capabilities": [
-        "Cooperativo en línea  (2-2)",
-        "Multijugador en línea  (2-2)",
-        "4K Ultra HD",
-        "HDR10",
-        "Un jugador",
-        "Multijugador multgeneración de Xbox Live",
-        "Optimizado para Xbox Series X|S",
-        "Entrega inteligente",
-        "Xbox One X mejorado",
-        "Logros de Xbox",
-        "Cosas guardadas en la nube de Xbox",
-        "Xbox Play Anywhere"
-      ],
-      "systemRequirements": [
-        {
-          "title": "SO",
-          "minimum": "Windows 10 version 18362.0 or higher",
-          "recommended": "Windows 10 version 18362.0 or higher"
-        },
-        {
-          "title": "Arquitectura",
-          "minimum": "x64",
-          "recommended": "x64"
-        },
-        {
-          "title": "Gráficos",
-          "minimum": "NVIDIA GeForce GTX 760 (2 GB VRAM) or higher",
-          "recommended": "NVIDIA GeForce GTX 1060 (6 GB VRAM) or higher"
-        },
-        {
-          "title": "Procesador",
-          "minimum": "Intel® Core™ i3-2120 or higher",
-          "recommended": "Intel® Core™ i7-4790 or higher"
-        },
-        {
-          "title": "Memoria",
-          "minimum": "8 GB",
-          "recommended": "16 GB"
-        },
-        {
-          "title": "Memoria de vídeo",
-          "minimum": "2 GB",
-          "recommended": "6 GB"
-        }
-      ],
-      "maxInstallSize": 18891214848,
-      "hasAddOns": true,
-      "storeUrl": "https://www.xbox.com/es-es/games/store/police-simulator-patrol-officers/9P0NPLQ9P1DB"
     },
     {
       "id": "9P45GGDTFNSM",
@@ -40353,7 +39575,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.7,
-      "ratingCount": 468,
+      "ratingCount": 469,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -41735,115 +40957,6 @@
       "storeUrl": "https://www.xbox.com/es-es/games/store/redfall/9P8JRMWRQP4H"
     },
     {
-      "id": "9P81K2C8RBF4",
-      "title": "Relic Hunters Legend",
-      "description": "Relic Hunters Legend es un RPG Looter-Shooter rápido en el que recolectas poderosas armas, mejoras habilidades y luchas contra enemigos en intensos combates. Juega en solitario o únete a un equipo de hasta 4 jugadores en modo cooperativo mientras te embarcas en un viaje para recuperar recuerdos perdidos y derribar al tirano Duke Ducan.\n\n\nUna emocionante aventura Looter-Shooter RPG\nRelic Hunters Legend es un RPG Looter-Shooter que combina un gameplay rápido, un vasto arsenal de armas y una profunda personalización de personajes. ¡Derrota a los enemigos, recoge botines raros y refina tu build para convertirte en una fuerza imparable contra el Imperio Ducan!\n\n\nPersonaliza tu Hunter\nElige entre varios personajes jugables, cada uno con habilidades únicas. Cada uno de los Hunters jugables tiene 3 árboles de habilidades completamente desarrollados que puedes combinar como desees, y combinado con la asignación de puntos de atributo, varios espacios para equipo y armas con una profunda piscina de afijos, además de una reliquia definitoria del build que debes descubrir, fabricar y mejorar... ¡hay mucha más profundidad RPG de la que parece a simple vista!\n\n\nJuega a tu manera\nJuega en el modo de un solo jugador offline o únete a hasta tres amigos en el cooperativo online. Puedes centrarte directamente en la campaña de historia de 30 horas... ¡o ignorarla COMPLETAMENTE y concentrarte solo en la progresión y los sistemas de final del juego!\n\nDesbloquea Hunters en el orden que prefieras y explora el mundo y sus numerosas recompensas y desafíos de la manera que más te guste.\n\nMejora tu experiencia uniéndote al canal oficial de Discord de Relic Hunters Legend (discorg.gg/relichunters). Sé de los primeros en enterarte de las características en desarrollo y habla directamente con el equipo de Rogue Snail: ¡SIEMPRE estamos escuchando, y confiamos en que nuestra comunidad sabe lo que es mejor!\n\n\nCombate rápido, botín infinito\nTodas las actividades son totalmente jugables en solitario y se escalan para hasta 4 jugadores, incluidas áreas de exploración en el mini mundo abierto, varias misiones rápidas con 7 modos de juego diferentes (Skirmish, Excavation, Payload, Defense, Distraction, Rift, Assault), misiones especiales limitadas por tiempo con modificadores aleatorios, dungeons Delve con varios jefes (cada uno con sus propias tablas de botín únicas), así como mapas de tesoro de final de juego, Nemesis del dungeon del asteroide y sistemas de Challenge Mode.\n\nSin embargo, la lluvia de botín no termina ahí: ¡también puedes hacerte amigo de diferentes facciones y completar misiones de reputación de ellas, así como acceder a NPCs que te ayudarán a fabricar el equipo o arma perfectamente optimizada para tu build!\n\nLos objetos no son una simple “fiesta de puntuación de equipo”, sino que presentan muchas rarezas de alto nivel (Exótico, Aumentado, Set, Legendario y Único) y un profundo pool de afijos que puede y cambiará tu estilo de juego por completo.\n\n¡Únete a los Relic Hunters y demuestra lo que eres capaz de hacer en esta aventura galáctica llena de acción!\n\n\nLa Historia\nEl malvado emperador Duke Ducan ha robado de alguna manera el pasado y le dice a todo el mundo que es responsable de todo lo bueno que ha sucedido, proporcionando legitimidad a su régimen galáctico opresivo.\n\nLos Relic Hunters, liderados por Pinkyy, viajan por la galaxia en busca de antiguas ruinas y reliquias de la antigua civilización, intentando restaurar la memoria del verdadero pasado. En este viaje, la tripulación se encuentra con un misterioso aliado: Seven, que no tiene recuerdos y la extraña habilidad de viajar en el tiempo.\n\n¿Quieres saber más? Nuestra historia también se amplía a través de cómics (que cuentan los eventos que ocurrieron antes de 'Legend') y cortometrajes animados. ¡Mira los episodios 1, 2 y 3 gratis – enlaces en nuestra página de la Comunidad de Steam!\n\n\nOPTIMIZADO PARA PC\nHemos afinado Relic Hunters Legend para que funcione tan suave como un blaster bien engrasado. Disfruta de resolución 4K, tasas de fotogramas desbloqueadas, soporte ultrawide y controles totalmente personalizables. Ya sea que busques un juego suave como mantequilla o maximices todas las configuraciones gráficas, te tenemos cubierto.\n\n\nSobre los desarrolladores\n¡Hola! Somos Rogue Snail, un estudio de videojuegos independiente completamente remoto de Brasil. ¿Nuestra misión? Hacer juegos con corazón. Creemos que cuando un equipo ama lo que está creando, ese amor se refleja en el juego final.\n\nCada juego de Relic Hunters está creado con diversión y comunidad en su núcleo. Sin mecánicas explotadoras, sin microtransacciones de mala calidad, sin barreras artificiales: solo nos enfocamos en hacer el juego más divertido posible, y hacerlo junto a nuestra comunidad.\n",
-      "shortDescription": "Un Shooter/Looter RPG con una historia emocionante inspirada en los clásicos JRPG. Dispara a los enemigos, consigue botín y personaliza a tus personajes. Múltiples sistemas de endgame y más de 100 horas de juego te esperan, en solitario o en cooperativo con hasta 4 jugadores.",
-      "developer": "Rogue Snail",
-      "publisher": "Rogue Snail",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.37208.14097016447581693.ee94877f-b509-44d9-abed-33614d4bfc2b.bc2320d7-e0dd-4e46-91d9-33b920008b14",
-      "heroImage": "https://store-images.s-microsoft.com/image/apps.29530.14097016447581693.ee94877f-b509-44d9-abed-33614d4bfc2b.78c32ba6-e81a-439d-ae4c-aba7b405dd2b",
-      "screenshots": [
-        "https://store-images.s-microsoft.com/image/apps.5782.14097016447581693.ee94877f-b509-44d9-abed-33614d4bfc2b.38a4fe69-868e-49fd-b54c-1dd79c17af25",
-        "https://store-images.s-microsoft.com/image/apps.21919.14097016447581693.ee94877f-b509-44d9-abed-33614d4bfc2b.94486629-154b-4e82-b20c-992bf7627f78",
-        "https://store-images.s-microsoft.com/image/apps.7486.14097016447581693.ee94877f-b509-44d9-abed-33614d4bfc2b.ab77eb8c-5361-4334-b1cb-5e9694b5461f",
-        "https://store-images.s-microsoft.com/image/apps.16783.14097016447581693.ee94877f-b509-44d9-abed-33614d4bfc2b.9a2f6df3-4422-4600-8f65-13c62afded8f"
-      ],
-      "videoUrl": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftassets/12c2fcad-de73-4665-94e4-3f9af488f9d9-AVS.m3u8?packagedStreaming=true",
-      "videoCaption": "Launch Trailer",
-      "releaseDate": "2025-08-14",
-      "categories": [
-        "Juegos de rol",
-        "Acción y aventura",
-        "Shooter"
-      ],
-      "tiers": [
-        "pc",
-        "premium",
-        "ultimate"
-      ],
-      "platform": "both",
-      "price": 23.99,
-      "msrp": 23.99,
-      "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
-      "rating": 3.5,
-      "ratingCount": 15,
-      "ageRating": 12,
-      "pegiRating": "PEGI 12",
-      "pegiDescription": "Apropiado a partir de 12 años",
-      "interactiveDescriptions": [],
-      "capabilities": [
-        "Cooperativo en línea  (2-4)",
-        "Multijugador en línea  (2-4)",
-        "Multijugador multiplataforma de Xbox",
-        "4K Ultra HD",
-        "Un jugador",
-        "Cooperación multiplataforma de Xbox",
-        "60 fps +",
-        "Optimizado para Xbox Series X|S",
-        "Logros de Xbox",
-        "Cosas guardadas en la nube de Xbox",
-        "Xbox Play Anywhere"
-      ],
-      "systemRequirements": [
-        {
-          "title": "SO",
-          "minimum": "Windows 10 version 18362.0 or higher",
-          "recommended": "Windows 10 version 18362.0 or higher"
-        },
-        {
-          "title": "Arquitectura",
-          "minimum": "x64",
-          "recommended": "x64"
-        },
-        {
-          "title": "Gráficos",
-          "minimum": "NVIDIA GeForce GT 730, 1 GB or AMD",
-          "recommended": "NVIDIA GeForce GTX 650 Ti, 2 GB or AMD"
-        },
-        {
-          "title": "Procesador",
-          "minimum": "Intel Core i3-2125 or AMD FX-4350",
-          "recommended": "Intel Core i5-7600 or AMD Ryzen 5 2600"
-        },
-        {
-          "title": "Teclado",
-          "minimum": "Teclado integrado",
-          "recommended": "Teclado integrado"
-        },
-        {
-          "title": "Mouse",
-          "minimum": "Mouse integrado",
-          "recommended": "Mouse integrado"
-        },
-        {
-          "title": "DirectX",
-          "minimum": "Versión 9",
-          "recommended": "Versión 9"
-        },
-        {
-          "title": "Memoria",
-          "minimum": "8 GB",
-          "recommended": "8 GB"
-        },
-        {
-          "title": "Memoria de vídeo",
-          "minimum": "1 GB",
-          "recommended": "2 GB"
-        },
-        {
-          "title": "Controladora",
-          "minimum": "",
-          "recommended": "Controladora de Xbox"
-        }
-      ],
-      "maxInstallSize": 11511832576,
-      "hasAddOns": true,
-      "storeUrl": "https://www.xbox.com/es-es/games/store/relic-hunters-legend/9P81K2C8RBF4"
-    },
-    {
       "id": "9PPP5344B3LS",
       "title": "Relooted",
       "description": "Un equipo, una tarea, un plan. Con estos elementos, vas a sumergirte en un clásico atraco… pero distinto. Los miembros de tu equipo son ciudadanos y ciudadanas (de distintos países de África), con profesiones bastante normales. El objetivo es claro: extraer piezas arqueológicas africanas de los museos de Occidente. ¿Y cómo lo vas a lograr? Eso queda en tus manos.\n\nRobo afrofuturista\nA fines del siglo XXI, los poderes políticos habían logrado el Tratado de devoluciones transatlánticas y había esperanzas de repatriar los artefactos africanos de los museos a sus lugares de origen. La vieja y querida diplomacia estaba funcionando… hasta que dejó de hacerlo. Se hizo una enmienda a los términos y condiciones sobre qué objetos tenían que devolverse, y los museos, en conocimiento de que solo estaban obligados a devolver los artefactos en exhibición, lentamente empezaron a retirar artefactos de las vitrinas al público.\nCuando la vida te da una mala mano y los museos juegan con cartas marcadas, es momento de sacar un as bajo la manga y recurrir a una nueva y más sigilosa forma de diplomacia. Debes saquearles 70 de estos artefactos a los ladrones originales, y se trata de objetos que existen en la realidad y que son de gran importancia cultural, histórica y espiritual para las personas a las que se los robaron.\n\nPara robar hay que saber cooperar\nTodo comienza con un hermanito conflictivo que, sí, te mete en todo tipo de problemas. Pero por suerte, al jugar como Nomali, conocerás a compañeros y compañeras de equipo más confiables de diferentes países de África. Recluta personas de todo tipo, desde el típico hacker hasta... tu propia abuelita, correcta y delicada. No te preocupes, la abuelita sabe ensuciarse las manos cuando es necesario.\n\nHaz un reconocimiento de campo\nPlanifica de antemano cómo será cada paso calculado de esta hermosa obra maestra de escape. Repasa la ruta de huida, analiza los acertijos y obstáculos, y determina en qué lugares necesitarás la ayuda de cada miembro del equipo.\n\nEntra y sal\nUna vez que hayas preparado el terreno cuidadosamente y el artefacto esté ahí quietecito, sin haber sido saqueado (no te preocupes, eso cambiará en breve), es momento de actuar. Cuando extraes un artefacto de su lugar, se inicia una cuenta regresiva y, con las habilidades de parkour a gran ritmo de Nomali, el escape debería ser pura diversión, como la secuencia de una película de robo. Pero si tu planificación fue insuficiente, ¡pagarás por eso!\n\nPuntos clave:\n• Organiza y ejecuta robos: planifica y prepara tu ruta de escape al resolver acertijos y situar a miembros del equipo en el lugar adecuado. Cuando todo esté listo, toma el artefacto y escapa con las habilidades de parkour y ritmo de Nomali.\n• Recluta a tu equipo: conoce a personas y arma de a poco un grupo con personas de diferentes destrezas.\n• Explora un ambiente afrofuturista: con tu escondite en Sudáfrica, verás partes de una Johannesburgo del futuro.\n• Recupera artefactos reales: consigue 70 artefactos que existen en la vida real, todos con una gran importancia cultural, histórica y espiritual para las personas a las que se los robaron originalmente.",
@@ -42651,7 +41764,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.5,
-      "ratingCount": 353,
+      "ratingCount": 355,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -45115,7 +44228,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.8,
-      "ratingCount": 70,
+      "ratingCount": 71,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -46269,7 +45382,7 @@
           "recommended": "Controladora de Xbox"
         }
       ],
-      "maxInstallSize": 2597322752,
+      "maxInstallSize": 2595344384,
       "hasAddOns": false,
       "storeUrl": "https://www.xbox.com/es-es/games/store/speedrunners-2-king-of-speed/9PPKR9N31BW6"
     },
@@ -48718,7 +47831,7 @@
           "recommended": "Controladora de Xbox"
         }
       ],
-      "maxInstallSize": 1591795712,
+      "maxInstallSize": 1597116416,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/supermarket-simulator/9NR0GCBSLDW4"
     },
@@ -48935,8 +48048,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 4,
-      "ratingCount": 1,
+      "rating": 3.5,
+      "ratingCount": 2,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -50545,7 +49658,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.8,
-      "ratingCount": 39,
+      "ratingCount": 40,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -51986,7 +51099,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.3,
-      "ratingCount": 161,
+      "ratingCount": 162,
       "ageRating": 18,
       "pegiRating": "PEGI 18 PROVISIONAL",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -54149,7 +53262,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.9,
-      "ratingCount": 205,
+      "ratingCount": 207,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -54466,70 +53579,6 @@
       "maxInstallSize": 10380890112,
       "hasAddOns": false,
       "storeUrl": "https://www.xbox.com/es-es/games/store/torment-tides-of-numenera/9NC0071DJ6XC"
-    },
-    {
-      "id": "9PHTX5QZ035T",
-      "title": "Total Chaos",
-      "description": "Adéntrate en Total Chaos, una pesadilla que difumina la línea entre la realidad y la locura.\n\nEn el pasado un bullicioso refugio para mineros de carbón, Fort Oasis es ahora un páramo desmoronado, cuyo inquietante silencio solo se ve interrumpido por una críptica transmisión de radio que te invita a dirigirte al corazón de la isla: las minas abandonadas. Pero a medida que te adentras en la desolación de la isla, el camino se torna tortuoso e incierto, desentrañando verdades inquietantes ocultas en la oscuridad que se cierne sobre ti.\n\nBusca restos y fabrica armas improvisadas para defenderte de los horrores que acechan en las sombras. Desentierra fragmentos de vidas olvidadas esparcidas por la isla y descifra el escalofriante misterio de la desaparición de Fort Oasis. Cada descubrimiento te acerca a una verdad que amenaza con destrozar tu cordura.\n\nCaracterísticas clave:\n\nAtmósfera inmersiva: explora las ruinas terroríficas de Fort Oasis durante nueve capítulos desgarradores que te sumergirán en su mundo opresivo y decadente.\n\nNarrativa ambiental: descubre los secretos más oscuros de la isla y enfréntate a tu propio pasado fracturado a través de notas crípticas, imágenes inquietantes y encuentros perturbadores.\n\nFabrica para sobrevivir: construye y mejora armas con materiales recuperados para tener una oportunidad contra los terrores implacables que te acechan.\n\nEnfréntate a enemigos de pesadilla: lucha en batallas desesperadas contra criaturas horribles, cada una con sus propios comportamientos y estrategias letales.\n\nGestión de recursos: navega por un completo sistema de inventario donde cada objeto importa. Tu supervivencia depende de decisiones cuidadosas y rapidez de pensamiento.",
-      "shortDescription": "Fort Oasis no es un paraíso, es una pesadilla en decadencia donde la realidad se desmorona. Total Chaos es un survival horror repleto de misterios y monstruosidades. Recoge restos para fabricar armas y sigue una voz críptica en tu walkie-talkie a través de las profundidades de la isla.",
-      "developer": "Trigger Happy Interactive, Black Sheep Studio",
-      "publisher": "Infogrames, Atari, Apogee Entertainment",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.28442.14224411830682092.a75ca261-09af-4d3c-9aa3-170861aaf880.9b048914-2a7a-4761-92ad-b34030a60d61",
-      "heroImage": "https://store-images.s-microsoft.com/image/apps.3007.14224411830682092.a75ca261-09af-4d3c-9aa3-170861aaf880.28423119-9b67-4771-a76b-da268a898d6e",
-      "screenshots": [
-        "https://store-images.s-microsoft.com/image/apps.64471.14224411830682092.a75ca261-09af-4d3c-9aa3-170861aaf880.d36cc277-bd4c-4b82-8b59-1e8c2f074b75",
-        "https://store-images.s-microsoft.com/image/apps.45176.14224411830682092.a75ca261-09af-4d3c-9aa3-170861aaf880.4be1488b-1061-40ca-b524-63bd478a6ad8",
-        "https://store-images.s-microsoft.com/image/apps.22464.14224411830682092.a75ca261-09af-4d3c-9aa3-170861aaf880.35a88fa3-8082-4faf-bffe-3eaf10d08ed9",
-        "https://store-images.s-microsoft.com/image/apps.47391.14224411830682092.a75ca261-09af-4d3c-9aa3-170861aaf880.08b13a73-47c4-45bf-a8de-cda499467556"
-      ],
-      "videoUrl": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftassets/65ee130c-47dd-4555-af8a-090141296fd3-AVS.m3u8?packagedStreaming=true",
-      "videoCaption": "Total Chaos - Launch Trailer",
-      "releaseDate": "2025-11-20",
-      "categories": [
-        "Shooter",
-        "Acción y aventura"
-      ],
-      "tiers": [
-        "pc",
-        "premium",
-        "ultimate"
-      ],
-      "platform": "both",
-      "price": 24.99,
-      "msrp": 24.99,
-      "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
-      "rating": 2.2,
-      "ratingCount": 112,
-      "ageRating": 16,
-      "pegiRating": "PEGI 16",
-      "pegiDescription": "Apropiado a partir de 16 años",
-      "interactiveDescriptions": [],
-      "capabilities": [
-        "4K Ultra HD",
-        "Un jugador",
-        "Optimizado para Xbox Series X|S",
-        "Logros de Xbox",
-        "Presencia de Xbox",
-        "Cosas guardadas en la nube de Xbox",
-        "Xbox Play Anywhere"
-      ],
-      "systemRequirements": [
-        {
-          "title": "SO",
-          "minimum": "Windows 10 version 18362.0 or higher",
-          "recommended": "Windows 10 version 18362.0 or higher"
-        },
-        {
-          "title": "Arquitectura",
-          "minimum": "x64",
-          "recommended": "x64"
-        }
-      ],
-      "maxInstallSize": 14907478016,
-      "hasAddOns": false,
-      "storeUrl": "https://www.xbox.com/es-es/games/store/total-chaos/9PHTX5QZ035T"
     },
     {
       "id": "9PC4RWP34M2D",
@@ -56622,7 +55671,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 1.8,
-      "ratingCount": 46,
+      "ratingCount": 47,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -57880,8 +56929,8 @@
       "currency": "EUR",
       "hasDiscount": true,
       "discountPercent": 10,
-      "rating": 4,
-      "ratingCount": 15,
+      "rating": 4.1,
+      "ratingCount": 17,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -58342,7 +57391,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 2.9,
-      "ratingCount": 111,
+      "ratingCount": 112,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -58884,7 +57933,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.8,
-      "ratingCount": 74,
+      "ratingCount": 75,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -59236,102 +58285,6 @@
       "maxInstallSize": 22557458432,
       "hasAddOns": false,
       "storeUrl": "https://www.xbox.com/es-es/games/store/winds-of-arcana-ruination/9P1ZW5K4S44V"
-    },
-    {
-      "id": "9ND3HTTQ0GKB",
-      "title": "Winter Burrow",
-      "description": "Winter Burrow es un acogedor juego de supervivencia en el bosque. ¡Explora, reúne recursos, fabrica herramientas, teje cálidos suéteres, hornea pasteles y conoce a los habitantes del lugar!\n\nEn Winter Burrow, juegas como un ratón que regresa de la gran ciudad para descubrir que su hogar de la infancia está en ruinas. Para empeorar las cosas, tu tía (quien se suponía debía cuidarlo) ha desaparecido. Restaura tu madriguera de la infancia a su antiguo esplendor para poder relajarte frente a la chimenea.\n\nEnfréntate a los elementos y adéntrate en el gélido desierto para recolectar recursos vitales tanto para ti como para tu nuevo hogar. Cuidado con los insectos salvajes y recuerda que nadie sobrevive solo; haz nuevos amigos, amplía tu manual de supervivencia y resuelve el misterio de lo que le sucedió a tu tía.\n\nWinter Burrow es un juego de supervivencia que puedes disfrutar a tu propio ritmo. Personaliza tu personaje, decora tu madriguera y elige un camino que se adapte a tu estilo de juego. Esta historia es tuya para contar.",
-      "shortDescription": "Winter Burrow es un acogedor juego de supervivencia en el bosque sobre un ratón que regresa a casa para restaurar su madriguera de la infancia. Explora, recolecta recursos, fabrica, teje suéteres cálidos, hornea pasteles y conoce a los lugareños.\n\n",
-      "developer": "Pine Creek Games",
-      "publisher": "Noodlecake",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.17059.13551922362408999.6a1ab142-ad0f-4a13-b0ba-9fcbb7182271.7ccb83f6-23a8-4dc2-af72-26b158ad9746",
-      "heroImage": "https://store-images.s-microsoft.com/image/apps.50205.13551922362408999.6a1ab142-ad0f-4a13-b0ba-9fcbb7182271.4f8b4629-e03d-4011-b2d6-5bb0e52abf72",
-      "screenshots": [
-        "https://store-images.s-microsoft.com/image/apps.6603.13551922362408999.5d22e667-189a-47c4-a28f-581147beeef7.83cd97da-a459-4912-8699-b24d041dea28",
-        "https://store-images.s-microsoft.com/image/apps.16794.13551922362408999.656624ec-b6f1-450d-ba40-fbb3e9dbe7ee.6d355d33-071c-4346-8c05-4eb705286c16",
-        "https://store-images.s-microsoft.com/image/apps.42120.13551922362408999.ad4c5e40-0d99-40a4-99d4-a1592dca0157.ee37c8f3-a346-4016-85c7-7711658ee507",
-        "https://store-images.s-microsoft.com/image/apps.9520.13551922362408999.656624ec-b6f1-450d-ba40-fbb3e9dbe7ee.a238f484-31b5-43b4-a28a-c7f8af8042c5"
-      ],
-      "videoUrl": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftassets/e8b4a063-382d-493b-8988-cbca39e9d52a-AVS.m3u8?packagedStreaming=true",
-      "videoCaption": "Trailer",
-      "releaseDate": "2025-11-12",
-      "categories": [
-        "Simulación",
-        "Otros",
-        "Acción y aventura"
-      ],
-      "tiers": [
-        "pc",
-        "premium",
-        "ultimate"
-      ],
-      "platform": "both",
-      "price": 19.99,
-      "msrp": 19.99,
-      "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
-      "rating": 4.2,
-      "ratingCount": 45,
-      "ageRating": 7,
-      "pegiRating": "PEGI 7",
-      "pegiDescription": "Apropiado a partir de 7 años",
-      "interactiveDescriptions": [],
-      "capabilities": [
-        "4K Ultra HD",
-        "Un jugador",
-        "Optimizado para Xbox Series X|S",
-        "Entrega inteligente",
-        "Mouse y teclado de la consola",
-        "Logros de Xbox",
-        "Cosas guardadas en la nube de Xbox",
-        "Xbox Play Anywhere"
-      ],
-      "systemRequirements": [
-        {
-          "title": "SO",
-          "minimum": "Windows 10 version 18362.0 or higher",
-          "recommended": "Windows 10 version 18362.0 or higher"
-        },
-        {
-          "title": "Arquitectura",
-          "minimum": "x64",
-          "recommended": "x64"
-        },
-        {
-          "title": "Gráficos",
-          "minimum": "GeForce GTX 950, Radeon R7 360, or Intel HD Graphics 630",
-          "recommended": "GeForce RTX 2060, Radeon RX 5600 XT, or Intel Arc A580"
-        },
-        {
-          "title": "Procesador",
-          "minimum": "Dual Core 2.4 GHz",
-          "recommended": "Quad Core 2.4ghz"
-        },
-        {
-          "title": "Teclado",
-          "minimum": "Teclado integrado",
-          "recommended": ""
-        },
-        {
-          "title": "Mouse",
-          "minimum": "Mouse integrado",
-          "recommended": ""
-        },
-        {
-          "title": "Memoria",
-          "minimum": "8 GB",
-          "recommended": "16 GB"
-        },
-        {
-          "title": "Controladora",
-          "minimum": "",
-          "recommended": "Controladora de Xbox"
-        }
-      ],
-      "maxInstallSize": 2157940736,
-      "hasAddOns": false,
-      "storeUrl": "https://www.xbox.com/es-es/games/store/winter-burrow/9ND3HTTQ0GKB"
     },
     {
       "id": "9N9X9PC8V9CP",
@@ -60737,120 +59690,6 @@
       "maxInstallSize": 84920864768,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/world-war-z-year-1-edition/9PLCL2VB2SC0"
-    },
-    {
-      "id": "BRJNRZ9N734V",
-      "title": "Wreckfest",
-      "description": "Wreckfest viene con un montón de mejoras y opciones de personalización. ¿Estás preparando la próxima carrera de destrucción con parachoques reforzados, jaulas de seguridad, protectores laterales y mucho más? ¿O pones a punto el coche para dar vueltas con las mejores partes de motor como filtros de aire, árboles de levas o sistemas de combustible? Wreckfest se adapta para ofrecer la mejor experiencia de juego de motor y destrucción que existe.\r\n\r\n• Experiencia de carrera única – Emocionante acción sin reglas con momentos únicos que solo se pueden ver en una simulación de físicas realista. Participa en pugnas igualadas en circuitos de alta velocidad, enfréntate a la locura de la destrucción total en recorridos locos con cruces y tráfico o hazte con la corona al dominar las arenas de demolición.\r\n\r\n• Coches impresionantes – Nuestros coches son viejas chatarras restauradas... ¡Pierden aceite, pero derrochan estilo y carácter! ¡Pesos pesados estadounidenses, ágiles europeos y divertidos asiáticos! No verás nada igual en otros juegos.\r\n\r\n• Personalización de jugabilidad – No cambias solo el aspecto de los coches, también mejoras su blindaje – Refuérzalos con hierro pesado que te protege del daño, aunque también añade peso y afecta al manejo del vehículo. Modifica tu coche para convertirlo en un robusto tanque, hazlo frágil y veloz como un cohete... ¡O crea algo equilibrado!\r\n\r\n• Multijugador – ¡Destruye a tus amigos online y lleva las carreras al límite para alcanzar el trono de la destrucción!\r\n\r\n• Modos de desafío – ¡Diversión garantizada con cosechadoras, cortacéspedes, buses escolares, triciclos y mucho más!\r\n\r\n• Modo trayectoria – ¡Disputa campeonatos, consigue experiencia, desbloquea nuevos coches y mejoras y conviértete en el campeón de Wreckfest!",
-      "shortDescription": "¡Rompe las reglas y lleva las carreras de destrucción al límite con Wreckfest! \r\n\r\n¡Disfruta de los choques épicos, las pugnas igualadas sobre la línea de meta y los trozos de metal saltando por los aires! Momentos únicos que solo verás en Wreckfest, todo gracias a su simulación de físicas realista elaborada por el legendario desarrollador Bugbear, creadores de FlatOut 1 y 2.\r\n\r\n¡Quema rueda y aplasta metal en el patio de conducción definitivo!",
-      "developer": "Bugbear Entertainment",
-      "publisher": "THQ Nordic",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.62864.69762792333465121.4086c71f-fab9-4c14-b959-3e77164a74cf.20973bfd-77f7-41d0-8e0a-7cb51d9f8add",
-      "heroImage": "https://store-images.s-microsoft.com/image/apps.26794.69762792333465121.4086c71f-fab9-4c14-b959-3e77164a74cf.6f7d7fb6-9c96-432b-8625-6749a1135a91",
-      "screenshots": [
-        "https://store-images.s-microsoft.com/image/apps.56049.69762792333465121.4086c71f-fab9-4c14-b959-3e77164a74cf.bc3061a2-2648-4684-bc68-d03096ab80b8",
-        "https://store-images.s-microsoft.com/image/apps.54360.69762792333465121.4086c71f-fab9-4c14-b959-3e77164a74cf.3ef45584-2648-436d-8fd4-daaaa55cb524",
-        "https://store-images.s-microsoft.com/image/apps.23288.69762792333465121.4086c71f-fab9-4c14-b959-3e77164a74cf.ca451829-4730-4cbc-b5b9-36d012130cb3",
-        "https://store-images.s-microsoft.com/image/apps.32365.69762792333465121.4086c71f-fab9-4c14-b959-3e77164a74cf.a41d6a42-cb1e-4283-b09b-6a96135295bc"
-      ],
-      "videoUrl": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftassets/5555b367-3f6a-4b57-b117-0560babf72b3-AVS.m3u8?packagedStreaming=true",
-      "videoCaption": "Wreckfest",
-      "releaseDate": "2019-08-26",
-      "categories": [
-        "Acción y aventura",
-        "Carreras y vuelo"
-      ],
-      "tiers": [
-        "essential",
-        "premium",
-        "ultimate"
-      ],
-      "platform": "console",
-      "price": 29.99,
-      "msrp": 29.99,
-      "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
-      "rating": 4.4,
-      "ratingCount": 96,
-      "ageRating": 12,
-      "pegiRating": "PEGI 12",
-      "pegiDescription": "Apropiado a partir de 12 años",
-      "interactiveDescriptions": [],
-      "capabilities": [
-        "Multijugador en línea  (2-16)"
-      ],
-      "systemRequirements": [
-        {
-          "title": "Arquitectura",
-          "minimum": "x64",
-          "recommended": "x64"
-        }
-      ],
-      "maxInstallSize": 23644352512,
-      "hasAddOns": true,
-      "storeUrl": "https://www.xbox.com/es-es/games/store/wreckfest/BRJNRZ9N734V"
-    },
-    {
-      "id": "9NG06CSMM97P",
-      "title": "Wreckfest",
-      "description": "Wreckfest viene con un montón de mejoras y opciones de personalización. ¿Estás preparando la próxima carrera de destrucción con parachoques reforzados, jaulas de seguridad, protectores laterales y mucho más? ¿O pones a punto el coche para dar vueltas con las mejores partes de motor como filtros de aire, árboles de levas o sistemas de combustible? Wreckfest se adapta para ofrecer la mejor experiencia de juego de motor y destrucción que existe.\r\n\r\n• Experiencia de carrera única – Emocionante acción sin reglas con momentos únicos que solo se pueden ver en una simulación de físicas realista. Participa en pugnas igualadas en circuitos de alta velocidad, enfréntate a la locura de la destrucción total en recorridos locos con cruces y tráfico o hazte con la corona al dominar las arenas de demolición.\r\n\r\n• Coches impresionantes – Nuestros coches son viejas chatarras restauradas... ¡Pierden aceite, pero derrochan estilo y carácter! ¡Pesos pesados estadounidenses, ágiles europeos y divertidos asiáticos! No verás nada igual en otros juegos.\r\n\r\n• Personalización de jugabilidad – No cambias solo el aspecto de los coches, también mejoras su blindaje – Refuérzalos con hierro pesado que te protege del daño, aunque también añade peso y afecta al manejo del vehículo. Modifica tu coche para convertirlo en un robusto tanque, hazlo frágil y veloz como un cohete... ¡O crea algo equilibrado!\r\n\r\n• Multijugador – ¡Destruye a tus amigos online y lleva las carreras al límite para alcanzar el trono de la destrucción!\r\n\r\n• Modos de desafío – ¡Diversión garantizada con cosechadoras, cortacéspedes, buses escolares, triciclos y mucho más!\r\n\r\n• Modo trayectoria – ¡Disputa campeonatos, consigue experiencia, desbloquea nuevos coches y mejoras y conviértete en el campeón de Wreckfest!",
-      "shortDescription": "¡Rompe las reglas y lleva las carreras de destrucción al límite con Wreckfest! \r\n\r\n¡Disfruta de los choques épicos, las pugnas igualadas sobre la línea de meta y los trozos de metal saltando por los aires! Momentos únicos que solo verás en Wreckfest, todo gracias a su simulación de físicas realista elaborada por el legendario desarrollador Bugbear, creadores de FlatOut 1 y 2.\r\n\r\n¡Quema rueda y aplasta metal en el patio de conducción definitivo!",
-      "developer": "Bugbear Entertainment",
-      "publisher": "THQ Nordic",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.62864.13589258961846020.5e95ec4c-44cb-4b39-8217-927890b74c94.2db605c4-0ddc-4af6-a7fe-27fa24741872",
-      "heroImage": "https://store-images.s-microsoft.com/image/apps.26794.13589258961846020.5e95ec4c-44cb-4b39-8217-927890b74c94.42a3b714-f871-4e0b-99dc-69be2fe5b2a0",
-      "screenshots": [
-        "https://store-images.s-microsoft.com/image/apps.56049.13589258961846020.5e95ec4c-44cb-4b39-8217-927890b74c94.c110ab04-5c4e-40b8-b47f-519c35c79fda",
-        "https://store-images.s-microsoft.com/image/apps.54360.13589258961846020.5e95ec4c-44cb-4b39-8217-927890b74c94.4ddd92e4-184b-43af-ba41-2d54d98147da",
-        "https://store-images.s-microsoft.com/image/apps.23288.13589258961846020.5e95ec4c-44cb-4b39-8217-927890b74c94.53e1b907-4703-4b51-bb34-9229611d41f4",
-        "https://store-images.s-microsoft.com/image/apps.32365.13589258961846020.5e95ec4c-44cb-4b39-8217-927890b74c94.f2efd995-f01e-4439-ab47-d4e9c6887d95"
-      ],
-      "videoUrl": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftassets/afca6a55-23eb-4477-a91c-c0221b1be05e-AVS.m3u8?packagedStreaming=true",
-      "videoCaption": "Wreckfest",
-      "releaseDate": "2021-02-18",
-      "categories": [
-        "Acción y aventura",
-        "Carreras y vuelo"
-      ],
-      "tiers": [
-        "essential",
-        "pc",
-        "premium",
-        "ultimate"
-      ],
-      "platform": "pc",
-      "price": 29.99,
-      "msrp": 29.99,
-      "currency": "EUR",
-      "hasDiscount": false,
-      "discountPercent": 0,
-      "rating": 3,
-      "ratingCount": 89,
-      "ageRating": 12,
-      "pegiRating": "PEGI 12",
-      "pegiDescription": "Apropiado a partir de 12 años",
-      "interactiveDescriptions": [],
-      "capabilities": [
-        "Multijugador en línea  (2-16)",
-        "Logros de Xbox",
-        "Cosas guardadas en la nube de Xbox"
-      ],
-      "systemRequirements": [
-        {
-          "title": "SO",
-          "minimum": "Windows 10 version 18362.0 or higher",
-          "recommended": "Windows 10 version 18362.0 or higher"
-        },
-        {
-          "title": "Arquitectura",
-          "minimum": "x64",
-          "recommended": "x64"
-        }
-      ],
-      "maxInstallSize": 28798136320,
-      "hasAddOns": true,
-      "storeUrl": "https://www.xbox.com/es-es/games/store/wreckfest/9NG06CSMM97P"
     },
     {
       "id": "9NPRHD8GQKQS",
