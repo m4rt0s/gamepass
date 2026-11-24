@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-23T19:34:38.712Z",
+  "updatedAt": "2026-11-24T19:10:23.664Z",
   "market": "ES",
   "language": "es-ES",
-  "totalGames": 810,
+  "totalGames": 811,
   "counts": {
     "essential": 133,
-    "premium": 561,
-    "pc": 470,
-    "ultimate": 713,
-    "total": 810
+    "premium": 562,
+    "pc": 471,
+    "ultimate": 714,
+    "total": 811
   },
   "categories": [
     "Acción y aventura",
@@ -3777,8 +3777,8 @@
         "https://store-images.s-microsoft.com/image/apps.37498.14585440003614248.da5c1c25-09b1-4c72-ae23-bf564e0dc62c.cd7127a8-776b-42cc-8558-a2f66ae5cbf5",
         "https://store-images.s-microsoft.com/image/apps.48961.14585440003614248.da5c1c25-09b1-4c72-ae23-bf564e0dc62c.f7ca8f8f-b6c7-47ae-8716-92be2c652aab"
       ],
-      "videoUrl": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftassets/5f48f700-5426-4346-a095-ad934c9c1e4a-AVS.m3u8?packagedStreaming=true",
-      "videoCaption": "Launch trailer",
+      "videoUrl": "https://cdn.trailers.xboxservices.com/trailers/00000000-0000-0000-0000-000000000000/xbox/prod/videos/mainprofile/14585440003614248/cd950976-c5de-42d6-a14a-c753d9f76664/manifest.m3u8",
+      "videoCaption": "Launch Trailer",
       "releaseDate": "2020-11-10",
       "categories": [
         "Acción y aventura"
@@ -4016,8 +4016,7 @@
         "HDR10",
         "Un jugador",
         "Xbox One X mejorado",
-        "Logros de Xbox",
-        "FPS Boost Series X | S"
+        "Logros de Xbox"
       ],
       "systemRequirements": [
         {
@@ -4367,7 +4366,7 @@
       "hasDiscount": true,
       "discountPercent": 70,
       "rating": 4.7,
-      "ratingCount": 74,
+      "ratingCount": 75,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -4402,8 +4401,8 @@
         "https://store-images.s-microsoft.com/image/apps.37498.14585440003614248.da5c1c25-09b1-4c72-ae23-bf564e0dc62c.cd7127a8-776b-42cc-8558-a2f66ae5cbf5",
         "https://store-images.s-microsoft.com/image/apps.48961.14585440003614248.da5c1c25-09b1-4c72-ae23-bf564e0dc62c.f7ca8f8f-b6c7-47ae-8716-92be2c652aab"
       ],
-      "videoUrl": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftassets/510941cf-73fd-434f-bddd-28db30996228-AVS.m3u8?packagedStreaming=true",
-      "videoCaption": "Launch trailer",
+      "videoUrl": "https://cdn.trailers.xboxservices.com/trailers/00000000-0000-0000-0000-000000000000/xbox/prod/videos/mainprofile/13618759808316711/153ab128-2473-4a09-9168-5d46707b64ea/manifest.m3u8",
+      "videoCaption": "Launch Trailer",
       "releaseDate": "2026-07-21",
       "categories": [
         "Acción y aventura"
@@ -4504,7 +4503,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.6,
-      "ratingCount": 377,
+      "ratingCount": 378,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -8662,7 +8661,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 2.6,
-      "ratingCount": 109,
+      "ratingCount": 110,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -8730,7 +8729,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 2.7,
-      "ratingCount": 112,
+      "ratingCount": 113,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -8803,7 +8802,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 2.4,
-      "ratingCount": 133,
+      "ratingCount": 134,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -8868,7 +8867,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 2.3,
-      "ratingCount": 130,
+      "ratingCount": 131,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -9142,7 +9141,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 2.7,
-      "ratingCount": 635,
+      "ratingCount": 636,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -9635,7 +9634,7 @@
           "recommended": "x64"
         },
         {
-          "title": "Gráficos",
+          "title": "Gr��ficos",
           "minimum": "GTX 1060",
           "recommended": ""
         },
@@ -9924,7 +9923,7 @@
       "hasDiscount": true,
       "discountPercent": 70,
       "rating": 3.7,
-      "ratingCount": 30,
+      "ratingCount": 31,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -11237,8 +11236,8 @@
       "currency": "EUR",
       "hasDiscount": true,
       "discountPercent": 75,
-      "rating": 3.7,
-      "ratingCount": 162,
+      "rating": 3.6,
+      "ratingCount": 224,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -11421,7 +11420,7 @@
       "hasDiscount": true,
       "discountPercent": 60,
       "rating": 4.2,
-      "ratingCount": 105,
+      "ratingCount": 106,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -13778,7 +13777,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 216735825920,
+      "maxInstallSize": 217985675264,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/diablo-iv-standard-edition/9N8117TM8JL3"
     },
@@ -18621,7 +18620,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.3,
-      "ratingCount": 275,
+      "ratingCount": 276,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -21360,7 +21359,7 @@
           "recommended": ""
         }
       ],
-      "maxInstallSize": 9148252160,
+      "maxInstallSize": 9144700928,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/football-manager-27/9N4NKMXDZCX6"
     },
@@ -21396,8 +21395,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 2.5,
-      "ratingCount": 2,
+      "rating": 2,
+      "ratingCount": 3,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -21507,7 +21506,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 123959398400,
+      "maxInstallSize": 122563006464,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/for-honor-standard-edition/9N3DWR830CVN"
     },
@@ -21559,7 +21558,7 @@
         "Xbox One X mejorado"
       ],
       "systemRequirements": [],
-      "maxInstallSize": 123959398400,
+      "maxInstallSize": 122563006464,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/for-honor-marching-fire-edition/C4CBF3FHHCND"
     },
@@ -21754,7 +21753,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.7,
-      "ratingCount": 29,
+      "ratingCount": 30,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -21863,7 +21862,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.8,
-      "ratingCount": 4622,
+      "ratingCount": 4624,
       "ageRating": 12,
       "pegiRating": "Supervisión parental recomendada",
       "pegiDescription": "Supervisión parental recomendada",
@@ -22024,7 +22023,7 @@
       "hasDiscount": true,
       "discountPercent": 25,
       "rating": 4.1,
-      "ratingCount": 387,
+      "ratingCount": 389,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -22216,8 +22215,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 3.4,
-      "ratingCount": 54,
+      "rating": 3.3,
+      "ratingCount": 55,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -22753,7 +22752,7 @@
       "hasDiscount": true,
       "discountPercent": 75,
       "rating": 2.8,
-      "ratingCount": 368,
+      "ratingCount": 369,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -22982,7 +22981,7 @@
       "hasDiscount": true,
       "discountPercent": 30,
       "rating": 4.4,
-      "ratingCount": 508,
+      "ratingCount": 512,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -23107,7 +23106,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.2,
-      "ratingCount": 104,
+      "ratingCount": 103,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -23301,8 +23300,7 @@
         "Cooperativo en línea  (2-2)",
         "Multijugador local de Xbox (2-2)",
         "Multijugador en línea  (2-8)",
-        "Pantalla dividida o compartida",
-        "FPS Boost Series X | S"
+        "Pantalla dividida o compartida"
       ],
       "systemRequirements": [
         {
@@ -24296,8 +24294,8 @@
       "currency": "EUR",
       "hasDiscount": false,
       "discountPercent": 0,
-      "rating": 4,
-      "ratingCount": 7,
+      "rating": 4.1,
+      "ratingCount": 8,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -27279,7 +27277,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.2,
-      "ratingCount": 483,
+      "ratingCount": 484,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -30208,7 +30206,7 @@
       "hasDiscount": true,
       "discountPercent": 80,
       "rating": 4.9,
-      "ratingCount": 77,
+      "ratingCount": 78,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -31702,7 +31700,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 16591212544,
+      "maxInstallSize": 16002744320,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/mavrix-by-matt-jones/9NZX67J81X6F"
     },
@@ -32454,7 +32452,7 @@
       "hasDiscount": true,
       "discountPercent": 30,
       "rating": 2.1,
-      "ratingCount": 708,
+      "ratingCount": 709,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -32650,7 +32648,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.7,
-      "ratingCount": 52060,
+      "ratingCount": 52065,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -33169,7 +33167,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4,
-      "ratingCount": 16061,
+      "ratingCount": 16063,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -33364,7 +33362,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.5,
-      "ratingCount": 61774,
+      "ratingCount": 61778,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -33660,11 +33658,11 @@
         "ultimate"
       ],
       "platform": "both",
-      "price": 19.99,
+      "price": 24.99,
       "msrp": 24.99,
       "currency": "EUR",
-      "hasDiscount": true,
-      "discountPercent": 20,
+      "hasDiscount": false,
+      "discountPercent": 0,
       "rating": 2.8,
       "ratingCount": 71,
       "ageRating": 16,
@@ -34596,7 +34594,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.2,
-      "ratingCount": 30,
+      "ratingCount": 31,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -38838,8 +38836,7 @@
         "Cooperación local de Xbox (2-4)",
         "Cooperativo en línea  (2-4)",
         "Multijugador local de Xbox (2-2)",
-        "Multijugador en línea  (2-26)",
-        "FPS Boost Series X | S"
+        "Multijugador en línea  (2-26)"
       ],
       "systemRequirements": [
         {
@@ -38991,8 +38988,8 @@
       "currency": "EUR",
       "hasDiscount": true,
       "discountPercent": 45,
-      "rating": 3.1,
-      "ratingCount": 8,
+      "rating": 3.3,
+      "ratingCount": 10,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -42826,7 +42823,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.4,
-      "ratingCount": 78,
+      "ratingCount": 79,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -43453,6 +43450,7 @@
         "Cooperación multiplataforma de Xbox",
         "60 fps +",
         "Optimizado para Xbox Series X|S",
+        "Mouse y teclado de la consola",
         "Logros de Xbox",
         "Cosas guardadas en la nube de Xbox",
         "Xbox Play Anywhere"
@@ -43475,7 +43473,7 @@
         },
         {
           "title": "Memoria",
-          "minimum": "8 GB",
+          "minimum": "12 GB",
           "recommended": "16 GB"
         },
         {
@@ -43593,9 +43591,7 @@
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
       "interactiveDescriptions": [],
-      "capabilities": [
-        "FPS Boost Series X | S"
-      ],
+      "capabilities": [],
       "systemRequirements": [
         {
           "title": "Arquitectura",
@@ -44840,6 +44836,77 @@
       "storeUrl": "https://www.xbox.com/es-es/games/store/smite-2/9NV8W1KJSQLL"
     },
     {
+      "id": "9NV8BWGH15GN",
+      "title": "Sniper Ghost Warrior Contracts 2",
+      "description": "Sniper Ghost Warrior Contracts 2 es la entrega más desafiante de la prestigiosa serie hasta la fecha e incluye disparos a larga distancia, con objetivos a más de 1000 metros. La dramática campaña de un jugador, ambientada en Oriente Medio en la era moderna, aporta combate táctico de gran intensidad en pleno territorio enemigo. En el papel de Raven, un francotirador a sueldo, completa una serie de contratos en una región sin ley de Oriente Medio cerca de las fronteras del Líbano y de Siria. Tu misión, prácticamente imposible, es derrotar a un sindicato criminal y llevar a sus integrantes ante la justicia.\r\n\r\nDisparos a distancias extremas\r\nA los veteranos de la serie les espera un reto, porque Sniper Ghost Warrior Contracts 2 exige un gran nivel de habilidad, concentración y precisión, ya que por primera vez en la serie muchos de los objetivos están situados a más de 1000 metros.\r\n\r\nREALISMO SIN PRECEDENTES\r\nContracts 2 ha sido desarrollado por el mismo equipo que el juego original y lleva las cosas al límite con la experiencia más realista. Domina un arsenal basado en equipo militar real, explora grandes terrenos llenos de detalle y enfréntate a los enemigos más vivos de la serie.\r\n\r\nPLANEA TU ASALTO\r\nUsa tu novedoso equipo para completar los contratos una y otra vez de diferentes maneras. Repite la misión con enfoques diferentes para completar todos los objetivos e invierte tus ganancias en mejorar tu equipo y armamento.\r\n\r\nMEJORAS GRÁFICAS\r\nEn Contracts 2 hemos añadido más fidelidad, optimizaciones visuales, un aumento de FPS y un motor mejorado, lo que hace que esta sea la entrega más espectacular de la serie. Y con la cámara cinemática de bala, puedes disfrutar de todos los detalles sangrientos de tus asesinatos sigilosos.",
+      "shortDescription": "Nunca se había disparado desde tan lejos. Sniper Ghost Warrior Contracts 2 presenta una historia tensa de un jugador en la que las apuestas se elevan cada vez más en el corazón del territorio enemigo.",
+      "developer": "CI Games",
+      "publisher": "CI Games",
+      "imageUrl": "https://store-images.s-microsoft.com/image/apps.26838.14403486953530579.8b4d5859-c0ba-42f4-a4b1-7157a546eaa8.89013b87-c493-4a18-9bd4-700b28776012",
+      "heroImage": "https://store-images.s-microsoft.com/image/apps.4785.14403486953530579.8b4d5859-c0ba-42f4-a4b1-7157a546eaa8.e813deee-e288-45a9-8144-e68d43e154f1",
+      "screenshots": [
+        "https://store-images.s-microsoft.com/image/apps.51057.14403486953530579.8b4d5859-c0ba-42f4-a4b1-7157a546eaa8.73794286-b996-4b76-bf2f-5577007af799",
+        "https://store-images.s-microsoft.com/image/apps.33211.14403486953530579.8b4d5859-c0ba-42f4-a4b1-7157a546eaa8.d37de1c0-8eb2-477c-ab82-cadb3c984f0f",
+        "https://store-images.s-microsoft.com/image/apps.49286.14403486953530579.6bfc3ab0-0fcb-4aba-afa5-8c49b9b8755d.cf516563-e07a-4a80-9231-22988c86958f",
+        "https://store-images.s-microsoft.com/image/apps.57207.14403486953530579.8b4d5859-c0ba-42f4-a4b1-7157a546eaa8.f854d9c0-a327-4189-9f22-1a03d7a0ed13"
+      ],
+      "videoUrl": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftassets/eece1466-7f48-41ea-b630-3e4479f1783b-AVS.m3u8?packagedStreaming=true",
+      "videoCaption": "Sniper Ghost Warrior Contracts 2 - Gameplay Trailer",
+      "releaseDate": "2021-06-04",
+      "categories": [
+        "Shooter"
+      ],
+      "tiers": [
+        "pc",
+        "premium",
+        "ultimate"
+      ],
+      "platform": "both",
+      "price": 3.99,
+      "msrp": 39.99,
+      "currency": "EUR",
+      "hasDiscount": true,
+      "discountPercent": 90,
+      "rating": 3.4,
+      "ratingCount": 19,
+      "ageRating": 18,
+      "pegiRating": "PEGI 18",
+      "pegiDescription": "Apropiado a partir de 18 años",
+      "interactiveDescriptions": [],
+      "capabilities": [
+        "4K Ultra HD",
+        "Logros de Xbox",
+        "Presencia de Xbox",
+        "Clubs de Xbox",
+        "Cosas guardadas en la nube de Xbox"
+      ],
+      "systemRequirements": [
+        {
+          "title": "SO",
+          "minimum": "Windows 10 version 18362.0 or higher",
+          "recommended": "Windows 10 version 18362.0 or higher"
+        },
+        {
+          "title": "Arquitectura",
+          "minimum": "x64",
+          "recommended": "x64"
+        },
+        {
+          "title": "Controladora",
+          "minimum": "Controladora de Xbox",
+          "recommended": ""
+        },
+        {
+          "title": "Memoria",
+          "minimum": "12 GB",
+          "recommended": ""
+        }
+      ],
+      "maxInstallSize": 27554361344,
+      "hasAddOns": true,
+      "storeUrl": "https://www.xbox.com/es-es/games/store/sniper-ghost-warrior-contracts-2/9NV8BWGH15GN"
+    },
+    {
       "id": "9PNRSC0J6DT8",
       "title": "SnowRunner",
       "description": "¡Prepárate para la nueva generación de esta experiencia campo a través!\r\n\r\nSnowRunner te pone al volante de potentes vehículos para que ganes la lucha contra la naturaleza en entornos extremos con el mejor simulador de terreno que existe. Conduce 40 vehículos de marcas como Ford, Chevrolet y Freightliner, y deja tu huella en un mundo abierto y salvaje.\r\n\r\nAtraviesa barro, aguas torrenciales, nieve y lagos congelados para llevar a cabo peligrosos contratos y misiones. Amplía y personaliza tu flota con un gran número de mejoras y accesorios, incluyendo un tubo de escape submarino para aguas profundas y cadenas para combatir la nieve.\r\n\r\n¡Conduce solo o en el modo cooperativo de 4 jugadores!\r\n• Enfréntate a entornos extremos en un avanzado motor de física\r\n• 40 vehículos que desbloquear, mejorar y personalizar\r\n• Completa decenas de misiones desafiantes en un mundo interconectado\r\n• Juega solo o en el modo cooperativo de 4 jugadores\r\n\r\nEsta compra también da acceso al DLC Anniversary, que incluye los camiones CAT 681 e International HX 520.\r\n\r\nDisfruta de resolución en 4K*, 60 FPS, efectos visuales altamente mejorados y carga rápida en Xbox Series X|S. \r\n*Hacen falta una pantalla compatible y un sistema Xbox Series X para lograr la resolución en 4K.\r\n",
@@ -44871,8 +44938,8 @@
       "currency": "EUR",
       "hasDiscount": true,
       "discountPercent": 60,
-      "rating": 3.5,
-      "ratingCount": 119,
+      "rating": 3.6,
+      "ratingCount": 120,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -48251,7 +48318,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 5393379328,
+      "maxInstallSize": 4360880128,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/tcg-card-shop-simulator/9P9GX5D8H9DW"
     },
@@ -51376,7 +51443,7 @@
       "hasDiscount": true,
       "discountPercent": 20,
       "rating": 3.8,
-      "ratingCount": 31,
+      "ratingCount": 32,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -52580,7 +52647,7 @@
       "hasDiscount": true,
       "discountPercent": 80,
       "rating": 4.6,
-      "ratingCount": 367,
+      "ratingCount": 368,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -53333,8 +53400,8 @@
         "https://store-images.s-microsoft.com/image/apps.64395.71050925055292780.e4ffcb82-4a77-405c-955a-8b5f2464657e.8e68ec1e-fbcc-4e2a-9f8e-ae635a48cc76",
         "https://store-images.s-microsoft.com/image/apps.16565.71050925055292780.e4ffcb82-4a77-405c-955a-8b5f2464657e.36eefd2a-b139-43b2-9c07-d6a7b1f03d79"
       ],
-      "videoUrl": "https://cdn.trailers.xboxservices.com/trailers/00000000-0000-0000-0000-000000000000/xbox/prod/videos/mainprofile/71050925055292780/df26d3c7-613b-4e7a-ac03-2d96b26d291a/manifest.m3u8",
-      "videoCaption": "Gameplay Trailer",
+      "videoUrl": "https://cdn.trailers.xboxservices.com/trailers/00000000-0000-0000-0000-000000000000/xbox/prod/videos/mainprofile/71050925055292780/2f8018e7-fe21-4d11-945e-02777cede410/manifest.m3u8",
+      "videoCaption": "Launch Trailer",
       "releaseDate": "2019-03-15",
       "categories": [
         "Juegos de rol",
@@ -53378,7 +53445,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 124298518528,
+      "maxInstallSize": 125065428992,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/tom-clancy-s-the-division-2/BVQ3V30ZXVT5"
     },
@@ -57634,8 +57701,7 @@
         "Cooperativo en línea  (2-2)",
         "Multijugador en línea  (2-4)",
         "Un jugador",
-        "Logros de Xbox",
-        "FPS Boost Series X | S"
+        "Logros de Xbox"
       ],
       "systemRequirements": [
         {
@@ -58023,7 +58089,7 @@
       "hasDiscount": true,
       "discountPercent": 20,
       "rating": 4.8,
-      "ratingCount": 76,
+      "ratingCount": 77,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -59296,17 +59362,17 @@
     {
       "id": "C57L9GR0HHB7",
       "title": "World of Tanks Modern Armor",
-      "description": "DUNE: PARTE TRES \nSigue el camino que marca la profecía y prepárate para el gran desenlace de la trilogía de Dune. Descubre lotes especiales con los vehículos Titán de guerra y Manta Deslizante, los comandantes legendarios Paul Atreides, Stilgar y Alia Atreides, y elementos de personalización inspirados en Dune. ¡Adéntrate en el universo de Dune y controla el desierto! \n\nEL CAMPO DE BATALLA TE RECLAMA \nWorld of Tanks Modern Armor te pone al mando de más de 1000 carros modernos y legendarios. Desafíate a ti mismo en estratégicas batallas por equipos de 15 contra 15. Selecciona las batallas de la Guerra Fría si buscas acción trepidante y moderna o elige las batallas de la Segunda Guerra Mundial si prefieres combates tácticos y pausados. Explora mapas detallados inspirados en escenarios de guerra auténticos.  \n\nCONOCE LAS MÁQUINAS MÁS TEMIBLES DE LA HISTORIA \nRevive la historia al mando de carros emblemáticos de la Segunda Guerra Mundial como el Sherman y bestias modernas como el M1 Abrams. Colecciona y mejora tus carros blindados, personalízalos con camuflajes y desbloquea vehículos más poderosos. Elige entre un amplio abanico de comandantes 3D que te guíen en el campo de batalla. \n\nENFRÉNTATE A JUGADORES DE TODO EL MUNDO \nJuega gratis y disfruta de actualizaciones de contenido semanales repletas de desafíos, recompensas, colaboraciones especiales y temporadas nuevas. Elige tu modo preferido: JcJ o JcE. Forma equipo con tus amigos, y uníos a World of Tanks Modern Armor para poner a prueba vuestras habilidades. \n\nTus carros te están esperando. ¡Nos vemos en el campo de batalla! \n\n¿Quieres más información? Pásate por WoTModernArmor.com.",
+      "description": "TEMPORAL: ASILO DE ACERO\nAdéntrate en la nueva temporada de World of Tanks Modern Armor, Asilo de acero, y enfréntate a la locura del campo de batalla. Descubre nuevos carros premium aterradores, un comandante 3D temible, desafíos especiales de Halloween, ofertas de Black Friday y una serie de eventos temporales que pondrán a prueba tu valor.\n\nEL CAMPO DE BATALLA TE RECLAMA \nWorld of Tanks Modern Armor te pone al mando de más de 1000 carros modernos y legendarios. Desafíate a ti mismo en estratégicas batallas por equipos de 15 contra 15. Selecciona las batallas de la Guerra Fría si buscas acción trepidante y moderna o elige las batallas de la Segunda Guerra Mundial si prefieres combates tácticos y pausados. Explora mapas detallados inspirados en escenarios de guerra auténticos.  \n\nCONOCE LAS MÁQUINAS MÁS TEMIBLES DE LA HISTORIA \nRevive la historia al mando de carros emblemáticos de la Segunda Guerra Mundial como el Sherman y bestias modernas como el M1 Abrams. Colecciona y mejora tus carros blindados, personalízalos con camuflajes y desbloquea vehículos más poderosos. Elige entre un amplio abanico de comandantes 3D que te guíen en el campo de batalla. \n\nENFRÉNTATE A JUGADORES DE TODO EL MUNDO \nJuega gratis y disfruta de actualizaciones de contenido semanales repletas de desafíos, recompensas, colaboraciones especiales y temporadas nuevas. Elige tu modo preferido: JcJ o JcE. Forma equipo con tus amigos, y uníos a World of Tanks Modern Armor para poner a prueba vuestras habilidades. \n\nTus carros te están esperando. ¡Nos vemos en el campo de batalla! \n\n¿Quieres más información? Pásate por WoTModernArmor.com.",
       "shortDescription": "World of Tanks Modern Armor te pone al mando de más de 1000 carros modernos y legendarios. Desafíate a ti mismo en estratégicas batallas por equipos de 15 contra 15. Selecciona las batallas de la Guerra Fría si buscas acción trepidante y moderna o elige las batallas de la Segunda Guerra Mundial si prefieres combates tácticos y pausados.  ",
       "developer": "Wargaming.net",
       "publisher": "Wargaming.net",
       "imageUrl": "https://store-images.s-microsoft.com/image/apps.56441.67082279703731056.6e3bd00c-6996-4fb3-aaff-b5a1ec4229ca.e30bf06c-1657-4b9c-8c20-f83420c09d4e",
       "heroImage": "https://store-images.s-microsoft.com/image/apps.8100.67082279703731056.6e3bd00c-6996-4fb3-aaff-b5a1ec4229ca.ae7b70f6-96c5-4f6d-9047-dda63a791596",
       "screenshots": [
-        "https://store-images.s-microsoft.com/image/apps.2397.67082279703731056.9ddcf855-aa96-40b6-9f49-d828e4d95570.70a08fa8-b75e-4b4c-a1c9-7c72b19d7ec5",
-        "https://store-images.s-microsoft.com/image/apps.48012.67082279703731056.9ddcf855-aa96-40b6-9f49-d828e4d95570.e897c555-d2b3-4e15-a0c8-e5885a359ba2",
-        "https://store-images.s-microsoft.com/image/apps.57276.67082279703731056.9ddcf855-aa96-40b6-9f49-d828e4d95570.0b6d4bf3-ca5e-48e1-94ac-c1866f6db494",
-        "https://store-images.s-microsoft.com/image/apps.54274.67082279703731056.9ddcf855-aa96-40b6-9f49-d828e4d95570.b28d8fd9-8560-4a71-b3ab-7d7d8a00c9c8"
+        "https://store-images.s-microsoft.com/image/apps.42735.67082279703731056.6e3bd00c-6996-4fb3-aaff-b5a1ec4229ca.f099eb6f-00a3-4979-9a30-394543363f29",
+        "https://store-images.s-microsoft.com/image/apps.16357.67082279703731056.6e3bd00c-6996-4fb3-aaff-b5a1ec4229ca.9d45f905-f97e-4506-80f8-bad52193b7cd",
+        "https://store-images.s-microsoft.com/image/apps.12999.67082279703731056.6e3bd00c-6996-4fb3-aaff-b5a1ec4229ca.4ba9ed85-15dc-49e3-978e-8a9a5d1dd806",
+        "https://store-images.s-microsoft.com/image/apps.4744.67082279703731056.6e3bd00c-6996-4fb3-aaff-b5a1ec4229ca.53ea5d8b-6f93-46b2-8d56-92ab97f0ef5b"
       ],
       "videoUrl": "https://cdn.trailers.xboxservices.com/trailers/00000000-0000-0000-0000-000000000000/xbox/prod/videos/mainprofile/67082279703731056/32805793-5251-4c87-9ebd-539b7e2fe043/manifest.m3u8",
       "videoCaption": "Steel Asylum",
@@ -59777,7 +59843,7 @@
           "recommended": "16 GB"
         }
       ],
-      "maxInstallSize": 84909191168,
+      "maxInstallSize": 84908482560,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/world-war-z-year-1-edition/9PLCL2VB2SC0"
     },
