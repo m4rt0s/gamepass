@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-26T17:57:58.155Z",
+  "updatedAt": "2026-11-27T17:43:39.669Z",
   "market": "ES",
   "language": "es-ES",
-  "totalGames": 811,
+  "totalGames": 812,
   "counts": {
     "essential": 133,
     "premium": 562,
-    "pc": 471,
-    "ultimate": 714,
-    "total": 811
+    "pc": 472,
+    "ultimate": 715,
+    "total": 812
   },
   "categories": [
     "Acción y aventura",
@@ -1725,7 +1725,7 @@
           "recommended": "Micrófono integrado"
         }
       ],
-      "maxInstallSize": 40107044864,
+      "maxInstallSize": 40107048960,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/aniimo/9PK8PHLCQDF6"
     },
@@ -2390,6 +2390,94 @@
       "maxInstallSize": 184098648064,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/ark-ultimate-survivor-edition/9P686C1GJ91L"
+    },
+    {
+      "id": "9NFZHXPSB473",
+      "title": "Arkheron (Game Preview)",
+      "description": "Compra la Standard Edition o la Supporter Edition a más tardar el 1 de diciembre de 2026 a las 08:01 UTC para recibir el Armored Swan Pack incluido con tu compra*.\n\nEl acceso anticipado nos permite poner Arkheron en manos de los jugadores, recopilar comentarios valiosos y mejorar el juego junto a nuestra comunidad. Queremos que los jugadores nos ayuden a dar forma al equilibrio del combate, el emparejamiento, los nuevos modos de juego y las funciones a medida que Arkheron evoluciona, siendo transparentes sobre nuestros planes y prioridades de desarrollo.\n\nArkheron es un juego JcJ por equipos de ritmo frenético en el que los objetos que encuentras te otorgan poderosas habilidades que dominar. Combínalas para superar a tus oponentes con destreza y creatividad, y convierte combates imposibles en victorias inolvidables. No habrá dos partidas iguales. Miles de combinaciones de objetos y habilidades hacen que cada combate sea distinto y cada victoria, merecida.\n\nEl ascenso\nLa Torre está atrapada en un ciclo infinito de destrucción y renovación; tu única salida es seguir subiendo. En Ascensión, equipos de tres luchan contra monstruos, saquean objetos poderosos y se enfrentan a equipos rivales por el control de las balizas, planta a planta, hasta que solo quedan dos equipos para el enfrentamiento final en la cima. Torres es combate puro en arena 3c3. Tu equipo contra otro, un combate tras otro. ¿Hasta dónde llegarás?\n\nCombate creativo y exigente\nEl combate isométrico con apuntado libre te mantiene al mando: usa las coberturas y la línea de visión para preparar el disparo perfecto, esquiva y embiste para acercarte, y atiende al sonido y a las posiciones para detectar el peligro a tiempo. Combina habilidades de formas inesperadas y haz jugadas que tus oponentes no verán venir.\n\nLos objetos son los héroes\nNo juegas con un héroe. Lo construyes. Cada reliquia que te equipas otorga habilidades que definen tu estilo de juego. Mezcla reliquias de distintos Eternos, o cámbialas para adaptar tu build al combate que te espera. Reúne dos del mismo Eterno para desbloquear una bonificación de conjunto, o las cuatro para transformarte en ese Eterno y obtener una quinta habilidad que cambia el rumbo del combate. Pero una vez que te transformes, no hay vuelta atrás.\n\nUn mundo en constante cambio\nLa Torre está construida con los recuerdos de los muertos. Cuando entran nuevos Eternos, sus objetos y habilidades cambian la forma de jugar de todo el mundo, y el meta evoluciona junto con el mundo.\n\nEdiciones y packs\nLa Standard Edition incluye el pack Primeros ecos. La Supporter Edition añade el Siren Pack y el Night's Advocate Pack, que también se venden por separado. El contenido de los packs es solo cosmético y no afecta a la jugabilidad. La versión actual no tiene tienda en el juego. Las ediciones y los packs solo se venden en esta tienda. Las compras se aplican a la plataforma en la que se realizan.\n\nJuega a Arkheron con XBOX Game Pass. Los miembros obtienen la Standard Edition, con el pack Primeros ecos incluido, durante tres meses desde el lanzamiento del acceso anticipado.\n\nLa compra te otorga una licencia de contenido digital sujeta al Contrato de licencia de usuario final, las Condiciones del servicio y la Política de privacidad de Arkheron. El multijugador en línea requiere una membresía de XBOX Game Pass Essential, Premium o Ultimate (se vende por separado).\n\n*Para recibir el Armored Swan Pack, compra la Standard Edition o la Supporter Edition a más tardar el 1 de diciembre de 2026 a las 08:01 UTC e inicia sesión en Arkheron a más tardar el 27 de mayo de 2027 a las 15:00 UTC.",
+      "shortDescription": "Arkheron es un JcJ por equipos de ritmo frenético en el que los objetos otorgan poderosas habilidades. Combínalas para superar a los rivales con destreza y creatividad mientras subes la Torre. Cada partida te reta a adaptarte, sobrevivir y dominar nuevas combinaciones.",
+      "developer": "Bonfire Studios",
+      "publisher": "Bonfire Studios",
+      "imageUrl": "https://store-images.s-microsoft.com/image/apps.26633.13589912066336146.960b6af0-616b-4327-891e-43879004fc77.2fde4c71-985a-4bc8-abf0-feb15e7535f6",
+      "heroImage": "",
+      "screenshots": [
+        "https://store-images.s-microsoft.com/image/apps.14933.14207820980714950.09843979-7901-425c-a666-45000998b11c.6c4bb5df-5e77-44de-a5f9-918c946a5777",
+        "https://store-images.s-microsoft.com/image/apps.25481.14207820980714950.09843979-7901-425c-a666-45000998b11c.ba06ad0b-5ed9-4af5-ab04-a09d942b5659",
+        "https://store-images.s-microsoft.com/image/apps.64320.14207820980714950.09843979-7901-425c-a666-45000998b11c.2327cffa-bbe7-4cf4-b2db-e8229ee0ab54",
+        "https://store-images.s-microsoft.com/image/apps.55739.14207820980714950.09843979-7901-425c-a666-45000998b11c.51ff231c-7fee-499f-8581-885dae40ab7f"
+      ],
+      "videoUrl": "",
+      "videoCaption": "",
+      "releaseDate": "2026-11-27",
+      "categories": [
+        "Campo de batalla en línea para varios jugadores"
+      ],
+      "tiers": [
+        "pc",
+        "ultimate"
+      ],
+      "platform": "both",
+      "price": 24.99,
+      "msrp": 24.99,
+      "currency": "EUR",
+      "hasDiscount": false,
+      "discountPercent": 0,
+      "rating": 0,
+      "ratingCount": 0,
+      "ageRating": 7,
+      "pegiRating": "PEGI 7",
+      "pegiDescription": "Apropiado a partir de 7 años",
+      "interactiveDescriptions": [
+        "Interacción de usuarios",
+        "Incluye compras"
+      ],
+      "capabilities": [
+        "Multijugador en línea  (3-45)",
+        "Multijugador multiplataforma de Xbox",
+        "60 fps +",
+        "Optimizado para Xbox Series X|S",
+        "Controlador para juegos para PC"
+      ],
+      "systemRequirements": [
+        {
+          "title": "SO",
+          "minimum": "Windows 10 version 18362.0 or higher",
+          "recommended": "Windows 10 version 18362.0 or higher"
+        },
+        {
+          "title": "Arquitectura",
+          "minimum": "x64",
+          "recommended": "x64"
+        },
+        {
+          "title": "Gráficos",
+          "minimum": "Nvidia GTX 1060 6Gb VRAM",
+          "recommended": "Nvidia RTX 2070 8GB VRAM"
+        },
+        {
+          "title": "Procesador",
+          "minimum": "Intel i5-9600K",
+          "recommended": "Intel i5-9700K"
+        },
+        {
+          "title": "Teclado",
+          "minimum": "Teclado integrado",
+          "recommended": ""
+        },
+        {
+          "title": "Mouse",
+          "minimum": "Mouse integrado",
+          "recommended": ""
+        },
+        {
+          "title": "Memoria",
+          "minimum": "8 GB",
+          "recommended": "12 GB"
+        }
+      ],
+      "maxInstallSize": 23139700736,
+      "hasAddOns": true,
+      "storeUrl": "https://www.xbox.com/es-es/games/store/arkheron-game-preview/9NFZHXPSB473"
     },
     {
       "id": "9NXQKPGMHH9G",
@@ -13957,7 +14045,7 @@
       "hasDiscount": true,
       "discountPercent": 75,
       "rating": 2.7,
-      "ratingCount": 204,
+      "ratingCount": 205,
       "ageRating": 12,
       "pegiRating": "PEGI 12",
       "pegiDescription": "Apropiado a partir de 12 años",
@@ -15583,7 +15671,7 @@
       "hasDiscount": true,
       "discountPercent": 50,
       "rating": 4.3,
-      "ratingCount": 425,
+      "ratingCount": 426,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -20921,7 +21009,7 @@
       "hasDiscount": true,
       "discountPercent": 80,
       "rating": 4.4,
-      "ratingCount": 70,
+      "ratingCount": 71,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -21721,7 +21809,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 11069026304,
+      "maxInstallSize": 11081797632,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/for-the-king-ii/9NVC9KWJVLT0"
     },
@@ -21866,7 +21954,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 3.8,
-      "ratingCount": 4624,
+      "ratingCount": 4625,
       "ageRating": 12,
       "pegiRating": "Supervisión parental recomendada",
       "pegiDescription": "Supervisión parental recomendada",
@@ -22756,7 +22844,7 @@
       "hasDiscount": true,
       "discountPercent": 75,
       "rating": 2.8,
-      "ratingCount": 369,
+      "ratingCount": 370,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -22985,7 +23073,7 @@
       "hasDiscount": true,
       "discountPercent": 30,
       "rating": 4.4,
-      "ratingCount": 514,
+      "ratingCount": 515,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -32653,7 +32741,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.7,
-      "ratingCount": 52073,
+      "ratingCount": 52080,
       "ageRating": 3,
       "pegiRating": "PEGI 3",
       "pegiDescription": "Apropiado a partir de 3 años",
@@ -33172,7 +33260,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4,
-      "ratingCount": 16067,
+      "ratingCount": 16068,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -33367,7 +33455,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.5,
-      "ratingCount": 61782,
+      "ratingCount": 61783,
       "ageRating": 7,
       "pegiRating": "PEGI 7",
       "pegiDescription": "Apropiado a partir de 7 años",
@@ -34351,7 +34439,7 @@
           "recommended": "Controladora de Xbox"
         }
       ],
-      "maxInstallSize": 5971181568,
+      "maxInstallSize": 5949759488,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/moonlighter-2-the-endless-vault/9NDJX252Q5BW"
     },
@@ -41363,7 +41451,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.7,
-      "ratingCount": 492,
+      "ratingCount": 494,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -41578,7 +41666,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.3,
-      "ratingCount": 145,
+      "ratingCount": 146,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -41857,7 +41945,7 @@
       "hasDiscount": false,
       "discountPercent": 0,
       "rating": 4.5,
-      "ratingCount": 360,
+      "ratingCount": 361,
       "ageRating": 16,
       "pegiRating": "PEGI 16",
       "pegiDescription": "Apropiado a partir de 16 años",
@@ -53076,7 +53164,7 @@
           "recommended": "x64"
         }
       ],
-      "maxInstallSize": 55486103552,
+      "maxInstallSize": 55277461504,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/tom-clancy-s-rainbow-six-siege-elite-edition/9PB3RHWXB9MR"
     },
@@ -55481,7 +55569,7 @@
           "recommended": "16 GB"
         }
       ],
-      "maxInstallSize": 44505194496,
+      "maxInstallSize": 44508053504,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/valor-mortis/9P861V1542BL"
     },
@@ -56987,7 +57075,7 @@
       "hasDiscount": true,
       "discountPercent": 75,
       "rating": 4.3,
-      "ratingCount": 263,
+      "ratingCount": 264,
       "ageRating": 18,
       "pegiRating": "PEGI 18",
       "pegiDescription": "Apropiado a partir de 18 años",
@@ -57082,7 +57170,7 @@
       ],
       "videoUrl": "https://cdn.trailers.xboxservices.com/trailers/00000000-0000-0000-0000-000000000000/xbox/prod/videos/mainprofile/13865289401901694/e5a9d9ad-5308-40db-b3e4-8b3d510a4c1e/manifest.m3u8",
       "videoCaption": "Warhammer Survivors - Skulls Trailer",
-      "releaseDate": "9998-12-30",
+      "releaseDate": "2026-11-10",
       "categories": [
         "Acción y aventura"
       ],
@@ -57136,7 +57224,7 @@
           "recommended": ""
         }
       ],
-      "maxInstallSize": 1672544256,
+      "maxInstallSize": 1646813184,
       "hasAddOns": false,
       "storeUrl": "https://www.xbox.com/es-es/games/store/warhammer-survivors/9MZZWGTF7V65"
     },
@@ -58554,7 +58642,7 @@
       "id": "9NS86BQ33SPX",
       "title": "Wobbly Life",
       "description": "La abuelita te ha echado de casa para que te busques un trabajo en el gran mundo Wobbly. Se pondrá muy contenta si empiezas a ganar dinero y te compras una casa algún día.\n\n¡Hora de empezar a trabajar y aprovechar el tiempo en Wobbly Life!\n\nPartidas en línea de 1 a 4 jugadores y modo cooperativo local con pantalla dividida.\n\nUn sandbox de mundo abierto lleno de minijuegos, entretenimiento, secretos ¡y mucho más!\n\nMás de 100 misiones únicas y trabajos con recompensas exclusivas que podrás desbloquear en solitario o con tus amigos.\n\nMás de 90 vehículos que podrás conducir (¡y estrellar!).\n\nMás de 500 artículos de ropa para que presumas de estilazo.\n\n¡Diversión infinita!\n \nDIVERSIÓN, AMIGOS ¡Y FÍSICA!\n\n¡Vamos a explorar! Casi todo es interactivo, así que podrás agarrar, jugar y experimentar en un mundo lleno de objetos, minijuegos y sorpresas.\n\nDisfruta de las misiones individuales o comparte aventuras con hasta 3 jugadores más en los modos en línea o cooperativo local. ¡Todo en un mundo fantástico!\n\nMISTERIOS Y MISIONES\n\nEmbárcate en misiones de historia, en las que podrás conseguir recompensas únicas resolviendo rompecabezas y superando desafíos. Descubre los misterios de la isla tropical, los secretos de la montaña y los entresijos de las cuevas.\n\n¡Se han perdido los artefactos del Museo Wobbly! A lo mejor puedes ayudar... Compra mapas del tesoro y sigue las pistas para encontrar todos los tesoros perdidos y hacerte con fantásticas recompensas.\n\nCONSIGUE UN TRABAJO\n\nHaz que la abuelita esté orgullosa de ti. Elige de entre más de 40 trabajos, cada uno con sus desafíos específicos, y empieza a ganar dinero. Podrás repartir pizzas, entrar en el cuerpo de bomberos, conducir un taxi o bailar en la discoteca. ¡El trabajo de tus sueños te espera!\n\n¡VE AL ESPACIO! \n\nEl Programa Espacial Tambaleante está buscando nuevos reclutas. El espacio es un mundo abierto completamente nuevo, con trabajos, misiones y secretos por descubrir. Incluso podrás pilotar tu propia nave espacial. ¿Qué estás esperando?\n\nVIVE LA VIDA WOBBLY\n\nUna vez que tu cuenta del banco esté bien nutrida, ¡vete de compras! Visita la tienda de mascotas para encontrar a un amigo fiel, o elige entre más de 500 artículos de ropa y más de 90 vehículos.\n\nY si tu economía te lo permite, ¡incluso podrás comprarte una casa! En Isla Wobbly hay hogares para todos los gustos, desde chozas de madera hasta mansiones gigantes.\n\nPRUEBA EL MODO ARCADE\n\nSi quieres tomarte un descanso de Isla Wobbly, prueba el modo arcade y descubre otros 4 tipos de juegos, como el basurero, el escondite, Wobble Run y el sandbox. Cada uno tiene ajustes personalizables, un montón de minijuegos y zonas nuevas para que te diviertas.",
-      "shortDescription": "Wobbly Life, canlı bir aç��k dünya fizik sandbox oyunudur. Heyecan verici meslekler, mini oyunlar ve kaçık hikâye görevlerini arkadaşlarınla çevrimiçi veya yerel ağda eşli oyna. Bu dünyada kıyafet, araç ve ev almak için harcayacağın parayı kazan. Dışarıda keşfedilecek koca bir Wobbly Dünyası var!",
+      "shortDescription": "Wobbly Life, canlı bir açık dünya fizik sandbox oyunudur. Heyecan verici meslekler, mini oyunlar ve kaçık hikâye görevlerini arkadaşlarınla çevrimiçi veya yerel ağda eşli oyna. Bu dünyada kıyafet, araç ve ev almak için harcayacağın parayı kazan. Dışarıda keşfedilecek koca bir Wobbly Dünyası var!",
       "developer": "RubberBandGames",
       "publisher": "RubberBandGames",
       "imageUrl": "https://store-images.s-microsoft.com/image/apps.4650.14372274785244461.706c2fec-9d0d-41b1-843a-98970af758ca.88651a20-dfdb-4372-bf50-18485feb8c30",
@@ -60333,7 +60421,7 @@
           "recommended": "Controladora de Xbox"
         }
       ],
-      "maxInstallSize": 117810536448,
+      "maxInstallSize": 123687178240,
       "hasAddOns": true,
       "storeUrl": "https://www.xbox.com/es-es/games/store/zenless-zone-zero/9N4X0WFZ2STM"
     },
